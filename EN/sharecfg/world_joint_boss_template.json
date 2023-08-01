@@ -1,0 +1,427 @@
+{
+  "1": {
+    "boss_level_id": 1,
+    "description": [
+      [
+        "[Cards of Light and Dark]",
+        3,
+        "This ship can lay down special light and dark cards. The cards inflict area of effect damage."
+      ],
+      [
+        "[Silvergrass and the Pale Moon]",
+        2,
+        "This ship can generate a special field that fires high-damage energy balls."
+      ]
+    ],
+    "id": 1,
+    "item_id": 100000,
+    "meta_id": 970701,
+    "name": "Hiryuu META",
+    "p_offset": [
+      -36.45481,
+      717.0379
+    ],
+    "p_offset_other": [
+      411,
+      777
+    ],
+    "painting": "feilong",
+    "state": "always"
+  },
+  "2": {
+    "boss_level_id": 16,
+    "description": [
+      [
+        "[Renegade Sniper]",
+        1,
+        "This ship can conjure hovering cannons that fire at you."
+      ],
+      [
+        "[Shadow Skirmisher]",
+        2,
+        "This ship can spawn phantoms of mass-produced destroyers that fight alongside her."
+      ]
+    ],
+    "id": 2,
+    "item_id": 100000,
+    "meta_id": 970702,
+    "name": "Ark Royal META",
+    "p_offset": [
+      -36.45481,
+      629.5
+    ],
+    "p_offset_other": [
+      411,
+      574
+    ],
+    "painting": "huangjiafangzhou",
+    "state": "always"
+  },
+  "3": {
+    "boss_level_id": 31,
+    "description": [
+      [
+        "[Scanner Hacking]",
+        2,
+        "This ship can generate a special field. Ships within this field take more damage."
+      ],
+      [
+        "[Zeroth Quadrant Expansion -5%]",
+        1,
+        "This ship can generate a special field that affects the entire battlefield, increasing the damage both sides take."
+      ]
+    ],
+    "id": 3,
+    "item_id": 100000,
+    "meta_id": 970201,
+    "name": "Helena META",
+    "p_offset": [
+      -36.45481,
+      610.5,
+      0.95,
+      0.95
+    ],
+    "p_offset_other": [
+      296,
+      610,
+      0.95,
+      0.95
+    ],
+    "painting": "hailunna",
+    "state": "always"
+  },
+  "4": {
+    "boss_level_id": 46,
+    "description": [
+      [
+        "Akatan of Blossoming Flame",
+        3,
+        "This ship can lay down special cards that form chains of fire and explode."
+      ],
+      [
+        "Scorching Seas",
+        2,
+        "This ship can conjure flames across the screen, inflicting the Burn ailment to ships they come in contact with."
+      ]
+    ],
+    "id": 4,
+    "item_id": 100000,
+    "meta_id": 970703,
+    "name": "Souryuu META",
+    "p_offset": [
+      -36.45481,
+      610.5,
+      0.95,
+      0.95
+    ],
+    "p_offset_other": [
+      296,
+      610,
+      0.95,
+      0.95
+    ],
+    "painting": "canglong",
+    "state": "always"
+  },
+  "5": {
+    "boss_level_id": 61,
+    "description": [
+      [
+        "Seething Chains",
+        2,
+        "This ship can conjure binding chains, decreasing the SPD of ships they come in contact with."
+      ],
+      [
+        "Kaiser Torpedoes",
+        1,
+        "This ship can fire supermassive underwater torpedoes that inflict huge damage to Main Fleet ships they come in contact with."
+      ]
+    ],
+    "id": 5,
+    "item_id": 100000,
+    "meta_id": 970401,
+    "name": "Gneisenau META",
+    "p_offset": [
+      -58.2,
+      634.2
+    ],
+    "p_offset_other": [
+      480,
+      635
+    ],
+    "painting": "genaisennao",
+    "state": "always"
+  },
+  "6": {
+    "boss_level_id": 76,
+    "description": [
+      [
+        "Iron Whip",
+        2,
+        "This ship can fire a special spinning barrage."
+      ],
+      [
+        "Kaiser Torpedoes",
+        1,
+        "This ship can fire supermassive underwater torpedoes that inflict huge damage to Main Fleet ships they come in contact with."
+      ]
+    ],
+    "id": 6,
+    "item_id": 100000,
+    "meta_id": 970402,
+    "name": "Scharnhorst META",
+    "p_offset": [
+      -58.2,
+      634.2
+    ],
+    "p_offset_other": [
+      480,
+      635
+    ],
+    "painting": "shaenhuosite",
+    "state": "always"
+  },
+  "7": {
+    "boss_level_id": 91,
+    "description": [
+      [
+        "Repulsing Pyrotechnics",
+        3,
+        "When the battle starts, this ship can create 3 barriers that reduce the damage she takes. \n<color=#92fc63>Every time your ships fire torpedoes, a main gun volley, or launch an airstrike, the barrier counter increases by 1, 2, and 2, respectively. Every time the barrier counter reaches 6, 1 barrier is negated.</color>"
+      ],
+      [
+        "Repulse's Resolve",
+        1,
+        "Each time a \"Repulsing Pyrotechnics\" barrier is negated, this ship's damage dealt increases and her attack pattern changes. \n<color=#92fc63>Once all barriers have been negated, this ship will enter a ferocious attack phase.</color>"
+      ],
+      [
+        "Heart of Lava",
+        2,
+        "This ship can launch huge lava projectiles, inflicting huge damage to Main Fleet ships they come in contact with as well as rendering aircraft carriers Detected."
+      ]
+    ],
+    "id": 7,
+    "item_id": 100000,
+    "meta_id": 970403,
+    "name": "Repulse META",
+    "p_offset": [
+      -28.2,
+      609.2,
+      0.95,
+      0.95
+    ],
+    "p_offset_other": [
+      510,
+      611.2,
+      0.95,
+      0.95
+    ],
+    "painting": "fanji",
+    "state": "stop"
+  },
+  "8": {
+    "boss_level_id": 106,
+    "description": [
+      [
+        "Meteor Shower",
+        3,
+        "This ship can launch a special barrage consisting of meteors."
+      ],
+      [
+        "Ashen Might - Storm",
+        1,
+        "This ship can execute a charged attack. Every time this attack goes off without being interrupted, this ship's damage dealt increases. \n<color=#92fc63>The second time this attack is successfully executed, this ship's attack pattern changes and her ACC and damage dealt increases, but her damage taken increases.</color>"
+      ],
+      [
+        "Ashen Might - Lull",
+        1,
+        "Every time this ship's charged attack is interrupted as a result of damage from your ships, a portion of this ship's HP is restored and her damage taken is decreased. \n<color=#92fc63>The second time this attack is interrupted, this ship's attack pattern changes and her damage taken decreases, but her ACC and damage dealt decreases.</color>"
+      ],
+      [
+        "Heart of Lava",
+        2,
+        "This ship can launch huge lava projectiles, inflicting huge damage to Main Fleet ships they come in contact with as well as rendering aircraft carriers Detected."
+      ]
+    ],
+    "id": 8,
+    "item_id": 100000,
+    "meta_id": 970404,
+    "name": "Renown META",
+    "p_offset": [
+      -49.8,
+      589.5,
+      0.9,
+      0.9
+    ],
+    "p_offset_other": [
+      388,
+      586.2,
+      0.9,
+      0.9
+    ],
+    "painting": "shengwang",
+    "state": "stop"
+  },
+  "9": {
+    "boss_level_id": 121,
+    "description": [
+      [
+        "Contagious Lament",
+        2,
+        "This ship summons a blue fog during battle. Ships inside this fog have reduced SPD and take more DMG.\nThe fog's debuffs <color=#92fc63>become stronger the longer your ships remain inside the fog</color>. The debuffs gradually disappear once your ships exit the fog."
+      ],
+      [
+        "Sea of Black Tears",
+        1,
+        "When an enemy ship's max HP falls below 50.0%, she begins recovering HP for the rest of the battle.\nWhen an enemy ship's max HP falls below 20.0%, <color=#92fc63>all her HP recovery will instead be dealt as DMG.</color>"
+      ]
+    ],
+    "id": 9,
+    "item_id": 100000,
+    "meta_id": 970503,
+    "name": "Arizona META",
+    "p_offset": [
+      -49.8,
+      589.5,
+      0.9,
+      0.9
+    ],
+    "p_offset_other": [
+      388,
+      586.2,
+      0.9,
+      0.9
+    ],
+    "painting": "yalisangna",
+    "state": [
+      [
+        [
+          2022,
+          12,
+          8
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2023,
+          3,
+          8
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ]
+  },
+  "10": {
+    "boss_level_id": 136,
+    "description": [
+      [
+        "Dominion Expansion",
+        1,
+        "This ship exerts a field of dominion and summons Phantom Knights during battle. <color=#92fc63>The Phantom Knights are resistant to attacks from non-META ships</color>. \nOnce all Phantom Knights have been defeated, this ship <color=#92fc63>becomes weaker</color> and permanently takes increased DMG."
+      ],
+      [
+        "META Affinity",
+        2,
+        "This ship takes more DMG from your META ships, but also deals more DMG to your non-META ships."
+      ]
+    ],
+    "id": 10,
+    "item_id": 100000,
+    "meta_id": 970504,
+    "name": "Queen Elizabeth META",
+    "p_offset": [
+      -118.8,
+      589.5,
+      0.9,
+      0.9
+    ],
+    "p_offset_other": [
+      388,
+      586.2,
+      0.9,
+      0.9
+    ],
+    "painting": "yilishabainvwang",
+    "state": "stop"
+  },
+  "11": {
+    "boss_level_id": 151,
+    "description": [
+      [
+        "Pillar of Sin",
+        3,
+        "When the battle starts: summons 4 [Pillars of Sin] that reduces DMG taken by Algérie META by 40.0%.\nWhen any [Pillar of Sin] takes DMG: <color=#92fc63>20.0% of that DMG is instead redirected to Algérie META</color>."
+      ],
+      [
+        "Expurgating Flame",
+        1,
+        "Algérie META's attacks inflict a special [Expurgating Flame] <color=#92fc63>Burn</color> status that deals high fixed DMG over a short duration.\nAdditionally, every 8s: inflicts [Expurgating Flame] on the target with <color=#92fc63>the lowest HP percentage</color>. This effect ignores the Main Fleet's Detection status."
+      ]
+    ],
+    "id": 11,
+    "item_id": 100000,
+    "meta_id": 970302,
+    "name": "Algérie META",
+    "p_offset": [
+      -7,
+      685,
+      0.9,
+      0.9
+    ],
+    "p_offset_other": [
+      659,
+      684.2,
+      0.9,
+      0.9
+    ],
+    "painting": "aerjiliya",
+    "state": [
+      [
+        [
+          2023,
+          6,
+          8
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2023,
+          8,
+          31
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ]
+  },
+  "all": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+  ]
+}
