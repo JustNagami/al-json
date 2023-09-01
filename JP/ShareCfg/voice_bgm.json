@@ -215,13 +215,13 @@
     "special_bgm": "",
     "time": ""
   },
-  "CommandRoomScene": {
+  "CommanderInfoScene": {
     "bgm": "backyard",
     "default_bgm": "backyard",
     "special_bgm": "",
     "time": ""
   },
-  "CommanderInfoScene": {
+  "CommandRoomScene": {
     "bgm": "backyard",
     "default_bgm": "backyard",
     "special_bgm": "",
@@ -251,18 +251,6 @@
     "special_bgm": "",
     "time": ""
   },
-  "DOALinkIslandScene": {
-    "bgm": "doa_story1",
-    "default_bgm": "doa_story1",
-    "special_bgm": "",
-    "time": ""
-  },
-  "DOAPPMiniGameView": {
-    "bgm": "doa_minigame",
-    "default_bgm": "doa_minigame",
-    "special_bgm": "",
-    "time": ""
-  },
   "DailyLevelScene": {
     "bgm": "level",
     "default_bgm": "level",
@@ -278,6 +266,18 @@
   "DexiV5PtPage": {
     "bgm": "theme-bismark-reborn",
     "default_bgm": "theme-bismark-reborn",
+    "special_bgm": "",
+    "time": ""
+  },
+  "DOALinkIslandScene": {
+    "bgm": "doa_story1",
+    "default_bgm": "doa_story1",
+    "special_bgm": "",
+    "time": ""
+  },
+  "DOAPPMiniGameView": {
+    "bgm": "doa_minigame",
+    "default_bgm": "doa_minigame",
     "special_bgm": "",
     "time": ""
   },
@@ -479,6 +479,12 @@
     "special_bgm": "",
     "time": ""
   },
+  "NewMeixiV4frameRePage": {
+    "bgm": "hunhe-story",
+    "default_bgm": "hunhe-story",
+    "special_bgm": "",
+    "time": ""
+  },
   "NewMeixiV4MainPage": {
     "bgm": "hunhe-eagle",
     "default_bgm": "hunhe-eagle",
@@ -503,12 +509,6 @@
     "special_bgm": "",
     "time": ""
   },
-  "NewMeixiV4frameRePage": {
-    "bgm": "hunhe-story",
-    "default_bgm": "hunhe-story",
-    "special_bgm": "",
-    "time": ""
-  },
   "NewPlayerScene": {
     "bgm": "main",
     "default_bgm": "main",
@@ -527,6 +527,12 @@
     "special_bgm": "",
     "time": ""
   },
+  "NewyearFestivalScene": {
+    "bgm": "newyear2",
+    "default_bgm": "newyear2",
+    "special_bgm": "",
+    "time": ""
+  },
   "NewYearFestivalScene2": {
     "bgm": "newyear2",
     "default_bgm": "newyear2",
@@ -536,12 +542,6 @@
   "NewYearHotSpringScene": {
     "bgm": "bar-soft",
     "default_bgm": "bar-soft",
-    "special_bgm": "",
-    "time": ""
-  },
-  "NewyearFestivalScene": {
-    "bgm": "newyear2",
-    "default_bgm": "newyear2",
     "special_bgm": "",
     "time": ""
   },
@@ -590,36 +590,6 @@
   "RyzaUrbanAreaScene": {
     "bgm": "ryza-4",
     "default_bgm": "ryza-4",
-    "special_bgm": "",
-    "time": ""
-  },
-  "SSSSCollectPage": {
-    "bgm": "ssss-az-pv",
-    "default_bgm": "ssss-az-pv",
-    "special_bgm": "",
-    "time": ""
-  },
-  "SSSSLinkAcademyScene": {
-    "bgm": "ssss-1114A",
-    "default_bgm": "ssss-az-pv",
-    "special_bgm": "",
-    "time": ""
-  },
-  "SSSSMainPage": {
-    "bgm": "ssss-1114A",
-    "default_bgm": "ssss-az-pv",
-    "special_bgm": "",
-    "time": ""
-  },
-  "SSSSMedalCollectionView": {
-    "bgm": "Bsm-2",
-    "default_bgm": "bsm-2",
-    "special_bgm": "",
-    "time": ""
-  },
-  "SSSSPtPage": {
-    "bgm": "ssss-az-story",
-    "default_bgm": "ssss-az-story",
     "special_bgm": "",
     "time": ""
   },
@@ -692,6 +662,36 @@
   "SpringFestivalTownScene2": {
     "bgm": "main-chunjie2",
     "default_bgm": "main-chunjie2",
+    "special_bgm": "",
+    "time": ""
+  },
+  "SSSSCollectPage": {
+    "bgm": "ssss-az-pv",
+    "default_bgm": "ssss-az-pv",
+    "special_bgm": "",
+    "time": ""
+  },
+  "SSSSLinkAcademyScene": {
+    "bgm": "ssss-1114A",
+    "default_bgm": "ssss-az-pv",
+    "special_bgm": "",
+    "time": ""
+  },
+  "SSSSMainPage": {
+    "bgm": "ssss-1114A",
+    "default_bgm": "ssss-az-pv",
+    "special_bgm": "",
+    "time": ""
+  },
+  "SSSSMedalCollectionView": {
+    "bgm": "Bsm-2",
+    "default_bgm": "bsm-2",
+    "special_bgm": "",
+    "time": ""
+  },
+  "SSSSPtPage": {
+    "bgm": "ssss-az-story",
+    "default_bgm": "ssss-az-story",
     "special_bgm": "",
     "time": ""
   },

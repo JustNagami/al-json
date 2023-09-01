@@ -22,8 +22,8 @@
         "type": 2
       },
       {
-        "FX_ID": "haidihuoshan_baofa",
         "delay": 3.5,
+        "FX_ID": "haidihuoshan_baofa",
         "reload_time": 4,
         "scaleRate": 1,
         "type": 1
@@ -99,8 +99,8 @@
         "type": 3
       },
       {
-        "SFX_ID": "battle/cannon-356mm",
         "reload_time": 0.5,
+        "SFX_ID": "battle/cannon-356mm",
         "type": 7
       }
     ],
@@ -128,20 +128,20 @@
         "offset_time": 0,
         "reload_time": 1.2,
         "rounds": 10,
-        "route": {
-          "1": {
+        "route": [
+          {
             "count": 7
           },
-          "2": {
+          {
             "count": 7
           },
-          "3": {
+          {
             "count": 7
           },
-          "4": {
+          {
             "count": 7
           }
-        },
+        ],
         "type": 6
       }
     ],
@@ -1559,23 +1559,23 @@
         "offset_time": 0,
         "reload_time": 8,
         "rounds": 5,
-        "route": {
-          "1": {
+        "route": [
+          {
             "count": 3
           },
-          "2": {
+          {
             "count": 3
           },
-          "3": {
+          {
             "count": 3
           },
-          "4": {
+          {
             "count": 3
           },
-          "5": {
+          {
             "count": 3
           }
-        },
+        ],
         "type": 6
       }
     ],
@@ -1603,14 +1603,14 @@
         "offset_time": 0,
         "reload_time": 3,
         "rounds": 2,
-        "route": {
-          "1": {
+        "route": [
+          {
             "count": 1
           },
-          "2": {
+          {
             "count": 2
           }
-        },
+        ],
         "type": 6
       }
     ],

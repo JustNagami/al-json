@@ -301,13 +301,15 @@
     "key_value": 0
   },
   "coloring_story": {
-    "description": {
-      "1": "ANSHAN01",
-      "2": "ANSHAN02",
-      "3": "ANSHAN03",
-      "5": "ANSHAN04",
-      "7": "ANSHAN05"
-    },
+    "description": [
+      "ANSHAN01",
+      "ANSHAN02",
+      "ANSHAN03",
+      null,
+      "ANSHAN04",
+      null,
+      "ANSHAN05"
+    ],
     "key_value": 0
   },
   "commander_ability_limit": {
@@ -2215,6 +2217,14 @@
   "world_movepower_recovery_interval": {
     "description": "",
     "key_value": 600
+  },
+  "world_newshop_date": {
+    "description": [
+      2023,
+      9,
+      1
+    ],
+    "key_value": 0
   },
   "world_planning_stop_event": {
     "description": [

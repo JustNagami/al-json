@@ -1339,6 +1339,11 @@
     "itemid": 21911,
     "name": "synchronize_aerjiliya"
   },
+  "3013": {
+    "id": 3013,
+    "itemid": 21912,
+    "name": "synchronize_shentong"
+  },
   "3106": {
     "id": 3106,
     "itemid": 59107,
@@ -1713,6 +1718,7 @@
     3010,
     3011,
     3012,
+    3013,
     3106,
     3137,
     4001,
@@ -1736,36 +1742,6 @@
     30853
   ],
   "get_id_list_by_name": {
-    "Battlepass_10": [
-      4010
-    ],
-    "Battlepass_11": [
-      4011
-    ],
-    "Battlepass_12": [
-      4012
-    ],
-    "Battlepass_9": [
-      4009
-    ],
-    "British_pt": [
-      119
-    ],
-    "DOApt": [
-      177
-    ],
-    "DOApt_2": [
-      315
-    ],
-    "TWkaifuPT": [
-      3137
-    ],
-    "TWkaifuPT1": [
-      207
-    ],
-    "Twouxiang_pt": [
-      40275
-    ],
     "battery": [
       101
     ],
@@ -1802,6 +1778,18 @@
     "battlepass_8": [
       4008
     ],
+    "Battlepass_9": [
+      4009
+    ],
+    "Battlepass_10": [
+      4010
+    ],
+    "Battlepass_11": [
+      4011
+    ],
+    "Battlepass_12": [
+      4012
+    ],
     "bili_pt": [
       129
     ],
@@ -1816,6 +1804,9 @@
     ],
     "bisimai_pt2": [
       166
+    ],
+    "British_pt": [
+      119
     ],
     "bsmz_pt": [
       351
@@ -1853,23 +1844,23 @@
     "contribution_worldboss127": [
       2010
     ],
-    "contribution_worldboss230629": [
-      2018
-    ],
     "contribution_worldboss624": [
       2006
     ],
     "contribution_worldboss630": [
       2012
     ],
-    "contribution_worldboss6301": [
-      2014
-    ],
     "contribution_worldboss708": [
       2008
     ],
     "contribution_worldboss926": [
       2002
+    ],
+    "contribution_worldboss6301": [
+      2014
+    ],
+    "contribution_worldboss230629": [
+      2018
     ],
     "daofeng_pt": [
       219
@@ -1897,6 +1888,12 @@
     ],
     "dexiv4framept": [
       230
+    ],
+    "DOApt": [
+      177
+    ],
+    "DOApt_2": [
+      315
     ],
     "dormMoney": [
       6
@@ -1967,11 +1964,11 @@
     "grace": [
       105
     ],
-    "guildCoin": [
-      8
-    ],
     "guild_boss_damage": [
       3000
+    ],
+    "guildCoin": [
+      8
     ],
     "gulite_pt": [
       227
@@ -2153,8 +2150,50 @@
     "shinanoframept": [
       169
     ],
+    "skin_rerun_pt": [
+      100004
+    ],
+    "skin_rerun_pt1": [
+      4186
+    ],
+    "skin_rerun_pt1jp": [
+      4276
+    ],
+    "skin_rerun_pt_2022": [
+      4599
+    ],
+    "skin_rerun_pt_jp2023": [
+      4699
+    ],
+    "skin_rerun_pt_us2022": [
+      30853
+    ],
     "skinTicket": [
       125
+    ],
+    "skinTicket2": [
+      136
+    ],
+    "skinTicket3": [
+      144
+    ],
+    "skinTicket4": [
+      150
+    ],
+    "skinTicket5": [
+      153
+    ],
+    "skinTicket6": [
+      160
+    ],
+    "skinTicket7": [
+      164
+    ],
+    "skinTicket8": [
+      167
+    ],
+    "skinTicket9": [
+      170
     ],
     "skinTicket10": [
       173
@@ -2186,9 +2225,6 @@
     "skinTicket19": [
       209
     ],
-    "skinTicket2": [
-      136
-    ],
     "skinTicket20": [
       216
     ],
@@ -2218,9 +2254,6 @@
     ],
     "skinTicket29": [
       241
-    ],
-    "skinTicket3": [
-      144
     ],
     "skinTicket30": [
       244
@@ -2252,9 +2285,6 @@
     "skinTicket39": [
       282
     ],
-    "skinTicket4": [
-      150
-    ],
     "skinTicket40": [
       284
     ],
@@ -2285,9 +2315,6 @@
     "skinTicket49": [
       352
     ],
-    "skinTicket5": [
-      153
-    ],
     "skinTicket50": [
       357
     ],
@@ -2300,38 +2327,8 @@
     "skinTicket55": [
       366
     ],
-    "skinTicket6": [
-      160
-    ],
-    "skinTicket7": [
-      164
-    ],
-    "skinTicket8": [
-      167
-    ],
-    "skinTicket9": [
-      170
-    ],
     "skinTicketkr": [
       952
-    ],
-    "skin_rerun_pt": [
-      100004
-    ],
-    "skin_rerun_pt1": [
-      4186
-    ],
-    "skin_rerun_pt1jp": [
-      4276
-    ],
-    "skin_rerun_pt_2022": [
-      4599
-    ],
-    "skin_rerun_pt_jp2023": [
-      4699
-    ],
-    "skin_rerun_pt_us2022": [
-      30853
     ],
     "sofmap_pt": [
       146
@@ -2369,6 +2366,9 @@
     "synchronize_shaenhuosite": [
       3007
     ],
+    "synchronize_shentong": [
+      3013
+    ],
     "synchronize_yalisangna": [
       3010
     ],
@@ -2383,6 +2383,15 @@
     ],
     "twhongran_pt": [
       3106
+    ],
+    "TWkaifuPT": [
+      3137
+    ],
+    "TWkaifuPT1": [
+      207
+    ],
+    "Twouxiang_pt": [
+      40275
     ],
     "union2_pt": [
       135
@@ -2432,9 +2441,6 @@
     "worldboss127_ticket": [
       2011
     ],
-    "worldboss230629_ticket": [
-      2019
-    ],
     "worldboss624_ticket": [
       2007
     ],
@@ -2449,6 +2455,9 @@
     ],
     "worldboss926_ticket": [
       2003
+    ],
+    "worldboss230629_ticket": [
+      2019
     ],
     "wwf2": [
       190
@@ -2549,12 +2558,6 @@
     "xunliandianshu_yv2": [
       162
     ],
-    "yidaliV2": [
-      304
-    ],
-    "yidaliV2_pt": [
-      196
-    ],
     "yidali_pt": [
       133
     ],
@@ -2567,8 +2570,14 @@
     "yidalisp_pt": [
       243
     ],
+    "yidaliV2": [
+      304
+    ],
     "yidaliv2_frame": [
       193
+    ],
+    "yidaliV2_pt": [
+      196
     ],
     "yidaliv3_pt": [
       271
