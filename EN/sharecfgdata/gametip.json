@@ -384,6 +384,60 @@
   "air_supremacy_value": {
     "tip": "Air Control Degree"
   },
+  "airi_error_code_ 100210": {
+    "tip": "TW Failed to authorize, unable to login"
+  },
+  "airi_error_code_ 100211": {
+    "tip": "TW Unable to login, please bind your account first"
+  },
+  "airi_error_code_ 100212": {
+    "tip": "TW Login verification failed."
+  },
+  "airi_error_code_ 100610": {
+    "tip": "TW Failed to authorize, unable to bind"
+  },
+  "airi_error_code_ 100611": {
+    "tip": "TW Already binded to another user"
+  },
+  "airi_error_code_ 100612": {
+    "tip": "TW Login verification failed, unable to bind"
+  },
+  "airi_error_code_ 100710": {
+    "tip": "TW Failed to authorize, unable to unbind"
+  },
+  "airi_error_code_ 100711": {
+    "tip": "TW The account is not binded to any user"
+  },
+  "airi_error_code_ 100712": {
+    "tip": "TW Invalid login verification, unable to unbind"
+  },
+  "airi_error_code_ 100810": {
+    "tip": "FB Failed to authorize, unable to login"
+  },
+  "airi_error_code_ 100811": {
+    "tip": "FB Unable to login, please bind your account first"
+  },
+  "airi_error_code_ 100812": {
+    "tip": "FB Login verification failed, unable to login"
+  },
+  "airi_error_code_ 100813": {
+    "tip": "FB Failed to authorize, unable to bind"
+  },
+  "airi_error_code_ 100814": {
+    "tip": "FB Already binded to another user"
+  },
+  "airi_error_code_ 100815": {
+    "tip": "FB Login verification failed, unable to bind"
+  },
+  "airi_error_code_ 100816": {
+    "tip": "FB Failed to authorize, unable to unbind"
+  },
+  "airi_error_code_ 100817": {
+    "tip": "FB The account is not binded to any user"
+  },
+  "airi_error_code_ 100818": {
+    "tip": "FB Login verification failed, unable to unbind"
+  },
   "already_have_the_skin": {
     "tip": "You already own this skin."
   },
@@ -1648,6 +1702,15 @@
   "battle_text_yingxiv4_10": {
     "tip": "The Horseman is <color=#f1f102>weakened</color>! Focus fire!"
   },
+  "battle_text_yunxian_1": {
+    "tip": "The Shadow of Corruption is storing power! Attack the mist dragon to weaken the enemy!"
+  },
+  "battle_text_yunxian_2": {
+    "tip": "Some of the dark mist has been purged! The Shadow of Corruption's defenses have weakened."
+  },
+  "battle_text_yunxian_3": {
+    "tip": "You've struck the core! The shipgirl shades are starting to collapse."
+  },
   "battlepass_acquire_attention": {
     "tip": "The Cruise Missions campaign season ends in $1 d $2 hr. You haven't received these rewards yet: "
   },
@@ -1738,6 +1801,13 @@
       }
     ]
   },
+  "battlepass_main_help_2310": {
+    "tip": [
+      {
+        "info": "Cruise Missions Seasonal Campaign\n10/1 00:00 – 11/30 23:59\n\n- Overview -\n\"Cruise Missions\" is a seasonal campaign where you can complete special missions, collect Progress Pts., and obtain great rewards for reaching certain Progress milestones.\nAdditionally, you can unlock an additional set of \"Fair Winds Cruise\" rewards by purchasing the \"Fair Winds Cruise Pass\" item from Akashi's shop.\nPrinceton META will be obtainable from the regular Cruise Missions rewards. By upgrading to the Fair Winds Cruise, you will also be able to obtain an exclusive outfits for U-410, \"Practice Makes Perfect\"\n\n- How to Play -\n· Two types of missions will be released at the same time at the start of the campaign season:\na) Weekly Missions - Missions unlocked in batches every 7 days during the campaign season, for a total of 8 batches.\nb) Seasonal Missions - One set of missions available for the entire campaign season, available from the start of the season.\n· All of the above Season Missions are automatically active, and when you open the Season Missions menu, you will automatically obtain Progress Pts. for any missions you've completed.\n· If you purchase a Fair Winds Cruise Pass, you will automatically receive 15 levels worth of progress (1500 Progress Pts).\n· You can receive rewards for reaching certain Progress milestones. There are two types of rewards:\na) Cruise Rewards - Rewards that can be obtained based on the total number of accumulated Progress Pts. There are a total of 100 levels.\nb) Fair Winds Rewards - An additional set of rewards that will be unlocked when you purchase a Fair Winds Cruise Pass. As with the regular Cruise Rewards, there are a total of 100 levels, and they can be collected alongside Cruise Rewards at the same Progress level.\n· When the campaign season ends, your Progress Pts will be reset.\n\n- Tips - \n· Play at your own pace\nCruise Missions have a total of 100 Progress levels, and are not meant to be cleared in one session. We recommend that you complete them at your own pace.\n\n· Fair Winds Cruise Pass\nIf. you purchase a Fair Winds Cruise Pass from Akashi's shop, you will automatically earn 1500 Progress Pts and unlock access to valuable rewards. Furthermore, there is an exclusive outfit available only through the Fair Winds rewards, so please plan accordingly.\n\n· Skipping Missions (not recommended)\nYou can purchase and use Cruise Mission Vouchers to automatically complete missions and receive the corresponding amount of Progress Pts. Tap the arrow button next to a mission on the Mission List to automatically complete it.\nWe do not recommend this because this costs Gems, whereas you are able to complete Cruise Missions normally.\nAny purchased Cruise Mission Vouchers will remain even after the campaign season ends."
+      }
+    ]
+  },
   "battlepass_main_time": {
     "tip": "$1 d $2 hr"
   },
@@ -1785,6 +1855,9 @@
   },
   "battlepass_main_tip_2308": {
     "tip": "Complete Cruise Missions between 8/1-9/30 to receive <color=#854748>Hatakaze META</color> and other rewards!"
+  },
+  "battlepass_main_tip_2310": {
+    "tip": "Complete Cruise Missions between 10/1-11/30 to receive <color=#854748>Princeton META</color> and other rewards!"
   },
   "battlepass_pay_acquire": {
     "tip": "Buy Now to Get:"
@@ -2195,7 +2268,7 @@
     "tip": "Hermione added to the standard build pool!"
   },
   "buildship_new_tip": {
-    "tip": "Rate UP for Clemenceau, Guichen, and more!"
+    "tip": "Get Unzen guaranteed with every 200 event builds (can be done up to 4 times)!"
   },
   "buildship_special_tip": {
     "tip": "Perseus and Eagle added to standard build pool!"
@@ -2300,6 +2373,21 @@
   },
   "cannot_build_multiple_printblue": {
     "tip": "Would you like to pause <color=#92fc63>$1</color>'s development and start on <color=#92fc63>$2</color> instead? Your development progress will be saved.\nOnce you start or resume development, you can not change which ship to develop for <color=#92fc63>24 hours</color>. "
+  },
+  "card_battle_card details": {
+    "tip": "View Details"
+  },
+  "card_battle_card details_deck": {
+    "tip": "Command Deck"
+  },
+  "card_battle_card details_hand": {
+    "tip": "Selected Command"
+  },
+  "card_battle_card details_switchto_deck": {
+    "tip": "View Deck"
+  },
+  "card_battle_card details_switchto_hand": {
+    "tip": "View Commands"
   },
   "card_battle_card_empty_ch": {
     "tip": "There are no Command cards in your deck."
@@ -3114,6 +3202,9 @@
   "common_activity_notStartOrEnd": {
     "tip": "This event <color=#92fc63>has not yet started</color> or <color=#92fc63>has already ended</color>"
   },
+  "common_already owned": {
+    "tip": "Have"
+  },
   "common_buy_gold_success": {
     "tip": "Successfully purchased <color=#92fc63>$1</color> Coins! "
   },
@@ -3513,6 +3604,13 @@
     ]
   },
   "cruise_task_help_2308": {
+    "tip": [
+      {
+        "info": "- Regarding Cruise Missions - \n· Two types of missions will be released at the same time at the start of the campaign season:\na) Weekly Missions - Missions unlocked in batches every 7 days during the campaign season, for a total of 8 batches.\nb) Seasonal Missions - One set of missions available for the entire campaign season, available from the start of the season.\n\n· All of the above Season Missions are automatically active, and when you open the Season Missions menu, you will automatically obtain Progress Pts. for any missions you've completed.\n\n· You can purchase and use Cruise Mission Vouchers to automatically complete missions and receive the corresponding amount of Progress Pts. Tap the arrow button next to a mission on the Mission List to automatically complete it.\nWe do not recommend this because this costs Gems, whereas you are able to complete Cruise Missions normally.\nAny purchased Cruise Mission Vouchers will remain even after the campaign season ends."
+      }
+    ]
+  },
+  "cruise_task_help_2310": {
     "tip": [
       {
         "info": "- Regarding Cruise Missions - \n· Two types of missions will be released at the same time at the start of the campaign season:\na) Weekly Missions - Missions unlocked in batches every 7 days during the campaign season, for a total of 8 batches.\nb) Seasonal Missions - One set of missions available for the entire campaign season, available from the start of the season.\n\n· All of the above Season Missions are automatically active, and when you open the Season Missions menu, you will automatically obtain Progress Pts. for any missions you've completed.\n\n· You can purchase and use Cruise Mission Vouchers to automatically complete missions and receive the corresponding amount of Progress Pts. Tap the arrow button next to a mission on the Mission List to automatically complete it.\nWe do not recommend this because this costs Gems, whereas you are able to complete Cruise Missions normally.\nAny purchased Cruise Mission Vouchers will remain even after the campaign season ends."
@@ -4885,7 +4983,7 @@
     "tip": "Surface"
   },
   "formationScene_use_oil_limit_tip": {
-    "tip": "Clearing Mode Cost Limit"
+    "tip": "Cost Limit:"
   },
   "formationScene_use_oil_limit_tip_worldboss": {
     "tip": "Cost Limit:"
@@ -5417,6 +5515,9 @@
   },
   "guild_donate_techpoint_toplimit": {
     "tip": "You are unable to contribute any more Tech Points today. "
+  },
+  "guild_donate_times_not enough": {
+    "tip": "Today’s contribution attempts have been used up."
   },
   "guild_donate_tip": {
     "tip": "You are about to contribute <color=#92FC63FF>$2 $1</color> to the Guild (Currently held: <color=$4>$3</color>). Are you sure you want to continue?"
@@ -8150,6 +8251,37 @@
       }
     ]
   },
+  "help_supportfleet": {
+    "tip": {
+      "1": {
+        "icon": {
+          "atlas": "helpbg/supportfleet_help1",
+          "path": ""
+        }
+      },
+      "2": {
+        "icon": {
+          "atlas": "helpbg/supportfleet_help2",
+          "path": ""
+        }
+      },
+      "defaultpage": 1,
+      "disableScroll": true,
+      "helpSize": {
+        "x": 1176,
+        "y": 1024
+      },
+      "ImageMode": true,
+      "pageMode": true,
+      "windowPos": {
+        "y": -70
+      },
+      "windowSize": {
+        "x": 1263,
+        "y": 873
+      }
+    }
+  },
   "help_technolog": {
     "tip": {
       "1": {
@@ -8377,7 +8509,7 @@
   "hotspring_help": {
     "tip": [
       {
-        "info": "- Open-Air Bath Overview -\nEvent lasts between <color=#92fc63>May 25th to June 21st</color>.\n\nPlacing your shipgirls in the Open-Air Bath allows them to recover Morale at a faster rate than normal.\nThis feature unlocks after you clear all the associated daily missions unlocked up to May 29th.\nThe items you need to complete the missions can be made at the Crafting Station.\n\n- Details -\nYou can add or remove shipgirls from the bath by tapping the button in the top right corner of the screen, or by selecting and holding the spots your shipgirls are sat in."
+        "info": "- Overview - \nThe Open-Air Onsen in the Youkai Resort campaign is available between <color=#92fc63>September 14th and October 4th, 23:59</color>.\n1. Add your shipgirls to the onsen's bathing slots to let them recover mood more quickly.\n2. You can drag and drop shipgirls in the water to change their position.\n3. Play The Spiriting-Away Incident? minigame to receive <color=#92fc63>Onsen Notes</color>. You can get 4 in total.\n4. Use these notes at the onsen to expand it, unlocking additional bathing slots for your shipgirls."
       }
     ]
   },
@@ -8980,6 +9112,35 @@
   "jiujiu_expedition_stg_tip": {
     "tip": "Unlocks after you clear the previous stage."
   },
+  "jp6th_biaohoushan_help": {
+    "tip": [
+      {
+        "info": "- Overview -\nThe Youkai Resort campaign lasts between <color=#92fc63>September 14th and October 4th, 23:59</color>.\nTap the Minigame button on the Youkai Resort main screen to play the minigame and read a separate event story!\n\n- Details -\n1. Minigame\nTap the Minigame button on the Youkai Resort main screen to head to The Spiriting-Away Incident? minigame screen.\nThis minigame has special missions and event stages associated with it, with new ones unlocking daily up to September 20th. There is also a shop you can buy items from.\nComplete the special missions by accomplishing specific tasks within the minigame and you'll also receive rewards.\nLastly, you can use the points you've gained by playing the minigame to unlock other characters and buy exclusive furniture and gear skin boxes.\n\n2. Open-Air Onsen\nTap the Open-Air Onsen button to travel to the hot springs screen.\nPlacing your shipgirls in the bathing slots lets them recover their mood more quickly.\nYou can also expand the onsen by using Onsen Notes, which are obtained through playing the minigame.\n\n3. Limited Construction\nTap this button to go to the event build screen.\n\n4. New Outfits\nTap this button to visit the skins shop.\n"
+      }
+    ]
+  },
+  "jp6th_lihoushan_help": {
+    "tip": [
+      {
+        "info": "- Overview -\nDuring The Spiriting-Away Incident? mini-event, there are rewards you can earn by playing the minigame to earn Youkai Talismans which can be traded for rewards. You will also gain clearing rewards from finishing cases.\nA new case will be unlocked every day up to September 20th. Finishing every case will unlock the endless mode.\nThis mini-event is available between <color=#92fc63>September 14th and October 4th, 23:59</color>.\n\n- Rewards -\n1. Using the Youkai Talismans you earned from playing the minigame, you can exchange for items in the shop, such as limited furniture, gear skin boxes, and new characters to use in the minigame.\n2. You receive 1 gear skin box the first time you clear each case of the minigame. Additionally, you'll also receive an Onsen Note, used to level up the Open-Air Onsen, the first time you clear cases 1, 3, 5, and 7.\n3. Completing the 7th case will award you the exclusive furniture Aoandon.\n\n- How to Play -\n· Tap and hold on the minigame screen to fire talismans using your chosen character.\nOnce a talisman hits the youkai procession, it will add a youkai of the same color as the talisman to the procession; line up three youkai of the same color to repel them.\n· Youkai will slowly come in from off the screen and follow the line until they reach the end goal.\nThe game ends either when you've repelled enough youkai that no more come in, or when the youkai reach the end goal.\n· There are three play modes: regular cases (7 in total), a one-time special case (the interlude), and endless mode, where youkai will keep appearing indefinitely.\n· Once a day, you will gain a minigame ticket.\nWhen you complete the minigame while in possession of a minigame ticket, the ticket will be lost and you'll gain 150 Youkai Talismans.\nAll cases will give you their rewards only once until you complete the final, 7th case.\nOnce you complete the 7th case, you can receive Youkai Talismans from all play modes (including endless mode.)\n· The amount of Youkai Talismans you receive from endless mode is based on your high score.\n· You can unlock additional playable characters in the shop: Yura, Shinano, and Shimakaze.\n· Each character has her own active and passive skills. The active skill can be engaged by tapping the button on the bottom of the screen.\n· Achieving certain character-specific feats and completing missions in the minigame will reward you with Youkai Talismans."
+      }
+    ]
+  },
+  "jp6th_lihoushan_order": {
+    "tip": "Unlock the next stage by clearing the one before it."
+  },
+  "jp6th_lihoushan_pt1": {
+    "tip": "Minigame Ticket"
+  },
+  "jp6th_lihoushan_time": {
+    "tip": "A new stage unlocks tomorrow at midnight."
+  },
+  "jp6th_spring_tip1": {
+    "tip": "Do you want to use Onsen Notes<icon name=wenquanshoupai w=0.7 h=0.7/> to expand the onsen?"
+  },
+  "jp6th_spring_tip2": {
+    "tip": "Not enough Onsen Notes!"
+  },
   "juese_tiyan": {
     "tip": "Would you like to try out this character? (Stats shown during testing are for reference only, <color=#ff5c5c>Actual performance when acquired may differ.</color>)"
   },
@@ -9010,6 +9171,118 @@
   },
   "last_building_not_shown": {
     "tip": "Built the following shipgirl(s):"
+  },
+  "launch_ball_hatsuduki_skill_1": {
+    "tip": "Active: Youkai Begone"
+  },
+  "launch_ball_hatsuduki_skill_1_desc": {
+    "tip": "Youkai Begone: All talismans shot within 5s will have a knockback effect."
+  },
+  "launch_ball_hatsuduki_skill_2": {
+    "tip": "Passive: Youkai Allergy/Wild Slash"
+  },
+  "launch_ball_hatsuduki_skill_2_desc": {
+    "tip": "Youkai Allergy: Gains increased attack speed the closer youkai are to the end point.Wild Slash: After not making any attacks for 10s, Hatsuzuki enters a Rampage and quickly attacks 3 times with a knockback effect in random directions."
+  },
+  "launch_ball_shimakaze_skill_1": {
+    "tip": "Active: Lightning Upon the Wind"
+  },
+  "launch_ball_shimakaze_skill_1_desc": {
+    "tip": "Lightning Upon the Wind: Repels all youkai in a fan-shaped area in front of Shimakaze, granting the corresponding base score."
+  },
+  "launch_ball_shimakaze_skill_2": {
+    "tip": "Passive: Faster than a Flash"
+  },
+  "launch_ball_shimakaze_skill_2_desc": {
+    "tip": "Faster than a Flash: Reduces the cooldown of Lightning Upon the Wind by 0.5s for every youkai repelled."
+  },
+  "launch_ball_shinano_skill_1": {
+    "tip": "Active: Fleeting Dream"
+  },
+  "launch_ball_shinano_skill_1_desc": {
+    "tip": "Fleeting Dream: Instantly repels all youkai on the field, granting the corresponding base score."
+  },
+  "launch_ball_shinano_skill_2": {
+    "tip": "Passive: Everlasting Butterfly"
+  },
+  "launch_ball_shinano_skill_2_desc": {
+    "tip": "Everlasting Butterfly: After not making any attacks for 10s, Shinano falls asleep and creates butterflies every 2s that eliminate a random youkai on the field."
+  },
+  "launch_ball_skill_desc": {
+    "tip": "Details"
+  },
+  "launch_ball_yura_skill_1": {
+    "tip": "Active: Exorcism Stance"
+  },
+  "launch_ball_yura_skill_1_desc": {
+    "tip": "Exorcism Stance: Greatly slows the speed of all youkai on the field for 5s."
+  },
+  "launch_ball_yura_skill_2": {
+    "tip": "Passive: Other Self's Protection"
+  },
+  "launch_ball_yura_skill_2_desc": {
+    "tip": "Other Self's Protection: Increases the duration of buffs obtained after repelling slowed or knocked back youkai."
+  },
+  "launchball_lock_Shimakaze": {
+    "tip": "Unlocked after purchasing <color=#92fc63>Shimakaze's Token</color> at the Reward Shop."
+  },
+  "launchball_lock_Shinano": {
+    "tip": "Unlocked after purchasing <color=#92fc63>Shinano's Token</color> at the Reward Shop."
+  },
+  "launchball_lock_Yura": {
+    "tip": "Unlocked after purchasing <color=#92fc63>Yura's Token</color> at the Reward Shop."
+  },
+  "launchball_minigame_help": {
+    "tip": {
+      "1": {
+        "icon": {
+          "atlas": "helpbg/zuma2023_help1",
+          "path": ""
+        }
+      },
+      "2": {
+        "icon": {
+          "atlas": "helpbg/zuma2023_help2",
+          "path": ""
+        }
+      },
+      "defaultpage": 1,
+      "disableScroll": true,
+      "helpSize": {
+        "x": 1176,
+        "y": 1024
+      },
+      "ImageMode": true,
+      "pageMode": true,
+      "windowPos": {
+        "y": -70
+      },
+      "windowSize": {
+        "x": 1263,
+        "y": 873
+      }
+    }
+  },
+  "launchball_minigame_select": {
+    "tip": "Character Select"
+  },
+  "launchball_minigame_shop": {
+    "tip": "All sold out, nya~"
+  },
+  "launchball_minigame_un_select": {
+    "tip": "Tap again to cancel selection"
+  },
+  "launchball_spilt_many": {
+    "tip": "Multiple: Repel three or more youkai at once to earn bonus points."
+  },
+  "launchball_spilt_mix": {
+    "tip": "Absorption: When a youkai is repelled, if the adjacent youkai are of the same color, the youkai in front will be pulled towards the one in the back. If any youkai are repelled through this process, you will earn bonus points."
+  },
+  "launchball_spilt_over": {
+    "tip": "Penetration: After repelling a youkai, you will earn bonus points for repelling another youkai after shooting a talisman through the gap."
+  },
+  "launchball_spilt_series": {
+    "tip": "Combo: Repel multiple youkai using a single talisman to earn bonus points."
   },
   "lesson_classOver_error": {
     "tip": "Failed to collect rewards: "
@@ -9116,6 +9389,33 @@
   "levelScene_activate_remaster": {
     "tip": "Unlocking this stage requires <color=#ffde38>1 Data Key</color>.\nWould you like to unlock this stage?"
   },
+  "levelscene_airexpel_cancel": {
+    "tip": "Cancel"
+  },
+  "levelscene_airexpel_outrange": {
+    "tip": "No available tile for the target to move to."
+  },
+  "levelscene_airexpel_select_battle": {
+    "tip": "Cannot select enemy fleet already in combat as a target."
+  },
+  "levelscene_airexpel_select_boss": {
+    "tip": "Cannot select the enemy flagship as a target."
+  },
+  "levelscene_airexpel_select_confirm_down": {
+    "tip": "Issuing Command: Move <color=#92fc63>$1</color> 1 tile <color=#92fc63>down</color>. Continue?"
+  },
+  "levelscene_airexpel_select_confirm_left": {
+    "tip": "Issuing Command: Move <color=#92fc63>$1</color> 1 tile to the <color=#92fc63>left</color>. Continue?"
+  },
+  "levelscene_airexpel_select_confirm_right": {
+    "tip": "Issuing Command: Move <color=#92fc63>$1</color> 1 tile to the <color=#92fc63>right</color>. Continue?"
+  },
+  "levelscene_airexpel_select_confirm_up": {
+    "tip": "Issuing Command: Move <color=#92fc63>$1</color> 1 tile <color=#92fc63>up</color>. Continue?"
+  },
+  "levelscene_airexpel_select_enemy": {
+    "tip": "Only enemy fleets can be targeted."
+  },
   "levelScene_bomb_help_tip": {
     "tip": {
       "1": {
@@ -9213,6 +9513,12 @@
         "y": 873
       }
     }
+  },
+  "levelscene_deploy_submarine": {
+    "tip": "Confirm Target"
+  },
+  "levelscene_deploy_submarine_cancel": {
+    "tip": "Cancel"
   },
   "levelScene_destroy_torpedo": {
     "tip": "Successfully defused naval mine. "
@@ -9860,6 +10166,12 @@
   },
   "loveletter_exchange_tip3": {
     "tip": "Replacement successful. Please check your Inbox to receive your new items."
+  },
+  "luckybag_skin_isani": {
+    "tip": "Dynamic"
+  },
+  "luckybag_skin_islive2d": {
+    "tip": "Live 2d"
   },
   "lv70_package_tip": {
     "tip": "Buying this pack will not affect your Commander Level as it's already at or above 70. You will only receive the other items. Buy this pack anyway?"
@@ -10739,10 +11051,13 @@
     "tip": "Automatically Use"
   },
   "multiple_sorties_cost1": {
-    "tip": "Estimated Consumption: <color=#92fc63><icon name=oil w=0.7 h=0.7/>$1 Oil </color>"
+    "tip": "Cost: <color=#92fc63><icon name=oil w=0.7 h=0.7/>$1 Oil</color>"
   },
   "multiple_sorties_cost2": {
-    "tip": "and <color=#92fc63><icon name=ticket w=0.7 h=0.7/>$1 Bonus Ticket(s)</color>."
+    "tip": "<color=#92fc63><icon name=ticket w=0.7 h=0.7/>$1 Bonus Ticket(s)</color>"
+  },
+  "multiple_sorties_cost3": {
+    "tip": "<color=#92fc63><icon name=ticket w=0.7 h=0.7/>$1 High Efficiency Combat Logistics Plan(s)</color>"
   },
   "multiple_sorties_end_status": {
     "tip": "You completed <color=#92fc63>$2</color> out of <color=#92fc63>$1</color> planned sorties."
@@ -10756,8 +11071,20 @@
   "multiple_sorties_locked_tip": {
     "tip": "Unlock <color=#92fc63>Auto-Repeat</color> by clearing the stage on this difficulty once."
   },
+  "multiple_sorties_main_end": {
+    "tip": "–Expected Repeat Sortie runs: <color=#92fc63>$1</color>, Actual Completed Sortie runs: <color=#92fc63>$2</color>"
+  },
+  "multiple_sorties_main_tip": {
+    "tip": "–<color=#92fc63>Auto-Search</color> is enabled by default during Repeat Sortie mode.\n–If Auto-Search is disabled, Repeat Sortie mode will be canceled as well."
+  },
+  "multiple_sorties_rest_time": {
+    "tip": "Progress: $1/$2"
+  },
   "multiple_sorties_resume_tip": {
     "tip": "Continuing <color=#92fc63>Auto-Repeat</color>."
+  },
+  "multiple_sorties_retry_desc": {
+    "tip": "Repeat $1 sorties"
   },
   "multiple_sorties_stop": {
     "tip": "Auto-Repeat stopped."
@@ -11232,6 +11559,9 @@
   "non_support_share": {
     "tip": "Commander, the \"Share\" option is still unavailable."
   },
+  "not yet completed": {
+    "tip": "尚未完成"
+  },
   "not_exist_guild_use_item": {
     "tip": "This item cannot be used as you are not in a Guild. "
   },
@@ -11589,7 +11919,7 @@
         "info": "4. You may choose two ships on which to focus your wishes."
       },
       {
-        "info": "5. Only ships added to the normal building pool prior to May 25th can hear your wishes."
+        "info": "5. Only ships added to the normal building pool prior to July 13rd can hear your wishes."
       },
       {
         "info": "6. Ships that have an unlock condition cannot hear your wishes, and will not appear in the Wishing Well."
@@ -11796,6 +12126,49 @@
   },
   "quota_shop_title1": {
     "tip": "Core (Ltd.)"
+  },
+  "racing_cost": {
+    "tip": "Total\nSpent"
+  },
+  "racing_minigame_help": {
+    "tip": {
+      "1": {
+        "icon": {
+          "atlas": "helpbg/racing2023_help1",
+          "path": ""
+        }
+      },
+      "2": {
+        "icon": {
+          "atlas": "helpbg/racing2023_help2",
+          "path": ""
+        }
+      },
+      "defaultpage": 1,
+      "disableScroll": true,
+      "helpSize": {
+        "x": 1176,
+        "y": 1024
+      },
+      "ImageMode": true,
+      "pageMode": true,
+      "windowPos": {
+        "y": -70
+      },
+      "windowSize": {
+        "x": 1263,
+        "y": 873
+      }
+    }
+  },
+  "racing_rank_half_h": {
+    "tip": "* Updates every 30m."
+  },
+  "racing_rank_no_data": {
+    "tip": "No info available."
+  },
+  "racing_rank_top_text": {
+    "tip": "Friend Ranking"
   },
   "random_flag_ship": {
     "tip": "Random Secretary"
@@ -13184,6 +13557,9 @@
   "ship_formationMediator_replaceError_onlyShip": {
     "tip": "Selected ship, <color=#92fc63>$1</color>, is a unique <color=#92fc63>$2</color> and may not be changed!"
   },
+  "ship_formationMediator_request_replace_support": {
+    "tip": "This ship is currently in the <color=#92fc63>Support Fleet</color>. Continue making changes?"
+  },
   "ship_formationUI_changeFormationError_countError": {
     "tip": "Not enough ships in fleet."
   },
@@ -13685,6 +14061,21 @@
   "shipmodechange_reject_worldfleet_only": {
     "tip": "You cannot leave this fleet without at least 1 Vanguard/Main Fleet ship. Edit your fleet formation and try again."
   },
+  "shipyard_button_1": {
+    "tip": "Stay Tuned"
+  },
+  "shipyard_button_2": {
+    "tip": "Unlocked after completing all missions in \"Tempesta's Secret Shipyard\"."
+  },
+  "shipyard_introduce": {
+    "tip": "2 new missions unlock every day until 10/25.\nComplete them all to earn the limited gear, <color=#ff9892>Tempesta Banner</color>!"
+  },
+  "shipyard_phase_1": {
+    "tip": "占坑"
+  },
+  "shipyard_phase_2": {
+    "tip": "占坑"
+  },
   "shoot_preview": {
     "tip": "Firing Preview"
   },
@@ -13804,6 +14195,9 @@
   },
   "skinatlas_search_result_is_empty": {
     "tip": "You have no skins that match the search terms."
+  },
+  "SkinMagazinePage2_tip": {
+    "tip": "Collect"
   },
   "skinshop_live2d_fliter_failed": {
     "tip": "No outfits to display under current filter settings "
@@ -14186,6 +14580,12 @@
   },
   "story_autoplay_setting_label": {
     "tip": "Story Autoplay"
+  },
+  "story_label_auto": {
+    "tip": "Auto"
+  },
+  "story_label_skip": {
+    "tip": "Skip"
   },
   "story_setting_label": {
     "tip": "Text Auto-Scroll Speed"
@@ -15283,6 +15683,9 @@
   "without_ship_to_wear": {
     "tip": "You have no shipgirls who can wear this."
   },
+  "word_ air_defense_artillery": {
+    "tip": "Anti-Air"
+  },
   "word_achieved_item": {
     "tip": "Time joined"
   },
@@ -15936,7 +16339,7 @@
     "tip": "Show custom ship names (change in settings)"
   },
   "word_propose_changename_tip2": {
-    "tip": "*May change name once every 30 days"
+    "tip": "*Cooldown is 30 days "
   },
   "word_propose_changename_title": {
     "tip": "$1 is about to become your exclusive ship. Do you want to rename her?"
@@ -16160,6 +16563,9 @@
   "word_shipState_study": {
     "tip": "She's currently in class!"
   },
+  "word_shipState_support": {
+    "tip": "This ship is already in your Support Fleet."
+  },
   "word_shipState_tactics": {
     "tip": "She's currently in class!"
   },
@@ -16297,6 +16703,9 @@
   },
   "word_status_inPVP": {
     "tip": "Exercising"
+  },
+  "word_status_inSupportFleet": {
+    "tip": "In Support Fleet"
   },
   "word_status_inTactics": {
     "tip": "Studying"
@@ -16782,7 +17191,7 @@
   "world_boss_help_meta": {
     "tip": [
       {
-        "info": "- META Showdown Overview -\n\nFrom <color=#92fc63>8/31/23 to 11/22/23</color>, challenge Jintsuu META\nto earn Sync Points. Sync Points can be used\nto obtain the limited character, <color=#92fc63>Jintsuu META</color> as well\nas other great rewards.\n<color=#ff5c5c>Note: Sync Points will expire after the event period ends.</color>\n\n- Acquiring and Analyzing META Coordinates -\n· META Coordinates can be earned by playing Operation Siren.\nSufficient amounts of META Coordinates\ncan be analyzed to begin a META Showdown.\n· You may perform Analysis <color=#92fc63>2 times</color> per day,\nresetting every day at midnight. Unused\nMETA Coordinates will be retained.\n· You need <color=#92fc63>100</color> META Coordinates to begin \na META Showdown.\n\n- Fighting Your Bosses -\n· Your first time challenging a META boss that you\nspawned will not require Oil. From the second\nattempt onwards, cost of each attempt will gradually drop from <color=#92fc63>40</color> Oil to <color=#92fc63>0</color> Oil.\n(Will not consume a challenge attempt).\n· When a META Showdown boss reaches 0 HP,\nit will be defeated. Participants will be able to collect\nrewards, including a large amount of Sync Points.\n· Each META Showdown will only last for <color=#92fc63>24 hours</color>,\nafter which it will disappear.\nUse Request Support if you need help.\n· After defeating a META boss, the difficulty\nof subsequent META Showdowns will increase by\n1 level, up to a maximum of 15.\n\n- Fighting Others' Bosses -\n· In the Boss List menu, you can see requests that\nother Commanders have sent.\nWhen fighting another Commander's boss, you\nwill immediately gain Sync Points based\nupon the <color=#92fc63>amount of DMG</color> you dealt.\n· Each attempt uses 1 Challenge Attempt, but\nuses no Oil.\n· You can have up to <color=#92fc63>3</color> Challenge attempts,\nresetting each day at midnight.\nEach META Showdown can have up to 30 participants.\n\n- Combat Instructions -\n· You cannot bring Meowfficers or submarines.\n· At the end of battle, no EXP is gained, and Morale\nwill not be affected.\n· You cannot quit during an META Showdown.\nIf connection is lost due to unstable network\nconditions, the following will occur:\na. If challenging a boss you discovered, you will\nspend 40 Oil (the first battle is still free), and\nany damage done will not count.\nb. If challenging someone else's boss,\na challenge attempt will be used, but no rewards\nwill be granted.\n<color=#92fc63>Please make sure your network conditions are stable\nbefore attempting an META Showdown!</color>\n\n- Artillery Support -\nFrom the 31st day of this META Showdown season onwards, whenever you begin an META Showdown, your fleet will gain an additional wave of artillery support. This artillery support will deal damage to the enemy and apply a special debuff that inflicts damage over time (this damage cannot be amplified by any bonus effects).\nThe later in the META Showdown season it is, the greater the damage inflicted by this artillery support.\n*Artillery Support will only appear during META Showdown battles you discover, and will trigger with each challenge attempt."
+        "info": "- META Showdown Overview -\n\nFrom <color=#92fc63>8/31/23 to 12/7/23</color>, challenge Jintsuu META\nto earn Sync Points. Sync Points can be used\nto obtain the limited character, <color=#92fc63>Jintsuu META</color> as well\nas other great rewards.\n<color=#ff5c5c>Note: Sync Points will expire after the event period ends.</color>\n\n- Acquiring and Analyzing META Coordinates -\n· META Coordinates can be earned by playing Operation Siren.\nSufficient amounts of META Coordinates\ncan be analyzed to begin a META Showdown.\n· You may perform Analysis <color=#92fc63>2 times</color> per day,\nresetting every day at midnight. Unused\nMETA Coordinates will be retained.\n· You need <color=#92fc63>100</color> META Coordinates to begin \na META Showdown.\n\n- Fighting Your Bosses -\n· Your first time challenging a META boss that you\nspawned will not require Oil. From the second\nattempt onwards, cost of each attempt will gradually drop from <color=#92fc63>40</color> Oil to <color=#92fc63>0</color> Oil.\n(Will not consume a challenge attempt).\n· When a META Showdown boss reaches 0 HP,\nit will be defeated. Participants will be able to collect\nrewards, including a large amount of Sync Points.\n· Each META Showdown will only last for <color=#92fc63>24 hours</color>,\nafter which it will disappear.\nUse Request Support if you need help.\n· After defeating a META boss, the difficulty\nof subsequent META Showdowns will increase by\n1 level, up to a maximum of 15.\n\n- Fighting Others' Bosses -\n· In the Boss List menu, you can see requests that\nother Commanders have sent.\nWhen fighting another Commander's boss, you\nwill immediately gain Sync Points based\nupon the <color=#92fc63>amount of DMG</color> you dealt.\n· Each attempt uses 1 Challenge Attempt, but\nuses no Oil.\n· You can have up to <color=#92fc63>3</color> Challenge attempts,\nresetting each day at midnight.\nEach META Showdown can have up to 30 participants.\n\n- Combat Instructions -\n· You cannot bring Meowfficers or submarines.\n· At the end of battle, no EXP is gained, and Morale\nwill not be affected.\n· You cannot quit during an META Showdown.\nIf connection is lost due to unstable network\nconditions, the following will occur:\na. If challenging a boss you discovered, you will\nspend 40 Oil (the first battle is still free), and\nany damage done will not count.\nb. If challenging someone else's boss,\na challenge attempt will be used, but no rewards\nwill be granted.\n<color=#92fc63>Please make sure your network conditions are stable\nbefore attempting an META Showdown!</color>\n\n- Artillery Support -\nFrom the 31st day of this META Showdown season onwards, whenever you begin an META Showdown, your fleet will gain an additional wave of artillery support. This artillery support will deal damage to the enemy and apply a special debuff that inflicts damage over time (this damage cannot be amplified by any bonus effects).\nThe later in the META Showdown season it is, the greater the damage inflicted by this artillery support.\n*Artillery Support will only appear during META Showdown battles you discover, and will trigger with each challenge attempt."
       }
     ]
   },
