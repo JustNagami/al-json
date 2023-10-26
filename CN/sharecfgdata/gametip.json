@@ -142,9 +142,6 @@
   "2023Valentine_minigame_s": {
     "tip": "哇哦…一份品质绝佳的巧克力制作完成！指挥官，请品尝一下吧！情人节快乐！"
   },
-  "_G.pg.base.gametip.ad_0": {
-    "tip": ""
-  },
   "acceleration_tips_1": {
     "tip": "<color=#66472a><size=34>是否使用$1个喵箱训练加速工具\n依次加速$2个喵箱？</size></color>"
   },
@@ -362,6 +359,9 @@
   },
   "activityboss_sp_window_best_score": {
     "tip": "当前最高分："
+  },
+  "ad_0": {
+    "tip": ""
   },
   "ad_1": {
     "tip": "<material=underline c=#92fc63 event=clickPlayer args=1><color=#92fc63>$1</color></material> 建造获得 <icon name=shiptype2 w=0.8 h=0.8/><material=underline c=#shipcolor2 event=clickShip args=2><color=#shipcolor2>$2</color></material>"
@@ -2328,21 +2328,6 @@
   "cannot_build_multiple_printblue": {
     "tip": "是否中止<color=#92fc63>$1</color>的研究，并开启<color=#92fc63>$2</color>的研究？开始研究后<color=#92fc63>24小时之内</color>无法更换其他研究对象"
   },
-  "card_battle_card details": {
-    "tip": "C A R D   D E T A I L S"
-  },
-  "card_battle_card details_deck": {
-    "tip": "待抽取指令 "
-  },
-  "card_battle_card details_hand": {
-    "tip": "当  前  指  令"
-  },
-  "card_battle_card details_switchto_deck": {
-    "tip": "查看待抽取指令 "
-  },
-  "card_battle_card details_switchto_hand": {
-    "tip": "查看当前指令 "
-  },
   "card_battle_card_empty_ch": {
     "tip": "暂  无  待  抽  取  指  令"
   },
@@ -3138,9 +3123,6 @@
   },
   "common_activity_notStartOrEnd": {
     "tip": "该活动<color=#92fc63>未开始</color>或<color=#92fc63>已经结束</color>"
-  },
-  "common_already owned": {
-    "tip": "已拥有"
   },
   "common_buy_gold_success": {
     "tip": "成功购买 <color=#92fc63>$1</color> 物资！"
@@ -5431,9 +5413,6 @@
   },
   "guild_donate_techpoint_toplimit": {
     "tip": "本日军需筹备可获取的筹备进度已达到上限，无法继续获取"
-  },
-  "guild_donate_times_not enough": {
-    "tip": "今日筹备次数已用完"
   },
   "guild_donate_tip": {
     "tip": "即将提交<color=#92FC63FF>$1$2</color>个(目前拥有<color=$4>$3</color>个)，为大舰队提供后勤补给，是否确定？"
@@ -9798,6 +9777,9 @@
   "levelscene_airexpel_outrange": {
     "tip": "目标点不在驱离范围内"
   },
+  "levelscene_airexpel_select_battle": {
+    "tip": "无法选择处于交战状态的敌方舰队作为目标 "
+  },
   "levelscene_airexpel_select_boss": {
     "tip": "无法选择敌方旗舰作为目标"
   },
@@ -11716,9 +11698,6 @@
   "nodisplay_player_home_share": {
     "tip": "玩家分享的主题"
   },
-  "not yet completed": {
-    "tip": "尚未完成"
-  },
   "not_exist_guild_use_item": {
     "tip": "未加入大舰队，无法使用该道具"
   },
@@ -12046,7 +12025,7 @@
         "info": "4.指挥官可以从中选择2名角色作为祈愿角色"
       },
       {
-        "info": "5.可选名单仅包含7月13日前常驻加入对应建造的角色"
+        "info": "5.可选名单仅包含3月23日前常驻加入对应建造的角色"
       },
       {
         "info": "6.有建造解锁条件的角色无法被选为祈愿角色，\n不会在祈愿建造中出现。"
@@ -15798,9 +15777,6 @@
   },
   "without_ship_to_wear": {
     "tip": "没有可换装的角色"
-  },
-  "word_ air_defense_artillery": {
-    "tip": "防空炮"
   },
   "word_achieved_item": {
     "tip": "入手时间"
