@@ -1293,6 +1293,24 @@
     "pt_level": 13,
     "pt_upgrage": 18
   },
+  "10231": {
+    "add_get_attr": 4,
+    "add_get_shiptype": [
+      2
+    ],
+    "add_get_value": 1,
+    "add_level_attr": 2,
+    "add_level_shiptype": [
+      2
+    ],
+    "add_level_value": 1,
+    "class": 10202,
+    "id": 10231,
+    "max_star": 6,
+    "pt_get": 12,
+    "pt_level": 18,
+    "pt_upgrage": 24
+  },
   "10301": {
     "add_get_attr": 1,
     "add_get_shiptype": [
@@ -6001,6 +6019,50 @@
     "pt_level": 15,
     "pt_upgrage": 20
   },
+  "30189": {
+    "add_get_attr": 1,
+    "add_get_shiptype": [
+      1,
+      20,
+      21
+    ],
+    "add_get_value": 1,
+    "add_level_attr": 2,
+    "add_level_shiptype": [
+      1,
+      20,
+      21
+    ],
+    "add_level_value": 1,
+    "class": 30109,
+    "id": 30189,
+    "max_star": 6,
+    "pt_get": 10,
+    "pt_level": 15,
+    "pt_upgrage": 20
+  },
+  "30190": {
+    "add_get_attr": 1,
+    "add_get_shiptype": [
+      1,
+      20,
+      21
+    ],
+    "add_get_value": 1,
+    "add_level_attr": 6,
+    "add_level_shiptype": [
+      1,
+      20,
+      21
+    ],
+    "add_level_value": 1,
+    "class": 30107,
+    "id": 30190,
+    "max_star": 5,
+    "pt_get": 8,
+    "pt_level": 9,
+    "pt_upgrage": 15
+  },
   "30201": {
     "add_get_attr": 6,
     "add_get_shiptype": [
@@ -6054,6 +6116,24 @@
     "pt_get": 4,
     "pt_level": 7,
     "pt_upgrage": 9
+  },
+  "30206": {
+    "add_get_attr": 1,
+    "add_get_shiptype": [
+      2
+    ],
+    "add_get_value": 1,
+    "add_level_attr": 9,
+    "add_level_shiptype": [
+      2
+    ],
+    "add_level_value": 1,
+    "class": 30202,
+    "id": 30206,
+    "max_star": 5,
+    "pt_get": 6,
+    "pt_level": 9,
+    "pt_upgrage": 12
   },
   "30207": {
     "add_get_attr": 1,
@@ -6583,6 +6663,28 @@
     "pt_level": 18,
     "pt_upgrage": 24
   },
+  "30319": {
+    "add_get_attr": 3,
+    "add_get_shiptype": [
+      3,
+      13,
+      18
+    ],
+    "add_get_value": 1,
+    "add_level_attr": 2,
+    "add_level_shiptype": [
+      3,
+      13,
+      18
+    ],
+    "add_level_value": 1,
+    "class": 30307,
+    "id": 30319,
+    "max_star": 6,
+    "pt_get": 23,
+    "pt_level": 35,
+    "pt_upgrage": 46
+  },
   "30401": {
     "add_get_attr": 1,
     "add_get_shiptype": [
@@ -6922,6 +7024,28 @@
     "add_level_value": 2,
     "class": 30507,
     "id": 30512,
+    "max_star": 6,
+    "pt_get": 22,
+    "pt_level": 33,
+    "pt_upgrage": 44
+  },
+  "30513": {
+    "add_get_attr": 1,
+    "add_get_shiptype": [
+      4,
+      5,
+      10
+    ],
+    "add_get_value": 1,
+    "add_level_attr": 2,
+    "add_level_shiptype": [
+      4,
+      5,
+      10
+    ],
+    "add_level_value": 2,
+    "class": 30507,
+    "id": 30513,
     "max_star": 6,
     "pt_get": 22,
     "pt_level": 33,
@@ -11542,6 +11666,25 @@
     "pt_level": 21,
     "pt_upgrage": 28
   },
+  "970603": {
+    "add_get_attr": 12,
+    "add_get_shiptype": [
+      6
+    ],
+    "add_get_value": 1,
+    "add_level_attr": 6,
+    "add_level_shiptype": [
+      6,
+      7
+    ],
+    "add_level_value": 1,
+    "class": 970603,
+    "id": 970603,
+    "max_star": 5,
+    "pt_get": 12,
+    "pt_level": 18,
+    "pt_upgrage": 25
+  },
   "970701": {
     "add_get_attr": 1,
     "add_get_shiptype": [
@@ -11704,6 +11847,7 @@
     10226,
     10227,
     10229,
+    10231,
     10301,
     10302,
     10303,
@@ -11861,9 +12005,9 @@
     20703,
     20704,
     20705,
-    20712,
     20706,
     20707,
+    20712,
     21301,
     21302,
     21304,
@@ -11929,9 +12073,12 @@
     30185,
     30186,
     30188,
+    30189,
+    30190,
     30201,
     30204,
     30205,
+    30206,
     30207,
     30208,
     30209,
@@ -11958,6 +12105,7 @@
     30314,
     30317,
     30318,
+    30319,
     30401,
     30402,
     30403,
@@ -11974,6 +12122,7 @@
     30510,
     30511,
     30512,
+    30513,
     30514,
     30601,
     30602,
@@ -12142,8 +12291,8 @@
     70506,
     70507,
     70701,
-    79901,
     71801,
+    79901,
     80101,
     80102,
     80103,
@@ -12198,6 +12347,7 @@
     970504,
     970601,
     970602,
+    970603,
     970701,
     970702,
     970703,

@@ -838,6 +838,29 @@
     "ui_type": 1,
     "uifx": ""
   },
+  "15": {
+    "anchor": "",
+    "ani_controller": "",
+    "ani_name": "map_15zhang",
+    "animtor": 1,
+    "bg": "Map_15",
+    "bgm": "level",
+    "bind_map": 0,
+    "cloud_suffix": "",
+    "clouds_pos": [],
+    "destory_icon_suffix": "blue",
+    "drop_by_map_display": [],
+    "enter_story": "",
+    "guide_id": "",
+    "level_limit": 80,
+    "map": 15,
+    "name": "エンガノ岬沖海戦",
+    "on_activity": 0,
+    "title": "15",
+    "type": 1,
+    "ui_type": 1,
+    "uifx": ""
+  },
   "201": {
     "anchor": "",
     "ani_controller": "",
@@ -1382,6 +1405,50 @@
     "name": "風雲マリアナ・上",
     "on_activity": 0,
     "title": "12",
+    "type": 2,
+    "ui_type": 1,
+    "uifx": "UIhuohua2"
+  },
+  "213": {
+    "anchor": "",
+    "ani_controller": "",
+    "ani_name": "",
+    "animtor": 0,
+    "bg": "Map_212",
+    "bgm": "level",
+    "bind_map": 13,
+    "cloud_suffix": "white",
+    "clouds_pos": [
+      [
+        332,
+        271
+      ],
+      [
+        896,
+        110
+      ],
+      [
+        -280,
+        0
+      ],
+      [
+        990,
+        -90
+      ],
+      [
+        0,
+        -465
+      ]
+    ],
+    "destory_icon_suffix": "blue",
+    "drop_by_map_display": [],
+    "enter_story": "",
+    "guide_id": "",
+    "level_limit": 80,
+    "map": 213,
+    "name": "風雲マリアナ・下",
+    "on_activity": 0,
+    "title": "13",
     "type": 2,
     "ui_type": 1,
     "uifx": "UIhuohua2"
@@ -15294,6 +15361,270 @@
     "ui_type": 1,
     "uifx": ""
   },
+  "1750001": {
+    "anchor": "",
+    "ani_controller": "",
+    "ani_name": "Map_1750001",
+    "animtor": 1,
+    "bg": "Map_1750001",
+    "bgm": "theme-unzen",
+    "bind_map": 1750011,
+    "cloud_suffix": "",
+    "clouds_pos": [
+      [
+        332,
+        271
+      ],
+      [
+        896,
+        110
+      ],
+      [
+        -280,
+        0
+      ],
+      [
+        990,
+        -90
+      ],
+      [
+        0,
+        -465
+      ]
+    ],
+    "destory_icon_suffix": "blue",
+    "drop_by_map_display": "",
+    "enter_story": "XUYUWANGYUECHAO1",
+    "guide_id": "",
+    "level_limit": 1,
+    "map": 1750001,
+    "name": "須臾望月抄·前編|| ||CHAPTER EX||E.X.",
+    "on_activity": 5001,
+    "title": "EX",
+    "type": 4,
+    "ui_type": 1,
+    "uifx": ""
+  },
+  "1750002": {
+    "anchor": "",
+    "ani_controller": "",
+    "ani_name": "Map_1750002",
+    "animtor": 1,
+    "bg": "Map_1750002",
+    "bgm": "theme-sakuraholyplace",
+    "bind_map": 1750012,
+    "cloud_suffix": "",
+    "clouds_pos": [
+      [
+        332,
+        271
+      ],
+      [
+        896,
+        110
+      ],
+      [
+        -280,
+        0
+      ],
+      [
+        990,
+        -90
+      ],
+      [
+        0,
+        -465
+      ]
+    ],
+    "destory_icon_suffix": "blue",
+    "drop_by_map_display": "",
+    "enter_story": "XUYUWANGYUECHAO12",
+    "guide_id": "",
+    "level_limit": 1,
+    "map": 1750002,
+    "name": "須臾望月抄·後編|| ||CHAPTER EX||E.X.",
+    "on_activity": 5001,
+    "title": "EX",
+    "type": 4,
+    "ui_type": 1,
+    "uifx": ""
+  },
+  "1750011": {
+    "anchor": "",
+    "ani_controller": "",
+    "ani_name": "Map_1750003",
+    "animtor": 1,
+    "bg": "Map_1750003",
+    "bgm": "theme-unzen",
+    "bind_map": 1750001,
+    "cloud_suffix": "",
+    "clouds_pos": [
+      [
+        332,
+        271
+      ],
+      [
+        896,
+        110
+      ],
+      [
+        -280,
+        0
+      ],
+      [
+        990,
+        -90
+      ],
+      [
+        0,
+        -465
+      ]
+    ],
+    "destory_icon_suffix": "blue",
+    "drop_by_map_display": "",
+    "enter_story": "XUYUWANGYUECHAO1",
+    "guide_id": "",
+    "level_limit": 1,
+    "map": 1750011,
+    "name": "須臾望月抄·前編|| ||CHAPTER EX||E.X.",
+    "on_activity": 5001,
+    "title": "EX",
+    "type": 5,
+    "ui_type": 1,
+    "uifx": ""
+  },
+  "1750012": {
+    "anchor": "",
+    "ani_controller": "",
+    "ani_name": "Map_1750004",
+    "animtor": 1,
+    "bg": "Map_1750004",
+    "bgm": "theme-sakuraholyplace",
+    "bind_map": 1750002,
+    "cloud_suffix": "",
+    "clouds_pos": [
+      [
+        332,
+        271
+      ],
+      [
+        896,
+        110
+      ],
+      [
+        -280,
+        0
+      ],
+      [
+        990,
+        -90
+      ],
+      [
+        0,
+        -465
+      ]
+    ],
+    "destory_icon_suffix": "blue",
+    "drop_by_map_display": "",
+    "enter_story": "XUYUWANGYUECHAO12",
+    "guide_id": "",
+    "level_limit": 1,
+    "map": 1750012,
+    "name": "須臾望月抄·後編|| ||CHAPTER EX||E.X.",
+    "on_activity": 5001,
+    "title": "EX",
+    "type": 5,
+    "ui_type": 1,
+    "uifx": ""
+  },
+  "1750025": {
+    "anchor": "",
+    "ani_controller": "",
+    "ani_name": "Map_1750004",
+    "animtor": 1,
+    "bg": "Map_1750004",
+    "bgm": "story-unzen-heart",
+    "bind_map": 1750012,
+    "cloud_suffix": "",
+    "clouds_pos": [
+      [
+        332,
+        271
+      ],
+      [
+        896,
+        110
+      ],
+      [
+        -280,
+        0
+      ],
+      [
+        990,
+        -90
+      ],
+      [
+        0,
+        -465
+      ]
+    ],
+    "destory_icon_suffix": "blue",
+    "drop_by_map_display": "",
+    "enter_story": "",
+    "guide_id": "",
+    "level_limit": 1,
+    "map": 1750025,
+    "name": "須臾望月抄·SP|| ||CHAPTER EX||E.X.",
+    "on_activity": 5001,
+    "title": "EX",
+    "type": 8,
+    "ui_type": 1,
+    "uifx": ""
+  },
+  "1750026": {
+    "anchor": "",
+    "ani_controller": "",
+    "ani_name": "Map_1750004",
+    "animtor": 1,
+    "bg": "Map_1750004",
+    "bgm": "story-unzen",
+    "bind_map": 1750012,
+    "cloud_suffix": "",
+    "clouds_pos": [
+      [
+        332,
+        271
+      ],
+      [
+        896,
+        110
+      ],
+      [
+        -280,
+        0
+      ],
+      [
+        990,
+        -90
+      ],
+      [
+        0,
+        -465
+      ]
+    ],
+    "destory_icon_suffix": "blue",
+    "drop_by_map_display": "",
+    "enter_story": "",
+    "guide_id": "",
+    "level_limit": 1,
+    "map": 1750026,
+    "name": "須臾望月抄·EX|| ||CHAPTER EX||E.X.",
+    "on_activity": 5001,
+    "title": "EX",
+    "type": 8,
+    "ui_type": 1,
+    "uifx": ""
+  },
   "2100000": {
     "anchor": "",
     "ani_controller": "",
@@ -18504,6 +18835,7 @@
     12,
     13,
     14,
+    15,
     201,
     202,
     203,
@@ -18516,6 +18848,7 @@
     210,
     211,
     212,
+    213,
     10000,
     70000,
     90000,
@@ -18602,9 +18935,9 @@
     1250002,
     1250011,
     1250012,
+    1250022,
     1250025,
     1250026,
-    1250022,
     1260001,
     1260002,
     1260011,
@@ -18824,6 +19157,12 @@
     1740012,
     1740025,
     1740026,
+    1750001,
+    1750002,
+    1750011,
+    1750012,
+    1750025,
+    1750026,
     2100000,
     2100001,
     2100010,
