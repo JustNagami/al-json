@@ -167,6 +167,18 @@
     "special_bgm": "",
     "time": ""
   },
+  "BlackFridayGiftPage": {
+    "bgm": "bar-soft",
+    "default_bgm": "bar-soft",
+    "special_bgm": "",
+    "time": ""
+  },
+  "BlackFridayWithManualSignPage": {
+    "bgm": "bar-soft",
+    "default_bgm": "bar-soft",
+    "special_bgm": "",
+    "time": ""
+  },
   "BossRushKurskScene": {
     "bgm": "bgm-cccp3",
     "default_bgm": "bgm-cccp3",
@@ -188,6 +200,18 @@
   "CastleGameView": {
     "bgm": "story-richang-3",
     "default_bgm": "story-richang-3",
+    "special_bgm": "",
+    "time": ""
+  },
+  "CastleMainScene": {
+    "bgm": "story-oldcastle-carnival",
+    "default_bgm": "story-oldcastle-carnival",
+    "special_bgm": "",
+    "time": ""
+  },
+  "CastlePtPage": {
+    "bgm": "story-oldcastle-carnival",
+    "default_bgm": "story-oldcastle-carnival",
     "special_bgm": "",
     "time": ""
   },
@@ -215,6 +239,12 @@
     "special_bgm": "",
     "time": ""
   },
+  "CollectionEventPtPage": {
+    "bgm": "theme-starsea-core",
+    "default_bgm": "theme-starsea-core",
+    "special_bgm": "",
+    "time": ""
+  },
   "CollectionScene": {
     "bgm": "main",
     "default_bgm": "main",
@@ -227,13 +257,7 @@
     "special_bgm": "",
     "time": ""
   },
-  "CommanderInfoScene": {
-    "bgm": "backyard",
-    "default_bgm": "backyard",
-    "special_bgm": "",
-    "time": ""
-  },
-  "CommandRoomScene": {
+  "CommanderCatScene": {
     "bgm": "backyard",
     "default_bgm": "backyard",
     "special_bgm": "",
@@ -266,6 +290,24 @@
   "DailyLevelScene": {
     "bgm": "level",
     "default_bgm": "level",
+    "special_bgm": "",
+    "time": ""
+  },
+  "DaofengMainRePage": {
+    "bgm": "Map-longgong",
+    "default_bgm": "Map-longgong",
+    "special_bgm": "",
+    "time": ""
+  },
+  "DaofengPTRePage": {
+    "bgm": "Theme-longgong",
+    "default_bgm": "Theme-longgong",
+    "special_bgm": "",
+    "time": ""
+  },
+  "DaofengV2LoginPage": {
+    "bgm": "theme-IJNdailymeeting",
+    "default_bgm": "theme-IJNdailymeeting",
     "special_bgm": "",
     "time": ""
   },
@@ -419,6 +461,12 @@
     "special_bgm": "",
     "time": ""
   },
+  "JapanV2frameRePage": {
+    "bgm": "battle-longgong",
+    "default_bgm": "battle-longgong",
+    "special_bgm": "",
+    "time": ""
+  },
   "KelifulanSkinPage": {
     "bgm": "story-musicanniversary-gorgeous",
     "default_bgm": "story-musicanniversary-gorgeous",
@@ -542,6 +590,18 @@
   "NewPlayerScene": {
     "bgm": "main",
     "default_bgm": "main",
+    "special_bgm": "",
+    "time": ""
+  },
+  "NewServerLoginPage": {
+    "bgm": "story-musicanniversary-gorgeous",
+    "default_bgm": "story-musicanniversary-gorgeous",
+    "special_bgm": "",
+    "time": ""
+  },
+  "NewServerMainPage": {
+    "bgm": "story-musicanniversary-gorgeous",
+    "default_bgm": "story-musicanniversary-gorgeous",
     "special_bgm": "",
     "time": ""
   },
@@ -674,6 +734,42 @@
   "SecretShipyardScene": {
     "bgm": "theme-SeaAndSun-image",
     "default_bgm": "theme-SeaAndSun-image",
+    "special_bgm": "",
+    "time": ""
+  },
+  "SenrankaguraBackHillScene": {
+    "bgm": "sk-az-story",
+    "default_bgm": "sk-az-story",
+    "special_bgm": "",
+    "time": ""
+  },
+  "SenrankaguraMainPage": {
+    "bgm": "sk-az-battle",
+    "default_bgm": "sk-az-battle",
+    "special_bgm": "",
+    "time": ""
+  },
+  "SenrankaguraMedalScene": {
+    "bgm": "sk-az-battle",
+    "default_bgm": "sk-az-battle",
+    "special_bgm": "",
+    "time": ""
+  },
+  "SenrankaguraPtPage": {
+    "bgm": "sk-az-pv2",
+    "default_bgm": "sk-az-pv2",
+    "special_bgm": "",
+    "time": ""
+  },
+  "SenrankaguraTaskPage": {
+    "bgm": "sk-az-pv1",
+    "default_bgm": "sk-az-pv1",
+    "special_bgm": "",
+    "time": ""
+  },
+  "SenrankaguraTrainScene": {
+    "bgm": "sk-az-pv2",
+    "default_bgm": "sk-az-pv2",
     "special_bgm": "",
     "time": ""
   },
@@ -820,6 +916,167 @@
     "default_bgm": "doa_minigame",
     "special_bgm": "",
     "time": ""
+  },
+  "VoteEntranceScene": {
+    "bgm": "votefes-start",
+    "default_bgm": "votefes-start",
+    "special_bgm": "votefes-up",
+    "time": [
+      [
+        [
+          2024,
+          1,
+          30
+        ],
+        [
+          12,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2024,
+          2,
+          5
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ]
+  },
+  "VoteExchangeScene": {
+    "bgm": "votefes-start",
+    "default_bgm": "votefes-start",
+    "special_bgm": "votefes-up",
+    "time": [
+      [
+        [
+          2024,
+          1,
+          30
+        ],
+        [
+          12,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2024,
+          2,
+          5
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ]
+  },
+  "VoteFameHallLayer": {
+    "bgm": "story-musicanniversary-gorgeous",
+    "default_bgm": "story-musicanniversary-gorgeous",
+    "special_bgm": "",
+    "time": ""
+  },
+  "VoteRankScene": {
+    "bgm": "votefes-start",
+    "default_bgm": "votefes-start",
+    "special_bgm": "votefes-up",
+    "time": [
+      [
+        [
+          2024,
+          1,
+          30
+        ],
+        [
+          12,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2024,
+          2,
+          5
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ]
+  },
+  "VoteScene": {
+    "bgm": "votefes-start",
+    "default_bgm": "votefes-start",
+    "special_bgm": "votefes-up",
+    "time": [
+      [
+        [
+          2024,
+          1,
+          30
+        ],
+        [
+          12,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2024,
+          2,
+          5
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ]
+  },
+  "VoteScheduleScene": {
+    "bgm": "votefes-start",
+    "default_bgm": "votefes-start",
+    "special_bgm": "votefes-up",
+    "time": [
+      [
+        [
+          2024,
+          1,
+          30
+        ],
+        [
+          12,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2024,
+          2,
+          5
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ]
   },
   "WorldBossScene": {
     "bgm": "bsm-3",
