@@ -446,12 +446,12 @@
     "button_style": 7,
     "description": [
       [
-        "蝎毒之雾 ",
-        "天蝎座化身在战斗开始后18秒及之后每40秒生成毒雾，同时天蝎座化身回避率提高20%，持续20秒；接触毒雾的敌方单位会受到【蝎毒】效果，自身回避率降低<color=#92fc63>20%</color>，自身造成的伤害提高<color=#92fc63>20%</color>；【蝎毒】效果在自身受到治疗效果后消失"
+        "Scorpion's Mist ",
+        "18s after the battle starts and every 40s after the first activation: creates a noxious mist on the battlefield, increasing this ship's Evasion Rate by 20.0% for 20s. Other ships that enter the mist suffer the Scorpion's Venom status effect, reducing their Evasion Rate by <color=#92fc63>40.0%</color>, but increasing their DMG dealt by <color=#92fc63>20.0%</color>. Any kind of healing effect cancels out Scorpion's Venom."
       ],
       [
-        "致命毒刺",
-        "【蝎毒之雾】触发后3秒释放一轮特殊弹幕，被特殊弹幕命中的敌方单位若处于【蝎毒】效果时，会额外受到自身最大耐久<color=#92fc63>10%</color>的伤害"
+        "Fatal Sting",
+        "3s after Scorpion's Mist activates: fires a special barrage. If a ship hit by this barrage has the Scorpion's Venom status effect, this attack inflicts additional DMG equal to <color=#92fc63>10.0%</color> of that ship's HP."
       ]
     ],
     "dungeon_id": 5118,
@@ -475,12 +475,12 @@
     "button_style": 7,
     "description": [
       [
-        "蝎毒之雾 ",
-        "天蝎座化身在战斗开始后18秒及之后每40秒生成毒雾，同时天蝎座化身回避率提高20%，持续20秒；接触毒雾的敌方单位会受到【蝎毒】效果，自身回避率降低<color=#92fc63>40%</color>，自身造成的伤害提高<color=#92fc63>40%</color>；【蝎毒】效果在自身受到治疗效果后消失"
+        "Scorpion's Mist ",
+        "18s after the battle starts and every 40s after the first activation: creates a noxious mist on the battlefield, increasing this ship's Evasion Rate by 20.0% for 20s. Other ships that enter the mist suffer the Scorpion's Venom status effect, reducing their Evasion Rate by <color=#92fc63>60.0%</color>, but increasing their DMG dealt by <color=#92fc63>40.0%</color>. Any kind of healing effect cancels out Scorpion's Venom."
       ],
       [
-        "致命毒刺",
-        "【蝎毒之雾】触发后3秒释放一轮特殊弹幕，被特殊弹幕命中的敌方单位若处于【蝎毒】效果时，会额外受到自身最大耐久<color=#92fc63>20%</color>的伤害"
+        "Fatal Sting",
+        "3s after Scorpion's Mist activates: fires a special barrage. If a ship hit by this barrage has the Scorpion's Venom status effect, this attack inflicts additional DMG equal to <color=#92fc63>20.0%</color> of that ship's HP."
       ]
     ],
     "dungeon_id": 5117,
@@ -504,12 +504,12 @@
     "button_style": 7,
     "description": [
       [
-        "蝎毒之雾 ",
-        "天蝎座化身在战斗开始后18秒及之后每40秒生成毒雾，同时天蝎座化身回避率提高20%，持续20秒；接触毒雾的敌方单位会受到【蝎毒】效果，自身回避率降低<color=#92fc63>60%</color>，自身造成的伤害提高<color=#92fc63>60%</color>；【蝎毒】效果在自身受到治疗效果后消失"
+        "Scorpion's Mist ",
+        "18s after the battle starts and every 40s after the first activation: creates a noxious mist on the battlefield, increasing this ship's Evasion Rate by 20.0% for 20s. Other ships that enter the mist suffer the Scorpion's Venom status effect, reducing their Evasion Rate by <color=#92fc63>80.0%</color>, but increasing their DMG dealt by <color=#92fc63>60.0%</color>. Any kind of healing effect cancels out Scorpion's Venom."
       ],
       [
-        "致命毒刺",
-        "【蝎毒之雾】触发后3秒释放一轮特殊弹幕，被特殊弹幕命中的敌方单位若处于【蝎毒】效果时，会额外受到自身最大耐久<color=#92fc63>30%</color>的伤害"
+        "Fatal Sting",
+        "3s after Scorpion's Mist activates: fires a special barrage. If a ship hit by this barrage has the Scorpion's Venom status effect, this attack inflicts additional DMG equal to <color=#92fc63>30.0%</color> of that ship's HP."
       ]
     ],
     "dungeon_id": 5116,
@@ -520,6 +520,93 @@
       180
     ],
     "painting": "aierbin"
+  },
+  "10019": {
+    "award_display": [
+      [
+        14,
+        207,
+        1
+      ]
+    ],
+    "buff_id": [],
+    "button_style": 7,
+    "description": [
+      [
+        "Blinding Burst ",
+        "12s after the battle starts, and every 20s after that: performs a charge attack. If successfully charged: fires a special barrage; if this barrage hits even once: inflicts the Darkness ailment on your fleet for 10s; if the charge is interrupted: instead increases this ship's DMG dealt by <color=#92fc63>3.0%</color> (can stack up to 20 times)."
+      ],
+      [
+        "Surefire Shot",
+        "Every 20s: targets your Main Fleet ship that most recently launched an airstrike or fired her Main Guns and fires a special barrage at her (if no one in your Main Fleet has fired her Main Guns or launched an airstrike, this ship will target your whole Main Fleet). If the ship hit by this barrage has the Darkness ailment: additionally deals <color=#92fc63>10.0% of that shipgirl's HP in DMG</color>."
+      ]
+    ],
+    "dungeon_id": 5121,
+    "id": 10019,
+    "information_icon": "yanzhan_constellation",
+    "objective": [
+      5,
+      180
+    ],
+    "painting": "yanzhan"
+  },
+  "10020": {
+    "award_display": [
+      [
+        15,
+        10007,
+        1
+      ]
+    ],
+    "buff_id": [],
+    "button_style": 7,
+    "description": [
+      [
+        "Blinding Burst ",
+        "12s after the battle starts, and every 20s after that: performs a charge attack. If successfully charged: fires a special barrage; if this barrage hits even once: inflicts the Darkness ailment on your fleet for 10s; if the charge is interrupted: instead increases this ship's DMG dealt by <color=#92fc63>4.0%</color> (can stack up to 20 times)."
+      ],
+      [
+        "Surefire Shot",
+        "Every 20s: targets your Main Fleet ship that most recently launched an airstrike or fired her Main Guns and fires a special barrage at her (if no one in your Main Fleet has fired her Main Guns or launched an airstrike, this ship will target your whole Main Fleet). If the ship hit by this barrage has the Darkness ailment: additionally deals <color=#92fc63>20.0% of that shipgirl's HP in DMG</color>."
+      ]
+    ],
+    "dungeon_id": 5120,
+    "id": 10020,
+    "information_icon": "yanzhan_constellation",
+    "objective": [
+      5,
+      180
+    ],
+    "painting": "yanzhan"
+  },
+  "10021": {
+    "award_display": [
+      [
+        14,
+        10007,
+        1
+      ]
+    ],
+    "buff_id": [],
+    "button_style": 7,
+    "description": [
+      [
+        "Blinding Burst ",
+        "12s after the battle starts, and every 20s after that: performs a charge attack. If successfully charged: fires a special barrage; if this barrage hits even once: inflicts the Darkness ailment on your fleet for 10s; if the charge is interrupted: instead increases this ship's DMG dealt by <color=#92fc63>5.0%</color> (can stack up to 20 times)."
+      ],
+      [
+        "Surefire Shot",
+        "Every 20s: targets your Main Fleet ship that most recently launched an airstrike or fired her Main Guns and fires a special barrage at her (if no one in your Main Fleet has fired her Main Guns or launched an airstrike, this ship will target your whole Main Fleet). If the ship hit by this barrage has the Darkness ailment: additionally deals <color=#92fc63>30.0% of that shipgirl's HP in DMG</color>."
+      ]
+    ],
+    "dungeon_id": 5119,
+    "id": 10021,
+    "information_icon": "yanzhan_constellation",
+    "objective": [
+      5,
+      180
+    ],
+    "painting": "yanzhan"
   },
   "all": [
     10001,
@@ -539,6 +626,9 @@
     10015,
     10016,
     10017,
-    10018
+    10018,
+    10019,
+    10020,
+    10021
   ]
 }
