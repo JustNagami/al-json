@@ -142,6 +142,9 @@
   "2023Valentine_minigame_s": {
     "tip": "哇哦…一份品质绝佳的巧克力制作完成！指挥官，请品尝一下吧！情人节快乐！"
   },
+  "_G.pg.base.gametip.ad_0": {
+    "tip": ""
+  },
   "acceleration_tips_1": {
     "tip": "<color=#66472a><size=34>是否使用$1个喵箱训练加速工具\n依次加速$2个喵箱？</size></color>"
   },
@@ -359,9 +362,6 @@
   },
   "activityboss_sp_window_best_score": {
     "tip": "当前最高分："
-  },
-  "ad_0": {
-    "tip": ""
   },
   "ad_1": {
     "tip": "<material=underline c=#92fc63 event=clickPlayer args=1><color=#92fc63>$1</color></material> 建造获得 <icon name=shiptype2 w=0.8 h=0.8/><material=underline c=#shipcolor2 event=clickShip args=2><color=#shipcolor2>$2</color></material>"
@@ -923,7 +923,7 @@
     "tip": "食物数量不足"
   },
   "backyard_backyardGranaryLayer_foodMaxIncreaseNotice": {
-    "tip": "存粮上限：<color=#92fc63>$1</color>提升到<color=#92fc63>$2</color>"
+    "tip": "存粮上限：<color=#72bc42>$1</color>提升到<color=#72bc42>$2</color>"
   },
   "backyard_backyardGranaryLayer_foodTimeNotice_bottom": {
     "tip": "后被吃光光呢~快加餐~~"
@@ -938,7 +938,7 @@
     "tip": "指挥官~家里已经没有东西吃了~大家都饿趴下了"
   },
   "backyard_backyardGranaryLayer_noShip": {
-    "tip": "<color=#393A3C>后宅还没有添加休息的角色</color>,<color=#92fc63>食物将不会消耗</color>"
+    "tip": "<color=#393A3C>后宅还没有添加休息的角色</color>,<color=#72bc42>食物将不会消耗</color>"
   },
   "backyard_backyardGranaryLayer_noTimer": {
     "tip": "<color=#92fc63>添加食物</color>可让大家回复疲劳和获得经验哦"
@@ -952,17 +952,8 @@
   "backyard_backyardScene_comforChatContent1": {
     "tip": "舒适度不受摆放影响，计算各类家具中舒适度最高的前n件总和。"
   },
-  "backyard_backyardScene_comforChatContent1_1": {
-    "tip": "<color=#ff5c5c>艰苦</color>"
-  },
   "backyard_backyardScene_comforChatContent2": {
     "tip": "各类家具的n值受后宅扩建次数影响，当前扩建次数： <color=#72bc42>$1</color>"
-  },
-  "backyard_backyardScene_comforChatContent2_2": {
-    "tip": "<color=#ffde38>普通</color>"
-  },
-  "backyard_backyardScene_comforChatContent3_3": {
-    "tip": "<color=#c5cfdf>舒适</color>"
   },
   "backyard_backyardScene_Disable_Rotation": {
     "tip": "该家具无法旋转"
@@ -995,16 +986,13 @@
     "tip": "是否<color=#92fc63>清空</color>当前布置"
   },
   "backyard_backyardScene_quest_saveFurniture": {
-    "tip": "是否<color=#92fc63>保存</color>当前设置"
+    "tip": "是否<color=#72bc42>保存</color>当前设置"
   },
   "backyard_backyardScene_restSuccess": {
     "tip": "<color=#92fc63>还原成功</color>"
   },
   "backyard_backyardScene_showAddExpInfo": {
     "tip": "休息的时间为：<color=#92fc63>$1</color> 添加的经验值为：<color=#92fc63>$2</color>"
-  },
-  "backyard_backyardScene_timeRest": {
-    "tip": "剩余时间:<color=#92fc63>$1</color>"
   },
   "backyard_backyardShipInfoLayer_error_noQuickItem": {
     "tip": "加速道具数量不足"
@@ -1013,7 +1001,7 @@
     "tip": "当前<color=#92fc63>存粮不足</color>，是否补充食物？"
   },
   "backyard_backyardShipInfoLayer_quest_openPos": {
-    "tip": "开启栏位需要消耗<color=#92fc63>$1钻石</color>,是否确认开启"
+    "tip": "开启栏位需要消耗<color=#72bc42>$1钻石</color>,是否确认开启"
   },
   "backyard_backyardShipInfoLayer_quest_quickAddEnergy": {
     "tip": "加速需要<color=#92fc63>消耗快速道具</color>,是否加速"
@@ -1058,7 +1046,7 @@
     "tip": "该角色正在认真上课哟~"
   },
   "backyard_buyExtendItem_question": {
-    "tip": "将花费<color=#92fc63>$1</color>,是否继续？"
+    "tip": "将花费<color=#72bc42>$1</color>,是否继续？"
   },
   "backyard_buyFurniture_error": {
     "tip": "购买家具失败:"
@@ -1274,10 +1262,10 @@
     "tip": "请勿频繁刷新"
   },
   "backyard_theme_save_tip": {
-    "tip": "是否确定要将当前后宅配置保存为\n<color=#92fc63>$1</color>"
+    "tip": "是否确定要将当前后宅配置保存为\n<color=#72bc42>$1</color>"
   },
   "backyard_theme_set_tip": {
-    "tip": "请选择将要对<color=#92fc63>$1</color>进行的操作"
+    "tip": "请选择将要对<color=#72bc42>$1</color>进行的操作"
   },
   "backyard_theme_shop_title": {
     "tip": "发现主题"
@@ -1297,7 +1285,7 @@
   "backyard_theme_template_shop_tip": {
     "tip": [
       {
-        "info": "模板分享功能\n\n1.发现主题\n·您可以按照时间、热度排序浏览最新、最热的主题，也可以通过随机按钮挑选6个主题进行查看\n·可以使用他人主题的ID进行直接搜索来寻找主题\n·可以对喜欢的主题进行点赞与收藏操作\n\n2.保存并分享自定义主题\n※<color=#92fc63>更新前的主题需要在管理界面再次保存才会出现在我的主题列表中</color>\n·最多可以保存5个自定义主题，并分享其中的2个，其他玩家可以浏览您分享的主题并使用它们\n·也可以复制主题的ID，主动将它分享给其他玩家\n·在已经上传2个主题的情况下，上传其他主题，或者更新已经上传的主题，需要先取消分享后再次进行分享\n·取消分享或删除主题会清除该主题的点赞与收藏数\n\n3.收藏其他玩家的主题\n·最多可以收藏30个主题\n·当其他玩家删除或取消分享该主题时，该主题将从我的收藏列表中移除"
+        "info": "模板分享功能\n\n1.发现主题\n·您可以按照时间、热度排序浏览最新、最热的主题，也可以通过随机按钮挑选6个主题进行查看\n·可以使用他人主题的ID进行直接搜索来寻找主题\n·可以对喜欢的主题进行点赞与收藏操作\n\n2.保存并分享自定义主题\n※<color=#72bc42>更新前的主题需要在管理界面再次保存才会出现在我的主题列表中</color>\n·最多可以保存5个自定义主题，并分享其中的2个，其他玩家可以浏览您分享的主题并使用它们\n·也可以复制主题的ID，主动将它分享给其他玩家\n·在已经上传2个主题的情况下，上传其他主题，或者更新已经上传的主题，需要先取消分享后再次进行分享\n·取消分享或删除主题会清除该主题的点赞与收藏数\n\n3.收藏其他玩家的主题\n·最多可以收藏30个主题\n·当其他玩家删除或取消分享该主题时，该主题将从我的收藏列表中移除"
       }
     ]
   },
@@ -1789,6 +1777,13 @@
       }
     ]
   },
+  "battlepass_main_help_2402": {
+    "tip": [
+      {
+        "info": "世界巡游(2024.2.1-2024.3.31)\n\n·<color=#92fc63>开放时间</color>\n    2024.2.1 0点 ~ 2024.3.31 23:59:59\n\n·<color=#92fc63>巡游进度说明</color>\n（1）活动期间，指挥官通过完成巡游任务，可获取「巡游点数」。\n（2）巡游任务随时间开放解锁。\n（3）每获取100点「巡游点数」即可增加1巡游进度\n（4）巡游进度提升后可以获取相应等级的奖励，巡游进度最高可达100。\n\n·<color=#92fc63>奖励规则</color>\n巡游进度奖励分为两种：\n（1）基础巡游奖励：包含<color=#ff5c5c>「金伯利·META」</color>、<color=#ff5c5c>心智魔方</color>、<color=#ff5c5c>高级定向蓝图·六期</color>等奖励；\n    当巡游达到指定进度时，指挥官可以直接领取相应的基础巡游奖励。\n（2）特许巡游奖励：包含<color=#ff5c5c>梧换装「晴空下的可丽饼</color>」、<color=#ff5c5c>钻石</color>等奖励；\n    购买「特许巡游凭证」，且巡游达到指定进度时，可以领取特许巡游奖励。\n    注：购买「特许巡游凭证」后，不会影响基础巡游奖励的领取。\n\n·<color=#92fc63>「特许巡游凭证」说明</color>\n（1）「特许巡游凭证」可于「商店」-「优惠礼包」中购买，购买后可立刻获得<color=#ff5c5c>1500点</color>「巡游点数」同时解锁特许巡游奖励。\n（2）「特许巡游凭证」将于<color=#ff5c5c>活动结束前一小时</color>停止售卖(即3.30 22:59:59停止)，请指挥官注意购买时间。\n\n·<color=#92fc63>任务说明</color>\n巡游任务分为两种：\n（1）每周任务 \n    巡游任务中共有8组每周任务。自活动开始后解锁第一周任务，之后每周一的0点解锁下一组每周任务\n（2）S.P.任务\n    S.P.任务为一组特殊任务，在活动开始后会直接处于全部解锁状态。\n（3）巡游任务在解锁后将自动接取，满足任务完成条件时，会自动完成并获取对应奖励。\n\n·<color=#92fc63>「巡游任务快速完成券」说明</color>\n（1）「巡游任务快速完成券」可以在巡游任务界面使用，花费一定数量的「巡游任务快速完成券」可以直接完成大部分巡游任务\n（2）在「巡游任务快速完成券」数量不足时，指挥官可花费钻石进行补齐\n（3）每个巡游任务需要消耗的完成券数量固定，与当前任务进度无关\n（4）「巡游任务快速完成券」不会随本期活动结束而消失\n\n·<color=#ff5c5c>特别提示</color>\n（1）在本期世界巡游活动结束后，所有巡游任务将会无法继续完成，所有巡游奖励将会无法继续领取，请各位指挥官务必注意活动结束时间，提前领取奖励。\n（2）巡游进度、[特许巡游凭证]仅对本期世界巡游活动生效"
+      }
+    ]
+  },
   "battlepass_main_time": {
     "tip": "$1天$2时"
   },
@@ -1842,6 +1837,9 @@
   },
   "battlepass_main_tip_2312": {
     "tip": "2023/12/1-2024/1/31期间，完成巡游任务累计<icon name=pt w=0.5 h=0.5/>可获取<color=#854747>「黑暗界·META」</color>在内的丰富奖励"
+  },
+  "battlepass_main_tip_2402": {
+    "tip": "2024/2/1-2024/3/31期间，完成巡游任务累计<icon name=pt w=0.5 h=0.5/>可获取<color=#854747>「金伯利·META」</color>在内的丰富奖励"
   },
   "battlepass_pay_acquire": {
     "tip": "购买后立即获得："
@@ -2002,7 +2000,10 @@
     "tip": "已购买"
   },
   "blackfriday_pack_select_skinall": {
-    "tip": "促销换装兑换券仅能兑换指定列表中的换装。若当前已全部拥有，兑换券将无法使用！"
+    "tip": "促销换装兑换券仅能兑换指定列表中的换装。若当前已全部拥有，兑换券将转为抵扣券！"
+  },
+  "blackfriday_pack_select_skinall_dialog": {
+    "tip": "您当前已拥有该自选券中所含的全部换装\n是否将<color=#92fc63>$1</color>转换为<color=#92fc63>$2</color>？"
   },
   "blueprint_build_consume": {
     "tip": "需要花费 '$1' 是否开始研究？"
@@ -2240,16 +2241,16 @@
     "tip": "是否升级？升级会消耗对应材料"
   },
   "buildship_heavy_tip": {
-    "tip": "{namecode:453} 建造追加！"
+    "tip": "苏维埃贝拉罗斯、塔林 等角色建造追加！"
   },
   "buildship_light_tip": {
-    "tip": "{namecode:446} 建造追加！"
+    "tip": "基洛夫、雷鸣、摩尔曼斯克 建造追加！"
   },
   "buildship_new_tip": {
-    "tip": "每累计建造200次可获得海上传奇舰船 关岛(最多4次)"
+    "tip": "每累计建造200次可获得海上传奇舰船 {namecode:463}(最多4次)"
   },
   "buildship_special_tip": {
-    "tip": "{namecode:470}、{namecode:474} 等角色建造追加！"
+    "tip": "忒修斯、华甲 等角色建造追加！"
   },
   "buleprint_need_level_tip": {
     "tip": "需角色到达$1级"
@@ -2364,6 +2365,21 @@
   },
   "cannot_build_multiple_printblue": {
     "tip": "是否中止<color=#92fc63>$1</color>的研究，并开启<color=#92fc63>$2</color>的研究？开始研究后<color=#92fc63>24小时之内</color>无法更换其他研究对象"
+  },
+  "card_battle_card details": {
+    "tip": "C A R D   D E T A I L S"
+  },
+  "card_battle_card details_deck": {
+    "tip": "待抽取指令 "
+  },
+  "card_battle_card details_hand": {
+    "tip": "当  前  指  令"
+  },
+  "card_battle_card details_switchto_deck": {
+    "tip": "查看待抽取指令 "
+  },
+  "card_battle_card details_switchto_hand": {
+    "tip": "查看当前指令 "
   },
   "card_battle_card_empty_ch": {
     "tip": "暂  无  待  抽  取  指  令"
@@ -2709,6 +2725,9 @@
   "charge_limit_lv": {
     "tip": "$1级解锁"
   },
+  "charge_limit_monthly": {
+    "tip": "本月可购买次数：$1"
+  },
   "charge_limit_weekly": {
     "tip": "本周可购买次数：$1"
   },
@@ -2790,6 +2809,394 @@
         "info": "活动规则：\n1.<color=#92fc63>9月08日</color>为止每日0点开放<color=#92fc63>1</color>场新游戏，总计<color=#92fc63>7</color>场，可累计。完成7场游戏可以获得包括限定家具在内的丰富奖励。\n游戏规则：\n1.屏幕中有三个杯面，其中一个放入了一把叉子，之后杯面位置会进行交换。猜中叉子所在的杯面可获得积分并继续下一轮比赛。\n2.获得积分由基础得分和剩余时间得分组成，游戏难度会随着游戏轮数的增加逐渐提高。\n3.猜错叉子所在杯面，单轮时间用尽或点击游戏内退出按钮均视为游戏完成。因为其他原因中途退出游戏则视为未完成。"
       }
     ]
+  },
+  "child_archive_name": {
+    "tip": "姓名"
+  },
+  "child_attr_name1": {
+    "tip": "属性"
+  },
+  "child_attr_name2": {
+    "tip": "能力"
+  },
+  "child_bag_empty_tip": {
+    "tip": "-暂未获得任何道具-"
+  },
+  "child_btn_bag": {
+    "tip": "背包"
+  },
+  "child_btn_collect": {
+    "tip": "回忆"
+  },
+  "child_btn_home": {
+    "tip": "回家"
+  },
+  "child_btn_mind": {
+    "tip": "心事"
+  },
+  "child_btn_news": {
+    "tip": "本月资讯快报"
+  },
+  "child_btn_review": {
+    "tip": "剧情回顾"
+  },
+  "child_btn_target": {
+    "tip": "目标"
+  },
+  "child_buff_name": {
+    "tip": "状态"
+  },
+  "child_callname_tip": {
+    "tip": "请输入..."
+  },
+  "child_close_tip": {
+    "tip": "点 击 空 白 处 关 闭"
+  },
+  "child_collect_lock": {
+    "tip": "-待解锁-"
+  },
+  "child_date_text1": {
+    "tip": "居家阶段"
+  },
+  "child_date_text2": {
+    "tip": "学前准备"
+  },
+  "child_date_text3": {
+    "tip": "系统升级"
+  },
+  "child_date_text4": {
+    "tip": "数据准备"
+  },
+  "child_default_callname": {
+    "tip": "指挥官"
+  },
+  "child_end_sure_tip": {
+    "tip": "是否进行结局判定"
+  },
+  "child_extraAttr_sure_tip": {
+    "tip": "是否确认个性补正？确认后将无法修改"
+  },
+  "child_favor_lock1": {
+    "tip": "好感度达到$1级"
+  },
+  "child_favor_lock2": {
+    "tip": "仅$1解锁"
+  },
+  "child_favor_progress": {
+    "tip": "当前进度：$1"
+  },
+  "child_filter_award_attr1": {
+    "tip": "属性"
+  },
+  "child_filter_award_attr2": {
+    "tip": "能力"
+  },
+  "child_filter_award_nature": {
+    "tip": "个性"
+  },
+  "child_filter_award_res": {
+    "tip": "资源"
+  },
+  "child_filter_title": {
+    "tip": "筛选"
+  },
+  "child_filter_type1": {
+    "tip": "行程类型"
+  },
+  "child_filter_type2": {
+    "tip": "获得类型"
+  },
+  "child_filter_type3": {
+    "tip": "消耗类型"
+  },
+  "child_item_type0": {
+    "tip": "全部"
+  },
+  "child_item_type1": {
+    "tip": "书籍"
+  },
+  "child_item_type2": {
+    "tip": "乐器"
+  },
+  "child_item_type3": {
+    "tip": "工具"
+  },
+  "child_item_type4": {
+    "tip": "杂物"
+  },
+  "child_main_help": {
+    "tip": {
+      "1": {
+        "icon": {
+          "atlas": "helpbg/educate_tb_help1",
+          "path": ""
+        }
+      },
+      "2": {
+        "icon": {
+          "atlas": "helpbg/educate_tb_help2",
+          "path": ""
+        }
+      },
+      "3": {
+        "icon": {
+          "atlas": "helpbg/educate_tb_help3",
+          "path": ""
+        }
+      },
+      "4": {
+        "icon": {
+          "atlas": "helpbg/educate_tb_help4",
+          "path": ""
+        }
+      },
+      "5": {
+        "icon": {
+          "atlas": "helpbg/educate_tb_help5",
+          "path": ""
+        }
+      },
+      "defaultpage": 1,
+      "disableScroll": true,
+      "helpSize": {
+        "x": 1176,
+        "y": 1024
+      },
+      "ImageMode": true,
+      "pageMode": true,
+      "windowPos": {
+        "y": -70
+      },
+      "windowSize": {
+        "x": 1263,
+        "y": 873
+      }
+    }
+  },
+  "child_mind_empty_tip": {
+    "tip": "-当前暂无任何心事-"
+  },
+  "child_mind_finish_title": {
+    "tip": "已达成"
+  },
+  "child_mind_processing_title": {
+    "tip": "进行中"
+  },
+  "child_mind_time_title": {
+    "tip": "剩余时间："
+  },
+  "child_mood_desc1": {
+    "tip": "当前心情阶段：郁郁寡欢  <color=#72bc42>收益减少40%%</color>"
+  },
+  "child_mood_desc2": {
+    "tip": "当前心情阶段：心情不佳  <color=#72bc42>收益减少20%%</color>"
+  },
+  "child_mood_desc3": {
+    "tip": "当前心情阶段：心平气和  <color=#72bc42>没有额外效果</color>"
+  },
+  "child_mood_desc4": {
+    "tip": "当前心情阶段：心花怒放  <color=#72bc42>收益增加40%%</color>"
+  },
+  "child_mood_desc5": {
+    "tip": "当前心情阶段：心花怒放  <color=#72bc42>收益增加40%%</color>"
+  },
+  "child_msg_owned": {
+    "tip": "已拥有：$1"
+  },
+  "child_msg_title_detail": {
+    "tip": "详情"
+  },
+  "child_msg_title_tip": {
+    "tip": "提示"
+  },
+  "child_nature_title": {
+    "tip": "个性："
+  },
+  "child_news_import_empty": {
+    "tip": "本月暂无重要活动"
+  },
+  "child_news_import_title": {
+    "tip": "重要活动"
+  },
+  "child_news_other_empty": {
+    "tip": "本月暂无其他活动"
+  },
+  "child_news_other_title": {
+    "tip": "其它活动"
+  },
+  "child_no_resource": {
+    "tip": "资源不够啦"
+  },
+  "child_option_limit": {
+    "tip": "限时"
+  },
+  "child_plan_check_tip1": {
+    "tip": "行程格不足，请按顺序预留足够的行程格"
+  },
+  "child_plan_check_tip2": {
+    "tip": "行程不满足前置属性"
+  },
+  "child_plan_check_tip3": {
+    "tip": "行程不满足历史行程数量"
+  },
+  "child_plan_check_tip4": {
+    "tip": "行程所需金钱不足"
+  },
+  "child_plan_check_tip5": {
+    "tip": "行程所需心情不足"
+  },
+  "child_plan_event": {
+    "tip": "重要活动"
+  },
+  "child_plan_no_cost": {
+    "tip": "- 无消耗 -"
+  },
+  "child_plan_perform_title": {
+    "tip": "行程安排"
+  },
+  "child_plan_skip": {
+    "tip": "跳过行程动画"
+  },
+  "child_plan_type1": {
+    "tip": "学校课程"
+  },
+  "child_plan_type2": {
+    "tip": "兴趣活动"
+  },
+  "child_plan_type3": {
+    "tip": "社会活动"
+  },
+  "child_plan_type4": {
+    "tip": "自由活动"
+  },
+  "child_polaroid_get_tip": {
+    "tip": "已收录，可于「瞬间」中查看"
+  },
+  "child_polaroid_lock_tip": {
+    "tip": "通关不同结局后可查看"
+  },
+  "child_random_ops_drop": {
+    "tip": "随机奖励"
+  },
+  "child_random_polaroid_drop": {
+    "tip": "瞬间"
+  },
+  "child_refresh_sure_tip": {
+    "tip": "是否重新开始养成计划？"
+  },
+  "child_reset_sure_tip": {
+    "tip": "重置后将从认知阶段重新开始收集数据，已获得的回忆仍可查看。是否重置？"
+  },
+  "child_schedule_empty_tip": {
+    "tip": "点击左侧行程表添加行程"
+  },
+  "child_schedule_event_tip": {
+    "tip": "此处已经被安排好重要活动啦~"
+  },
+  "child_schedule_sure_tip": {
+    "tip": "存在未安排的行程，领航员将会休息，是否确认进入下一周？"
+  },
+  "child_schedule_sure_tip2": {
+    "tip": "存在未消耗完的行动力，是否确认进入下一周？"
+  },
+  "child_school_sure_tip": {
+    "tip": "入学后，当前的成长目标将会刷新，未使用的行动力也不会保存。是否确认入学？"
+  },
+  "child_shop_empty_tip": {
+    "tip": "-本商店商品已经全部售罄-"
+  },
+  "child_shop_price_title": {
+    "tip": "合计："
+  },
+  "child_shop_tip1": {
+    "tip": "※此商店商品每$1周刷新"
+  },
+  "child_shop_tip2": {
+    "tip": "※此商店商品只可购买一次"
+  },
+  "child_stage_desc1": {
+    "tip": "认知阶段"
+  },
+  "child_stage_desc2": {
+    "tip": "成长阶段"
+  },
+  "child_stage_desc3": {
+    "tip": "发展阶段"
+  },
+  "child_story_name": {
+    "tip": "指挥官"
+  },
+  "child_target_finish_tip": {
+    "tip": "本阶段目标已达成~"
+  },
+  "child_target_lock_tip": {
+    "tip": "当前阶段目标已设定，不可修改"
+  },
+  "child_target_progress": {
+    "tip": "完成度："
+  },
+  "child_target_set_empty": {
+    "tip": "尚未设定目标"
+  },
+  "child_target_set_skip": {
+    "tip": "点击跳转至<color=#39BFFF>目标设定</color>"
+  },
+  "child_target_set_sure_tip": {
+    "tip": "是否确认设定该成长目标？将以<color=#72bc42>$1</color>作为主要养成内容\n确认后本阶段内成长目标将不可修改"
+  },
+  "child_target_time_title": {
+    "tip": "剩余完成时间："
+  },
+  "child_target_title1": {
+    "tip": "主线目标"
+  },
+  "child_target_title2": {
+    "tip": "成长目标"
+  },
+  "child_task_finish_all": {
+    "tip": "当前阶段成长目标已完成"
+  },
+  "child_task_system_type2": {
+    "tip": "成长"
+  },
+  "child_task_system_type3": {
+    "tip": "主线"
+  },
+  "child_unlock_attr2": {
+    "tip": "个性"
+  },
+  "child_unlock_attr3": {
+    "tip": "能力"
+  },
+  "child_unlock_bag": {
+    "tip": "背包"
+  },
+  "child_unlock_buff": {
+    "tip": "状态"
+  },
+  "child_unlock_ending": {
+    "tip": "结局"
+  },
+  "child_unlock_intimacy": {
+    "tip": "好感度"
+  },
+  "child_unlock_memory": {
+    "tip": "回忆"
+  },
+  "child_unlock_new_secretary": {
+    "tip": "领航员-TB新外形模块已解锁，现可于特殊秘书舰界面进行更换"
+  },
+  "child_unlock_out": {
+    "tip": "出行"
+  },
+  "child_unlock_polaroid": {
+    "tip": "瞬间"
+  },
+  "child_unlock_tip": {
+    "tip": "解锁"
+  },
+  "child_upgrade_sure_tip": {
+    "tip": "系统升级后，当前的成长目标将会刷新，未使用的行动力也不会保存。是否确认进行系统升级？"
   },
   "choose_ship_to_wear_this_skin": {
     "tip": "请选择需要换装的角色"
@@ -2915,7 +3322,7 @@
         "info": "游戏规则"
       },
       {
-        "info": "1.每张绘图日记的单元格上标注有对应的颜料编号，点击右侧对应编号的颜料即可自动进行上色。\n2.绘图区域可以通过双指拉伸或缩小。\n3.上色会对同色单元格自动上色，直到颜料耗尽或涂满。\n4.上色会消耗颜料，剩余颜料为0时不可以上色。\n5.颜料可通过活动任务累计消耗石油获得。\n6.完成上色可以获得奖励。\n7.各图完成奖励明细如下：\n\t完成图1获得物资 x100；\n\t完成图2获得T3随机教材 x2；\n\t完成图3获得物资 x100；\n\t完成图4获得T3主炮改造部件 x2；\n\t完成图5获得物资 x100；\n\t完成图6获得T3通用改造部件 x3；\n\t完成图7获得丘比特限定换装 x1。\n8.活动结束后，未消耗的颜料会被清除。\n9.<color=#92fc63>6月21日</color>为止每天解锁一个可完成的绘图。"
+        "info": "1.每张绘图日记的单元格上标注有对应的颜料编号，点击右侧对应编号的颜料即可自动进行上色。\n2.绘图区域可以通过双指拉伸或缩小。\n3.上色会对同色单元格自动上色，直到颜料耗尽或涂满。\n4.上色会消耗颜料，剩余颜料为0时不可以上色。\n5.颜料可通过活动任务累计消耗石油获得。\n6.完成上色可以获得奖励。\n7.各图完成奖励明细如下：\n\t完成图1获得T3随机教材 x2；\n\t完成图2获得红包 x2；\n\t完成图3获得T3主炮改造部件 x2；\n\t完成图4获得红包 x2；\n\t完成图5获得逸仙设备·梅之语 x1；\n\t完成图6获得红包 x2；\n\t完成图7获得鞍山 x1、 红包 x1。\n8.活动结束后，未消耗的颜料会被清除。\n9.<color=#92fc63>2月5日</color>为止每天解锁一个可完成的绘图。"
       }
     ]
   },
@@ -3256,6 +3663,9 @@
   },
   "common_activity_notStartOrEnd": {
     "tip": "该活动<color=#92fc63>未开始</color>或<color=#92fc63>已经结束</color>"
+  },
+  "common_already owned": {
+    "tip": "已拥有"
   },
   "common_buy_gold_success": {
     "tip": "成功购买 <color=#92fc63>$1</color> 物资！"
@@ -3802,6 +4212,13 @@
     "tip": [
       {
         "info": "巡游任务说明\n\n·<color=#92fc63>开放时间</color>\n    2023.11.30 0点 ~ 2024.1.31 23:59:59\n\n·<color=#92fc63>巡游任务分为两种</color>\n（1）每周任务\n    巡游任务中共有8组每周任务。自活动开始后解锁第一周任务，之后每周一的0点解锁下一组每周任务。\n（2）S.P.任务\n    S.P.任务为一组特殊任务，在活动开始后会直接处于全部解锁状态。\n（3）巡游任务在解锁后将自动接取，满足任务完成条件时，会自动完成并获取对应奖励\n\n·<color=#92fc63>「巡游任务快速完成券」说明</color>\n（1）「巡游任务快速完成券」可以在巡游任务界面使用，花费一定数量的「巡游任务快速完成券」可以直接完成每周巡游任务\n（2）在「巡游任务快速完成券」数量不足时，指挥官可花费钻石进行补齐\n（3）每个巡游任务需要消耗的「巡游任务快速完成券」数量和其提供的「巡游点数」相关，与当前任务进度无关\n（4）「巡游任务快速完成券」<color=#92fc63>不会随本期活动结束而消失</color>"
+      }
+    ]
+  },
+  "cruise_task_help_2402": {
+    "tip": [
+      {
+        "info": "巡游任务说明\n\n·<color=#92fc63>开放时间</color>\n    2024.1.31 0点 ~ 2024.3.31 23:59:59\n\n·<color=#92fc63>巡游任务分为两种</color>\n（1）每周任务\n    巡游任务中共有8组每周任务。自活动开始后解锁第一周任务，之后每周一的0点解锁下一组每周任务。\n（2）S.P.任务\n    S.P.任务为一组特殊任务，在活动开始后会直接处于全部解锁状态。\n（3）巡游任务在解锁后将自动接取，满足任务完成条件时，会自动完成并获取对应奖励\n\n·<color=#92fc63>「巡游任务快速完成券」说明</color>\n（1）「巡游任务快速完成券」可以在巡游任务界面使用，花费一定数量的「巡游任务快速完成券」可以直接完成每周巡游任务\n（2）在「巡游任务快速完成券」数量不足时，指挥官可花费钻石进行补齐\n（3）每个巡游任务需要消耗的「巡游任务快速完成券」数量和其提供的「巡游点数」相关，与当前任务进度无关\n（4）「巡游任务快速完成券」<color=#92fc63>不会随本期活动结束而消失</color>"
       }
     ]
   },
@@ -5190,6 +5607,18 @@
   "five_shujuhuigu1": {
     "tip": "推进至$1"
   },
+  "flagship_display_mode_1": {
+    "tip": "不显示特殊秘书舰"
+  },
+  "flagship_display_mode_2": {
+    "tip": "仅显示特殊秘书舰"
+  },
+  "flagship_display_mode_3": {
+    "tip": "均显示"
+  },
+  "flagship_educate_slot_lock_tip": {
+    "tip": "完成<color=#39bfff>「养成计划」</color>主线剧情-新生活(上)后即可解锁特殊秘书舰"
+  },
   "fleet_antisub_range": {
     "tip": "反潜范围"
   },
@@ -5426,7 +5855,7 @@
   "fushun_game3_tip": {
     "tip": [
       {
-        "info": "活动规则：\n1.<color=#92fc63>2月2日</color>为止每日0点开放<color=#92fc63>1</color>回新游戏，总计<color=#92fc63>7</color>回，可累计。完成7回游戏可以获得包括抚顺在内的丰富奖励。\n游戏规则：\n1.每局游戏不限时间，损失4点血量或掉下屋顶游戏结束\n2.点击左侧跳跃按钮抚顺会进行跳跃，点击右侧攻击按钮抚顺会进行攻击\n3.吃到不同的道具将会有不同的效果\n金币：获得50分\n玉佩：获得300分\n跑鞋：跳跃力&移速增加，可通过跳跃踩消灭年兽啾\n导弹炮：攻击变为远程导弹攻击\n磁铁：会自动吸引附近的道具\n消灭年兽啾会获得500分\n4.完成游戏或点击游戏内退出按钮均视为游戏完成。因为其他原因中途退出游戏则视为未完成。"
+        "info": "活动规则：\n1.<color=#92fc63>2月22日</color>为止每日0点开放<color=#92fc63>1</color>回新游戏，总计<color=#92fc63>7</color>回，可累计。完成7回游戏可以获得包括抚顺在内的丰富奖励。\n游戏规则：\n1.每局游戏不限时间，损失4点血量或掉下屋顶游戏结束\n2.点击左侧跳跃按钮抚顺会进行跳跃，点击右侧攻击按钮抚顺会进行攻击\n3.吃到不同的道具将会有不同的效果\n金币：获得50分\n玉佩：获得300分\n跑鞋：跳跃力&移速增加，可通过跳跃踩消灭年兽啾\n导弹炮：攻击变为远程导弹攻击\n磁铁：会自动吸引附近的道具\n护盾：可以抵消一次伤害，最多同时持有三个\n消灭年兽啾会获得500分\n4.完成游戏或点击游戏内退出按钮均视为游戏完成。因为其他原因中途退出游戏则视为未完成。"
       }
     ]
   },
@@ -5784,6 +6213,9 @@
   },
   "guild_donate_techpoint_toplimit": {
     "tip": "本日军需筹备可获取的筹备进度已达到上限，无法继续获取"
+  },
+  "guild_donate_times_not enough": {
+    "tip": "今日筹备次数已用完"
   },
   "guild_donate_tip": {
     "tip": "即将提交<color=#92FC63FF>$1$2</color>个(目前拥有<color=$4>$3</color>个)，为大舰队提供后勤补给，是否确定？"
@@ -6760,7 +7192,7 @@
   "harbor_backhill_help": {
     "tip": [
       {
-        "info": "活动简介：\n<color=#92fc63>10.25-11.9 维护</color>期间开启限时活动「神秘港湾」\n活动规则：\n1.活动期间开启「皇家财富的秘密船厂」第二阶段，参与活动可获得限定家具<color=#92fc63>「启航的冒险船」</color>、<color=#92fc63>「飓风的馈赠」</color>、<color=#92fc63>「果蔬补给品」</color>、<color=#92fc63>「喵箱SSR型」</color>在内的丰富奖励\n2.活动期间开启「啾啾悬赏板」，参与活动可获得限定纪念章<color=#92fc63>「璀璨航针」</color>、<color=#92fc63>「旧式重火炮」</color>、<color=#92fc63>「基德喵」&「贝拉喵」</color>在内的丰富奖励\n3.点击「限时兑换」可以前往活动商店\n4.点击「限时建造」可以前往建造界面\n5.点击「换装商店」可以前往换装商店界面\n"
+        "info": "活动简介：\n<color=#92fc63>10.26-11.9 维护</color>期间开启限时活动「神秘港湾」\n活动规则：\n1.活动期间开启「皇家财富的秘密船厂」第二阶段，参与活动可获得限定家具<color=#92fc63>「启航的冒险船」</color>、<color=#92fc63>「飓风的馈赠」</color>、<color=#92fc63>「果蔬补给品」</color>、<color=#92fc63>「喵箱SSR型」</color>在内的丰富奖励\n2.活动期间开启「啾啾悬赏板」，参与活动可获得限定纪念章<color=#92fc63>「璀璨航针」</color>、<color=#92fc63>「旧式重火炮」</color>、<color=#92fc63>「基德喵」&「贝拉喵」</color>在内的丰富奖励\n3.点击「限时兑换」可以前往活动商店\n4.点击「限时建造」可以前往建造界面\n5.点击「换装商店」可以前往换装商店界面\n"
       }
     ]
   },
@@ -7385,6 +7817,13 @@
       }
     ]
   },
+  "help_chunjie2024": {
+    "tip": [
+      {
+        "info": "活动时间：<color=#92fc63>2024.1.30-2024.2.22维护</color>\n活动简介：\n<color=#92fc63>「美意延年」</color>：参与活动获取<color=#92fc63>太原</color>专属改造道具\n<color=#92fc63>「新春冒险王」</color>：参与活动获取限定角色<color=#92fc63>「飞云」</color>\n<color=#92fc63>「飞彩迎新春」</color>：参与活动获取限定角色<color=#92fc63>「定安」</color>\n<color=#92fc63>「绘图日记」</color>：参与小游戏获取限定角色<color=#92fc63>「鞍山」</color>\n<color=#92fc63>「抚顺大冒险」</color>：参与活动获取限定角色<color=#92fc63>「抚顺」</color>\n<color=#92fc63>「啾啾大酒楼」</color>：开启红包获取钻石及丰厚奖励\n<color=#92fc63>「换装商店」</color>：购买2024春节限时换装\n<color=#92fc63>「限时建造」</color>：建造2024春节限时角色"
+      }
+    ]
+  },
   "help_chunjie_feast": {
     "tip": [
       {
@@ -7395,7 +7834,7 @@
   "help_chunjie_jiulou": {
     "tip": [
       {
-        "info": "活动说明：\n1.活动期间可以通过<color=#92fc63>「抚顺大冒险Ⅳ」</color>、<color=#92fc63>「绘图日记」</color>、<color=#92fc63>「海天与海圻的画中世界」</color>、<color=#92fc63>「傲梅迎春」</color>获得红包，开启红包可以获得钻石及其他丰厚奖励\n2.红包分为bonus和普通红包，其中有<color=#92fc63>15</color>个bonus红包，其余为普通红包，开启红包时优先开启bonus红包，bonus红包开完后开启普通红包\n3.累计打开<color=#92fc63>15</color>个红包，可获得<color=#92fc63>「{namecode:417}」限定换装</color>，累计打开<color=#92fc63>25</color>个红包，可获得<color=#92fc63>「抚顺」限定换装</color>"
+        "info": "活动说明：\n1.活动期间可以通过<color=#92fc63>「抚顺大冒险Ⅴ」</color>、<color=#92fc63>「绘图日记」</color>、<color=#92fc63>「飞彩迎新春」</color>、<color=#92fc63>「新春的冒险之王」</color>获得红包，开启红包可以获得钻石及其他丰厚奖励\n2.红包分为bonus和普通红包，其中有<color=#92fc63>15</color>个bonus红包，其余为普通红包，开启红包时优先开启bonus红包，bonus红包开完后开启普通红包\n3.累计打开<color=#92fc63>15</color>个红包，可获得<color=#92fc63>「抚顺」限定换装</color>，累计打开<color=#92fc63>25</color>个红包，可获得<color=#92fc63>「{namecode:225}」限定换装</color>"
       }
     ]
   },
@@ -9836,7 +10275,7 @@
     "tip": "持有道具已达上限"
   },
   "item_lack_title": {
-    "tip": "<color=#92fc63>$1</color>不足， 可通过以下方式获取<color=#92fc63>$1</color>"
+    "tip": "<color=#92fc63>$1</color>不足， 可通过以下方式获取："
   },
   "item_type13_tip1": {
     "tip": "兑换列表"
@@ -10780,6 +11219,9 @@
       }
     ]
   },
+  "live2d_reset_desc": {
+    "tip": "Live2D状态已重置"
+  },
   "loading_tip_FModMgr": {
     "tip": "正在制造噪音..."
   },
@@ -11387,7 +11829,7 @@
         "info": "·META研究室是进行META角色获取、养成的专用系统\n·META角色拥有<color=#92fc63>「能量激活」</color>、<color=#92fc63>「战术研习」</color>、<color=#92fc63>「舰装强化」</color>、<color=#92fc63>「资讯同步」</color>4个系统模块\n·重复获取的META角色将会自动转换为1个对应的角色结晶，可用于在<color=#92fc63>「能量激活」</color>中使用。\n"
       },
       {
-        "info": "1.<color=#92fc63>资讯同步</color>\n·<color=#92fc63>2023.12.7-2024.3.7</color>期间限时开放「基洛夫·META」的「资讯同步」，通过「信标基洛夫·META」战斗获取其同步值，达到一定同步值可以获取<color=#92fc63>「基洛夫·META」角色</color>\n·获得META角色后可以通过角色的<color=#92fc63>「资讯同步」</color>模块在<color=#92fc63>上述时间</color>内继续获取包含养成材料在内的丰厚奖励\n·注意：<color=#ff5c5c>「基洛夫·META」的「资讯同步」将于时间结束后暂时关闭,已累计的同步值也会消失。</color>\n\n2.<color=#92fc63>能量激活</color>\n·META角色达到指定等级后可以使用对应的角色结晶进行激活。激活后可以提升角色星级\n·角色结晶可以通过「资讯同步」奖励获取\n"
+        "info": "1.<color=#92fc63>资讯同步</color>\n·<color=#92fc63>2023.12.7-2024.3.14</color>期间限时开放「基洛夫·META」的「资讯同步」，通过「信标基洛夫·META」战斗获取其同步值，达到一定同步值可以获取<color=#92fc63>「基洛夫·META」角色</color>\n·获得META角色后可以通过角色的<color=#92fc63>「资讯同步」</color>模块在<color=#92fc63>上述时间</color>内继续获取包含养成材料在内的丰厚奖励\n·注意：<color=#ff5c5c>「基洛夫·META」的「资讯同步」将于时间结束后暂时关闭,已累计的同步值也会消失。</color>\n\n2.<color=#92fc63>能量激活</color>\n·META角色达到指定等级后可以使用对应的角色结晶进行激活。激活后可以提升角色星级\n·角色结晶可以通过「资讯同步」奖励获取\n"
       },
       {
         "info": "3.<color=#92fc63>战术研习</color>\n·完成战术研习任务获得META角色的技能升级经验，部分任务可以重复完成\n·一名角色只能同时进行一项技能的战术研习任务，多名角色之间彼此独立，同时进行\n·一名角色每日最多获取<color=#92fc63>30000</color>点技能升级经验，其中前<color=#92fc63>60%</color>的技能升级经验拥有双倍任务完成效率\n（剩余次数不满2次时不生效）\n·任务类型和可完成次数会随着技能等级升级而刷新\n"
@@ -11611,7 +12053,7 @@
   "mini_cookgametip": {
     "tip": [
       {
-        "info": "活动规则：\n1.<color=#92fc63>9月21日</color>为止每日0点开放<color=#92fc63>1</color>场新的游戏，总计<color=#92fc63>7</color>场，可累计。完成游戏可以获得限定家具在内的丰富奖励。\n\n游戏规则：\n1.指挥官需要操控角色获取对应甜品送给场中的啾啾裁判，上对甜品加1分，上错扣1分，时间结束时分数高的一方获胜\n2.甜品大作战共计8位角色，指挥官可以选择任意角色和队友进行作战\n3.时间归零或点击游戏内退出按钮均视为游戏完成。因为其他原因中途退出游戏则视为未完成。"
+        "info": "活动规则：\n1.<color=#92fc63>12月27日</color>为止每日0点开放<color=#92fc63>1</color>场新的游戏，总计<color=#92fc63>7</color>场，可累计。完成游戏可以获得限定家具在内的丰富奖励。\n\n游戏规则：\n1.指挥官需要操控角色获取对应甜品送给场中的啾啾裁判，上对甜品加分，上错扣分，时间结束时分数高的一方获胜\n2.甜品大作战共计12位角色，指挥官可以选择任意角色和队友进行作战\n3.时间归零或点击游戏内退出按钮均视为游戏完成。因为其他原因中途退出游戏则视为未完成。"
       }
     ]
   },
@@ -12098,8 +12540,48 @@
   "nodisplay_player_home_share": {
     "tip": "玩家分享的主题"
   },
+  "Normalbuild_URexchange_confirm": {
+    "tip": "是否消耗400累计点数，兑换角色$1？"
+  },
+  "Normalbuild_URexchange_help": {
+    "tip": [
+      {
+        "info": "常驻UR兑换说明："
+      },
+      {
+        "info": "    ·进行常驻轻型建造池、常驻重型建造池、常驻特型建造池、不包含海上传奇稀有度角色的活动限时建造池建造时，每消耗1魔方，将获得1点常驻UR兑换累计点数，点数上限为400；\n    ·使用建造券进行对应建造也可以获得点数；\n"
+      },
+      {
+        "info": "    ·累计400点数后，可选择获取任意一位已加入常规建造的海上传奇角色，获取后该计数重置；"
+      }
+    ]
+  },
+  "Normalbuild_URexchange_text1": {
+    "tip": "常驻UR兑换"
+  },
+  "Normalbuild_URexchange_text2": {
+    "tip": "累计点数"
+  },
+  "Normalbuild_URexchange_text3": {
+    "tip": "查看可兑换角色"
+  },
+  "Normalbuild_URexchange_text4": {
+    "tip": "兑换角色"
+  },
+  "Normalbuild_URexchange_warning1": {
+    "tip": "累计点数不足"
+  },
+  "Normalbuild_URexchange_warning3": {
+    "tip": "常驻UR兑换点数已达上限，未兑换UR角色前继续建造不能获得点数，是否继续建造？"
+  },
+  "not yet completed": {
+    "tip": "尚未完成"
+  },
   "not_exist_guild_use_item": {
     "tip": "未加入大舰队，无法使用该道具"
+  },
+  "not_use_ticket_to_buy_skin": {
+    "tip": "不使用换装抵扣券"
   },
   "notice_input_desc": {
     "tip": "最多输入40字......"
@@ -12428,7 +12910,7 @@
         "info": "4.指挥官可以从中选择2名角色作为祈愿角色"
       },
       {
-        "info": "5.可选名单仅包含3月23日前常驻加入对应建造的角色"
+        "info": "5.可选名单仅包含7月13日前常驻加入对应建造的角色"
       },
       {
         "info": "6.有建造解锁条件的角色无法被选为祈愿角色，\n不会在祈愿建造中出现。"
@@ -12540,7 +13022,7 @@
   "pvzminigame_help": {
     "tip": [
       {
-        "info": "活动规则：\n1.<color=#92fc63>2022.12.28</color>为止每日0点开放<color=#92fc63>1</color>关新的游戏，总计<color=#92fc63>7</color>关，可累计。完成游戏可以获得伯明翰限定换装「乘风破浪之时」。\n\n游戏规则：\n1.指挥官需要部署攻击或防御类型的角色来阻挡塞壬的进攻，部署角色需要消耗一定数量的「烟花」！\n2.生产啾可以生产「烟花」，指挥官请部署较多的生产啾保证「烟花」供应！\n3.角色分为基础角色和限定角色，限定角色场上仅能部署一个！\n基础角色：战斗啾、防御啾、生产啾\n限定角色：能代、柴郡、樫野、利托里奥、伯明翰\n4.指挥官可以在「游戏手册」处查看角色、敌人的详细说明。\n5.指挥官可以召回已部署的角色，召回角色不返还消耗的「烟花」。\n6.点击游戏内退出按钮也视为游戏完成。因其他原因中途退出游戏则视为未完成。\n7.第七关·无尽：敌人会不断刷新且难度越来越高；指挥官可以尝试挑战获取更高分数！"
+        "info": "活动规则：\n1.<color=#92fc63>2024.1.10</color>为止每日0点开放<color=#92fc63>1</color>关新的游戏，总计<color=#92fc63>7</color>关，可累计。完成游戏可以获得伯明翰限定换装「乘风破浪之时」。\n\n游戏规则：\n1.指挥官需要部署攻击或防御类型的角色来阻挡塞壬的进攻，部署角色需要消耗一定数量的「烟花」！\n2.生产啾可以生产「烟花」，指挥官请部署较多的生产啾保证「烟花」供应！\n3.角色分为基础角色和限定角色，限定角色场上仅能部署一个！\n基础角色：战斗啾、防御啾、生产啾\n限定角色：{namecode:50}、柴郡、{namecode:188}、利托里奥、伯明翰\n4.指挥官可以在「游戏手册」处查看角色、敌人的详细说明。\n5.指挥官可以召回已部署的角色，召回角色不返还消耗的「烟花」。\n6.点击游戏内退出按钮也视为游戏完成。因其他原因中途退出游戏则视为未完成。\n7.第七关·无尽：敌人会不断刷新且难度越来越高；指挥官可以尝试挑战获取更高分数！"
       }
     ]
   },
@@ -13809,6 +14291,18 @@
   "secretary_pos_save_success": {
     "tip": "保存成功"
   },
+  "secretary_special_lock_tip": {
+    "tip": "当前外形模块未满足开放条件"
+  },
+  "secretary_special_name": {
+    "tip": "领航员-TB"
+  },
+  "secretary_special_title_age": {
+    "tip": "更换外形模块"
+  },
+  "secretary_special_title_physiognomy": {
+    "tip": "更换外形模块"
+  },
   "secretary_unlock2": {
     "tip": "完成关卡3-4后解锁"
   },
@@ -14748,16 +15242,25 @@
   "ship_remould_warning_502114": {
     "tip": "此次改造操作后<color=#92fc63>【东煌之绊】</color>技能\n将升级为<color=#92fc63>【东煌之绊 ·改】</color>"
   },
+  "ship_remould_warning_506114": {
+    "tip": "此次改造操作后<color=#92fc63>【第一武器栏位可以装备战斗机】【第一武器栏位舰载机数量+2】</color>、<color=#92fc63>【第二武器栏位可以装备任意类型舰载机】【第二武器栏位舰载机数量/底座数量+1】</color>\n是否确认继续操作？"
+  },
   "ship_remould_warning_520014": {
     "tip": "此次改造操作后舰艇类型变化为：\n导弹驱逐舰（先锋舰队模式）\n舰船数值及特性将有部分调整\n是否确认继续操作？"
   },
   "ship_remould_warning_520034": {
     "tip": "此次改造操作后舰艇类型变化为：\n导弹驱逐舰（先锋舰队模式）\n舰船数值及特性将有部分调整\n是否确认继续操作？"
   },
+  "ship_remould_warning_520044": {
+    "tip": "此次改造操作后舰艇类型变化为：\n导弹驱逐舰（先锋舰队模式）\n舰船数值及特性将有部分调整\n是否确认继续操作？"
+  },
   "ship_remould_warning_521014": {
     "tip": "此次改造操作后舰艇类型变化为：\n导弹驱逐舰（主力舰队模式）\n舰船数值及特性将有部分调整\n是否确认继续操作？"
   },
   "ship_remould_warning_521034": {
+    "tip": "此次改造操作后舰艇类型变化为：\n导弹驱逐舰（主力舰队模式）\n舰船数值及特性将有部分调整\n是否确认继续操作？"
+  },
+  "ship_remould_warning_521044": {
     "tip": "此次改造操作后舰艇类型变化为：\n导弹驱逐舰（主力舰队模式）\n舰船数值及特性将有部分调整\n是否确认继续操作？"
   },
   "ship_remould_warning_702124": {
@@ -14993,7 +15496,7 @@
     ]
   },
   "shipyard_phase_2": {
-    "tip": "占坑"
+    "tip": "废弃"
   },
   "shoot_preview": {
     "tip": "发射效果"
@@ -15115,6 +15618,9 @@
   "skin_exchange_title": {
     "tip": "可兑换换装"
   },
+  "skin_exchange_usetip": {
+    "tip": "购买的礼包内包含限时道具$1，前往仓库使用"
+  },
   "skin_gift_desc": {
     "tip": "从如下换装中随机获得1件换装(如果该换装已拥有，则会自动转化为该换装等价的钻石) \n包含的换装和概率如下：\n $1"
   },
@@ -15125,7 +15631,10 @@
     "tip": "点击签到"
   },
   "skin_purchase_confirm": {
-    "tip": "是否消耗<color=#92fc63>$1*1</color>购买折扣价\n<icon name=gem w=0.6 h=0.6/><color=#FFDE38FF>$2</color>的$3皮肤"
+    "tip": "是否消耗<color=#92fc63>$1*1</color>购买折扣价\n<icon name=gem w=0.6 h=0.6/><color=#FFDE38FF>$2</color>的<color=#92fc63>$3</color>皮肤"
+  },
+  "skin_purchase_over_price": {
+    "tip": "是否消耗<color=#92fc63>$1*1</color>购买折扣价\n<icon name=gem w=0.6 h=0.6/><color=#FFDE38FF>$2</color>的<color=#92fc63>$3</color>皮肤\n（超过换装售价的部分不返还）"
   },
   "skin_remain_time": {
     "tip": "下架剩余时间"
@@ -15836,6 +16345,9 @@
   },
   "tec_catchup_4": {
     "tip": "四期"
+  },
+  "tec_catchup_5": {
+    "tip": "五期"
   },
   "tec_catchup_errorfix": {
     "tip": "由于「新兵训练」中「科研任务·一期」存在完成后刷新异常的问题。公平起见，第一次完成「科研任务·一期」任务后，将自动重置一次一期的任务，确保所有指挥官都能完成两轮「科研任务·一期」。"
@@ -16557,7 +17069,7 @@
   "vote_help_2023": {
     "tip": [
       {
-        "info": "<color=#FFDD00>AZURLANE人气投票2023活动规则说明</color>\n\n活动说明：\n· 活动时间：<color=#92fc63>2023年12月7日 – 2024年2月5日24时</color>\n· 本次人气投票活动，将显示服务器合计投票情况。\n· 2021年投票活动进入决胜阶段<color=#92fc63>前三名</color>的角色，本次将加入<color=#92fc63>荣耀殿堂</color>。包括2017、2019年往届荣耀殿堂角色在内，共9名角色，不参与本次投票。\n· 除9名殿堂角色外，其余<color=#92fc63>2023年11月23日前</color>加入游戏的角色将参与常规投票（方案舰角色参与常规投票；联动、META、小船角色不参与常规投票；II型、Zwei型、μ型、IF型视为与本体同一角色，不参与本次人气投票）。\n\n投票券获取方式：\n指挥官等级达到25级的玩家，可以通过以下方式获得<color=#92fc63>投票券</color>。\n除趣味投票外的其他投票阶段：\n· 活动期间，通过完成<color=#92fc63>每日任务</color>，可获得<color=#92fc63>投票券</color>。每个每日任务可获得<color=#92fc63>投票券x2</color>，每日可获得上限为20张。\n· 活动期间，通过完成<color=#92fc63>期间任务</color>，可获得<color=#92fc63>投票券</color>。每个投票阶段可通过期间任务获得的投票券数量有上限。\n\t期间任务可获取投票券上限：\n\t\t预选赛：480\n\t\t小组赛A：200\n\t\t小组赛B：200\n\t\t小组赛C：200\n\t\t小组赛D：200\n\t\t决胜复活赛：160\n\t\t决赛：280\n· 每轮投票结束时，剩余的<color=#92fc63>投票券</color>、<color=#92fc63>期间任务进度</color>将<color=#92fc63>重置清空</color>。\n趣味投票阶段：\n活动期间，每日登陆可获得<color=#92fc63>投票券</color>。\n\n赛程安排：\n本次投票分为以下10个阶段：\n<color=#92fc63>预选赛</color>：\t2023年12月7日维护后-2023年12月18日24时\n<color=#92fc63>小组赛A</color>：\t2023年12月21日0时-2023年12月25日24时\n<color=#92fc63>趣味投票一</color>：2023年12月26日0时-2023年12月28日24时\n<color=#92fc63>小组赛B</color>：\t2023年12月30日0时-2024年1月3日24时\n<color=#92fc63>趣味投票二</color>：2024年1月4日0时-2024年1月6日24时\n<color=#92fc63>小组赛C</color>：\t2024年1月8日0时-2024年1月12日24时\n<color=#92fc63>趣味投票三</color>：2024年1月13日0时-2024年1月15日24时\n<color=#92fc63>小组赛D</color>：\t2024年1月17日0时-2024年1月21日24时\n<color=#92fc63>决胜复活赛</color>：2024年1月23日0时-2024年1月26日24时\n<color=#92fc63>决赛</color>：\t2024年1月30日0时-2024年2月5日24时\n\n每轮投票结束后，将在<color=#92fc63>赛程信息</color>中展示该轮投票的统计结果。\n\n各阶段规则：\n<color=#92fc63>预选赛</color>\n<color=#92fc63>预选赛</color>投票结果仅展示角色得票排名，不展示得票数量。\n<color=#92fc63>预选赛</color>由除9名殿堂角色、联动角色、META角色、小船角色外，其他角色参加。II型、Zwei型、μ型、IF型视为与本体同一角色，不参与本次人气投票。\n<color=#92fc63>预选赛</color>获得票数排名前240名的角色，将根据排名，自动\n分成4组，每组60名角色，进入<color=#92fc63>小组赛</color>。\n\n<color=#92fc63>小组赛</color>\n<color=#92fc63>小组赛</color>由<color=#92fc63>预选赛</color>前240名的角色自动分组组成，共4个小\n组，每组60名角色。\n每个小组内获得前5名的角色，将直接进入<color=#92fc63>决赛</color>，第6至第15名的角色，将进入<color=#92fc63>决胜复活赛</color>。其余角色将被淘汰。\n\n<color=#92fc63>趣味投票</color>\n<color=#92fc63>趣味投票</color>共分为3场：塞壬、META、小船。趣味投票角色不参与常规投票。\n\n<color=#92fc63>决胜复活赛</color>\n<color=#92fc63>决胜复活赛</color>由<color=#92fc63>小组赛</color>每个小组第6名至第15名的角色参加。\n<color=#92fc63>决胜复活赛</color>中的前15名角色，将进入<color=#92fc63>决赛</color>，其余角色将被淘汰。\n\n<color=#92fc63>决赛</color>\n<color=#92fc63>决赛</color>由<color=#92fc63>小组赛</color>各小组的前5名，<color=#92fc63>决胜复活赛</color>的前15名，共35名角色参加。\n\n同票规则：\n<color=#92fc63>预选赛</color>中若出现同票情况，按照达到票数的先后处理。\n<color=#92fc63>小组赛</color>、<color=#92fc63>决胜复活赛</color>、<color=#92fc63>决赛</color>中若出现同票情况，按照<color=#92fc63>预\n选赛</color>的排名先后处理。\n"
+        "info": "<color=#FFDD00>AZURLANE人气投票2023活动规则说明</color>\n\n活动说明：\n· 活动时间：<color=#92fc63>2023年12月7日 – 2024年2月5日24时</color>\n· 本次人气投票活动，将显示服务器合计投票情况。\n· 2021年投票活动进入决胜阶段<color=#92fc63>前三名</color>的角色，本次将加入<color=#92fc63>荣耀殿堂</color>。包括2017、2019年往届荣耀殿堂角色在内，共9名角色，不参与本次投票。\n· 除9名殿堂角色外，其余<color=#92fc63>2023年11月23日前</color>加入游戏的角色将参与常规投票（方案舰角色参与常规投票；联动、META、小船角色不参与常规投票；II型、Zwei型、μ型、IF型视为与本体同一角色，不参与本次人气投票）。\n\n投票券获取方式：\n指挥官等级达到25级的玩家，可以通过以下方式获得<color=#92fc63>投票券</color>。\n除趣味投票外的其他投票阶段：\n· 活动期间，通过完成<color=#92fc63>每日任务</color>，可获得<color=#92fc63>投票券</color>。每个每日任务可获得<color=#92fc63>投票券x2</color>，每日可获得上限为20张。\n· 活动期间，通过完成<color=#92fc63>期间任务</color>，可获得<color=#92fc63>投票券</color>。每个投票阶段可通过期间任务获得的投票券数量有上限。\n\t期间任务可获取投票券上限：\n\t\t预选赛：480\n\t\t小组赛A：200\n\t\t小组赛B：200\n\t\t小组赛C：200\n\t\t小组赛D：200\n\t\t决胜复活赛：160\n\t\t决赛：280\n· 每轮投票结束时，剩余的<color=#92fc63>投票券</color>、<color=#92fc63>期间任务进度</color>将<color=#92fc63>重置清空</color>。\n趣味投票阶段：\n活动期间，每日登陆可获得<color=#92fc63>投票券</color>。\n\n赛程安排：\n本次投票分为以下10个阶段：\n<color=#92fc63>预选赛</color>：\t2023年12月7日维护后-2023年12月18日24时\n<color=#92fc63>小组赛A</color>：\t2023年12月21日0时-2023年12月25日24时\n<color=#92fc63>趣味投票一</color>：2023年12月26日0时-2023年12月28日24时\n<color=#92fc63>小组赛B</color>：\t2023年12月30日0时-2024年1月3日24时\n<color=#92fc63>趣味投票二</color>：2024年1月4日0时-2024年1月6日24时\n<color=#92fc63>小组赛C</color>：\t2024年1月8日0时-2024年1月12日24时\n<color=#92fc63>趣味投票三</color>：2024年1月13日0时-2024年1月15日24时\n<color=#92fc63>小组赛D</color>：\t2024年1月17日0时-2024年1月21日24时\n<color=#92fc63>决胜复活赛</color>：2024年1月23日0时-2024年1月26日24时\n<color=#92fc63>决赛</color>：\t2024年1月30日12时-2024年2月5日24时\n\n每轮投票结束后，将在<color=#92fc63>赛程信息</color>中展示该轮投票的统计结果。\n\n各阶段规则：\n<color=#92fc63>预选赛</color>\n<color=#92fc63>预选赛</color>投票结果仅展示角色得票排名，不展示得票数量。\n<color=#92fc63>预选赛</color>由除9名殿堂角色、联动角色、META角色、小船角色外，其他角色参加。II型、Zwei型、μ型、IF型视为与本体同一角色，不参与本次人气投票。\n<color=#92fc63>预选赛</color>获得票数排名前240名的角色，将根据排名，自动\n分成4组，每组60名角色，进入<color=#92fc63>小组赛</color>。\n\n<color=#92fc63>小组赛</color>\n<color=#92fc63>小组赛</color>由<color=#92fc63>预选赛</color>前240名的角色自动分组组成，共4个小\n组，每组60名角色。\n每个小组内获得前5名的角色，将直接进入<color=#92fc63>决赛</color>，第6至第15名的角色，将进入<color=#92fc63>决胜复活赛</color>。其余角色将被淘汰。\n\n<color=#92fc63>趣味投票</color>\n<color=#92fc63>趣味投票</color>共分为3场：塞壬、META、小船。趣味投票角色不参与常规投票。\n\n<color=#92fc63>决胜复活赛</color>\n<color=#92fc63>决胜复活赛</color>由<color=#92fc63>小组赛</color>每个小组第6名至第15名的角色参加。\n<color=#92fc63>决胜复活赛</color>中的前15名角色，将进入<color=#92fc63>决赛</color>，其余角色将被淘汰。\n\n<color=#92fc63>决赛</color>\n<color=#92fc63>决赛</color>由<color=#92fc63>小组赛</color>各小组的前5名，<color=#92fc63>决胜复活赛</color>的前15名，共35名角色参加。\n\n同票规则：\n<color=#92fc63>预选赛</color>中若出现同票情况，按照达到票数的先后处理。\n<color=#92fc63>小组赛</color>、<color=#92fc63>决胜复活赛</color>、<color=#92fc63>决赛</color>中若出现同票情况，按照<color=#92fc63>预\n选赛</color>的排名先后处理。\n"
       }
     ]
   },
@@ -16701,6 +17213,9 @@
   },
   "without_ship_to_wear": {
     "tip": "没有可换装的角色"
+  },
+  "word_ air_defense_artillery": {
+    "tip": "防空炮"
   },
   "word_achieved_item": {
     "tip": "入手时间"
@@ -17077,6 +17592,9 @@
   "word_happy": {
     "tip": "<color=#92fc63>开心</color>"
   },
+  "word_harbour": {
+    "tip": "港区"
+  },
   "word_hard": {
     "tip": "困难"
   },
@@ -17088,6 +17606,9 @@
   },
   "word_hour": {
     "tip": "小时"
+  },
+  "word_in_one_week": {
+    "tip": "一周内"
   },
   "word_intensify_phase": {
     "tip": "强化阶段"
@@ -17253,6 +17774,9 @@
   },
   "word_mod_value": {
     "tip": "强化值"
+  },
+  "word_month": {
+    "tip": "月"
   },
   "word_museum_1": {
     "tip": "今天的修理任务都完成啦，明天再来吧"
@@ -17431,9 +17955,6 @@
   },
   "word_second": {
     "tip": "秒"
-  },
-  "word_secondseach": {
-    "tip": "/轮"
   },
   "word_sell_lock": {
     "tip": "未解锁"
@@ -17831,6 +18352,36 @@
   "word_week": {
     "tip": "周"
   },
+  "word_week_day1": {
+    "tip": "星期一"
+  },
+  "word_week_day2": {
+    "tip": "星期二"
+  },
+  "word_week_day3": {
+    "tip": "星期三"
+  },
+  "word_week_day4": {
+    "tip": "星期四"
+  },
+  "word_week_day5": {
+    "tip": "星期五"
+  },
+  "word_week_day6": {
+    "tip": "星期六"
+  },
+  "word_week_day7": {
+    "tip": "星期天"
+  },
+  "word_week_title": {
+    "tip": "星期"
+  },
+  "word_which_month": {
+    "tip": "第$1月"
+  },
+  "word_which_week": {
+    "tip": "第$1周"
+  },
   "word_yisegefuke_pt": {
     "tip": "pt"
   },
@@ -18179,7 +18730,7 @@
         "info": "1.「EX」演习战斗具有一定难度，可以在「EX」演习的舰队选择界面点击<color=#92fc63>「模拟战」</color>按钮进行尝试，「模拟战」不消耗石油、心情、「特别挑战券」\n2.进行「EX」演习战斗时，中途掉线或者主动退出等中止战斗的情况都会扣除「特别挑战券」且<color=#ff5c5c>不会获得任何奖励</color><color=#ff5c5c>请在网络状态良好的情况下进行「EX」演习战斗</color>\n3.进行「简单」、「普通」、「困难」演习战斗时，中途掉线或者主动退出等中止战斗的情况会保留「额外收益次数」且不会获得任何奖励\n4.在所有难度的演习战斗中，舰船被击破不会消耗心情值，其余情况的心情值正常增减\n5.所有难度的演习战斗都会正常消耗石油，正常获得指挥官、出战角色和指挥喵经验\n"
       },
       {
-        "info": "<color=#92fc63>活动说明</color>：\n1.在活动期间，参与演习战斗获取<color=#92fc63>「贡献值」</color>,和本服玩家协力攻略演习据点，获取据点阶段奖励和个人贡献奖励\n2.本次活动分为「简单」、「普通」、「困难」、「EX」4个难度的演习\n3.「简单」、「普通」、「困难」演习会获得固定「贡献值」,「EX」演习会根据<color=#92fc63>战斗中造成的伤害总量</color>获得「贡献值」和奖励，造成伤害越多「贡献值」越多，获得奖励越丰厚\n4.「简单」、「普通」、「困难」演习每次通关时可以获得额外收益， 额外收益每日有获得次数上限，每日「额外收益次数」上限3个难度各为<color=#92fc63>15次</color>\n5.「简单」、「普通」、「困难」演习每日挑战次数无限制，「EX」演习需要消耗<color=#92fc63>1个「特别挑战券」</color>才可以挑战\n6.演习战斗的出击队伍可以通过点击不同难度的按钮进行编成，允许携带潜艇和指挥喵\n7.活动期间，根据本服所有玩家获得的「贡献值」，消耗「演习据点」的耐久\n8.当「演习据点」耐久下降至<color=#92fc63>75%</color>、<color=#92fc63>50%</color>、<color=#92fc63>25%</color>以及<color=#92fc63>完全耗尽</color>后，会记录本服达成的里程碑时间，同时，在演习中获得过「贡献值」的玩家可以获得相应奖励\n9.奖励将在「演习据点」完全耗尽后，通过邮件发放，如果活动结束时耐久未被耗尽，则会根据据点推进进度，为在演习中获得过「贡献值」的玩家发放对应进度的奖励\n10.活动期间，可以领取个人贡献奖励，个人贡献奖励需要当据点攻略进度和拥有的「贡献值」达到指定要求后才能领取\n11.6月29日维护后-7月13日维护前可以参与演习战斗，奖励领取的截止时间为7月19日23:59:59"
+        "info": "<color=#92fc63>活动说明</color>：\n1.在活动期间，参与演习战斗获取<color=#92fc63>「贡献值」</color>,和本服玩家协力攻略演习据点，获取据点阶段奖励和个人贡献奖励\n2.本次活动分为「简单」、「普通」、「困难」、「EX」4个难度的演习\n3.「简单」、「普通」、「困难」演习会获得固定「贡献值」,「EX」演习会根据<color=#92fc63>战斗中造成的伤害总量</color>获得「贡献值」和奖励，造成伤害越多「贡献值」越多，获得奖励越丰厚\n4.「简单」、「普通」、「困难」演习每次通关时可以获得额外收益， 额外收益每日有获得次数上限，每日「额外收益次数」上限3个难度各为<color=#92fc63>15次</color>\n5.「简单」、「普通」、「困难」演习每日挑战次数无限制，「EX」演习需要消耗<color=#92fc63>1个「特别挑战券」</color>才可以挑战\n6.演习战斗的出击队伍可以通过点击不同难度的按钮进行编成，允许携带潜艇和指挥喵\n7.活动期间，根据本服所有玩家获得的「贡献值」，消耗「演习据点」的耐久\n8.当「演习据点」耐久下降至<color=#92fc63>75%</color>、<color=#92fc63>50%</color>、<color=#92fc63>25%</color>以及<color=#92fc63>完全耗尽</color>后，会记录本服达成的里程碑时间，同时，在演习中获得过「贡献值」的玩家可以获得相应奖励\n9.奖励将在「演习据点」完全耗尽后，通过邮件发放，如果活动结束时耐久未被耗尽，则会根据据点推进进度，为在演习中获得过「贡献值」的玩家发放对应进度的奖励\n10.活动期间，可以领取个人贡献奖励，个人贡献奖励需要当据点攻略进度和拥有的「贡献值」达到指定要求后才能领取\n11.1月30日维护后-2月22日维护前可以参与演习战斗，奖励领取的截止时间为2月26日24时"
       },
       {
         "info": "<color=#92fc63>特别挑战券说明</color>：\n1.特别挑战券可以通过活动期间的特殊每日任务获得，数量可以累积，活动结束后会被清空\n2.「简单」、「普通」、「困难」演习的「额外收益次数」为<color=#92fc63>0</color>的情况下，进行演习战斗时可以消耗<color=#92fc63>1个</color>「特别挑战券」增加1次对应难度演习的「额外收益次数」\n3.「EX」演习需要消耗<color=#92fc63>1个</color>「特别挑战券」"
@@ -18192,7 +18743,7 @@
   "world_boss_help_meta": {
     "tip": [
       {
-        "info": "信标·META功能说明\n\n1. <color=#92fc63>2023.12.7-2024.3.7</color>期间限时开放「基洛夫·META」的挑战，在此期间指挥官可挑战「基洛夫·META」累计其同步值获取<color=#92fc63>「基洛夫·META」角色</color>及其他丰厚奖励\n<color=#ff5c5c>注意：同步值将于时间结束后消失</color>\n\n2.「信标数据」获取与解析\n·指挥官可通过在大型作战中获取「信标数据」，达到指定数据量后进行解析并发现特定信标\n·每日最多可获取 <color=#92fc63>200</color>点，每日0点刷新可获取点数，尚未使用的「信标数据」将会保留。\n·每次解析「信标数据」所需量为<color=#92fc63>100</color>点\n\n3.挑战自己解析的信标\n·第一次挑战自己解析的信标不会消耗石油，从第二次开始，随着挑战次数的增加，每次挑战消耗的石油会从<color=#92fc63>40</color>点逐渐减少至<color=#92fc63>0</color>点。(不会消耗挑战次数)\n·当信标HP归零后视为战斗胜利，指挥官可以领取大量角色同步值奖励。\n·每个被解析的信标只会存在<color=#92fc63>24小时</color>，过期后将会消失，记得向其他指挥官请求支援哦。\n·每次挑战成功后，信标的强度将会提升1阶段，总计15阶段。随着阶段提升，战斗奖励也会提升。\n\n4.挑战其他信标\n·在信标列表界面可以挑战其他指挥官发起求助的信标，参与其他指挥官发布的信标战斗结束后，将会根据造成的伤害程度<color=#92fc63>立刻获得角色同步值奖励</color>。\n·每次挑战需要消耗1点挑战次数，不需要消耗石油\n·每日拥有总计<color=#92fc63>3</color>点挑战次数，每日0点重置\n·同一个信标最多能允许累计30位指挥官进行挑战\n\n5.战斗说明\n·挑战信标基洛夫·META暂不可使用指挥喵与潜艇\n·战斗结算时不会获得经验值，不会影响舰船心情值\n·战斗中不可中途退出，如果出现网络波动导致掉线的情况：\n①挑战自己解析的信标时将会消耗40点石油(非第一次挑战)，且不会计算已造成的伤害\n②挑战信标列表中的信标时将会消耗挑战次数且无法获得任何奖励\n <color=#92fc63>请在参与作战时保持网络环境畅通</color>\n\n6.火力支援\n随着信标基洛夫·META挑战的进行，从第31天开始，即2024.1.7~2024.3.7期间，舰队挑战「基洛夫·META」时将会获得一次额外火力支援。火力支援会对敌人造成伤害，并为敌人施加一个持续伤害的特殊状态（不受任何加成效果影响）。随着本期信标基洛夫·META开放的日期增加，火力支援提供的伤害也会增加。\n※此支援只会在指挥官自己发现的信标基洛夫·META战斗中出现，每次挑战均会触发。"
+        "info": "信标·META功能说明\n\n1. <color=#92fc63>2023.12.7-2024.3.14</color>期间限时开放「基洛夫·META」的挑战，在此期间指挥官可挑战「基洛夫·META」累计其同步值获取<color=#92fc63>「基洛夫·META」角色</color>及其他丰厚奖励\n<color=#ff5c5c>注意：同步值将于时间结束后消失</color>\n\n2.「信标数据」获取与解析\n·指挥官可通过在大型作战中获取「信标数据」，达到指定数据量后进行解析并发现特定信标\n·每日最多可获取 <color=#92fc63>200</color>点，每日0点刷新可获取点数，尚未使用的「信标数据」将会保留。\n·每次解析「信标数据」所需量为<color=#92fc63>100</color>点\n\n3.挑战自己解析的信标\n·第一次挑战自己解析的信标不会消耗石油，从第二次开始，随着挑战次数的增加，每次挑战消耗的石油会从<color=#92fc63>40</color>点逐渐减少至<color=#92fc63>0</color>点。(不会消耗挑战次数)\n·当信标HP归零后视为战斗胜利，指挥官可以领取大量角色同步值奖励。\n·每个被解析的信标只会存在<color=#92fc63>24小时</color>，过期后将会消失，记得向其他指挥官请求支援哦。\n·每次挑战成功后，信标的强度将会提升1阶段，总计15阶段。随着阶段提升，战斗奖励也会提升。\n\n4.挑战其他信标\n·在信标列表界面可以挑战其他指挥官发起求助的信标，参与其他指挥官发布的信标战斗结束后，将会根据造成的伤害程度<color=#92fc63>立刻获得角色同步值奖励</color>。\n·每次挑战需要消耗1点挑战次数，不需要消耗石油\n·每日拥有总计<color=#92fc63>3</color>点挑战次数，每日0点重置\n·同一个信标最多能允许累计30位指挥官进行挑战\n\n5.战斗说明\n·挑战信标基洛夫·META暂不可使用指挥喵与潜艇\n·战斗结算时不会获得经验值，不会影响舰船心情值\n·战斗中不可中途退出，如果出现网络波动导致掉线的情况：\n①挑战自己解析的信标时将会消耗40点石油(非第一次挑战)，且不会计算已造成的伤害\n②挑战信标列表中的信标时将会消耗挑战次数且无法获得任何奖励\n <color=#92fc63>请在参与作战时保持网络环境畅通</color>\n\n6.火力支援\n随着信标基洛夫·META挑战的进行，从第31天开始，即2024.1.7~2024.3.14期间，舰队挑战「基洛夫·META」时将会获得一次额外火力支援。火力支援会对敌人造成伤害，并为敌人施加一个持续伤害的特殊状态（不受任何加成效果影响）。随着本期信标基洛夫·META开放的日期增加，火力支援提供的伤害也会增加。\n※此支援只会在指挥官自己发现的信标基洛夫·META战斗中出现，每次挑战均会触发。"
       }
     ]
   },

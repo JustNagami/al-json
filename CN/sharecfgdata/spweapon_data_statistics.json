@@ -13320,6 +13320,566 @@
     "value_1": 30,
     "value_2": 10
   },
+  "12820": {
+    "attribute_1": "cannon",
+    "attribute_2": "hit",
+    "descrip": "由特殊兵装核心制造出来的专属特制兵装",
+    "effect_id": 902020,
+    "effect_id_display": 902020,
+    "icon": "12820",
+    "id": 12820,
+    "important": 2,
+    "label": [],
+    "level": 1,
+    "name": "骑士团长之徽",
+    "next": 12821,
+    "prev": 0,
+    "rarity": 4,
+    "skill_upgrade": [
+      [
+        0,
+        1012160
+      ]
+    ],
+    "tech": 0,
+    "type": 6,
+    "uncraftable": 0,
+    "unique": 20505,
+    "upgrade_id": 101,
+    "usability": [
+      5
+    ],
+    "value_1": 13,
+    "value_1_random": 10,
+    "value_2": 1,
+    "value_2_random": 5
+  },
+  "12821": {
+    "base": 12820,
+    "id": 12821,
+    "level": 2,
+    "next": 12822,
+    "prev": 12820,
+    "upgrade_id": 102,
+    "value_1": 14,
+    "value_2": 1
+  },
+  "12822": {
+    "base": 12820,
+    "id": 12822,
+    "level": 3,
+    "next": 12823,
+    "prev": 12821,
+    "upgrade_id": 103,
+    "value_1": 15,
+    "value_2": 2
+  },
+  "12823": {
+    "base": 12820,
+    "id": 12823,
+    "level": 4,
+    "next": 12824,
+    "prev": 12822,
+    "upgrade_id": 104,
+    "value_1": 16,
+    "value_2": 3
+  },
+  "12824": {
+    "base": 12820,
+    "id": 12824,
+    "level": 5,
+    "next": 12825,
+    "prev": 12823,
+    "upgrade_id": 105,
+    "value_1": 17,
+    "value_2": 4
+  },
+  "12825": {
+    "base": 12820,
+    "id": 12825,
+    "level": 6,
+    "next": 12826,
+    "prev": 12824,
+    "upgrade_id": 106,
+    "value_1": 18,
+    "value_2": 5
+  },
+  "12826": {
+    "base": 12820,
+    "id": 12826,
+    "level": 7,
+    "next": 12827,
+    "prev": 12825,
+    "upgrade_id": 107,
+    "value_1": 19,
+    "value_2": 6
+  },
+  "12827": {
+    "base": 12820,
+    "id": 12827,
+    "level": 8,
+    "next": 12828,
+    "prev": 12826,
+    "upgrade_id": 108,
+    "value_1": 20,
+    "value_2": 7
+  },
+  "12828": {
+    "base": 12820,
+    "id": 12828,
+    "level": 9,
+    "next": 12829,
+    "prev": 12827,
+    "upgrade_id": 109,
+    "value_1": 21,
+    "value_2": 8
+  },
+  "12829": {
+    "base": 12820,
+    "id": 12829,
+    "level": 10,
+    "next": 12830,
+    "prev": 12828,
+    "upgrade_id": 110,
+    "value_1": 23,
+    "value_2": 9
+  },
+  "12830": {
+    "base": 12820,
+    "id": 12830,
+    "level": 11,
+    "next": 0,
+    "prev": 12829,
+    "skill_upgrade": [
+      [
+        12160,
+        1012160
+      ]
+    ],
+    "upgrade_id": 111,
+    "value_1": 25,
+    "value_2": 10
+  },
+  "12840": {
+    "attribute_1": "cannon",
+    "attribute_2": "hit",
+    "descrip": "由特殊兵装核心制造出来的专属特制兵装",
+    "effect_id": 901010,
+    "effect_id_display": 901010,
+    "icon": "12840",
+    "id": 12840,
+    "important": 2,
+    "label": [],
+    "level": 1,
+    "name": "SMILE酱",
+    "next": 12841,
+    "prev": 0,
+    "rarity": 4,
+    "skill_upgrade": [
+      [
+        0,
+        1090230
+      ]
+    ],
+    "tech": 0,
+    "type": 1,
+    "uncraftable": 0,
+    "unique": 40118,
+    "upgrade_id": 101,
+    "usability": [
+      1
+    ],
+    "value_1": 13,
+    "value_1_random": 10,
+    "value_2": 1,
+    "value_2_random": 5
+  },
+  "12841": {
+    "base": 12840,
+    "id": 12841,
+    "level": 2,
+    "next": 12842,
+    "prev": 12840,
+    "upgrade_id": 102,
+    "value_1": 14,
+    "value_2": 1
+  },
+  "12842": {
+    "base": 12840,
+    "id": 12842,
+    "level": 3,
+    "next": 12843,
+    "prev": 12841,
+    "upgrade_id": 103,
+    "value_1": 15,
+    "value_2": 2
+  },
+  "12843": {
+    "base": 12840,
+    "id": 12843,
+    "level": 4,
+    "next": 12844,
+    "prev": 12842,
+    "upgrade_id": 104,
+    "value_1": 16,
+    "value_2": 3
+  },
+  "12844": {
+    "base": 12840,
+    "id": 12844,
+    "level": 5,
+    "next": 12845,
+    "prev": 12843,
+    "upgrade_id": 105,
+    "value_1": 17,
+    "value_2": 4
+  },
+  "12845": {
+    "base": 12840,
+    "id": 12845,
+    "level": 6,
+    "next": 12846,
+    "prev": 12844,
+    "upgrade_id": 106,
+    "value_1": 18,
+    "value_2": 5
+  },
+  "12846": {
+    "base": 12840,
+    "id": 12846,
+    "level": 7,
+    "next": 12847,
+    "prev": 12845,
+    "upgrade_id": 107,
+    "value_1": 19,
+    "value_2": 6
+  },
+  "12847": {
+    "base": 12840,
+    "id": 12847,
+    "level": 8,
+    "next": 12848,
+    "prev": 12846,
+    "upgrade_id": 108,
+    "value_1": 20,
+    "value_2": 7
+  },
+  "12848": {
+    "base": 12840,
+    "id": 12848,
+    "level": 9,
+    "next": 12849,
+    "prev": 12847,
+    "upgrade_id": 109,
+    "value_1": 21,
+    "value_2": 8
+  },
+  "12849": {
+    "base": 12840,
+    "id": 12849,
+    "level": 10,
+    "next": 12850,
+    "prev": 12848,
+    "upgrade_id": 110,
+    "value_1": 23,
+    "value_2": 9
+  },
+  "12850": {
+    "base": 12840,
+    "id": 12850,
+    "level": 11,
+    "next": 0,
+    "prev": 12849,
+    "skill_upgrade": [
+      [
+        2081,
+        1090230
+      ]
+    ],
+    "upgrade_id": 111,
+    "value_1": 25,
+    "value_2": 10
+  },
+  "12860": {
+    "attribute_1": "hit",
+    "attribute_2": "cannon",
+    "descrip": "由特殊兵装核心制造出来的专属特制兵装",
+    "effect_id": 901010,
+    "effect_id_display": 901010,
+    "icon": "12860",
+    "id": 12860,
+    "important": 2,
+    "label": [],
+    "level": 1,
+    "name": "大宝",
+    "next": 12861,
+    "prev": 0,
+    "rarity": 4,
+    "skill_upgrade": [
+      [
+        0,
+        1010480
+      ]
+    ],
+    "tech": 0,
+    "type": 2,
+    "uncraftable": 0,
+    "unique": 50202,
+    "upgrade_id": 101,
+    "usability": [
+      2
+    ],
+    "value_1": 6,
+    "value_1_random": 10,
+    "value_2": 20,
+    "value_2_random": 5
+  },
+  "12861": {
+    "base": 12860,
+    "id": 12861,
+    "level": 2,
+    "next": 12862,
+    "prev": 12860,
+    "upgrade_id": 102,
+    "value_1": 7,
+    "value_2": 21
+  },
+  "12862": {
+    "base": 12860,
+    "id": 12862,
+    "level": 3,
+    "next": 12863,
+    "prev": 12861,
+    "upgrade_id": 103,
+    "value_1": 8,
+    "value_2": 22
+  },
+  "12863": {
+    "base": 12860,
+    "id": 12863,
+    "level": 4,
+    "next": 12864,
+    "prev": 12862,
+    "upgrade_id": 104,
+    "value_1": 8,
+    "value_2": 23
+  },
+  "12864": {
+    "base": 12860,
+    "id": 12864,
+    "level": 5,
+    "next": 12865,
+    "prev": 12863,
+    "upgrade_id": 105,
+    "value_1": 9,
+    "value_2": 24
+  },
+  "12865": {
+    "base": 12860,
+    "id": 12865,
+    "level": 6,
+    "next": 12866,
+    "prev": 12864,
+    "upgrade_id": 106,
+    "value_1": 9,
+    "value_2": 25
+  },
+  "12866": {
+    "base": 12860,
+    "id": 12866,
+    "level": 7,
+    "next": 12867,
+    "prev": 12865,
+    "upgrade_id": 107,
+    "value_1": 10,
+    "value_2": 26
+  },
+  "12867": {
+    "base": 12860,
+    "id": 12867,
+    "level": 8,
+    "next": 12868,
+    "prev": 12866,
+    "upgrade_id": 108,
+    "value_1": 10,
+    "value_2": 27
+  },
+  "12868": {
+    "base": 12860,
+    "id": 12868,
+    "level": 9,
+    "next": 12869,
+    "prev": 12867,
+    "upgrade_id": 109,
+    "value_1": 11,
+    "value_2": 28
+  },
+  "12869": {
+    "base": 12860,
+    "id": 12869,
+    "level": 10,
+    "next": 12870,
+    "prev": 12868,
+    "upgrade_id": 110,
+    "value_1": 11,
+    "value_2": 29
+  },
+  "12870": {
+    "base": 12860,
+    "id": 12870,
+    "level": 11,
+    "next": 0,
+    "prev": 12869,
+    "skill_upgrade": [
+      [
+        10480,
+        1010480
+      ]
+    ],
+    "upgrade_id": 111,
+    "value_1": 12,
+    "value_2": 30
+  },
+  "12880": {
+    "attribute_1": "hit",
+    "attribute_2": "cannon",
+    "descrip": "由特殊兵装核心制造出来的专属特制兵装",
+    "effect_id": 901010,
+    "effect_id_display": 901010,
+    "icon": "12880",
+    "id": 12880,
+    "important": 2,
+    "label": [],
+    "level": 1,
+    "name": "二宝",
+    "next": 12881,
+    "prev": 0,
+    "rarity": 4,
+    "skill_upgrade": [
+      [
+        0,
+        1010490
+      ]
+    ],
+    "tech": 0,
+    "type": 2,
+    "uncraftable": 0,
+    "unique": 50203,
+    "upgrade_id": 101,
+    "usability": [
+      2
+    ],
+    "value_1": 6,
+    "value_1_random": 10,
+    "value_2": 20,
+    "value_2_random": 5
+  },
+  "12881": {
+    "base": 12880,
+    "id": 12881,
+    "level": 2,
+    "next": 12882,
+    "prev": 12880,
+    "upgrade_id": 102,
+    "value_1": 7,
+    "value_2": 21
+  },
+  "12882": {
+    "base": 12880,
+    "id": 12882,
+    "level": 3,
+    "next": 12883,
+    "prev": 12881,
+    "upgrade_id": 103,
+    "value_1": 8,
+    "value_2": 22
+  },
+  "12883": {
+    "base": 12880,
+    "id": 12883,
+    "level": 4,
+    "next": 12884,
+    "prev": 12882,
+    "upgrade_id": 104,
+    "value_1": 8,
+    "value_2": 23
+  },
+  "12884": {
+    "base": 12880,
+    "id": 12884,
+    "level": 5,
+    "next": 12885,
+    "prev": 12883,
+    "upgrade_id": 105,
+    "value_1": 9,
+    "value_2": 24
+  },
+  "12885": {
+    "base": 12880,
+    "id": 12885,
+    "level": 6,
+    "next": 12886,
+    "prev": 12884,
+    "upgrade_id": 106,
+    "value_1": 9,
+    "value_2": 25
+  },
+  "12886": {
+    "base": 12880,
+    "id": 12886,
+    "level": 7,
+    "next": 12887,
+    "prev": 12885,
+    "upgrade_id": 107,
+    "value_1": 10,
+    "value_2": 26
+  },
+  "12887": {
+    "base": 12880,
+    "id": 12887,
+    "level": 8,
+    "next": 12888,
+    "prev": 12886,
+    "upgrade_id": 108,
+    "value_1": 10,
+    "value_2": 27
+  },
+  "12888": {
+    "base": 12880,
+    "id": 12888,
+    "level": 9,
+    "next": 12889,
+    "prev": 12887,
+    "upgrade_id": 109,
+    "value_1": 11,
+    "value_2": 28
+  },
+  "12889": {
+    "base": 12880,
+    "id": 12889,
+    "level": 10,
+    "next": 12890,
+    "prev": 12888,
+    "upgrade_id": 110,
+    "value_1": 11,
+    "value_2": 29
+  },
+  "12890": {
+    "base": 12880,
+    "id": 12890,
+    "level": 11,
+    "next": 0,
+    "prev": 12889,
+    "skill_upgrade": [
+      [
+        10490,
+        1010490
+      ]
+    ],
+    "upgrade_id": 111,
+    "value_1": 12,
+    "value_2": 30
+  },
   "1010100": {
     "attribute_1": "cannon",
     "attribute_2": "dodge",
@@ -17659,6 +18219,50 @@
     12807,
     12808,
     12809,
-    12810
+    12810,
+    12820,
+    12821,
+    12822,
+    12823,
+    12824,
+    12825,
+    12826,
+    12827,
+    12828,
+    12829,
+    12830,
+    12840,
+    12841,
+    12842,
+    12843,
+    12844,
+    12845,
+    12846,
+    12847,
+    12848,
+    12849,
+    12850,
+    12860,
+    12861,
+    12862,
+    12863,
+    12864,
+    12865,
+    12866,
+    12867,
+    12868,
+    12869,
+    12870,
+    12880,
+    12881,
+    12882,
+    12883,
+    12884,
+    12885,
+    12886,
+    12887,
+    12888,
+    12889,
+    12890
   ]
 }

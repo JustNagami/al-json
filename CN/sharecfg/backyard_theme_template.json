@@ -2664,7 +2664,7 @@
     "desc": "凝结了重樱之匠心的庭院，能从中感受到自然之美。",
     "discount": 0,
     "discount_time": "",
-    "hot": 1,
+    "hot": 0,
     "icon": "r3themeicon",
     "id": 65,
     "ids": [
@@ -3075,7 +3075,7 @@
     "desc": "在银装素裹的小镇里度过特别的一夜吧！",
     "discount": 0,
     "discount_time": "",
-    "hot": 1,
+    "hot": 0,
     "icon": "els2themeicon",
     "id": 77,
     "ids": [
@@ -3195,7 +3195,7 @@
     "desc": "享受愉快的游戏之夜吧~",
     "discount": 0,
     "discount_time": "",
-    "hot": 1,
+    "hot": 0,
     "icon": "bngthemeicon",
     "id": 80,
     "ids": [
@@ -3448,7 +3448,7 @@
     "desc": "充满东煌意趣的园林。",
     "discount": 0,
     "discount_time": "",
-    "hot": 1,
+    "hot": 0,
     "icon": "cj4themeicon",
     "id": 86,
     "ids": [
@@ -4277,7 +4277,7 @@
     "discount": 0,
     "discount_time": "",
     "hot": 1,
-    "icon": "slthemeicon",
+    "icon": "slrzthemeicon",
     "id": 105,
     "ids": [
       305001,
@@ -4338,6 +4338,38 @@
     "name": "港区喧嚣夜",
     "new": 1,
     "order": 107
+  },
+  "107": {
+    "Cfg_1": 5,
+    "Cfg_2": 8,
+    "comfortable": 0,
+    "deblocking": 1,
+    "desc": "龙年大吉，新春如意！",
+    "discount": 0,
+    "discount_time": "",
+    "hot": 1,
+    "icon": "cj6themeicon",
+    "id": 107,
+    "ids": [
+      307001,
+      307002,
+      307101,
+      307102,
+      307104,
+      307105,
+      307106,
+      307107,
+      307108,
+      307110,
+      307111,
+      307112,
+      307113,
+      307114
+    ],
+    "is_view": 1,
+    "name": "龙年新春",
+    "new": 1,
+    "order": 108
   },
   "all": [
     1,
@@ -4437,6 +4469,7 @@
     103,
     104,
     105,
-    106
+    106,
+    107
   ]
 }
