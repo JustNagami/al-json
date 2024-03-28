@@ -10822,7 +10822,7 @@
     "level_limit": 1,
     "map": 1600001,
     "name": "Tower of Transcendence - Pt. 1|| ||CHAPTER EX||E.X.",
-    "on_activity": 4191,
+    "on_activity": 5167,
     "title": "EX",
     "type": 4,
     "ui_type": 1,
@@ -10866,7 +10866,7 @@
     "level_limit": 1,
     "map": 1600002,
     "name": "Tower of Transcendence - Pt. 2|| ||CHAPTER EX||E.X.",
-    "on_activity": 4191,
+    "on_activity": 5167,
     "title": "EX",
     "type": 4,
     "ui_type": 1,
@@ -10910,7 +10910,7 @@
     "level_limit": 1,
     "map": 1600011,
     "name": "Tower of Transcendence - Pt. 1|| ||CHAPTER EX||E.X.",
-    "on_activity": 4191,
+    "on_activity": 5167,
     "title": "EX",
     "type": 5,
     "ui_type": 1,
@@ -10954,7 +10954,7 @@
     "level_limit": 1,
     "map": 1600012,
     "name": "Tower of Transcendence - Pt. 2|| ||CHAPTER EX||E.X.",
-    "on_activity": 4191,
+    "on_activity": 5167,
     "title": "EX",
     "type": 5,
     "ui_type": 1,
@@ -10998,7 +10998,7 @@
     "level_limit": 1,
     "map": 1600025,
     "name": "Tower of Transcendence - SP|| ||CHAPTER EX||E.X.",
-    "on_activity": 4191,
+    "on_activity": 5167,
     "title": "EX",
     "type": 8,
     "ui_type": 1,
@@ -11042,7 +11042,7 @@
     "level_limit": 1,
     "map": 1600026,
     "name": "Tower of Transcendence - EX|| ||CHAPTER EX||E.X.",
-    "on_activity": 4191,
+    "on_activity": 5167,
     "title": "EX",
     "type": 8,
     "ui_type": 1,
@@ -11643,7 +11643,7 @@
     "level_limit": 1,
     "map": 1630001,
     "name": "Virtual Tower|| ||CHAPTER EX||E.X.",
-    "on_activity": 4286,
+    "on_activity": 5233,
     "title": "EX",
     "type": 4,
     "ui_type": 1,
@@ -11686,8 +11686,8 @@
     "guide_id": "",
     "level_limit": 1,
     "map": 1630002,
-    "name": "Virtual Tower·SP|| ||CHAPTER EX||E.X.",
-    "on_activity": 4286,
+    "name": "Virtual Tower - SP|| ||CHAPTER EX||E.X.",
+    "on_activity": 5233,
     "title": "EX",
     "type": 8,
     "ui_type": 1,
@@ -11730,8 +11730,8 @@
     "guide_id": "",
     "level_limit": 1,
     "map": 1630003,
-    "name": "Virtual Tower·EX|| ||CHAPTER EX||E.X.",
-    "on_activity": 4286,
+    "name": "Virtual Tower - EX|| ||CHAPTER EX||E.X.",
+    "on_activity": 5233,
     "title": "EX",
     "type": 8,
     "ui_type": 1,
@@ -15707,7 +15707,40 @@
   },
   "1780025": {
     "anchor": "",
-    "ani_controller": "",
+    "ani_controller": [
+      [
+        2,
+        [
+          1780001,
+          "map_1700003",
+          "effect_1700003",
+          "bgm_theme-aostelab"
+        ]
+      ],
+      [
+        2,
+        [
+          1780002,
+          "map_1780001",
+          "effect_1780001",
+          "bgm_battle-pacific"
+        ]
+      ],
+      [
+        1,
+        [
+          1780003,
+          "map_1700002_zhuanzhi"
+        ]
+      ],
+      [
+        2,
+        [
+          1780003,
+          "bgm_theme-threat-typeV"
+        ]
+      ]
+    ],
     "ani_name": "Map_1780004",
     "animtor": 1,
     "bg": "Map_1780004",
@@ -15788,6 +15821,310 @@
     "map": 1780026,
     "name": "Light-Chasing Sea of Stars - EX|| ||CHAPTER EX||E.X.",
     "on_activity": 5131,
+    "title": "EX",
+    "type": 8,
+    "ui_type": 1,
+    "uifx": ""
+  },
+  "1790001": {
+    "anchor": "",
+    "ani_controller": [
+      [
+        2,
+        [
+          1790003,
+          "map_1790001",
+          "effect_1790001",
+          "bgm_theme-antarctica"
+        ]
+      ]
+    ],
+    "ani_name": "Map_1790002",
+    "animtor": 1,
+    "bg": "Map_1790002",
+    "bgm": "story-antarctica-serious",
+    "bind_map": 1790011,
+    "cloud_suffix": "",
+    "clouds_pos": [
+      [
+        332,
+        271
+      ],
+      [
+        896,
+        110
+      ],
+      [
+        -280,
+        0
+      ],
+      [
+        990,
+        -90
+      ],
+      [
+        0,
+        -465
+      ]
+    ],
+    "destory_icon_suffix": "blue",
+    "drop_by_map_display": "",
+    "enter_story": "XUEJINGMIZONG1",
+    "guide_id": "",
+    "level_limit": 1,
+    "map": 1790001,
+    "name": "Snowrealm Peregrination - PT.1|| ||CHAPTER EX||E.X.",
+    "on_activity": 5221,
+    "title": "EX",
+    "type": 4,
+    "ui_type": 1,
+    "uifx": ""
+  },
+  "1790002": {
+    "anchor": "",
+    "ani_controller": [
+      [
+        2,
+        [
+          1790006,
+          "map_1790002",
+          "effect_1790002",
+          "bgm_story-antarctica-serious"
+        ]
+      ]
+    ],
+    "ani_name": "Map_1790004",
+    "animtor": 1,
+    "bg": "Map_1790004",
+    "bgm": "theme-antarctica",
+    "bind_map": 1790012,
+    "cloud_suffix": "",
+    "clouds_pos": [
+      [
+        332,
+        271
+      ],
+      [
+        896,
+        110
+      ],
+      [
+        -280,
+        0
+      ],
+      [
+        990,
+        -90
+      ],
+      [
+        0,
+        -465
+      ]
+    ],
+    "destory_icon_suffix": "blue",
+    "drop_by_map_display": "",
+    "enter_story": "XUEJINGMIZONG15",
+    "guide_id": "",
+    "level_limit": 1,
+    "map": 1790002,
+    "name": "Snowrealm Peregrination - PT.2|| ||CHAPTER EX||E.X.",
+    "on_activity": 5221,
+    "title": "EX",
+    "type": 4,
+    "ui_type": 1,
+    "uifx": ""
+  },
+  "1790011": {
+    "anchor": "",
+    "ani_controller": [
+      [
+        2,
+        [
+          1790023,
+          "map_1790001",
+          "effect_1790001",
+          "bgm_theme-antarctica"
+        ]
+      ]
+    ],
+    "ani_name": "Map_1790002",
+    "animtor": 1,
+    "bg": "Map_1790002",
+    "bgm": "story-antarctica-serious",
+    "bind_map": 1790001,
+    "cloud_suffix": "",
+    "clouds_pos": [
+      [
+        332,
+        271
+      ],
+      [
+        896,
+        110
+      ],
+      [
+        -280,
+        0
+      ],
+      [
+        990,
+        -90
+      ],
+      [
+        0,
+        -465
+      ]
+    ],
+    "destory_icon_suffix": "blue",
+    "drop_by_map_display": "",
+    "enter_story": "XUEJINGMIZONG1",
+    "guide_id": "",
+    "level_limit": 1,
+    "map": 1790011,
+    "name": "Snowrealm Peregrination - PT.1|| ||CHAPTER EX||E.X.",
+    "on_activity": 5221,
+    "title": "EX",
+    "type": 5,
+    "ui_type": 1,
+    "uifx": ""
+  },
+  "1790012": {
+    "anchor": "",
+    "ani_controller": [
+      [
+        2,
+        [
+          1790026,
+          "map_1790002",
+          "effect_1790002",
+          "bgm_story-antarctica-serious"
+        ]
+      ]
+    ],
+    "ani_name": "Map_1790004",
+    "animtor": 1,
+    "bg": "Map_1790004",
+    "bgm": "theme-antarctica",
+    "bind_map": 1790002,
+    "cloud_suffix": "",
+    "clouds_pos": [
+      [
+        332,
+        271
+      ],
+      [
+        896,
+        110
+      ],
+      [
+        -280,
+        0
+      ],
+      [
+        990,
+        -90
+      ],
+      [
+        0,
+        -465
+      ]
+    ],
+    "destory_icon_suffix": "blue",
+    "drop_by_map_display": "",
+    "enter_story": "XUEJINGMIZONG15",
+    "guide_id": "",
+    "level_limit": 1,
+    "map": 1790012,
+    "name": "Snowrealm Peregrination - PT.2|| ||CHAPTER EX||E.X.",
+    "on_activity": 5221,
+    "title": "EX",
+    "type": 5,
+    "ui_type": 1,
+    "uifx": ""
+  },
+  "1790025": {
+    "anchor": "",
+    "ani_controller": "",
+    "ani_name": "Map_1790003",
+    "animtor": 1,
+    "bg": "Map_1790003",
+    "bgm": "theme-underheaven",
+    "bind_map": 1790012,
+    "cloud_suffix": "",
+    "clouds_pos": [
+      [
+        332,
+        271
+      ],
+      [
+        896,
+        110
+      ],
+      [
+        -280,
+        0
+      ],
+      [
+        990,
+        -90
+      ],
+      [
+        0,
+        -465
+      ]
+    ],
+    "destory_icon_suffix": "blue",
+    "drop_by_map_display": "",
+    "enter_story": "",
+    "guide_id": "",
+    "level_limit": 1,
+    "map": 1790025,
+    "name": "Snowrealm Peregrination - SP|| ||CHAPTER EX||E.X.",
+    "on_activity": 5221,
+    "title": "EX",
+    "type": 8,
+    "ui_type": 1,
+    "uifx": ""
+  },
+  "1790026": {
+    "anchor": "",
+    "ani_controller": "",
+    "ani_name": "Map_1790005",
+    "animtor": 1,
+    "bg": "Map_1790005",
+    "bgm": "story-commander-up",
+    "bind_map": 1790012,
+    "cloud_suffix": "",
+    "clouds_pos": [
+      [
+        332,
+        271
+      ],
+      [
+        896,
+        110
+      ],
+      [
+        -280,
+        0
+      ],
+      [
+        990,
+        -90
+      ],
+      [
+        0,
+        -465
+      ]
+    ],
+    "destory_icon_suffix": "blue",
+    "drop_by_map_display": "",
+    "enter_story": "",
+    "guide_id": "",
+    "level_limit": 1,
+    "map": 1790026,
+    "name": "Snowrealm Peregrination - EX|| ||CHAPTER EX||E.X.",
+    "on_activity": 5221,
     "title": "EX",
     "type": 8,
     "ui_type": 1,
@@ -18356,7 +18693,7 @@
     "animtor": 1,
     "bg": "Map_1390001",
     "bgm": "blueocean-image",
-    "bind_map": 1460011,
+    "bind_map": 2100311,
     "cloud_suffix": "",
     "clouds_pos": [
       [
@@ -18400,7 +18737,7 @@
     "animtor": 1,
     "bg": "Map_1390002",
     "bgm": "battle-executor-type1",
-    "bind_map": 1460012,
+    "bind_map": 2100312,
     "cloud_suffix": "",
     "clouds_pos": [
       [
@@ -18444,7 +18781,7 @@
     "animtor": 1,
     "bg": "Map_1390003",
     "bgm": "blueocean-image",
-    "bind_map": 1460001,
+    "bind_map": 2100301,
     "cloud_suffix": "",
     "clouds_pos": [
       [
@@ -18488,7 +18825,7 @@
     "animtor": 1,
     "bg": "Map_1390004",
     "bgm": "battle-executor-type1",
-    "bind_map": 1460002,
+    "bind_map": 2100302,
     "cloud_suffix": "",
     "clouds_pos": [
       [
@@ -18519,6 +18856,534 @@
     "level_limit": 1,
     "map": 2100312,
     "name": "Inverted Orthant - Part 2|| ||CHAPTER EX||E.X.",
+    "on_activity": 0,
+    "title": "EX",
+    "type": 5,
+    "ui_type": 1,
+    "uifx": ""
+  },
+  "2100321": {
+    "anchor": "",
+    "ani_controller": "",
+    "ani_name": "Map_1350001",
+    "animtor": 1,
+    "bg": "Map_1350001",
+    "bgm": "xinnong-1",
+    "bind_map": 2100331,
+    "cloud_suffix": "",
+    "clouds_pos": [
+      [
+        332,
+        271
+      ],
+      [
+        896,
+        110
+      ],
+      [
+        -280,
+        0
+      ],
+      [
+        990,
+        -90
+      ],
+      [
+        0,
+        -465
+      ]
+    ],
+    "destory_icon_suffix": "blue",
+    "drop_by_map_display": "",
+    "enter_story": "DIEHAIMENGHUA1",
+    "guide_id": "",
+    "level_limit": 1,
+    "map": 2100321,
+    "name": "Dreamwaker's Butterfly - Reality|| ||CHAPTER EX||E.X.",
+    "on_activity": 0,
+    "title": "EX",
+    "type": 4,
+    "ui_type": 3,
+    "uifx": ""
+  },
+  "2100322": {
+    "anchor": "",
+    "ani_controller": "",
+    "ani_name": "Map_1350002",
+    "animtor": 1,
+    "bg": "Map_1350002",
+    "bgm": "main-newyear",
+    "bind_map": 2100332,
+    "cloud_suffix": "",
+    "clouds_pos": [
+      [
+        332,
+        271
+      ],
+      [
+        896,
+        110
+      ],
+      [
+        -280,
+        0
+      ],
+      [
+        990,
+        -90
+      ],
+      [
+        0,
+        -465
+      ]
+    ],
+    "destory_icon_suffix": "blue",
+    "drop_by_map_display": "",
+    "enter_story": "",
+    "guide_id": "",
+    "level_limit": 1,
+    "map": 2100322,
+    "name": "Dreamwaker's Butterfly - Dreamworld|| ||CHAPTER EX||E.X.",
+    "on_activity": 0,
+    "title": "EX",
+    "type": 4,
+    "ui_type": 3,
+    "uifx": ""
+  },
+  "2100331": {
+    "anchor": "",
+    "ani_controller": "",
+    "ani_name": "Map_1350003",
+    "animtor": 1,
+    "bg": "Map_1350003",
+    "bgm": "xinnong-1",
+    "bind_map": 2100321,
+    "cloud_suffix": "",
+    "clouds_pos": [
+      [
+        332,
+        271
+      ],
+      [
+        896,
+        110
+      ],
+      [
+        -280,
+        0
+      ],
+      [
+        990,
+        -90
+      ],
+      [
+        0,
+        -465
+      ]
+    ],
+    "destory_icon_suffix": "blue",
+    "drop_by_map_display": "",
+    "enter_story": "DIEHAIMENGHUA1",
+    "guide_id": "",
+    "level_limit": 1,
+    "map": 2100331,
+    "name": "Dreamwaker's Butterfly - Reality|| ||CHAPTER EX||E.X.",
+    "on_activity": 0,
+    "title": "EX",
+    "type": 5,
+    "ui_type": 3,
+    "uifx": ""
+  },
+  "2100332": {
+    "anchor": "",
+    "ani_controller": "",
+    "ani_name": "Map_1350004",
+    "animtor": 1,
+    "bg": "Map_1350004",
+    "bgm": "main-newyear",
+    "bind_map": 2100322,
+    "cloud_suffix": "",
+    "clouds_pos": [
+      [
+        332,
+        271
+      ],
+      [
+        896,
+        110
+      ],
+      [
+        -280,
+        0
+      ],
+      [
+        990,
+        -90
+      ],
+      [
+        0,
+        -465
+      ]
+    ],
+    "destory_icon_suffix": "blue",
+    "drop_by_map_display": "",
+    "enter_story": "",
+    "guide_id": "",
+    "level_limit": 1,
+    "map": 2100332,
+    "name": "Dreamwaker's Butterfly - Dreamworld|| ||CHAPTER EX||E.X.",
+    "on_activity": 0,
+    "title": "EX",
+    "type": 5,
+    "ui_type": 3,
+    "uifx": ""
+  },
+  "2100341": {
+    "anchor": "",
+    "ani_controller": "",
+    "ani_name": "Map_1420001",
+    "animtor": 1,
+    "bg": "Map_1420001",
+    "bgm": "blueocean-image",
+    "bind_map": 2100351,
+    "cloud_suffix": "",
+    "clouds_pos": [
+      [
+        332,
+        271
+      ],
+      [
+        896,
+        110
+      ],
+      [
+        -280,
+        0
+      ],
+      [
+        990,
+        -90
+      ],
+      [
+        0,
+        -465
+      ]
+    ],
+    "destory_icon_suffix": "blue",
+    "drop_by_map_display": "",
+    "enter_story": "JINGWEILUOXUAN1",
+    "guide_id": "",
+    "level_limit": 1,
+    "map": 2100341,
+    "name": "Mirror Involution - Pt. 1|| ||CHAPTER EX||E.X.",
+    "on_activity": 0,
+    "title": "EX",
+    "type": 4,
+    "ui_type": 1,
+    "uifx": ""
+  },
+  "2100342": {
+    "anchor": "",
+    "ani_controller": "",
+    "ani_name": "Map_1420008",
+    "animtor": 1,
+    "bg": "Map_1420008",
+    "bgm": "deepblue-image",
+    "bind_map": 2100352,
+    "cloud_suffix": "",
+    "clouds_pos": [
+      [
+        332,
+        271
+      ],
+      [
+        896,
+        110
+      ],
+      [
+        -280,
+        0
+      ],
+      [
+        990,
+        -90
+      ],
+      [
+        0,
+        -465
+      ]
+    ],
+    "destory_icon_suffix": "blue",
+    "drop_by_map_display": "",
+    "enter_story": "JINGWEILUOXUAN17",
+    "guide_id": "",
+    "level_limit": 1,
+    "map": 2100342,
+    "name": "Mirror Involution - Pt. 2|| ||CHAPTER EX||E.X.",
+    "on_activity": 0,
+    "title": "EX",
+    "type": 4,
+    "ui_type": 1,
+    "uifx": ""
+  },
+  "2100351": {
+    "anchor": "",
+    "ani_controller": "",
+    "ani_name": "Map_1420011",
+    "animtor": 1,
+    "bg": "Map_1420011",
+    "bgm": "blueocean-image",
+    "bind_map": 2100341,
+    "cloud_suffix": "",
+    "clouds_pos": [
+      [
+        332,
+        271
+      ],
+      [
+        896,
+        110
+      ],
+      [
+        -280,
+        0
+      ],
+      [
+        990,
+        -90
+      ],
+      [
+        0,
+        -465
+      ]
+    ],
+    "destory_icon_suffix": "blue",
+    "drop_by_map_display": "",
+    "enter_story": "JINGWEILUOXUAN1",
+    "guide_id": "",
+    "level_limit": 1,
+    "map": 2100351,
+    "name": "Mirror Involution - Pt. 1|| ||CHAPTER EX||E.X.",
+    "on_activity": 0,
+    "title": "EX",
+    "type": 5,
+    "ui_type": 1,
+    "uifx": ""
+  },
+  "2100352": {
+    "anchor": "",
+    "ani_controller": "",
+    "ani_name": "Map_1420018",
+    "animtor": 1,
+    "bg": "Map_1420018",
+    "bgm": "deepblue-image",
+    "bind_map": 2100342,
+    "cloud_suffix": "",
+    "clouds_pos": [
+      [
+        332,
+        271
+      ],
+      [
+        896,
+        110
+      ],
+      [
+        -280,
+        0
+      ],
+      [
+        990,
+        -90
+      ],
+      [
+        0,
+        -465
+      ]
+    ],
+    "destory_icon_suffix": "blue",
+    "drop_by_map_display": "",
+    "enter_story": "JINGWEILUOXUAN17",
+    "guide_id": "",
+    "level_limit": 1,
+    "map": 2100352,
+    "name": "Mirror Involution - Pt. 2|| ||CHAPTER EX||E.X.",
+    "on_activity": 0,
+    "title": "EX",
+    "type": 5,
+    "ui_type": 1,
+    "uifx": ""
+  },
+  "2100361": {
+    "anchor": "",
+    "ani_controller": "",
+    "ani_name": "Map_1400001",
+    "animtor": 1,
+    "bg": "Map_1400001",
+    "bgm": "bgm-cccp2",
+    "bind_map": 2100371,
+    "cloud_suffix": "",
+    "clouds_pos": [
+      [
+        332,
+        271
+      ],
+      [
+        896,
+        110
+      ],
+      [
+        -280,
+        0
+      ],
+      [
+        990,
+        -90
+      ],
+      [
+        0,
+        -465
+      ]
+    ],
+    "destory_icon_suffix": "blue",
+    "drop_by_map_display": "",
+    "enter_story": "POXIAOBINGHUA1",
+    "guide_id": "",
+    "level_limit": 1,
+    "map": 2100361,
+    "name": "Khorovod of Dawn's Rime - Pt. 1|| ||CHAPTER EX||E.X.",
+    "on_activity": 0,
+    "title": "EX",
+    "type": 4,
+    "ui_type": 1,
+    "uifx": ""
+  },
+  "2100362": {
+    "anchor": "",
+    "ani_controller": "",
+    "ani_name": "Map_1400002",
+    "animtor": 1,
+    "bg": "Map_1400002",
+    "bgm": "deepblue-image",
+    "bind_map": 2100372,
+    "cloud_suffix": "",
+    "clouds_pos": [
+      [
+        332,
+        271
+      ],
+      [
+        896,
+        110
+      ],
+      [
+        -280,
+        0
+      ],
+      [
+        990,
+        -90
+      ],
+      [
+        0,
+        -465
+      ]
+    ],
+    "destory_icon_suffix": "blue",
+    "drop_by_map_display": "",
+    "enter_story": "POXIAOBINGHUA15",
+    "guide_id": "",
+    "level_limit": 1,
+    "map": 2100362,
+    "name": "Khorovod of Dawn's Rime - Pt. 2|| ||CHAPTER EX||E.X.",
+    "on_activity": 0,
+    "title": "EX",
+    "type": 4,
+    "ui_type": 1,
+    "uifx": ""
+  },
+  "2100371": {
+    "anchor": "",
+    "ani_controller": "",
+    "ani_name": "Map_1400003",
+    "animtor": 1,
+    "bg": "Map_1400003",
+    "bgm": "bgm-cccp2",
+    "bind_map": 2100361,
+    "cloud_suffix": "",
+    "clouds_pos": [
+      [
+        332,
+        271
+      ],
+      [
+        896,
+        110
+      ],
+      [
+        -280,
+        0
+      ],
+      [
+        990,
+        -90
+      ],
+      [
+        0,
+        -465
+      ]
+    ],
+    "destory_icon_suffix": "blue",
+    "drop_by_map_display": "",
+    "enter_story": "POXIAOBINGHUA1",
+    "guide_id": "",
+    "level_limit": 1,
+    "map": 2100371,
+    "name": "Khorovod of Dawn's Rime - Pt. 1|| ||CHAPTER EX||E.X.",
+    "on_activity": 0,
+    "title": "EX",
+    "type": 5,
+    "ui_type": 1,
+    "uifx": ""
+  },
+  "2100372": {
+    "anchor": "",
+    "ani_controller": "",
+    "ani_name": "Map_1400004",
+    "animtor": 1,
+    "bg": "Map_1400004",
+    "bgm": "deepblue-image",
+    "bind_map": 2100362,
+    "cloud_suffix": "",
+    "clouds_pos": [
+      [
+        332,
+        271
+      ],
+      [
+        896,
+        110
+      ],
+      [
+        -280,
+        0
+      ],
+      [
+        990,
+        -90
+      ],
+      [
+        0,
+        -465
+      ]
+    ],
+    "destory_icon_suffix": "blue",
+    "drop_by_map_display": "",
+    "enter_story": "POXIAOBINGHUA15",
+    "guide_id": "",
+    "level_limit": 1,
+    "map": 2100372,
+    "name": "Khorovod of Dawn's Rime - Pt. 2|| ||CHAPTER EX||E.X.",
     "on_activity": 0,
     "title": "EX",
     "type": 5,
@@ -18944,6 +19809,50 @@
     "ui_type": 1,
     "uifx": ""
   },
+  "2200110": {
+    "anchor": "",
+    "ani_controller": "",
+    "ani_name": "",
+    "animtor": 0,
+    "bg": "Map_1360001",
+    "bgm": "level",
+    "bind_map": 0,
+    "cloud_suffix": "",
+    "clouds_pos": [
+      [
+        332,
+        271
+      ],
+      [
+        896,
+        110
+      ],
+      [
+        -280,
+        0
+      ],
+      [
+        990,
+        -90
+      ],
+      [
+        0,
+        -465
+      ]
+    ],
+    "destory_icon_suffix": "blue",
+    "drop_by_map_display": "",
+    "enter_story": "",
+    "guide_id": "",
+    "level_limit": 1,
+    "map": 2200110,
+    "name": "Sundered Blue|| ||CHAPTER SP||S.P.",
+    "on_activity": 0,
+    "title": "SP",
+    "type": 3,
+    "ui_type": 1,
+    "uifx": ""
+  },
   "9920001": {
     "anchor": "",
     "ani_controller": "",
@@ -19204,9 +20113,9 @@
     1250002,
     1250011,
     1250012,
-    1250022,
     1250025,
     1250026,
+    1250022,
     1260001,
     1260002,
     1260011,
@@ -19445,6 +20354,12 @@
     1780012,
     1780025,
     1780026,
+    1790001,
+    1790002,
+    1790011,
+    1790012,
+    1790025,
+    1790026,
     2100000,
     2100001,
     2100010,
@@ -19509,6 +20424,18 @@
     2100302,
     2100311,
     2100312,
+    2100321,
+    2100322,
+    2100331,
+    2100332,
+    2100341,
+    2100342,
+    2100351,
+    2100352,
+    2100361,
+    2100362,
+    2100371,
+    2100372,
     2200000,
     2200010,
     2200020,
@@ -19519,6 +20446,7 @@
     2200070,
     2200080,
     2200090,
+    2200110,
     9920001,
     9920002,
     9920011,

@@ -520,7 +520,8 @@
     "goods": [
       102081,
       202121,
-      202201
+      202201,
+      202041
     ],
     "goods_icon": "Props/54000",
     "goods_name": "SSR軽巡",
@@ -566,7 +567,10 @@
       105131,
       305051,
       105191,
-      905011
+      905011,
+      304051,
+      305081,
+      405011
     ],
     "goods_icon": "Props/54000",
     "goods_name": "SSR戦艦",
@@ -625,7 +629,8 @@
     "goods": [
       102081,
       202121,
-      202201
+      202201,
+      202041
     ],
     "goods_icon": "Props/54000",
     "goods_name": "SSR軽巡",
@@ -671,7 +676,10 @@
       105131,
       305051,
       105191,
-      905011
+      905011,
+      304051,
+      305081,
+      405011
     ],
     "goods_icon": "Props/54000",
     "goods_name": "SSR戦艦",
@@ -757,6 +765,74 @@
     "price": 20,
     "type": 2
   },
+  "44": {
+    "goods": [
+      408091
+    ],
+    "goods_icon": "Props/54000",
+    "goods_name": "SSR潜水艦",
+    "goods_purchase_limit": 1,
+    "goods_rarity": 4,
+    "goods_type": 2,
+    "group": 20003,
+    "id": 44,
+    "is_ship": 0,
+    "num": 1,
+    "order": 0,
+    "price": 80,
+    "type": 4
+  },
+  "45": {
+    "goods": [
+      408091
+    ],
+    "goods_icon": "Props/54000",
+    "goods_name": "SSR潜水艦",
+    "goods_purchase_limit": 1,
+    "goods_rarity": 4,
+    "goods_type": 2,
+    "group": 20004,
+    "id": 45,
+    "is_ship": 0,
+    "num": 1,
+    "order": 1,
+    "price": 80,
+    "type": 4
+  },
+  "46": {
+    "goods": [
+      42050
+    ],
+    "goods_icon": "Props/42050",
+    "goods_name": "指向型強化ユニット・Ⅵ期",
+    "goods_purchase_limit": 15,
+    "goods_rarity": 4,
+    "goods_type": 1,
+    "group": 10031,
+    "id": 46,
+    "is_ship": 0,
+    "num": 1,
+    "order": 5,
+    "price": 20,
+    "type": 2
+  },
+  "47": {
+    "goods": [
+      42056
+    ],
+    "goods_icon": "Props/42056",
+    "goods_name": "上級指向型強化ユニット・Ⅵ期",
+    "goods_purchase_limit": 5,
+    "goods_rarity": 5,
+    "goods_type": 1,
+    "group": 10032,
+    "id": 47,
+    "is_ship": 0,
+    "num": 1,
+    "order": 4,
+    "price": 20,
+    "type": 2
+  },
   "all": [
     1,
     2,
@@ -798,6 +874,10 @@
     38,
     41,
     42,
-    43
+    43,
+    44,
+    45,
+    46,
+    47
   ]
 }

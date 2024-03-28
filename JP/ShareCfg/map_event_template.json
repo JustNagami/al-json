@@ -12599,6 +12599,48 @@
     "ship_prefab": "",
     "type": 0
   },
+  "586": {
+    "address": [],
+    "animation": "",
+    "c_type": 0,
+    "effect": [
+      [
+        "enemy",
+        [
+          [
+            1766301,
+            [
+              1,
+              2
+            ]
+          ],
+          [
+            1766302,
+            [
+              1,
+              4
+            ]
+          ],
+          [
+            1766303,
+            [
+              2,
+              3
+            ]
+          ]
+        ]
+      ]
+    ],
+    "gametip": "",
+    "grid_color": "",
+    "icon": "",
+    "id": 586,
+    "memory": 0,
+    "preinstall": 3,
+    "round_gametip": "",
+    "ship_prefab": "",
+    "type": 3
+  },
   "590": {
     "address": [],
     "animation": "",
@@ -19490,8 +19532,13 @@
     "effect": [
       [
         "flag_if",
-        101,
+        103,
         0
+      ],
+      [
+        "flag_if",
+        101,
+        103
       ]
     ],
     "gametip": "",
@@ -19540,6 +19587,944 @@
     "grid_color": "",
     "icon": "",
     "id": 868,
+    "memory": 0,
+    "preinstall": 3,
+    "round_gametip": "",
+    "ship_prefab": "",
+    "type": 3
+  },
+  "869": {
+    "address": [],
+    "animation": "",
+    "c_type": 0,
+    "effect": [
+      [
+        "flag",
+        0,
+        61
+      ],
+      [
+        "enemy",
+        [
+          [
+            1770302,
+            [
+              5,
+              3
+            ]
+          ]
+        ]
+      ]
+    ],
+    "gametip": "",
+    "grid_color": "",
+    "icon": "",
+    "id": 869,
+    "memory": 0,
+    "preinstall": 3,
+    "round_gametip": "",
+    "ship_prefab": "",
+    "type": 3
+  },
+  "870": {
+    "address": [],
+    "animation": "",
+    "c_type": 0,
+    "effect": [
+      [
+        "flag",
+        61,
+        62
+      ]
+    ],
+    "gametip": "",
+    "grid_color": "",
+    "icon": "",
+    "id": 870,
+    "memory": 0,
+    "preinstall": 3,
+    "round_gametip": "",
+    "ship_prefab": "",
+    "type": 3
+  },
+  "871": {
+    "address": [],
+    "animation": "",
+    "c_type": 0,
+    "effect": [
+      [
+        "flag",
+        0,
+        63
+      ],
+      [
+        "enemy",
+        [
+          [
+            1771303,
+            [
+              0,
+              4
+            ]
+          ]
+        ]
+      ]
+    ],
+    "gametip": "",
+    "grid_color": "",
+    "icon": "",
+    "id": 871,
+    "memory": 0,
+    "preinstall": 3,
+    "round_gametip": "",
+    "ship_prefab": "",
+    "type": 3
+  },
+  "872": {
+    "address": [],
+    "animation": "",
+    "c_type": 0,
+    "effect": [
+      [
+        "flag",
+        63,
+        64
+      ]
+    ],
+    "gametip": "",
+    "grid_color": "",
+    "icon": "",
+    "id": 872,
+    "memory": 0,
+    "preinstall": 3,
+    "round_gametip": "",
+    "ship_prefab": "",
+    "type": 3
+  },
+  "873": {
+    "address": [],
+    "animation": "",
+    "c_type": 0,
+    "effect": [
+      [
+        "flag",
+        0,
+        65
+      ],
+      [
+        "enemy",
+        [
+          [
+            1772303,
+            [
+              6,
+              7
+            ]
+          ]
+        ]
+      ]
+    ],
+    "gametip": "",
+    "grid_color": "",
+    "icon": "",
+    "id": 873,
+    "memory": 0,
+    "preinstall": 3,
+    "round_gametip": "",
+    "ship_prefab": "",
+    "type": 3
+  },
+  "874": {
+    "address": [],
+    "animation": "",
+    "c_type": 0,
+    "effect": [
+      [
+        "flag",
+        65,
+        66
+      ]
+    ],
+    "gametip": "",
+    "grid_color": "",
+    "icon": "",
+    "id": 874,
+    "memory": 0,
+    "preinstall": 3,
+    "round_gametip": "",
+    "ship_prefab": "",
+    "type": 3
+  },
+  "875": {
+    "address": [],
+    "animation": "",
+    "c_type": 0,
+    "effect": [
+      [
+        "flag",
+        0,
+        67
+      ],
+      [
+        "enemy",
+        [
+          [
+            1773303,
+            [
+              1,
+              1
+            ]
+          ]
+        ]
+      ]
+    ],
+    "gametip": "",
+    "grid_color": "",
+    "icon": "",
+    "id": 875,
+    "memory": 0,
+    "preinstall": 3,
+    "round_gametip": "",
+    "ship_prefab": "",
+    "type": 3
+  },
+  "876": {
+    "address": [],
+    "animation": "",
+    "c_type": 0,
+    "effect": [
+      [
+        "flag",
+        67,
+        68
+      ]
+    ],
+    "gametip": "",
+    "grid_color": "",
+    "icon": "",
+    "id": 876,
+    "memory": 0,
+    "preinstall": 3,
+    "round_gametip": "",
+    "ship_prefab": "",
+    "type": 3
+  },
+  "877": {
+    "address": [],
+    "animation": "",
+    "c_type": 0,
+    "effect": [
+      [
+        "flag",
+        0,
+        69
+      ],
+      [
+        "enemy",
+        [
+          [
+            1774303,
+            [
+              8,
+              4
+            ]
+          ]
+        ]
+      ]
+    ],
+    "gametip": "",
+    "grid_color": "",
+    "icon": "",
+    "id": 877,
+    "memory": 0,
+    "preinstall": 3,
+    "round_gametip": "",
+    "ship_prefab": "",
+    "type": 3
+  },
+  "878": {
+    "address": [],
+    "animation": "",
+    "c_type": 0,
+    "effect": [
+      [
+        "flag",
+        69,
+        74
+      ]
+    ],
+    "gametip": "",
+    "grid_color": "",
+    "icon": "",
+    "id": 878,
+    "memory": 0,
+    "preinstall": 3,
+    "round_gametip": "",
+    "ship_prefab": "",
+    "type": 3
+  },
+  "879": {
+    "address": [],
+    "animation": "",
+    "c_type": 0,
+    "effect": [
+      [
+        "flag",
+        0,
+        61
+      ],
+      [
+        "enemy",
+        [
+          [
+            1775305,
+            [
+              7,
+              1
+            ]
+          ]
+        ]
+      ]
+    ],
+    "gametip": "",
+    "grid_color": "",
+    "icon": "",
+    "id": 879,
+    "memory": 0,
+    "preinstall": 3,
+    "round_gametip": "",
+    "ship_prefab": "",
+    "type": 3
+  },
+  "880": {
+    "address": [],
+    "animation": "",
+    "c_type": 0,
+    "effect": [
+      [
+        "flag",
+        61,
+        70
+      ]
+    ],
+    "gametip": "",
+    "grid_color": "",
+    "icon": "",
+    "id": 880,
+    "memory": 0,
+    "preinstall": 3,
+    "round_gametip": "",
+    "ship_prefab": "",
+    "type": 3
+  },
+  "881": {
+    "address": [],
+    "animation": "",
+    "c_type": 0,
+    "effect": [
+      [
+        "flag",
+        0,
+        63
+      ],
+      [
+        "enemy",
+        [
+          [
+            1775306,
+            [
+              7,
+              7
+            ]
+          ]
+        ]
+      ]
+    ],
+    "gametip": "",
+    "grid_color": "",
+    "icon": "",
+    "id": 881,
+    "memory": 0,
+    "preinstall": 3,
+    "round_gametip": "",
+    "ship_prefab": "",
+    "type": 3
+  },
+  "882": {
+    "address": [],
+    "animation": "",
+    "c_type": 0,
+    "effect": [
+      [
+        "flag",
+        63,
+        71
+      ]
+    ],
+    "gametip": "",
+    "grid_color": "",
+    "icon": "",
+    "id": 882,
+    "memory": 0,
+    "preinstall": 3,
+    "round_gametip": "",
+    "ship_prefab": "",
+    "type": 3
+  },
+  "883": {
+    "address": [],
+    "animation": "",
+    "c_type": 0,
+    "effect": [
+      [
+        "flag",
+        0,
+        65
+      ],
+      [
+        "enemy",
+        [
+          [
+            1775303,
+            [
+              1,
+              1
+            ]
+          ]
+        ]
+      ]
+    ],
+    "gametip": "",
+    "grid_color": "",
+    "icon": "",
+    "id": 883,
+    "memory": 0,
+    "preinstall": 3,
+    "round_gametip": "",
+    "ship_prefab": "",
+    "type": 3
+  },
+  "884": {
+    "address": [],
+    "animation": "",
+    "c_type": 0,
+    "effect": [
+      [
+        "flag",
+        65,
+        72
+      ]
+    ],
+    "gametip": "",
+    "grid_color": "",
+    "icon": "",
+    "id": 884,
+    "memory": 0,
+    "preinstall": 3,
+    "round_gametip": "",
+    "ship_prefab": "",
+    "type": 3
+  },
+  "885": {
+    "address": [],
+    "animation": "",
+    "c_type": 0,
+    "effect": [
+      [
+        "flag",
+        0,
+        67
+      ],
+      [
+        "enemy",
+        [
+          [
+            1775304,
+            [
+              1,
+              4
+            ]
+          ]
+        ]
+      ]
+    ],
+    "gametip": "",
+    "grid_color": "",
+    "icon": "",
+    "id": 885,
+    "memory": 0,
+    "preinstall": 3,
+    "round_gametip": "",
+    "ship_prefab": "",
+    "type": 3
+  },
+  "886": {
+    "address": [],
+    "animation": "",
+    "c_type": 0,
+    "effect": [
+      [
+        "flag",
+        67,
+        73
+      ]
+    ],
+    "gametip": "",
+    "grid_color": "",
+    "icon": "",
+    "id": 886,
+    "memory": 0,
+    "preinstall": 3,
+    "round_gametip": "",
+    "ship_prefab": "",
+    "type": 3
+  },
+  "887": {
+    "address": [],
+    "animation": "",
+    "c_type": 0,
+    "effect": [
+      [
+        "flag",
+        0,
+        69
+      ],
+      [
+        "enemy",
+        [
+          [
+            1775307,
+            [
+              1,
+              7
+            ]
+          ]
+        ]
+      ]
+    ],
+    "gametip": "",
+    "grid_color": "",
+    "icon": "",
+    "id": 887,
+    "memory": 0,
+    "preinstall": 3,
+    "round_gametip": "",
+    "ship_prefab": "",
+    "type": 3
+  },
+  "888": {
+    "address": [],
+    "animation": "",
+    "c_type": 0,
+    "effect": [
+      [
+        "flag",
+        69,
+        74
+      ]
+    ],
+    "gametip": "",
+    "grid_color": "",
+    "icon": "",
+    "id": 888,
+    "memory": 0,
+    "preinstall": 3,
+    "round_gametip": "",
+    "ship_prefab": "",
+    "type": 3
+  },
+  "889": {
+    "address": [],
+    "animation": "",
+    "c_type": 0,
+    "effect": [
+      [
+        "enemy",
+        [
+          [
+            1784303,
+            [
+              1,
+              2
+            ]
+          ],
+          [
+            1784301,
+            [
+              1,
+              4
+            ]
+          ],
+          [
+            1784302,
+            [
+              1,
+              6
+            ]
+          ]
+        ]
+      ]
+    ],
+    "gametip": "",
+    "grid_color": "",
+    "icon": "",
+    "id": 889,
+    "memory": 0,
+    "preinstall": 3,
+    "round_gametip": "",
+    "ship_prefab": "",
+    "type": 3
+  },
+  "890": {
+    "address": [],
+    "animation": "",
+    "c_type": 0,
+    "effect": [
+      [
+        "enemy",
+        [
+          [
+            151030,
+            [
+              4,
+              2
+            ]
+          ]
+        ]
+      ]
+    ],
+    "gametip": "",
+    "grid_color": "",
+    "icon": "",
+    "id": 890,
+    "memory": 0,
+    "preinstall": 3,
+    "round_gametip": "",
+    "ship_prefab": "",
+    "type": 3
+  },
+  "891": {
+    "address": [],
+    "animation": "",
+    "c_type": 0,
+    "effect": [
+      [
+        "enemy",
+        [
+          [
+            151030,
+            [
+              3,
+              3
+            ]
+          ]
+        ]
+      ]
+    ],
+    "gametip": "",
+    "grid_color": "",
+    "icon": "",
+    "id": 891,
+    "memory": 0,
+    "preinstall": 3,
+    "round_gametip": "",
+    "ship_prefab": "",
+    "type": 3
+  },
+  "892": {
+    "address": [],
+    "animation": "",
+    "c_type": 0,
+    "effect": [
+      [
+        "enemy",
+        [
+          [
+            151090,
+            [
+              2,
+              2
+            ]
+          ]
+        ]
+      ]
+    ],
+    "gametip": "",
+    "grid_color": "",
+    "icon": "",
+    "id": 892,
+    "memory": 0,
+    "preinstall": 3,
+    "round_gametip": "",
+    "ship_prefab": "",
+    "type": 3
+  },
+  "893": {
+    "address": [],
+    "animation": "",
+    "c_type": 0,
+    "effect": [
+      [
+        "enemy",
+        [
+          [
+            152030,
+            [
+              9,
+              6
+            ]
+          ]
+        ]
+      ]
+    ],
+    "gametip": "",
+    "grid_color": "",
+    "icon": "",
+    "id": 893,
+    "memory": 0,
+    "preinstall": 3,
+    "round_gametip": "",
+    "ship_prefab": "",
+    "type": 3
+  },
+  "894": {
+    "address": [],
+    "animation": "",
+    "c_type": 0,
+    "effect": [
+      [
+        "enemy",
+        [
+          [
+            152030,
+            [
+              7,
+              9
+            ]
+          ]
+        ]
+      ]
+    ],
+    "gametip": "",
+    "grid_color": "",
+    "icon": "",
+    "id": 894,
+    "memory": 0,
+    "preinstall": 3,
+    "round_gametip": "",
+    "ship_prefab": "",
+    "type": 3
+  },
+  "895": {
+    "address": [],
+    "animation": "",
+    "c_type": 0,
+    "effect": [
+      [
+        "enemy",
+        [
+          [
+            152090,
+            [
+              8,
+              7
+            ]
+          ]
+        ]
+      ]
+    ],
+    "gametip": "",
+    "grid_color": "",
+    "icon": "",
+    "id": 895,
+    "memory": 0,
+    "preinstall": 3,
+    "round_gametip": "",
+    "ship_prefab": "",
+    "type": 3
+  },
+  "896": {
+    "address": [],
+    "animation": "",
+    "c_type": 0,
+    "effect": [
+      [
+        "enemy",
+        [
+          [
+            153030,
+            [
+              4,
+              2
+            ]
+          ]
+        ]
+      ]
+    ],
+    "gametip": "",
+    "grid_color": "",
+    "icon": "",
+    "id": 896,
+    "memory": 0,
+    "preinstall": 3,
+    "round_gametip": "",
+    "ship_prefab": "",
+    "type": 3
+  },
+  "897": {
+    "address": [],
+    "animation": "",
+    "c_type": 0,
+    "effect": [
+      [
+        "enemy",
+        [
+          [
+            153090,
+            [
+              2,
+              1
+            ]
+          ]
+        ]
+      ]
+    ],
+    "gametip": "",
+    "grid_color": "",
+    "icon": "",
+    "id": 897,
+    "memory": 0,
+    "preinstall": 3,
+    "round_gametip": "",
+    "ship_prefab": "",
+    "type": 3
+  },
+  "898": {
+    "address": [],
+    "animation": "",
+    "c_type": 0,
+    "effect": [
+      [
+        "enemy",
+        [
+          [
+            154030,
+            [
+              8,
+              10
+            ]
+          ]
+        ]
+      ]
+    ],
+    "gametip": "",
+    "grid_color": "",
+    "icon": "",
+    "id": 898,
+    "memory": 0,
+    "preinstall": 3,
+    "round_gametip": "",
+    "ship_prefab": "",
+    "type": 3
+  },
+  "899": {
+    "address": [],
+    "animation": "",
+    "c_type": 0,
+    "effect": [
+      [
+        "enemy",
+        [
+          [
+            154090,
+            [
+              1,
+              1
+            ]
+          ],
+          [
+            154090,
+            [
+              9,
+              11
+            ]
+          ]
+        ]
+      ]
+    ],
+    "gametip": "",
+    "grid_color": "",
+    "icon": "",
+    "id": 899,
+    "memory": 0,
+    "preinstall": 3,
+    "round_gametip": "",
+    "ship_prefab": "",
+    "type": 3
+  },
+  "900": {
+    "address": [],
+    "animation": "",
+    "c_type": 0,
+    "effect": [
+      [
+        "flag_random",
+        0,
+        [
+          [
+            75,
+            10
+          ],
+          [
+            0,
+            30
+          ]
+        ]
+      ]
+    ],
+    "gametip": "",
+    "grid_color": "",
+    "icon": "",
+    "id": 900,
+    "memory": 0,
+    "preinstall": 3,
+    "round_gametip": "",
+    "ship_prefab": "",
+    "type": 3
+  },
+  "901": {
+    "address": [],
+    "animation": "",
+    "c_type": 0,
+    "effect": [
+      [
+        "story",
+        902,
+        0
+      ]
+    ],
+    "gametip": "",
+    "grid_color": "",
+    "icon": "",
+    "id": 901,
+    "memory": 0,
+    "preinstall": 3,
+    "round_gametip": "",
+    "ship_prefab": "",
+    "type": 3
+  },
+  "902": {
+    "address": [
+      9,
+      19
+    ],
+    "animation": "",
+    "c_type": 0,
+    "effect": [],
+    "gametip": "battle_text_tongmeng_1",
+    "grid_color": "",
+    "icon": "tongmeng_caidan",
+    "id": 902,
     "memory": 0,
     "preinstall": 3,
     "round_gametip": "",
@@ -20093,6 +21078,7 @@
     583,
     584,
     585,
+    586,
     590,
     591,
     592,
@@ -20371,6 +21357,40 @@
     865,
     866,
     867,
-    868
+    868,
+    869,
+    870,
+    871,
+    872,
+    873,
+    874,
+    875,
+    876,
+    877,
+    878,
+    879,
+    880,
+    881,
+    882,
+    883,
+    884,
+    885,
+    886,
+    887,
+    888,
+    889,
+    890,
+    891,
+    892,
+    893,
+    894,
+    895,
+    896,
+    897,
+    898,
+    899,
+    900,
+    901,
+    902
   ]
 }
