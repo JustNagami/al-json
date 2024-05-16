@@ -12280,7 +12280,7 @@
     "level_limit": 1,
     "map": 1620001,
     "name": "深度回音·上篇|| ||CHAPTER EX||E.X.",
-    "on_activity": 4265,
+    "on_activity": 5287,
     "title": "EX",
     "type": 4,
     "ui_type": 1,
@@ -12324,7 +12324,7 @@
     "level_limit": 1,
     "map": 1620002,
     "name": "深度回音·下篇|| ||CHAPTER EX||E.X.",
-    "on_activity": 4265,
+    "on_activity": 5287,
     "title": "EX",
     "type": 4,
     "ui_type": 1,
@@ -12368,7 +12368,7 @@
     "level_limit": 1,
     "map": 1620011,
     "name": "深度回音·上篇|| ||CHAPTER EX||E.X.",
-    "on_activity": 4265,
+    "on_activity": 5287,
     "title": "EX",
     "type": 5,
     "ui_type": 1,
@@ -12412,7 +12412,7 @@
     "level_limit": 1,
     "map": 1620012,
     "name": "深度回音·下篇|| ||CHAPTER EX||E.X.",
-    "on_activity": 4265,
+    "on_activity": 5287,
     "title": "EX",
     "type": 5,
     "ui_type": 1,
@@ -12456,7 +12456,7 @@
     "level_limit": 1,
     "map": 1620025,
     "name": "深度回音·SP|| ||CHAPTER EX||E.X.",
-    "on_activity": 4265,
+    "on_activity": 5287,
     "title": "EX",
     "type": 8,
     "ui_type": 1,
@@ -12500,7 +12500,7 @@
     "level_limit": 1,
     "map": 1620026,
     "name": "深度回音·EX|| ||CHAPTER EX||E.X.",
-    "on_activity": 4265,
+    "on_activity": 5287,
     "title": "EX",
     "type": 8,
     "ui_type": 1,
@@ -17060,6 +17060,182 @@
     "ui_type": 1,
     "uifx": ""
   },
+  "1800001": {
+    "anchor": "",
+    "ani_controller": "",
+    "ani_name": "Map_1800001",
+    "animtor": 1,
+    "bg": "Map_1800001",
+    "bgm": "votefes-start",
+    "bind_map": 1800002,
+    "cloud_suffix": "",
+    "clouds_pos": [
+      [
+        332,
+        271
+      ],
+      [
+        896,
+        110
+      ],
+      [
+        -280,
+        0
+      ],
+      [
+        990,
+        -90
+      ],
+      [
+        0,
+        -465
+      ]
+    ],
+    "destory_icon_suffix": "blue",
+    "drop_by_map_display": "",
+    "enter_story": "GONGMINGDEPASSION1",
+    "guide_id": "",
+    "level_limit": 1,
+    "map": 1800001,
+    "name": "共鸣的Passion|| ||CHAPTER EX||E.X.",
+    "on_activity": 5301,
+    "title": "EX",
+    "type": 4,
+    "ui_type": 8,
+    "uifx": ""
+  },
+  "1800002": {
+    "anchor": "",
+    "ani_controller": "",
+    "ani_name": "Map_1800002",
+    "animtor": 1,
+    "bg": "Map_1800002",
+    "bgm": "votefes-start",
+    "bind_map": 1800001,
+    "cloud_suffix": "",
+    "clouds_pos": [
+      [
+        332,
+        271
+      ],
+      [
+        896,
+        110
+      ],
+      [
+        -280,
+        0
+      ],
+      [
+        990,
+        -90
+      ],
+      [
+        0,
+        -465
+      ]
+    ],
+    "destory_icon_suffix": "blue",
+    "drop_by_map_display": "",
+    "enter_story": "",
+    "guide_id": "",
+    "level_limit": 1,
+    "map": 1800002,
+    "name": "共鸣的Passion·进阶|| ||CHAPTER EX||E.X.",
+    "on_activity": 5301,
+    "title": "EX",
+    "type": 5,
+    "ui_type": 8,
+    "uifx": ""
+  },
+  "1800003": {
+    "anchor": "",
+    "ani_controller": "",
+    "ani_name": "Map_1800001",
+    "animtor": 1,
+    "bg": "Map_1800001",
+    "bgm": "song-Cyanidin-full",
+    "bind_map": 1800002,
+    "cloud_suffix": "",
+    "clouds_pos": [
+      [
+        332,
+        271
+      ],
+      [
+        896,
+        110
+      ],
+      [
+        -280,
+        0
+      ],
+      [
+        990,
+        -90
+      ],
+      [
+        0,
+        -465
+      ]
+    ],
+    "destory_icon_suffix": "blue",
+    "drop_by_map_display": "",
+    "enter_story": "",
+    "guide_id": "",
+    "level_limit": 1,
+    "map": 1800003,
+    "name": "共鸣的Passion·SP|| ||CHAPTER EX||E.X.",
+    "on_activity": 5301,
+    "title": "EX",
+    "type": 8,
+    "ui_type": 8,
+    "uifx": ""
+  },
+  "1800004": {
+    "anchor": "",
+    "ani_controller": "",
+    "ani_name": "Map_1800002",
+    "animtor": 1,
+    "bg": "Map_1800002",
+    "bgm": "song-Alizarin-full",
+    "bind_map": 1800002,
+    "cloud_suffix": "",
+    "clouds_pos": [
+      [
+        332,
+        271
+      ],
+      [
+        896,
+        110
+      ],
+      [
+        -280,
+        0
+      ],
+      [
+        990,
+        -90
+      ],
+      [
+        0,
+        -465
+      ]
+    ],
+    "destory_icon_suffix": "blue",
+    "drop_by_map_display": "",
+    "enter_story": "",
+    "guide_id": "",
+    "level_limit": 1,
+    "map": 1800004,
+    "name": "共鸣的Passion·EX|| ||CHAPTER EX||E.X.",
+    "on_activity": 5301,
+    "title": "EX",
+    "type": 8,
+    "ui_type": 8,
+    "uifx": ""
+  },
   "2100000": {
     "anchor": "",
     "ani_controller": "",
@@ -21199,6 +21375,10 @@
     1790012,
     1790025,
     1790026,
+    1800001,
+    1800002,
+    1800003,
+    1800004,
     2100000,
     2100001,
     2100010,
