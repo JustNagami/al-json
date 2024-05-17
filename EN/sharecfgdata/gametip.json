@@ -2367,7 +2367,7 @@
     "tip": "Are you sure you want to upgrade? Building materials will be consumed."
   },
   "buildship_heavy_tip": {
-    "tip": "Little Renown and Amagi-chan added to the build pool!"
+    "tip": "Little Renown and Amagi-chan added to standard build pool!"
   },
   "buildship_light_tip": {
     "tip": "Kirov, Gremyashchy, Murmansk, and others added to standard build pool!"
@@ -2376,7 +2376,7 @@
     "tip": "Get Kronshtadt guaranteed with every 200 event builds (can be done up to 4 times)!"
   },
   "buildship_special_tip": {
-    "tip": "Little Illustrious and Little Enterprise added to the build pool!"
+    "tip": "Little Illustrious and Little Enterprise added to standard build pool!"
   },
   "buleprint_need_level_tip": {
     "tip": "The corresponding ship will be unlocked at Level $1."
@@ -10682,6 +10682,12 @@
   "limit_team_character_tips": {
     "tip": "You cannot have same name ships in your Coalition Battle fleets."
   },
+  "liner_sign_cnt_tip": {
+    "tip": "Currently Obtainable:"
+  },
+  "liner_sign_unlock_tip": {
+    "tip": "Unlocks on 5/21"
+  },
   "link_link_help_tip": {
     "tip": [
       {
@@ -15046,6 +15052,9 @@
   "setting_label_private": {
     "tip": ""
   },
+  "setting_resdownload_title_dorm": {
+    "tip": "Update Dorm Resources"
+  },
   "setting_resdownload_title_gallery": {
     "tip": "Update Gallery"
   },
@@ -15571,19 +15580,19 @@
     "tip": "Unlock requirements not yet met."
   },
   "ship_profile_voice_locked_design": {
-    "tip": "Coming Soon"
+    "tip": "Unlocks after reaching Development Level $1"
   },
   "ship_profile_voice_locked_intimacy": {
-    "tip": "Coming Soon"
+    "tip": "Unlocks after reaching Affinity $1"
   },
   "ship_profile_voice_locked_meta": {
     "tip": "未配置tip"
   },
   "ship_profile_voice_locked_propose": {
-    "tip": "Coming Soon"
+    "tip": "Unlocks after Oath"
   },
   "ship_profile_voice_locked_propose_imas": {
-    "tip": "Coming Soon"
+    "tip": "Unlocks after Oath"
   },
   "ship_profile_words": {
     "tip": "Quotes"
@@ -16980,7 +16989,7 @@
     "tip": "You are currently researching a project."
   },
   "technology_mission_unfinish": {
-    "tip": "Requirements Not Met"
+    "tip": "<size=16>Requirements Not Met</size>"
   },
   "technology_queue_complete": {
     "tip": "Complete"
