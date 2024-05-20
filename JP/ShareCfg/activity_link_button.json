@@ -4,12 +4,12 @@
     "id": 1,
     "name": "event_all",
     "order": 1,
-    "param": "0",
+    "param": "5301",
     "pic": "event_all",
     "text_pic": "text_event_all",
     "time": [
       "default",
-      5233
+      5301
     ],
     "type": 3
   },
@@ -54,15 +54,15 @@
     "name": "event_minigame",
     "order": 1,
     "param": [
-      "SPRING_FESTIVAL_BACKHILL_2024"
+      "IDOL_MEDAL_COLLECTION_SCENE3"
     ],
     "pic": "event_minigame",
     "text_pic": "text_event_minigame",
     "time": [
       "default",
-      5193
+      5309
     ],
-    "type": 0
+    "type": 2
   },
   "30": {
     "group_id": 3,
@@ -114,7 +114,7 @@
     "text_pic": "text_event_aprilFool",
     "time": [
       "default",
-      4733
+      5267
     ],
     "type": 0
   },
@@ -179,6 +179,17 @@
     ],
     "type": 2
   },
+  "102": {
+    "group_id": 4,
+    "id": 102,
+    "name": "event_boss_single",
+    "order": 1,
+    "param": "0",
+    "pic": "event_map",
+    "text_pic": "text_event_anotherWorld",
+    "time": "stop",
+    "type": 0
+  },
   "all": [
     1,
     2,
@@ -192,7 +203,8 @@
     80,
     90,
     100,
-    101
+    101,
+    102
   ],
   "get_id_list_by_name": {
     "event_all": [
@@ -208,6 +220,9 @@
     ],
     "event_boss": [
       30
+    ],
+    "event_boss_single": [
+      102
     ],
     "event_escort": [
       40
