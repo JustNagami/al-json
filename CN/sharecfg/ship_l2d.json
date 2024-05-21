@@ -7455,12 +7455,17 @@
     "id": 10213433,
     "ignore_action": 1,
     "ignore_react": 1,
-    "limit_time": 0.1,
+    "limit_time": 0.5,
     "mode": 1,
     "offset_x": 0,
     "offset_y": 0,
     "parameter": "touch_drag30",
-    "parts_data": "",
+    "parts_data": {
+      "parts": [
+        0,
+        1
+      ]
+    },
     "range": [
       0,
       1
@@ -7471,7 +7476,7 @@
     "relation_parameter": "",
     "revert": -1,
     "revert_action_index": 0,
-    "revert_idle_index": 0,
+    "revert_idle_index": 1,
     "revert_smooth": 100,
     "ship_skin_id": 102134,
     "shop_action": 0,
@@ -7494,12 +7499,17 @@
     "id": 10213434,
     "ignore_action": 1,
     "ignore_react": 1,
-    "limit_time": 0.1,
+    "limit_time": 0.5,
     "mode": 1,
     "offset_x": 0,
     "offset_y": 0,
     "parameter": "touch_drag31",
-    "parts_data": "",
+    "parts_data": {
+      "parts": [
+        0,
+        1
+      ]
+    },
     "range": [
       0,
       1
@@ -7510,7 +7520,7 @@
     "relation_parameter": "",
     "revert": -1,
     "revert_action_index": 0,
-    "revert_idle_index": 0,
+    "revert_idle_index": 1,
     "revert_smooth": 100,
     "ship_skin_id": 102134,
     "shop_action": 0,
@@ -7533,12 +7543,17 @@
     "id": 10213435,
     "ignore_action": 1,
     "ignore_react": 1,
-    "limit_time": 0.1,
+    "limit_time": 0.5,
     "mode": 1,
     "offset_x": 0,
     "offset_y": 0,
     "parameter": "touch_drag32",
-    "parts_data": "",
+    "parts_data": {
+      "parts": [
+        0,
+        1
+      ]
+    },
     "range": [
       0,
       1
@@ -7549,7 +7564,7 @@
     "relation_parameter": "",
     "revert": -1,
     "revert_action_index": 0,
-    "revert_idle_index": 0,
+    "revert_idle_index": 1,
     "revert_smooth": 100,
     "ship_skin_id": 102134,
     "shop_action": 0,
@@ -7572,7 +7587,7 @@
     "id": 10213436,
     "ignore_action": 1,
     "ignore_react": 1,
-    "limit_time": 0.1,
+    "limit_time": 0.5,
     "mode": 1,
     "offset_x": 0,
     "offset_y": 0,
@@ -7611,7 +7626,7 @@
     "id": 10213437,
     "ignore_action": 1,
     "ignore_react": 1,
-    "limit_time": 0.1,
+    "limit_time": 0.5,
     "mode": 1,
     "offset_x": 0,
     "offset_y": 0,
@@ -7650,7 +7665,7 @@
     "id": 10213438,
     "ignore_action": 1,
     "ignore_react": 1,
-    "limit_time": 0.1,
+    "limit_time": 0.5,
     "mode": 1,
     "offset_x": 0,
     "offset_y": 0,
@@ -7822,7 +7837,7 @@
     "id": 10213442,
     "ignore_action": 1,
     "ignore_react": 1,
-    "limit_time": 0.1,
+    "limit_time": 0.5,
     "mode": 1,
     "offset_x": 0,
     "offset_y": 0,
@@ -8001,12 +8016,17 @@
     "id": 10213447,
     "ignore_action": 1,
     "ignore_react": 1,
-    "limit_time": 0.1,
+    "limit_time": 0.5,
     "mode": 1,
     "offset_x": 0,
     "offset_y": 0,
     "parameter": "touch_drag36",
-    "parts_data": "",
+    "parts_data": {
+      "parts": [
+        0,
+        1
+      ]
+    },
     "range": [
       0,
       1
@@ -8017,7 +8037,7 @@
     "relation_parameter": "",
     "revert": -1,
     "revert_action_index": 0,
-    "revert_idle_index": 0,
+    "revert_idle_index": 1,
     "revert_smooth": 100,
     "ship_skin_id": 102134,
     "shop_action": 0,
@@ -8040,12 +8060,17 @@
     "id": 10213448,
     "ignore_action": 1,
     "ignore_react": 1,
-    "limit_time": 0.1,
+    "limit_time": 0.5,
     "mode": 1,
     "offset_x": 0,
     "offset_y": 0,
     "parameter": "touch_drag35",
-    "parts_data": "",
+    "parts_data": {
+      "parts": [
+        0,
+        1
+      ]
+    },
     "range": [
       0,
       1
@@ -8056,7 +8081,7 @@
     "relation_parameter": "",
     "revert": -1,
     "revert_action_index": 0,
-    "revert_idle_index": 0,
+    "revert_idle_index": 1,
     "revert_smooth": 100,
     "ship_skin_id": 102134,
     "shop_action": 0,
@@ -22880,7 +22905,11 @@
     "start_value": 0
   },
   "90107101": {
-    "action_trigger": "",
+    "action_trigger": {
+      "circle": true,
+      "target": 1,
+      "type": 2
+    },
     "action_trigger_active": "",
     "drag_direct": 0,
     "draw_able_name": "TouchDrag1",
@@ -22891,7 +22920,7 @@
     "id": 90107101,
     "ignore_action": 1,
     "ignore_react": 1,
-    "limit_time": 0,
+    "limit_time": 2,
     "mode": 1,
     "offset_x": 0,
     "offset_y": 0,
