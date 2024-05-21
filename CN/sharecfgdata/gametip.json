@@ -36,6 +36,13 @@
       }
     }
   },
+  "7th_main_tip": {
+    "tip": [
+      {
+        "info": "活动规则：\n·<color=#92fc63>5.21-6.13维护</color>期间开启限时活动「假日！心跳！大邮轮！」\n·指挥官可以通过邮轮探索，完成航海日志，获得限定<color=#92fc63>头像框</color>、<color=#92fc63>聊天气泡</color>、<color=#92fc63>纪念章</color>等奖励\n·5.27为止，每日可获得一次「啾啾水管工」游戏次数，参与游戏可获取「假日邮轮纪念票」与「审判庭事件报告书」\n·累计7张「假日邮轮纪念票」可获得限定道具<color=#92fc63>「7th庆典邀请函」</color>\n"
+      }
+    ]
+  },
   "2023spring_minigame_bless_speed": {
     "tip": "速度|提高基础移动速度"
   },
@@ -1210,11 +1217,17 @@
   "backyard_shipAddInimacy_ok": {
     "tip": "<color=#92fc63>$1</color>亲密度<color=#92fc63>提高</color>"
   },
+  "backyard_shipAddInimacy_ships_ok": {
+    "tip": "<color=#92fc63>$1等舰船</color>亲密度<color=#92fc63>提高</color> "
+  },
   "backyard_shipAddMoney_error": {
     "tip": "获得物资失败:"
   },
   "backyard_shipAddMoney_ok": {
     "tip": "<color=#92fc63>$1</color>有了意外的发现，家具币<color=#92fc63>+$2</color>"
+  },
+  "backyard_shipAddMoney_ships_ok": {
+    "tip": "<color=#92fc63>$1等舰船</color>有了意外的发现，家具币<color=#92fc63>+$2</color> "
   },
   "backyard_shipAlreadyExit": {
     "tip": "该船已经离开"
@@ -2314,7 +2327,7 @@
     "tip": "基洛夫、雷鸣、摩尔曼斯克 建造追加！"
   },
   "buildship_new_tip": {
-    "tip": "每累计建造200次可获得海上传奇舰船 喀琅施塔得(最多4次)"
+    "tip": "每累计建造200次可获得海上传奇舰船 阿尔萨斯(最多4次)"
   },
   "buildship_special_tip": {
     "tip": "小光辉、小企业 建造追加！"
@@ -3712,6 +3725,24 @@
   },
   "commission_idle": {
     "tip": "空闲中..."
+  },
+  "commission_label_finish": {
+    "tip": "完 成"
+  },
+  "commission_label_finish_mellow": {
+    "tip": "完成"
+  },
+  "commission_label_go": {
+    "tip": "前 往"
+  },
+  "commission_label_go_mellow": {
+    "tip": "前往"
+  },
+  "commission_label_unlock_event_tip": {
+    "tip": "指挥官等级达到Lv.12后开发"
+  },
+  "commission_label_unlock_tech_tip": {
+    "tip": "指挥官等级达到Lv.30后开发"
   },
   "commission_no_open": {
     "tip": "未开启"
@@ -11166,11 +11197,117 @@
   "limit_team_character_tips": {
     "tip": "※参战的舰队中不可出现同名角色"
   },
+  "liner_activity_lock": {
+    "tip": "完成「于启航之前」后可解锁航海日志功能"
+  },
+  "liner_event_award_tip1": {
+    "tip": "线索尚未全部收集,前往指定区域收集线索"
+  },
+  "liner_event_award_tip2": {
+    "tip": "线索已全部收集 "
+  },
+  "liner_event_award_tip3": {
+    "tip": "鉴于以上线索，我认为本次事件的真相是："
+  },
+  "liner_event_get_tip": {
+    "tip": "已获得$1"
+  },
+  "liner_event_lock": {
+    "tip": "完成剧情「调查小队，成立！」后解锁"
+  },
+  "liner_event_reasoning_title": {
+    "tip": "神秘事件调查"
+  },
+  "liner_event_title1": {
+    "tip": "线索一"
+  },
+  "liner_event_title2": {
+    "tip": "线索二"
+  },
+  "liner_event_title3": {
+    "tip": "线索三"
+  },
+  "liner_help": {
+    "tip": {
+      "1": {
+        "icon": {
+          "atlas": "helpbg/2024liner",
+          "path": ""
+        }
+      },
+      "defaultpage": 1,
+      "disableScroll": true,
+      "helpSize": {
+        "x": 1176,
+        "y": 1024
+      },
+      "ImageMode": true,
+      "pageMode": true,
+      "windowPos": {
+        "y": -70
+      },
+      "windowSize": {
+        "x": 1263,
+        "y": 873
+      }
+    }
+  },
+  "liner_log_event_group_title1": {
+    "tip": "记录·一"
+  },
+  "liner_log_event_group_title2": {
+    "tip": "记录·二"
+  },
+  "liner_log_event_group_title3": {
+    "tip": "记录·三"
+  },
+  "liner_log_event_group_title4": {
+    "tip": "记录·四"
+  },
+  "liner_log_event_title": {
+    "tip": "·神秘事件调查"
+  },
+  "liner_log_room_title": {
+    "tip": "·区域探索记录"
+  },
+  "liner_log_schedule_title": {
+    "tip": "·航行日程表"
+  },
+  "liner_name_modify": {
+    "tip": "邮轮名称修改成功"
+  },
+  "liner_room_award_tip": {
+    "tip": "区域探索收集奖励"
+  },
+  "liner_room_get_tip": {
+    "tip": "已探索区域：$1"
+  },
+  "liner_schedule_award_tip1": {
+    "tip": "当日日程完成奖励"
+  },
+  "liner_schedule_award_tip2": {
+    "tip": "当日日程完成奖励"
+  },
   "liner_sign_cnt_tip": {
     "tip": "剩余可签到次数："
   },
   "liner_sign_unlock_tip": {
     "tip": "5.21维护后解锁"
+  },
+  "liner_target_type1": {
+    "tip": "度假时光"
+  },
+  "liner_target_type2": {
+    "tip": "自由探索"
+  },
+  "liner_target_type3": {
+    "tip": "神秘事件调查"
+  },
+  "liner_target_type4": {
+    "tip": "前往指挥官船舱休息"
+  },
+  "liner_target_type5": {
+    "tip": "邮轮之旅已完成"
   },
   "link_link_help_tip": {
     "tip": [
@@ -11815,6 +11952,18 @@
   },
   "main_settingsScene_quest_exist": {
     "tip": "真的要退出吗"
+  },
+  "main_silent_tip_1": {
+    "tip": "支舰队已归航  "
+  },
+  "main_silent_tip_2": {
+    "tip": "艘新船建造完毕 "
+  },
+  "main_silent_tip_3": {
+    "tip": "个军部研究完成 "
+  },
+  "main_silent_tip_4": {
+    "tip": "名角色学习完毕 "
   },
   "map_event_lighthouse_tip_1": {
     "tip": "灯塔已点亮，后续战斗中将获得灯塔照明效果"
@@ -13248,6 +13397,34 @@
       }
     ]
   },
+  "pipe_minigame_help": {
+    "tip": {
+      "1": {
+        "icon": {
+          "atlas": "helpbg/pipe_minigame",
+          "path": ""
+        }
+      },
+      "defaultpage": 1,
+      "disableScroll": true,
+      "helpSize": {
+        "x": 1176,
+        "y": 1024
+      },
+      "ImageMode": true,
+      "pageMode": true,
+      "windowPos": {
+        "y": -70
+      },
+      "windowSize": {
+        "x": 1263,
+        "y": 873
+      }
+    }
+  },
+  "pipe_minigame_rank": {
+    "tip": "仅显示好友和大舰队成员"
+  },
   "pirate_wanted_help": {
     "tip": "活动时间：<color=#b14c4c>10.26-11.9 维护 </color>\n1.活动期间，参与「啾啾悬赏」活动可获取丰厚奖励。完成全部<color=#b14c4c>6</color>个「悬赏」后，可获得活动限定纪念章<color=#b14c4c>「璀璨航针」</color>\n2.领取时间截止11月15日24时"
   },
@@ -13387,19 +13564,19 @@
         "info": "轻型建造:<color=#ffde38>超稀有</color>:7%  <color=#d797ff>精锐</color>:12%  <color=#3dc6ff>稀有</color>:26%  普通:55%"
       },
       {
-        "info": "重型建造:<color=#ffde38>超稀有</color>:7%  <color=#d797ff>精锐</color>:12%  <color=#3dc6ff>稀有</color>:51%  普通:30%"
+        "info": "重型建造:<color=#ff5e39>海上传奇舰船</color>：1.2%  <color=#ffde38>超稀有舰船</color>：7%  <color=#d797ff>精锐舰船</color>：12%  <color=#3dc6ff>稀有舰船</color>：51%  普通舰船：28.8%"
       },
       {
-        "info": "特型建造:<color=#ffde38>超稀有</color>:7%  <color=#d797ff>精锐</color>:12%  <color=#3dc6ff>稀有</color>:51%  普通:30%"
+        "info": "特型建造:<color=#ff5e39>海上传奇舰船</color>：1.2%  <color=#ffde38>超稀有舰船</color>：7%  <color=#d797ff>精锐舰船</color>：12%  <color=#3dc6ff>稀有舰船</color>：51%  普通舰船：28.8%"
       },
       {
-        "info": "3.构建时指挥官可以查看该建造中所有可出现角色列表"
+        "info": "3.构建时指挥官可以查看该建造中所有可出现角色列表，仅有重型建造及特型建造内包含<color=#ff5e39>海上传奇舰船</color>角色"
       },
       {
-        "info": "4.指挥官可以从中选择2名角色作为祈愿角色"
+        "info": "4.指挥官可以从中选择2名角色作为祈愿角色，其中仅能最多选择1名<color=#ff5e39>海上传奇舰船</color>角色"
       },
       {
-        "info": "5.可选名单仅包含7月13日前常驻加入对应建造的角色"
+        "info": "5.可选名单仅包含3月21日前常驻加入对应建造的角色"
       },
       {
         "info": "6.有建造解锁条件的角色无法被选为祈愿角色，\n不会在祈愿建造中出现。"
@@ -13408,7 +13585,7 @@
         "info": "7.所选祈愿角色的建造概率因稀有度差异而有所不同"
       },
       {
-        "info": "<color=#ffde38>超稀有</color>:2.0%  <color=#d797ff>精锐</color>:2.5%  <color=#3dc6ff>稀有</color>:2.5%  普通:2.5%"
+        "info": "<color=#ff5e39>海上传奇舰船</color>：1.2%  <color=#ffde38>超稀有</color>:2.0%  <color=#d797ff>精锐</color>:2.5%  <color=#3dc6ff>稀有</color>:2.5%  普通:2.5%"
       },
       {
         "info": "8.选择完2名角色后，才算构建祈愿建造成功"
@@ -13418,11 +13595,17 @@
       },
       {
         "info": "10.祈愿建造的消耗与所选建造的消耗相同建造后的\n角色进入队列等待，可以使用快速完成工具"
+      },
+      {
+        "info": "11.进行祈愿建造也可以积累常驻UR兑换点数"
       }
     ]
   },
   "pray_build_select_ship_instruction": {
     "tip": "选择两名祈愿角色"
+  },
+  "pray_build_UR_warning": {
+    "tip": "仅能最多选择1名<color=#ff5e39>海上传奇舰船</color>角色"
   },
   "pray_cant_tips": {
     "tip": "在绘马祈愿中悬挂舰船绘马可以获取有效次数"
@@ -14068,7 +14251,7 @@
   "returner_help": {
     "tip": [
       {
-        "info": "活动说明：\n\n被邀请者：\n回归指挥官：\n在2023年9月1日至9月14日维护期间没有过登录行为的\n指挥官\n新人指挥官：\n在2023年9月14日至10月4日23:59期间新注册的指挥官\n满足被邀请资格的指挥官在活动期间登录可在特别活动页内输入邀请者的UID参与活动\n邀请者：\n2023年9月1日至9月14日维护前有过登录行为的指挥官\n邀请者可以使用自己的UID邀请满足被邀请资格的指挥官参与活动\n召集指挥官：\n单个邀请者最多可邀请两位指挥官，在其完成专属任务后可获得集结积分。召集信号发布后还可以解锁邀请者专属任务，完成任务后也可获得集结积分。集结积分达到指定数值后可以获得丰富奖励。\n被邀请者在输入邀请指挥官的UID后，即可激活专属任务。\n完成专属任务可获得丰富奖励并为邀请者提供集结积分。\n邀请可跨港区进行，但无法跨区服进行。\nUID：\n司令部为每位指挥官下发的唯一身份证明，可以从个人信息页进行查看"
+        "info": "活动说明：\n\n被邀请者：\n回归指挥官：\n在2024年5月7日至5月21日维护期间没有过登录行为的\n指挥官\n新人指挥官：\n在2024年5月21日至6月13日维护期间新注册的指挥官\n满足被邀请资格的指挥官在活动期间登录可在特别活动页内输入邀请者的UID参与活动\n邀请者：\n2024年5月7日至5月21日维护前有过登录行为的指挥官\n邀请者可以使用自己的UID邀请满足被邀请资格的指挥官参与活动\n召集指挥官：\n单个邀请者最多可邀请两位指挥官，在其完成专属任务后可获得集结积分。召集信号发布后还可以解锁邀请者专属任务，完成任务后也可获得集结积分。集结积分达到指定数值后可以获得丰富奖励。\n被邀请者在输入邀请指挥官的UID后，即可激活专属任务。\n完成专属任务可获得丰富奖励并为邀请者提供集结积分。\n邀请可跨港区进行，但无法跨区服进行。\nUID：\n司令部为每位指挥官下发的唯一身份证明，可以从个人信息页进行查看"
       },
       {
         "info": "UID发布及匹配系统："
@@ -15683,6 +15866,9 @@
   "ship_remould_warning_102304": {
     "tip": "此次改造操作后<color=#92fc63>【主炮底座+1】</color>\n<color=#92fc63>【战争之殇】</color>技能将升级为<color=#92fc63>【战争之殇·改】</color>\n<color=#92fc63>【全弹发射II】</color>技能将升级为<color=#92fc63>【全弹发射III】</color>"
   },
+  "ship_remould_warning_105214": {
+    "tip": "此次改造操作后<color=#92fc63>【BIG SEVEN】</color>技能\n将升级为<color=#92fc63>【BIG SEVEN·科罗拉多】</color>"
+  },
   "ship_remould_warning_105234": {
     "tip": "此次改造操作后<color=#92fc63>【BIG SEVEN】</color>技能\n将升级为<color=#92fc63>【BIG SEVEN·西弗吉尼亚】</color>"
   },
@@ -16216,6 +16402,12 @@
   },
   "special_transform_limit_reach": {
     "tip": "已经拥有该改造道具或对应的改造后舰船，无法兑换"
+  },
+  "specialshipyard_name": {
+    "tip": "特殊船坞："
+  },
+  "specialshipyard_tip": {
+    "tip": "*META阵营舰船进入特殊船坞，不占用船坞容量"
   },
   "spring_invited_2021": {
     "tip": "指挥官只能选择一人赠予贺年卡，\n是否确认赠予<color=#92fc63>$1</color>？\n赠予后会获得对应角色和回礼"
@@ -17423,6 +17615,19 @@
   },
   "urdraw_tip": {
     "tip": "当前存在尚未领取的累计建造奖励，请及时领取"
+  },
+  "UrExchange_Pt_charges": {
+    "tip": "（剩余$1次）"
+  },
+  "UrExchange_Pt_help": {
+    "tip": [
+      {
+        "info": "该页面兑换规则与活动PT商店完全相同，兑换同时生效。\n即可兑换UR角色，在活动中累计只能被兑换2次。\n第一次兑需要200点高级PT、第二次兑换需要300点高级PT。"
+      }
+    ]
+  },
+  "UrExchange_Pt_NotEnough": {
+    "tip": "Pt不足，无法进行兑换"
   },
   "uscastle2023_help": {
     "tip": [
