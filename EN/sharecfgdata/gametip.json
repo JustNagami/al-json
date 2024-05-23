@@ -10744,7 +10744,29 @@
     "tip": "Clue 3"
   },
   "liner_help": {
-    "tip": ""
+    "tip": {
+      "1": {
+        "icon": {
+          "atlas": "helpbg/2024liner",
+          "path": ""
+        }
+      },
+      "defaultpage": 1,
+      "disableScroll": true,
+      "helpSize": {
+        "x": 1176,
+        "y": 1024
+      },
+      "ImageMode": true,
+      "pageMode": true,
+      "windowPos": {
+        "y": -70
+      },
+      "windowSize": {
+        "x": 1263,
+        "y": 873
+      }
+    }
   },
   "liner_log_event_group_title1": {
     "tip": "Record - 1"
@@ -11421,16 +11443,16 @@
     "tip": "Are you sure you want to logout?"
   },
   "main_silent_tip_1": {
-    "tip": "fleet(s) have returned from commission."
+    "tip": "team(s) back from commission"
   },
   "main_silent_tip_2": {
-    "tip": "shipgirl(s) have finished construction."
+    "tip": "ship(s) finished construction"
   },
   "main_silent_tip_3": {
-    "tip": "research project(s) have been completed."
+    "tip": "research project(s) completed"
   },
   "main_silent_tip_4": {
-    "tip": "shipgirl(s) finished tactical training."
+    "tip": "ship(s) finished tactical training"
   },
   "map_event_lighthouse_tip_1": {
     "tip": "Lighthouse controlled. Searchlight support may activate during combat."
