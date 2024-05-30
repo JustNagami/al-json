@@ -1839,6 +1839,46 @@
     "target_id_2": "970704",
     "target_num": 1
   },
+  "100201": {
+    "desc": "Win 1 battle with Foch META in your fleet.",
+    "id": 100201,
+    "sub_type": 180,
+    "target_id": "0",
+    "target_id_2": "970303",
+    "target_num": 1
+  },
+  "100202": {
+    "desc": "Defeat a Lv. 30+ fleet with Foch META in your fleet.",
+    "id": 100202,
+    "sub_type": 180,
+    "target_id": "30",
+    "target_id_2": "970303",
+    "target_num": 1
+  },
+  "100203": {
+    "desc": "Defeat a Lv. 55+ fleet with Foch META in your fleet.",
+    "id": 100203,
+    "sub_type": 180,
+    "target_id": "55",
+    "target_id_2": "970303",
+    "target_num": 1
+  },
+  "100204": {
+    "desc": "Defeat a Lv. 80+ fleet with Foch META in your fleet.",
+    "id": 100204,
+    "sub_type": 180,
+    "target_id": "80",
+    "target_id_2": "970303",
+    "target_num": 1
+  },
+  "100205": {
+    "desc": "Defeat a Lv. 100+ fleet with Foch META in your fleet.",
+    "id": 100205,
+    "sub_type": 180,
+    "target_id": "100",
+    "target_id_2": "970303",
+    "target_num": 1
+  },
   "200001": {
     "desc": "Win 1 battle in Operation Siren with Hunter META in your fleet.",
     "id": 200001,
@@ -2447,6 +2487,38 @@
     "target_id_2": "970704",
     "target_num": 1
   },
+  "200201": {
+    "desc": "Win 1 Operation Siren battle with Foch META in your fleet.",
+    "id": 200201,
+    "sub_type": 302,
+    "target_id": "0",
+    "target_id_2": "970303",
+    "target_num": 1
+  },
+  "200202": {
+    "desc": "Defeat a Lv. 70+ fleet in Operation Siren with Foch META in your fleet.",
+    "id": 200202,
+    "sub_type": 302,
+    "target_id": "70",
+    "target_id_2": "970303",
+    "target_num": 1
+  },
+  "200203": {
+    "desc": "Defeat a Lv. 90+ fleet in Operation Siren with Foch META in your fleet.",
+    "id": 200203,
+    "sub_type": 302,
+    "target_id": "90",
+    "target_id_2": "970303",
+    "target_num": 1
+  },
+  "200204": {
+    "desc": "Defeat a Lv. 100+ fleet in Operation Siren with Foch META in your fleet.",
+    "id": 200204,
+    "sub_type": 302,
+    "target_id": "100",
+    "target_id_2": "970303",
+    "target_num": 1
+  },
   "all": [
     1,
     2,
@@ -2678,6 +2750,11 @@
     100193,
     100194,
     100195,
+    100201,
+    100202,
+    100203,
+    100204,
+    100205,
     200001,
     200002,
     200003,
@@ -2753,6 +2830,10 @@
     200191,
     200192,
     200193,
-    200194
+    200194,
+    200201,
+    200202,
+    200203,
+    200204
   ]
 }

@@ -17018,7 +17018,12 @@
       470,
       471,
       472,
-      473
+      473,
+      474,
+      475,
+      476,
+      477,
+      478
     ],
     "config_id": 0,
     "id": 5323,
@@ -17147,7 +17152,7 @@
     ],
     "config_id": 0,
     "id": 5331,
-    "is_show": 49,
+    "is_show": 45,
     "login_pop": 0,
     "mark": 20240521,
     "page_info": {
@@ -17706,7 +17711,7 @@
         ]
       ]
     ],
-    "title_res_tag": "activity3",
+    "title_res_tag": "activity",
     "type": 87
   },
   "5341": {
@@ -17981,7 +17986,7 @@
     "config_data": [],
     "config_id": 5346,
     "id": 5346,
-    "is_show": 48,
+    "is_show": 44,
     "login_pop": 0,
     "mark": 20240521,
     "page_info": {
@@ -18062,7 +18067,7 @@
     "config_data": [],
     "config_id": 58,
     "id": 5348,
-    "is_show": 44,
+    "is_show": 40,
     "login_pop": 0,
     "mark": 20240521,
     "page_info": {
@@ -18108,7 +18113,7 @@
     "config_data": [],
     "config_id": 5350,
     "id": 5350,
-    "is_show": 46,
+    "is_show": 42,
     "login_pop": 0,
     "mark": 20240521,
     "page_info": {
@@ -18222,7 +18227,7 @@
     "config_data": [],
     "config_id": 1,
     "id": 5351,
-    "is_show": 47,
+    "is_show": 43,
     "login_pop": 0,
     "mark": 20240521,
     "page_info": {
@@ -18461,6 +18466,211 @@
     ],
     "title_res_tag": "",
     "type": 57
+  },
+  "5360": {
+    "config_client": {
+      "story": [
+        [
+          "CUIYUANJIAXIU"
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        []
+      ]
+    },
+    "config_data": [
+      [
+        20182
+      ],
+      [
+        20183
+      ],
+      [
+        20184
+      ],
+      [
+        20185
+      ],
+      [
+        20186
+      ],
+      [
+        20187
+      ],
+      [
+        20188
+      ]
+    ],
+    "config_id": 3,
+    "id": 5360,
+    "is_show": 48,
+    "login_pop": 0,
+    "mark": 20240530,
+    "page_info": {
+      "class_name": "ZhenhaiMuseumPage",
+      "ui_name": "ZhenhaiMuseumPage"
+    },
+    "time": [
+      "timer",
+      [
+        [
+          2024,
+          5,
+          30
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2024,
+          6,
+          12
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
+    "title_res_tag": "zhenhaimuseum",
+    "type": 18
+  },
+  "5361": {
+    "config_client": {
+      "npc": [
+        "",
+        20190
+      ]
+    },
+    "config_data": [
+      20190
+    ],
+    "config_id": 0,
+    "id": 5361,
+    "is_show": 0,
+    "login_pop": 0,
+    "mark": 20240530,
+    "page_info": "",
+    "time": [
+      "timer",
+      [
+        [
+          2024,
+          5,
+          30
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2024,
+          6,
+          12
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
+    "title_res_tag": "",
+    "type": 13
+  },
+  "5362": {
+    "config_client": "",
+    "config_data": [],
+    "config_id": 5362,
+    "id": 5362,
+    "is_show": 47,
+    "login_pop": 0,
+    "mark": 20240530,
+    "page_info": {
+      "class_name": "XiaoDaDiPtPage",
+      "ui_name": "XiaoDaDiPtPage"
+    },
+    "time": [
+      "timer",
+      [
+        [
+          2024,
+          5,
+          30
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2024,
+          6,
+          12
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
+    "title_res_tag": "xiaodadi_pt",
+    "type": 74
+  },
+  "5363": {
+    "config_client": "",
+    "config_data": [
+      20191
+    ],
+    "config_id": 0,
+    "id": 5363,
+    "is_show": 0,
+    "login_pop": 0,
+    "mark": 20240530,
+    "page_info": "",
+    "time": [
+      "timer",
+      [
+        [
+          2024,
+          5,
+          30
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2024,
+          6,
+          12
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
+    "title_res_tag": "",
+    "type": 13
   },
   "6000": {
     "config_client": {
@@ -20242,6 +20452,88 @@
         [
           2024,
           5,
+          31
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
+    "title_res_tag": "CrusingDisplayAct",
+    "type": 54
+  },
+  "7017": {
+    "config_client": {
+      "equip_skin": [
+        [
+          9,
+          2071,
+          1
+        ],
+        [
+          9,
+          2072,
+          1
+        ],
+        [
+          9,
+          2073,
+          1
+        ],
+        [
+          9,
+          2074,
+          1
+        ]
+      ],
+      "map_name": "map_202406",
+      "spine_name": "chess_adiliao",
+      "tips": [
+        "battlepass_main_tip_2406",
+        "battlepass_main_help_2406",
+        "cruise_task_help_2406"
+      ]
+    },
+    "config_data": [
+      160,
+      161,
+      162,
+      163,
+      164,
+      165,
+      166,
+      167,
+      168
+    ],
+    "config_id": 0,
+    "id": 7017,
+    "is_show": 14,
+    "login_pop": 0,
+    "mark": 20240530,
+    "page_info": {
+      "class_name": "CrusingDisplayActPage",
+      "ui_name": "CrusingDisplayActPage17"
+    },
+    "time": [
+      "timer",
+      [
+        [
+          2024,
+          6,
+          1
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2024,
+          7,
           31
         ],
         [
@@ -41183,12 +41475,17 @@
     5353,
     5354,
     5355,
+    5360,
+    5361,
+    5362,
+    5363,
     7011,
     7012,
     7013,
     7014,
     7015,
     7016,
+    7017,
     7101,
     8009,
     8010,
@@ -42175,6 +42472,8 @@
       5337,
       5344,
       5345,
+      5361,
+      5363,
       1079,
       1080,
       1081,
@@ -42479,6 +42778,7 @@
       5305,
       5324,
       5341,
+      5360,
       6000,
       6001,
       6002,
@@ -42851,7 +43151,8 @@
       7013,
       7014,
       7015,
-      7016
+      7016,
+      7017
     ],
     "55": [
       5010,
@@ -43015,6 +43316,7 @@
       5314,
       5321,
       5346,
+      5362,
       1086,
       6006,
       6010,

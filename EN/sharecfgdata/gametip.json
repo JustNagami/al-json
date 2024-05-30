@@ -1905,6 +1905,13 @@
       }
     ]
   },
+  "battlepass_main_help_2406": {
+    "tip": [
+      {
+        "info": "Cruise Missions Seasonal Campaign\n6/1/2024 00:00 – 7/31/2024 23:59\n\n- Overview -\n\"Cruise Missions\" is a seasonal campaign where you can complete special missions, collect Progress Pts., and obtain great rewards for reaching certain Progress milestones.\nAdditionally, you can unlock an additional set of \"Fair Winds Cruise\" rewards by purchasing the \"Fair Winds Cruise Pass\" item from Akashi's shop.\nFoch META will be obtainable from the regular Cruise Missions rewards. By upgrading to the Fair Winds Cruise, you will also be able to obtain an exclusive outfits for Attilio Regolo, \"Angel from Above\"\n\n- How to Play -\n· Two types of missions will be released at the same time at the start of the campaign season:\na) Weekly Missions - Missions unlocked in batches every 7 days during the campaign season, for a total of 8 batches.\nb) Seasonal Missions - One set of missions available for the entire campaign season, available from the start of the season.\n· All of the above Season Missions are automatically active, and when you open the Season Missions menu, you will automatically obtain Progress Pts. for any missions you've completed.\n· If you purchase a Fair Winds Cruise Pass, you will automatically receive 15 levels worth of progress (1500 Progress Pts).\n· You can receive rewards for reaching certain Progress milestones. There are two types of rewards:\na) Cruise Rewards - Rewards that can be obtained based on the total number of accumulated Progress Pts. There are a total of 100 levels.\nb) Fair Winds Rewards - An additional set of rewards that will be unlocked when you purchase a Fair Winds Cruise Pass. As with the regular Cruise Rewards, there are a total of 100 levels, and they can be collected alongside Cruise Rewards at the same Progress level.\n· When the campaign season ends, your Progress Pts will be reset.\n\n- Tips - \n· Play at your own pace\nCruise Missions have a total of 100 Progress levels, and are not meant to be cleared in one session. We recommend that you complete them at your own pace.\n\n· Fair Winds Cruise Pass\nIf. you purchase a Fair Winds Cruise Pass from Akashi's shop, you will automatically earn 1500 Progress Pts and unlock access to valuable rewards. Furthermore, there is an exclusive outfit available only through the Fair Winds rewards, so please plan accordingly.\n\n· Skipping Missions (not recommended)\nYou can purchase and use Cruise Mission Vouchers to automatically complete missions and receive the corresponding amount of Progress Pts. Tap the arrow button next to a mission on the Mission List to automatically complete it.\nWe do not recommend this because this costs Gems, whereas you are able to complete Cruise Missions normally.\nAny purchased Cruise Mission Vouchers will remain even after the campaign season ends."
+      }
+    ]
+  },
   "battlepass_main_time": {
     "tip": "$1 d $2 hr"
   },
@@ -1964,6 +1971,9 @@
   },
   "battlepass_main_tip_2404": {
     "tip": "Complete Cruise Missions between 4/1/2024 00:00 – 5/31/2024 23:59 to receive <color=#854747>Vampire META</color> and other rewards!"
+  },
+  "battlepass_main_tip_2406": {
+    "tip": "During the campaign season (6/1 - 7/31), complete Cruise Missions to get great rewards, including Foch META!"
   },
   "battlepass_pay_acquire": {
     "tip": "Buy Now to Get:"
@@ -4387,6 +4397,13 @@
       }
     ]
   },
+  "cruise_task_help_2406": {
+    "tip": [
+      {
+        "info": "- Regarding Cruise Missions - \n· Two types of missions will be released at the same time at the start of the campaign season:\na) Weekly Missions - Missions unlocked in batches every 7 days during the campaign season, for a total of 8 batches.\nb) Seasonal Missions - One set of missions available for the entire campaign season, available from the start of the season.\n\n· All of the above Season Missions are automatically active, and when you open the Season Missions menu, you will automatically obtain Progress Pts. for any missions you've completed.\n\n· You can purchase and use Cruise Mission Vouchers to automatically complete missions and receive the corresponding amount of Progress Pts. Tap the arrow button next to a mission on the Mission List to automatically complete it.\nWe do not recommend this because this costs Gems, whereas you are able to complete Cruise Missions normally.\nAny purchased Cruise Mission Vouchers will remain even after the campaign season ends."
+      }
+    ]
+  },
   "cruise_task_phase": {
     "tip": "Progress PTS | Stage. $1 "
   },
@@ -4857,7 +4874,16 @@
     "tip": "Cartoon "
   },
   "empty_tip_mailboxui": {
-    "tip": "You don't have any mail."
+    "tip": "You haven't received any mail yet."
+  },
+  "empty_tip_mailboxui_en": {
+    "tip": "COMMANDER, YOUR INBOX IS EMPTY"
+  },
+  "emptymarkroom_tip_mailboxui": {
+    "tip": "You haven't saved any mail yet."
+  },
+  "emptymarkroom_tip_mailboxui_en": {
+    "tip": "COMMANDER, YOUR ARCHIVE IS EMPTY"
   },
   "energy_desc_1": {
     "tip": "Your girl needs rest!\n<color=#FF552E>(Continuing to attack will lower Affinity)</color>"
@@ -11265,6 +11291,33 @@
   "mail": {
     "tip": "Mail\nTips"
   },
+  "mail_all_page": {
+    "tip": "All"
+  },
+  "mail_all_price": {
+    "tip": "Total:"
+  },
+  "mail_box_cancel": {
+    "tip": "Cancel"
+  },
+  "mail_box_confirm": {
+    "tip": "Confirm"
+  },
+  "mail_boxroom_extend_tips": {
+    "tip": "Storage Capacity Increase"
+  },
+  "mail_boxroom_extend_title": {
+    "tip": "Expand Storage"
+  },
+  "mail_boxroom_page": {
+    "tip": "Archive"
+  },
+  "mail_boxtitle_information": {
+    "tip": "Info"
+  },
+  "mail_buy_button": {
+    "tip": "Buy"
+  },
   "mail_confirm_cancel_important_flag": {
     "tip": "Unmark as important"
   },
@@ -11274,14 +11327,170 @@
   "mail_count": {
     "tip": "Includes <color=#92fc63>$1</color> reward(s)"
   },
+  "mail_delet_button": {
+    "tip": "Delete"
+  },
+  "mail_delete_oneclick": {
+    "tip": "Batch Delete"
+  },
+  "mail_deleteread_button": {
+    "tip": "Delete Read"
+  },
   "mail_filter_placeholder": {
     "tip": "Nothing to see here."
+  },
+  "mail_get_oneclick": {
+    "tip": "Batch Claim"
+  },
+  "mail_getbox_title": {
+    "tip": "Claim Mail"
   },
   "mail_getMailList_error_noNewMail": {
     "tip": "No new mail."
   },
+  "mail_getone_button": {
+    "tip": "Claim Rewards"
+  },
+  "mail_gold_res": {
+    "tip": "Coins"
+  },
+  "mail_important_page": {
+    "tip": "Important"
+  },
+  "mail_input_erro": {
+    "tip": "Write the correct text to claim your items."
+  },
+  "mail_mail_page": {
+    "tip": "Mail"
+  },
+  "mail_manage_1": {
+    "tip": "All"
+  },
+  "mail_manage_2": {
+    "tip": "Mail Containing Only These Items"
+  },
+  "mail_manage_3": {
+    "tip": "No mail found meeting these conditions."
+  },
+  "mail_manage_button": {
+    "tip": "Manage Mail"
+  },
+  "mail_manage_tip_1": {
+    "tip": "* Batch delete will only delete mail whose rewards you've already claimed."
+  },
+  "mail_manager_all": {
+    "tip": "All Attached Items"
+  },
+  "mail_manager_rare": {
+    "tip": "Mail Containing Only These Items"
+  },
+  "mail_manager_tips_2": {
+    "tip": "* Any attached Oil and Coins will be sent to your Storage."
+  },
+  "mail_manager_title": {
+    "tip": "Manage Mail"
+  },
+  "mail_markroom_delete": {
+    "tip": "Would you like to fully delete the mail <color=#238c40>\"$1\"</color>?"
+  },
+  "mail_markroom_tip": {
+    "tip": "* The capacity is influenced by your Commander Level."
+  },
+  "mail_move_button": {
+    "tip": "Batch Move"
+  },
+  "mail_move_oneclick": {
+    "tip": "Batch Move"
+  },
+  "mail_moveone_button": {
+    "tip": "Move Mail"
+  },
+  "mail_moveto_markroom_1": {
+    "tip": "Would you like to move your mail to your <color=#238c40>Archive</color>? \nMoving your mail will automatically claim any attached items."
+  },
+  "mail_moveto_markroom_2": {
+    "tip": "Would you like to move your important mail to your <color=#238c40>Archive</color>? \nMoving your mail will automatically claim any attached items."
+  },
+  "mail_moveto_markroom_max": {
+    "tip": "Your <color=#92fc63>Archive</color> has reached its mail capacity. You cannot move any more mail."
+  },
+  "mail_oil_res": {
+    "tip": "Oil"
+  },
+  "mail_page_1": {
+    "tip": "Mail"
+  },
+  "mail_page_2": {
+    "tip": "Storage"
+  },
+  "mail_page_3": {
+    "tip": "Archive"
+  },
+  "mail_rare_page": {
+    "tip": "Special"
+  },
+  "mail_read_oneclick": {
+    "tip": "Batch Read"
+  },
+  "mail_receive_time": {
+    "tip": "Received At"
+  },
+  "mail_reward_got": {
+    "tip": "Claimed"
+  },
+  "mail_reward_tips": {
+    "tip": "* Any attached Oil and Coins will be sent to your Storage."
+  },
+  "mail_search": {
+    "tip": "Tap to Write"
+  },
+  "mail_search_new": {
+    "tip": "Tap to Search"
+  },
   "mail_sender_default": {
     "tip": "Headquarters"
+  },
+  "mail_storeroom_addgold": {
+    "tip": "Stockpiled Coins:"
+  },
+  "mail_storeroom_addoil": {
+    "tip": "Stockpiled Oil:"
+  },
+  "mail_storeroom_extend": {
+    "tip": "Storage Capacity Increase:"
+  },
+  "mail_storeroom_extend_1": {
+    "tip": "Storage expanded."
+  },
+  "mail_storeroom_max_1": {
+    "tip": "Your Storage has reached its holding capacity. The following resources will be discarded. \nContinue?"
+  },
+  "mail_storeroom_max_2": {
+    "tip": "Please input <color=#238c40>$1</color> to continue."
+  },
+  "mail_storeroom_noextend": {
+    "tip": "Your Storage has reached its holding capacity. You cannot expand it any further."
+  },
+  "mail_storeroom_page": {
+    "tip": "Storage"
+  },
+  "mail_storeroom_resourcetaken": {
+    "tip": "Claim Resources"
+  },
+  "mail_storeroom_taken_1": {
+    "tip": "Resources claimed."
+  },
+  "mail_storeroom_tips": {
+    "tip": "* Attached Coins and Oil will be moved to your Storage."
+  },
+  "mail_take_all_mail_msgbox": {
+    "tip": "* Would you like to claim the items of all selected mail?"
+  },
+  "mail_take_canget_msgbox": {
+    "tip": "You will obtain the following:"
+  },
+  "mail_take_maildetail_msgbox": {
+    "tip": "Mail Details"
   },
   "mail_takeAttachment_error_dockYrad_full": {
     "tip": "<color=#92fc63>Failed to collect.</color> Insufficient space in your <color=#92fc63>Dock</color>."
@@ -11300,6 +11509,25 @@
   },
   "mail_takeAttachment_error_reWorld": {
     "tip": "Since Operation Siren was reset, the collected items will be converted into Supply Shop Vouchers. Continue?"
+  },
+  "mail_tip": {
+    "tip": [
+      {
+        "info": "<color=#92fc63>- Mailbox Overview -</color>\n1. Your mailbox capacity is 100 mail (this includes mail marked as important or special).\n2. You can batch manage your mail and display mail matching certain criteria: \n· Batch read: all your displayed mail will be set to already read. \n· Batch claim: claims the attached items from all your displayed mail (Oil and Coins will be sent to your Storage). \n· Batch delete: deletes all your displayed mail if their rewards have been claimed. \n3. You can categorize mail by marking ordinary mail as important. Important mail won't be deleted with Batch Delete.\n4. Mail containing rewards other than Coins, Oil, Merits, or Wisdom Cubes are given the \"special\" category. \n\n<color=#92fc63>- Storage -</color>\n1. Coins and Oil, unlike other items claimed via mail, are saved in your Storage. \n2. You can claim your resources from the Storage at any time. \n\n<color=#92fc63>- Archive -</color>\n1. You can batch move mail to your Archive. When moving mail, any attached items will be automatically claimed. Mail saved in the Archive do not count toward your mailbox total. Any claimed Oil and Coins will be transferred to your Storage. \n2. The capacity of your Archive depends on your Commander Level."
+      }
+    ]
+  },
+  "mail_title_English": {
+    "tip": "Mailbox"
+  },
+  "mail_title_new": {
+    "tip": "Mail"
+  },
+  "mail_toggle_off": {
+    "tip": "Off"
+  },
+  "mail_toggle_on": {
+    "tip": "On"
   },
   "main_1": {
     "tip": "Main Menu\n1"
@@ -11332,7 +11560,10 @@
     "tip": "No new mail."
   },
   "main_mailLayer_quest_clear": {
-    "tip": "Are you sure you want to delete all read mails? <color=#92fc63>(Mail with rewards will not be deleted)</color>"
+    "tip": "Would you like to delete all your read mail? <color=#238c40>(Mail with unclaimed items will not be deleted.)</color>"
+  },
+  "main_mailLayer_quest_clear_choice": {
+    "tip": "Would you like to delete all your selected mail? <color=#238c40>(Mail with unclaimed items will not be deleted.)</color>"
   },
   "main_mailLayer_quest_deleteNotRead": {
     "tip": "<color=#92fc63>You have not read this message yet.</color> Are you sure you want to delete this message?"
@@ -11348,6 +11579,12 @@
   },
   "main_mailMediator_mailDelete": {
     "tip": "Mail deleted"
+  },
+  "main_mailMediator_mailmove": {
+    "tip": "Your mail was moved to your Archive."
+  },
+  "main_mailMediator_mailread": {
+    "tip": "Your mail has been set to read."
   },
   "main_mailMediator_notingToTake": {
     "tip": "No rewards available."
@@ -13413,6 +13650,9 @@
   "player_expResource_mail_fullBag": {
     "tip": "You won't be able to collect resources that exceed the storage limit. Are you sure you want to continue?"
   },
+  "player_expResource_mail_overflow": {
+    "tip": "You won't be able to collect $1 that exceed the storage limit. Are you sure you want to continue? "
+  },
   "player_harvestResource_error": {
     "tip": "Failed to collect resources: "
   },
@@ -14119,6 +14359,9 @@
   },
   "resource_max_tip_shop": {
     "tip": "Unable to buy resource."
+  },
+  "resource_max_tip_storeroom": {
+    "tip": "You have reached your resource capacity."
   },
   "resource_verify_fail": {
     "tip": "Game resource restoration complete. Restart the game and begin updating. Tap confirm to close the game. $1"
@@ -16897,7 +17140,7 @@
     "tip": "Phew... Thank goodness none of the dumplings fell apart in the pot..."
   },
   "take_all_mail": {
-    "tip": "Are you sure you want to collect <color=#92fc63>$1 rewards</color> from mail?\nYou will receive: "
+    "tip": "Would you like to claim the items of all selected mail? \nYou will obtain the following items:"
   },
   "take_nothing": {
     "tip": "There's nothing to collect."
@@ -17853,10 +18096,19 @@
     "tip": "Claim"
   },
   "warning_mail_max_1": {
-    "tip": "Your mailbox has almost reached its capacity of (<color=#FF5C5C>$1</color>/1,000.) Please check your mail!"
+    "tip": "Your mailbox is nearing its capacity (<color=#FF5C5C>$1</color>/$2). Please manage it before you run out of space."
   },
   "warning_mail_max_2": {
     "tip": "Your mailbox is full!"
+  },
+  "warning_mail_max_3": {
+    "tip": "Your mailbox is full (<color=#FF5C5C>$1</color>/100) and you cannot receive new mail. Please manage your mailbox."
+  },
+  "warning_mail_max_4": {
+    "tip": "Your mailbox is full (<color=#FF5C5C>$1</color>/100) and you cannot receive any new mail. Would you like to close your inbox?"
+  },
+  "warning_mail_max_5": {
+    "tip": "* You cannot receive new mail once you reach the capacity."
   },
   "warning_pray_build_pool": {
     "tip": "Once you begin focusing your wishes, <color=#FF5C5C>they cannot be changed</color>.\nAre you sure you want to wish for this?"
@@ -20188,6 +20440,40 @@
   },
   "wwf_guide_tip": {
     "tip": "Check your event-limited tasks here!"
+  },
+  "xiaodadi_npc": {
+    "tip": [
+      {
+        "info": "- Overview -"
+      },
+      {
+        "info": "During the event, Little Friedrich will provisionally join your fleet. Complete missions during the event to earn Trust. Collect enough Trust to have Little Friedrich permanently join your fleet!"
+      },
+      {
+        "info": "- How to Play -"
+      },
+      {
+        "info": "· During the event period, you can earn Trust by defeating the boss fleet in stages at or after Chapter 3 of the Campaign, or in event stages (excluding War Archives). You will be able to unlock rewards by reaching certain Trust milestones."
+      },
+      {
+        "info": "· When you defeat the boss of a stage that rewards Trust, you will earn twice as many Trust if Little Friedrich is still afloat in one of the fleets at that time."
+      },
+      {
+        "info": "· You will not be able to give a Promise Ring to Little Friedrich until you have formally recruited her to the fleet.You will also not be able to Retireor use her as Enhancement or Limit Break material."
+      },
+      {
+        "info": "· If Little Friedrich has not been formally recruited by the end of the event, she will leave the Port."
+      },
+      {
+        "info": "· Rewards for reaching certain amounts of Trust will unlock in phases, one phase per day until June 5th."
+      },
+      {
+        "info": "· Little Friedrich cannot participate in Operation Siren or META Showdowns until she has been formally recruited."
+      },
+      {
+        "info": "· Little Friedrich cannot participate in Guild Bosses until she has been formally recruited."
+      }
+    ]
   },
   "yingrui_nianye": {
     "tip": "All done~! Every New Year's celebration has to be sweet, right?"

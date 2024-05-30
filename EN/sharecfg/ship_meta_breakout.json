@@ -881,6 +881,69 @@
     "repair": 0,
     "weapon_ids": []
   },
+  "9703031": {
+    "breakout_id": 9703032,
+    "breakout_view": "Unlock Cinders of Hope - Foch/Main gun efficiency +5%",
+    "gold": 500,
+    "id": 9703031,
+    "item1": 21034,
+    "item1_num": 1,
+    "item2": 21001,
+    "item2_num": 0,
+    "level": 10,
+    "pre_id": 0,
+    "repair": 0,
+    "weapon_ids": [
+      80281
+    ]
+  },
+  "9703032": {
+    "breakout_id": 9703033,
+    "breakout_view": "Torpedo base +1/Torpedo preload +1/Torpedo efficiency +10%",
+    "gold": 1500,
+    "id": 9703032,
+    "item1": 21034,
+    "item1_num": 1,
+    "item2": 21001,
+    "item2_num": 0,
+    "level": 30,
+    "pre_id": 9703031,
+    "repair": 0,
+    "weapon_ids": [
+      106,
+      106
+    ]
+  },
+  "9703033": {
+    "breakout_id": 9703034,
+    "breakout_view": "Improve Cinders of Hope - Foch/Tornado efficiency +15%",
+    "gold": 2500,
+    "id": 9703033,
+    "item1": 21034,
+    "item1_num": 2,
+    "item2": 21001,
+    "item2_num": 0,
+    "level": 70,
+    "pre_id": 9703032,
+    "repair": 0,
+    "weapon_ids": [
+      80282
+    ]
+  },
+  "9703034": {
+    "breakout_id": 0,
+    "breakout_view": "None",
+    "gold": 0,
+    "id": 9703034,
+    "item1": 21034,
+    "item1_num": 0,
+    "item2": 21001,
+    "item2_num": 0,
+    "level": 0,
+    "pre_id": 9703033,
+    "repair": 0,
+    "weapon_ids": []
+  },
   "9704011": {
     "breakout_id": 9704012,
     "breakout_view": "Unlock Cinders of Hope - Gneisenau/Main gun base +1/Main gun efficiency +5%",
@@ -2281,6 +2344,10 @@
     9713011,
     9713012,
     9713013,
-    9713014
+    9713014,
+    9703031,
+    9703032,
+    9703033,
+    9703034
   ]
 }
