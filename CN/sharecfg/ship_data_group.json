@@ -24764,6 +24764,38 @@
     "trans_type": 0,
     "type": 1
   },
+  "647": {
+    "code": 647,
+    "description": [
+      [
+        "限时活动：占坑",
+        [
+          ""
+        ],
+        0
+      ]
+    ],
+    "group_type": 40506,
+    "handbook_type": 0,
+    "hide": 0,
+    "index_id": 446,
+    "nationality": 4,
+    "property_hexagon": [
+      "A",
+      "E",
+      "E",
+      "C",
+      "C",
+      "A"
+    ],
+    "redirect_id": 101,
+    "share_group_id": [],
+    "trans_radar_chart": [],
+    "trans_skill": [],
+    "trans_skin": 0,
+    "trans_type": 0,
+    "type": 5
+  },
   "10001": {
     "code": 10001,
     "description": [
@@ -29114,6 +29146,41 @@
     "trans_type": 0,
     "type": 7
   },
+  "30034": {
+    "code": 30034,
+    "description": [
+      [
+        "限时活动：世界巡游",
+        [
+          "METACHARACTER",
+          {
+            "autoOpenShipConfigID": 9703031
+          }
+        ],
+        0
+      ]
+    ],
+    "group_type": 970303,
+    "handbook_type": 3,
+    "hide": 0,
+    "index_id": 30034,
+    "nationality": 97,
+    "property_hexagon": [
+      "B",
+      "B",
+      "E",
+      "C",
+      "B",
+      "B"
+    ],
+    "redirect_id": 101,
+    "share_group_id": [],
+    "trans_radar_chart": [],
+    "trans_skill": [],
+    "trans_skin": 0,
+    "trans_type": 0,
+    "type": 3
+  },
   "all": [
     1,
     2,
@@ -29559,6 +29626,7 @@
     529,
     545,
     593,
+    647,
     485,
     526,
     591,
@@ -29824,6 +29892,7 @@
     30030,
     30031,
     30032,
-    30033
+    30033,
+    30034
   ]
 }
