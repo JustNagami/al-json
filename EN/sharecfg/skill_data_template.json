@@ -145561,6 +145561,228 @@
       1
     ]
   },
+  "801430": {
+    "desc": "Every 20s: $1 chance to launch a $2 special airstrike; if this airstrike does not launch, instead performs a $2 special attack (DMG of both of these attacks is based on the skill's level and this ship's AVI stat).",
+    "desc_add": [
+      [
+        [
+          "40.0%",
+          "+3.3%"
+        ],
+        [
+          "43.3%",
+          "+3.3%"
+        ],
+        [
+          "46.6%",
+          "+3.3%"
+        ],
+        [
+          "49.9%",
+          "+3.3%"
+        ],
+        [
+          "53.2%",
+          "+3.3%"
+        ],
+        [
+          "56.5%",
+          "+3.3%"
+        ],
+        [
+          "59.8%",
+          "+3.3%"
+        ],
+        [
+          "63.1%",
+          "+3.3%"
+        ],
+        [
+          "66.4%",
+          "+3.6%"
+        ],
+        [
+          "70.0%"
+        ]
+      ],
+      [
+        [
+          "Lv.1"
+        ],
+        [
+          "Lv.2"
+        ],
+        [
+          "Lv.3"
+        ],
+        [
+          "Lv.4"
+        ],
+        [
+          "Lv.5"
+        ],
+        [
+          "Lv.6"
+        ],
+        [
+          "Lv.7"
+        ],
+        [
+          "Lv.8"
+        ],
+        [
+          "Lv.9"
+        ],
+        [
+          "Lv.10"
+        ]
+      ]
+    ],
+    "desc_get": "",
+    "desc_get_add": [
+      [
+        "40.0%",
+        "70.0%"
+      ],
+      [
+        "Lv.1",
+        "Lv.10"
+      ]
+    ],
+    "id": 801430,
+    "max_level": 10,
+    "name": "Harken, the Din of Destruction",
+    "system_transform": [],
+    "type": 1,
+    "world_death_mark": [
+      1
+    ]
+  },
+  "801440": {
+    "desc": "When this ship finishes loading an airstrike: increases your CVs' AVI by $1 for 8s; each time this effect activates, increases this ship's AVI and AA by 5.0% until the battle ends (can stack up to 3 times).",
+    "desc_add": [
+      [
+        [
+          "5.0%",
+          "+1.1%"
+        ],
+        [
+          "6.1%",
+          "+1.1%"
+        ],
+        [
+          "7.2%",
+          "+1.1%"
+        ],
+        [
+          "8.3%",
+          "+1.1%"
+        ],
+        [
+          "9.4%",
+          "+1.1%"
+        ],
+        [
+          "10.5%",
+          "+1.1%"
+        ],
+        [
+          "11.6%",
+          "+1.1%"
+        ],
+        [
+          "12.7%",
+          "+1.1%"
+        ],
+        [
+          "13.8%",
+          "+1.2%"
+        ],
+        [
+          "15.0%"
+        ]
+      ]
+    ],
+    "desc_get": "",
+    "desc_get_add": [
+      [
+        "5.0%",
+        "15.0%"
+      ]
+    ],
+    "id": 801440,
+    "max_level": 10,
+    "name": "Resound, the Refrain of Reversal",
+    "system_transform": [],
+    "type": 3,
+    "world_death_mark": [
+      1
+    ]
+  },
+  "801451": {
+    "desc": "[Operation Siren]\nWhen fighting humanoid Siren fleets or Boss fleets: decreases this ship's DMG taken by 2.0%.",
+    "desc_add": [],
+    "desc_get": "",
+    "desc_get_add": [],
+    "id": 801451,
+    "max_level": 1,
+    "name": "Smoldering Core - Houshou I",
+    "system_transform": {
+      "51": 801455
+    },
+    "type": 3,
+    "world_death_mark": [
+      1
+    ]
+  },
+  "801452": {
+    "desc": "[Operation Siren]\nWhen fighting humanoid Siren fleets or Boss fleets: decreases this ship's DMG taken by 6.0%.",
+    "desc_add": [],
+    "desc_get": "",
+    "desc_get_add": [],
+    "id": 801452,
+    "max_level": 1,
+    "name": "Smoldering Core - Houshou II",
+    "system_transform": {
+      "51": 801457
+    },
+    "type": 3,
+    "world_death_mark": [
+      1
+    ]
+  },
+  "801455": {
+    "desc": "[Operation Siren]\nWhen fighting humanoid Siren fleets or Boss fleets: decreases this ship's DMG taken by 2.0%.",
+    "desc_add": [],
+    "desc_get": "",
+    "desc_get_add": [],
+    "id": 801455,
+    "max_level": 1,
+    "name": "Smoldering Core - Houshou I",
+    "system_transform": {
+      "51": 801455
+    },
+    "type": 3,
+    "world_death_mark": [
+      1
+    ]
+  },
+  "801457": {
+    "desc": "[Operation Siren]\nWhen fighting humanoid Siren fleets or Boss fleets: decreases this ship's DMG taken by 6.0%.",
+    "desc_add": [],
+    "desc_get": "",
+    "desc_get_add": [],
+    "id": 801457,
+    "max_level": 1,
+    "name": "Smoldering Core - Houshou II",
+    "system_transform": {
+      "51": 801457
+    },
+    "type": 3,
+    "world_death_mark": [
+      1
+    ]
+  },
   "901010": {
     "desc": "The ship in the frontmost position of your Vanguard performs a slash attack. Slash attack pattern, range, and DMG are based on the number of ships equipped with slash attack gear, the ships' hull type, and the equipped module's effects.",
     "desc_add": [],
@@ -148910,6 +149132,150 @@
     "name": "AA Protection+",
     "system_transform": [],
     "type": 3,
+    "world_death_mark": [
+      1
+    ]
+  },
+  "1011000": {
+    "desc": "Increases this ship's FP by $3. Every 20s: $1 chance to fire a $2 powerful barrage. 10s after the battle starts, and every 20s after that: fires a $2 arcing barrage; the activation chance for the next powerful barrage increases by 30.0% and its power is increased if any of the targets hit by the arcing barrage meets one of the following conditions: \n1) The target hit is a BB or a BC;\n2) The target hit is sunk within 3s;\nThe DMG of both these barrages is based on the skill's level.",
+    "desc_add": [
+      [
+        [
+          "40.0%",
+          "+3.3%"
+        ],
+        [
+          "43.3%",
+          "+3.3%"
+        ],
+        [
+          "46.6%",
+          "+3.3%"
+        ],
+        [
+          "49.9%",
+          "+3.3%"
+        ],
+        [
+          "53.2%",
+          "+3.3%"
+        ],
+        [
+          "56.5%",
+          "+3.3%"
+        ],
+        [
+          "59.8%",
+          "+3.3%"
+        ],
+        [
+          "63.1%",
+          "+3.3%"
+        ],
+        [
+          "66.4%",
+          "+3.6%"
+        ],
+        [
+          "70.0%"
+        ]
+      ],
+      [
+        [
+          "Lv.1"
+        ],
+        [
+          "Lv.2"
+        ],
+        [
+          "Lv.3"
+        ],
+        [
+          "Lv.4"
+        ],
+        [
+          "Lv.5"
+        ],
+        [
+          "Lv.6"
+        ],
+        [
+          "Lv.7"
+        ],
+        [
+          "Lv.8"
+        ],
+        [
+          "Lv.9"
+        ],
+        [
+          "Lv.10"
+        ]
+      ],
+      [
+        [
+          "5.0%",
+          "+1.1%"
+        ],
+        [
+          "6.1%",
+          "+1.1%"
+        ],
+        [
+          "7.2%",
+          "+1.1%"
+        ],
+        [
+          "8.3%",
+          "+1.1%"
+        ],
+        [
+          "9.4%",
+          "+1.1%"
+        ],
+        [
+          "10.5%",
+          "+1.1%"
+        ],
+        [
+          "11.6%",
+          "+1.1%"
+        ],
+        [
+          "12.7%",
+          "+1.1%"
+        ],
+        [
+          "13.8%",
+          "+1.2%"
+        ],
+        [
+          "15.0%"
+        ]
+      ]
+    ],
+    "desc_get": "",
+    "desc_get_add": [
+      [
+        "40.0%",
+        "70.0%"
+      ],
+      [
+        "Lv.1",
+        "Lv.10"
+      ],
+      [
+        "5.0%",
+        "15.0%"
+      ]
+    ],
+    "id": 1011000,
+    "max_level": 10,
+    "name": "Courageous Shelling+",
+    "system_transform": {
+      "3": 1011001
+    },
+    "type": 1,
     "world_death_mark": [
       1
     ]
@@ -157014,6 +157380,148 @@
       1
     ]
   },
+  "1090320": {
+    "desc": "Every 20s: $1 chance for this ship to evade all attacks for 6s. 3s after the battle starts, and every 15s: fires a $2 special barrage (DMG is based on the skill's level); when this barrage activates, increases this ship's FP and TRP by $3 until the battle ends (can be stacked up to 3 times).",
+    "desc_add": [
+      [
+        [
+          "20.0%",
+          "+2.2%"
+        ],
+        [
+          "22.2%",
+          "+2.2%"
+        ],
+        [
+          "24.4%",
+          "+2.2%"
+        ],
+        [
+          "26.6%",
+          "+2.2%"
+        ],
+        [
+          "28.8%",
+          "+2.2%"
+        ],
+        [
+          "31.0%",
+          "+2.2%"
+        ],
+        [
+          "33.2%",
+          "+2.2%"
+        ],
+        [
+          "35.4%",
+          "+2.2%"
+        ],
+        [
+          "37.6%",
+          "+2.4%"
+        ],
+        [
+          "40.0%"
+        ]
+      ],
+      [
+        [
+          "Lv.1"
+        ],
+        [
+          "Lv.2"
+        ],
+        [
+          "Lv.3"
+        ],
+        [
+          "Lv.4"
+        ],
+        [
+          "Lv.5"
+        ],
+        [
+          "Lv.6"
+        ],
+        [
+          "Lv.7"
+        ],
+        [
+          "Lv.8"
+        ],
+        [
+          "Lv.9"
+        ],
+        [
+          "Lv.10"
+        ]
+      ],
+      [
+        [
+          "1.0%",
+          "+0.4%"
+        ],
+        [
+          "1.4%",
+          "+0.4%"
+        ],
+        [
+          "1.8%",
+          "+0.4%"
+        ],
+        [
+          "2.2%",
+          "+0.4%"
+        ],
+        [
+          "2.6%",
+          "+0.4%"
+        ],
+        [
+          "3.0%",
+          "+0.5%"
+        ],
+        [
+          "3.5%",
+          "+0.5%"
+        ],
+        [
+          "4.0%",
+          "+0.5%"
+        ],
+        [
+          "4.5%",
+          "+0.5%"
+        ],
+        [
+          "5.0%"
+        ]
+      ]
+    ],
+    "desc_get": "",
+    "desc_get_add": [
+      [
+        "20.0%",
+        "40.0%"
+      ],
+      [
+        "Lv.1",
+        "Lv.10"
+      ],
+      [
+        "1.0%",
+        "5.0%"
+      ]
+    ],
+    "id": 1090320,
+    "max_level": 10,
+    "name": "Emergency Maneuvers - Bulldog",
+    "system_transform": [],
+    "type": 2,
+    "world_death_mark": [
+      1
+    ]
+  },
   "all": [
     1,
     2,
@@ -159288,6 +159796,12 @@
     801422,
     801425,
     801427,
+    801430,
+    801440,
+    801451,
+    801452,
+    801455,
+    801457,
     901010,
     901020,
     902010,
@@ -159380,6 +159894,7 @@
     1012990,
     1011490,
     1019060,
+    1011000,
     1090010,
     1090020,
     1090030,
@@ -159409,6 +159924,7 @@
     1090270,
     1090280,
     1090290,
-    1090310
+    1090310,
+    1090320
   ]
 }
