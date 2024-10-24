@@ -196,6 +196,12 @@
   "activity_0815_town_memory": {
     "tip": "道具数量不足，完成活动任务可获取「拓荒的回忆」"
   },
+  "activity_1024_memory": {
+    "tip": "道具数量不足，完成活动任务可获取「鬼怪故事页」"
+  },
+  "activity_1024_memory_get": {
+    "tip": " - 已领取 -"
+  },
   "activity_build_end_tip": {
     "tip": "该活动已结束，无法建造"
   },
@@ -2381,6 +2387,31 @@
   },
   "blueprint_task_update_tip": {
     "tip": "当前研究中的<color=#92fc63>$1</color>有新的进展，请去开发船坞确认"
+  },
+  "BoatAdGame_minigame_help": {
+    "tip": {
+      "1": {
+        "icon": {
+          "atlas": "helpbg/boatadgame_minigame_help",
+          "path": ""
+        }
+      },
+      "defaultpage": 1,
+      "disableScroll": true,
+      "helpSize": {
+        "x": 1176,
+        "y": 1024
+      },
+      "ImageMode": true,
+      "pageMode": true,
+      "windowPos": {
+        "y": -70
+      },
+      "windowSize": {
+        "x": 1263,
+        "y": 873
+      }
+    }
   },
   "box_equipment_del_click": {
     "tip": "点击输入"
@@ -4847,6 +4878,27 @@
   "dorm3d_already_gifted": {
     "tip": "已赠送"
   },
+  "dorm3d_appellation_cd": {
+    "tip": "$1后可以再次修改专属称呼"
+  },
+  "dorm3d_appellation_interval": {
+    "tip": "专属称呼每48小时可以修改一次"
+  },
+  "dorm3d_appellation_title": {
+    "tip": "你希望她称呼你为"
+  },
+  "dorm3d_appellation_waring1": {
+    "tip": "当前称呼存在屏蔽字"
+  },
+  "dorm3d_appellation_waring2": {
+    "tip": "当前称呼过长"
+  },
+  "dorm3d_appellation_waring3": {
+    "tip": "当前称呼过短"
+  },
+  "dorm3d_appellation_waring4": {
+    "tip": "修改冷却中"
+  },
   "dorm3d_AR_switch": {
     "tip": "AR维护中……"
   },
@@ -5155,6 +5207,9 @@
   },
   "dorm3d_shop_gift_not_owned": {
     "tip": "当前未拥有该礼物 "
+  },
+  "dorm3d_shop_gift_owned": {
+    "tip": "购买次数已达上限"
   },
   "dorm3d_shop_gift_tip": {
     "tip": "<color=#7c7e81>赠送后可解锁角色<color=#169fff>专属剧情</color></color>"
@@ -11284,6 +11339,57 @@
   "just_now": {
     "tip": "刚刚"
   },
+  "juuschat_chattip1": {
+    "tip": "[语音消息]"
+  },
+  "juuschat_chattip2": {
+    "tip": "[红包]"
+  },
+  "juuschat_chattip3": {
+    "tip": "[等待回复]"
+  },
+  "juuschat_filter_empty": {
+    "tip": "筛选结果为空"
+  },
+  "juuschat_filter_subtitle1": {
+    "tip": "查看"
+  },
+  "juuschat_filter_subtitle2": {
+    "tip": "类型"
+  },
+  "juuschat_filter_subtitle3": {
+    "tip": "阵营"
+  },
+  "juuschat_filter_tip1": {
+    "tip": "全部"
+  },
+  "juuschat_filter_tip2": {
+    "tip": "已回复"
+  },
+  "juuschat_filter_tip3": {
+    "tip": "未回复"
+  },
+  "juuschat_filter_tip4": {
+    "tip": "私人聊天"
+  },
+  "juuschat_filter_tip5": {
+    "tip": "频道聊天"
+  },
+  "juuschat_filter_title": {
+    "tip": "筛选"
+  },
+  "juuschat_label1": {
+    "tip": "使用中"
+  },
+  "juuschat_label2": {
+    "tip": "查看中"
+  },
+  "juuschat_reddot_title": {
+    "tip": "啾信功能"
+  },
+  "juuschat_redpacket_detail": {
+    "tip": "领取详情"
+  },
   "keep_fate_tip": {
     "tip": "保留<color=#92fc63>天运拟合</color>所需蓝图"
   },
@@ -11724,6 +11830,18 @@
   },
   "levelScene_map_lock": {
     "tip": "该<color=#92fc63>章节未完成</color>无法前往下一章"
+  },
+  "levelscene_mapselect_ex": {
+    "tip": "EX"
+  },
+  "levelscene_mapselect_part1": {
+    "tip": "上篇"
+  },
+  "levelscene_mapselect_part2": {
+    "tip": "下篇"
+  },
+  "levelscene_mapselect_sp": {
+    "tip": "SP"
   },
   "levelScene_new_chapter_coming": {
     "tip": "新章开放："
@@ -13705,6 +13823,9 @@
   },
   "music_juus": {
     "tip": [
+      {
+        "info": "「啾信」说明：\n1.角色会通过私人或频道发起聊天\n2.当有新的「啾信」可以查看时，入口处会有提示\n3.在触发了同一个角色/频道的多条话题时，可以通过切换话题查看并进行不同的聊天选择\n4.可将不想错过的聊天窗口标注为特别关注，同时可将私人聊天背景更换为当前已拥有的该角色皮肤\n"
+      },
       {
         "info": "「JUUs」说明："
       },
@@ -17214,12 +17335,12 @@
     "tip": "完成「秘密船厂」的全部建造任务后解锁 "
   },
   "shipyard_introduce": {
-    "tip": "10月25日为止，每天零点解锁2个任务\n完成七日活动任务，可获得限定装备<color=#ff9892>「飓风旗」 </color>"
+    "tip": "10月30日为止，每天零点解锁2个任务\n完成七日活动任务，可获得限定装备<color=#ff9892>「飓风旗」 </color>"
   },
   "shipyard_phase_1": {
     "tip": [
       {
-        "info": "活动简介：\n<color=#92fc63>10.25-11.9/24时</color>期间开启「皇家财富的秘密船厂」活动的第二阶段。\n活动期间完成「秘密船厂」建造阶段的所有任务，即可参加第二阶段活动。\n活动期间，11月1日为止每日解锁一关游戏关卡，并增加<color=#92fc63>1</color>次可获得奖励的游玩次数。\n拥有可获得奖励的游玩次数时，完成游戏关卡可获得<color=#92fc63>道具奖励。</color>\n完成全部7个游戏关卡后，可获得<color=#92fc63>限定家具「启航的冒险船」x1</color>并可自由选择任意关卡通关"
+        "info": "活动简介：\n<color=#92fc63>10.24-11.7维护</color>期间开启「皇家财富的秘密船厂」活动。\n活动期间完成「秘密船厂」建造阶段的所有任务，即可参加第二阶段活动。\n活动期间，10月30日为止每日解锁一组活动任务。\n第二阶段活动中，完成游戏关卡可获得<color=#92fc63>道具奖励。</color>\n完成全部7个游戏关卡后，可获得<color=#92fc63>限定家具「启航的冒险船」x1</color>并可自由选择任意关卡通关"
       }
     ]
   },
