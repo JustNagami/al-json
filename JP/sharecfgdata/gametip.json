@@ -196,6 +196,12 @@
   "activity_0815_town_memory": {
     "tip": "アイテムが不足しています。限定任務をクリアして思い出を開放しよう！"
   },
+  "activity_1024_memory": {
+    "tip": "「ハロウィンページ」が不足しています。限定任務をクリアして集めましょう！"
+  },
+  "activity_1024_memory_get": {
+    "tip": "- 受取済 -"
+  },
   "activity_build_end_tip": {
     "tip": "建造"
   },
@@ -590,6 +596,9 @@
   "Announcements_System_Notice": {
     "tip": "更新"
   },
+  "apartment_level_unenough": {
+    "tip": "親愛度Lv$1で開放"
+  },
   "apple_link_title": {
     "tip": "連携中のアカウント完了"
   },
@@ -610,6 +619,21 @@
   },
   "apply_permission_record_audio_tip3": {
     "tip": "音声録音の権限がOFFの場合、AR録画機能を利用できません。"
+  },
+  "AR_plane_check": {
+    "tip": "平面を検出してください"
+  },
+  "AR_plane_distance_near": {
+    "tip": "距離が近すぎるとキャラが非表示になります"
+  },
+  "AR_plane_long_press_to_summon": {
+    "tip": "平面を長押しして、キャラを呼び出してください"
+  },
+  "AR_plane_summon_fail_by_near": {
+    "tip": "距離が近すぎるため、キャラの呼び出しに失敗しました"
+  },
+  "AR_plane_summon_success": {
+    "tip": "キャラの呼び出しに成功しました"
   },
   "archives_boss_was_opened": {
     "tip": "開放中のMETA戦（記憶履歴）があります。座標解析に移動できません"
@@ -1326,6 +1350,9 @@
   "battle_battleMediator_quest_exist": {
     "tip": "撤退すると<color=#92fc63>アイテムと艦</color>が入手できなくなります。\n撤退しますか？"
   },
+  "battle_battleMediator_remainTime": {
+    "tip": "残り時間"
+  },
   "battle_duel_main_rage": {
     "tip": "前衛艦隊全滅、戦闘を加速します"
   },
@@ -1827,8 +1854,18 @@
       }
     ]
   },
+  "battlepass_main_help_2410": {
+    "tip": [
+      {
+        "info": "■キャンペーン開催期間\n 2024.10.1（火）0:00～2024.11.30（土）23:59\n\n■概要\n「シーズン任務」とは、キャンペーン開催中の任務をクリアし「進捗Pt」を集め、入手した進捗Ptに応じた累計獲得数報酬が手に入るキャンペーンになります。\nまた、通常の累計獲得数報酬に追加する形で「SP報酬」が存在し、ショップアイテム「クルーズパス」を購入すると、SP報酬も入手可能となります。\n通常報酬からは艦船「鳳翔(META)」、SP報酬からは戦艦「シュフラン」の限定着せ替え「華やかに極まれ」を入手できます。\n\n■遊び方\n・「シーズン任務」キャンペーンの開始と同時に、2種類の任務が開放されます。\n　①週次開放任務\n　キャンペーン開始時とキャンペーン期間中毎週月曜日0時に開放される任務。全8グループ\n　②全期間任務\n　最初から全開放される任務。全1グループ\n・上記「シーズン任務」はすべて自動受領済となり、また「シーズン任務」画面を開いた際、既に完成条件を満たしている任務はクリア状態となり、「進捗Pt」を自動で入手できます。\n　さらに「クルーズパス」を購入すると、15段階分の報酬（進捗Pt1500）が入手可能となります。\n・「進捗Pt」の累計入手数に応じて、進捗Pt累計獲得数報酬を入手できます。累計獲得数報酬は2種類存在します。\n　①通常報酬\n　「進捗Pt」の入手数に応じて獲得できる報酬。全100段階となります\n　②SP報酬\n　「クルーズパス」を購入すると開放される追加報酬。通常報酬と同じく全100段階存在し、通常報酬と同じ段階のSP報酬が入手できます。\n・キャンペーンが終了すると、入手済みの進捗Ptはリセットされます。\n\n■Tips\n・プレイスタイル\n　シーズン任務は全100段階あり、いきなり最後まではクリアできない仕様になっております。いつものクエストをくり返しながら任務をこなしていくか、狙いの報酬を決めて最短ペースでクリアしていくかなど、自分のプレイスタイルに合わせてプレイすることをオススメします。\n\n・クルーズパス\n　ショップで「クルーズパス」を購入すると、お得なアイテムとともに「進捗Pt」を1500Pt入手できます。また、追加の限定着せ替えは「クルーズパス」を購入して開放される「SP報酬」でのみ入手できます。要注意。\n\n・任務のスキップ（オススメしません）\n　「シーズン任務」の「任務一覧」画面で、各任務の右側の矢印ボタンをタップすると、任務を自動でスキップ（クリア状態にする）し、進捗Ptを入手出来る「シーズン任務チケット」の購入・使用が可能です。\n　ダイヤを消費しますので、オススメしません。\n　「シーズン任務チケット」はキャンペーン終了後も所持し続けることができます。"
+      }
+    ]
+  },
   "battlepass_main_time": {
     "tip": "$1日$2時間"
+  },
+  "battlepass_main_time_title": {
+    "tip": "今期残り時間："
   },
   "battlepass_main_tip1": {
     "tip": "キャンペーン期間中、任務をクリアし<icon name=pt w=1 h=1/>\nを集め、<color=#92fc63>扶桑(META)</color>、<color=#92fc63>強化ユニット</color>など\nの報酬を入手可能！"
@@ -1892,6 +1929,9 @@
   },
   "battlepass_main_tip_2408": {
     "tip": "<size=23> 2024.8.1-2024.9.30キャンペーン期間中、シーズン任務報酬で<color=#854747>「霞(META)」</color>などを入手可能！</size>"
+  },
+  "battlepass_main_tip_2410": {
+    "tip": "2024/10/1-2024/11/30キャンペーン期間中、シーズン任務累計<icon name=pt w=0.5 h=0.5/>入手報酬で<color=#854747>「鳳翔(META)」</color>などを入手可能"
   },
   "battlepass_pay_acquire": {
     "tip": "購入時に獲得："
@@ -2247,6 +2287,31 @@
   "blueprint_task_update_tip": {
     "tip": "艦船の開発進捗に更新がありました。開発ドックをご確認ください"
   },
+  "BoatAdGame_minigame_help": {
+    "tip": {
+      "1": {
+        "icon": {
+          "atlas": "helpbg/boatadgame_minigame_help",
+          "path": ""
+        }
+      },
+      "defaultpage": 1,
+      "disableScroll": true,
+      "helpSize": {
+        "x": 1176,
+        "y": 1024
+      },
+      "ImageMode": true,
+      "pageMode": true,
+      "windowPos": {
+        "y": -70
+      },
+      "windowSize": {
+        "x": 1263,
+        "y": 873
+      }
+    }
+  },
   "box_account_del_click": {
     "tip": "タップで入力 "
   },
@@ -2323,16 +2388,16 @@
     "tip": "施設を増築しますか？"
   },
   "buildship_heavy_tip": {
-    "tip": "「ヴィットリオ・ヴェネト」常設追加！"
+    "tip": "「ウルリッヒ・フォン・フッテン」常設実装！"
   },
   "buildship_light_tip": {
-    "tip": "「ドゥーカ・デッリ・アブルッツィ」など常設追加！"
+    "tip": "「マクデブルク」常設実装！"
   },
   "buildship_new_tip": {
-    "tip": "期間限定建造を累計200回行うと「天城(空母)」を確定で入手可能！（最大4隻まで）"
+    "tip": "「ローマ」「レオナルド・ダ・ヴィンチ」など出現率アップ！"
   },
   "buildship_special_tip": {
-    "tip": "「アクィラ」常設追加！"
+    "tip": "「ウルリッヒ・フォン・フッテン」常設実装！"
   },
   "buleprint_need_level_tip": {
     "tip": "該当艦がレベル$1で開放"
@@ -4206,6 +4271,36 @@
   "create_player_success": {
     "tip": "ユーザー登録しました"
   },
+  "cruise_btn_all": {
+    "tip": "一括受取"
+  },
+  "cruise_btn_pay": {
+    "tip": "追加報酬開放"
+  },
+  "cruise_limit_count": {
+    "tip": "今月はこれ以上購入できません"
+  },
+  "cruise_phase_title": {
+    "tip": "段階"
+  },
+  "cruise_shop_limit_tip": {
+    "tip": "今月残り購入可能回数："
+  },
+  "cruise_shop_lock_tip": {
+    "tip": "開催中シーズン任務Lv50達成"
+  },
+  "cruise_shop_no_open": {
+    "tip": "10/1 0時開放予定"
+  },
+  "cruise_shop_title": {
+    "tip": "復刻ショップ"
+  },
+  "cruise_shop_title_equip_skin": {
+    "tip": "外装"
+  },
+  "cruise_shop_title_skin": {
+    "tip": "着せ替え"
+  },
   "cruise_task_help_2110": {
     "tip": [
       {
@@ -4332,6 +4427,13 @@
       }
     ]
   },
+  "cruise_task_help_2410": {
+    "tip": [
+      {
+        "info": "■シーズン任務について\n・「シーズン任務」キャンペーンの開始と同時に、2種類の任務が開放されます。\n　①週次開放任務\n　キャンペーン開始時とキャンペーン期間中毎週月曜日0時に開放される任務。全8グループ\n　②全期間任務\n　最初から全開放される任務。全1グループ\n\n・「シーズン任務」はすべて自動受領済となり、また「シーズン任務」画面を開いた際、既に完成条件を満たしている任務はクリア状態となり、「進捗Pt」を自動で入手できます。\n\n・「シーズン任務」の「任務一覧」画面で、各任務の右側の矢印ボタンをタップすると、任務を自動でスキップ（クリア状態にする）し、進捗Ptを入手出来る「シーズン任務チケット」の購入・使用が可能です。\n　ダイヤを消費しますので、オススメしません……\n　「シーズン任務チケット」はキャンペーン終了後も所持し続けることができます。"
+      }
+    ]
+  },
   "cruise_task_phase": {
     "tip": "累計進捗.$1"
   },
@@ -4343,6 +4445,12 @@
   },
   "cruise_task_week": {
     "tip": "$1週目"
+  },
+  "cruise_title_2408": {
+    "tip": "シーズン任務・18期"
+  },
+  "cruise_title_2410": {
+    "tip": "シーズン任務・19期"
   },
   "cryptolalia_coming_soom": {
     "tip": "日服不用这个"
@@ -4697,71 +4805,407 @@
   "dont_send_message_frequently": {
     "tip": "発信間隔に注意"
   },
+  "dorm3d_accompany_locked": {
+    "tip": "未開放"
+  },
+  "dorm3d_already_gifted": {
+    "tip": "プレゼント済"
+  },
+  "dorm3d_appellation_cd": {
+    "tip": "$1後呼び方を再度変更可能"
+  },
+  "dorm3d_appellation_interval": {
+    "tip": "呼び方は48時間に1度変更できます"
+  },
+  "dorm3d_appellation_title": {
+    "tip": "呼び方変更"
+  },
+  "dorm3d_appellation_waring1": {
+    "tip": "NGワードが含まれています"
+  },
+  "dorm3d_appellation_waring2": {
+    "tip": "呼び方テキストが長すぎです"
+  },
+  "dorm3d_appellation_waring3": {
+    "tip": "呼び方テキストが短すぎです"
+  },
+  "dorm3d_appellation_waring4": {
+    "tip": "現在呼び方を変更できません"
+  },
+  "dorm3d_AR_switch": {
+    "tip": "AR機能メンテナンス中…"
+  },
+  "dorm3d_beach_buy": {
+    "tip": "<color=#39bfff>$1</color>を消費して、 <color=#169fff>ビーチ</color>を開放しますか？"
+  },
+  "dorm3d_beach_download": {
+    "tip": "必要アセットダウンロード：$1"
+  },
+  "dorm3d_beach_role": {
+    "tip": "開放すると<color=#39bfff>$1</color>を配置することが可能です"
+  },
+  "dorm3d_beach_switch": {
+    "tip": "ビーチ準備中……"
+  },
   "dorm3d_clothing_choose": {
-    "tip": "选择换装"
+    "tip": "衣装選択"
+  },
+  "dorm3d_collect_favor_plus": {
+    "tip": "ボーナス：親愛度+"
+  },
+  "dorm3d_collect_locked": {
+    "tip": "親愛度Lv$1で開放"
+  },
+  "dorm3d_collect_not_found": {
+    "tip": "$1で入手可能"
+  },
+  "dorm3d_collect_not_owned": {
+    "tip": "まだ入手していません"
+  },
+  "dorm3d_collect_nothing": {
+    "tip": "- まだ入手していません -"
+  },
+  "dorm3d_collect_unlock": {
+    "tip": "- 未開放 -"
+  },
+  "dorm3d_collection_beach": {
+    "tip": "ビーチ"
+  },
+  "dorm3d_collection_cost_tip": {
+    "tip": "お伴5分で<icon name=stamina/>行動力-1、親愛度<color=#fc4670>+40</color>"
+  },
+  "dorm3d_collection_title_en": {
+    "tip": "Azur Lane"
   },
   "dorm3d_daily_favor": {
-    "tip": "今日互动默契值"
+    "tip": "本日ボーナス親愛度"
+  },
+  "dorm3d_daily_favor_tips": {
+    "tip": "本日ボーナス親愛度"
+  },
+  "dorm3d_data_choose": {
+    "tip": "デート選択"
+  },
+  "dorm3d_data_go": {
+    "tip": "<color=#39bfff>$1</color>配置キャラを選択"
+  },
+  "dorm3d_data_Invite_lack": {
+    "tip": "配置キャラが不足しています"
+  },
+  "dorm3d_day_night_switching1": {
+    "tip": "すでに昼になっています"
+  },
+  "dorm3d_day_night_switching2": {
+    "tip": "すでに夜になっています"
+  },
+  "dorm3d_download_complete": {
+    "tip": "アセットダウンロード完了しました"
   },
   "dorm3d_favor_level": {
-    "tip": "当前默契值等级："
+    "tip": "親愛度LV："
+  },
+  "dorm3d_favor_level_story": {
+    "tip": "特別ストーリー"
+  },
+  "dorm3d_favor_maximize": {
+    "tip": "親愛度がmaxになっています。操作を続けますか？"
   },
   "dorm3d_furnitrue_type_bed": {
-    "tip": "床"
+    "tip": "ベッド"
   },
   "dorm3d_furnitrue_type_couch": {
-    "tip": "沙发"
+    "tip": "ソファ"
   },
   "dorm3d_furnitrue_type_decoration": {
-    "tip": "装饰"
+    "tip": "装飾"
   },
   "dorm3d_furnitrue_type_floor": {
-    "tip": "地板"
+    "tip": "床"
   },
   "dorm3d_furnitrue_type_table": {
-    "tip": "桌子"
+    "tip": "テーブル"
   },
   "dorm3d_furnitrue_type_wallpaper": {
-    "tip": "墙纸"
+    "tip": "壁紙"
   },
   "dorm3d_furniture_count": {
     "tip": "数量：$1"
   },
+  "dorm3d_furniture_locked": {
+    "tip": "家具未開放"
+  },
+  "dorm3d_furniture_replace_tip": {
+    "tip": "対応の家具を配置してください"
+  },
+  "dorm3d_furniture_save_success": {
+    "tip": "家具配置を保存しました"
+  },
+  "dorm3d_furniture_sure_save": {
+    "tip": "家具配置を保存しますか？"
+  },
   "dorm3d_furniture_unfit": {
-    "tip": "不可使用"
+    "tip": "適用不可"
   },
   "dorm3d_furniture_used": {
-    "tip": "<color=#00a3ef>[已摆放]</color>"
+    "tip": "<color=#00a3ef>[配置済み]</color>"
   },
   "dorm3d_furniture_window_acesses": {
-    "tip": "获取途径"
+    "tip": "入手方法"
   },
   "dorm3d_gift": {
-    "tip": "赠礼"
+    "tip": "プレゼント"
+  },
+  "dorm3d_gift_maximum": {
+    "tip": "最大数量に達しています"
   },
   "dorm3d_gift_owner_num": {
     "tip": "数量："
   },
+  "dorm3d_gift_story_unlock": {
+    "tip": "特別ストーリー開放済"
+  },
+  "dorm3d_invite_confirm_discount": {
+    "tip": "$1<color=#39bfff>$2</color>（割引前価格$3）を消費し、<color=#39bfff>$4</color>の$5配置を開放しますか？"
+  },
+  "dorm3d_invite_confirm_free": {
+    "tip": "$1<color=#fc4670><size=34>無料</size></color>(割引前価格$2)で<color=#39bfff>$3</color>の$4配置を解放しますか？"
+  },
+  "dorm3d_invite_confirm_original": {
+    "tip": "$1<color=#39bfff>$2</color>を消費し、<color=#39bfff>$3</color>の$4配置を開放しますか？"
+  },
   "dorm3d_is_auto_time": {
-    "tip": "随时间自动切换昼夜装扮"
+    "tip": "昼夜配置自動変更"
+  },
+  "dorm3d_item_num": {
+    "tip": "入手済："
+  },
+  "dorm3d_minigame_again": {
+    "tip": "もう一回"
+  },
+  "dorm3d_minigame_button1": {
+    "tip": "ミニゲーム"
+  },
+  "dorm3d_minigame_close": {
+    "tip": "戻る"
+  },
+  "dorm3d_need_construct_item": {
+    "tip": "開放チケットが不足しています"
   },
   "dorm3d_now_clothing": {
-    "tip": "当前"
+    "tip": "現在"
   },
   "dorm3d_now_time": {
-    "tip": "当前时间"
+    "tip": "現在時間"
+  },
+  "dorm3d_own_favor": {
+    "tip": "所持していると親愛度100上昇"
+  },
+  "dorm3d_photo_active_zone": {
+    "tip": "$1エリア専用"
+  },
+  "dorm3d_photo_alpha": {
+    "tip": "透明度"
+  },
+  "dorm3d_photo_animspeed": {
+    "tip": "モーション$1x"
+  },
+  "dorm3d_photo_contrast": {
+    "tip": "コントラスト"
+  },
+  "dorm3d_photo_depthoffield": {
+    "tip": "ぼかし"
+  },
+  "dorm3d_photo_facecamera": {
+    "tip": "カメラ目線"
+  },
+  "dorm3d_photo_filter": {
+    "tip": "フィルター"
+  },
+  "dorm3d_photo_focusdistance": {
+    "tip": "ぼかし距離"
+  },
+  "dorm3d_photo_focusstrength": {
+    "tip": "ぼかし強さ"
+  },
+  "dorm3d_photo_furniture_lock": {
+    "tip": "dorm3d_photo_furniture_lock"
+  },
+  "dorm3d_photo_hidecharacter": {
+    "tip": "キャラ非表示"
+  },
+  "dorm3d_photo_len": {
+    "tip": "カメラ"
+  },
+  "dorm3d_photo_lighting": {
+    "tip": "ライティング"
+  },
+  "dorm3d_photo_no_role": {
+    "tip": "キャラ未開放"
+  },
+  "dorm3d_photo_Others": {
+    "tip": "その他"
+  },
+  "dorm3d_photo_paramaters": {
+    "tip": "設定"
+  },
+  "dorm3d_photo_postexposure": {
+    "tip": "露光量"
+  },
+  "dorm3d_photo_regular_anim": {
+    "tip": "基本"
+  },
+  "dorm3d_photo_saturation": {
+    "tip": "彩度"
+  },
+  "dorm3d_photo_special_anim": {
+    "tip": "SP"
+  },
+  "dorm3d_photo_strength": {
+    "tip": "深度"
+  },
+  "dorm3d_pledge_favor": {
+    "tip": "ケッコンしていると親愛度100上昇"
+  },
+  "dorm3d_purchase_confirm_discount": {
+    "tip": "$1<color=#39bfff>$2</color>（割引前価格$3）を消費し、<color=#39bfff>$4</color>を購入しますか？"
+  },
+  "dorm3d_purchase_confirm_free": {
+    "tip": "$1<color=#fc4670><size=34>無料</size></color>(割引前価格$2)で<color=#39bfff>$3</color>を購入しますか？"
+  },
+  "dorm3d_purchase_confirm_original": {
+    "tip": "$1<color=#39bfff>$2</color>を消費し、<color=#39bfff>$3</color>を購入しますか？"
+  },
+  "dorm3d_purchase_confirm_tip": {
+    "tip": "専用"
+  },
+  "dorm3d_purchase_weekly_limit": {
+    "tip": "\n（今週購入回数$1/$2）"
+  },
+  "dorm3d_recall_locked": {
+    "tip": "未開放？？？？？？"
+  },
+  "dorm3d_reload_favor": {
+    "tip": "親愛度ストーリー"
+  },
+  "dorm3d_reload_gift": {
+    "tip": "専用贈り物ストーリー"
+  },
+  "dorm3d_reload_unlock": {
+    "tip": "- 未開放 -"
+  },
+  "dorm3d_reload_unlock_name": {
+    "tip": "?????"
+  },
+  "dorm3d_removable": {
+    "tip": "（画面左側ドラッグで移動し、キャラに近づいてください）"
+  },
+  "dorm3d_resource_delete": {
+    "tip": "アセットを削除しました"
+  },
+  "dorm3d_resource_downloading": {
+    "tip": "アセットダウンロード中です"
+  },
+  "dorm3d_role_assets_delete": {
+    "tip": "<color=#39bfff>$1</color>の部屋のアセットを一時削除しますか？"
+  },
+  "dorm3d_role_assets_download": {
+    "tip": "<color=#39bfff>$1</color>の部屋を開放しますか？\nアセットダウンロード：$2"
+  },
+  "dorm3d_role_check_in": {
+    "tip": "<color=#39bfff>$1</color>の部屋を開放しますか？"
+  },
+  "dorm3d_role_choose": {
+    "tip": "部屋選択"
+  },
+  "dorm3d_role_locked": {
+    "tip": "キャラを開放しておく必要があります"
+  },
+  "dorm3d_role_manage": {
+    "tip": "宿舎管理"
+  },
+  "dorm3d_role_manage_public_area": {
+    "tip": "公共エリア"
+  },
+  "dorm3d_role_manage_role": {
+    "tip": "キャラ"
+  },
+  "dorm3d_select_tip": {
+    "tip": "公共エリア配置"
+  },
+  "dorm3d_shop_gift": {
+    "tip": " <color=#169fff>$2</color>を$1消費して、<color=#169fff>$3</color>を購入しますか？"
+  },
+  "dorm3d_shop_gift_already_given": {
+    "tip": "すでにプレゼントした贈り物です"
+  },
+  "dorm3d_shop_gift_not_owned": {
+    "tip": "未所持の贈り物です"
+  },
+  "dorm3d_shop_gift_owned": {
+    "tip": "これ以上は購入できません"
+  },
+  "dorm3d_shop_gift_tip": {
+    "tip": "<color=#7c7e81>購入すると<color=#169fff>特別ストーリー</color>を開放できます</color>"
+  },
+  "dorm3d_shop_tag1": {
+    "tip": "専用タッチを開放"
+  },
+  "dorm3d_shop_tag2": {
+    "tip": "撮影モーションを開放"
+  },
+  "dorm3d_shop_tag3": {
+    "tip": "ときめきモードモーション開放"
+  },
+  "dorm3d_shop_tag4": {
+    "tip": "特殊ストーリー開放"
+  },
+  "dorm3d_shop_tag5": {
+    "tip": "会話内容開放"
+  },
+  "dorm3d_shop_tag6": {
+    "tip": "ミニゲーム開放"
+  },
+  "dorm3d_sirius_bath": {
+    "tip": "更衣室"
+  },
+  "dorm3d_sirius_bed": {
+    "tip": "寝室"
+  },
+  "dorm3d_sirius_chair": {
+    "tip": "リビング"
+  },
+  "dorm3d_sirius_table": {
+    "tip": "ダイニング"
+  },
+  "dorm3d_skin_locked": {
+    "tip": "未開放衣装"
+  },
+  "dorm3d_story_unlock_tip": {
+    "tip": "開放済ストーリー"
+  },
+  "dorm3d_system_switch": {
+    "tip": "宿舎準備中……"
   },
   "dorm3d_talk": {
-    "tip": "对话"
+    "tip": "会話"
   },
   "dorm3d_time_choose": {
-    "tip": "选择时间"
+    "tip": "時間選択"
   },
   "dorm3d_touch": {
-    "tip": "互动"
+    "tip": "タッチ"
+  },
+  "dorm3d_unlock_tips": {
+    "tip": "親愛度$1で開放"
+  },
+  "dorm3d_volleyball_button": {
+    "tip": "ビーチバレー"
+  },
+  "dorm3d_volleyball_title": {
+    "tip": "ビーチ"
   },
   "dorm3d_waiting": {
-    "tip": "等待入住"
+    "tip": "準備中"
   },
   "dorm_2f_lock": {
     "tip": "未開放"
@@ -4838,7 +5282,7 @@
     "tip": "楽園でのコンディション回復 $1/h"
   },
   "dress_up_success": {
-    "tip": "チャット設定変更成功"
+    "tip": "装飾設定変更成功"
   },
   "eatgame_tips": {
     "tip": [
@@ -6282,6 +6726,27 @@
         "info": "    7.残り時間が0になると、ミニゲームが終了になります ；"
       }
     ]
+  },
+  "grapihcs3d_setting_gpgpu_warning": {
+    "tip": "ONにすると、一部の機種では強制終了してしまう可能性があります"
+  },
+  "grapihcs3d_setting_quality": {
+    "tip": "グラフィック設定"
+  },
+  "grapihcs3d_setting_quality_option_custom": {
+    "tip": "カスタム"
+  },
+  "grapihcs3d_setting_quality_option_high": {
+    "tip": "高画質"
+  },
+  "grapihcs3d_setting_quality_option_low": {
+    "tip": "低画質"
+  },
+  "grapihcs3d_setting_quality_option_medium": {
+    "tip": "中画質"
+  },
+  "grapihcs3d_setting_universal": {
+    "tip": "汎用3D設定"
   },
   "group_download_tip": {
     "tip": "更新するには$1のデータをダウンロードする必要があります。更新を行いますか？"
@@ -8047,6 +8512,61 @@
       }
     ]
   },
+  "help_dorm3d_info": {
+    "tip": {
+      "1": {
+        "icon": {
+          "atlas": "helpbg/3ddorm_1",
+          "path": ""
+        }
+      },
+      "2": {
+        "icon": {
+          "atlas": "helpbg/3ddorm_2",
+          "path": ""
+        }
+      },
+      "3": {
+        "icon": {
+          "atlas": "helpbg/3ddorm_3",
+          "path": ""
+        }
+      },
+      "4": {
+        "icon": {
+          "atlas": "helpbg/3ddorm_4",
+          "path": ""
+        }
+      },
+      "5": {
+        "icon": {
+          "atlas": "helpbg/3ddorm_5",
+          "path": ""
+        }
+      },
+      "6": {
+        "icon": {
+          "atlas": "helpbg/3ddorm_6",
+          "path": ""
+        }
+      },
+      "defaultpage": 1,
+      "disableScroll": true,
+      "helpSize": {
+        "x": 1176,
+        "y": 1024
+      },
+      "ImageMode": true,
+      "pageMode": true,
+      "windowPos": {
+        "y": -70
+      },
+      "windowSize": {
+        "x": 1263,
+        "y": 873
+      }
+    }
+  },
   "help_equipment": {
     "tip": [
       {
@@ -8082,77 +8602,71 @@
     "tip": {
       "1": {
         "icon": {
-          "atlas": "helpbg/level_ui_help_1",
+          "atlas": "helpbg/level_ui_help_2",
           "path": ""
         }
       },
       "2": {
         "icon": {
-          "atlas": "helpbg/level_ui_help_2",
+          "atlas": "helpbg/level_ui_help_3",
           "path": ""
         }
       },
       "3": {
         "icon": {
-          "atlas": "helpbg/level_ui_help_3",
+          "atlas": "helpbg/level_ui_help_9",
           "path": ""
         }
       },
       "4": {
         "icon": {
-          "atlas": "helpbg/level_ui_help_9",
+          "atlas": "helpbg/level_ui_help_4",
           "path": ""
         }
       },
       "5": {
         "icon": {
-          "atlas": "helpbg/level_ui_help_4",
+          "atlas": "helpbg/level_ui_help_5",
           "path": ""
         }
       },
       "6": {
         "icon": {
-          "atlas": "helpbg/level_ui_help_5",
+          "atlas": "helpbg/level_ui_help_6",
           "path": ""
         }
       },
       "7": {
         "icon": {
-          "atlas": "helpbg/level_ui_help_6",
+          "atlas": "helpbg/level_ui_help_7",
           "path": ""
         }
       },
       "8": {
         "icon": {
-          "atlas": "helpbg/level_ui_help_7",
+          "atlas": "helpbg/level_ui_help_8",
           "path": ""
         }
       },
       "9": {
         "icon": {
-          "atlas": "helpbg/level_ui_help_8",
+          "atlas": "helpbg/level_ui_help",
           "path": ""
         }
       },
       "10": {
         "icon": {
-          "atlas": "helpbg/level_ui_help",
+          "atlas": "helpbg/battle_ac_1",
           "path": ""
         }
       },
       "11": {
         "icon": {
-          "atlas": "helpbg/battle_ac_1",
-          "path": ""
-        }
-      },
-      "12": {
-        "icon": {
           "atlas": "helpbg/battle_ac_2",
           "path": ""
         }
       },
-      "13": {
+      "12": {
         "icon": {
           "atlas": "helpbg/battle_concealment",
           "path": ""
@@ -9740,10 +10254,10 @@
     "tip": "すべて"
   },
   "index_awakening": {
-    "tip": "<size=36>認識覚醒可</size>"
+    "tip": "<size=32>認識覚醒可</size>"
   },
   "index_awakening2": {
-    "tip": "<size=36>認識覚醒可</size><size=30>＋</size>"
+    "tip": "<size=32>認識覚醒可</size><size=30>＋</size>"
   },
   "index_BG": {
     "tip": "通常背景"
@@ -10229,6 +10743,63 @@
   "just_now": {
     "tip": "直前"
   },
+  "juuschat_background_tip1": {
+    "tip": "未所持"
+  },
+  "juuschat_background_tip2": {
+    "tip": "着せ替え未所持"
+  },
+  "juuschat_chattip1": {
+    "tip": "[ボイスメッセージ]"
+  },
+  "juuschat_chattip2": {
+    "tip": "[プレゼント]"
+  },
+  "juuschat_chattip3": {
+    "tip": "[返信待ち]"
+  },
+  "juuschat_filter_empty": {
+    "tip": "当該チャットは存在しません"
+  },
+  "juuschat_filter_subtitle1": {
+    "tip": "既読・未読"
+  },
+  "juuschat_filter_subtitle2": {
+    "tip": "個人・グループ"
+  },
+  "juuschat_filter_subtitle3": {
+    "tip": "陣営"
+  },
+  "juuschat_filter_tip1": {
+    "tip": "全て"
+  },
+  "juuschat_filter_tip2": {
+    "tip": "返信済"
+  },
+  "juuschat_filter_tip3": {
+    "tip": "未返信"
+  },
+  "juuschat_filter_tip4": {
+    "tip": "個人"
+  },
+  "juuschat_filter_tip5": {
+    "tip": "グループ"
+  },
+  "juuschat_filter_title": {
+    "tip": "絞り込み"
+  },
+  "juuschat_label1": {
+    "tip": "使用中"
+  },
+  "juuschat_label2": {
+    "tip": "確認中"
+  },
+  "juuschat_reddot_title": {
+    "tip": "艦チャット"
+  },
+  "juuschat_redpacket_detail": {
+    "tip": "受取内容"
+  },
   "keep_fate_tip": {
     "tip": "<color=#92fc63>竜骨編纂</color>用の強化ユニットを除く"
   },
@@ -10654,6 +11225,18 @@
   },
   "levelScene_map_lock": {
     "tip": "この章をクリアする必要があります"
+  },
+  "levelscene_mapselect_ex": {
+    "tip": "EX"
+  },
+  "levelscene_mapselect_part1": {
+    "tip": "前編"
+  },
+  "levelscene_mapselect_part2": {
+    "tip": "後編"
+  },
+  "levelscene_mapselect_sp": {
+    "tip": "SP"
   },
   "levelScene_new_chapter_coming": {
     "tip": "新章開放"
@@ -12615,10 +13198,7 @@
   "music_juus": {
     "tip": [
       {
-        "info": "■艦船通信とは"
-      },
-      {
-        "info": " 艦船通信とは、母港の艦船たちが利用しているSNSであり、艦船たちの投稿を読み、「いいね」を推したり、コメント（内容は固定ですが…）したりすることができます。\n 艦船による投稿は一定時間ごと自動で行われます。\n\n 艦船通信をチェックし、彼女たちの日常の垣間を楽しもう！"
+        "info": "「艦チャット＆艦船通信」について：\n\n  艦チャットと艦船通信とは母港の艦船たちが利用しているSNSであり、艦船たちの投稿を読み「いいね」を押したり、艦船とチャットする会話コンテンツを楽しめるシステムになります。\n 画面左下のボタンで「艦チャット」「艦船通信」を切り替えることができます。\n\n  艦チャットについて\n 1.艦チャットでは「個人チャンネル」「グループチャンネル」それぞれで艦船とのチャット（会話）を楽しむことができます\n 2.未読メッセージが存在する場合、「艦チャット＆艦船通信」ボタンにアイコンが表示されます\n 3.チャンネルは画面左のチャンネルバーをタップして切り替える事ができます\n 4.チャット画面右上のハートアイコンをタップすると、チャンネルバーの表示優先順位を上げる事ができます。また、右上のボタンをタップすると話題切り替え、チャット背景の変更が可能です\n\n\n  艦船通信について\n 1.艦船通信で艦船たちの投稿を読み、「いいね」を押したり、コメントしたりすることができます。\n 2.艦船による投稿は一定時間毎に自動で行われます。\n 3.「艦チャット＆艦船通信」ボタンにアイコンが表示されます\n"
       }
     ]
   },
@@ -16507,12 +17087,12 @@
     "tip": "「テンペスタ秘密造船所」すべての任務クリアで解放"
   },
   "shipyard_introduce": {
-    "tip": "<size=30>任務は10/25（水）まで毎日2個ずつ開放されます\n開放から七日間、毎日開放される任務をクリアし、\n限定兵装<color=#ff9892>「テンペスタ・フラッグ」 </color>をGET!</size>"
+    "tip": "任務は10/30（水）まで毎日2個ずつ開放されます\n開放から7日間、毎日開放される任務をクリアすると、限定兵装<color=#ff9892>「テンペスタ・フラッグ」 </color>を入手可能！"
   },
   "shipyard_phase_1": {
     "tip": [
       {
-        "info": "イベント概要：\n「テンペスタの秘密造船所」とは、任務イベント「テンペスタの秘密造船所」で造った船を操縦し、大海原で敵を倒したり、お宝を回収したりしつつ終点を目指し、スコアを稼ぐミニゲームになります。\nミニゲームは<color=#92fc63>10月26日（木）～-11月9日（木）23:59</color>まで開催されます。\n\n遊び方：\n・「テンペスタの秘密造船所」では様々な任務が出現します。すべての任務をクリアすると、ミニゲームで使用する船が完成します。\n・ミニゲームでは、ステージを選択し、更に装備したい兵装を選択すると、海戦ゲームをプレイすることができます。\n・ミニゲームは11月1日（水）まで毎日新しいステージが開放されます。\n・ステージをクリアすると、それぞれのステージで1度だけクリア報酬を入手できます。\n　  ステージ3 テンペスタ用設備「果物の補給」\n     ステージ5 テンペスタ用装備セット \n     ステージ7 限定家具「始まりの冒険船」\n・ステージ7をクリアすると、任意のステージを選択してプレイすることができます"
+        "info": "イベント概要：\n 「テンペスタの秘密造船所」とは、任務イベント「テンペスタの秘密造船所」で造った船を操縦し、大海原で敵を倒したり、お宝を回収したりしつつ終点を目指し、スコアを稼ぐミニゲームになります。\n イベントは<color=#92fc63>10月24日（木）～-11月7日（木）23:59</color>まで開催されます。\n\n  遊び方：\n ・10月30日（水）まで、毎日限定任務が開放されます。開放されたすべての限定任務をクリアすると、ミニゲームで使用する船が完成します。\n ・ミニゲームでは、ステージを選択し、更に装備したい兵装を選択すると、海戦ゲームをプレイすることができます。\n ・ミニゲームのステージをクリアすると、それぞれのステージで1度だけクリア報酬を入手でき、さらに7つのステージを全部クリアすると、限定家具「始まりの冒険船」をGETできます。\n ・ステージ7をクリアすると、任意のステージを選択してプレイすることができます"
       }
     ]
   },
@@ -16565,10 +17145,10 @@
     "tip": "特殊装備所持数上限が増加しました"
   },
   "shop_street_activity_tip": {
-    "tip": "※<size=28><color=#A1E400FF>$1</COLOR>では<color=#A1E400FF>装備外装箱</color>が100%出現します</size>"
+    "tip": "※<color=#A1E400FF>$1</COLOR>では<color=#A1E400FF>装備外装箱</color>が100%出現します"
   },
   "shop_street_Equipment_skin_box_help": {
-    "tip": "<color=#A1E400FF>$1</COLOR> 販売期間：<color=#A1E400FF>$2</COLOR>"
+    "tip": "<color=#A1E400FF>$1</COLOR>\n販売期間：<color=#A1E400FF>$2</COLOR>"
   },
   "shop_word_cancel": {
     "tip": "戻 る"
@@ -16637,7 +17217,7 @@
     "tip": "アイテム$1は$2メンテナンス後に削除されます。削除前に着せ替えショップで使用してください"
   },
   "skin_exchange_confirm": {
-    "tip": " <color=#92fc63>$1 *1</color> を消費して <color=#92fc63>$2</color>と交換しますか"
+    "tip": "<color=#92fc63>$1*1</color>を消費して<color=#92fc63>$2</color>と交換しますか"
   },
   "skin_exchange_timelimit": {
     "tip": "下記アイテムの交換対象は$1メンテナンス後に変更されます。お早めにご使用ください"
@@ -17145,6 +17725,9 @@
   "support_times_tip": {
     "tip": "実行回数"
   },
+  "sure_exit_volleyball": {
+    "tip": "ミニゲームを終了しますか？"
+  },
   "sure_resume_volume": {
     "tip": "音声設定を初期化しますか？"
   },
@@ -17282,6 +17865,12 @@
   },
   "target_get_tip": {
     "tip": "累計入手"
+  },
+  "task_go": {
+    "tip": "確認"
+  },
+  "task_got": {
+    "tip": "完了"
   },
   "task_is_not_existence": {
     "tip": "任務$1は存在しません"
@@ -18177,6 +18766,12 @@
   "voice_control": {
     "tip": "サウンド"
   },
+  "volleyball_end_award": {
+    "tip": "行動力-1、シリアス親愛度+40"
+  },
+  "volleyball_end_tip": {
+    "tip": "シリアスと楽しい午後を過ごした"
+  },
   "vote_2023_reward_word_1": {
     "tip": "ふふふ、シミュレーションさせちゃうなんてつまらないわね。声をかけてくれてたら最初から出てやったのに…まあいいわ。なんだかんだ楽しく遊ばせてもらったし、ちょっとしたお返しをしてあげる♪"
   },
@@ -18856,6 +19451,9 @@
   "word_live2dfiles_update_retry": {
     "tip": "タップで再開"
   },
+  "word_lock": {
+    "tip": "未開放"
+  },
   "word_lv": {
     "tip": "練度"
   },
@@ -19475,6 +20073,9 @@
   "word_train": {
     "tip": "休憩"
   },
+  "word_unlock": {
+    "tip": "開放済"
+  },
   "word_upgrade": {
     "tip": "突破"
   },
@@ -20091,6 +20692,9 @@
   },
   "world_expedition_reward_display2": {
     "tip": "HP $1%"
+  },
+  "world_file_tip": {
+    "tip": "※画面スライドでページスクロール可能。画面タップで閉じる"
   },
   "world_fleet_choose": {
     "tip": "<color=#80e742>セイレーン作戦における戦闘はコンディションに影響せず、また、燃料も消費しません</color>"

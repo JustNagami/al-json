@@ -3780,6 +3780,32 @@
     "type": 2,
     "type_order": 0
   },
+  "31942": {
+    "collaboration_skin_time": "",
+    "desc": "7000物资兑换1个1024妖怪外观装备箱",
+    "discount": 0,
+    "discount_time": [],
+    "effect_args": [
+      30361
+    ],
+    "genre": "shopping_street",
+    "group": 0,
+    "group_buy_count": 0,
+    "group_limit": 0,
+    "group_type": 0,
+    "id": 31942,
+    "limit_args": [],
+    "limit_args2": "",
+    "num": 1,
+    "order": 0,
+    "resource_num": 7000,
+    "resource_type": 1,
+    "tag": 0,
+    "time": "always",
+    "time_second": 0,
+    "type": 2,
+    "type_order": 0
+  },
   "31943": {
     "collaboration_skin_time": "",
     "desc": "7000資金で装備外装箱（楽園ドリーム）1個を購入",
@@ -6940,6 +6966,32 @@
     "group_limit": 0,
     "group_type": 0,
     "id": 43048,
+    "limit_args": [],
+    "limit_args2": "",
+    "num": 1,
+    "order": 4,
+    "resource_num": 8000,
+    "resource_type": 3,
+    "tag": 0,
+    "time": "always",
+    "time_second": 0,
+    "type": 4,
+    "type_order": 0
+  },
+  "43049": {
+    "collaboration_skin_time": "",
+    "desc": "8000戦果でU-1206を交換",
+    "discount": 0,
+    "discount_time": [],
+    "effect_args": [
+      408121
+    ],
+    "genre": "arena_shop",
+    "group": 0,
+    "group_buy_count": 0,
+    "group_limit": 0,
+    "group_type": 0,
+    "id": 43049,
     "limit_args": [],
     "limit_args2": "",
     "num": 1,
@@ -12248,6 +12300,510 @@
           2024,
           10,
           2
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
+    "time_second": 0,
+    "type": 2,
+    "type_order": 0
+  },
+  "60534": {
+    "collaboration_skin_time": "",
+    "desc": "980钻石购买限时礼包-比翼双飞（926日服周年第三弹版本）",
+    "discount": 0,
+    "discount_time": [],
+    "effect_args": [
+      40100
+    ],
+    "genre": "gift_package",
+    "group": 0,
+    "group_buy_count": 0,
+    "group_limit": 0,
+    "group_type": 0,
+    "id": 60534,
+    "limit_args": [
+      [
+        "time",
+        1
+      ]
+    ],
+    "limit_args2": "",
+    "num": 1,
+    "order": 0,
+    "resource_num": 980,
+    "resource_type": 14,
+    "tag": 2,
+    "time": [
+      [
+        [
+          2024,
+          9,
+          26
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2024,
+          10,
+          9
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
+    "time_second": 0,
+    "type": 2,
+    "type_order": 3
+  },
+  "60535": {
+    "collaboration_skin_time": "",
+    "desc": "880钻石购买限时建造补给(1017罗马轻量化复刻版本)",
+    "discount": 0,
+    "discount_time": [],
+    "effect_args": [
+      40138
+    ],
+    "genre": "gift_package",
+    "group": 0,
+    "group_buy_count": 0,
+    "group_limit": 0,
+    "group_type": 0,
+    "id": 60535,
+    "limit_args": [
+      [
+        "time",
+        1
+      ]
+    ],
+    "limit_args2": "",
+    "num": 1,
+    "order": 0,
+    "resource_num": 880,
+    "resource_type": 14,
+    "tag": 2,
+    "time": [
+      [
+        [
+          2024,
+          10,
+          17
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2024,
+          10,
+          23
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
+    "time_second": 0,
+    "type": 2,
+    "type_order": 0
+  },
+  "60536": {
+    "collaboration_skin_time": "",
+    "desc": "120钻石购买限时攻略补给(1017罗马轻量化复刻版本)",
+    "discount": 0,
+    "discount_time": [],
+    "effect_args": [
+      40117
+    ],
+    "genre": "gift_package",
+    "group": 0,
+    "group_buy_count": 0,
+    "group_limit": 0,
+    "group_type": 0,
+    "id": 60536,
+    "limit_args": [
+      [
+        "time",
+        5
+      ]
+    ],
+    "limit_args2": "",
+    "num": 1,
+    "order": 0,
+    "resource_num": 120,
+    "resource_type": 14,
+    "tag": 2,
+    "time": [
+      [
+        [
+          2024,
+          10,
+          17
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2024,
+          10,
+          23
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
+    "time_second": 0,
+    "type": 2,
+    "type_order": 0
+  },
+  "60537": {
+    "collaboration_skin_time": "",
+    "desc": "500钻石购买家具币礼包(1017罗马轻量化复刻版本)",
+    "discount": 0,
+    "discount_time": [],
+    "effect_args": [
+      40106
+    ],
+    "genre": "gift_package",
+    "group": 0,
+    "group_buy_count": 0,
+    "group_limit": 0,
+    "group_type": 0,
+    "id": 60537,
+    "limit_args": [
+      [
+        "time",
+        2
+      ]
+    ],
+    "limit_args2": "",
+    "num": 1,
+    "order": 0,
+    "resource_num": 500,
+    "resource_type": 14,
+    "tag": 2,
+    "time": [
+      [
+        [
+          2024,
+          10,
+          17
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2024,
+          10,
+          23
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
+    "time_second": 0,
+    "type": 2,
+    "type_order": 0
+  },
+  "60538": {
+    "collaboration_skin_time": "",
+    "desc": "300钻石购买心智单元礼包(1017罗马轻量化复刻版本)",
+    "discount": 0,
+    "discount_time": [],
+    "effect_args": [
+      40119
+    ],
+    "genre": "gift_package",
+    "group": 0,
+    "group_buy_count": 0,
+    "group_limit": 0,
+    "group_type": 0,
+    "id": 60538,
+    "limit_args": [
+      [
+        "time",
+        2
+      ]
+    ],
+    "limit_args2": "",
+    "num": 1,
+    "order": 0,
+    "resource_num": 300,
+    "resource_type": 14,
+    "tag": 2,
+    "time": [
+      [
+        [
+          2024,
+          10,
+          17
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2024,
+          10,
+          23
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
+    "time_second": 0,
+    "type": 2,
+    "type_order": 0
+  },
+  "60539": {
+    "collaboration_skin_time": "",
+    "desc": "880钻石购买限时建造补给(1017罗马轻量化复刻版本)",
+    "discount": 0,
+    "discount_time": [],
+    "effect_args": [
+      40138
+    ],
+    "genre": "gift_package",
+    "group": 0,
+    "group_buy_count": 0,
+    "group_limit": 0,
+    "group_type": 0,
+    "id": 60539,
+    "limit_args": [
+      [
+        "time",
+        1
+      ]
+    ],
+    "limit_args2": "",
+    "num": 1,
+    "order": 0,
+    "resource_num": 880,
+    "resource_type": 14,
+    "tag": 2,
+    "time": [
+      [
+        [
+          2024,
+          10,
+          24
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2024,
+          11,
+          6
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
+    "time_second": 0,
+    "type": 2,
+    "type_order": 0
+  },
+  "60540": {
+    "collaboration_skin_time": "",
+    "desc": "120钻石购买限时攻略补给(1017罗马轻量化复刻版本)",
+    "discount": 0,
+    "discount_time": [],
+    "effect_args": [
+      40117
+    ],
+    "genre": "gift_package",
+    "group": 0,
+    "group_buy_count": 0,
+    "group_limit": 0,
+    "group_type": 0,
+    "id": 60540,
+    "limit_args": [
+      [
+        "time",
+        5
+      ]
+    ],
+    "limit_args2": "",
+    "num": 1,
+    "order": 0,
+    "resource_num": 120,
+    "resource_type": 14,
+    "tag": 2,
+    "time": [
+      [
+        [
+          2024,
+          10,
+          24
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2024,
+          11,
+          6
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
+    "time_second": 0,
+    "type": 2,
+    "type_order": 0
+  },
+  "60541": {
+    "collaboration_skin_time": "",
+    "desc": "500钻石购买家具币礼包(1017罗马轻量化复刻版本)",
+    "discount": 0,
+    "discount_time": [],
+    "effect_args": [
+      40106
+    ],
+    "genre": "gift_package",
+    "group": 0,
+    "group_buy_count": 0,
+    "group_limit": 0,
+    "group_type": 0,
+    "id": 60541,
+    "limit_args": [
+      [
+        "time",
+        2
+      ]
+    ],
+    "limit_args2": "",
+    "num": 1,
+    "order": 0,
+    "resource_num": 500,
+    "resource_type": 14,
+    "tag": 2,
+    "time": [
+      [
+        [
+          2024,
+          10,
+          24
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2024,
+          11,
+          6
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
+    "time_second": 0,
+    "type": 2,
+    "type_order": 0
+  },
+  "60542": {
+    "collaboration_skin_time": "",
+    "desc": "300钻石购买心智单元礼包(1017罗马轻量化复刻版本)",
+    "discount": 0,
+    "discount_time": [],
+    "effect_args": [
+      40119
+    ],
+    "genre": "gift_package",
+    "group": 0,
+    "group_buy_count": 0,
+    "group_limit": 0,
+    "group_type": 0,
+    "id": 60542,
+    "limit_args": [
+      [
+        "time",
+        2
+      ]
+    ],
+    "limit_args2": "",
+    "num": 1,
+    "order": 0,
+    "resource_num": 300,
+    "resource_type": 14,
+    "tag": 2,
+    "time": [
+      [
+        [
+          2024,
+          10,
+          24
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2024,
+          11,
+          6
         ],
         [
           23,
@@ -36994,7 +37550,7 @@
     "limit_args": [],
     "limit_args2": "",
     "num": 1,
-    "order": 12,
+    "order": 1,
     "resource_num": 1200,
     "resource_type": 14,
     "tag": 1,
@@ -37002,8 +37558,8 @@
       [
         [
           2024,
-          9,
-          12
+          10,
+          17
         ],
         [
           0,
@@ -37015,7 +37571,7 @@
         [
           2024,
           10,
-          2
+          23
         ],
         [
           23,
@@ -37045,7 +37601,7 @@
     "limit_args": [],
     "limit_args2": "",
     "num": 1,
-    "order": 12,
+    "order": 1,
     "resource_num": 900,
     "resource_type": 14,
     "tag": 1,
@@ -37053,8 +37609,8 @@
       [
         [
           2024,
-          9,
-          12
+          10,
+          17
         ],
         [
           0,
@@ -37066,7 +37622,7 @@
         [
           2024,
           10,
-          2
+          23
         ],
         [
           23,
@@ -37096,7 +37652,7 @@
     "limit_args": [],
     "limit_args2": "",
     "num": 1,
-    "order": 12,
+    "order": 1,
     "resource_num": 880,
     "resource_type": 14,
     "tag": 1,
@@ -37104,8 +37660,8 @@
       [
         [
           2024,
-          9,
-          12
+          10,
+          17
         ],
         [
           0,
@@ -37117,7 +37673,7 @@
         [
           2024,
           10,
-          2
+          23
         ],
         [
           23,
@@ -37147,7 +37703,7 @@
     "limit_args": [],
     "limit_args2": "",
     "num": 1,
-    "order": 12,
+    "order": 1,
     "resource_num": 780,
     "resource_type": 14,
     "tag": 1,
@@ -37155,8 +37711,8 @@
       [
         [
           2024,
-          9,
-          12
+          10,
+          17
         ],
         [
           0,
@@ -37168,7 +37724,7 @@
         [
           2024,
           10,
-          2
+          23
         ],
         [
           23,
@@ -37198,7 +37754,7 @@
     "limit_args": [],
     "limit_args2": "",
     "num": 1,
-    "order": 12,
+    "order": 1,
     "resource_num": 780,
     "resource_type": 14,
     "tag": 1,
@@ -37206,8 +37762,8 @@
       [
         [
           2024,
-          9,
-          12
+          10,
+          17
         ],
         [
           0,
@@ -37219,7 +37775,7 @@
         [
           2024,
           10,
-          2
+          23
         ],
         [
           23,
@@ -37249,7 +37805,7 @@
     "limit_args": [],
     "limit_args2": "",
     "num": 1,
-    "order": 12,
+    "order": 1,
     "resource_num": 800,
     "resource_type": 14,
     "tag": 1,
@@ -37257,8 +37813,8 @@
       [
         [
           2024,
-          9,
-          12
+          10,
+          17
         ],
         [
           0,
@@ -37270,7 +37826,7 @@
         [
           2024,
           10,
-          2
+          23
         ],
         [
           23,
@@ -37300,7 +37856,7 @@
     "limit_args": [],
     "limit_args2": "",
     "num": 1,
-    "order": 12,
+    "order": 1,
     "resource_num": 780,
     "resource_type": 14,
     "tag": 1,
@@ -37308,8 +37864,8 @@
       [
         [
           2024,
-          9,
-          12
+          10,
+          17
         ],
         [
           0,
@@ -37321,7 +37877,7 @@
         [
           2024,
           10,
-          2
+          23
         ],
         [
           23,
@@ -37351,7 +37907,7 @@
     "limit_args": [],
     "limit_args2": "",
     "num": 1,
-    "order": 12,
+    "order": 1,
     "resource_num": 800,
     "resource_type": 14,
     "tag": 1,
@@ -37359,8 +37915,8 @@
       [
         [
           2024,
-          9,
-          12
+          10,
+          17
         ],
         [
           0,
@@ -37372,7 +37928,7 @@
         [
           2024,
           10,
-          2
+          23
         ],
         [
           23,
@@ -37402,7 +37958,7 @@
     "limit_args": [],
     "limit_args2": "",
     "num": 1,
-    "order": 12,
+    "order": 1,
     "resource_num": 900,
     "resource_type": 14,
     "tag": 1,
@@ -37410,8 +37966,8 @@
       [
         [
           2024,
-          9,
-          12
+          10,
+          17
         ],
         [
           0,
@@ -37423,7 +37979,7 @@
         [
           2024,
           10,
-          2
+          23
         ],
         [
           23,
@@ -45417,7 +45973,7 @@
     "limit_args": [],
     "limit_args2": "",
     "num": 1,
-    "order": 12,
+    "order": 2,
     "resource_num": 880,
     "resource_type": 14,
     "tag": 1,
@@ -45425,8 +45981,8 @@
       [
         [
           2024,
-          9,
-          12
+          10,
+          24
         ],
         [
           0,
@@ -45437,8 +45993,8 @@
       [
         [
           2024,
-          10,
-          2
+          11,
+          6
         ],
         [
           23,
@@ -45468,7 +46024,7 @@
     "limit_args": [],
     "limit_args2": "",
     "num": 1,
-    "order": 12,
+    "order": 2,
     "resource_num": 1180,
     "resource_type": 14,
     "tag": 1,
@@ -45476,8 +46032,8 @@
       [
         [
           2024,
-          9,
-          12
+          10,
+          24
         ],
         [
           0,
@@ -45488,8 +46044,8 @@
       [
         [
           2024,
-          10,
-          2
+          11,
+          6
         ],
         [
           23,
@@ -45519,7 +46075,7 @@
     "limit_args": [],
     "limit_args2": "",
     "num": 1,
-    "order": 12,
+    "order": 2,
     "resource_num": 880,
     "resource_type": 14,
     "tag": 1,
@@ -45527,8 +46083,8 @@
       [
         [
           2024,
-          9,
-          12
+          10,
+          24
         ],
         [
           0,
@@ -45539,8 +46095,8 @@
       [
         [
           2024,
-          10,
-          2
+          11,
+          6
         ],
         [
           23,
@@ -45570,7 +46126,7 @@
     "limit_args": [],
     "limit_args2": "",
     "num": 1,
-    "order": 12,
+    "order": 2,
     "resource_num": 880,
     "resource_type": 14,
     "tag": 1,
@@ -45578,8 +46134,8 @@
       [
         [
           2024,
-          9,
-          12
+          10,
+          24
         ],
         [
           0,
@@ -45590,8 +46146,8 @@
       [
         [
           2024,
-          10,
-          2
+          11,
+          6
         ],
         [
           23,
@@ -45621,7 +46177,7 @@
     "limit_args": [],
     "limit_args2": "",
     "num": 1,
-    "order": 12,
+    "order": 2,
     "resource_num": 780,
     "resource_type": 14,
     "tag": 1,
@@ -45629,8 +46185,8 @@
       [
         [
           2024,
-          9,
-          12
+          10,
+          24
         ],
         [
           0,
@@ -45641,8 +46197,8 @@
       [
         [
           2024,
-          10,
-          2
+          11,
+          6
         ],
         [
           23,
@@ -45672,7 +46228,7 @@
     "limit_args": [],
     "limit_args2": "",
     "num": 1,
-    "order": 12,
+    "order": 2,
     "resource_num": 780,
     "resource_type": 14,
     "tag": 1,
@@ -45680,8 +46236,8 @@
       [
         [
           2024,
-          9,
-          12
+          10,
+          24
         ],
         [
           0,
@@ -45692,8 +46248,8 @@
       [
         [
           2024,
-          10,
-          2
+          11,
+          6
         ],
         [
           23,
@@ -45723,7 +46279,7 @@
     "limit_args": [],
     "limit_args2": "",
     "num": 1,
-    "order": 12,
+    "order": 2,
     "resource_num": 780,
     "resource_type": 14,
     "tag": 1,
@@ -45731,8 +46287,8 @@
       [
         [
           2024,
-          9,
-          12
+          10,
+          24
         ],
         [
           0,
@@ -45743,8 +46299,8 @@
       [
         [
           2024,
-          10,
-          2
+          11,
+          6
         ],
         [
           23,
@@ -51129,7 +51685,7 @@
     "limit_args": [],
     "limit_args2": "",
     "num": 1,
-    "order": 2,
+    "order": 3,
     "resource_num": 1180,
     "resource_type": 14,
     "tag": 2,
@@ -51180,7 +51736,7 @@
     "limit_args": [],
     "limit_args2": "",
     "num": 1,
-    "order": 2,
+    "order": 3,
     "resource_num": 1200,
     "resource_type": 14,
     "tag": 2,
@@ -51231,7 +51787,7 @@
     "limit_args": [],
     "limit_args2": "",
     "num": 1,
-    "order": 2,
+    "order": 3,
     "resource_num": 980,
     "resource_type": 14,
     "tag": 2,
@@ -51282,7 +51838,7 @@
     "limit_args": [],
     "limit_args2": "",
     "num": 1,
-    "order": 2,
+    "order": 3,
     "resource_num": 800,
     "resource_type": 14,
     "tag": 2,
@@ -51333,7 +51889,7 @@
     "limit_args": [],
     "limit_args2": "",
     "num": 1,
-    "order": 2,
+    "order": 3,
     "resource_num": 880,
     "resource_type": 14,
     "tag": 2,
@@ -51384,7 +51940,7 @@
     "limit_args": [],
     "limit_args2": "",
     "num": 1,
-    "order": 2,
+    "order": 3,
     "resource_num": 800,
     "resource_type": 14,
     "tag": 2,
@@ -51435,7 +51991,7 @@
     "limit_args": [],
     "limit_args2": "",
     "num": 1,
-    "order": 2,
+    "order": 3,
     "resource_num": 800,
     "resource_type": 14,
     "tag": 2,
@@ -51486,7 +52042,7 @@
     "limit_args": [],
     "limit_args2": "",
     "num": 1,
-    "order": 2,
+    "order": 3,
     "resource_num": 780,
     "resource_type": 14,
     "tag": 2,
@@ -51537,7 +52093,7 @@
     "limit_args": [],
     "limit_args2": "",
     "num": 1,
-    "order": 2,
+    "order": 3,
     "resource_num": 700,
     "resource_type": 14,
     "tag": 2,
@@ -51588,7 +52144,7 @@
     "limit_args": [],
     "limit_args2": "",
     "num": 1,
-    "order": 1,
+    "order": 2,
     "resource_num": 780,
     "resource_type": 14,
     "tag": 2,
@@ -51639,7 +52195,7 @@
     "limit_args": [],
     "limit_args2": "",
     "num": 1,
-    "order": 1,
+    "order": 2,
     "resource_num": 880,
     "resource_type": 14,
     "tag": 2,
@@ -51690,7 +52246,7 @@
     "limit_args": [],
     "limit_args2": "",
     "num": 1,
-    "order": 1,
+    "order": 2,
     "resource_num": 980,
     "resource_type": 14,
     "tag": 2,
@@ -51741,7 +52297,7 @@
     "limit_args": [],
     "limit_args2": "",
     "num": 1,
-    "order": 1,
+    "order": 2,
     "resource_num": 1200,
     "resource_type": 14,
     "tag": 2,
@@ -51792,7 +52348,7 @@
     "limit_args": [],
     "limit_args2": "",
     "num": 1,
-    "order": 1,
+    "order": 2,
     "resource_num": 900,
     "resource_type": 14,
     "tag": 2,
@@ -51843,7 +52399,7 @@
     "limit_args": [],
     "limit_args2": "",
     "num": 1,
-    "order": 1,
+    "order": 2,
     "resource_num": 800,
     "resource_type": 14,
     "tag": 2,
@@ -51894,7 +52450,7 @@
     "limit_args": [],
     "limit_args2": "",
     "num": 1,
-    "order": 1,
+    "order": 2,
     "resource_num": 900,
     "resource_type": 14,
     "tag": 2,
@@ -51945,7 +52501,7 @@
     "limit_args": [],
     "limit_args2": "",
     "num": 1,
-    "order": 1,
+    "order": 2,
     "resource_num": 1200,
     "resource_type": 14,
     "tag": 2,
@@ -51967,6 +52523,465 @@
           2024,
           10,
           2
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
+    "time_second": 0,
+    "type": 6,
+    "type_order": 0
+  },
+  "71061": {
+    "collaboration_skin_time": "",
+    "desc": "购买皮肤:240926白龙日本刀联动换装",
+    "discount": 0,
+    "discount_time": [],
+    "effect_args": [
+      399053
+    ],
+    "genre": "skin_shop",
+    "group": 0,
+    "group_buy_count": 0,
+    "group_limit": 0,
+    "group_type": 0,
+    "id": 71061,
+    "limit_args": [],
+    "limit_args2": "",
+    "num": 1,
+    "order": 1,
+    "resource_num": 880,
+    "resource_type": 14,
+    "tag": 2,
+    "time": [
+      [
+        [
+          2024,
+          9,
+          26
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2024,
+          10,
+          9
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
+    "time_second": 0,
+    "type": 6,
+    "type_order": 0
+  },
+  "71062": {
+    "collaboration_skin_time": "",
+    "desc": "购买皮肤:241024冈依沙瓦号万圣皮肤",
+    "discount": 0,
+    "discount_time": [],
+    "effect_args": [
+      9600071
+    ],
+    "genre": "skin_shop",
+    "group": 0,
+    "group_buy_count": 0,
+    "group_limit": 0,
+    "group_type": 0,
+    "id": 71062,
+    "limit_args": [],
+    "limit_args2": "",
+    "num": 1,
+    "order": 1,
+    "resource_num": 980,
+    "resource_type": 14,
+    "tag": 2,
+    "time": [
+      [
+        [
+          2024,
+          10,
+          24
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2024,
+          11,
+          6
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
+    "time_second": 0,
+    "type": 6,
+    "type_order": 0
+  },
+  "71063": {
+    "collaboration_skin_time": "",
+    "desc": "购买皮肤:241024幻想号万圣皮肤",
+    "discount": 0,
+    "discount_time": [],
+    "effect_args": [
+      9600081
+    ],
+    "genre": "skin_shop",
+    "group": 0,
+    "group_buy_count": 0,
+    "group_limit": 0,
+    "group_type": 0,
+    "id": 71063,
+    "limit_args": [],
+    "limit_args2": "",
+    "num": 1,
+    "order": 1,
+    "resource_num": 880,
+    "resource_type": 14,
+    "tag": 2,
+    "time": [
+      [
+        [
+          2024,
+          10,
+          24
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2024,
+          11,
+          6
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
+    "time_second": 0,
+    "type": 6,
+    "type_order": 0
+  },
+  "71064": {
+    "collaboration_skin_time": "",
+    "desc": "购买皮肤:241024和睦号万圣皮肤",
+    "discount": 0,
+    "discount_time": [],
+    "effect_args": [
+      9600091
+    ],
+    "genre": "skin_shop",
+    "group": 0,
+    "group_buy_count": 0,
+    "group_limit": 0,
+    "group_type": 0,
+    "id": 71064,
+    "limit_args": [],
+    "limit_args2": "",
+    "num": 1,
+    "order": 1,
+    "resource_num": 980,
+    "resource_type": 14,
+    "tag": 2,
+    "time": [
+      [
+        [
+          2024,
+          10,
+          24
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2024,
+          11,
+          6
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
+    "time_second": 0,
+    "type": 6,
+    "type_order": 0
+  },
+  "71065": {
+    "collaboration_skin_time": "",
+    "desc": "购买皮肤:241024朴茨茅斯冒险号万圣皮肤",
+    "discount": 0,
+    "discount_time": [],
+    "effect_args": [
+      9600101
+    ],
+    "genre": "skin_shop",
+    "group": 0,
+    "group_buy_count": 0,
+    "group_limit": 0,
+    "group_type": 0,
+    "id": 71065,
+    "limit_args": [],
+    "limit_args2": "",
+    "num": 1,
+    "order": 1,
+    "resource_num": 780,
+    "resource_type": 14,
+    "tag": 2,
+    "time": [
+      [
+        [
+          2024,
+          10,
+          24
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2024,
+          11,
+          6
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
+    "time_second": 0,
+    "type": 6,
+    "type_order": 0
+  },
+  "71066": {
+    "collaboration_skin_time": "",
+    "desc": "购买皮肤:241024海豚号万圣皮肤",
+    "discount": 0,
+    "discount_time": [],
+    "effect_args": [
+      9600111
+    ],
+    "genre": "skin_shop",
+    "group": 0,
+    "group_buy_count": 0,
+    "group_limit": 0,
+    "group_type": 0,
+    "id": 71066,
+    "limit_args": [],
+    "limit_args2": "",
+    "num": 1,
+    "order": 1,
+    "resource_num": 780,
+    "resource_type": 14,
+    "tag": 2,
+    "time": [
+      [
+        [
+          2024,
+          10,
+          24
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2024,
+          11,
+          6
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
+    "time_second": 0,
+    "type": 6,
+    "type_order": 0
+  },
+  "71067": {
+    "collaboration_skin_time": "",
+    "desc": "购买皮肤:241024尾张万圣皮肤",
+    "discount": 0,
+    "discount_time": [],
+    "effect_args": [
+      305132
+    ],
+    "genre": "skin_shop",
+    "group": 0,
+    "group_buy_count": 0,
+    "group_limit": 0,
+    "group_type": 0,
+    "id": 71067,
+    "limit_args": [],
+    "limit_args2": "",
+    "num": 1,
+    "order": 1,
+    "resource_num": 1180,
+    "resource_type": 14,
+    "tag": 2,
+    "time": [
+      [
+        [
+          2024,
+          10,
+          24
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2024,
+          11,
+          6
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
+    "time_second": 0,
+    "type": 6,
+    "type_order": 0
+  },
+  "71068": {
+    "collaboration_skin_time": "",
+    "desc": "购买皮肤:241024布里斯托尔万圣皮肤",
+    "discount": 0,
+    "discount_time": [],
+    "effect_args": [
+      101492
+    ],
+    "genre": "skin_shop",
+    "group": 0,
+    "group_buy_count": 0,
+    "group_limit": 0,
+    "group_type": 0,
+    "id": 71068,
+    "limit_args": [],
+    "limit_args2": "",
+    "num": 1,
+    "order": 1,
+    "resource_num": 880,
+    "resource_type": 14,
+    "tag": 2,
+    "time": [
+      [
+        [
+          2024,
+          10,
+          24
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2024,
+          11,
+          6
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
+    "time_second": 0,
+    "type": 6,
+    "type_order": 0
+  },
+  "71069": {
+    "collaboration_skin_time": "",
+    "desc": "购买皮肤:241024爱宕万圣皮肤",
+    "discount": 0,
+    "discount_time": [],
+    "effect_args": [
+      303125
+    ],
+    "genre": "skin_shop",
+    "group": 0,
+    "group_buy_count": 0,
+    "group_limit": 0,
+    "group_type": 0,
+    "id": 71069,
+    "limit_args": [],
+    "limit_args2": "",
+    "num": 1,
+    "order": 1,
+    "resource_num": 980,
+    "resource_type": 14,
+    "tag": 2,
+    "time": [
+      [
+        [
+          2024,
+          10,
+          24
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2024,
+          11,
+          6
         ],
         [
           23,
@@ -58820,14 +59835,14 @@
     "num": 1,
     "order": 1,
     "resource_num": 1,
-    "resource_type": 272,
+    "resource_type": 434,
     "tag": 0,
     "time": [
       [
         [
-          2022,
-          7,
-          28
+          2024,
+          10,
+          17
         ],
         [
           0,
@@ -58837,9 +59852,9 @@
       ],
       [
         [
-          2022,
-          8,
-          10
+          2024,
+          10,
+          23
         ],
         [
           23,
@@ -58871,14 +59886,14 @@
     "num": 1,
     "order": 2,
     "resource_num": 1,
-    "resource_type": 272,
+    "resource_type": 434,
     "tag": 0,
     "time": [
       [
         [
-          2022,
-          7,
-          28
+          2024,
+          10,
+          17
         ],
         [
           0,
@@ -58888,9 +59903,9 @@
       ],
       [
         [
-          2022,
-          8,
-          10
+          2024,
+          10,
+          23
         ],
         [
           23,
@@ -58922,14 +59937,14 @@
     "num": 1,
     "order": 3,
     "resource_num": 1,
-    "resource_type": 272,
+    "resource_type": 434,
     "tag": 0,
     "time": [
       [
         [
-          2022,
-          7,
-          28
+          2024,
+          10,
+          17
         ],
         [
           0,
@@ -58939,9 +59954,9 @@
       ],
       [
         [
-          2022,
-          8,
-          10
+          2024,
+          10,
+          23
         ],
         [
           23,
@@ -64921,6 +65936,159 @@
     "type": 6,
     "type_order": 0
   },
+  "90291": {
+    "collaboration_skin_time": "",
+    "desc": "241024限时皮肤体验：尾张换装",
+    "discount": 0,
+    "discount_time": [],
+    "effect_args": [
+      305132
+    ],
+    "genre": "skin_shop_timelimit",
+    "group": 0,
+    "group_buy_count": 0,
+    "group_limit": 0,
+    "group_type": 0,
+    "id": 90291,
+    "limit_args": [],
+    "limit_args2": "",
+    "num": 1,
+    "order": 1,
+    "resource_num": 1,
+    "resource_type": 436,
+    "tag": 0,
+    "time": [
+      [
+        [
+          2024,
+          10,
+          24
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2024,
+          11,
+          6
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
+    "time_second": 172800,
+    "type": 6,
+    "type_order": 0
+  },
+  "90292": {
+    "collaboration_skin_time": "",
+    "desc": "241024限时皮肤体验：冈依沙瓦号换装",
+    "discount": 0,
+    "discount_time": [],
+    "effect_args": [
+      9600071
+    ],
+    "genre": "skin_shop_timelimit",
+    "group": 0,
+    "group_buy_count": 0,
+    "group_limit": 0,
+    "group_type": 0,
+    "id": 90292,
+    "limit_args": [],
+    "limit_args2": "",
+    "num": 1,
+    "order": 2,
+    "resource_num": 1,
+    "resource_type": 436,
+    "tag": 0,
+    "time": [
+      [
+        [
+          2024,
+          10,
+          24
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2024,
+          11,
+          6
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
+    "time_second": 172800,
+    "type": 6,
+    "type_order": 0
+  },
+  "90293": {
+    "collaboration_skin_time": "",
+    "desc": "241024限时皮肤体验：和睦号换装",
+    "discount": 0,
+    "discount_time": [],
+    "effect_args": [
+      9600091
+    ],
+    "genre": "skin_shop_timelimit",
+    "group": 0,
+    "group_buy_count": 0,
+    "group_limit": 0,
+    "group_type": 0,
+    "id": 90293,
+    "limit_args": [],
+    "limit_args2": "",
+    "num": 1,
+    "order": 3,
+    "resource_num": 1,
+    "resource_type": 436,
+    "tag": 0,
+    "time": [
+      [
+        [
+          2024,
+          10,
+          24
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2024,
+          11,
+          6
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
+    "time_second": 172800,
+    "type": 6,
+    "type_order": 0
+  },
   "99047": {
     "collaboration_skin_time": "",
     "desc": "240815限时皮肤体验：匹兹堡皮肤",
@@ -65861,6 +67029,732 @@
     "time": "always",
     "time_second": 0,
     "type": 20,
+    "type_order": 0
+  },
+  "105001": {
+    "collaboration_skin_time": "",
+    "desc": "约克城换装",
+    "discount": 0,
+    "discount_time": [],
+    "effect_args": [
+      107052
+    ],
+    "genre": "cruise_skin",
+    "group": 0,
+    "group_buy_count": 0,
+    "group_limit": 0,
+    "group_type": 0,
+    "id": 105001,
+    "limit_args": [
+      [
+        "time",
+        1
+      ]
+    ],
+    "limit_args2": "",
+    "num": 1,
+    "order": 1,
+    "resource_num": 880,
+    "resource_type": 14,
+    "tag": 0,
+    "time": [
+      [
+        [
+          2024,
+          10,
+          1
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2034,
+          10,
+          1
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
+    "time_second": 0,
+    "type": 6,
+    "type_order": 0
+  },
+  "105002": {
+    "collaboration_skin_time": "",
+    "desc": "科罗拉多换装",
+    "discount": 0,
+    "discount_time": [],
+    "effect_args": [
+      105092
+    ],
+    "genre": "cruise_skin",
+    "group": 0,
+    "group_buy_count": 0,
+    "group_limit": 0,
+    "group_type": 0,
+    "id": 105002,
+    "limit_args": [
+      [
+        "time",
+        1
+      ]
+    ],
+    "limit_args2": "",
+    "num": 1,
+    "order": 1,
+    "resource_num": 880,
+    "resource_type": 14,
+    "tag": 0,
+    "time": [
+      [
+        [
+          2024,
+          10,
+          1
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2034,
+          10,
+          1
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
+    "time_second": 0,
+    "type": 6,
+    "type_order": 0
+  },
+  "105003": {
+    "collaboration_skin_time": "",
+    "desc": "哥伦比亚换装",
+    "discount": 0,
+    "discount_time": [],
+    "effect_args": [
+      102102
+    ],
+    "genre": "cruise_skin",
+    "group": 0,
+    "group_buy_count": 0,
+    "group_limit": 0,
+    "group_type": 0,
+    "id": 105003,
+    "limit_args": [
+      [
+        "time",
+        1
+      ]
+    ],
+    "limit_args2": "",
+    "num": 1,
+    "order": 1,
+    "resource_num": 880,
+    "resource_type": 14,
+    "tag": 0,
+    "time": [
+      [
+        [
+          2024,
+          10,
+          1
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2034,
+          10,
+          1
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
+    "time_second": 0,
+    "type": 6,
+    "type_order": 0
+  },
+  "106001": {
+    "collaboration_skin_time": "",
+    "desc": "流星鱼雷",
+    "discount": 0,
+    "discount_time": [],
+    "effect_args": [
+      2001
+    ],
+    "genre": "cruise_gearskin",
+    "group": 10,
+    "group_buy_count": 1,
+    "group_limit": 4,
+    "group_type": 3,
+    "id": 106001,
+    "limit_args": [
+      [
+        "time",
+        9
+      ]
+    ],
+    "limit_args2": "",
+    "num": 1,
+    "order": 1,
+    "resource_num": 100,
+    "resource_type": 14,
+    "tag": 0,
+    "time": [
+      [
+        [
+          2024,
+          10,
+          1
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2034,
+          10,
+          1
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
+    "time_second": 0,
+    "type": 9,
+    "type_order": 0
+  },
+  "106002": {
+    "collaboration_skin_time": "",
+    "desc": "彗星炮弹",
+    "discount": 0,
+    "discount_time": [],
+    "effect_args": [
+      2002
+    ],
+    "genre": "cruise_gearskin",
+    "group": 10,
+    "group_buy_count": 1,
+    "group_limit": 4,
+    "group_type": 3,
+    "id": 106002,
+    "limit_args": [
+      [
+        "time",
+        9
+      ]
+    ],
+    "limit_args2": "",
+    "num": 1,
+    "order": 1,
+    "resource_num": 100,
+    "resource_type": 14,
+    "tag": 0,
+    "time": [
+      [
+        [
+          2024,
+          10,
+          1
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2034,
+          10,
+          1
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
+    "time_second": 0,
+    "type": 9,
+    "type_order": 0
+  },
+  "106003": {
+    "collaboration_skin_time": "",
+    "desc": "进击啾啾之星",
+    "discount": 0,
+    "discount_time": [],
+    "effect_args": [
+      2003
+    ],
+    "genre": "cruise_gearskin",
+    "group": 10,
+    "group_buy_count": 1,
+    "group_limit": 4,
+    "group_type": 3,
+    "id": 106003,
+    "limit_args": [
+      [
+        "time",
+        9
+      ]
+    ],
+    "limit_args2": "",
+    "num": 1,
+    "order": 1,
+    "resource_num": 100,
+    "resource_type": 14,
+    "tag": 0,
+    "time": [
+      [
+        [
+          2024,
+          10,
+          1
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2034,
+          10,
+          1
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
+    "time_second": 0,
+    "type": 9,
+    "type_order": 0
+  },
+  "106004": {
+    "collaboration_skin_time": "",
+    "desc": "环绕啾啾之星",
+    "discount": 0,
+    "discount_time": [],
+    "effect_args": [
+      2004
+    ],
+    "genre": "cruise_gearskin",
+    "group": 10,
+    "group_buy_count": 1,
+    "group_limit": 4,
+    "group_type": 3,
+    "id": 106004,
+    "limit_args": [
+      [
+        "time",
+        9
+      ]
+    ],
+    "limit_args2": "",
+    "num": 1,
+    "order": 1,
+    "resource_num": 100,
+    "resource_type": 14,
+    "tag": 0,
+    "time": [
+      [
+        [
+          2024,
+          10,
+          1
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2034,
+          10,
+          1
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
+    "time_second": 0,
+    "type": 9,
+    "type_order": 0
+  },
+  "260101": {
+    "collaboration_skin_time": "",
+    "desc": "宿舍1000物资购买花束",
+    "discount": 0,
+    "discount_time": [],
+    "effect_args": [
+      1021002
+    ],
+    "genre": "dorm3d_gift",
+    "group": 8,
+    "group_buy_count": 1,
+    "group_limit": 4,
+    "group_type": 2,
+    "id": 260101,
+    "limit_args": [],
+    "limit_args2": "",
+    "num": 4,
+    "order": 1,
+    "resource_num": 1000,
+    "resource_type": 1,
+    "tag": 0,
+    "time": "always",
+    "time_second": 0,
+    "type": 27,
+    "type_order": 0
+  },
+  "260102": {
+    "collaboration_skin_time": "",
+    "desc": "宿舍2000物资购买花束",
+    "discount": 0,
+    "discount_time": [],
+    "effect_args": [
+      1021002
+    ],
+    "genre": "dorm3d_gift",
+    "group": 8,
+    "group_buy_count": 1,
+    "group_limit": 5,
+    "group_type": 2,
+    "id": 260102,
+    "limit_args": [],
+    "limit_args2": "",
+    "num": 1,
+    "order": 1,
+    "resource_num": 2000,
+    "resource_type": 1,
+    "tag": 0,
+    "time": "always",
+    "time_second": 0,
+    "type": 27,
+    "type_order": 0
+  },
+  "260103": {
+    "collaboration_skin_time": "",
+    "desc": "宿舍4000物资购买花束",
+    "discount": 0,
+    "discount_time": [],
+    "effect_args": [
+      1021002
+    ],
+    "genre": "dorm3d_gift",
+    "group": 8,
+    "group_buy_count": 1,
+    "group_limit": 6,
+    "group_type": 2,
+    "id": 260103,
+    "limit_args": [],
+    "limit_args2": "",
+    "num": 1,
+    "order": 1,
+    "resource_num": 4000,
+    "resource_type": 1,
+    "tag": 0,
+    "time": "always",
+    "time_second": 0,
+    "type": 27,
+    "type_order": 0
+  },
+  "260104": {
+    "collaboration_skin_time": "",
+    "desc": "宿舍6000物资购买花束",
+    "discount": 0,
+    "discount_time": [],
+    "effect_args": [
+      1021002
+    ],
+    "genre": "dorm3d_gift",
+    "group": 8,
+    "group_buy_count": 1,
+    "group_limit": 7,
+    "group_type": 2,
+    "id": 260104,
+    "limit_args": [],
+    "limit_args2": "",
+    "num": 1,
+    "order": 1,
+    "resource_num": 6000,
+    "resource_type": 1,
+    "tag": 0,
+    "time": "always",
+    "time_second": 0,
+    "type": 27,
+    "type_order": 0
+  },
+  "260105": {
+    "collaboration_skin_time": "",
+    "desc": "宿舍8000物资购买花束",
+    "discount": 0,
+    "discount_time": [],
+    "effect_args": [
+      1021002
+    ],
+    "genre": "dorm3d_gift",
+    "group": 8,
+    "group_buy_count": 1,
+    "group_limit": 8,
+    "group_type": 2,
+    "id": 260105,
+    "limit_args": [],
+    "limit_args2": "",
+    "num": 1,
+    "order": 1,
+    "resource_num": 8000,
+    "resource_type": 1,
+    "tag": 0,
+    "time": "always",
+    "time_second": 0,
+    "type": 27,
+    "type_order": 0
+  },
+  "260201": {
+    "collaboration_skin_time": "",
+    "desc": "宿舍30钻石购买蛋糕礼盒",
+    "discount": 0,
+    "discount_time": [],
+    "effect_args": [
+      1021003
+    ],
+    "genre": "dorm3d_gift",
+    "group": 9,
+    "group_buy_count": 1,
+    "group_limit": 3,
+    "group_type": 2,
+    "id": 260201,
+    "limit_args": [],
+    "limit_args2": "",
+    "num": 1,
+    "order": 1,
+    "resource_num": 30,
+    "resource_type": 14,
+    "tag": 0,
+    "time": "always",
+    "time_second": 0,
+    "type": 27,
+    "type_order": 0
+  },
+  "260202": {
+    "collaboration_skin_time": "",
+    "desc": "宿舍60钻石购买蛋糕礼盒",
+    "discount": 0,
+    "discount_time": [],
+    "effect_args": [
+      1021003
+    ],
+    "genre": "dorm3d_gift",
+    "group": 9,
+    "group_buy_count": 1,
+    "group_limit": 5,
+    "group_type": 2,
+    "id": 260202,
+    "limit_args": [],
+    "limit_args2": "",
+    "num": 1,
+    "order": 1,
+    "resource_num": 60,
+    "resource_type": 14,
+    "tag": 0,
+    "time": "always",
+    "time_second": 0,
+    "type": 27,
+    "type_order": 0
+  },
+  "260301": {
+    "collaboration_skin_time": "",
+    "desc": "宿舍280钻石购买清洁工具",
+    "discount": 0,
+    "discount_time": [],
+    "effect_args": [
+      2022001
+    ],
+    "genre": "dorm3d_gift",
+    "group": 0,
+    "group_buy_count": 0,
+    "group_limit": 0,
+    "group_type": 0,
+    "id": 260301,
+    "limit_args": [
+      [
+        "count",
+        0,
+        1
+      ]
+    ],
+    "limit_args2": "",
+    "num": 1,
+    "order": 1,
+    "resource_num": 280,
+    "resource_type": 14,
+    "tag": 0,
+    "time": "always",
+    "time_second": 0,
+    "type": 27,
+    "type_order": 0
+  },
+  "270101": {
+    "collaboration_skin_time": "",
+    "desc": "宿舍480钻石购买甜蜜心事",
+    "discount": 0,
+    "discount_time": [],
+    "effect_args": [
+      121
+    ],
+    "genre": "dorm3d_gift",
+    "group": 0,
+    "group_buy_count": 0,
+    "group_limit": 0,
+    "group_type": 0,
+    "id": 270101,
+    "limit_args": [
+      [
+        "count",
+        0,
+        1
+      ]
+    ],
+    "limit_args2": "",
+    "num": 1,
+    "order": 1,
+    "resource_num": 480,
+    "resource_type": 14,
+    "tag": 0,
+    "time": "always",
+    "time_second": 0,
+    "type": 26,
+    "type_order": 0
+  },
+  "270102": {
+    "collaboration_skin_time": "",
+    "desc": "天狼星邀请函",
+    "discount": 0,
+    "discount_time": [],
+    "effect_args": [
+      1021003
+    ],
+    "genre": "dorm3d_gift",
+    "group": 0,
+    "group_buy_count": 0,
+    "group_limit": 0,
+    "group_type": 0,
+    "id": 270102,
+    "limit_args": [
+      [
+        "count",
+        0,
+        1
+      ]
+    ],
+    "limit_args2": "",
+    "num": 1,
+    "order": 1,
+    "resource_num": 800,
+    "resource_type": 14,
+    "tag": 0,
+    "time": "always",
+    "time_second": 0,
+    "type": 27,
+    "type_order": 0
+  },
+  "270103": {
+    "collaboration_skin_time": "",
+    "desc": "宿舍480钻石购买午后遐乡 ",
+    "discount": 0,
+    "discount_time": [],
+    "effect_args": [
+      122
+    ],
+    "genre": "dorm3d_gift",
+    "group": 0,
+    "group_buy_count": 0,
+    "group_limit": 0,
+    "group_type": 0,
+    "id": 270103,
+    "limit_args": [
+      [
+        "count",
+        0,
+        1
+      ]
+    ],
+    "limit_args2": "",
+    "num": 1,
+    "order": 1,
+    "resource_num": 480,
+    "resource_type": 14,
+    "tag": 0,
+    "time": "always",
+    "time_second": 0,
+    "type": 26,
+    "type_order": 0
+  },
+  "270110": {
+    "collaboration_skin_time": "",
+    "desc": "沙滩邀请天狼星解锁",
+    "discount": 100,
+    "discount_time": "always",
+    "effect_args": "",
+    "genre": "",
+    "group": 0,
+    "group_buy_count": 0,
+    "group_limit": 0,
+    "group_type": 0,
+    "id": 270110,
+    "limit_args": [],
+    "limit_args2": "",
+    "num": 1,
+    "order": 1,
+    "resource_num": 800,
+    "resource_type": 14,
+    "tag": 0,
+    "time": "always",
+    "time_second": 0,
+    "type": 32,
     "type_order": 0
   }
 }
