@@ -7399,6 +7399,86 @@
     "themeId": 0,
     "type": 7
   },
+  "291": {
+    "advice": 0,
+    "belong": 1,
+    "can_rotate": 0,
+    "can_trigger": [
+      0
+    ],
+    "canputon": 0,
+    "canputonGrid": [],
+    "comfortable": 4,
+    "count": 1,
+    "deblocking": 1,
+    "describe": "Pull the lever and you might get a big prize!",
+    "dir": 0,
+    "dorm_id": 0,
+    "effect": "",
+    "followBone": [
+      "char",
+      -1
+    ],
+    "gain_by": "",
+    "icon": "choujiangtuicheicon",
+    "id": 291,
+    "interAction_group": [],
+    "is_3d_obj": 0,
+    "is_get_time_note": 0,
+    "level": 1,
+    "name": "Traditional Garapon Wheel",
+    "offset": [],
+    "picture": "",
+    "rarity": 4,
+    "size": [
+      4,
+      2
+    ],
+    "spine": [
+      [
+        "choujiangtuiche",
+        "normal"
+      ],
+      [],
+      [
+        [
+          0,
+          0
+        ],
+        [
+          [
+            "dance1",
+            null,
+            "dance"
+          ]
+        ],
+        [
+          null,
+          1
+        ],
+        [
+          0
+        ],
+        [
+          [
+            "dance1",
+            "dance2",
+            "dance3"
+          ]
+        ]
+      ],
+      [],
+      [
+        0,
+        0
+      ]
+    ],
+    "spine_action_replace": "",
+    "spine_extra": "",
+    "tag": 6,
+    "themeId": 0,
+    "type": 2
+  },
   "1001": {
     "advice": 0,
     "belong": 0,
@@ -134430,7 +134510,7 @@
     "comfortable": 4,
     "count": 1,
     "deblocking": 1,
-    "describe": "They say that under the castle lies the darkest dungeon in all the land.",
+    "describe": "Treasure can be enticing, but never jump headfirst into a chest!",
     "dir": 0,
     "dorm_id": 0,
     "effect": "",
@@ -134441,7 +134521,7 @@
     "is_3d_obj": 0,
     "is_get_time_note": 0,
     "level": 1,
-    "name": "Creepy Castle",
+    "name": "Shadowy Mimic",
     "offset": [],
     "picture": "",
     "rarity": 4,
@@ -134473,7 +134553,7 @@
     "comfortable": 4,
     "count": 1,
     "deblocking": 1,
-    "describe": "This one may be an ancient guardian.",
+    "describe": "They say that under the castle lies the darkest dungeon in all the land.",
     "dir": 0,
     "dorm_id": 0,
     "effect": "",
@@ -134484,7 +134564,7 @@
     "is_3d_obj": 0,
     "is_get_time_note": 0,
     "level": 1,
-    "name": "Shadowy Statue",
+    "name": "Creepy Castle",
     "offset": [],
     "picture": "",
     "rarity": 4,
@@ -134516,7 +134596,7 @@
     "comfortable": 3,
     "count": 1,
     "deblocking": 1,
-    "describe": "Treasure can be enticing, but never jump headfirst into a chest!",
+    "describe": "This one may be an ancient guardian.",
     "dir": 0,
     "dorm_id": 0,
     "effect": "",
@@ -134527,7 +134607,7 @@
     "is_3d_obj": 0,
     "is_get_time_note": 0,
     "level": 1,
-    "name": "Shadowy Mimic",
+    "name": "Shadowy Statue",
     "offset": [],
     "picture": "gb/diaoxianggb",
     "rarity": 3,
@@ -134553,7 +134633,7 @@
     "comfortable": 4,
     "count": 1,
     "deblocking": 1,
-    "describe": "\"You best start believing in ghost stories. You're in one.\"",
+    "describe": "You best start believing in ghost stories. You're in one.",
     "dir": 0,
     "dorm_id": 0,
     "effect": "",
@@ -134830,7 +134910,7 @@
     "comfortable": 4,
     "count": 2,
     "deblocking": 1,
-    "describe": "Only the fates know what purpose it serves.",
+    "describe": "Likely the best place to seek refuge from the frightening night.",
     "dir": 0,
     "dorm_id": 0,
     "effect": "",
@@ -134845,7 +134925,7 @@
     "is_3d_obj": 0,
     "is_get_time_note": 0,
     "level": 1,
-    "name": "Shadowy Altar",
+    "name": "Shadowy Tavern",
     "offset": [],
     "picture": "",
     "rarity": 4,
@@ -134900,7 +134980,7 @@
     "comfortable": 4,
     "count": 1,
     "deblocking": 1,
-    "describe": "Likely the best place to seek refuge from the frightening night.",
+    "describe": "There may be valuable clues hidden in there...",
     "dir": 0,
     "dorm_id": 0,
     "effect": "",
@@ -134911,7 +134991,7 @@
     "is_3d_obj": 0,
     "is_get_time_note": 0,
     "level": 1,
-    "name": "Shadowy Tavern",
+    "name": "Shadowy Bushes",
     "offset": [],
     "picture": "",
     "rarity": 4,
@@ -134943,7 +135023,7 @@
     "comfortable": 3,
     "count": 1,
     "deblocking": 1,
-    "describe": "There may be valuable clues hidden in there...",
+    "describe": "Such a dim light can scarcely ward off the darkness.",
     "dir": 0,
     "dorm_id": 0,
     "effect": "",
@@ -134958,7 +135038,7 @@
     "is_3d_obj": 0,
     "is_get_time_note": 0,
     "level": 1,
-    "name": "Shadowy Bushes",
+    "name": "Creepy Streetlight",
     "offset": [],
     "picture": "",
     "rarity": 3,
@@ -135013,7 +135093,7 @@
     "comfortable": 4,
     "count": 1,
     "deblocking": 1,
-    "describe": "Such a dim light can scarcely ward off the darkness.",
+    "describe": "Only the fates know what purpose it serves.",
     "dir": 0,
     "dorm_id": 0,
     "effect": "",
@@ -135028,7 +135108,7 @@
     "is_3d_obj": 0,
     "is_get_time_note": 0,
     "level": 1,
-    "name": "Creepy Streetlight",
+    "name": "Shadowy Altar",
     "offset": [],
     "picture": "",
     "rarity": 4,
@@ -135234,6 +135314,7 @@
     287,
     288,
     289,
+    291,
     100002,
     100003,
     100004,
