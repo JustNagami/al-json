@@ -4,12 +4,12 @@
     "id": 1,
     "name": "event_all",
     "order": 1,
-    "param": "5621",
+    "param": "5679",
     "pic": "event_all",
     "text_pic": "text_event_all",
     "time": [
       "default",
-      5621
+      5679
     ],
     "type": 3
   },
@@ -54,14 +54,11 @@
     "name": "event_minigame",
     "order": 1,
     "param": [
-      "DREAMLAND_PREVIEW"
+      "TOLOVE_COLLAB_BACKHILL"
     ],
     "pic": "event_minigame",
     "text_pic": "text_event_minigame",
-    "time": [
-      "default",
-      5560
-    ],
+    "time": "stop",
     "type": 2
   },
   "30": {
@@ -234,6 +231,38 @@
     ],
     "type": 7
   },
+  "106": {
+    "group_id": 11,
+    "id": 106,
+    "name": "event_blackFriday",
+    "order": 1,
+    "param": [
+      "BlackFridaySales"
+    ],
+    "pic": "event_blackfriday",
+    "text_pic": "text_event_blackfriday",
+    "time": [
+      "default",
+      5650
+    ],
+    "type": 2
+  },
+  "107": {
+    "group_id": 12,
+    "id": 107,
+    "name": "event_tolove",
+    "order": 1,
+    "param": [
+      "TOLOVE_COLLAB_BACKHILL"
+    ],
+    "pic": "event_minigame",
+    "text_pic": "text_event_minigame",
+    "time": [
+      "default",
+      5679
+    ],
+    "type": 2
+  },
   "all": [
     1,
     2,
@@ -251,7 +280,9 @@
     102,
     103,
     104,
-    105
+    105,
+    106,
+    107
   ],
   "get_id_list_by_name": {
     "event_all": [
@@ -264,6 +295,9 @@
     ],
     "event_Atelier": [
       80
+    ],
+    "event_blackFriday": [
+      106
     ],
     "event_boat_ad_game": [
       105
@@ -300,6 +334,9 @@
     ],
     "event_series": [
       90
+    ],
+    "event_tolove": [
+      107
     ]
   }
 }
