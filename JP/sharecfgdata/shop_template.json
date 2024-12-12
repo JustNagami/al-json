@@ -38692,7 +38692,7 @@
     "limit_args": [],
     "limit_args2": "",
     "num": 1,
-    "order": 12,
+    "order": 1,
     "resource_num": 900,
     "resource_type": 14,
     "tag": 1,
@@ -38700,7 +38700,7 @@
       [
         [
           2024,
-          9,
+          12,
           12
         ],
         [
@@ -38712,8 +38712,8 @@
       [
         [
           2024,
-          10,
-          2
+          12,
+          19
         ],
         [
           23,
@@ -43547,7 +43547,7 @@
     "limit_args": [],
     "limit_args2": "",
     "num": 1,
-    "order": 12,
+    "order": 1,
     "resource_num": 780,
     "resource_type": 14,
     "tag": 1,
@@ -43555,7 +43555,7 @@
       [
         [
           2024,
-          9,
+          12,
           12
         ],
         [
@@ -43567,8 +43567,8 @@
       [
         [
           2024,
-          10,
-          2
+          12,
+          19
         ],
         [
           23,
@@ -47270,7 +47270,7 @@
     "limit_args": [],
     "limit_args2": "",
     "num": 1,
-    "order": 12,
+    "order": 1,
     "resource_num": 1180,
     "resource_type": 14,
     "tag": 1,
@@ -47278,7 +47278,7 @@
       [
         [
           2024,
-          9,
+          12,
           12
         ],
         [
@@ -47290,8 +47290,8 @@
       [
         [
           2024,
-          10,
-          2
+          12,
+          19
         ],
         [
           23,
@@ -47321,7 +47321,7 @@
     "limit_args": [],
     "limit_args2": "",
     "num": 1,
-    "order": 12,
+    "order": 1,
     "resource_num": 980,
     "resource_type": 14,
     "tag": 1,
@@ -47329,7 +47329,7 @@
       [
         [
           2024,
-          9,
+          12,
           12
         ],
         [
@@ -47341,8 +47341,8 @@
       [
         [
           2024,
-          10,
-          2
+          12,
+          19
         ],
         [
           23,
@@ -67266,7 +67266,7 @@
   },
   "100001": {
     "collaboration_skin_time": "",
-    "desc": "資金",
+    "desc": "大作戦指令書n",
     "discount": 0,
     "discount_time": [],
     "effect_args": [
@@ -67297,7 +67297,7 @@
   },
   "100002": {
     "collaboration_skin_time": "",
-    "desc": "大作戦指令書",
+    "desc": "資金n",
     "discount": 0,
     "discount_time": [],
     "effect_args": [
@@ -68005,6 +68005,38 @@
     "group_limit": 0,
     "group_type": 0,
     "id": 100106,
+    "limit_args": [
+      [
+        "time",
+        1
+      ]
+    ],
+    "limit_args2": "",
+    "num": 1,
+    "order": 1,
+    "resource_num": 800,
+    "resource_type": 3002,
+    "tag": 0,
+    "time": "always",
+    "time_second": 0,
+    "type": 20,
+    "type_order": 0
+  },
+  "100107": {
+    "collaboration_skin_time": "",
+    "desc": "档案坐标记录仪8",
+    "discount": 0,
+    "discount_time": [],
+    "effect_args": [
+      2057,
+      10070
+    ],
+    "genre": "world_collection_task",
+    "group": 0,
+    "group_buy_count": 0,
+    "group_limit": 0,
+    "group_type": 0,
+    "id": 100107,
     "limit_args": [
       [
         "time",

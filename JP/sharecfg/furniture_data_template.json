@@ -7825,7 +7825,10 @@
     "belong": 1,
     "can_rotate": 0,
     "can_trigger": [
-      1
+      2,
+      [
+        "story-richang-rosy-short"
+      ]
     ],
     "canputon": 0,
     "canputonGrid": [],
@@ -7839,10 +7842,6 @@
     "gain_by": "危険発明接近中！",
     "icon": "tolovexunzhangicon",
     "id": 292,
-    "interaction_bgm": [
-      0,
-      "story-richang-rosy-short"
-    ],
     "interAction_group": [],
     "is_3d_obj": 0,
     "is_get_time_note": 1,
