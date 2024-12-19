@@ -1798,6 +1798,9 @@
   "battle_text_haidao_2": {
     "tip": "<color=#f1f102>/// The Nebula Guardian attacks! São Martinho has powered up! ///</color>"
   },
+  "battle_text_lumei_1": {
+    "tip": "\"Don't just stand there! Follow me!\""
+  },
   "battle_text_luodeni_1": {
     "tip": "As the number of phantoms decreases, <color=#f1f102>Rodney META grows stronger.</color>"
   },
@@ -2559,7 +2562,7 @@
     "tip": "Janus, Manchester added to standard build pool!"
   },
   "buildship_new_tip": {
-    "tip": "Rate UP for Lala Satalin Deviluke, Golden Darkness, and more!"
+    "tip": "Get Fritz Rumey guaranteed with every 200 event builds (can be done up to 4 times)!"
   },
   "buildship_special_tip": {
     "tip": "Albion added to standard build pool!"
@@ -4735,7 +4738,7 @@
   "CurlingGame_tips1": {
     "tip": [
       {
-        "info": "- Overview -\n· Strategically position the swole Meowfficer and slide the curling stone as close to the red circle as you can to score points.\n· A new round of Manjuu Curling will be unlocked every day at midnight up to December 21st. Complete them all to obtain Southampton's Afternoon Impromptu skin.\n\n- How to Play -\n· Every round of Manjuu Curling consists of 3 curling stone slides. One new round a day is unlocked during the event period.\n· Press and hold the Meowfficer to change the curling stone's launch speed. The longer you press, the faster it will go. Let go when you wish to launch the curling stone.\n· While your finger is on the Meowfficer, you move it up and down on the screen to change the curling stone's course.\n· The curling stone's course will change if it bumps into an object.\n· When the curling stone comes to a stop, you will score points based on which circle it stopped inside. Stopping in the blue circle gives you 300 points, the yellow circle gives you 500 points, and the red circle gives you 1,000 points."
+        "info": "- Overview -\n· Strategically position the swole Meowfficer and slide the curling stone as close to the red circle as you can to score points.\n· A new round of Manjuu Curling will be unlocked every day at midnight up to December 25th.\n\n- How to Play -\n· Every round of Manjuu Curling consists of 3 curling stone slides. One new round a day is unlocked during the event period.\n· Press and hold the Meowfficer to change the curling stone's launch speed. The longer you hold, the faster it will go. Let go when you wish to launch the curling stone.\n· While your finger is on the Meowfficer, move it up and down on the screen to change the curling stone's course.\n· The curling stone's course will change if it bumps into an object.\n· When the curling stone comes to a stop, you will score points based on which circle it stopped inside. Stopping in the blue circle gives you 1,000 points, the yellow circle gives you 2,000 points, and the red circle gives you 3,000 points."
       }
     ]
   },
@@ -5053,6 +5056,9 @@
   "dorm3d_clothing_choose": {
     "tip": "Select Clothes"
   },
+  "dorm3d_collect_block_by_furniture": {
+    "tip": "This item has been replaced by $1, and cannot be obtained now."
+  },
   "dorm3d_collect_favor_plus": {
     "tip": "Bonus: Intimacy+"
   },
@@ -5133,6 +5139,9 @@
   },
   "dorm3d_furniture_count": {
     "tip": "Amount: $1"
+  },
+  "dorm3d_furniture_lack": {
+    "tip": "[Unobtained]"
   },
   "dorm3d_furniture_locked": {
     "tip": "Furniture Unavailable"
@@ -5280,6 +5289,12 @@
   },
   "dorm3d_purchase_confirm_tip": {
     "tip": "Excl."
+  },
+  "dorm3d_purchase_label_special": {
+    "tip": "Bonus"
+  },
+  "dorm3d_purchase_outtime": {
+    "tip": "Not currently available."
   },
   "dorm3d_purchase_weekly_limit": {
     "tip": "(Weekly purchase: $1/$2)"
@@ -9995,6 +10010,16 @@
         "y": 873
       }
     }
+  },
+  "help_starLightAlbum": {
+    "tip": [
+      {
+        "info": "- Commemorative Album -"
+      },
+      {
+        "info": "1.  The Commemorative Album tab has been added to the Memories screen. \n2.  During the event, you can complete event missions to receive <color=#92fc63>commemorative stickers</color>. Finishing your collection will award you with the Resistance Headquarters Building, a limited furniture piece, and the Stellar Resistance Medal. \n Note:   While the event is available, tapping the <color=#92fc63>Commemoration button on the event banner or the Commemorative Album tab under Memories</color>will bring you to the commemorative stickers menu. \n Note:   Following the end of the event, <color=#92fc63>you can only access the stickers menu from the Commemorative Album tab under Memories</color>. \n Note:   Commemorative stickers are earned by completing event missions. \n Note:   Rewards may be claimed up to January 8th."
+      }
+    ]
   },
   "help_sub_display": {
     "tip": "Attack Mode/Support Mode"
@@ -19846,6 +19871,9 @@
   "word_furniture": {
     "tip": "Furni"
   },
+  "word_gain_date": {
+    "tip": "获取时间："
+  },
   "word_gem": {
     "tip": "Gems"
   },
@@ -19872,6 +19900,9 @@
   },
   "word_got": {
     "tip": "Granted"
+  },
+  "word_got_pt": {
+    "tip": "已获得"
   },
   "word_guild_join_err1": {
     "tip": "You can't join multiple guilds."
@@ -19947,6 +19978,9 @@
   },
   "word_lightArmor": {
     "tip": "Light"
+  },
+  "word_limited_activity": {
+    "tip": "限时活动"
   },
   "word_live2dfiles_checkend": {
     "tip": "Tap to update"
@@ -20437,6 +20471,9 @@
   },
   "word_should_input": {
     "tip": "Your search query is empty."
+  },
+  "word_show_expire_content": {
+    "tip": "查看已无法获取的内容"
   },
   "word_show_extra_reward_at_fudai_dialog": {
     "tip": "(<color=#92fc63>Bonus $1</color>)"
