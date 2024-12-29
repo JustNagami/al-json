@@ -10,7 +10,6 @@
     "reduce_interaction",
     "heartbeat_unlock",
     "drom3d_time_unlock",
-    "drom3d_clothing_unlock",
     "drom3d_photograph_unlock",
     "drom3d_illumination_color",
     "drom3d_illumination_intensity",
@@ -41,11 +40,6 @@
   "drom3d_appellation_time": {
     "key": "drom3d_appellation_time",
     "key_value_int": 48,
-    "key_value_varchar": ""
-  },
-  "drom3d_clothing_unlock": {
-    "key": "drom3d_clothing_unlock",
-    "key_value_int": 10,
     "key_value_varchar": ""
   },
   "drom3d_collection_unlock": {
@@ -142,7 +136,7 @@
   },
   "rapport_heartbeat": {
     "key": "rapport_heartbeat",
-    "key_value_int": 3,
+    "key_value_int": 2,
     "key_value_varchar": ""
   },
   "rapport_heartbeat_trriger": {
@@ -157,12 +151,12 @@
   },
   "reduce_heartbeat": {
     "key": "reduce_heartbeat",
-    "key_value_int": -4,
+    "key_value_int": 0,
     "key_value_varchar": ""
   },
   "reduce_interaction": {
     "key": "reduce_interaction",
-    "key_value_int": -1,
+    "key_value_int": 0,
     "key_value_varchar": ""
   },
   "stage": {
