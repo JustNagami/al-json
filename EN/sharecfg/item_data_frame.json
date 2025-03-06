@@ -495,8 +495,8 @@
     "time_second": 0
   },
   "334": {
-    "desc": "Obtained from an event.",
-    "gain_by": "樊笼内的神光",
+    "desc": "<color=#ffffff>\"Pick up the brush, and paint your own light.\"</color>\nGiven to Commanders who participated in the Paradiso of Shackled Light.",
+    "gain_by": "Paradiso of Shackled Light",
     "id": 334,
     "name": "A Stroke of Divine Light: Bastion of Saintly Wings",
     "scene": [],
@@ -661,6 +661,24 @@
     "gain_by": "",
     "id": 1004,
     "name": "Floral Rain, Homecoming Bird, and You",
+    "scene": [],
+    "time_limit_type": 0,
+    "time_second": 0
+  },
+  "1005": {
+    "desc": "<color=#ffffff>The pure light of the stars makes an angel's halo shine.</color>\nReward for raising Anchorage's Intimacy in the Private Quarters.",
+    "gain_by": "0",
+    "id": 1005,
+    "name": "Angelic Light",
+    "scene": [],
+    "time_limit_type": 0,
+    "time_second": 0
+  },
+  "1006": {
+    "desc": "<color=#ffffff>Chase the waves and dive into a joyous new quest.</color>\nReward for raising Anchorage's Intimacy in the Private Quarters.",
+    "gain_by": "0",
+    "id": 1006,
+    "name": "Adventure on the Blue Seas",
     "scene": [],
     "time_limit_type": 0,
     "time_second": 0
@@ -848,6 +866,8 @@
     1002,
     1003,
     1004,
+    1005,
+    1006,
     10001,
     10002,
     10003,
