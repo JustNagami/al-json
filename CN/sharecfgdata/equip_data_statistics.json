@@ -125915,6 +125915,57 @@
       170712
     ]
   },
+  "80451": {
+    "ammo": 10,
+    "ammo_icon": [],
+    "ammo_info": [],
+    "descrip": "技能弹幕",
+    "equip_info": [],
+    "equip_parameters": [],
+    "hidden_skill_id": [],
+    "icon": "1",
+    "id": 80451,
+    "label": [],
+    "name": "全弹发射-海军上将级I",
+    "nationality": 0,
+    "part_main": [
+      1,
+      19,
+      20,
+      21
+    ],
+    "part_sub": [
+      2,
+      3,
+      4,
+      5,
+      8,
+      13,
+      18
+    ],
+    "property_rate": [],
+    "rarity": 1,
+    "skill_id": [],
+    "speciality": "<[NA]>",
+    "tech": 1,
+    "torpedo_ammo": 0,
+    "type": 1,
+    "value_1": "0",
+    "value_2": 0,
+    "value_3": 0,
+    "weapon_id": [
+      170731
+    ]
+  },
+  "80452": {
+    "base": 80451,
+    "hidden_skill_id": [],
+    "id": 80452,
+    "name": "全弹发射-海军上将级II",
+    "weapon_id": [
+      170732
+    ]
+  },
   "85000": {
     "ammo": 3,
     "ammo_icon": [
@@ -140752,6 +140803,120 @@
       91103
     ]
   },
+  "91120": {
+    "ammo": 2,
+    "ammo_icon": [
+      3
+    ],
+    "ammo_info": [
+      [
+        1,
+        1416
+      ]
+    ],
+    "attribute_2": "cannon",
+    "damage": "26 x 4",
+    "descrip": "No description",
+    "equip_info": [
+      1,
+      2,
+      [
+        3,
+        1416
+      ],
+      [
+        4,
+        1205
+      ],
+      6,
+      10,
+      11,
+      12
+    ],
+    "equip_parameters": [],
+    "hidden_skill_id": [],
+    "icon": "51100",
+    "id": 91120,
+    "label": [
+      "FFNF",
+      "CA",
+      "MG",
+      "HE"
+    ],
+    "name": "Twin 203mm Mle 1924 Main Gun Mount",
+    "nationality": 8,
+    "part_main": [
+      3,
+      18
+    ],
+    "part_sub": [],
+    "property_rate": [],
+    "rarity": 3,
+    "skill_id": [],
+    "speciality": "Lock",
+    "tech": 2,
+    "torpedo_ammo": 0,
+    "type": 3,
+    "value_2": 12,
+    "value_3": 0,
+    "weapon_id": [
+      91120
+    ]
+  },
+  "91121": {
+    "base": 91120,
+    "damage": "28 x 4",
+    "hidden_skill_id": [],
+    "id": 91121,
+    "weapon_id": [
+      91121
+    ]
+  },
+  "91122": {
+    "base": 91120,
+    "damage": "30 x 4",
+    "hidden_skill_id": [],
+    "id": 91122,
+    "weapon_id": [
+      91122
+    ]
+  },
+  "91123": {
+    "base": 91120,
+    "damage": "32 x 4",
+    "hidden_skill_id": [],
+    "id": 91123,
+    "weapon_id": [
+      91123
+    ]
+  },
+  "91124": {
+    "base": 91120,
+    "damage": "34 x 4",
+    "hidden_skill_id": [],
+    "id": 91124,
+    "weapon_id": [
+      91124
+    ]
+  },
+  "91125": {
+    "base": 91120,
+    "damage": "36 x 4",
+    "hidden_skill_id": [],
+    "id": 91125,
+    "weapon_id": [
+      91125
+    ]
+  },
+  "91126": {
+    "base": 91120,
+    "damage": "38 x 4",
+    "hidden_skill_id": [],
+    "id": 91126,
+    "weapon_id": [
+      91126
+    ]
+  },
   "91140": {
     "ammo": 2,
     "ammo_icon": [
@@ -145409,6 +145574,157 @@
     "id": 95606,
     "weapon_id": [
       95606
+    ]
+  },
+  "95620": {
+    "ammo": 1,
+    "ammo_icon": [
+      2
+    ],
+    "ammo_info": [
+      [
+        1,
+        1713
+      ]
+    ],
+    "attribute_2": "cannon",
+    "damage": "8 x 6",
+    "descrip": "撒丁帝国制造的改良型轻巡洋舰主炮",
+    "equip_info": [
+      1,
+      2,
+      [
+        3,
+        1713
+      ],
+      [
+        4,
+        1110
+      ],
+      6,
+      10,
+      11,
+      12
+    ],
+    "equip_parameters": [],
+    "hidden_skill_id": [],
+    "icon": "55600",
+    "id": 95620,
+    "label": [
+      "RN",
+      "CL",
+      "MG",
+      "AP"
+    ],
+    "name": "Triple 152mm Model 1934 Main Gun Mount",
+    "nationality": 6,
+    "part_main": [
+      2
+    ],
+    "part_sub": [
+      5
+    ],
+    "property_rate": [],
+    "rarity": 4,
+    "skill_id": [],
+    "speciality": "Lock",
+    "tech": 2,
+    "torpedo_ammo": 0,
+    "type": 2,
+    "value_2": 25,
+    "value_3": 0,
+    "weapon_id": [
+      95620
+    ]
+  },
+  "95621": {
+    "base": 95620,
+    "damage": "8 x 6",
+    "hidden_skill_id": [],
+    "id": 95621,
+    "weapon_id": [
+      95621
+    ]
+  },
+  "95622": {
+    "base": 95620,
+    "damage": "9 x 6",
+    "hidden_skill_id": [],
+    "id": 95622,
+    "weapon_id": [
+      95622
+    ]
+  },
+  "95623": {
+    "base": 95620,
+    "damage": "10 x 6",
+    "hidden_skill_id": [],
+    "id": 95623,
+    "weapon_id": [
+      95623
+    ]
+  },
+  "95624": {
+    "base": 95620,
+    "damage": "11 x 6",
+    "hidden_skill_id": [],
+    "id": 95624,
+    "weapon_id": [
+      95624
+    ]
+  },
+  "95625": {
+    "base": 95620,
+    "damage": "12 x 6",
+    "hidden_skill_id": [],
+    "id": 95625,
+    "weapon_id": [
+      95625
+    ]
+  },
+  "95626": {
+    "base": 95620,
+    "damage": "13 x 6",
+    "hidden_skill_id": [],
+    "id": 95626,
+    "weapon_id": [
+      95626
+    ]
+  },
+  "95627": {
+    "base": 95620,
+    "damage": "14 x 6",
+    "hidden_skill_id": [],
+    "id": 95627,
+    "weapon_id": [
+      95627
+    ]
+  },
+  "95628": {
+    "base": 95620,
+    "damage": "15 x 6",
+    "hidden_skill_id": [],
+    "id": 95628,
+    "weapon_id": [
+      95628
+    ]
+  },
+  "95629": {
+    "base": 95620,
+    "damage": "16 x 6",
+    "hidden_skill_id": [],
+    "id": 95629,
+    "weapon_id": [
+      95629
+    ]
+  },
+  "95630": {
+    "base": 95620,
+    "damage": "17 x 6",
+    "hidden_skill_id": [],
+    "id": 95630,
+    "weapon_id": [
+      95630
     ]
   },
   "95640": {
@@ -154072,6 +154388,57 @@
     "name": "全弹发射-长风II",
     "weapon_id": [
       170692
+    ]
+  },
+  "170721": {
+    "ammo": 10,
+    "ammo_icon": [],
+    "ammo_info": [],
+    "descrip": "技能弹幕",
+    "equip_info": [],
+    "equip_parameters": [],
+    "hidden_skill_id": [],
+    "icon": "1",
+    "id": 170721,
+    "label": [],
+    "name": "专属弹幕-圣塔菲I",
+    "nationality": 0,
+    "part_main": [
+      1,
+      19,
+      20,
+      21
+    ],
+    "part_sub": [
+      2,
+      3,
+      4,
+      5,
+      8,
+      13,
+      18
+    ],
+    "property_rate": [],
+    "rarity": 1,
+    "skill_id": [],
+    "speciality": "<[NA]>",
+    "tech": 1,
+    "torpedo_ammo": 0,
+    "type": 1,
+    "value_1": "0",
+    "value_2": 0,
+    "value_3": 0,
+    "weapon_id": [
+      170721
+    ]
+  },
+  "170722": {
+    "base": 170721,
+    "hidden_skill_id": [],
+    "id": 170722,
+    "name": "专属弹幕-圣塔菲II",
+    "weapon_id": [
+      170722
     ]
   },
   "180000": {
