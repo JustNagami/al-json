@@ -58,7 +58,9 @@
     "in_map": "floor_1",
     "invite_banner": "",
     "invite_cost": "",
+    "invite_icon": "",
     "invite_mark": "",
+    "is_common": 0,
     "recall_list": [
       1,
       2,
@@ -139,12 +141,15 @@
     "in_map": "floor_1",
     "invite_banner": "",
     "invite_cost": "",
+    "invite_icon": "",
     "invite_mark": "",
+    "is_common": 0,
     "recall_list": [
       21,
       22,
       23,
-      31
+      31,
+      32
     ],
     "resource_name": "Nengdai_DB",
     "room": "Noshiro",
@@ -208,7 +213,9 @@
     "in_map": "floor_1",
     "invite_banner": "",
     "invite_cost": "",
+    "invite_icon": "",
     "invite_mark": "",
+    "is_common": 0,
     "recall_list": [
       41,
       42,
@@ -334,6 +341,20 @@
         270112
       ]
     ],
+    "invite_icon": [
+      [
+        20220,
+        "dorm3dicon/3Ddrom_invitation"
+      ],
+      [
+        30221,
+        "dorm3dicon/3Ddrom_invitation"
+      ],
+      [
+        19903,
+        "dorm3dicon/3Ddrom_invitation"
+      ]
+    ],
     "invite_mark": [
       [
         20220,
@@ -360,6 +381,7 @@
         ]
       ]
     ],
+    "is_common": 0,
     "recall_list": [],
     "resource_name": "Beach",
     "room": "Beach",
@@ -399,7 +421,9 @@
     "in_map": "floor_1",
     "invite_banner": "",
     "invite_cost": "",
+    "invite_icon": "",
     "invite_mark": "",
+    "is_common": 1,
     "recall_list": "",
     "resource_name": "Bathroom",
     "room": "Bath",
