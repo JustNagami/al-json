@@ -1,0 +1,2810 @@
+{
+  "1": {
+    "desc": "岛屿通用货币（占坑）",
+    "drop_after_use": 0,
+    "filter": [],
+    "group_max": 0,
+    "icon": "IslandProps/gold",
+    "id": 1,
+    "jump_page": [],
+    "name": "岛屿物资（占坑）",
+    "order_price": 1,
+    "price": 0,
+    "rarity": 1,
+    "resource_type": 0,
+    "type": 3,
+    "usage": "usage_undefined",
+    "usage_arg": "[]"
+  },
+  "2": {
+    "desc": "岛屿经验",
+    "drop_after_use": 0,
+    "filter": [],
+    "group_max": 0,
+    "icon": "IslandProps/exp_lingshi",
+    "id": 2,
+    "jump_page": [],
+    "name": "经验",
+    "order_price": 0,
+    "price": 0,
+    "rarity": 1,
+    "resource_type": 0,
+    "type": 4,
+    "usage": "usage_undefined",
+    "usage_arg": "[]"
+  },
+  "1001": {
+    "desc": "由小麦磨成的面粉",
+    "drop_after_use": 0,
+    "filter": [
+      3,
+      8
+    ],
+    "group_max": 2,
+    "icon": "IslandProps/gold",
+    "id": 1001,
+    "jump_page": [
+      [
+        "商店购买",
+        [
+          "IslandShopScene",
+          "page = 1"
+        ]
+      ]
+    ],
+    "name": "面粉",
+    "order_price": 1,
+    "price": 1,
+    "rarity": 1,
+    "resource_type": 1,
+    "type": 1,
+    "usage": "usage_undefined",
+    "usage_arg": "[]"
+  },
+  "1002": {
+    "desc": "描述占坑",
+    "drop_after_use": 0,
+    "filter": [
+      3,
+      8
+    ],
+    "group_max": 2,
+    "icon": "IslandProps/bingganapicon",
+    "id": 1002,
+    "jump_page": [
+      [
+        "商店购买",
+        [
+          "IslandShopScene",
+          "page = 1"
+        ]
+      ]
+    ],
+    "name": "玉米",
+    "order_price": 1,
+    "price": 1,
+    "rarity": 1,
+    "resource_type": 1,
+    "type": 1,
+    "usage": "usage_undefined",
+    "usage_arg": "[]"
+  },
+  "1003": {
+    "desc": "描述占坑",
+    "drop_after_use": 0,
+    "filter": [
+      3,
+      8
+    ],
+    "group_max": 2,
+    "icon": "IslandProps/bingganapicon",
+    "id": 1003,
+    "jump_page": [
+      [
+        "商店购买",
+        [
+          "IslandShopScene",
+          "page = 1"
+        ]
+      ]
+    ],
+    "name": "大米",
+    "order_price": 2,
+    "price": 2,
+    "rarity": 1,
+    "resource_type": 1,
+    "type": 1,
+    "usage": "usage_undefined",
+    "usage_arg": "[]"
+  },
+  "1004": {
+    "desc": "描述占坑",
+    "drop_after_use": 0,
+    "filter": [
+      3,
+      8
+    ],
+    "group_max": 2,
+    "icon": "IslandProps/bingganapicon",
+    "id": 1004,
+    "jump_page": [
+      [
+        "商店购买",
+        [
+          "IslandShopScene",
+          "page = 1"
+        ]
+      ]
+    ],
+    "name": "白菜",
+    "order_price": 2,
+    "price": 2,
+    "rarity": 1,
+    "resource_type": 1,
+    "type": 1,
+    "usage": "usage_undefined",
+    "usage_arg": "[]"
+  },
+  "1005": {
+    "desc": "描述占坑",
+    "drop_after_use": 0,
+    "filter": [
+      3,
+      8
+    ],
+    "group_max": 2,
+    "icon": "IslandProps/bingganapicon",
+    "id": 1005,
+    "jump_page": [
+      [
+        "商店购买",
+        [
+          "IslandShopScene",
+          "page = 1"
+        ]
+      ]
+    ],
+    "name": "胡萝卜",
+    "order_price": 3,
+    "price": 3,
+    "rarity": 1,
+    "resource_type": 1,
+    "type": 1,
+    "usage": "usage_undefined",
+    "usage_arg": "[]"
+  },
+  "1006": {
+    "desc": "描述占坑",
+    "drop_after_use": 0,
+    "filter": [
+      3,
+      8
+    ],
+    "group_max": 0,
+    "icon": "IslandProps/bingganapicon",
+    "id": 1006,
+    "jump_page": [
+      [
+        "商店购买",
+        [
+          "IslandShopScene",
+          "page = 1"
+        ]
+      ]
+    ],
+    "name": "土豆",
+    "order_price": 5,
+    "price": 5,
+    "rarity": 1,
+    "resource_type": 1,
+    "type": 1,
+    "usage": "usage_undefined",
+    "usage_arg": "[]"
+  },
+  "1007": {
+    "desc": "描述占坑",
+    "drop_after_use": 0,
+    "filter": [
+      3,
+      8
+    ],
+    "group_max": 0,
+    "icon": "IslandProps/bingganapicon",
+    "id": 1007,
+    "jump_page": [
+      [
+        "商店购买",
+        [
+          "IslandShopScene",
+          "page = 1"
+        ]
+      ]
+    ],
+    "name": "大豆",
+    "order_price": 6,
+    "price": 6,
+    "rarity": 1,
+    "resource_type": 1,
+    "type": 1,
+    "usage": "usage_undefined",
+    "usage_arg": "[]"
+  },
+  "1008": {
+    "desc": "描述占坑",
+    "drop_after_use": 0,
+    "filter": [
+      3,
+      8
+    ],
+    "group_max": 0,
+    "icon": "IslandProps/bingganapicon",
+    "id": 1008,
+    "jump_page": [
+      [
+        "商店购买",
+        [
+          "IslandShopScene",
+          "page = 1"
+        ]
+      ]
+    ],
+    "name": "洋葱",
+    "order_price": 6,
+    "price": 6,
+    "rarity": 1,
+    "resource_type": 1,
+    "type": 1,
+    "usage": "usage_undefined",
+    "usage_arg": "[]"
+  },
+  "1009": {
+    "desc": "描述占坑",
+    "drop_after_use": 0,
+    "filter": [
+      4,
+      8
+    ],
+    "group_max": 0,
+    "icon": "IslandProps/bingganapicon",
+    "id": 1009,
+    "jump_page": [
+      [
+        "商店购买",
+        [
+          "IslandShopScene",
+          "page = 1"
+        ]
+      ]
+    ],
+    "name": "家禽饲料",
+    "order_price": 10,
+    "price": 10,
+    "rarity": 1,
+    "resource_type": 1,
+    "type": 1,
+    "usage": "usage_undefined",
+    "usage_arg": "[]"
+  },
+  "1010": {
+    "desc": "描述占坑",
+    "drop_after_use": 0,
+    "filter": [
+      4,
+      8
+    ],
+    "group_max": 0,
+    "icon": "IslandProps/bingganapicon",
+    "id": 1010,
+    "jump_page": [
+      [
+        "商店购买",
+        [
+          "IslandShopScene",
+          "page = 1"
+        ]
+      ]
+    ],
+    "name": "猪饲料",
+    "order_price": 10,
+    "price": 10,
+    "rarity": 1,
+    "resource_type": 1,
+    "type": 1,
+    "usage": "usage_undefined",
+    "usage_arg": "[]"
+  },
+  "1011": {
+    "desc": "描述占坑",
+    "drop_after_use": 0,
+    "filter": [
+      4,
+      8
+    ],
+    "group_max": 0,
+    "icon": "IslandProps/bingganapicon",
+    "id": 1011,
+    "jump_page": [
+      [
+        "商店购买",
+        [
+          "IslandShopScene",
+          "page = 1"
+        ]
+      ]
+    ],
+    "name": "奶牛饲料",
+    "order_price": 10,
+    "price": 10,
+    "rarity": 1,
+    "resource_type": 1,
+    "type": 1,
+    "usage": "usage_undefined",
+    "usage_arg": "[]"
+  },
+  "1012": {
+    "desc": "描述占坑",
+    "drop_after_use": 0,
+    "filter": [
+      4,
+      8
+    ],
+    "group_max": 0,
+    "icon": "IslandProps/bingganapicon",
+    "id": 1012,
+    "jump_page": [
+      [
+        "商店购买",
+        [
+          "IslandShopScene",
+          "page = 1"
+        ]
+      ]
+    ],
+    "name": "绵羊饲料",
+    "order_price": 10,
+    "price": 10,
+    "rarity": 1,
+    "resource_type": 1,
+    "type": 1,
+    "usage": "usage_undefined",
+    "usage_arg": "[]"
+  },
+  "1013": {
+    "desc": "描述占坑",
+    "drop_after_use": 0,
+    "filter": [
+      3,
+      8
+    ],
+    "group_max": 0,
+    "icon": "IslandProps/bingganapicon",
+    "id": 1013,
+    "jump_page": [
+      [
+        "商店购买",
+        [
+          "IslandShopScene",
+          "page = 1"
+        ]
+      ]
+    ],
+    "name": "鸡蛋",
+    "order_price": 15,
+    "price": 15,
+    "rarity": 1,
+    "resource_type": 1,
+    "type": 1,
+    "usage": "usage_undefined",
+    "usage_arg": "[]"
+  },
+  "1014": {
+    "desc": "描述占坑",
+    "drop_after_use": 0,
+    "filter": [
+      3,
+      8
+    ],
+    "group_max": 0,
+    "icon": "IslandProps/bingganapicon",
+    "id": 1014,
+    "jump_page": [
+      [
+        "商店购买",
+        [
+          "IslandShopScene",
+          "page = 1"
+        ]
+      ]
+    ],
+    "name": "鸡肉",
+    "order_price": 30,
+    "price": 30,
+    "rarity": 1,
+    "resource_type": 1,
+    "type": 1,
+    "usage": "usage_undefined",
+    "usage_arg": "[]"
+  },
+  "1015": {
+    "desc": "描述占坑",
+    "drop_after_use": 0,
+    "filter": [
+      3,
+      8
+    ],
+    "group_max": 0,
+    "icon": "IslandProps/bingganapicon",
+    "id": 1015,
+    "jump_page": [
+      [
+        "商店购买",
+        [
+          "IslandShopScene",
+          "page = 1"
+        ]
+      ]
+    ],
+    "name": "猪肉",
+    "order_price": 60,
+    "price": 60,
+    "rarity": 1,
+    "resource_type": 1,
+    "type": 1,
+    "usage": "usage_undefined",
+    "usage_arg": "[]"
+  },
+  "1016": {
+    "desc": "描述占坑",
+    "drop_after_use": 0,
+    "filter": [
+      3,
+      8
+    ],
+    "group_max": 0,
+    "icon": "IslandProps/bingganapicon",
+    "id": 1016,
+    "jump_page": [
+      [
+        "商店购买",
+        [
+          "IslandShopScene",
+          "page = 1"
+        ]
+      ]
+    ],
+    "name": "牛奶",
+    "order_price": 30,
+    "price": 30,
+    "rarity": 1,
+    "resource_type": 1,
+    "type": 1,
+    "usage": "usage_undefined",
+    "usage_arg": "[]"
+  },
+  "1017": {
+    "desc": "描述占坑",
+    "drop_after_use": 0,
+    "filter": [
+      3,
+      8
+    ],
+    "group_max": 0,
+    "icon": "IslandProps/bingganapicon",
+    "id": 1017,
+    "jump_page": [
+      [
+        "商店购买",
+        [
+          "IslandShopScene",
+          "page = 1"
+        ]
+      ]
+    ],
+    "name": "牛肉",
+    "order_price": 32,
+    "price": 32,
+    "rarity": 1,
+    "resource_type": 1,
+    "type": 1,
+    "usage": "usage_undefined",
+    "usage_arg": "[]"
+  },
+  "1018": {
+    "desc": "描述占坑",
+    "drop_after_use": 0,
+    "filter": [
+      3,
+      8
+    ],
+    "group_max": 0,
+    "icon": "IslandProps/bingganapicon",
+    "id": 1018,
+    "jump_page": [
+      [
+        "商店购买",
+        [
+          "IslandShopScene",
+          "page = 1"
+        ]
+      ]
+    ],
+    "name": "羊毛",
+    "order_price": 36,
+    "price": 36,
+    "rarity": 1,
+    "resource_type": 1,
+    "type": 1,
+    "usage": "usage_undefined",
+    "usage_arg": "[]"
+  },
+  "1019": {
+    "desc": "描述占坑",
+    "drop_after_use": 0,
+    "filter": [
+      3,
+      8
+    ],
+    "group_max": 0,
+    "icon": "IslandProps/bingganapicon",
+    "id": 1019,
+    "jump_page": [
+      [
+        "商店购买",
+        [
+          "IslandShopScene",
+          "page = 1"
+        ]
+      ]
+    ],
+    "name": "羊肉",
+    "order_price": 71,
+    "price": 71,
+    "rarity": 1,
+    "resource_type": 1,
+    "type": 1,
+    "usage": "usage_undefined",
+    "usage_arg": "[]"
+  },
+  "1101": {
+    "desc": "描述占坑",
+    "drop_after_use": 0,
+    "filter": [
+      3,
+      8
+    ],
+    "group_max": 0,
+    "icon": "IslandProps/bingganapicon",
+    "id": 1101,
+    "jump_page": [
+      [
+        "商店购买",
+        [
+          "IslandShopScene",
+          "page = 1"
+        ]
+      ]
+    ],
+    "name": "小麦种子",
+    "order_price": 0,
+    "price": 1,
+    "rarity": 1,
+    "resource_type": 1,
+    "type": 1,
+    "usage": "usage_undefined",
+    "usage_arg": "[]"
+  },
+  "1102": {
+    "desc": "描述占坑",
+    "drop_after_use": 0,
+    "filter": [
+      3,
+      8
+    ],
+    "group_max": 0,
+    "icon": "IslandProps/bingganapicon",
+    "id": 1102,
+    "jump_page": [
+      [
+        "商店购买",
+        [
+          "IslandShopScene",
+          "page = 1"
+        ]
+      ]
+    ],
+    "name": "玉米种子",
+    "order_price": 0,
+    "price": 1,
+    "rarity": 1,
+    "resource_type": 1,
+    "type": 1,
+    "usage": "usage_undefined",
+    "usage_arg": "[]"
+  },
+  "1103": {
+    "desc": "描述占坑",
+    "drop_after_use": 0,
+    "filter": [
+      3,
+      8
+    ],
+    "group_max": 0,
+    "icon": "IslandProps/bingganapicon",
+    "id": 1103,
+    "jump_page": [
+      [
+        "商店购买",
+        [
+          "IslandShopScene",
+          "page = 1"
+        ]
+      ]
+    ],
+    "name": "水稻种子",
+    "order_price": 0,
+    "price": 1,
+    "rarity": 1,
+    "resource_type": 1,
+    "type": 1,
+    "usage": "usage_undefined",
+    "usage_arg": "[]"
+  },
+  "1104": {
+    "desc": "描述占坑",
+    "drop_after_use": 0,
+    "filter": [
+      3,
+      8
+    ],
+    "group_max": 0,
+    "icon": "IslandProps/bingganapicon",
+    "id": 1104,
+    "jump_page": [
+      [
+        "商店购买",
+        [
+          "IslandShopScene",
+          "page = 1"
+        ]
+      ]
+    ],
+    "name": "白菜种子",
+    "order_price": 0,
+    "price": 1,
+    "rarity": 1,
+    "resource_type": 1,
+    "type": 1,
+    "usage": "usage_undefined",
+    "usage_arg": "[]"
+  },
+  "1105": {
+    "desc": "描述占坑",
+    "drop_after_use": 0,
+    "filter": [
+      3,
+      8
+    ],
+    "group_max": 0,
+    "icon": "IslandProps/bingganapicon",
+    "id": 1105,
+    "jump_page": [
+      [
+        "商店购买",
+        [
+          "IslandShopScene",
+          "page = 1"
+        ]
+      ]
+    ],
+    "name": "胡萝卜种子",
+    "order_price": 0,
+    "price": 1,
+    "rarity": 1,
+    "resource_type": 1,
+    "type": 1,
+    "usage": "usage_undefined",
+    "usage_arg": "[]"
+  },
+  "1106": {
+    "desc": "描述占坑",
+    "drop_after_use": 0,
+    "filter": [
+      3,
+      8
+    ],
+    "group_max": 0,
+    "icon": "IslandProps/bingganapicon",
+    "id": 1106,
+    "jump_page": [
+      [
+        "商店购买",
+        [
+          "IslandShopScene",
+          "page = 1"
+        ]
+      ]
+    ],
+    "name": "土豆种子",
+    "order_price": 0,
+    "price": 1,
+    "rarity": 1,
+    "resource_type": 1,
+    "type": 1,
+    "usage": "usage_undefined",
+    "usage_arg": "[]"
+  },
+  "1107": {
+    "desc": "描述占坑",
+    "drop_after_use": 0,
+    "filter": [
+      3,
+      8
+    ],
+    "group_max": 0,
+    "icon": "IslandProps/bingganapicon",
+    "id": 1107,
+    "jump_page": [
+      [
+        "商店购买",
+        [
+          "IslandShopScene",
+          "page = 1"
+        ]
+      ]
+    ],
+    "name": "大豆种子",
+    "order_price": 0,
+    "price": 1,
+    "rarity": 1,
+    "resource_type": 1,
+    "type": 1,
+    "usage": "usage_undefined",
+    "usage_arg": "[]"
+  },
+  "1108": {
+    "desc": "描述占坑",
+    "drop_after_use": 0,
+    "filter": [
+      3,
+      8
+    ],
+    "group_max": 0,
+    "icon": "IslandProps/bingganapicon",
+    "id": 1108,
+    "jump_page": [
+      [
+        "商店购买",
+        [
+          "IslandShopScene",
+          "page = 1"
+        ]
+      ]
+    ],
+    "name": "洋葱种子",
+    "order_price": 0,
+    "price": 1,
+    "rarity": 1,
+    "resource_type": 1,
+    "type": 1,
+    "usage": "usage_undefined",
+    "usage_arg": "[]"
+  },
+  "2001": {
+    "desc": "描述占坑",
+    "drop_after_use": 0,
+    "filter": [
+      6,
+      8
+    ],
+    "group_max": 0,
+    "icon": "IslandProps/bingganapicon",
+    "id": 2001,
+    "jump_page": [
+      [
+        "商店购买",
+        [
+          "IslandShopScene",
+          "page = 1"
+        ]
+      ]
+    ],
+    "name": "碳块",
+    "order_price": 2,
+    "price": 2,
+    "rarity": 1,
+    "resource_type": 1,
+    "type": 1,
+    "usage": "usage_undefined",
+    "usage_arg": "[]"
+  },
+  "2002": {
+    "desc": "描述占坑",
+    "drop_after_use": 0,
+    "filter": [
+      6,
+      8
+    ],
+    "group_max": 0,
+    "icon": "IslandProps/bingganapicon",
+    "id": 2002,
+    "jump_page": [
+      [
+        "商店购买",
+        [
+          "IslandShopScene",
+          "page = 1"
+        ]
+      ]
+    ],
+    "name": "铜矿",
+    "order_price": 4,
+    "price": 4,
+    "rarity": 1,
+    "resource_type": 1,
+    "type": 1,
+    "usage": "usage_undefined",
+    "usage_arg": "[]"
+  },
+  "2003": {
+    "desc": "描述占坑",
+    "drop_after_use": 0,
+    "filter": [
+      6,
+      8
+    ],
+    "group_max": 0,
+    "icon": "IslandProps/bingganapicon",
+    "id": 2003,
+    "jump_page": [
+      [
+        "商店购买",
+        [
+          "IslandShopScene",
+          "page = 1"
+        ]
+      ]
+    ],
+    "name": "铝矿",
+    "order_price": 6,
+    "price": 6,
+    "rarity": 1,
+    "resource_type": 1,
+    "type": 1,
+    "usage": "usage_undefined",
+    "usage_arg": "[]"
+  },
+  "2004": {
+    "desc": "描述占坑",
+    "drop_after_use": 0,
+    "filter": [
+      6,
+      8
+    ],
+    "group_max": 0,
+    "icon": "IslandProps/bingganapicon",
+    "id": 2004,
+    "jump_page": [
+      [
+        "商店购买",
+        [
+          "IslandShopScene",
+          "page = 1"
+        ]
+      ]
+    ],
+    "name": "铁矿",
+    "order_price": 8,
+    "price": 8,
+    "rarity": 1,
+    "resource_type": 1,
+    "type": 1,
+    "usage": "usage_undefined",
+    "usage_arg": "[]"
+  },
+  "2005": {
+    "desc": "描述占坑",
+    "drop_after_use": 0,
+    "filter": [
+      6,
+      8
+    ],
+    "group_max": 0,
+    "icon": "IslandProps/bingganapicon",
+    "id": 2005,
+    "jump_page": [
+      [
+        "商店购买",
+        [
+          "IslandShopScene",
+          "page = 1"
+        ]
+      ]
+    ],
+    "name": "硫矿",
+    "order_price": 10,
+    "price": 10,
+    "rarity": 1,
+    "resource_type": 1,
+    "type": 1,
+    "usage": "usage_undefined",
+    "usage_arg": "[]"
+  },
+  "2006": {
+    "desc": "描述占坑",
+    "drop_after_use": 0,
+    "filter": [
+      6,
+      8
+    ],
+    "group_max": 0,
+    "icon": "IslandProps/bingganapicon",
+    "id": 2006,
+    "jump_page": [
+      [
+        "商店购买",
+        [
+          "IslandShopScene",
+          "page = 1"
+        ]
+      ]
+    ],
+    "name": "银矿",
+    "order_price": 12,
+    "price": 12,
+    "rarity": 1,
+    "resource_type": 1,
+    "type": 1,
+    "usage": "usage_undefined",
+    "usage_arg": "[]"
+  },
+  "2007": {
+    "desc": "描述占坑",
+    "drop_after_use": 0,
+    "filter": [
+      3,
+      8
+    ],
+    "group_max": 0,
+    "icon": "IslandProps/bingganapicon",
+    "id": 2007,
+    "jump_page": [
+      [
+        "商店购买",
+        [
+          "IslandShopScene",
+          "page = 1"
+        ]
+      ]
+    ],
+    "name": "松木",
+    "order_price": 2,
+    "price": 2,
+    "rarity": 1,
+    "resource_type": 1,
+    "type": 1,
+    "usage": "usage_undefined",
+    "usage_arg": "[]"
+  },
+  "2008": {
+    "desc": "描述占坑",
+    "drop_after_use": 0,
+    "filter": [
+      3,
+      8
+    ],
+    "group_max": 0,
+    "icon": "IslandProps/bingganapicon",
+    "id": 2008,
+    "jump_page": [
+      [
+        "商店购买",
+        [
+          "IslandShopScene",
+          "page = 1"
+        ]
+      ]
+    ],
+    "name": "纸张",
+    "order_price": 4,
+    "price": 4,
+    "rarity": 1,
+    "resource_type": 1,
+    "type": 1,
+    "usage": "usage_undefined",
+    "usage_arg": "[]"
+  },
+  "2009": {
+    "desc": "描述占坑",
+    "drop_after_use": 0,
+    "filter": [
+      3,
+      8
+    ],
+    "group_max": 0,
+    "icon": "IslandProps/bingganapicon",
+    "id": 2009,
+    "jump_page": [
+      [
+        "商店购买",
+        [
+          "IslandShopScene",
+          "page = 1"
+        ]
+      ]
+    ],
+    "name": "枫木",
+    "order_price": 6,
+    "price": 6,
+    "rarity": 1,
+    "resource_type": 1,
+    "type": 1,
+    "usage": "usage_undefined",
+    "usage_arg": "[]"
+  },
+  "2010": {
+    "desc": "描述占坑",
+    "drop_after_use": 0,
+    "filter": [
+      3,
+      8
+    ],
+    "group_max": 0,
+    "icon": "IslandProps/bingganapicon",
+    "id": 2010,
+    "jump_page": [
+      [
+        "商店购买",
+        [
+          "IslandShopScene",
+          "page = 1"
+        ]
+      ]
+    ],
+    "name": "橡木",
+    "order_price": 8,
+    "price": 8,
+    "rarity": 1,
+    "resource_type": 1,
+    "type": 1,
+    "usage": "usage_undefined",
+    "usage_arg": "[]"
+  },
+  "2011": {
+    "desc": "描述占坑",
+    "drop_after_use": 0,
+    "filter": [
+      3,
+      8
+    ],
+    "group_max": 0,
+    "icon": "IslandProps/bingganapicon",
+    "id": 2011,
+    "jump_page": [
+      [
+        "商店购买",
+        [
+          "IslandShopScene",
+          "page = 1"
+        ]
+      ]
+    ],
+    "name": "胡桃木",
+    "order_price": 10,
+    "price": 10,
+    "rarity": 1,
+    "resource_type": 1,
+    "type": 1,
+    "usage": "usage_undefined",
+    "usage_arg": "[]"
+  },
+  "3001": {
+    "desc": "描述占坑",
+    "drop_after_use": 0,
+    "filter": [
+      3,
+      8
+    ],
+    "group_max": 0,
+    "icon": "IslandProps/bingganapicon",
+    "id": 3001,
+    "jump_page": [
+      [
+        "商店购买",
+        [
+          "IslandShopScene",
+          "page = 1"
+        ]
+      ]
+    ],
+    "name": "苹果",
+    "order_price": 2,
+    "price": 2,
+    "rarity": 1,
+    "resource_type": 1,
+    "type": 1,
+    "usage": "usage_undefined",
+    "usage_arg": "[]"
+  },
+  "3002": {
+    "desc": "描述占坑",
+    "drop_after_use": 0,
+    "filter": [
+      3,
+      8
+    ],
+    "group_max": 0,
+    "icon": "IslandProps/bingganapicon",
+    "id": 3002,
+    "jump_page": [
+      [
+        "商店购买",
+        [
+          "IslandShopScene",
+          "page = 1"
+        ]
+      ]
+    ],
+    "name": "柑橘",
+    "order_price": 4,
+    "price": 4,
+    "rarity": 1,
+    "resource_type": 1,
+    "type": 1,
+    "usage": "usage_undefined",
+    "usage_arg": "[]"
+  },
+  "3003": {
+    "desc": "描述占坑",
+    "drop_after_use": 0,
+    "filter": [
+      3,
+      8
+    ],
+    "group_max": 0,
+    "icon": "IslandProps/bingganapicon",
+    "id": 3003,
+    "jump_page": [
+      [
+        "商店购买",
+        [
+          "IslandShopScene",
+          "page = 1"
+        ]
+      ]
+    ],
+    "name": "香蕉",
+    "order_price": 6,
+    "price": 6,
+    "rarity": 1,
+    "resource_type": 1,
+    "type": 1,
+    "usage": "usage_undefined",
+    "usage_arg": "[]"
+  },
+  "3004": {
+    "desc": "描述占坑",
+    "drop_after_use": 0,
+    "filter": [
+      3,
+      8
+    ],
+    "group_max": 0,
+    "icon": "IslandProps/bingganapicon",
+    "id": 3004,
+    "jump_page": [
+      [
+        "商店购买",
+        [
+          "IslandShopScene",
+          "page = 1"
+        ]
+      ]
+    ],
+    "name": "芒果",
+    "order_price": 8,
+    "price": 8,
+    "rarity": 1,
+    "resource_type": 1,
+    "type": 1,
+    "usage": "usage_undefined",
+    "usage_arg": "[]"
+  },
+  "3005": {
+    "desc": "描述占坑",
+    "drop_after_use": 0,
+    "filter": [
+      3,
+      8
+    ],
+    "group_max": 0,
+    "icon": "IslandProps/bingganapicon",
+    "id": 3005,
+    "jump_page": [
+      [
+        "商店购买",
+        [
+          "IslandShopScene",
+          "page = 1"
+        ]
+      ]
+    ],
+    "name": "草莓",
+    "order_price": 10,
+    "price": 10,
+    "rarity": 1,
+    "resource_type": 1,
+    "type": 1,
+    "usage": "usage_undefined",
+    "usage_arg": "[]"
+  },
+  "3006": {
+    "desc": "描述占坑",
+    "drop_after_use": 0,
+    "filter": [
+      3,
+      8
+    ],
+    "group_max": 0,
+    "icon": "IslandProps/bingganapicon",
+    "id": 3006,
+    "jump_page": [
+      [
+        "商店购买",
+        [
+          "IslandShopScene",
+          "page = 1"
+        ]
+      ]
+    ],
+    "name": "柠檬",
+    "order_price": 12,
+    "price": 12,
+    "rarity": 1,
+    "resource_type": 1,
+    "type": 1,
+    "usage": "usage_undefined",
+    "usage_arg": "[]"
+  },
+  "3007": {
+    "desc": "描述占坑",
+    "drop_after_use": 0,
+    "filter": [
+      3,
+      8
+    ],
+    "group_max": 0,
+    "icon": "IslandProps/bingganapicon",
+    "id": 3007,
+    "jump_page": [
+      [
+        "商店购买",
+        [
+          "IslandShopScene",
+          "page = 1"
+        ]
+      ]
+    ],
+    "name": "牛油果",
+    "order_price": 14,
+    "price": 14,
+    "rarity": 1,
+    "resource_type": 1,
+    "type": 1,
+    "usage": "usage_undefined",
+    "usage_arg": "[]"
+  },
+  "3008": {
+    "desc": "描述占坑",
+    "drop_after_use": 0,
+    "filter": [
+      3,
+      8
+    ],
+    "group_max": 0,
+    "icon": "IslandProps/bingganapicon",
+    "id": 3008,
+    "jump_page": [
+      [
+        "商店购买",
+        [
+          "IslandShopScene",
+          "page = 1"
+        ]
+      ]
+    ],
+    "name": "西瓜",
+    "order_price": 16,
+    "price": 16,
+    "rarity": 1,
+    "resource_type": 1,
+    "type": 1,
+    "usage": "usage_undefined",
+    "usage_arg": "[]"
+  },
+  "3009": {
+    "desc": "描述占坑",
+    "drop_after_use": 0,
+    "filter": [
+      3,
+      8
+    ],
+    "group_max": 0,
+    "icon": "IslandProps/bingganapicon",
+    "id": 3009,
+    "jump_page": [
+      [
+        "商店购买",
+        [
+          "IslandShopScene",
+          "page = 1"
+        ]
+      ]
+    ],
+    "name": "榴莲",
+    "order_price": 18,
+    "price": 18,
+    "rarity": 1,
+    "resource_type": 1,
+    "type": 1,
+    "usage": "usage_undefined",
+    "usage_arg": "[]"
+  },
+  "3010": {
+    "desc": "描述占坑",
+    "drop_after_use": 0,
+    "filter": [
+      3,
+      8
+    ],
+    "group_max": 0,
+    "icon": "IslandProps/bingganapicon",
+    "id": 3010,
+    "jump_page": [
+      [
+        "商店购买",
+        [
+          "IslandShopScene",
+          "page = 1"
+        ]
+      ]
+    ],
+    "name": "牧草",
+    "order_price": 2,
+    "price": 2,
+    "rarity": 1,
+    "resource_type": 1,
+    "type": 1,
+    "usage": "usage_undefined",
+    "usage_arg": "[]"
+  },
+  "3011": {
+    "desc": "描述占坑",
+    "drop_after_use": 0,
+    "filter": [
+      3,
+      8
+    ],
+    "group_max": 0,
+    "icon": "IslandProps/bingganapicon",
+    "id": 3011,
+    "jump_page": [
+      [
+        "商店购买",
+        [
+          "IslandShopScene",
+          "page = 1"
+        ]
+      ]
+    ],
+    "name": "亚麻",
+    "order_price": 4,
+    "price": 4,
+    "rarity": 1,
+    "resource_type": 1,
+    "type": 1,
+    "usage": "usage_undefined",
+    "usage_arg": "[]"
+  },
+  "3012": {
+    "desc": "描述占坑",
+    "drop_after_use": 0,
+    "filter": [
+      3,
+      8
+    ],
+    "group_max": 0,
+    "icon": "IslandProps/bingganapicon",
+    "id": 3012,
+    "jump_page": [
+      [
+        "商店购买",
+        [
+          "IslandShopScene",
+          "page = 1"
+        ]
+      ]
+    ],
+    "name": "草药",
+    "order_price": 6,
+    "price": 6,
+    "rarity": 1,
+    "resource_type": 1,
+    "type": 1,
+    "usage": "usage_undefined",
+    "usage_arg": "[]"
+  },
+  "3013": {
+    "desc": "描述占坑",
+    "drop_after_use": 0,
+    "filter": [
+      3,
+      8
+    ],
+    "group_max": 0,
+    "icon": "IslandProps/bingganapicon",
+    "id": 3013,
+    "jump_page": [
+      [
+        "商店购买",
+        [
+          "IslandShopScene",
+          "page = 1"
+        ]
+      ]
+    ],
+    "name": "橄榄",
+    "order_price": 8,
+    "price": 8,
+    "rarity": 1,
+    "resource_type": 1,
+    "type": 1,
+    "usage": "usage_undefined",
+    "usage_arg": "[]"
+  },
+  "3014": {
+    "desc": "描述占坑",
+    "drop_after_use": 0,
+    "filter": [
+      3,
+      8
+    ],
+    "group_max": 0,
+    "icon": "IslandProps/bingganapicon",
+    "id": 3014,
+    "jump_page": [
+      [
+        "商店购买",
+        [
+          "IslandShopScene",
+          "page = 1"
+        ]
+      ]
+    ],
+    "name": "橡胶",
+    "order_price": 10,
+    "price": 10,
+    "rarity": 1,
+    "resource_type": 1,
+    "type": 1,
+    "usage": "usage_undefined",
+    "usage_arg": "[]"
+  },
+  "3015": {
+    "desc": "描述占坑",
+    "drop_after_use": 0,
+    "filter": [
+      3,
+      8
+    ],
+    "group_max": 0,
+    "icon": "IslandProps/bingganapicon",
+    "id": 3015,
+    "jump_page": [
+      [
+        "商店购买",
+        [
+          "IslandShopScene",
+          "page = 1"
+        ]
+      ]
+    ],
+    "name": "棉花",
+    "order_price": 12,
+    "price": 12,
+    "rarity": 1,
+    "resource_type": 1,
+    "type": 1,
+    "usage": "usage_undefined",
+    "usage_arg": "[]"
+  },
+  "3016": {
+    "desc": "描述占坑",
+    "drop_after_use": 0,
+    "filter": [
+      3,
+      8
+    ],
+    "group_max": 0,
+    "icon": "IslandProps/bingganapicon",
+    "id": 3016,
+    "jump_page": [
+      [
+        "商店购买",
+        [
+          "IslandShopScene",
+          "page = 1"
+        ]
+      ]
+    ],
+    "name": "咖啡",
+    "order_price": 14,
+    "price": 14,
+    "rarity": 1,
+    "resource_type": 1,
+    "type": 1,
+    "usage": "usage_undefined",
+    "usage_arg": "[]"
+  },
+  "3017": {
+    "desc": "描述占坑",
+    "drop_after_use": 0,
+    "filter": [
+      3,
+      8
+    ],
+    "group_max": 0,
+    "icon": "IslandProps/bingganapicon",
+    "id": 3017,
+    "jump_page": [
+      [
+        "商店购买",
+        [
+          "IslandShopScene",
+          "page = 1"
+        ]
+      ]
+    ],
+    "name": "茶叶",
+    "order_price": 16,
+    "price": 16,
+    "rarity": 1,
+    "resource_type": 1,
+    "type": 1,
+    "usage": "usage_undefined",
+    "usage_arg": "[]"
+  },
+  "3018": {
+    "desc": "描述占坑",
+    "drop_after_use": 0,
+    "filter": [
+      3,
+      8
+    ],
+    "group_max": 0,
+    "icon": "IslandProps/bingganapicon",
+    "id": 3018,
+    "jump_page": [
+      [
+        "商店购买",
+        [
+          "IslandShopScene",
+          "page = 1"
+        ]
+      ]
+    ],
+    "name": "薰衣草",
+    "order_price": 18,
+    "price": 18,
+    "rarity": 1,
+    "resource_type": 1,
+    "type": 1,
+    "usage": "usage_undefined",
+    "usage_arg": "[]"
+  },
+  "5001": {
+    "desc": "描述占坑",
+    "drop_after_use": 0,
+    "filter": [
+      4
+    ],
+    "group_max": 0,
+    "icon": "IslandProps/huangjialiaoli",
+    "id": 5001,
+    "jump_page": [
+      [
+        "商店购买",
+        [
+          "IslandShopScene",
+          "page = 1"
+        ]
+      ]
+    ],
+    "name": "玉米铜锣烧",
+    "order_price": 10,
+    "price": 10,
+    "rarity": 2,
+    "resource_type": 1,
+    "type": 1,
+    "usage": "usage_undefined",
+    "usage_arg": "[]"
+  },
+  "5002": {
+    "desc": "描述占坑",
+    "drop_after_use": 0,
+    "filter": [
+      4
+    ],
+    "group_max": 0,
+    "icon": "IslandProps/huangjialiaoli",
+    "id": 5002,
+    "jump_page": [
+      [
+        "商店购买",
+        [
+          "IslandShopScene",
+          "page = 1"
+        ]
+      ]
+    ],
+    "name": "黄油松饼",
+    "order_price": 12,
+    "price": 12,
+    "rarity": 2,
+    "resource_type": 1,
+    "type": 1,
+    "usage": "usage_undefined",
+    "usage_arg": "[]"
+  },
+  "5003": {
+    "desc": "描述占坑",
+    "drop_after_use": 0,
+    "filter": [
+      4
+    ],
+    "group_max": 0,
+    "icon": "IslandProps/huangjialiaoli",
+    "id": 5003,
+    "jump_page": [
+      [
+        "商店购买",
+        [
+          "IslandShopScene",
+          "page = 1"
+        ]
+      ]
+    ],
+    "name": "肉包子",
+    "order_price": 14,
+    "price": 14,
+    "rarity": 2,
+    "resource_type": 1,
+    "type": 1,
+    "usage": "usage_undefined",
+    "usage_arg": "[]"
+  },
+  "5004": {
+    "desc": "描述占坑",
+    "drop_after_use": 0,
+    "filter": [
+      4
+    ],
+    "group_max": 0,
+    "icon": "IslandProps/huangjialiaoli",
+    "id": 5004,
+    "jump_page": [
+      [
+        "商店购买",
+        [
+          "IslandShopScene",
+          "page = 1"
+        ]
+      ]
+    ],
+    "name": "培根三明治",
+    "order_price": 16,
+    "price": 16,
+    "rarity": 2,
+    "resource_type": 1,
+    "type": 1,
+    "usage": "usage_undefined",
+    "usage_arg": "[]"
+  },
+  "5005": {
+    "desc": "描述占坑",
+    "drop_after_use": 0,
+    "filter": [
+      4
+    ],
+    "group_max": 0,
+    "icon": "IslandProps/huangjialiaoli",
+    "id": 5005,
+    "jump_page": [
+      [
+        "商店购买",
+        [
+          "IslandShopScene",
+          "page = 1"
+        ]
+      ]
+    ],
+    "name": "榴莲披萨",
+    "order_price": 18,
+    "price": 18,
+    "rarity": 2,
+    "resource_type": 1,
+    "type": 1,
+    "usage": "usage_undefined",
+    "usage_arg": "[]"
+  },
+  "5006": {
+    "desc": "描述占坑",
+    "drop_after_use": 0,
+    "filter": [
+      4
+    ],
+    "group_max": 0,
+    "icon": "IslandProps/huangjialiaoli",
+    "id": 5006,
+    "jump_page": [
+      [
+        "商店购买",
+        [
+          "IslandShopScene",
+          "page = 1"
+        ]
+      ]
+    ],
+    "name": "苹果土豆饼",
+    "order_price": 20,
+    "price": 20,
+    "rarity": 2,
+    "resource_type": 1,
+    "type": 1,
+    "usage": "usage_undefined",
+    "usage_arg": "[]"
+  },
+  "100000": {
+    "desc": "角色系统用，占坑",
+    "drop_after_use": 0,
+    "filter": [
+      9
+    ],
+    "group_max": 0,
+    "icon": "IslandProps/gold",
+    "id": 100000,
+    "jump_page": [
+      [
+        "商店购买",
+        [
+          "IslandShopScene",
+          "page = 1"
+        ]
+      ]
+    ],
+    "name": "职责之星",
+    "order_price": 0,
+    "price": 0,
+    "rarity": 5,
+    "resource_type": 1,
+    "type": 2,
+    "usage": "usage_undefined",
+    "usage_arg": "[]"
+  },
+  "100001": {
+    "desc": "角色系统用，占坑",
+    "drop_after_use": 0,
+    "filter": [
+      9
+    ],
+    "group_max": 0,
+    "icon": "IslandProps/gold",
+    "id": 100001,
+    "jump_page": [
+      [
+        "商店购买",
+        [
+          "IslandShopScene",
+          "page = 1"
+        ]
+      ]
+    ],
+    "name": "角色经验书T1",
+    "order_price": 0,
+    "price": 0,
+    "rarity": 2,
+    "resource_type": 1,
+    "type": 5,
+    "usage": "usage_undefined",
+    "usage_arg": "500"
+  },
+  "100002": {
+    "desc": "角色系统用，占坑",
+    "drop_after_use": 0,
+    "filter": [
+      9
+    ],
+    "group_max": 0,
+    "icon": "IslandProps/gold",
+    "id": 100002,
+    "jump_page": [
+      [
+        "商店购买",
+        [
+          "IslandShopScene",
+          "page = 1"
+        ]
+      ]
+    ],
+    "name": "角色经验书T2",
+    "order_price": 0,
+    "price": 0,
+    "rarity": 2,
+    "resource_type": 1,
+    "type": 5,
+    "usage": "usage_undefined",
+    "usage_arg": "1000"
+  },
+  "100003": {
+    "desc": "角色系统用，占坑",
+    "drop_after_use": 0,
+    "filter": [
+      9
+    ],
+    "group_max": 0,
+    "icon": "IslandProps/gold",
+    "id": 100003,
+    "jump_page": [
+      [
+        "商店购买",
+        [
+          "IslandShopScene",
+          "page = 1"
+        ]
+      ]
+    ],
+    "name": "角色经验书T3",
+    "order_price": 0,
+    "price": 0,
+    "rarity": 2,
+    "resource_type": 1,
+    "type": 5,
+    "usage": "usage_undefined",
+    "usage_arg": "1500"
+  },
+  "100011": {
+    "desc": "角色系统用，占坑",
+    "drop_after_use": 0,
+    "filter": [
+      9
+    ],
+    "group_max": 0,
+    "icon": "IslandProps/gold",
+    "id": 100011,
+    "jump_page": [
+      [
+        "商店购买",
+        [
+          "IslandShopScene",
+          "page = 1"
+        ]
+      ]
+    ],
+    "name": "经营教材T1",
+    "order_price": 0,
+    "price": 0,
+    "rarity": 2,
+    "resource_type": 1,
+    "type": 2,
+    "usage": "usage_undefined",
+    "usage_arg": "5"
+  },
+  "100012": {
+    "desc": "角色系统用，占坑",
+    "drop_after_use": 0,
+    "filter": [
+      9
+    ],
+    "group_max": 0,
+    "icon": "IslandProps/gold",
+    "id": 100012,
+    "jump_page": [
+      [
+        "商店购买",
+        [
+          "IslandShopScene",
+          "page = 1"
+        ]
+      ]
+    ],
+    "name": "经营教材T2",
+    "order_price": 0,
+    "price": 0,
+    "rarity": 2,
+    "resource_type": 1,
+    "type": 2,
+    "usage": "usage_undefined",
+    "usage_arg": "10"
+  },
+  "100013": {
+    "desc": "角色系统用，占坑",
+    "drop_after_use": 0,
+    "filter": [
+      9
+    ],
+    "group_max": 0,
+    "icon": "IslandProps/gold",
+    "id": 100013,
+    "jump_page": [
+      [
+        "商店购买",
+        [
+          "IslandShopScene",
+          "page = 1"
+        ]
+      ]
+    ],
+    "name": "经营教材T3",
+    "order_price": 0,
+    "price": 0,
+    "rarity": 2,
+    "resource_type": 1,
+    "type": 2,
+    "usage": "usage_undefined",
+    "usage_arg": "15"
+  },
+  "100021": {
+    "desc": "角色系统用，占坑",
+    "drop_after_use": 0,
+    "filter": [
+      9
+    ],
+    "group_max": 0,
+    "icon": "IslandProps/gold",
+    "id": 100021,
+    "jump_page": [
+      [
+        "商店购买",
+        [
+          "IslandShopScene",
+          "page = 1"
+        ]
+      ]
+    ],
+    "name": "种植教材T1",
+    "order_price": 0,
+    "price": 0,
+    "rarity": 2,
+    "resource_type": 1,
+    "type": 2,
+    "usage": "usage_undefined",
+    "usage_arg": "5"
+  },
+  "100022": {
+    "desc": "角色系统用，占坑",
+    "drop_after_use": 0,
+    "filter": [
+      9
+    ],
+    "group_max": 0,
+    "icon": "IslandProps/gold",
+    "id": 100022,
+    "jump_page": [
+      [
+        "商店购买",
+        [
+          "IslandShopScene",
+          "page = 1"
+        ]
+      ]
+    ],
+    "name": "种植教材T2",
+    "order_price": 0,
+    "price": 0,
+    "rarity": 2,
+    "resource_type": 1,
+    "type": 2,
+    "usage": "usage_undefined",
+    "usage_arg": "10"
+  },
+  "100023": {
+    "desc": "角色系统用，占坑",
+    "drop_after_use": 0,
+    "filter": [
+      9
+    ],
+    "group_max": 0,
+    "icon": "IslandProps/gold",
+    "id": 100023,
+    "jump_page": [
+      [
+        "商店购买",
+        [
+          "IslandShopScene",
+          "page = 1"
+        ]
+      ]
+    ],
+    "name": "种植教材T3",
+    "order_price": 0,
+    "price": 0,
+    "rarity": 2,
+    "resource_type": 1,
+    "type": 2,
+    "usage": "usage_undefined",
+    "usage_arg": "15"
+  },
+  "100031": {
+    "desc": "角色系统用，占坑",
+    "drop_after_use": 0,
+    "filter": [
+      9
+    ],
+    "group_max": 0,
+    "icon": "IslandProps/gold",
+    "id": 100031,
+    "jump_page": [
+      [
+        "商店购买",
+        [
+          "IslandShopScene",
+          "page = 1"
+        ]
+      ]
+    ],
+    "name": "机械教材T1",
+    "order_price": 0,
+    "price": 0,
+    "rarity": 2,
+    "resource_type": 1,
+    "type": 2,
+    "usage": "usage_undefined",
+    "usage_arg": "5"
+  },
+  "100032": {
+    "desc": "角色系统用，占坑",
+    "drop_after_use": 0,
+    "filter": [
+      9
+    ],
+    "group_max": 0,
+    "icon": "IslandProps/gold",
+    "id": 100032,
+    "jump_page": [
+      [
+        "商店购买",
+        [
+          "IslandShopScene",
+          "page = 1"
+        ]
+      ]
+    ],
+    "name": "机械教材T2",
+    "order_price": 0,
+    "price": 0,
+    "rarity": 2,
+    "resource_type": 1,
+    "type": 2,
+    "usage": "usage_undefined",
+    "usage_arg": "10"
+  },
+  "100033": {
+    "desc": "角色系统用，占坑",
+    "drop_after_use": 0,
+    "filter": [
+      9
+    ],
+    "group_max": 0,
+    "icon": "IslandProps/gold",
+    "id": 100033,
+    "jump_page": [
+      [
+        "商店购买",
+        [
+          "IslandShopScene",
+          "page = 1"
+        ]
+      ]
+    ],
+    "name": "机械教材T3",
+    "order_price": 0,
+    "price": 0,
+    "rarity": 2,
+    "resource_type": 1,
+    "type": 2,
+    "usage": "usage_undefined",
+    "usage_arg": "15"
+  },
+  "100041": {
+    "desc": "角色系统用，占坑",
+    "drop_after_use": 0,
+    "filter": [
+      9
+    ],
+    "group_max": 0,
+    "icon": "IslandProps/gold",
+    "id": 100041,
+    "jump_page": [
+      [
+        "商店购买",
+        [
+          "IslandShopScene",
+          "page = 1"
+        ]
+      ]
+    ],
+    "name": "采集教材T1",
+    "order_price": 0,
+    "price": 0,
+    "rarity": 2,
+    "resource_type": 1,
+    "type": 2,
+    "usage": "usage_undefined",
+    "usage_arg": "5"
+  },
+  "100042": {
+    "desc": "角色系统用，占坑",
+    "drop_after_use": 0,
+    "filter": [
+      9
+    ],
+    "group_max": 0,
+    "icon": "IslandProps/gold",
+    "id": 100042,
+    "jump_page": [
+      [
+        "商店购买",
+        [
+          "IslandShopScene",
+          "page = 1"
+        ]
+      ]
+    ],
+    "name": "采集教材T2",
+    "order_price": 0,
+    "price": 0,
+    "rarity": 2,
+    "resource_type": 1,
+    "type": 2,
+    "usage": "usage_undefined",
+    "usage_arg": "10"
+  },
+  "100043": {
+    "desc": "角色系统用，占坑",
+    "drop_after_use": 0,
+    "filter": [
+      9
+    ],
+    "group_max": 0,
+    "icon": "IslandProps/gold",
+    "id": 100043,
+    "jump_page": [
+      [
+        "商店购买",
+        [
+          "IslandShopScene",
+          "page = 1"
+        ]
+      ]
+    ],
+    "name": "采集教材T3",
+    "order_price": 0,
+    "price": 0,
+    "rarity": 2,
+    "resource_type": 1,
+    "type": 2,
+    "usage": "usage_undefined",
+    "usage_arg": "15"
+  },
+  "100051": {
+    "desc": "角色系统用，占坑",
+    "drop_after_use": 0,
+    "filter": [
+      9
+    ],
+    "group_max": 0,
+    "icon": "IslandProps/gold",
+    "id": 100051,
+    "jump_page": [
+      [
+        "商店购买",
+        [
+          "IslandShopScene",
+          "page = 1"
+        ]
+      ]
+    ],
+    "name": "养护教材T1",
+    "order_price": 0,
+    "price": 0,
+    "rarity": 2,
+    "resource_type": 1,
+    "type": 2,
+    "usage": "usage_undefined",
+    "usage_arg": "5"
+  },
+  "100052": {
+    "desc": "角色系统用，占坑",
+    "drop_after_use": 0,
+    "filter": [
+      9
+    ],
+    "group_max": 0,
+    "icon": "IslandProps/gold",
+    "id": 100052,
+    "jump_page": [
+      [
+        "商店购买",
+        [
+          "IslandShopScene",
+          "page = 1"
+        ]
+      ]
+    ],
+    "name": "养护教材T2",
+    "order_price": 0,
+    "price": 0,
+    "rarity": 2,
+    "resource_type": 1,
+    "type": 2,
+    "usage": "usage_undefined",
+    "usage_arg": "10"
+  },
+  "100053": {
+    "desc": "角色系统用，占坑",
+    "drop_after_use": 0,
+    "filter": [
+      9
+    ],
+    "group_max": 0,
+    "icon": "IslandProps/gold",
+    "id": 100053,
+    "jump_page": [
+      [
+        "商店购买",
+        [
+          "IslandShopScene",
+          "page = 1"
+        ]
+      ]
+    ],
+    "name": "养护教材T3",
+    "order_price": 0,
+    "price": 0,
+    "rarity": 2,
+    "resource_type": 1,
+    "type": 2,
+    "usage": "usage_undefined",
+    "usage_arg": "15"
+  },
+  "100061": {
+    "desc": "角色系统用，占坑",
+    "drop_after_use": 0,
+    "filter": [
+      9
+    ],
+    "group_max": 0,
+    "icon": "IslandProps/gold",
+    "id": 100061,
+    "jump_page": [
+      [
+        "商店购买",
+        [
+          "IslandShopScene",
+          "page = 1"
+        ]
+      ]
+    ],
+    "name": "烹调教材T1",
+    "order_price": 0,
+    "price": 0,
+    "rarity": 2,
+    "resource_type": 1,
+    "type": 2,
+    "usage": "usage_undefined",
+    "usage_arg": "5"
+  },
+  "100062": {
+    "desc": "角色系统用，占坑",
+    "drop_after_use": 0,
+    "filter": [
+      9
+    ],
+    "group_max": 0,
+    "icon": "IslandProps/gold",
+    "id": 100062,
+    "jump_page": [
+      [
+        "商店购买",
+        [
+          "IslandShopScene",
+          "page = 1"
+        ]
+      ]
+    ],
+    "name": "烹调教材T2",
+    "order_price": 0,
+    "price": 0,
+    "rarity": 2,
+    "resource_type": 1,
+    "type": 2,
+    "usage": "usage_undefined",
+    "usage_arg": "10"
+  },
+  "100063": {
+    "desc": "角色系统用，占坑",
+    "drop_after_use": 0,
+    "filter": [
+      9
+    ],
+    "group_max": 0,
+    "icon": "IslandProps/gold",
+    "id": 100063,
+    "jump_page": [
+      [
+        "商店购买",
+        [
+          "IslandShopScene",
+          "page = 1"
+        ]
+      ]
+    ],
+    "name": "烹调教材T3",
+    "order_price": 0,
+    "price": 0,
+    "rarity": 2,
+    "resource_type": 1,
+    "type": 2,
+    "usage": "usage_undefined",
+    "usage_arg": "15"
+  },
+  "100101": {
+    "desc": "角色系统用，占坑",
+    "drop_after_use": 0,
+    "filter": [
+      9
+    ],
+    "group_max": 0,
+    "icon": "IslandProps/gold",
+    "id": 100101,
+    "jump_page": [
+      [
+        "商店购买",
+        [
+          "IslandShopScene",
+          "page = 1"
+        ]
+      ]
+    ],
+    "name": "技能升级材料T1",
+    "order_price": 0,
+    "price": 0,
+    "rarity": 2,
+    "resource_type": 1,
+    "type": 2,
+    "usage": "usage_undefined",
+    "usage_arg": "[]"
+  },
+  "100102": {
+    "desc": "角色系统用，占坑",
+    "drop_after_use": 0,
+    "filter": [
+      9
+    ],
+    "group_max": 0,
+    "icon": "IslandProps/gold",
+    "id": 100102,
+    "jump_page": [
+      [
+        "商店购买",
+        [
+          "IslandShopScene",
+          "page = 1"
+        ]
+      ]
+    ],
+    "name": "技能升级材料T2",
+    "order_price": 0,
+    "price": 0,
+    "rarity": 2,
+    "resource_type": 1,
+    "type": 2,
+    "usage": "usage_undefined",
+    "usage_arg": "[]"
+  },
+  "100103": {
+    "desc": "角色系统用，占坑",
+    "drop_after_use": 0,
+    "filter": [
+      9
+    ],
+    "group_max": 0,
+    "icon": "IslandProps/gold",
+    "id": 100103,
+    "jump_page": [
+      [
+        "商店购买",
+        [
+          "IslandShopScene",
+          "page = 1"
+        ]
+      ]
+    ],
+    "name": "技能升级材料T3",
+    "order_price": 0,
+    "price": 0,
+    "rarity": 2,
+    "resource_type": 1,
+    "type": 2,
+    "usage": "usage_undefined",
+    "usage_arg": "[]"
+  },
+  "100201": {
+    "desc": "角色系统用，占坑",
+    "drop_after_use": 0,
+    "filter": [
+      9
+    ],
+    "group_max": 0,
+    "icon": "IslandProps/gold",
+    "id": 100201,
+    "jump_page": [
+      [
+        "商店购买",
+        [
+          "IslandShopScene",
+          "page = 1"
+        ]
+      ]
+    ],
+    "name": "角色突破材料T1",
+    "order_price": 0,
+    "price": 0,
+    "rarity": 2,
+    "resource_type": 1,
+    "type": 2,
+    "usage": "usage_undefined",
+    "usage_arg": "[]"
+  },
+  "100202": {
+    "desc": "角色系统用，占坑",
+    "drop_after_use": 0,
+    "filter": [
+      9
+    ],
+    "group_max": 0,
+    "icon": "IslandProps/gold",
+    "id": 100202,
+    "jump_page": [
+      [
+        "商店购买",
+        [
+          "IslandShopScene",
+          "page = 1"
+        ]
+      ]
+    ],
+    "name": "角色突破材料T2",
+    "order_price": 0,
+    "price": 0,
+    "rarity": 2,
+    "resource_type": 1,
+    "type": 2,
+    "usage": "usage_undefined",
+    "usage_arg": "[]"
+  },
+  "100203": {
+    "desc": "角色系统用，占坑",
+    "drop_after_use": 0,
+    "filter": [
+      9
+    ],
+    "group_max": 0,
+    "icon": "IslandProps/gold",
+    "id": 100203,
+    "jump_page": [
+      [
+        "商店购买",
+        [
+          "IslandShopScene",
+          "page = 1"
+        ]
+      ]
+    ],
+    "name": "角色突破材料T3",
+    "order_price": 0,
+    "price": 0,
+    "rarity": 2,
+    "resource_type": 1,
+    "type": 2,
+    "usage": "usage_undefined",
+    "usage_arg": "[]"
+  },
+  "110001": {
+    "desc": "角色系统用，占坑",
+    "drop_after_use": 0,
+    "filter": [
+      17
+    ],
+    "group_max": 0,
+    "icon": "IslandProps/gold",
+    "id": 110001,
+    "jump_page": [
+      [
+        "商店购买",
+        [
+          "IslandShopScene",
+          "page = 1"
+        ]
+      ]
+    ],
+    "name": "礼物测试1",
+    "order_price": 0,
+    "price": 0,
+    "rarity": 2,
+    "resource_type": 1,
+    "type": 2,
+    "usage": "usage_island_gift",
+    "usage_arg": [
+      101,
+      201
+    ]
+  },
+  "110002": {
+    "desc": "角色系统用，占坑",
+    "drop_after_use": 0,
+    "filter": [
+      17
+    ],
+    "group_max": 0,
+    "icon": "IslandProps/gold",
+    "id": 110002,
+    "jump_page": [
+      [
+        "商店购买",
+        [
+          "IslandShopScene",
+          "page = 1"
+        ]
+      ]
+    ],
+    "name": "礼物测试2",
+    "order_price": 0,
+    "price": 0,
+    "rarity": 2,
+    "resource_type": 1,
+    "type": 2,
+    "usage": "usage_island_gift",
+    "usage_arg": [
+      101,
+      101
+    ]
+  },
+  "110003": {
+    "desc": "角色系统用，占坑",
+    "drop_after_use": 0,
+    "filter": [
+      17
+    ],
+    "group_max": 0,
+    "icon": "IslandProps/gold",
+    "id": 110003,
+    "jump_page": [
+      [
+        "商店购买",
+        [
+          "IslandShopScene",
+          "page = 1"
+        ]
+      ]
+    ],
+    "name": "礼物测试3",
+    "order_price": 0,
+    "price": 0,
+    "rarity": 2,
+    "resource_type": 1,
+    "type": 2,
+    "usage": "usage_island_gift",
+    "usage_arg": [
+      201,
+      201
+    ]
+  },
+  "all": [
+    1,
+    2,
+    1001,
+    1002,
+    1003,
+    1004,
+    1005,
+    1006,
+    1007,
+    1008,
+    1009,
+    1010,
+    1011,
+    1012,
+    1013,
+    1014,
+    1015,
+    1016,
+    1017,
+    1018,
+    1019,
+    1101,
+    1102,
+    1103,
+    1104,
+    1105,
+    1106,
+    1107,
+    1108,
+    2001,
+    2002,
+    2003,
+    2004,
+    2005,
+    2006,
+    2007,
+    2008,
+    2009,
+    2010,
+    2011,
+    3001,
+    3002,
+    3003,
+    3004,
+    3005,
+    3006,
+    3007,
+    3008,
+    3009,
+    3010,
+    3011,
+    3012,
+    3013,
+    3014,
+    3015,
+    3016,
+    3017,
+    3018,
+    5001,
+    5002,
+    5003,
+    5004,
+    5005,
+    5006,
+    100000,
+    100001,
+    100002,
+    100003,
+    100011,
+    100012,
+    100013,
+    100021,
+    100022,
+    100023,
+    100031,
+    100032,
+    100033,
+    100041,
+    100042,
+    100043,
+    100051,
+    100052,
+    100053,
+    100061,
+    100062,
+    100063,
+    100101,
+    100102,
+    100103,
+    100201,
+    100202,
+    100203,
+    110001,
+    110002,
+    110003
+  ],
+  "get_id_list_by_usage": {
+    "usage_island_gift": [
+      110001,
+      110002,
+      110003
+    ],
+    "usage_undefined": [
+      1,
+      2,
+      1001,
+      1002,
+      1003,
+      1004,
+      1005,
+      1006,
+      1007,
+      1008,
+      1009,
+      1010,
+      1011,
+      1012,
+      1013,
+      1014,
+      1015,
+      1016,
+      1017,
+      1018,
+      1019,
+      1101,
+      1102,
+      1103,
+      1104,
+      1105,
+      1106,
+      1107,
+      1108,
+      2001,
+      2002,
+      2003,
+      2004,
+      2005,
+      2006,
+      2007,
+      2008,
+      2009,
+      2010,
+      2011,
+      3001,
+      3002,
+      3003,
+      3004,
+      3005,
+      3006,
+      3007,
+      3008,
+      3009,
+      3010,
+      3011,
+      3012,
+      3013,
+      3014,
+      3015,
+      3016,
+      3017,
+      3018,
+      5001,
+      5002,
+      5003,
+      5004,
+      5005,
+      5006,
+      100000,
+      100001,
+      100002,
+      100003,
+      100011,
+      100012,
+      100013,
+      100021,
+      100022,
+      100023,
+      100031,
+      100032,
+      100033,
+      100041,
+      100042,
+      100043,
+      100051,
+      100052,
+      100053,
+      100061,
+      100062,
+      100063,
+      100101,
+      100102,
+      100103,
+      100201,
+      100202,
+      100203
+    ]
+  }
+}

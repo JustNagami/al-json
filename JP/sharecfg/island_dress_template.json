@@ -1,0 +1,92 @@
+{
+  "20001": {
+    "attachmentPoint": "Bip001 Neck",
+    "icon": "",
+    "id": 20001,
+    "model": "island/item/charactercustom/wing/devil/prefab/pre_testwing",
+    "name": "翅膀（测试）",
+    "offset": [
+      0.12,
+      -0.34,
+      0
+    ],
+    "quality": 1,
+    "type": 2
+  },
+  "30001": {
+    "attachmentPoint": "Following",
+    "icon": "",
+    "id": 30001,
+    "model": "island/item/charactercustom/balloon/prefab/pre_balloon01_red",
+    "name": "红气球",
+    "offset": [
+      -0.6,
+      -0.08,
+      0
+    ],
+    "quality": 1,
+    "type": 3
+  },
+  "50001": {
+    "attachmentPoint": "FootPrint",
+    "icon": "vfx_jiaoying_xingxing01",
+    "id": 50001,
+    "model": "island/effect/prefab/jiaoyin/vfx_jiaoying_xingxing01",
+    "name": "星星脚印",
+    "offset": "",
+    "quality": 2,
+    "type": 5
+  },
+  "50002": {
+    "attachmentPoint": "FootPrint",
+    "icon": "vfx_jiaoying_maozhua01",
+    "id": 50002,
+    "model": "island/effect/prefab/jiaoyin/vfx_jiaoying_maozhua01",
+    "name": "猫爪脚印",
+    "offset": "",
+    "quality": 2,
+    "type": 5
+  },
+  "50003": {
+    "attachmentPoint": "FootPrint",
+    "icon": "vfx_jiaoying_jijiao01",
+    "id": 50003,
+    "model": "island/effect/prefab/jiaoyin/vfx_jiaoying_jijiao01",
+    "name": "小鸡脚印",
+    "offset": "",
+    "quality": 1,
+    "type": 5
+  },
+  "50004": {
+    "attachmentPoint": "FootPrint",
+    "icon": "vfx_jiaoying_fengwo01",
+    "id": 50004,
+    "model": "island/effect/prefab/jiaoyin/vfx_jiaoying_fengwo01",
+    "name": "蜂窝脚印",
+    "offset": "",
+    "quality": 1,
+    "type": 5
+  },
+  "all": [
+    20001,
+    30001,
+    50001,
+    50002,
+    50003,
+    50004
+  ],
+  "get_id_list_by_type": {
+    "2": [
+      20001
+    ],
+    "3": [
+      30001
+    ],
+    "5": [
+      50001,
+      50002,
+      50003,
+      50004
+    ]
+  }
+}

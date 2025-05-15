@@ -1,0 +1,151 @@
+{
+  "100000": {
+    "category": 1,
+    "id": 100000,
+    "island_level": 0,
+    "param": 0,
+    "type": 10001,
+    "unlock_display": 0
+  },
+  "100001": {
+    "category": 1,
+    "id": 100001,
+    "island_level": 1,
+    "param": 1,
+    "type": 10002,
+    "unlock_display": 1
+  },
+  "100002": {
+    "category": 1,
+    "id": 100002,
+    "island_level": 1,
+    "param": 2,
+    "type": 10002,
+    "unlock_display": 1
+  },
+  "100003": {
+    "category": 1,
+    "id": 100003,
+    "island_level": 1,
+    "param": 3,
+    "type": 10002,
+    "unlock_display": 1
+  },
+  "100004": {
+    "category": 1,
+    "id": 100004,
+    "island_level": 5,
+    "param": 4,
+    "type": 10002,
+    "unlock_display": 1
+  },
+  "100005": {
+    "category": 1,
+    "id": 100005,
+    "island_level": 10,
+    "param": 5,
+    "type": 10002,
+    "unlock_display": 1
+  },
+  "100006": {
+    "category": 1,
+    "id": 100006,
+    "island_level": 15,
+    "param": 6,
+    "type": 10002,
+    "unlock_display": 1
+  },
+  "100007": {
+    "category": 1,
+    "id": 100007,
+    "island_level": 20,
+    "param": 7,
+    "type": 10002,
+    "unlock_display": 1
+  },
+  "101101": {
+    "category": 1,
+    "id": 101101,
+    "island_level": 1,
+    "param": 0,
+    "type": 101101,
+    "unlock_display": 1
+  },
+  "101102": {
+    "category": 1,
+    "id": 101102,
+    "island_level": 5,
+    "param": 0,
+    "type": 101102,
+    "unlock_display": 1
+  },
+  "101103": {
+    "category": 1,
+    "id": 101103,
+    "island_level": 5,
+    "param": 0,
+    "type": 101103,
+    "unlock_display": 1
+  },
+  "all": [
+    100000,
+    100001,
+    100002,
+    100003,
+    100004,
+    100005,
+    100006,
+    100007,
+    101101,
+    101102,
+    101103
+  ],
+  "get_id_list_by_island_level": {
+    "0": [
+      100000
+    ],
+    "1": [
+      100001,
+      100002,
+      100003,
+      101101
+    ],
+    "5": [
+      100004,
+      101102,
+      101103
+    ],
+    "10": [
+      100005
+    ],
+    "15": [
+      100006
+    ],
+    "20": [
+      100007
+    ]
+  },
+  "get_id_list_by_type": {
+    "10001": [
+      100000
+    ],
+    "10002": [
+      100001,
+      100002,
+      100003,
+      100004,
+      100005,
+      100006,
+      100007
+    ],
+    "101101": [
+      101101
+    ],
+    "101102": [
+      101102
+    ],
+    "101103": [
+      101103
+    ]
+  }
+}

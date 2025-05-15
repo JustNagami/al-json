@@ -1,0 +1,130 @@
+{
+  "101": {
+    "id": 101,
+    "name": "与明石互动",
+    "target_id": 10030006,
+    "target_num": 1,
+    "tips": "10040022",
+    "type": 1
+  },
+  "201": {
+    "id": 201,
+    "name": "到达目标区域",
+    "target_id": 10010021,
+    "target_num": 1,
+    "tips": "10040022",
+    "type": 2
+  },
+  "301": {
+    "id": 301,
+    "name": "完成订单1",
+    "target_id": 0,
+    "target_num": 1,
+    "tips": "order",
+    "type": 3
+  },
+  "302": {
+    "id": 302,
+    "name": "完成订单2",
+    "target_id": 2,
+    "target_num": 1,
+    "tips": "order",
+    "type": 3
+  },
+  "401": {
+    "id": 401,
+    "name": "回收道具",
+    "target_id": 1001,
+    "target_num": 20,
+    "tips": "",
+    "type": 4
+  },
+  "501": {
+    "id": 501,
+    "name": "获得任意道具",
+    "target_id": 0,
+    "target_num": 20,
+    "tips": "",
+    "type": 5
+  },
+  "502": {
+    "id": 502,
+    "name": "获得指定道具",
+    "target_id": 1001,
+    "target_num": 20,
+    "tips": "",
+    "type": 5
+  },
+  "601": {
+    "id": 601,
+    "name": "任意配方手动完成",
+    "target_id": 0,
+    "target_num": 1,
+    "tips": "",
+    "type": 6
+  },
+  "602": {
+    "id": 602,
+    "name": "指定配方手动完成",
+    "target_id": 101001,
+    "target_num": 1,
+    "tips": "",
+    "type": 6
+  },
+  "701": {
+    "id": 701,
+    "name": "任意配方委派完成",
+    "target_id": 0,
+    "target_num": 1,
+    "tips": "",
+    "type": 7
+  },
+  "702": {
+    "id": 702,
+    "name": "指定配方委派完成",
+    "target_id": 101001,
+    "target_num": 1,
+    "tips": "",
+    "type": 7
+  },
+  "801": {
+    "id": 801,
+    "name": "任意科研项",
+    "target_id": 0,
+    "target_num": 5,
+    "tips": "technology",
+    "type": 8
+  },
+  "802": {
+    "id": 802,
+    "name": "指定科研项",
+    "target_id": 1,
+    "target_num": 1,
+    "tips": "technology",
+    "type": 8
+  },
+  "901": {
+    "id": 901,
+    "name": "岛屿等级",
+    "target_id": 0,
+    "target_num": 10,
+    "tips": "",
+    "type": 9
+  },
+  "all": [
+    101,
+    201,
+    301,
+    302,
+    401,
+    501,
+    502,
+    601,
+    602,
+    701,
+    702,
+    801,
+    802,
+    901
+  ]
+}

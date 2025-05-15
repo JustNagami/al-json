@@ -1,0 +1,150 @@
+{
+  "1": {
+    "ability_id": 0,
+    "btn_name": "inventory",
+    "icon": "inventory",
+    "id": 1,
+    "main_type": 1,
+    "name": "仓库",
+    "open_page": "IslandInventoryPage",
+    "page_param": []
+  },
+  "2": {
+    "ability_id": 0,
+    "btn_name": "char",
+    "icon": "char",
+    "id": 2,
+    "main_type": 1,
+    "name": "角色",
+    "open_page": "IslandShipMainPage",
+    "page_param": []
+  },
+  "3": {
+    "ability_id": 0,
+    "btn_name": "device",
+    "icon": "device",
+    "id": 3,
+    "main_type": 1,
+    "name": "设备",
+    "open_page": "IslandDevicePage",
+    "page_param": []
+  },
+  "4": {
+    "ability_id": 0,
+    "btn_name": "map",
+    "icon": "map",
+    "id": 4,
+    "main_type": 1,
+    "name": "地图",
+    "open_page": "IslandMapPage",
+    "page_param": []
+  },
+  "5": {
+    "ability_id": 0,
+    "btn_name": "shop",
+    "icon": "shop",
+    "id": 5,
+    "main_type": 1,
+    "name": "商店",
+    "open_page": "IslandShopPage",
+    "page_param": [
+      [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    ]
+  },
+  "6": {
+    "ability_id": 0,
+    "btn_name": "order",
+    "icon": "order",
+    "id": 6,
+    "main_type": 2,
+    "name": "普通订单",
+    "open_page": "IslandOrderPage",
+    "page_param": []
+  },
+  "7": {
+    "ability_id": 0,
+    "btn_name": "ship_order",
+    "icon": "ship_order",
+    "id": 7,
+    "main_type": 2,
+    "name": "船舶订单",
+    "open_page": "IslandShipOrderPage",
+    "page_param": []
+  },
+  "8": {
+    "ability_id": 0,
+    "btn_name": "manage",
+    "icon": "manage",
+    "id": 8,
+    "main_type": 2,
+    "name": "经营玩法",
+    "open_page": "",
+    "page_param": []
+  },
+  "9": {
+    "ability_id": 0,
+    "btn_name": "collection",
+    "icon": "collection",
+    "id": 9,
+    "main_type": 2,
+    "name": "图鉴",
+    "open_page": "",
+    "page_param": []
+  },
+  "10": {
+    "ability_id": 0,
+    "btn_name": "achievement",
+    "icon": "achievement",
+    "id": 10,
+    "main_type": 2,
+    "name": "成就",
+    "open_page": "",
+    "page_param": []
+  },
+  "11": {
+    "ability_id": 0,
+    "btn_name": "season",
+    "icon": "season",
+    "id": 11,
+    "main_type": 2,
+    "name": "赛季",
+    "open_page": "",
+    "page_param": []
+  },
+  "all": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+  ],
+  "get_id_list_by_main_type": [
+    [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ]
+  ]
+}

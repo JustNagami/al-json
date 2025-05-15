@@ -1,0 +1,259 @@
+{
+  "3": {
+    "args": "",
+    "belong_filter_id": 11,
+    "filter_level": 3,
+    "id": 3,
+    "name": "基础材料",
+    "res": "",
+    "sort_id": 0
+  },
+  "4": {
+    "args": "",
+    "belong_filter_id": 11,
+    "filter_level": 3,
+    "id": 4,
+    "name": "一级合成",
+    "res": "",
+    "sort_id": 0
+  },
+  "5": {
+    "args": "",
+    "belong_filter_id": 11,
+    "filter_level": 3,
+    "id": 5,
+    "name": "二级合成",
+    "res": "",
+    "sort_id": 0
+  },
+  "6": {
+    "args": "",
+    "belong_filter_id": 21,
+    "filter_level": 3,
+    "id": 6,
+    "name": "矿山",
+    "res": "",
+    "sort_id": 0
+  },
+  "7": {
+    "args": "",
+    "belong_filter_id": 21,
+    "filter_level": 3,
+    "id": 7,
+    "name": "浴场",
+    "res": "",
+    "sort_id": 0
+  },
+  "8": {
+    "args": "",
+    "belong_filter_id": 21,
+    "filter_level": 3,
+    "id": 8,
+    "name": "农田",
+    "res": "",
+    "sort_id": 0
+  },
+  "9": {
+    "args": "",
+    "belong_filter_id": 12,
+    "filter_level": 3,
+    "id": 9,
+    "name": "角色up",
+    "res": "",
+    "sort_id": 0
+  },
+  "11": {
+    "args": "",
+    "belong_filter_id": 101,
+    "filter_level": 2,
+    "id": 11,
+    "name": "种类",
+    "res": "",
+    "sort_id": 0
+  },
+  "12": {
+    "args": "",
+    "belong_filter_id": 102,
+    "filter_level": 2,
+    "id": 12,
+    "name": "付费消耗品",
+    "res": "",
+    "sort_id": 0
+  },
+  "13": {
+    "args": "",
+    "belong_filter_id": 103,
+    "filter_level": 2,
+    "id": 13,
+    "name": "任务道具",
+    "res": "",
+    "sort_id": 0
+  },
+  "15": {
+    "args": "",
+    "belong_filter_id": 22,
+    "filter_level": 3,
+    "id": 15,
+    "name": "增加效率",
+    "res": "",
+    "sort_id": 0
+  },
+  "16": {
+    "args": "",
+    "belong_filter_id": 13,
+    "filter_level": 3,
+    "id": 16,
+    "name": "钥匙",
+    "res": "",
+    "sort_id": 0
+  },
+  "17": {
+    "args": "",
+    "belong_filter_id": 23,
+    "filter_level": 3,
+    "id": 17,
+    "name": "舰娘礼物",
+    "res": "",
+    "sort_id": 0
+  },
+  "21": {
+    "args": "",
+    "belong_filter_id": 101,
+    "filter_level": 2,
+    "id": 21,
+    "name": "设施",
+    "res": "",
+    "sort_id": 0
+  },
+  "22": {
+    "args": "",
+    "belong_filter_id": 102,
+    "filter_level": 2,
+    "id": 22,
+    "name": "免费道具",
+    "res": "",
+    "sort_id": 0
+  },
+  "23": {
+    "args": "",
+    "belong_filter_id": 103,
+    "filter_level": 2,
+    "id": 23,
+    "name": "纪念道具",
+    "res": "",
+    "sort_id": 0
+  },
+  "101": {
+    "args": "",
+    "belong_filter_id": 0,
+    "filter_level": 1,
+    "id": 101,
+    "name": "材料",
+    "res": "",
+    "sort_id": 1010
+  },
+  "102": {
+    "args": "",
+    "belong_filter_id": 0,
+    "filter_level": 1,
+    "id": 102,
+    "name": "消耗品",
+    "res": "",
+    "sort_id": 1010
+  },
+  "103": {
+    "args": "",
+    "belong_filter_id": 0,
+    "filter_level": 1,
+    "id": 103,
+    "name": "特殊类",
+    "res": "",
+    "sort_id": 1010
+  },
+  "1010": {
+    "args": "",
+    "belong_filter_id": 0,
+    "filter_level": 2,
+    "id": 1010,
+    "name": "排序",
+    "res": "",
+    "sort_id": 0
+  },
+  "1011": {
+    "args": "GetRarity",
+    "belong_filter_id": 1010,
+    "filter_level": 3,
+    "id": 1011,
+    "name": "稀有度",
+    "res": "",
+    "sort_id": 0
+  },
+  "all": [
+    101,
+    11,
+    3,
+    4,
+    5,
+    21,
+    6,
+    7,
+    8,
+    102,
+    12,
+    9,
+    22,
+    15,
+    103,
+    13,
+    16,
+    23,
+    17,
+    1010,
+    1011
+  ],
+  "get_id_list_by_belong_filter_id": {
+    "0": [
+      101,
+      102,
+      103,
+      1010
+    ],
+    "11": [
+      3,
+      4,
+      5
+    ],
+    "12": [
+      9
+    ],
+    "13": [
+      16
+    ],
+    "21": [
+      6,
+      7,
+      8
+    ],
+    "22": [
+      15
+    ],
+    "23": [
+      17
+    ],
+    "101": [
+      11,
+      21
+    ],
+    "102": [
+      12,
+      22
+    ],
+    "103": [
+      13,
+      23
+    ],
+    "1010": [
+      1011
+    ]
+  }
+}

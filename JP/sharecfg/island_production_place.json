@@ -1,0 +1,233 @@
+{
+  "101": {
+    "behaviourTree": "",
+    "commission_slot": [
+      10101,
+      10102,
+      10103,
+      10104
+    ],
+    "delegationCamera": "",
+    "gathering_slot": [],
+    "id": 101,
+    "interactionType": 0,
+    "map_id": 1001,
+    "name": "农田",
+    "npc_birthplace": 1010001,
+    "unlock_type": 2
+  },
+  "102": {
+    "behaviourTree": "",
+    "commission_slot": [],
+    "delegationCamera": "",
+    "gathering_slot": [],
+    "id": 102,
+    "interactionType": 0,
+    "map_id": 1001,
+    "name": "牧场",
+    "npc_birthplace": 1010002,
+    "unlock_type": 1
+  },
+  "401": {
+    "behaviourTree": "Island/NodeCanvas/System/system_mineArea",
+    "commission_slot": [
+      40101,
+      40102,
+      40103,
+      40104
+    ],
+    "delegationCamera": "RoleDelegationCamera",
+    "gathering_slot": [
+      40101,
+      40102,
+      40103,
+      40104
+    ],
+    "id": 401,
+    "interactionType": 1,
+    "map_id": 1004,
+    "name": "矿场",
+    "npc_birthplace": 10040022,
+    "unlock_type": 2
+  },
+  "402": {
+    "behaviourTree": "island/nodecanvas/system/system_loggingcamp",
+    "commission_slot": [
+      40201,
+      40202,
+      40203,
+      40204
+    ],
+    "delegationCamera": "",
+    "gathering_slot": [
+      40201,
+      40202,
+      40203,
+      40204
+    ],
+    "id": 402,
+    "interactionType": 0,
+    "map_id": 1004,
+    "name": "伐木场",
+    "npc_birthplace": 10040002,
+    "unlock_type": 2
+  },
+  "501": {
+    "behaviourTree": "",
+    "commission_slot": [],
+    "delegationCamera": "",
+    "gathering_slot": [],
+    "id": 501,
+    "interactionType": 0,
+    "map_id": 1005,
+    "name": "果园",
+    "npc_birthplace": 1010005,
+    "unlock_type": 1
+  },
+  "502": {
+    "behaviourTree": "",
+    "commission_slot": [],
+    "delegationCamera": "",
+    "gathering_slot": [],
+    "id": 502,
+    "interactionType": 0,
+    "map_id": 1005,
+    "name": "种植园",
+    "npc_birthplace": 1010006,
+    "unlock_type": 1
+  },
+  "503": {
+    "behaviourTree": "",
+    "commission_slot": [],
+    "delegationCamera": "",
+    "gathering_slot": [],
+    "id": 503,
+    "interactionType": 0,
+    "map_id": 1005,
+    "name": "蜂箱",
+    "npc_birthplace": 1010007,
+    "unlock_type": 1
+  },
+  "601": {
+    "behaviourTree": "",
+    "commission_slot": [],
+    "delegationCamera": "",
+    "gathering_slot": [],
+    "id": 601,
+    "interactionType": 0,
+    "map_id": 1006,
+    "name": "水吧",
+    "npc_birthplace": 1010008,
+    "unlock_type": 1
+  },
+  "602": {
+    "behaviourTree": "",
+    "commission_slot": [],
+    "delegationCamera": "",
+    "gathering_slot": [],
+    "id": 602,
+    "interactionType": 0,
+    "map_id": 1006,
+    "name": "厨房",
+    "npc_birthplace": 1010009,
+    "unlock_type": 1
+  },
+  "701": {
+    "behaviourTree": "",
+    "commission_slot": [],
+    "delegationCamera": "",
+    "gathering_slot": [],
+    "id": 701,
+    "interactionType": 0,
+    "map_id": 1007,
+    "name": "工厂",
+    "npc_birthplace": 1010010,
+    "unlock_type": 1
+  },
+  "702": {
+    "behaviourTree": "",
+    "commission_slot": [
+      70201,
+      70202
+    ],
+    "delegationCamera": "",
+    "gathering_slot": [],
+    "id": 702,
+    "interactionType": 0,
+    "map_id": 1007,
+    "name": "科研",
+    "npc_birthplace": 1010012,
+    "unlock_type": 0
+  },
+  "801": {
+    "behaviourTree": "",
+    "commission_slot": [],
+    "delegationCamera": "",
+    "gathering_slot": [],
+    "id": 801,
+    "interactionType": 0,
+    "map_id": 1008,
+    "name": "渔场",
+    "npc_birthplace": 1010011,
+    "unlock_type": 1
+  },
+  "901": {
+    "behaviourTree": "",
+    "commission_slot": [
+      90101,
+      90102
+    ],
+    "delegationCamera": "",
+    "gathering_slot": [],
+    "id": 901,
+    "interactionType": 0,
+    "map_id": 1009,
+    "name": "咖啡馆",
+    "npc_birthplace": 10090008,
+    "unlock_type": 2
+  },
+  "all": [
+    101,
+    102,
+    401,
+    402,
+    501,
+    502,
+    503,
+    601,
+    602,
+    701,
+    702,
+    801,
+    901
+  ],
+  "get_id_list_by_map_id": {
+    "1001": [
+      101,
+      102
+    ],
+    "1004": [
+      401,
+      402
+    ],
+    "1005": [
+      501,
+      502,
+      503
+    ],
+    "1006": [
+      601,
+      602
+    ],
+    "1007": [
+      701,
+      702
+    ],
+    "1008": [
+      801
+    ],
+    "1009": [
+      901
+    ]
+  }
+}

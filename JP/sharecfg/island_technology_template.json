@@ -1,0 +1,665 @@
+{
+  "1": {
+    "auto_finish": 0,
+    "axis": [
+      1,
+      1
+    ],
+    "ex_tech": [],
+    "formula_id": 701001,
+    "id": 1,
+    "island_level": 1,
+    "item_type": 1,
+    "item_unlock": [],
+    "next_tech": [
+      2
+    ],
+    "sys_unlock": [],
+    "tech_belong": 1,
+    "tech_chara": 1,
+    "tech_desc": "完成该项可以解锁火箭",
+    "tech_icon": "keyan_II",
+    "tech_level": "1",
+    "tech_name": "中枢1",
+    "tech_repeat": [
+      0,
+      0
+    ],
+    "tech_unlock_desc": "需要岛屿等级10^p持有舰娘xxx"
+  },
+  "2": {
+    "auto_finish": 0,
+    "axis": [
+      4,
+      1
+    ],
+    "ex_tech": [
+      1
+    ],
+    "formula_id": 701002,
+    "id": 2,
+    "island_level": 2,
+    "item_type": 1,
+    "item_unlock": [
+      [
+        1001,
+        20
+      ],
+      [
+        1002,
+        20
+      ]
+    ],
+    "next_tech": [],
+    "sys_unlock": [],
+    "tech_belong": 1,
+    "tech_chara": 1,
+    "tech_desc": "完成该项可以解锁火箭",
+    "tech_icon": "keyan_II",
+    "tech_level": "2",
+    "tech_name": "中枢2",
+    "tech_repeat": [
+      0,
+      0
+    ],
+    "tech_unlock_desc": "需要岛屿等级10^p持有舰娘xxx"
+  },
+  "3": {
+    "auto_finish": 1,
+    "axis": [
+      1,
+      1
+    ],
+    "ex_tech": [],
+    "formula_id": 701003,
+    "id": 3,
+    "island_level": 1,
+    "item_type": 1,
+    "item_unlock": [
+      [
+        1001,
+        20
+      ],
+      [
+        1002,
+        20
+      ]
+    ],
+    "next_tech": [
+      4
+    ],
+    "sys_unlock": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        14001
+      ]
+    ],
+    "tech_belong": 2,
+    "tech_chara": 1,
+    "tech_desc": "完成该项可以解锁火箭",
+    "tech_icon": "keyan_II",
+    "tech_level": "1",
+    "tech_name": "科研1",
+    "tech_repeat": [
+      1,
+      0
+    ],
+    "tech_unlock_desc": "需要岛屿等级10^p持有舰娘xxx"
+  },
+  "4": {
+    "auto_finish": 1,
+    "axis": [
+      4,
+      1
+    ],
+    "ex_tech": [
+      3
+    ],
+    "formula_id": 701004,
+    "id": 4,
+    "island_level": 1,
+    "item_type": 1,
+    "item_unlock": [
+      [
+        1001,
+        20
+      ],
+      [
+        1002,
+        20
+      ]
+    ],
+    "next_tech": [],
+    "sys_unlock": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        14001
+      ]
+    ],
+    "tech_belong": 2,
+    "tech_chara": 1,
+    "tech_desc": "完成该项可以解锁火箭",
+    "tech_icon": "keyan_II",
+    "tech_level": "2",
+    "tech_name": "科研2",
+    "tech_repeat": [
+      1,
+      10
+    ],
+    "tech_unlock_desc": "需要岛屿等级10^p持有舰娘xxx"
+  },
+  "5": {
+    "auto_finish": 1,
+    "axis": [
+      2,
+      2
+    ],
+    "ex_tech": [],
+    "formula_id": 701005,
+    "id": 5,
+    "island_level": 1,
+    "item_type": 1,
+    "item_unlock": [
+      [
+        1001,
+        20
+      ],
+      [
+        1002,
+        20
+      ]
+    ],
+    "next_tech": [
+      6
+    ],
+    "sys_unlock": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        14001
+      ]
+    ],
+    "tech_belong": 3,
+    "tech_chara": 1,
+    "tech_desc": "完成该项可以解锁火箭",
+    "tech_icon": "keyan_II",
+    "tech_level": "1",
+    "tech_name": "烹调1",
+    "tech_repeat": [
+      1,
+      10
+    ],
+    "tech_unlock_desc": "需要岛屿等级10^p持有舰娘xxx"
+  },
+  "6": {
+    "auto_finish": 1,
+    "axis": [
+      5,
+      1
+    ],
+    "ex_tech": [
+      5
+    ],
+    "formula_id": 701006,
+    "id": 6,
+    "island_level": 1,
+    "item_type": 1,
+    "item_unlock": [
+      [
+        1001,
+        20
+      ],
+      [
+        1002,
+        20
+      ]
+    ],
+    "next_tech": [],
+    "sys_unlock": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        14001
+      ]
+    ],
+    "tech_belong": 3,
+    "tech_chara": 1,
+    "tech_desc": "完成该项可以解锁火箭",
+    "tech_icon": "keyan_II",
+    "tech_level": "2",
+    "tech_name": "烹调2",
+    "tech_repeat": [
+      1,
+      10
+    ],
+    "tech_unlock_desc": "需要岛屿等级10^p持有舰娘xxx"
+  },
+  "7": {
+    "auto_finish": 1,
+    "axis": [
+      2,
+      2
+    ],
+    "ex_tech": [],
+    "formula_id": 701007,
+    "id": 7,
+    "island_level": 1,
+    "item_type": 1,
+    "item_unlock": [
+      [
+        1001,
+        20
+      ],
+      [
+        1002,
+        20
+      ]
+    ],
+    "next_tech": [
+      8
+    ],
+    "sys_unlock": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        14001
+      ]
+    ],
+    "tech_belong": 4,
+    "tech_chara": 1,
+    "tech_desc": "完成该项可以解锁火箭",
+    "tech_icon": "keyan_II",
+    "tech_level": "1",
+    "tech_name": "养护1",
+    "tech_repeat": [
+      1,
+      10
+    ],
+    "tech_unlock_desc": "需要岛屿等级10^p持有舰娘xxx"
+  },
+  "8": {
+    "auto_finish": 1,
+    "axis": [
+      5,
+      3
+    ],
+    "ex_tech": [
+      7
+    ],
+    "formula_id": 701008,
+    "id": 8,
+    "island_level": 1,
+    "item_type": 1,
+    "item_unlock": [
+      [
+        1001,
+        20
+      ],
+      [
+        1002,
+        20
+      ]
+    ],
+    "next_tech": [],
+    "sys_unlock": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        14001
+      ]
+    ],
+    "tech_belong": 4,
+    "tech_chara": 1,
+    "tech_desc": "完成该项可以解锁火箭",
+    "tech_icon": "keyan_II",
+    "tech_level": "2",
+    "tech_name": "养护2",
+    "tech_repeat": [
+      1,
+      10
+    ],
+    "tech_unlock_desc": "需要岛屿等级10^p持有舰娘xxx"
+  },
+  "9": {
+    "auto_finish": 1,
+    "axis": [
+      2,
+      3
+    ],
+    "ex_tech": [],
+    "formula_id": 701009,
+    "id": 9,
+    "island_level": 1,
+    "item_type": 1,
+    "item_unlock": [
+      [
+        1001,
+        20
+      ],
+      [
+        1002,
+        20
+      ]
+    ],
+    "next_tech": [
+      10
+    ],
+    "sys_unlock": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        14001
+      ]
+    ],
+    "tech_belong": 5,
+    "tech_chara": 1,
+    "tech_desc": "完成该项可以解锁火箭",
+    "tech_icon": "keyan_II",
+    "tech_level": "1",
+    "tech_name": "种植1",
+    "tech_repeat": [
+      1,
+      10
+    ],
+    "tech_unlock_desc": "需要岛屿等级10^p持有舰娘xxx"
+  },
+  "10": {
+    "auto_finish": 1,
+    "axis": [
+      5,
+      1
+    ],
+    "ex_tech": [
+      9
+    ],
+    "formula_id": 701010,
+    "id": 10,
+    "island_level": 1,
+    "item_type": 1,
+    "item_unlock": [
+      [
+        1001,
+        20
+      ],
+      [
+        1002,
+        20
+      ]
+    ],
+    "next_tech": [],
+    "sys_unlock": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        14001
+      ]
+    ],
+    "tech_belong": 5,
+    "tech_chara": 1,
+    "tech_desc": "完成该项可以解锁火箭",
+    "tech_icon": "keyan_II",
+    "tech_level": "2",
+    "tech_name": "种植2",
+    "tech_repeat": [
+      1,
+      10
+    ],
+    "tech_unlock_desc": "需要岛屿等级10^p持有舰娘xxx"
+  },
+  "11": {
+    "auto_finish": 1,
+    "axis": [
+      2,
+      1
+    ],
+    "ex_tech": [],
+    "formula_id": 701011,
+    "id": 11,
+    "island_level": 1,
+    "item_type": 1,
+    "item_unlock": [
+      [
+        1001,
+        20
+      ],
+      [
+        1002,
+        20
+      ]
+    ],
+    "next_tech": [
+      12
+    ],
+    "sys_unlock": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        14001
+      ]
+    ],
+    "tech_belong": 6,
+    "tech_chara": 1,
+    "tech_desc": "完成该项可以解锁火箭",
+    "tech_icon": "keyan_II",
+    "tech_level": "1",
+    "tech_name": "机械1",
+    "tech_repeat": [
+      1,
+      10
+    ],
+    "tech_unlock_desc": "需要岛屿等级10^p持有舰娘xxx"
+  },
+  "12": {
+    "auto_finish": 1,
+    "axis": [
+      6,
+      3
+    ],
+    "ex_tech": [
+      11
+    ],
+    "formula_id": 701012,
+    "id": 12,
+    "island_level": 1,
+    "item_type": 1,
+    "item_unlock": [
+      [
+        1001,
+        20
+      ],
+      [
+        1002,
+        20
+      ]
+    ],
+    "next_tech": [],
+    "sys_unlock": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        14001
+      ]
+    ],
+    "tech_belong": 6,
+    "tech_chara": 1,
+    "tech_desc": "完成该项可以解锁火箭",
+    "tech_icon": "keyan_II",
+    "tech_level": "2",
+    "tech_name": "机械2",
+    "tech_repeat": [
+      1,
+      10
+    ],
+    "tech_unlock_desc": "需要岛屿等级10^p持有舰娘xxx"
+  },
+  "13": {
+    "auto_finish": 1,
+    "axis": [
+      2,
+      1
+    ],
+    "ex_tech": [],
+    "formula_id": 701013,
+    "id": 13,
+    "island_level": 1,
+    "item_type": 1,
+    "item_unlock": [
+      [
+        1001,
+        20
+      ],
+      [
+        1002,
+        20
+      ]
+    ],
+    "next_tech": [
+      14
+    ],
+    "sys_unlock": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        14001
+      ]
+    ],
+    "tech_belong": 7,
+    "tech_chara": 1,
+    "tech_desc": "完成该项可以解锁火箭",
+    "tech_icon": "keyan_II",
+    "tech_level": "1",
+    "tech_name": "采集1",
+    "tech_repeat": [
+      1,
+      10
+    ],
+    "tech_unlock_desc": "需要岛屿等级10^p持有舰娘xxx"
+  },
+  "14": {
+    "auto_finish": 1,
+    "axis": [
+      6,
+      3
+    ],
+    "ex_tech": [
+      13
+    ],
+    "formula_id": 701014,
+    "id": 14,
+    "island_level": 1,
+    "item_type": 1,
+    "item_unlock": [
+      [
+        1001,
+        20
+      ],
+      [
+        1002,
+        20
+      ]
+    ],
+    "next_tech": [],
+    "sys_unlock": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        14001
+      ]
+    ],
+    "tech_belong": 7,
+    "tech_chara": 1,
+    "tech_desc": "完成该项可以解锁火箭",
+    "tech_icon": "keyan_II",
+    "tech_level": "2",
+    "tech_name": "采集2",
+    "tech_repeat": [
+      1,
+      10
+    ],
+    "tech_unlock_desc": "需要岛屿等级10^p持有舰娘xxx"
+  },
+  "all": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14
+  ],
+  "get_id_list_by_tech_belong": [
+    [
+      1,
+      2
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      5,
+      6
+    ],
+    [
+      7,
+      8
+    ],
+    [
+      9,
+      10
+    ],
+    [
+      11,
+      12
+    ],
+    [
+      13,
+      14
+    ]
+  ]
+}

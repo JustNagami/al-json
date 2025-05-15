@@ -1,0 +1,511 @@
+{
+  "100101": {
+    "desc": "在农场工作时，设施内所有角色体力消耗减少5%,暂存数量增加5",
+    "effect_type": [
+      [
+        1,
+        5
+      ],
+      [
+        7,
+        5
+      ]
+    ],
+    "group": 1001,
+    "icon": "props/skill",
+    "id": 100101,
+    "level": 1,
+    "name": "干劲十足Lv1",
+    "special_effect_type": [],
+    "trigger_type": [
+      [
+        1,
+        101101
+      ]
+    ],
+    "upgrade_cost": [
+      [
+        1,
+        16,
+        2000
+      ],
+      [
+        28,
+        5001,
+        1
+      ],
+      [
+        28,
+        5002,
+        1
+      ]
+    ],
+    "upgrade_desc": "",
+    "upgrade_unlock": 5
+  },
+  "100102": {
+    "desc": "在农场工作时，设施内所有角色体力消耗减少7%,暂存数量增加7",
+    "effect_type": [
+      [
+        1,
+        7
+      ],
+      [
+        7,
+        7
+      ]
+    ],
+    "group": 1001,
+    "icon": "props/skill",
+    "id": 100102,
+    "level": 2,
+    "name": "干劲十足Lv2",
+    "special_effect_type": [],
+    "trigger_type": [
+      [
+        1,
+        101101
+      ]
+    ],
+    "upgrade_cost": [
+      [
+        1,
+        16,
+        2000
+      ],
+      [
+        28,
+        5001,
+        1
+      ],
+      [
+        28,
+        5002,
+        1
+      ]
+    ],
+    "upgrade_desc": "体力消耗减少7%，暂存数量增加7",
+    "upgrade_unlock": 10
+  },
+  "100103": {
+    "desc": "在农场工作时，设施内所有角色体力消耗减少10%,暂存数量增加10",
+    "effect_type": [
+      [
+        1,
+        10
+      ],
+      [
+        7,
+        10
+      ]
+    ],
+    "group": 1001,
+    "icon": "props/skill",
+    "id": 100103,
+    "level": 3,
+    "name": "干劲十足Lv3",
+    "special_effect_type": [],
+    "trigger_type": [
+      [
+        1,
+        101101
+      ]
+    ],
+    "upgrade_cost": [],
+    "upgrade_desc": "体力消耗减少10%，暂存数量增加10",
+    "upgrade_unlock": 15
+  },
+  "100201": {
+    "desc": "在农场工作时，自身生产时间缩短15%",
+    "effect_type": [
+      [
+        4,
+        15
+      ]
+    ],
+    "group": 1002,
+    "icon": "props/skill",
+    "id": 100201,
+    "level": 1,
+    "name": "巧夺天工Lv1",
+    "special_effect_type": [],
+    "trigger_type": [
+      [
+        1,
+        101102
+      ]
+    ],
+    "upgrade_cost": [
+      [
+        1,
+        16,
+        2000
+      ],
+      [
+        28,
+        5001,
+        1
+      ],
+      [
+        28,
+        5002,
+        1
+      ]
+    ],
+    "upgrade_desc": "",
+    "upgrade_unlock": 5
+  },
+  "100202": {
+    "desc": "在农场工作时，自身生产时间缩短20%",
+    "effect_type": [
+      [
+        4,
+        20
+      ]
+    ],
+    "group": 1002,
+    "icon": "props/skill",
+    "id": 100202,
+    "level": 2,
+    "name": "巧夺天工Lv2",
+    "special_effect_type": [],
+    "trigger_type": [
+      [
+        1,
+        101102
+      ]
+    ],
+    "upgrade_cost": [
+      [
+        1,
+        16,
+        2000
+      ],
+      [
+        28,
+        5001,
+        1
+      ],
+      [
+        28,
+        5002,
+        1
+      ]
+    ],
+    "upgrade_desc": "",
+    "upgrade_unlock": 10
+  },
+  "100203": {
+    "desc": "在农场工作时，自身生产时间缩短25%",
+    "effect_type": [
+      [
+        4,
+        25
+      ]
+    ],
+    "group": 1002,
+    "icon": "props/skill",
+    "id": 100203,
+    "level": 3,
+    "name": "巧夺天工Lv3",
+    "special_effect_type": [],
+    "trigger_type": [
+      [
+        1,
+        101102
+      ]
+    ],
+    "upgrade_cost": [],
+    "upgrade_desc": "",
+    "upgrade_unlock": 15
+  },
+  "100301": {
+    "desc": "在农场工作1小时后，设施内所有角色生产时间缩短5%",
+    "effect_type": [
+      [
+        3,
+        5
+      ]
+    ],
+    "group": 1003,
+    "icon": "props/skill",
+    "id": 100301,
+    "level": 1,
+    "name": "占坑一Lv1",
+    "special_effect_type": [
+      [
+        1,
+        1
+      ]
+    ],
+    "trigger_type": [
+      [
+        1,
+        101101
+      ],
+      [
+        2,
+        3600
+      ]
+    ],
+    "upgrade_cost": [
+      [
+        1,
+        16,
+        2000
+      ],
+      [
+        28,
+        5001,
+        1
+      ],
+      [
+        28,
+        5002,
+        1
+      ]
+    ],
+    "upgrade_desc": "",
+    "upgrade_unlock": 5
+  },
+  "100302": {
+    "desc": "在农场工作1小时后，设施内所有角色生产时间缩短7%",
+    "effect_type": [
+      [
+        3,
+        7
+      ]
+    ],
+    "group": 1003,
+    "icon": "props/skill",
+    "id": 100302,
+    "level": 2,
+    "name": "占坑一Lv2",
+    "special_effect_type": [
+      [
+        1,
+        1
+      ]
+    ],
+    "trigger_type": [
+      [
+        1,
+        101101
+      ],
+      [
+        2,
+        3600
+      ]
+    ],
+    "upgrade_cost": [
+      [
+        1,
+        16,
+        2000
+      ],
+      [
+        28,
+        5001,
+        1
+      ],
+      [
+        28,
+        5002,
+        1
+      ]
+    ],
+    "upgrade_desc": "",
+    "upgrade_unlock": 10
+  },
+  "100303": {
+    "desc": "在农场工作1小时后，设施内所有角色生产时间缩短10%",
+    "effect_type": [
+      [
+        3,
+        10
+      ]
+    ],
+    "group": 1003,
+    "icon": "props/skill",
+    "id": 100303,
+    "level": 3,
+    "name": "占坑一Lv3",
+    "special_effect_type": [
+      [
+        1,
+        1
+      ]
+    ],
+    "trigger_type": [
+      [
+        1,
+        101101
+      ],
+      [
+        2,
+        3600
+      ]
+    ],
+    "upgrade_cost": [],
+    "upgrade_desc": "",
+    "upgrade_unlock": 15
+  },
+  "100401": {
+    "desc": "工作1小时后，有5%概率产出2倍产物",
+    "effect_type": [
+      [
+        5,
+        5,
+        2
+      ]
+    ],
+    "group": 1004,
+    "icon": "props/skill",
+    "id": 100401,
+    "level": 1,
+    "name": "占坑二Lv1",
+    "special_effect_type": [
+      [
+        1,
+        1
+      ]
+    ],
+    "trigger_type": [
+      [
+        2,
+        3600
+      ]
+    ],
+    "upgrade_cost": [
+      [
+        1,
+        16,
+        2000
+      ],
+      [
+        28,
+        5001,
+        1
+      ],
+      [
+        28,
+        5002,
+        1
+      ]
+    ],
+    "upgrade_desc": "",
+    "upgrade_unlock": 5
+  },
+  "100402": {
+    "desc": "工作1小时后，有7%概率产出2倍产物",
+    "effect_type": [
+      [
+        5,
+        7,
+        2
+      ]
+    ],
+    "group": 1004,
+    "icon": "props/skill",
+    "id": 100402,
+    "level": 2,
+    "name": "占坑二Lv2",
+    "special_effect_type": [
+      [
+        1,
+        1
+      ]
+    ],
+    "trigger_type": [
+      [
+        2,
+        3600
+      ]
+    ],
+    "upgrade_cost": [
+      [
+        1,
+        16,
+        2000
+      ],
+      [
+        28,
+        5001,
+        1
+      ],
+      [
+        28,
+        5002,
+        1
+      ]
+    ],
+    "upgrade_desc": "",
+    "upgrade_unlock": 10
+  },
+  "100403": {
+    "desc": "工作1小时后，有10%概率产出2倍产物",
+    "effect_type": [
+      [
+        5,
+        10,
+        2
+      ]
+    ],
+    "group": 1004,
+    "icon": "props/skill",
+    "id": 100403,
+    "level": 3,
+    "name": "占坑二Lv3",
+    "special_effect_type": [
+      [
+        1,
+        1
+      ]
+    ],
+    "trigger_type": [
+      [
+        2,
+        3600
+      ]
+    ],
+    "upgrade_cost": [],
+    "upgrade_desc": "",
+    "upgrade_unlock": 15
+  },
+  "all": [
+    100101,
+    100102,
+    100103,
+    100201,
+    100202,
+    100203,
+    100301,
+    100302,
+    100303,
+    100401,
+    100402,
+    100403
+  ],
+  "get_id_list_by_group": {
+    "1001": [
+      100101,
+      100102,
+      100103
+    ],
+    "1002": [
+      100201,
+      100202,
+      100203
+    ],
+    "1003": [
+      100301,
+      100302,
+      100303
+    ],
+    "1004": [
+      100401,
+      100402,
+      100403
+    ]
+  }
+}

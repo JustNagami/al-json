@@ -5099,6 +5099,9 @@
   "destroy_high_rarity_tip": {
     "tip": "<color=#92fc63>Sレア以上</color>"
   },
+  "destroy_importantequipment_tip": {
+    "tip": "<color=#92fc63>重要</color>"
+  },
   "destroy_inHardFormation_tip": {
     "tip": "<color=#92fc63>ﾊｰﾄﾞ編成中</color>"
   },
@@ -7499,6 +7502,42 @@
       }
     ]
   },
+  "grapihcs3d_setting_character_quality": {
+    "tip": "キャラの品質"
+  },
+  "grapihcs3d_setting_character_quality_optionname0": {
+    "tip": "低"
+  },
+  "grapihcs3d_setting_character_quality_optionname1": {
+    "tip": "中"
+  },
+  "grapihcs3d_setting_character_quality_optionname2": {
+    "tip": "高"
+  },
+  "grapihcs3d_setting_enable_additional_lights": {
+    "tip": "マルチライト"
+  },
+  "grapihcs3d_setting_enable_distort": {
+    "tip": "ディストーション"
+  },
+  "grapihcs3d_setting_enable_dof": {
+    "tip": "DOF"
+  },
+  "grapihcs3d_setting_enable_gup_driver": {
+    "tip": "GPUPUを許可"
+  },
+  "grapihcs3d_setting_enable_hdr": {
+    "tip": "HDR"
+  },
+  "grapihcs3d_setting_enable_post_antialiasing": {
+    "tip": "アンチエイリアス"
+  },
+  "grapihcs3d_setting_enable_post_process": {
+    "tip": "ポストプロセス"
+  },
+  "grapihcs3d_setting_enable_reflection": {
+    "tip": "リフレクション"
+  },
   "grapihcs3d_setting_gpgpu_warning": {
     "tip": "ONにすると、一部の機種では強制終了してしまう可能性があります"
   },
@@ -7516,6 +7555,78 @@
   },
   "grapihcs3d_setting_quality_option_medium": {
     "tip": "中画質"
+  },
+  "grapihcs3d_setting_rendering_quality": {
+    "tip": "レンダリング精度"
+  },
+  "grapihcs3d_setting_rendering_quality_optionname0": {
+    "tip": "低"
+  },
+  "grapihcs3d_setting_rendering_quality_optionname1": {
+    "tip": "高"
+  },
+  "grapihcs3d_setting_resolution": {
+    "tip": "最大解像度"
+  },
+  "grapihcs3d_setting_resolution_optionname0": {
+    "tip": "720P"
+  },
+  "grapihcs3d_setting_resolution_optionname1": {
+    "tip": "1080P"
+  },
+  "grapihcs3d_setting_resolution_optionname2": {
+    "tip": "2K"
+  },
+  "grapihcs3d_setting_shader_quality": {
+    "tip": "シェーダー精度"
+  },
+  "grapihcs3d_setting_shader_quality_optionname0": {
+    "tip": "低"
+  },
+  "grapihcs3d_setting_shader_quality_optionname1": {
+    "tip": "高"
+  },
+  "grapihcs3d_setting_shadow_quality": {
+    "tip": "影の品質"
+  },
+  "grapihcs3d_setting_shadow_quality_optionname0": {
+    "tip": "オフ"
+  },
+  "grapihcs3d_setting_shadow_quality_optionname1": {
+    "tip": "低"
+  },
+  "grapihcs3d_setting_shadow_quality_optionname2": {
+    "tip": "中"
+  },
+  "grapihcs3d_setting_shadow_quality_optionname3": {
+    "tip": "高"
+  },
+  "grapihcs3d_setting_shadow_update_mode": {
+    "tip": "影の更新頻度"
+  },
+  "grapihcs3d_setting_shadow_update_mode_optionname0": {
+    "tip": "低"
+  },
+  "grapihcs3d_setting_shadow_update_mode_optionname1": {
+    "tip": "中"
+  },
+  "grapihcs3d_setting_shadow_update_mode_optionname2": {
+    "tip": "高"
+  },
+  "grapihcs3d_setting_shadow_update_mode_optionname3": {
+    "tip": "毎フレーム"
+  },
+  "grapihcs3d_setting_terrain_layer_quality": {
+    "tip": "環境の品質"
+  },
+  "grapihcs3d_setting_terrain_layer_quality_optionname0": {
+    "tip": "低"
+  },
+  "grapihcs3d_setting_terrain_layer_quality_optionname1": {
+    "tip": "中"
+  },
+  "grapihcs3d_setting_terrain_layer_quality_optionname2": {
+    "tip": "高"
   },
   "grapihcs3d_setting_universal": {
     "tip": "汎用3D設定"
@@ -12309,7 +12420,7 @@
     "tip": "当日探索完了報酬"
   },
   "liner_sign_cnt_tip": {
-    "tip": "現在入手可能数"
+    "tip": "入手まであと："
   },
   "liner_sign_unlock_tip": {
     "tip": "5.21メンテ後開放"
@@ -17086,7 +17197,7 @@
     "tip": "フレーム"
   },
   "Settings_title_LoginJP": {
-    "tip": "引継コード"
+    "tip": "アカウント"
   },
   "Settings_title_Notification": {
     "tip": "プッシュ通知"
@@ -22427,8 +22538,17 @@
   "yixian_nianye": {
     "tip": "連年有余、平安歳歳。新しい一年、全て上手くいきますように"
   },
+  "yostar_account_btn": {
+    "tip": "アカウント管理"
+  },
   "yostar_link_title": {
     "tip": "アカウント連携中"
+  },
+  "yostar_login_btn": {
+    "tip": "ログイン"
+  },
+  "yostar_trans_btn": {
+    "tip": "復旧&連携ページ"
   },
   "yostar_unlink_btn_text": {
     "tip": "Yostarアカウント連携済み"

@@ -1,0 +1,94 @@
+{
+  "200101": {
+    "desc": "长时间工作导致的疲劳状态，工作速度降低5%",
+    "duration": 300,
+    "effect_type": [
+      4,
+      -5
+    ],
+    "group": 2001,
+    "icon": "props/state",
+    "id": 200101,
+    "level": 1,
+    "name": "工作疲劳",
+    "type": 2
+  },
+  "200102": {
+    "desc": "最近缺乏运动导致体力较差，体力消耗速度增加5%",
+    "duration": 300,
+    "effect_type": [
+      1,
+      5
+    ],
+    "group": 2001,
+    "icon": "props/state",
+    "id": 200102,
+    "level": 2,
+    "name": "缺乏运动",
+    "type": 2
+  },
+  "200103": {
+    "desc": "心情愉悦，工作效率提升，工作速度提升5%",
+    "duration": 300,
+    "effect_type": [
+      4,
+      5
+    ],
+    "group": 2001,
+    "icon": "props/state",
+    "id": 200103,
+    "level": 3,
+    "name": "心情愉悦",
+    "type": 1
+  },
+  "200201": {
+    "desc": "似乎忘记了疲劳，体力消耗速度减缓10%",
+    "duration": 3600,
+    "effect_type": [
+      2,
+      -10
+    ],
+    "group": 2002,
+    "icon": "props/state",
+    "id": 200201,
+    "level": 1,
+    "name": "兴致勃勃 ",
+    "type": 1
+  },
+  "200202": {
+    "desc": "昨天熬夜了，体力消耗速度增加10%",
+    "duration": 3600,
+    "effect_type": [
+      2,
+      10
+    ],
+    "group": 2002,
+    "icon": "props/state",
+    "id": 200202,
+    "level": 2,
+    "name": "睡眠不足",
+    "type": 2
+  },
+  "200203": {
+    "desc": "今天工作状态不佳，工作速度降低10%",
+    "duration": 300,
+    "effect_type": [
+      4,
+      -10
+    ],
+    "group": 2002,
+    "icon": "props/state",
+    "id": 200203,
+    "level": 3,
+    "name": "怠惰",
+    "type": 2
+  },
+  "all": [
+    200101,
+    200102,
+    200103,
+    200201,
+    200202,
+    200203
+  ]
+}
