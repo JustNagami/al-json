@@ -111106,6 +111106,20 @@
       1
     ]
   },
+  "60850": {
+    "desc": "Changes the battle BGM when equipped. If there are several BGM-altering gear equipped at the same time, only one will apply at random.",
+    "desc_add": [],
+    "desc_get": "",
+    "desc_get_add": [],
+    "id": 60850,
+    "max_level": 0,
+    "name": "My Precious Whale",
+    "system_transform": [],
+    "type": 0,
+    "world_death_mark": [
+      1
+    ]
+  },
   "101010": {
     "desc": "If deployed with any other Neptunia ship, increases own damage by $1 and decreases own damage taken by 6.0%. For every other Neptunia ship deployed, further increases own damage by $2,and decreases own damage taken by 1.0%",
     "desc_add": [
@@ -165259,6 +165273,112 @@
       1
     ]
   },
+  "1012480": {
+    "desc": "This ship's Main Gun ammo type changes to $1 Special AP (DMG increase is based on the skill's level). When this Special AP hits an enemy: $2 chance to inflict that enemy with Weakness Exposed; Weakness Exposed lasts for 8s and increases that enemy's shelling DMG received by 8.0%.\n15s after the battle starts, and every 20s after that: this ship gains a stealth mode, evading all enemy attacks for 3s; when this mode ends: fires a $1 special barrage (DMG is based on the skill's level) that inflicts the Weakness Exposed debuff to enemies hit.",
+    "desc_add": [
+      [
+        [
+          "Lv.1",
+          "+1"
+        ],
+        [
+          "Lv.2",
+          "+1"
+        ],
+        [
+          "Lv.3",
+          "+1"
+        ],
+        [
+          "Lv.4",
+          "+1"
+        ],
+        [
+          "Lv.5",
+          "+1"
+        ],
+        [
+          "Lv.6",
+          "+1"
+        ],
+        [
+          "Lv.7",
+          "+1"
+        ],
+        [
+          "Lv.8",
+          "+1"
+        ],
+        [
+          "Lv.9",
+          "+1"
+        ],
+        [
+          "Lv.10"
+        ]
+      ],
+      [
+        [
+          "1.0%",
+          "+0.2%"
+        ],
+        [
+          "1.2%",
+          "+0.2%"
+        ],
+        [
+          "1.4%",
+          "+0.2%"
+        ],
+        [
+          "1.6%",
+          "+0.2%"
+        ],
+        [
+          "1.8%",
+          "+0.3%"
+        ],
+        [
+          "2.1%",
+          "+0.3%"
+        ],
+        [
+          "2.4%",
+          "+0.3%"
+        ],
+        [
+          "2.7%",
+          "+0.4%"
+        ],
+        [
+          "3.1%",
+          "+0.4%"
+        ],
+        [
+          "3.5%"
+        ]
+      ]
+    ],
+    "desc_get": "",
+    "desc_get_add": [
+      [
+        "Lv.1",
+        "Lv.10"
+      ],
+      [
+        "1.0%",
+        "3.5%"
+      ]
+    ],
+    "id": 1012480,
+    "max_level": 10,
+    "name": "APsolute Ammunition+",
+    "system_transform": [],
+    "type": 1,
+    "world_death_mark": [
+      1
+    ]
+  },
   "1012600": {
     "desc": "When this ship fires her Main Guns: $1 chance to fire a special barrage (DMG is based on the skill's level).",
     "desc_add": [
@@ -166150,6 +166270,202 @@
     "id": 1013020,
     "max_level": 10,
     "name": "Lod Obstrel+",
+    "system_transform": [],
+    "type": 1,
+    "world_death_mark": [
+      1
+    ]
+  },
+  "1013050": {
+    "desc": "When this ship fires her Main Guns: increases your Northern Parliament ships' FP, TRP, AVI, AA, and RLD by $1 for 12s. If this ship has the Triple 305mm M1907 Main Gun Mount equipped: increases this ship's Main Gun efficiency by $2 and decreases the reload time of this ship's first 4 Main Gun volleys by $3 and increases her Main Gun's DMG dealt against Medium and Heavy Armor enemies by $4.",
+    "desc_add": [
+      [
+        [
+          "8.0%",
+          "+1.1%"
+        ],
+        [
+          "9.1%",
+          "+1.1%"
+        ],
+        [
+          "10.2%",
+          "+1.1%"
+        ],
+        [
+          "11.3%",
+          "+1.1%"
+        ],
+        [
+          "12.4%",
+          "+1.1%"
+        ],
+        [
+          "13.5%",
+          "+1.1%"
+        ],
+        [
+          "14.6%",
+          "+1.1%"
+        ],
+        [
+          "15.7%",
+          "+1.1%"
+        ],
+        [
+          "16.8%",
+          "+1.2%"
+        ],
+        [
+          "18.0%"
+        ]
+      ],
+      [
+        [
+          "60.0%",
+          "+3.0%"
+        ],
+        [
+          "63.0%",
+          "+3.0%"
+        ],
+        [
+          "66.0%",
+          "+4.0%"
+        ],
+        [
+          "70.0%",
+          "+3.0%"
+        ],
+        [
+          "73.0%",
+          "+3.0%"
+        ],
+        [
+          "76.0%",
+          "+4.0%"
+        ],
+        [
+          "80.0%",
+          "+3.0%"
+        ],
+        [
+          "83.0%",
+          "+3.0%"
+        ],
+        [
+          "86.0%",
+          "+4.0%"
+        ],
+        [
+          "90.0%"
+        ]
+      ],
+      [
+        [
+          "20.0%",
+          "+1.6%"
+        ],
+        [
+          "21.6%",
+          "+1.6%"
+        ],
+        [
+          "23.2%",
+          "+1.6%"
+        ],
+        [
+          "24.8%",
+          "+1.6%"
+        ],
+        [
+          "26.4%",
+          "+1.6%"
+        ],
+        [
+          "28.0%",
+          "+1.6%"
+        ],
+        [
+          "29.6%",
+          "+1.8%"
+        ],
+        [
+          "31.4%",
+          "+1.8%"
+        ],
+        [
+          "33.2%",
+          "+1.8%"
+        ],
+        [
+          "35.0%"
+        ]
+      ],
+      [
+        [
+          "5.0%",
+          "+1.1%"
+        ],
+        [
+          "6.1%",
+          "+1.1%"
+        ],
+        [
+          "7.2%",
+          "+1.1%"
+        ],
+        [
+          "8.3%",
+          "+1.1%"
+        ],
+        [
+          "9.4%",
+          "+1.1%"
+        ],
+        [
+          "10.5%",
+          "+1.1%"
+        ],
+        [
+          "11.6%",
+          "+1.1%"
+        ],
+        [
+          "12.7%",
+          "+1.1%"
+        ],
+        [
+          "13.8%",
+          "+1.2%"
+        ],
+        [
+          "15.0%"
+        ]
+      ]
+    ],
+    "desc_get": "",
+    "desc_get_add": [
+      [
+        "8.0%",
+        "18.0%"
+      ],
+      [
+        "60.0%",
+        "90.0%"
+      ],
+      [
+        "20.0%",
+        "35.0%"
+      ],
+      [
+        "5.0%",
+        "15.0%"
+      ]
+    ],
+    "id": 1013050,
+    "max_level": 10,
+    "name": "Long Live the Revolution!+",
     "system_transform": [],
     "type": 1,
     "world_death_mark": [
@@ -174133,6 +174449,7 @@
     60820,
     60830,
     60840,
+    60850,
     7000,
     9010,
     9020,
@@ -176347,6 +176664,8 @@
     1010960,
     1012400,
     1011150,
+    1013050,
+    1012480,
     1090010,
     1090020,
     1090030,
