@@ -6351,7 +6351,7 @@
     "code": 138,
     "description": [
       [
-        "Event: 高塔上的蔷薇",
+        "Event: A Rose on the High Tower",
         [
           ""
         ],
@@ -27374,7 +27374,7 @@
     "code": 689,
     "description": [
       [
-        "Event: 高塔上的蔷薇",
+        "Event: A Rose on the High Tower",
         [
           ""
         ],
@@ -27406,7 +27406,7 @@
     "code": 690,
     "description": [
       [
-        "Event: 高塔上的蔷薇",
+        "Event: A Rose on the High Tower",
         [
           ""
         ],
@@ -27438,7 +27438,7 @@
     "code": 691,
     "description": [
       [
-        "Event: 高塔上的蔷薇",
+        "Event: A Rose on the High Tower",
         [
           ""
         ],
@@ -27470,7 +27470,7 @@
     "code": 692,
     "description": [
       [
-        "Event: 高塔上的蔷薇",
+        "Event: A Rose on the High Tower",
         [
           ""
         ],
@@ -27514,6 +27514,38 @@
     "hide": 0,
     "index_id": 97,
     "nationality": 1,
+    "property_hexagon": [
+      "A",
+      "C",
+      "E",
+      "C",
+      "C",
+      "A"
+    ],
+    "redirect_id": 101,
+    "share_group_id": [],
+    "trans_radar_chart": [],
+    "trans_skill": [],
+    "trans_skin": 0,
+    "trans_type": 0,
+    "type": 3
+  },
+  "697": {
+    "code": 697,
+    "description": [
+      [
+        "Event: Little Ruler of the Abyssal Kingdom",
+        [
+          ""
+        ],
+        0
+      ]
+    ],
+    "group_type": 40316,
+    "handbook_type": 0,
+    "hide": 0,
+    "index_id": 462,
+    "nationality": 4,
     "property_hexagon": [
       "A",
       "C",
@@ -32437,11 +32469,46 @@
     "trans_type": 0,
     "type": 5
   },
+  "30047": {
+    "code": 30047,
+    "description": [
+      [
+        "Event: Cruise Missions",
+        [
+          "METACHARACTER",
+          {
+            "autoOpenShipConfigID": 9701071
+          }
+        ],
+        0
+      ]
+    ],
+    "group_type": 970107,
+    "handbook_type": 3,
+    "hide": 0,
+    "index_id": 30047,
+    "nationality": 97,
+    "property_hexagon": [
+      "D",
+      "B",
+      "E",
+      "A",
+      "D",
+      "D"
+    ],
+    "redirect_id": 101,
+    "share_group_id": [],
+    "trans_radar_chart": [],
+    "trans_skill": [],
+    "trans_skin": 0,
+    "trans_type": 0,
+    "type": 1
+  },
   "30048": {
     "code": 30048,
     "description": [
       [
-        "Event: 高塔上的蔷薇",
+        "Event: A Rose on the High Tower",
         [
           ""
         ],
@@ -32929,6 +32996,7 @@
     546,
     568,
     634,
+    697,
     248,
     249,
     543,
@@ -33245,6 +33313,7 @@
     30044,
     30045,
     30046,
+    30047,
     30048
   ]
 }
