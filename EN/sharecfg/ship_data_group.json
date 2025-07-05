@@ -23146,6 +23146,17 @@
           ""
         ],
         0
+      ],
+      [
+        "Special Ship Construction",
+        [
+          "GETBOAT",
+          {
+            "page": 1,
+            "projectName": "special"
+          }
+        ],
+        0
       ]
     ],
     "group_type": 60802,
@@ -23176,6 +23187,17 @@
         "Event: Aquilifer's Ballade",
         [
           ""
+        ],
+        0
+      ],
+      [
+        "Light ship Construction",
+        [
+          "GETBOAT",
+          {
+            "page": 1,
+            "projectName": "light"
+          }
         ],
         0
       ]
@@ -23210,6 +23232,17 @@
           ""
         ],
         0
+      ],
+      [
+        "Heavy Ship Construction",
+        [
+          "GETBOAT",
+          {
+            "page": 1,
+            "projectName": "heavy"
+          }
+        ],
+        0
       ]
     ],
     "group_type": 60305,
@@ -23240,6 +23273,17 @@
         "Event: Aquilifer's Ballade",
         [
           ""
+        ],
+        0
+      ],
+      [
+        "Heavy Ship Construction",
+        [
+          "GETBOAT",
+          {
+            "page": 1,
+            "projectName": "heavy"
+          }
         ],
         0
       ]
@@ -23274,6 +23318,17 @@
           ""
         ],
         0
+      ],
+      [
+        "Light ship Construction",
+        [
+          "GETBOAT",
+          {
+            "page": 1,
+            "projectName": "light"
+          }
+        ],
+        0
       ]
     ],
     "group_type": 60108,
@@ -23304,6 +23359,16 @@
         "Event: Aquilifer's Ballade",
         [
           ""
+        ],
+        0
+      ],
+      [
+        "Merit Shop",
+        [
+          "SHOP",
+          {
+            "warp": "supplies"
+          }
         ],
         0
       ]
@@ -27529,6 +27594,102 @@
     "trans_skin": 0,
     "trans_type": 0,
     "type": 3
+  },
+  "694": {
+    "code": 694,
+    "description": [
+      [
+        "Event: The Neon City Investigator",
+        [
+          ""
+        ],
+        0
+      ]
+    ],
+    "group_type": 40407,
+    "handbook_type": 0,
+    "hide": 0,
+    "index_id": 469,
+    "nationality": 4,
+    "property_hexagon": [
+      "A",
+      "C",
+      "E",
+      "D",
+      "C",
+      "A"
+    ],
+    "redirect_id": 101,
+    "share_group_id": [],
+    "trans_radar_chart": [],
+    "trans_skill": [],
+    "trans_skin": 0,
+    "trans_type": 0,
+    "type": 4
+  },
+  "695": {
+    "code": 695,
+    "description": [
+      [
+        "Event: The Neon City Investigator",
+        [
+          ""
+        ],
+        0
+      ]
+    ],
+    "group_type": 40814,
+    "handbook_type": 0,
+    "hide": 0,
+    "index_id": 497,
+    "nationality": 4,
+    "property_hexagon": [
+      "D",
+      "S",
+      "E",
+      "D",
+      "E",
+      "D"
+    ],
+    "redirect_id": 101,
+    "share_group_id": [],
+    "trans_radar_chart": [],
+    "trans_skill": [],
+    "trans_skin": 0,
+    "trans_type": 0,
+    "type": 8
+  },
+  "696": {
+    "code": 696,
+    "description": [
+      [
+        "Event: The Neon City Investigator",
+        [
+          ""
+        ],
+        0
+      ]
+    ],
+    "group_type": 40113,
+    "handbook_type": 0,
+    "hide": 0,
+    "index_id": 421,
+    "nationality": 4,
+    "property_hexagon": [
+      "D",
+      "A",
+      "E",
+      "A",
+      "D",
+      "D"
+    ],
+    "redirect_id": 101,
+    "share_group_id": [],
+    "trans_radar_chart": [],
+    "trans_skill": [],
+    "trans_skin": 0,
+    "trans_type": 0,
+    "type": 1
   },
   "697": {
     "code": 697,
@@ -33054,6 +33215,7 @@
     379,
     672,
     673,
+    696,
     564,
     346,
     264,
@@ -33102,6 +33264,7 @@
     544,
     566,
     648,
+    694,
     250,
     251,
     529,
@@ -33128,6 +33291,7 @@
     386,
     344,
     528,
+    695,
     253,
     254,
     255,
