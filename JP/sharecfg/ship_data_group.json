@@ -13846,7 +13846,7 @@
     "group_type": 40803,
     "handbook_type": 0,
     "hide": 0,
-    "index_id": 495,
+    "index_id": 496,
     "nationality": 4,
     "property_hexagon": [
       "D",
@@ -15748,7 +15748,7 @@
     "group_type": 40804,
     "handbook_type": 0,
     "hide": 0,
-    "index_id": 494,
+    "index_id": 495,
     "nationality": 4,
     "property_hexagon": [
       "D",
@@ -21958,7 +21958,7 @@
     "group_type": 40812,
     "handbook_type": 0,
     "hide": 0,
-    "index_id": 496,
+    "index_id": 497,
     "nationality": 4,
     "property_hexagon": [
       "D",
@@ -22595,6 +22595,17 @@
           ""
         ],
         0
+      ],
+      [
+        "大型艦建造",
+        [
+          "GETBOAT",
+          {
+            "page": 1,
+            "projectName": "heavy"
+          }
+        ],
+        0
       ]
     ],
     "group_type": 40403,
@@ -22625,6 +22636,17 @@
         "イベント：吟ずる瑠璃の楽章",
         [
           ""
+        ],
+        0
+      ],
+      [
+        "大型艦建造",
+        [
+          "GETBOAT",
+          {
+            "page": 1,
+            "projectName": "heavy"
+          }
         ],
         0
       ]
@@ -22659,6 +22681,16 @@
           ""
         ],
         0
+      ],
+      [
+        "特別補給（ランダム出現）",
+        [
+          "SHOP",
+          {
+            "warp": "supplies"
+          }
+        ],
+        0
       ]
     ],
     "group_type": 40504,
@@ -22689,6 +22721,17 @@
         "イベント：吟ずる瑠璃の楽章",
         [
           ""
+        ],
+        0
+      ],
+      [
+        "大型艦建造",
+        [
+          "GETBOAT",
+          {
+            "page": 1,
+            "projectName": "heavy"
+          }
         ],
         0
       ]
@@ -22723,6 +22766,17 @@
           ""
         ],
         0
+      ],
+      [
+        "小型艦建造",
+        [
+          "GETBOAT",
+          {
+            "page": 1,
+            "projectName": "light"
+          }
+        ],
+        0
       ]
     ],
     "group_type": 40207,
@@ -22753,6 +22807,17 @@
         "イベント：吟ずる瑠璃の楽章",
         [
           ""
+        ],
+        0
+      ],
+      [
+        "小型艦建造",
+        [
+          "GETBOAT",
+          {
+            "page": 1,
+            "projectName": "light"
+          }
         ],
         0
       ]
@@ -27656,7 +27721,7 @@
     "group_type": 40814,
     "handbook_type": 0,
     "hide": 0,
-    "index_id": 497,
+    "index_id": 494,
     "nationality": 4,
     "property_hexagon": [
       "D",
@@ -31309,6 +31374,181 @@
     "trans_type": 0,
     "type": 2
   },
+  "20038": {
+    "code": 20038,
+    "description": [
+      [
+        "研究ドック",
+        [
+          "SHIPBLUEPRINT",
+          {
+            "shipGroupId": 19906
+          }
+        ],
+        0
+      ]
+    ],
+    "group_type": 19906,
+    "handbook_type": 2,
+    "hide": 0,
+    "index_id": 20038,
+    "nationality": 1,
+    "property_hexagon": [
+      "A",
+      "E",
+      "E",
+      "D",
+      "B",
+      "S"
+    ],
+    "redirect_id": 101,
+    "share_group_id": [],
+    "trans_radar_chart": [],
+    "trans_skill": [],
+    "trans_skin": 0,
+    "trans_type": 0,
+    "type": 5
+  },
+  "20039": {
+    "code": 20039,
+    "description": [
+      [
+        "研究ドック",
+        [
+          "SHIPBLUEPRINT",
+          {
+            "shipGroupId": 49910
+          }
+        ],
+        0
+      ]
+    ],
+    "group_type": 49910,
+    "handbook_type": 2,
+    "hide": 0,
+    "index_id": 20039,
+    "nationality": 4,
+    "property_hexagon": [
+      "S",
+      "C",
+      "E",
+      "C",
+      "C",
+      "A"
+    ],
+    "redirect_id": 101,
+    "share_group_id": [],
+    "trans_radar_chart": [],
+    "trans_skill": [],
+    "trans_skin": 0,
+    "trans_type": 0,
+    "type": 5
+  },
+  "20040": {
+    "code": 20040,
+    "description": [
+      [
+        "研究ドック",
+        [
+          "SHIPBLUEPRINT",
+          {
+            "shipGroupId": 69903
+          }
+        ],
+        0
+      ]
+    ],
+    "group_type": 69903,
+    "handbook_type": 2,
+    "hide": 0,
+    "index_id": 20040,
+    "nationality": 6,
+    "property_hexagon": [
+      "A",
+      "D",
+      "E",
+      "A",
+      "C",
+      "D"
+    ],
+    "redirect_id": 101,
+    "share_group_id": [],
+    "trans_radar_chart": [],
+    "trans_skill": [],
+    "trans_skin": 0,
+    "trans_type": 0,
+    "type": 1
+  },
+  "20041": {
+    "code": 20041,
+    "description": [
+      [
+        "研究ドック",
+        [
+          "SHIPBLUEPRINT",
+          {
+            "shipGroupId": 79903
+          }
+        ],
+        0
+      ]
+    ],
+    "group_type": 79903,
+    "handbook_type": 2,
+    "hide": 0,
+    "index_id": 20041,
+    "nationality": 7,
+    "property_hexagon": [
+      "A",
+      "C",
+      "E",
+      "B",
+      "B",
+      "B"
+    ],
+    "redirect_id": 101,
+    "share_group_id": [],
+    "trans_radar_chart": [],
+    "trans_skill": [],
+    "trans_skin": 0,
+    "trans_type": 0,
+    "type": 2
+  },
+  "20042": {
+    "code": 20042,
+    "description": [
+      [
+        "研究ドック",
+        [
+          "SHIPBLUEPRINT",
+          {
+            "shipGroupId": 119901
+          }
+        ],
+        0
+      ]
+    ],
+    "group_type": 119901,
+    "handbook_type": 2,
+    "hide": 0,
+    "index_id": 20042,
+    "nationality": 11,
+    "property_hexagon": [
+      "A",
+      "E",
+      "E",
+      "C",
+      "A",
+      "S"
+    ],
+    "redirect_id": 101,
+    "share_group_id": [],
+    "trans_radar_chart": [],
+    "trans_skill": [],
+    "trans_skin": 0,
+    "trans_type": 0,
+    "type": 3
+  },
   "30001": {
     "code": 30001,
     "description": [
@@ -33495,10 +33735,10 @@
     416,
     492,
     400,
+    695,
     386,
     344,
     528,
-    695,
     253,
     254,
     255,
@@ -33745,6 +33985,11 @@
     20035,
     20036,
     20037,
+    20039,
+    20038,
+    20040,
+    20041,
+    20042,
     30001,
     30002,
     30003,
