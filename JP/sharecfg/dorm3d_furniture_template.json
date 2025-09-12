@@ -831,6 +831,67 @@
       3
     ]
   },
+  "323": {
+    "acesses": "",
+    "desc": "ゆらゆらする雲、ふんわりと優しい感触、マシュマロを思わせる座り心地。一緒に甘い香りの中でのんびり過ごそう",
+    "icon": "dorm3dIcon/3Ddrom_ankeleiqi_PremiumFurniture8",
+    "id": 323,
+    "is_exclusive": 1,
+    "is_special": 0,
+    "model": "Pay_Anchoragehostel/pre_db_ah_livingroom01",
+    "name": "クラウドドリーム",
+    "rarity": 4,
+    "room_id": 3,
+    "scene_hides": [
+      "fbx/no_bake_pay_prop/livingroom"
+    ],
+    "shop_id": [
+      270303
+    ],
+    "target_slots": [
+      130302
+    ],
+    "touch_id": [
+      [
+        19903,
+        1990360
+      ]
+    ],
+    "type": 5,
+    "unlock_banners": [
+      "banner_furniture323"
+    ],
+    "unlock_tips": [
+      3
+    ]
+  },
+  "401": {
+    "acesses": "",
+    "desc": "バカンスの時間が始まる！ヤシの木の下の日差し、涼しい海岸沿い、水しぶきと潮風。心は一瞬でバカンスの歓びに包まれる。",
+    "icon": "dorm3dIcon/3Ddrom_beach_PremiumFurniture1",
+    "id": 401,
+    "is_exclusive": 0,
+    "is_special": 1,
+    "model": "pay_publicplace/slide",
+    "name": "シーサイドレジャー",
+    "rarity": 5,
+    "room_id": 4,
+    "scene_hides": "",
+    "shop_id": [
+      270401
+    ],
+    "target_slots": [
+      140101
+    ],
+    "touch_id": "",
+    "type": 3,
+    "unlock_banners": [
+      "banner_furniture401"
+    ],
+    "unlock_tips": [
+      7
+    ]
+  },
   "1101": {
     "acesses": "",
     "desc": "快適な眠り心地を追求したベッド。しっかりした構造で安定感もバツグン。\nふわふわのウサギ型クッションを抱いて眠れば、\n星空の下にあるにんじん農園の夢が見られる……かも？",
@@ -1048,6 +1109,40 @@
       3
     ]
   },
+  "1152": {
+    "acesses": "",
+    "desc": "使用者のメンタルケアまでも配慮してくれる、本格的なフィットネスマシン。\nペダルを漕ぐだけで、自宅にいながらもワクワクする冒険の旅に出られる！",
+    "icon": "dorm3dIcon/3Ddrom_xinzexi_PremiumFurniture4",
+    "id": 1152,
+    "is_exclusive": 1,
+    "is_special": 1,
+    "model": "Pay_Newjerseyhostel/pre_db_njh_entertainment01",
+    "name": "ダイナミックホイール",
+    "rarity": 5,
+    "room_id": 11,
+    "scene_hides": [
+      "no_bake_pay_prop/livingroom"
+    ],
+    "shop_id": [
+      270204
+    ],
+    "target_slots": [
+      1110303
+    ],
+    "touch_id": [
+      [
+        10517,
+        1051750
+      ]
+    ],
+    "type": 5,
+    "unlock_banners": [
+      "banner_furniture1152"
+    ],
+    "unlock_tips": [
+      3
+    ]
+  },
   "all": [
     1,
     2,
@@ -1081,6 +1176,8 @@
     307,
     321,
     322,
+    401,
+    323,
     1101,
     1102,
     1103,
@@ -1089,7 +1186,8 @@
     1106,
     1107,
     1108,
-    1151
+    1151,
+    1152
   ],
   "get_id_list_by_room_id": {
     "1": [
@@ -1128,7 +1226,11 @@
       306,
       307,
       321,
-      322
+      322,
+      323
+    ],
+    "4": [
+      401
     ],
     "11": [
       1101,
@@ -1139,7 +1241,8 @@
       1106,
       1107,
       1108,
-      1151
+      1151,
+      1152
     ]
   }
 }
