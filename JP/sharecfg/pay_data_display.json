@@ -12966,6 +12966,91 @@
     "type": 0,
     "type_order": 6
   },
+  "1024": {
+    "airijp_id": "com.yostarjp.azurlane.seasonpass25",
+    "akashi_pick": 1,
+    "descrip": "購入すると、シーズン任務進捗Pt1500を入手し、さらにSP報酬を開放",
+    "descrip_extra": "※シーズン任務クリア時に追加の報酬を入手可能",
+    "display": [
+      [
+        8,
+        59599,
+        1500
+      ]
+    ],
+    "drop_item": [],
+    "extra_gem": 0,
+    "extra_service": 4,
+    "extra_service_item": [
+      [
+        1,
+        4025,
+        1500
+      ],
+      [
+        8,
+        65106,
+        1
+      ]
+    ],
+    "first_icon": "",
+    "first_pay_double": 0,
+    "first_text": "",
+    "gem": 0,
+    "id": 1024,
+    "id_str": "com.bilibili.blhx.battlepass26",
+    "ignorePlatform": [],
+    "limit_arg": 1,
+    "limit_args": [],
+    "limit_group": 0,
+    "limit_type": 2,
+    "money": 1200,
+    "name": "クルーズパス(25秋)",
+    "name_display": "クルーズパス(25秋)",
+    "package_sort_id": 0,
+    "package_tag": "",
+    "package_tag_open": 0,
+    "picture": "battlepass_1",
+    "second_text": "特別報酬開放",
+    "show_group": "",
+    "skin_inquire_relation": 0,
+    "sub_display": [
+      7025,
+      1500
+    ],
+    "subject": "クルーズパス(25秋)",
+    "tag": 2,
+    "time": [
+      [
+        [
+          2025,
+          10,
+          1
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2025,
+          11,
+          30
+        ],
+        [
+          22,
+          59,
+          59
+        ]
+      ]
+    ],
+    "tip": "",
+    "tip_open": 0,
+    "type": 0,
+    "type_order": 6
+  },
   "2001": {
     "airijp_id": "com.yostarjp.azurlane.tech",
     "akashi_pick": 1,
@@ -19114,6 +19199,120 @@
     "type": 0,
     "type_order": 5
   },
+  "9001": {
+    "airijp_id": "com.yostarjp.azurlane.diamond188",
+    "akashi_pick": 1,
+    "descrip": "<size=18>下記着せ替え中の未所持着せ替えをランダムで1着（全部所持している場合自動でダイヤに変換されます）とその他アイテムを入手できます</size>",
+    "descrip_extra": "※福袋はメールボックスに送られます\n※全部所持している場合自動でダイヤ×680に変換されます",
+    "display": [
+      [
+        1,
+        1,
+        2000
+      ],
+      [
+        1,
+        2,
+        1000
+      ],
+      [
+        2,
+        15008,
+        20
+      ]
+    ],
+    "drop_item": [
+      [
+        2,
+        81219,
+        1
+      ]
+    ],
+    "extra_gem": 0,
+    "extra_service": 3,
+    "extra_service_item": [
+      [
+        2,
+        86219,
+        1
+      ],
+      [
+        1,
+        1,
+        2000
+      ],
+      [
+        1,
+        2,
+        1000
+      ],
+      [
+        2,
+        15008,
+        20
+      ]
+    ],
+    "first_icon": [
+      [
+        2,
+        86219,
+        1
+      ]
+    ],
+    "first_pay_double": 0,
+    "first_text": "ランダム着せ替え",
+    "gem": 0,
+    "id": 9001,
+    "id_str": "com.bilibili.blhx.zuanshi200",
+    "ignorePlatform": [],
+    "limit_arg": 2,
+    "limit_args": [],
+    "limit_group": 0,
+    "limit_type": 2,
+    "money": 1000,
+    "name": "着せ替えパック(スポーツ、レースクイーン)",
+    "name_display": "着せ替えパック(スポーツ、レースクイーン)",
+    "package_sort_id": 0,
+    "package_tag": "",
+    "package_tag_open": 0,
+    "picture": "fudai29",
+    "second_text": "大量な報酬",
+    "show_group": "",
+    "skin_inquire_relation": 86219,
+    "sub_display": [],
+    "subject": "着せ替えパック(スポーツ、レースクイーン)",
+    "tag": 2,
+    "time": [
+      [
+        [
+          2025,
+          9,
+          25
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2025,
+          10,
+          22
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
+    "tip": "",
+    "tip_open": 0,
+    "type": 1,
+    "type_order": 2
+  },
   "all": [
     1,
     2,
@@ -19205,6 +19404,7 @@
     97,
     98,
     99,
+    9001,
     1000,
     1001,
     1002,
@@ -19229,6 +19429,7 @@
     1021,
     1022,
     1023,
+    1024,
     2001,
     2002,
     2003,

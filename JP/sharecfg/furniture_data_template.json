@@ -119469,6 +119469,82 @@
     "themeId": 0,
     "type": 7
   },
+  "100077": {
+    "advice": 0,
+    "belong": 1,
+    "can_rotate": 0,
+    "can_trigger": [
+      0
+    ],
+    "canputon": 0,
+    "canputonGrid": [],
+    "comfortable": 0,
+    "count": 1,
+    "deblocking": 1,
+    "describe": "ニンジャ専用の乗り物。一人乗りだ！",
+    "dir": 0,
+    "dorm_id": 0,
+    "effect": "",
+    "followBone": [
+      "char",
+      1
+    ],
+    "gain_by": "",
+    "icon": "xuanzhuanshoulijianicon",
+    "id": 100077,
+    "interAction_group": [],
+    "is_3d_obj": 0,
+    "is_get_time_note": 0,
+    "level": 1,
+    "name": "フライング・シュリケン",
+    "offset": [],
+    "picture": "",
+    "rarity": 4,
+    "size": [
+      6,
+      6
+    ],
+    "spine": [
+      [
+        "xuanzhuanshoulijian",
+        "normal"
+      ],
+      [],
+      [
+        [
+          0,
+          0
+        ],
+        [
+          [
+            "dance"
+          ]
+        ],
+        [
+          null,
+          1
+        ],
+        [
+          1
+        ]
+      ],
+      [],
+      [
+        0,
+        0
+      ],
+      [
+        1,
+        1
+      ],
+      0.8
+    ],
+    "spine_action_replace": "",
+    "spine_extra": "",
+    "tag": 6,
+    "themeId": 0,
+    "type": 11
+  },
   "200001": {
     "advice": 0,
     "belong": 1,
@@ -150602,6 +150678,7 @@
     100074,
     100075,
     100076,
+    100077,
     200001,
     200002,
     200003,
