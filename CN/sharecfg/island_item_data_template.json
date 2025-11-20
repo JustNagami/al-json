@@ -9,7 +9,7 @@
     "group_max": 0,
     "have_max": 0,
     "icon": "Islandprops/1",
-    "icon_normal": "",
+    "icon_normal": "props/item_island_1",
     "id": 1,
     "jump_page": [
       [
@@ -29,6 +29,7 @@
     "rarity": 1,
     "resource_type": 0,
     "sub_attribute": [],
+    "tech_id": 0,
     "type": 3,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -63,6 +64,7 @@
     "rarity": 1,
     "resource_type": 0,
     "sub_attribute": [],
+    "tech_id": 0,
     "type": 4,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -83,6 +85,10 @@
       [
         "商店购买",
         []
+      ],
+      [
+        "累计PT",
+        []
       ]
     ],
     "manage_influence": 0,
@@ -93,6 +99,7 @@
     "rarity": 1,
     "resource_type": 0,
     "sub_attribute": [],
+    "tech_id": 0,
     "type": 2,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -118,6 +125,7 @@
     "rarity": 1,
     "resource_type": 0,
     "sub_attribute": [],
+    "tech_id": 0,
     "type": 2,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -143,6 +151,7 @@
     "rarity": 1,
     "resource_type": 0,
     "sub_attribute": [],
+    "tech_id": 0,
     "type": 3,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -168,6 +177,7 @@
     "rarity": 1,
     "resource_type": 0,
     "sub_attribute": [],
+    "tech_id": 0,
     "type": 3,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -193,6 +203,7 @@
     "rarity": 1,
     "resource_type": 0,
     "sub_attribute": [],
+    "tech_id": 0,
     "type": 3,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -218,6 +229,7 @@
     "rarity": 1,
     "resource_type": 0,
     "sub_attribute": [],
+    "tech_id": 0,
     "type": 3,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -243,7 +255,34 @@
     "rarity": 1,
     "resource_type": 0,
     "sub_attribute": [],
+    "tech_id": 0,
     "type": 3,
+    "usage": "usage_undefined",
+    "usage_arg": "[]"
+  },
+  "10": {
+    "convert": 1,
+    "desc": "岛屿计划开发季PT兑换券，开发季结束后会自动转化为当前开发季岛屿开发PT，也可在仓库中手动转化。",
+    "drop_after_use": 0,
+    "filter": [
+      10114
+    ],
+    "group_max": 0,
+    "have_max": 0,
+    "icon": "islandprops/Item_6",
+    "icon_normal": "props/item_island_6",
+    "id": 10,
+    "jump_page": [],
+    "manage_influence": 0,
+    "name": "岛屿PT兑换券",
+    "order_price": 0,
+    "price": 1,
+    "pt_num": 1,
+    "rarity": 1,
+    "resource_type": 1,
+    "sub_attribute": [],
+    "tech_id": 0,
+    "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
   },
@@ -253,7 +292,7 @@
     "drop_after_use": 0,
     "filter": [
       10114,
-      10127
+      10140
     ],
     "group_max": 0,
     "have_max": 0,
@@ -277,6 +316,7 @@
     "rarity": 1,
     "resource_type": 1,
     "sub_attribute": [],
+    "tech_id": 0,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -287,7 +327,7 @@
     "drop_after_use": 0,
     "filter": [
       10114,
-      10127
+      10140
     ],
     "group_max": 0,
     "have_max": 0,
@@ -311,6 +351,7 @@
     "rarity": 1,
     "resource_type": 1,
     "sub_attribute": [],
+    "tech_id": 500212,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -321,7 +362,7 @@
     "drop_after_use": 0,
     "filter": [
       10114,
-      10127
+      10140
     ],
     "group_max": 0,
     "have_max": 0,
@@ -345,6 +386,7 @@
     "rarity": 1,
     "resource_type": 1,
     "sub_attribute": [],
+    "tech_id": 310202,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -355,7 +397,7 @@
     "drop_after_use": 0,
     "filter": [
       10114,
-      10127
+      10140
     ],
     "group_max": 0,
     "have_max": 0,
@@ -379,6 +421,7 @@
     "rarity": 1,
     "resource_type": 1,
     "sub_attribute": [],
+    "tech_id": 500215,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -389,7 +432,7 @@
     "drop_after_use": 0,
     "filter": [
       10114,
-      10127
+      10140
     ],
     "group_max": 0,
     "have_max": 0,
@@ -413,6 +456,7 @@
     "rarity": 1,
     "resource_type": 1,
     "sub_attribute": [],
+    "tech_id": 320204,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -423,7 +467,7 @@
     "drop_after_use": 0,
     "filter": [
       10114,
-      10127
+      10140
     ],
     "group_max": 0,
     "have_max": 0,
@@ -447,6 +491,7 @@
     "rarity": 1,
     "resource_type": 1,
     "sub_attribute": [],
+    "tech_id": 500214,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -457,7 +502,7 @@
     "drop_after_use": 0,
     "filter": [
       10114,
-      10127
+      10140
     ],
     "group_max": 0,
     "have_max": 0,
@@ -481,6 +526,7 @@
     "rarity": 1,
     "resource_type": 1,
     "sub_attribute": [],
+    "tech_id": 500213,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -491,7 +537,7 @@
     "drop_after_use": 0,
     "filter": [
       10114,
-      10127
+      10140
     ],
     "group_max": 0,
     "have_max": 0,
@@ -515,6 +561,7 @@
     "rarity": 1,
     "resource_type": 1,
     "sub_attribute": [],
+    "tech_id": 320206,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -525,7 +572,7 @@
     "drop_after_use": 0,
     "filter": [
       10114,
-      10127
+      10140
     ],
     "group_max": 0,
     "have_max": 0,
@@ -549,6 +596,7 @@
     "rarity": 1,
     "resource_type": 1,
     "sub_attribute": [],
+    "tech_id": 310201,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -559,7 +607,7 @@
     "drop_after_use": 0,
     "filter": [
       10114,
-      10127
+      10140
     ],
     "group_max": 0,
     "have_max": 0,
@@ -583,6 +631,7 @@
     "rarity": 1,
     "resource_type": 1,
     "sub_attribute": [],
+    "tech_id": 500211,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -593,7 +642,7 @@
     "drop_after_use": 0,
     "filter": [
       10114,
-      10127
+      10140
     ],
     "group_max": 0,
     "have_max": 0,
@@ -617,6 +666,7 @@
     "rarity": 1,
     "resource_type": 1,
     "sub_attribute": [],
+    "tech_id": 0,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -627,7 +677,7 @@
     "drop_after_use": 0,
     "filter": [
       10114,
-      10127
+      10140
     ],
     "group_max": 0,
     "have_max": 0,
@@ -651,6 +701,7 @@
     "rarity": 1,
     "resource_type": 1,
     "sub_attribute": [],
+    "tech_id": 320201,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -661,7 +712,7 @@
     "drop_after_use": 0,
     "filter": [
       10114,
-      10127
+      10140
     ],
     "group_max": 0,
     "have_max": 0,
@@ -685,6 +736,7 @@
     "rarity": 1,
     "resource_type": 1,
     "sub_attribute": [],
+    "tech_id": 320202,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -695,7 +747,7 @@
     "drop_after_use": 0,
     "filter": [
       10114,
-      10127
+      10140
     ],
     "group_max": 0,
     "have_max": 0,
@@ -719,6 +771,7 @@
     "rarity": 1,
     "resource_type": 1,
     "sub_attribute": [],
+    "tech_id": 320203,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -729,7 +782,7 @@
     "drop_after_use": 0,
     "filter": [
       10114,
-      10127
+      10140
     ],
     "group_max": 0,
     "have_max": 0,
@@ -753,17 +806,18 @@
     "rarity": 1,
     "resource_type": 1,
     "sub_attribute": [],
+    "tech_id": 320205,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
   },
   "1016": {
     "convert": 1,
-    "desc": "港区培育的优质柑橘树种，可以结出清脆可口的苹果。",
+    "desc": "港区培育的优质苹果树种，可以结出清脆可口的苹果。",
     "drop_after_use": 0,
     "filter": [
       10114,
-      10127
+      10140
     ],
     "group_max": 0,
     "have_max": 0,
@@ -787,6 +841,7 @@
     "rarity": 1,
     "resource_type": 1,
     "sub_attribute": [],
+    "tech_id": 500231,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -797,7 +852,7 @@
     "drop_after_use": 0,
     "filter": [
       10114,
-      10127
+      10140
     ],
     "group_max": 0,
     "have_max": 0,
@@ -821,6 +876,7 @@
     "rarity": 1,
     "resource_type": 1,
     "sub_attribute": [],
+    "tech_id": 500232,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -831,7 +887,7 @@
     "drop_after_use": 0,
     "filter": [
       10114,
-      10127
+      10140
     ],
     "group_max": 0,
     "have_max": 0,
@@ -855,6 +911,7 @@
     "rarity": 1,
     "resource_type": 1,
     "sub_attribute": [],
+    "tech_id": 500233,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -865,7 +922,7 @@
     "drop_after_use": 0,
     "filter": [
       10114,
-      10127
+      10140
     ],
     "group_max": 0,
     "have_max": 0,
@@ -889,6 +946,7 @@
     "rarity": 1,
     "resource_type": 1,
     "sub_attribute": [],
+    "tech_id": 500234,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -899,7 +957,7 @@
     "drop_after_use": 0,
     "filter": [
       10114,
-      10127
+      10140
     ],
     "group_max": 0,
     "have_max": 0,
@@ -923,6 +981,7 @@
     "rarity": 1,
     "resource_type": 1,
     "sub_attribute": [],
+    "tech_id": 500235,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -933,7 +992,7 @@
     "drop_after_use": 0,
     "filter": [
       10114,
-      10127
+      10140
     ],
     "group_max": 0,
     "have_max": 0,
@@ -957,17 +1016,18 @@
     "rarity": 1,
     "resource_type": 1,
     "sub_attribute": [],
+    "tech_id": 500236,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
   },
   "1022": {
     "convert": 1,
-    "desc": "随熟随采随播，没有休眠期！",
+    "desc": "港区精选的橡胶树种，可以产出优质的橡胶。",
     "drop_after_use": 0,
     "filter": [
       10114,
-      10127
+      10140
     ],
     "group_max": 0,
     "have_max": 0,
@@ -991,6 +1051,7 @@
     "rarity": 1,
     "resource_type": 1,
     "sub_attribute": [],
+    "tech_id": 330201,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -1022,6 +1083,7 @@
     "rarity": 1,
     "resource_type": 1,
     "sub_attribute": [],
+    "tech_id": 0,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -1053,6 +1115,7 @@
     "rarity": 1,
     "resource_type": 1,
     "sub_attribute": [],
+    "tech_id": 500212,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -1084,6 +1147,7 @@
     "rarity": 1,
     "resource_type": 1,
     "sub_attribute": [],
+    "tech_id": 310202,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -1115,6 +1179,7 @@
     "rarity": 1,
     "resource_type": 1,
     "sub_attribute": [],
+    "tech_id": 500215,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -1125,7 +1190,7 @@
     "drop_after_use": 0,
     "filter": [
       10111,
-      10121
+      10132
     ],
     "group_max": 0,
     "have_max": 0,
@@ -1146,6 +1211,7 @@
     "rarity": 1,
     "resource_type": 1,
     "sub_attribute": [],
+    "tech_id": 320204,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -1177,6 +1243,7 @@
     "rarity": 1,
     "resource_type": 1,
     "sub_attribute": [],
+    "tech_id": 500214,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -1208,6 +1275,7 @@
     "rarity": 1,
     "resource_type": 1,
     "sub_attribute": [],
+    "tech_id": 500213,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -1218,7 +1286,7 @@
     "drop_after_use": 0,
     "filter": [
       10111,
-      10121
+      10132
     ],
     "group_max": 0,
     "have_max": 0,
@@ -1239,6 +1307,7 @@
     "rarity": 2,
     "resource_type": 1,
     "sub_attribute": [],
+    "tech_id": 320206,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -1270,6 +1339,7 @@
     "rarity": 1,
     "resource_type": 1,
     "sub_attribute": [],
+    "tech_id": 310201,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -1301,6 +1371,7 @@
     "rarity": 2,
     "resource_type": 1,
     "sub_attribute": [],
+    "tech_id": 500211,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -1311,7 +1382,7 @@
     "drop_after_use": 0,
     "filter": [
       10111,
-      10121
+      10132
     ],
     "group_max": 0,
     "have_max": 0,
@@ -1332,6 +1403,7 @@
     "rarity": 2,
     "resource_type": 1,
     "sub_attribute": [],
+    "tech_id": 0,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -1342,7 +1414,7 @@
     "drop_after_use": 0,
     "filter": [
       10111,
-      10121
+      10132
     ],
     "group_max": 0,
     "have_max": 0,
@@ -1363,6 +1435,7 @@
     "rarity": 2,
     "resource_type": 1,
     "sub_attribute": [],
+    "tech_id": 320201,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -1373,7 +1446,7 @@
     "drop_after_use": 0,
     "filter": [
       10111,
-      10121
+      10132
     ],
     "group_max": 0,
     "have_max": 0,
@@ -1394,6 +1467,7 @@
     "rarity": 2,
     "resource_type": 1,
     "sub_attribute": [],
+    "tech_id": 320202,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -1404,7 +1478,7 @@
     "drop_after_use": 0,
     "filter": [
       10111,
-      10121
+      10132
     ],
     "group_max": 0,
     "have_max": 0,
@@ -1425,6 +1499,7 @@
     "rarity": 3,
     "resource_type": 1,
     "sub_attribute": [],
+    "tech_id": 320203,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -1435,7 +1510,7 @@
     "drop_after_use": 0,
     "filter": [
       10111,
-      10121
+      10132
     ],
     "group_max": 0,
     "have_max": 0,
@@ -1456,6 +1531,7 @@
     "rarity": 3,
     "resource_type": 1,
     "sub_attribute": [],
+    "tech_id": 320205,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -1466,7 +1542,7 @@
     "drop_after_use": 0,
     "filter": [
       10111,
-      10121
+      10125
     ],
     "group_max": 0,
     "have_max": 0,
@@ -1487,6 +1563,7 @@
     "rarity": 1,
     "resource_type": 1,
     "sub_attribute": [],
+    "tech_id": 500231,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -1497,7 +1574,7 @@
     "drop_after_use": 0,
     "filter": [
       10111,
-      10121
+      10125
     ],
     "group_max": 0,
     "have_max": 0,
@@ -1518,6 +1595,7 @@
     "rarity": 1,
     "resource_type": 1,
     "sub_attribute": [],
+    "tech_id": 500232,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -1528,7 +1606,7 @@
     "drop_after_use": 0,
     "filter": [
       10111,
-      10121
+      10125
     ],
     "group_max": 0,
     "have_max": 0,
@@ -1549,6 +1627,7 @@
     "rarity": 1,
     "resource_type": 1,
     "sub_attribute": [],
+    "tech_id": 500233,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -1559,7 +1638,7 @@
     "drop_after_use": 0,
     "filter": [
       10111,
-      10121
+      10125
     ],
     "group_max": 0,
     "have_max": 0,
@@ -1580,6 +1659,7 @@
     "rarity": 2,
     "resource_type": 1,
     "sub_attribute": [],
+    "tech_id": 500234,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -1590,7 +1670,7 @@
     "drop_after_use": 0,
     "filter": [
       10111,
-      10121
+      10125
     ],
     "group_max": 0,
     "have_max": 0,
@@ -1611,6 +1691,7 @@
     "rarity": 2,
     "resource_type": 1,
     "sub_attribute": [],
+    "tech_id": 500235,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -1621,7 +1702,7 @@
     "drop_after_use": 0,
     "filter": [
       10111,
-      10121
+      10125
     ],
     "group_max": 0,
     "have_max": 0,
@@ -1642,6 +1723,7 @@
     "rarity": 3,
     "resource_type": 1,
     "sub_attribute": [],
+    "tech_id": 500236,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -1652,7 +1734,7 @@
     "drop_after_use": 0,
     "filter": [
       10111,
-      10121
+      10125
     ],
     "group_max": 0,
     "have_max": 0,
@@ -1673,6 +1755,7 @@
     "rarity": 3,
     "resource_type": 1,
     "sub_attribute": [],
+    "tech_id": 330201,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -1704,6 +1787,7 @@
     "rarity": 1,
     "resource_type": 1,
     "sub_attribute": [],
+    "tech_id": 420301,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -1735,6 +1819,7 @@
     "rarity": 1,
     "resource_type": 1,
     "sub_attribute": [],
+    "tech_id": 0,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -1766,6 +1851,7 @@
     "rarity": 1,
     "resource_type": 1,
     "sub_attribute": [],
+    "tech_id": 0,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -1797,6 +1883,7 @@
     "rarity": 1,
     "resource_type": 1,
     "sub_attribute": [],
+    "tech_id": 430301,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -1828,6 +1915,7 @@
     "rarity": 3,
     "resource_type": 1,
     "sub_attribute": [],
+    "tech_id": 0,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -1859,6 +1947,7 @@
     "rarity": 3,
     "resource_type": 1,
     "sub_attribute": [],
+    "tech_id": 440301,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -1869,7 +1958,7 @@
     "drop_after_use": 0,
     "filter": [
       10111,
-      10127
+      10140
     ],
     "group_max": 0,
     "have_max": 0,
@@ -1890,6 +1979,7 @@
     "rarity": 1,
     "resource_type": 1,
     "sub_attribute": [],
+    "tech_id": 0,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -1921,6 +2011,7 @@
     "rarity": 1,
     "resource_type": 1,
     "sub_attribute": [],
+    "tech_id": 0,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -1952,6 +2043,7 @@
     "rarity": 1,
     "resource_type": 1,
     "sub_attribute": [],
+    "tech_id": 220101,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -1983,6 +2075,7 @@
     "rarity": 2,
     "resource_type": 1,
     "sub_attribute": [],
+    "tech_id": 220201,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -2014,6 +2107,7 @@
     "rarity": 2,
     "resource_type": 1,
     "sub_attribute": [],
+    "tech_id": 220202,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -2045,6 +2139,7 @@
     "rarity": 3,
     "resource_type": 1,
     "sub_attribute": [],
+    "tech_id": 220203,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -2076,6 +2171,7 @@
     "rarity": 4,
     "resource_type": 1,
     "sub_attribute": [],
+    "tech_id": 220204,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -2107,6 +2203,7 @@
     "rarity": 1,
     "resource_type": 1,
     "sub_attribute": [],
+    "tech_id": 0,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -2138,6 +2235,7 @@
     "rarity": 1,
     "resource_type": 1,
     "sub_attribute": [],
+    "tech_id": 210201,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -2169,6 +2267,7 @@
     "rarity": 2,
     "resource_type": 1,
     "sub_attribute": [],
+    "tech_id": 210202,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -2200,6 +2299,7 @@
     "rarity": 4,
     "resource_type": 1,
     "sub_attribute": [],
+    "tech_id": 210203,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -2210,7 +2310,7 @@
     "drop_after_use": 0,
     "filter": [
       10112,
-      10127
+      10140
     ],
     "group_max": 0,
     "have_max": 0,
@@ -2227,10 +2327,11 @@
     "name": "咯咯鸡饲料",
     "order_price": 25,
     "price": 1,
-    "pt_num": 1,
+    "pt_num": 3,
     "rarity": 1,
     "resource_type": 1,
     "sub_attribute": [],
+    "tech_id": 0,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -2241,7 +2342,7 @@
     "drop_after_use": 0,
     "filter": [
       10112,
-      10127
+      10140
     ],
     "group_max": 0,
     "have_max": 0,
@@ -2258,10 +2359,11 @@
     "name": "哼哼猪饲料",
     "order_price": 25,
     "price": 1,
-    "pt_num": 1,
+    "pt_num": 3,
     "rarity": 1,
     "resource_type": 1,
     "sub_attribute": [],
+    "tech_id": 420301,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -2272,7 +2374,7 @@
     "drop_after_use": 0,
     "filter": [
       10112,
-      10127
+      10140
     ],
     "group_max": 0,
     "have_max": 0,
@@ -2293,6 +2395,7 @@
     "rarity": 2,
     "resource_type": 1,
     "sub_attribute": [],
+    "tech_id": 430301,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -2303,7 +2406,7 @@
     "drop_after_use": 0,
     "filter": [
       10112,
-      10127
+      10140
     ],
     "group_max": 0,
     "have_max": 0,
@@ -2324,6 +2427,7 @@
     "rarity": 2,
     "resource_type": 1,
     "sub_attribute": [],
+    "tech_id": 440301,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -2334,7 +2438,7 @@
     "drop_after_use": 0,
     "filter": [
       10112,
-      10127
+      10140
     ],
     "group_max": 0,
     "have_max": 0,
@@ -2351,10 +2455,11 @@
     "name": "面粉",
     "order_price": 50,
     "price": 1,
-    "pt_num": 1,
+    "pt_num": 6,
     "rarity": 1,
     "resource_type": 1,
     "sub_attribute": [],
+    "tech_id": 0,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -2382,13 +2487,14 @@
     "name": "冰咖啡",
     "order_price": 95,
     "price": 1,
-    "pt_num": 1,
+    "pt_num": 15,
     "rarity": 1,
     "resource_type": 1,
     "sub_attribute": [
       5,
       35
     ],
+    "tech_id": 0,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -2423,6 +2529,7 @@
       3,
       35
     ],
+    "tech_id": 550201,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -2457,6 +2564,7 @@
       4,
       35
     ],
+    "tech_id": 550202,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -2484,13 +2592,14 @@
     "name": "柑橘咖啡",
     "order_price": 190,
     "price": 1,
-    "pt_num": 20,
+    "pt_num": 25,
     "rarity": 2,
     "resource_type": 1,
     "sub_attribute": [
       5,
       35
     ],
+    "tech_id": 550203,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -2501,7 +2610,7 @@
     "drop_after_use": 0,
     "filter": [
       10113,
-      10126
+      10129
     ],
     "group_max": 0,
     "have_max": 0,
@@ -2525,6 +2634,7 @@
       3,
       35
     ],
+    "tech_id": 550204,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -2552,13 +2662,14 @@
     "name": "草莓奶绿",
     "order_price": 260,
     "price": 1,
-    "pt_num": 25,
+    "pt_num": 60,
     "rarity": 2,
     "resource_type": 1,
     "sub_attribute": [
       4,
       35
     ],
+    "tech_id": 550205,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -2569,7 +2680,7 @@
     "drop_after_use": 0,
     "filter": [
       10113,
-      10125
+      10127
     ],
     "group_max": 0,
     "have_max": 0,
@@ -2593,6 +2704,7 @@
       5,
       35
     ],
+    "tech_id": 0,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -2603,7 +2715,7 @@
     "drop_after_use": 0,
     "filter": [
       10113,
-      10125
+      10127
     ],
     "group_max": 0,
     "have_max": 0,
@@ -2627,6 +2739,7 @@
       3,
       35
     ],
+    "tech_id": 510201,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -2637,7 +2750,7 @@
     "drop_after_use": 0,
     "filter": [
       10113,
-      10125
+      10127
     ],
     "group_max": 0,
     "have_max": 0,
@@ -2661,6 +2774,7 @@
       4,
       35
     ],
+    "tech_id": 510202,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -2671,7 +2785,7 @@
     "drop_after_use": 0,
     "filter": [
       10113,
-      10125
+      10127
     ],
     "group_max": 0,
     "have_max": 0,
@@ -2688,13 +2802,14 @@
     "name": "白菜豆腐汤",
     "order_price": 425,
     "price": 1,
-    "pt_num": 40,
+    "pt_num": 65,
     "rarity": 2,
     "resource_type": 1,
     "sub_attribute": [
       5,
       35
     ],
+    "tech_id": 510203,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -2705,7 +2820,7 @@
     "drop_after_use": 0,
     "filter": [
       10113,
-      10125
+      10127
     ],
     "group_max": 0,
     "have_max": 0,
@@ -2729,6 +2844,7 @@
       3,
       35
     ],
+    "tech_id": 510204,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -2739,7 +2855,7 @@
     "drop_after_use": 0,
     "filter": [
       10113,
-      10125
+      10128
     ],
     "group_max": 0,
     "have_max": 0,
@@ -2763,6 +2879,7 @@
       5,
       35
     ],
+    "tech_id": 500235,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -2773,7 +2890,7 @@
     "drop_after_use": 0,
     "filter": [
       10113,
-      10125
+      10128
     ],
     "group_max": 0,
     "have_max": 0,
@@ -2790,13 +2907,14 @@
     "name": "香蕉芒果汁",
     "order_price": 215,
     "price": 1,
-    "pt_num": 20,
+    "pt_num": 25,
     "rarity": 2,
     "resource_type": 1,
     "sub_attribute": [
       3,
       35
     ],
+    "tech_id": 520201,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -2807,7 +2925,7 @@
     "drop_after_use": 0,
     "filter": [
       10113,
-      10125
+      10128
     ],
     "group_max": 0,
     "have_max": 0,
@@ -2831,6 +2949,7 @@
       4,
       35
     ],
+    "tech_id": 520202,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -2841,7 +2960,7 @@
     "drop_after_use": 0,
     "filter": [
       10113,
-      10125
+      10128
     ],
     "group_max": 0,
     "have_max": 0,
@@ -2858,13 +2977,14 @@
     "name": "草莓蜜沁",
     "order_price": 270,
     "price": 1,
-    "pt_num": 25,
+    "pt_num": 50,
     "rarity": 2,
     "resource_type": 1,
     "sub_attribute": [
       4,
       35
     ],
+    "tech_id": 520205,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -2875,7 +2995,7 @@
     "drop_after_use": 0,
     "filter": [
       10113,
-      10125
+      10128
     ],
     "group_max": 0,
     "have_max": 0,
@@ -2899,6 +3019,7 @@
       3,
       35
     ],
+    "tech_id": 520204,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -2909,7 +3030,7 @@
     "drop_after_use": 0,
     "filter": [
       10113,
-      10125
+      10128
     ],
     "group_max": 0,
     "have_max": 0,
@@ -2933,6 +3054,7 @@
       4,
       35
     ],
+    "tech_id": 520203,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -2943,7 +3065,7 @@
     "drop_after_use": 0,
     "filter": [
       10113,
-      10125
+      10129
     ],
     "group_max": 0,
     "have_max": 0,
@@ -2960,13 +3082,14 @@
     "name": "玉米杯",
     "order_price": 45,
     "price": 1,
-    "pt_num": 4,
+    "pt_num": 7,
     "rarity": 2,
     "resource_type": 1,
     "sub_attribute": [
       5,
       35
     ],
+    "tech_id": 0,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -2977,7 +3100,7 @@
     "drop_after_use": 0,
     "filter": [
       10113,
-      10126
+      10129
     ],
     "group_max": 0,
     "have_max": 0,
@@ -3001,6 +3124,7 @@
       3,
       35
     ],
+    "tech_id": 530206,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -3011,7 +3135,7 @@
     "drop_after_use": 0,
     "filter": [
       10113,
-      10126
+      10129
     ],
     "group_max": 0,
     "have_max": 0,
@@ -3035,6 +3159,7 @@
       4,
       35
     ],
+    "tech_id": 530202,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -3045,7 +3170,7 @@
     "drop_after_use": 0,
     "filter": [
       10113,
-      10126
+      10129
     ],
     "group_max": 0,
     "have_max": 0,
@@ -3069,6 +3194,7 @@
       5,
       35
     ],
+    "tech_id": 530203,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -3079,7 +3205,7 @@
     "drop_after_use": 0,
     "filter": [
       10113,
-      10126
+      10129
     ],
     "group_max": 0,
     "have_max": 0,
@@ -3103,6 +3229,7 @@
       4,
       35
     ],
+    "tech_id": 530204,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -3113,7 +3240,7 @@
     "drop_after_use": 0,
     "filter": [
       10113,
-      10125
+      10130
     ],
     "group_max": 0,
     "have_max": 0,
@@ -3137,6 +3264,7 @@
       4,
       35
     ],
+    "tech_id": 0,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -3147,7 +3275,7 @@
     "drop_after_use": 0,
     "filter": [
       10113,
-      10125
+      10130
     ],
     "group_max": 0,
     "have_max": 0,
@@ -3171,6 +3299,7 @@
       5,
       35
     ],
+    "tech_id": 540201,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -3181,7 +3310,7 @@
     "drop_after_use": 0,
     "filter": [
       10113,
-      10125
+      10130
     ],
     "group_max": 0,
     "have_max": 0,
@@ -3205,6 +3334,7 @@
       4,
       35
     ],
+    "tech_id": 540202,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -3215,7 +3345,7 @@
     "drop_after_use": 0,
     "filter": [
       10113,
-      10125
+      10130
     ],
     "group_max": 0,
     "have_max": 0,
@@ -3239,6 +3369,7 @@
       5,
       35
     ],
+    "tech_id": 540204,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -3249,7 +3380,7 @@
     "drop_after_use": 0,
     "filter": [
       10113,
-      10125
+      10130
     ],
     "group_max": 0,
     "have_max": 0,
@@ -3273,6 +3404,7 @@
       4,
       35
     ],
+    "tech_id": 540205,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -3283,7 +3415,7 @@
     "drop_after_use": 0,
     "filter": [
       10111,
-      10121
+      10131
     ],
     "group_max": 0,
     "have_max": 0,
@@ -3304,6 +3436,7 @@
     "rarity": 2,
     "resource_type": 1,
     "sub_attribute": [],
+    "tech_id": 0,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -3314,7 +3447,7 @@
     "drop_after_use": 0,
     "filter": [
       10111,
-      10121
+      10131
     ],
     "group_max": 0,
     "have_max": 0,
@@ -3335,6 +3468,7 @@
     "rarity": 2,
     "resource_type": 1,
     "sub_attribute": [],
+    "tech_id": 660201,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -3345,7 +3479,7 @@
     "drop_after_use": 0,
     "filter": [
       10111,
-      10121
+      10131
     ],
     "group_max": 0,
     "have_max": 0,
@@ -3366,6 +3500,7 @@
     "rarity": 3,
     "resource_type": 1,
     "sub_attribute": [],
+    "tech_id": 660202,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -3376,7 +3511,7 @@
     "drop_after_use": 0,
     "filter": [
       10111,
-      10121
+      10131
     ],
     "group_max": 0,
     "have_max": 0,
@@ -3397,6 +3532,7 @@
     "rarity": 3,
     "resource_type": 1,
     "sub_attribute": [],
+    "tech_id": 660203,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -3407,7 +3543,7 @@
     "drop_after_use": 0,
     "filter": [
       10111,
-      10121
+      10131
     ],
     "group_max": 0,
     "have_max": 0,
@@ -3428,6 +3564,7 @@
     "rarity": 3,
     "resource_type": 1,
     "sub_attribute": [],
+    "tech_id": 660204,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -3438,7 +3575,7 @@
     "drop_after_use": 0,
     "filter": [
       10111,
-      10121
+      10131
     ],
     "group_max": 0,
     "have_max": 0,
@@ -3459,6 +3596,7 @@
     "rarity": 4,
     "resource_type": 1,
     "sub_attribute": [],
+    "tech_id": 660205,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -3469,7 +3607,7 @@
     "drop_after_use": 0,
     "filter": [
       10111,
-      10121
+      10131
     ],
     "group_max": 0,
     "have_max": 0,
@@ -3490,6 +3628,7 @@
     "rarity": 4,
     "resource_type": 1,
     "sub_attribute": [],
+    "tech_id": 660206,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -3500,7 +3639,7 @@
     "drop_after_use": 0,
     "filter": [
       10111,
-      10121
+      10131
     ],
     "group_max": 0,
     "have_max": 0,
@@ -3521,6 +3660,7 @@
     "rarity": 2,
     "resource_type": 1,
     "sub_attribute": [],
+    "tech_id": 0,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -3531,7 +3671,7 @@
     "drop_after_use": 0,
     "filter": [
       10111,
-      10121
+      10131
     ],
     "group_max": 0,
     "have_max": 0,
@@ -3552,6 +3692,7 @@
     "rarity": 3,
     "resource_type": 1,
     "sub_attribute": [],
+    "tech_id": 640202,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -3562,7 +3703,7 @@
     "drop_after_use": 0,
     "filter": [
       10111,
-      10121
+      10131
     ],
     "group_max": 0,
     "have_max": 0,
@@ -3583,6 +3724,7 @@
     "rarity": 2,
     "resource_type": 1,
     "sub_attribute": [],
+    "tech_id": 640201,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -3593,7 +3735,7 @@
     "drop_after_use": 0,
     "filter": [
       10111,
-      10121
+      10131
     ],
     "group_max": 0,
     "have_max": 0,
@@ -3614,6 +3756,7 @@
     "rarity": 2,
     "resource_type": 1,
     "sub_attribute": [],
+    "tech_id": 640203,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -3624,7 +3767,7 @@
     "drop_after_use": 0,
     "filter": [
       10111,
-      10121
+      10131
     ],
     "group_max": 0,
     "have_max": 0,
@@ -3645,6 +3788,7 @@
     "rarity": 3,
     "resource_type": 1,
     "sub_attribute": [],
+    "tech_id": 640204,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -3655,7 +3799,7 @@
     "drop_after_use": 0,
     "filter": [
       10111,
-      10121
+      10131
     ],
     "group_max": 0,
     "have_max": 0,
@@ -3676,6 +3820,7 @@
     "rarity": 4,
     "resource_type": 1,
     "sub_attribute": [],
+    "tech_id": 640206,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -3686,7 +3831,7 @@
     "drop_after_use": 0,
     "filter": [
       10111,
-      10121
+      10131
     ],
     "group_max": 0,
     "have_max": 0,
@@ -3703,10 +3848,11 @@
     "name": "纸张",
     "order_price": 175,
     "price": 1,
-    "pt_num": 1,
+    "pt_num": 6,
     "rarity": 1,
     "resource_type": 1,
     "sub_attribute": [],
+    "tech_id": 0,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -3717,7 +3863,7 @@
     "drop_after_use": 0,
     "filter": [
       10111,
-      10121
+      10131
     ],
     "group_max": 0,
     "have_max": 0,
@@ -3738,6 +3884,7 @@
     "rarity": 2,
     "resource_type": 1,
     "sub_attribute": [],
+    "tech_id": 630201,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -3748,7 +3895,7 @@
     "drop_after_use": 0,
     "filter": [
       10111,
-      10121
+      10131
     ],
     "group_max": 0,
     "have_max": 0,
@@ -3769,6 +3916,7 @@
     "rarity": 2,
     "resource_type": 1,
     "sub_attribute": [],
+    "tech_id": 630202,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -3779,7 +3927,7 @@
     "drop_after_use": 0,
     "filter": [
       10111,
-      10121
+      10131
     ],
     "group_max": 0,
     "have_max": 0,
@@ -3800,6 +3948,7 @@
     "rarity": 3,
     "resource_type": 1,
     "sub_attribute": [],
+    "tech_id": 630203,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -3810,7 +3959,7 @@
     "drop_after_use": 0,
     "filter": [
       10111,
-      10121
+      10131
     ],
     "group_max": 0,
     "have_max": 0,
@@ -3831,6 +3980,7 @@
     "rarity": 4,
     "resource_type": 1,
     "sub_attribute": [],
+    "tech_id": 630204,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -3841,7 +3991,7 @@
     "drop_after_use": 0,
     "filter": [
       10111,
-      10121
+      10131
     ],
     "group_max": 0,
     "have_max": 0,
@@ -3862,6 +4012,7 @@
     "rarity": 2,
     "resource_type": 1,
     "sub_attribute": [],
+    "tech_id": 0,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -3872,7 +4023,7 @@
     "drop_after_use": 0,
     "filter": [
       10111,
-      10121
+      10131
     ],
     "group_max": 0,
     "have_max": 0,
@@ -3893,6 +4044,7 @@
     "rarity": 3,
     "resource_type": 1,
     "sub_attribute": [],
+    "tech_id": 650201,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -3903,7 +4055,7 @@
     "drop_after_use": 0,
     "filter": [
       10111,
-      10121
+      10131
     ],
     "group_max": 0,
     "have_max": 0,
@@ -3924,6 +4076,7 @@
     "rarity": 3,
     "resource_type": 1,
     "sub_attribute": [],
+    "tech_id": 650202,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -3934,7 +4087,7 @@
     "drop_after_use": 0,
     "filter": [
       10111,
-      10121
+      10131
     ],
     "group_max": 0,
     "have_max": 0,
@@ -3955,6 +4108,7 @@
     "rarity": 4,
     "resource_type": 1,
     "sub_attribute": [],
+    "tech_id": 650203,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -3982,13 +4136,14 @@
     "name": "欧姆蛋",
     "order_price": 50,
     "price": 1,
-    "pt_num": 1,
+    "pt_num": 2,
     "rarity": 1,
     "resource_type": 1,
     "sub_attribute": [
       5,
       35
     ],
+    "tech_id": 0,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -3999,7 +4154,7 @@
     "drop_after_use": 0,
     "filter": [
       10113,
-      10125
+      10127
     ],
     "group_max": 0,
     "have_max": 0,
@@ -4008,7 +4163,7 @@
     "id": 3101,
     "jump_page": [
       [
-        "套餐菜单",
+        "有鱼餐馆",
         []
       ]
     ],
@@ -4016,13 +4171,14 @@
     "name": "经典豆腐套餐",
     "order_price": 1735,
     "price": 1,
-    "pt_num": 200,
+    "pt_num": 230,
     "rarity": 3,
     "resource_type": 1,
     "sub_attribute": [
       5,
       35
     ],
+    "tech_id": 0,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -4033,7 +4189,7 @@
     "drop_after_use": 0,
     "filter": [
       10113,
-      10125
+      10127
     ],
     "group_max": 0,
     "have_max": 0,
@@ -4042,7 +4198,7 @@
     "id": 3102,
     "jump_page": [
       [
-        "套餐菜单",
+        "有鱼餐馆",
         []
       ]
     ],
@@ -4057,6 +4213,7 @@
       5,
       35
     ],
+    "tech_id": 0,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -4067,7 +4224,7 @@
     "drop_after_use": 0,
     "filter": [
       10113,
-      10125
+      10128
     ],
     "group_max": 0,
     "have_max": 0,
@@ -4076,21 +4233,22 @@
     "id": 3103,
     "jump_page": [
       [
-        "套餐菜单",
+        "白熊饮品",
         []
       ]
     ],
     "manage_influence": 210,
     "name": "花香果韵",
-    "order_price": 170,
+    "order_price": 1700,
     "price": 1,
-    "pt_num": 200,
+    "pt_num": 250,
     "rarity": 3,
     "resource_type": 1,
     "sub_attribute": [
       3,
       35
     ],
+    "tech_id": 0,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -4101,7 +4259,7 @@
     "drop_after_use": 0,
     "filter": [
       10113,
-      10125
+      10128
     ],
     "group_max": 0,
     "have_max": 0,
@@ -4110,7 +4268,7 @@
     "id": 3104,
     "jump_page": [
       [
-        "套餐菜单",
+        "白熊饮品",
         []
       ]
     ],
@@ -4125,6 +4283,7 @@
       5,
       35
     ],
+    "tech_id": 0,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -4135,7 +4294,7 @@
     "drop_after_use": 0,
     "filter": [
       10113,
-      10125
+      10128
     ],
     "group_max": 0,
     "have_max": 0,
@@ -4144,7 +4303,7 @@
     "id": 3105,
     "jump_page": [
       [
-        "套餐菜单",
+        "白熊饮品",
         []
       ]
     ],
@@ -4152,13 +4311,14 @@
     "name": "阳光蜜水",
     "order_price": 410,
     "price": 1,
-    "pt_num": 60,
+    "pt_num": 70,
     "rarity": 4,
     "resource_type": 1,
     "sub_attribute": [
       5,
       35
     ],
+    "tech_id": 0,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -4169,7 +4329,7 @@
     "drop_after_use": 0,
     "filter": [
       10113,
-      10125
+      10129
     ],
     "group_max": 0,
     "have_max": 0,
@@ -4178,7 +4338,7 @@
     "id": 3106,
     "jump_page": [
       [
-        "套餐菜单",
+        "啾啾简餐",
         []
       ]
     ],
@@ -4186,13 +4346,14 @@
     "name": "香甜组合",
     "order_price": 560,
     "price": 1,
-    "pt_num": 65,
+    "pt_num": 70,
     "rarity": 3,
     "resource_type": 1,
     "sub_attribute": [
       3,
       35
     ],
+    "tech_id": 0,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -4203,7 +4364,7 @@
     "drop_after_use": 0,
     "filter": [
       10113,
-      10125
+      10129
     ],
     "group_max": 0,
     "have_max": 0,
@@ -4212,7 +4373,7 @@
     "id": 3107,
     "jump_page": [
       [
-        "套餐菜单",
+        "啾啾简餐",
         []
       ]
     ],
@@ -4227,6 +4388,7 @@
       5,
       35
     ],
+    "tech_id": 0,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -4237,7 +4399,7 @@
     "drop_after_use": 0,
     "filter": [
       10113,
-      10125
+      10129
     ],
     "group_max": 0,
     "have_max": 0,
@@ -4246,7 +4408,7 @@
     "id": 3108,
     "jump_page": [
       [
-        "套餐菜单",
+        "啾啾简餐",
         []
       ]
     ],
@@ -4261,6 +4423,7 @@
       5,
       35
     ],
+    "tech_id": 0,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -4271,7 +4434,7 @@
     "drop_after_use": 0,
     "filter": [
       10113,
-      10125
+      10130
     ],
     "group_max": 0,
     "have_max": 0,
@@ -4280,7 +4443,7 @@
     "id": 3109,
     "jump_page": [
       [
-        "套餐菜单",
+        "乌鱼烤肉",
         []
       ]
     ],
@@ -4295,6 +4458,7 @@
       3,
       35
     ],
+    "tech_id": 0,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -4305,7 +4469,7 @@
     "drop_after_use": 0,
     "filter": [
       10113,
-      10125
+      10130
     ],
     "group_max": 0,
     "have_max": 0,
@@ -4314,7 +4478,7 @@
     "id": 3110,
     "jump_page": [
       [
-        "套餐菜单",
+        "乌鱼烤肉",
         []
       ]
     ],
@@ -4329,6 +4493,7 @@
       5,
       35
     ],
+    "tech_id": 0,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -4339,7 +4504,7 @@
     "drop_after_use": 0,
     "filter": [
       10113,
-      10125
+      10126
     ],
     "group_max": 0,
     "have_max": 0,
@@ -4348,7 +4513,7 @@
     "id": 3111,
     "jump_page": [
       [
-        "套餐菜单",
+        "啾咖啡",
         []
       ]
     ],
@@ -4363,6 +4528,7 @@
       5,
       35
     ],
+    "tech_id": 0,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -4373,7 +4539,7 @@
     "drop_after_use": 0,
     "filter": [
       10113,
-      10125
+      10126
     ],
     "group_max": 0,
     "have_max": 0,
@@ -4382,7 +4548,7 @@
     "id": 3112,
     "jump_page": [
       [
-        "套餐菜单",
+        "啾咖啡",
         []
       ]
     ],
@@ -4397,6 +4563,7 @@
       3,
       35
     ],
+    "tech_id": 0,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -4407,7 +4574,7 @@
     "drop_after_use": 0,
     "filter": [
       10113,
-      10125
+      10126
     ],
     "group_max": 0,
     "have_max": 0,
@@ -4416,7 +4583,7 @@
     "id": 3113,
     "jump_page": [
       [
-        "套餐菜单",
+        "啾咖啡",
         []
       ]
     ],
@@ -4424,13 +4591,14 @@
     "name": "果香双杯乐",
     "order_price": 450,
     "price": 1,
-    "pt_num": 65,
+    "pt_num": 90,
     "rarity": 4,
     "resource_type": 1,
     "sub_attribute": [
       3,
       35
     ],
+    "tech_id": 0,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -4461,6 +4629,7 @@
     "rarity": 2,
     "resource_type": 1,
     "sub_attribute": [],
+    "tech_id": 0,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -4491,6 +4660,7 @@
     "rarity": 1,
     "resource_type": 1,
     "sub_attribute": [],
+    "tech_id": 0,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -4521,6 +4691,7 @@
     "rarity": 1,
     "resource_type": 1,
     "sub_attribute": [],
+    "tech_id": 0,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -4551,6 +4722,7 @@
     "rarity": 3,
     "resource_type": 1,
     "sub_attribute": [],
+    "tech_id": 0,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -4561,7 +4733,7 @@
     "drop_after_use": 0,
     "filter": [
       10111,
-      10121
+      10125
     ],
     "group_max": 0,
     "have_max": 0,
@@ -4582,6 +4754,7 @@
     "rarity": 2,
     "resource_type": 1,
     "sub_attribute": [],
+    "tech_id": 0,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -4615,6 +4788,7 @@
     "rarity": 1,
     "resource_type": 1,
     "sub_attribute": [],
+    "tech_id": 0,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -4625,7 +4799,7 @@
     "drop_after_use": 0,
     "filter": [
       10111,
-      10121
+      10125
     ],
     "group_max": 0,
     "have_max": 0,
@@ -4646,6 +4820,7 @@
     "rarity": 3,
     "resource_type": 1,
     "sub_attribute": [],
+    "tech_id": 0,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -4679,6 +4854,7 @@
     "rarity": 1,
     "resource_type": 1,
     "sub_attribute": [],
+    "tech_id": 0,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -4689,7 +4865,7 @@
     "drop_after_use": 0,
     "filter": [
       10113,
-      10129
+      10127
     ],
     "group_max": 0,
     "have_max": 0,
@@ -4713,6 +4889,7 @@
       4,
       35
     ],
+    "tech_id": 0,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -4723,7 +4900,7 @@
     "drop_after_use": 0,
     "filter": [
       10113,
-      10129
+      10127
     ],
     "group_max": 0,
     "have_max": 0,
@@ -4747,6 +4924,7 @@
       5,
       35
     ],
+    "tech_id": 0,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -4781,6 +4959,7 @@
       3,
       35
     ],
+    "tech_id": 0,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -4815,6 +4994,7 @@
       5,
       35
     ],
+    "tech_id": 0,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -4849,6 +5029,7 @@
       4,
       35
     ],
+    "tech_id": 0,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -4883,6 +5064,7 @@
       3,
       35
     ],
+    "tech_id": 0,
     "type": 1,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -4901,7 +5083,15 @@
     "id": 100001,
     "jump_page": [
       [
-        "白熊饮品",
+        "累计PT",
+        []
+      ],
+      [
+        "开发商店",
+        []
+      ],
+      [
+        "开发计划",
         []
       ]
     ],
@@ -4913,6 +5103,7 @@
     "rarity": 2,
     "resource_type": 0,
     "sub_attribute": [],
+    "tech_id": 0,
     "type": 5,
     "usage": "usage_undefined",
     "usage_arg": "100"
@@ -4931,11 +5122,15 @@
     "id": 100002,
     "jump_page": [
       [
+        "累计PT",
+        []
+      ],
+      [
         "开发商店",
         []
       ],
       [
-        "计划",
+        "开发计划",
         []
       ]
     ],
@@ -4947,6 +5142,7 @@
     "rarity": 3,
     "resource_type": 0,
     "sub_attribute": [],
+    "tech_id": 0,
     "type": 5,
     "usage": "usage_undefined",
     "usage_arg": "2000"
@@ -4965,11 +5161,15 @@
     "id": 100003,
     "jump_page": [
       [
+        "累计PT",
+        []
+      ],
+      [
         "开发商店",
         []
       ],
       [
-        "计划",
+        "开发计划",
         []
       ]
     ],
@@ -4981,6 +5181,7 @@
     "rarity": 4,
     "resource_type": 0,
     "sub_attribute": [],
+    "tech_id": 0,
     "type": 5,
     "usage": "usage_undefined",
     "usage_arg": "8000"
@@ -4999,11 +5200,11 @@
     "id": 100011,
     "jump_page": [
       [
-        "开发商店",
+        "累计PT",
         []
       ],
       [
-        "计划",
+        "开发计划",
         []
       ]
     ],
@@ -5015,6 +5216,7 @@
     "rarity": 2,
     "resource_type": 0,
     "sub_attribute": [],
+    "tech_id": 0,
     "type": 2,
     "usage": "usage_undefined",
     "usage_arg": "1"
@@ -5035,10 +5237,6 @@
       [
         "累计PT",
         []
-      ],
-      [
-        "开发计划",
-        []
       ]
     ],
     "manage_influence": 0,
@@ -5049,6 +5247,7 @@
     "rarity": 3,
     "resource_type": 0,
     "sub_attribute": [],
+    "tech_id": 0,
     "type": 2,
     "usage": "usage_undefined",
     "usage_arg": "2"
@@ -5065,12 +5264,7 @@
     "icon": "IslandProps/item_100013",
     "icon_normal": "",
     "id": 100013,
-    "jump_page": [
-      [
-        "累计PT",
-        []
-      ]
-    ],
+    "jump_page": [],
     "manage_influence": 0,
     "name": "经营指南T3",
     "order_price": 0,
@@ -5079,6 +5273,7 @@
     "rarity": 4,
     "resource_type": 0,
     "sub_attribute": [],
+    "tech_id": 0,
     "type": 2,
     "usage": "usage_undefined",
     "usage_arg": "5"
@@ -5113,6 +5308,7 @@
     "rarity": 2,
     "resource_type": 0,
     "sub_attribute": [],
+    "tech_id": 0,
     "type": 2,
     "usage": "usage_undefined",
     "usage_arg": "1"
@@ -5143,6 +5339,7 @@
     "rarity": 3,
     "resource_type": 0,
     "sub_attribute": [],
+    "tech_id": 0,
     "type": 2,
     "usage": "usage_undefined",
     "usage_arg": "2"
@@ -5168,6 +5365,7 @@
     "rarity": 4,
     "resource_type": 0,
     "sub_attribute": [],
+    "tech_id": 0,
     "type": 2,
     "usage": "usage_undefined",
     "usage_arg": "5"
@@ -5202,6 +5400,7 @@
     "rarity": 2,
     "resource_type": 0,
     "sub_attribute": [],
+    "tech_id": 0,
     "type": 2,
     "usage": "usage_undefined",
     "usage_arg": "1"
@@ -5232,6 +5431,7 @@
     "rarity": 3,
     "resource_type": 0,
     "sub_attribute": [],
+    "tech_id": 0,
     "type": 2,
     "usage": "usage_undefined",
     "usage_arg": "2"
@@ -5257,6 +5457,7 @@
     "rarity": 4,
     "resource_type": 0,
     "sub_attribute": [],
+    "tech_id": 0,
     "type": 2,
     "usage": "usage_undefined",
     "usage_arg": "5"
@@ -5291,6 +5492,7 @@
     "rarity": 2,
     "resource_type": 0,
     "sub_attribute": [],
+    "tech_id": 0,
     "type": 2,
     "usage": "usage_undefined",
     "usage_arg": "1"
@@ -5321,6 +5523,7 @@
     "rarity": 3,
     "resource_type": 0,
     "sub_attribute": [],
+    "tech_id": 0,
     "type": 2,
     "usage": "usage_undefined",
     "usage_arg": "2"
@@ -5346,6 +5549,7 @@
     "rarity": 4,
     "resource_type": 0,
     "sub_attribute": [],
+    "tech_id": 0,
     "type": 2,
     "usage": "usage_undefined",
     "usage_arg": "5"
@@ -5380,6 +5584,7 @@
     "rarity": 2,
     "resource_type": 0,
     "sub_attribute": [],
+    "tech_id": 0,
     "type": 2,
     "usage": "usage_undefined",
     "usage_arg": "1"
@@ -5410,6 +5615,7 @@
     "rarity": 3,
     "resource_type": 0,
     "sub_attribute": [],
+    "tech_id": 0,
     "type": 2,
     "usage": "usage_undefined",
     "usage_arg": "2"
@@ -5435,6 +5641,7 @@
     "rarity": 4,
     "resource_type": 0,
     "sub_attribute": [],
+    "tech_id": 0,
     "type": 2,
     "usage": "usage_undefined",
     "usage_arg": "5"
@@ -5469,6 +5676,7 @@
     "rarity": 2,
     "resource_type": 0,
     "sub_attribute": [],
+    "tech_id": 0,
     "type": 2,
     "usage": "usage_undefined",
     "usage_arg": "1"
@@ -5499,6 +5707,7 @@
     "rarity": 3,
     "resource_type": 0,
     "sub_attribute": [],
+    "tech_id": 0,
     "type": 2,
     "usage": "usage_undefined",
     "usage_arg": "2"
@@ -5524,6 +5733,7 @@
     "rarity": 4,
     "resource_type": 0,
     "sub_attribute": [],
+    "tech_id": 0,
     "type": 2,
     "usage": "usage_undefined",
     "usage_arg": "5"
@@ -5542,7 +5752,15 @@
     "id": 100101,
     "jump_page": [
       [
+        "累计PT",
+        []
+      ],
+      [
         "开发商店",
+        []
+      ],
+      [
+        "开发计划",
         []
       ]
     ],
@@ -5554,6 +5772,7 @@
     "rarity": 2,
     "resource_type": 0,
     "sub_attribute": [],
+    "tech_id": 0,
     "type": 2,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -5572,7 +5791,15 @@
     "id": 100102,
     "jump_page": [
       [
+        "累计PT",
+        []
+      ],
+      [
         "开发商店",
+        []
+      ],
+      [
+        "开发计划",
         []
       ]
     ],
@@ -5584,6 +5811,7 @@
     "rarity": 3,
     "resource_type": 0,
     "sub_attribute": [],
+    "tech_id": 0,
     "type": 2,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -5602,7 +5830,15 @@
     "id": 100103,
     "jump_page": [
       [
+        "累计PT",
+        []
+      ],
+      [
         "开发商店",
+        []
+      ],
+      [
+        "开发计划",
         []
       ]
     ],
@@ -5614,6 +5850,7 @@
     "rarity": 4,
     "resource_type": 0,
     "sub_attribute": [],
+    "tech_id": 0,
     "type": 2,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -5628,7 +5865,7 @@
     "group_max": 0,
     "have_max": 0,
     "icon": "IslandProps/item_100201",
-    "icon_normal": "",
+    "icon_normal": "props/item_island_100201",
     "id": 100201,
     "jump_page": [
       [
@@ -5644,6 +5881,7 @@
     "rarity": 3,
     "resource_type": 0,
     "sub_attribute": [],
+    "tech_id": 0,
     "type": 2,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -5678,6 +5916,7 @@
     "rarity": 2,
     "resource_type": 0,
     "sub_attribute": [],
+    "tech_id": 0,
     "type": 2,
     "usage": "usage_island_gift",
     "usage_arg": [
@@ -5717,6 +5956,7 @@
     "rarity": 2,
     "resource_type": 0,
     "sub_attribute": [],
+    "tech_id": 0,
     "type": 2,
     "usage": "usage_island_gift",
     "usage_arg": [
@@ -5758,6 +5998,7 @@
     "rarity": 2,
     "resource_type": 0,
     "sub_attribute": [],
+    "tech_id": 0,
     "type": 2,
     "usage": "usage_island_gift",
     "usage_arg": [
@@ -5799,6 +6040,7 @@
     "rarity": 2,
     "resource_type": 0,
     "sub_attribute": [],
+    "tech_id": 0,
     "type": 2,
     "usage": "usage_island_gift",
     "usage_arg": [
@@ -5840,6 +6082,7 @@
     "rarity": 2,
     "resource_type": 0,
     "sub_attribute": [],
+    "tech_id": 0,
     "type": 2,
     "usage": "usage_island_gift",
     "usage_arg": [
@@ -5881,6 +6124,7 @@
     "rarity": 2,
     "resource_type": 0,
     "sub_attribute": [],
+    "tech_id": 0,
     "type": 2,
     "usage": "usage_island_gift",
     "usage_arg": [
@@ -5906,7 +6150,12 @@
     "icon": "IslandProps/item_200001",
     "icon_normal": "",
     "id": 200001,
-    "jump_page": [],
+    "jump_page": [
+      [
+        "星彩奖",
+        []
+      ]
+    ],
     "manage_influence": 0,
     "name": "柴郡岛屿权限认证函",
     "order_price": 0,
@@ -5915,6 +6164,7 @@
     "rarity": 4,
     "resource_type": 0,
     "sub_attribute": [],
+    "tech_id": 0,
     "type": 2,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -5940,6 +6190,7 @@
     "rarity": 4,
     "resource_type": 0,
     "sub_attribute": [],
+    "tech_id": 0,
     "type": 2,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -5956,7 +6207,12 @@
     "icon": "IslandProps/item_200003",
     "icon_normal": "",
     "id": 200003,
-    "jump_page": [],
+    "jump_page": [
+      [
+        "计划",
+        []
+      ]
+    ],
     "manage_influence": 0,
     "name": "{namecode:98:明石}岛屿权限认证函",
     "order_price": 0,
@@ -5965,6 +6221,7 @@
     "rarity": 4,
     "resource_type": 0,
     "sub_attribute": [],
+    "tech_id": 0,
     "type": 2,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -5990,6 +6247,7 @@
     "rarity": 4,
     "resource_type": 0,
     "sub_attribute": [],
+    "tech_id": 0,
     "type": 2,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -6006,7 +6264,12 @@
     "icon": "IslandProps/item_200005",
     "icon_normal": "",
     "id": 200005,
-    "jump_page": [],
+    "jump_page": [
+      [
+        "科技",
+        []
+      ]
+    ],
     "manage_influence": 0,
     "name": "{namecode:199:新泽西}岛屿权限认证函",
     "order_price": 0,
@@ -6015,6 +6278,7 @@
     "rarity": 4,
     "resource_type": 0,
     "sub_attribute": [],
+    "tech_id": 0,
     "type": 2,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -6031,7 +6295,12 @@
     "icon": "IslandProps/item_200006",
     "icon_normal": "",
     "id": 200006,
-    "jump_page": [],
+    "jump_page": [
+      [
+        "图鉴",
+        []
+      ]
+    ],
     "manage_influence": 0,
     "name": "{namecode:18:岛风}岛屿权限认证函",
     "order_price": 0,
@@ -6040,6 +6309,7 @@
     "rarity": 4,
     "resource_type": 0,
     "sub_attribute": [],
+    "tech_id": 0,
     "type": 2,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -6056,7 +6326,12 @@
     "icon": "IslandProps/item_200007",
     "icon_normal": "",
     "id": 200007,
-    "jump_page": [],
+    "jump_page": [
+      [
+        "科技",
+        []
+      ]
+    ],
     "manage_influence": 0,
     "name": "应瑞岛屿权限认证函",
     "order_price": 0,
@@ -6065,6 +6340,7 @@
     "rarity": 4,
     "resource_type": 0,
     "sub_attribute": [],
+    "tech_id": 0,
     "type": 2,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -6081,7 +6357,12 @@
     "icon": "IslandProps/item_200008",
     "icon_normal": "",
     "id": 200008,
-    "jump_page": [],
+    "jump_page": [
+      [
+        "成就",
+        []
+      ]
+    ],
     "manage_influence": 0,
     "name": "恶毒岛屿权限认证函",
     "order_price": 0,
@@ -6090,6 +6371,7 @@
     "rarity": 4,
     "resource_type": 0,
     "sub_attribute": [],
+    "tech_id": 0,
     "type": 2,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -6106,7 +6388,12 @@
     "icon": "IslandProps/item_200009",
     "icon_normal": "",
     "id": 200009,
-    "jump_page": [],
+    "jump_page": [
+      [
+        "星彩奖",
+        []
+      ]
+    ],
     "manage_influence": 0,
     "name": "独角兽岛屿权限认证函",
     "order_price": 0,
@@ -6115,6 +6402,7 @@
     "rarity": 4,
     "resource_type": 0,
     "sub_attribute": [],
+    "tech_id": 0,
     "type": 2,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -6131,7 +6419,12 @@
     "icon": "IslandProps/item_200010",
     "icon_normal": "",
     "id": 200010,
-    "jump_page": [],
+    "jump_page": [
+      [
+        "科技",
+        []
+      ]
+    ],
     "manage_influence": 0,
     "name": "塔什干岛屿权限认证函",
     "order_price": 0,
@@ -6140,6 +6433,7 @@
     "rarity": 4,
     "resource_type": 0,
     "sub_attribute": [],
+    "tech_id": 0,
     "type": 2,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -6156,7 +6450,12 @@
     "icon": "IslandProps/item_200011",
     "icon_normal": "",
     "id": 200011,
-    "jump_page": [],
+    "jump_page": [
+      [
+        "科技",
+        []
+      ]
+    ],
     "manage_influence": 0,
     "name": "胡德岛屿权限认证函",
     "order_price": 0,
@@ -6165,6 +6464,7 @@
     "rarity": 4,
     "resource_type": 0,
     "sub_attribute": [],
+    "tech_id": 0,
     "type": 2,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -6181,7 +6481,12 @@
     "icon": "IslandProps/item_200012",
     "icon_normal": "",
     "id": 200012,
-    "jump_page": [],
+    "jump_page": [
+      [
+        "星彩奖",
+        []
+      ]
+    ],
     "manage_influence": 0,
     "name": "{namecode:193:小天城}岛屿权限认证函",
     "order_price": 0,
@@ -6190,6 +6495,7 @@
     "rarity": 4,
     "resource_type": 0,
     "sub_attribute": [],
+    "tech_id": 0,
     "type": 2,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -6215,6 +6521,7 @@
     "rarity": 4,
     "resource_type": 0,
     "sub_attribute": [],
+    "tech_id": 0,
     "type": 2,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -6231,7 +6538,12 @@
     "icon": "IslandProps/item_200014",
     "icon_normal": "",
     "id": 200014,
-    "jump_page": [],
+    "jump_page": [
+      [
+        "科技",
+        []
+      ]
+    ],
     "manage_influence": 0,
     "name": "肇和岛屿权限认证函",
     "order_price": 0,
@@ -6240,6 +6552,7 @@
     "rarity": 4,
     "resource_type": 0,
     "sub_attribute": [],
+    "tech_id": 0,
     "type": 2,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -6256,7 +6569,12 @@
     "icon": "IslandProps/item_200015",
     "icon_normal": "",
     "id": 200015,
-    "jump_page": [],
+    "jump_page": [
+      [
+        "成就",
+        []
+      ]
+    ],
     "manage_influence": 0,
     "name": "莱昂纳多·达·芬奇岛屿权限认证函",
     "order_price": 0,
@@ -6265,6 +6583,181 @@
     "rarity": 4,
     "resource_type": 0,
     "sub_attribute": [],
+    "tech_id": 0,
+    "type": 2,
+    "usage": "usage_undefined",
+    "usage_arg": "[]"
+  },
+  "300001": {
+    "convert": 0,
+    "desc": "获得后，丰壤农田委派效率提高 4%",
+    "drop_after_use": 0,
+    "filter": [],
+    "group_max": 0,
+    "have_max": 0,
+    "icon": "IslandProps/buff",
+    "icon_normal": "",
+    "id": 300001,
+    "jump_page": [
+      [
+        "图鉴",
+        []
+      ]
+    ],
+    "manage_influence": 0,
+    "name": "丰壤农田委派效率提高 4%",
+    "order_price": 0,
+    "price": 0,
+    "pt_num": 0,
+    "rarity": 4,
+    "resource_type": 0,
+    "sub_attribute": [],
+    "tech_id": 0,
+    "type": 2,
+    "usage": "usage_undefined",
+    "usage_arg": "[]"
+  },
+  "300002": {
+    "convert": 0,
+    "desc": "获得后，坠香果园委派效率提高 4%",
+    "drop_after_use": 0,
+    "filter": [],
+    "group_max": 0,
+    "have_max": 0,
+    "icon": "IslandProps/buff",
+    "icon_normal": "",
+    "id": 300002,
+    "jump_page": [
+      [
+        "图鉴",
+        []
+      ]
+    ],
+    "manage_influence": 0,
+    "name": "坠香果园委派效率提高 4%",
+    "order_price": 0,
+    "price": 0,
+    "pt_num": 0,
+    "rarity": 4,
+    "resource_type": 0,
+    "sub_attribute": [],
+    "tech_id": 0,
+    "type": 2,
+    "usage": "usage_undefined",
+    "usage_arg": "[]"
+  },
+  "300003": {
+    "convert": 0,
+    "desc": "获得后，青芽苗圃委派效率提高 4%",
+    "drop_after_use": 0,
+    "filter": [],
+    "group_max": 0,
+    "have_max": 0,
+    "icon": "IslandProps/buff",
+    "icon_normal": "",
+    "id": 300003,
+    "jump_page": [
+      [
+        "图鉴",
+        []
+      ]
+    ],
+    "manage_influence": 0,
+    "name": "青芽苗圃委派效率提高 4%",
+    "order_price": 0,
+    "price": 0,
+    "pt_num": 0,
+    "rarity": 4,
+    "resource_type": 0,
+    "sub_attribute": [],
+    "tech_id": 0,
+    "type": 2,
+    "usage": "usage_undefined",
+    "usage_arg": "[]"
+  },
+  "300004": {
+    "convert": 0,
+    "desc": "获得后，丰壤农田委派效率提高 8%",
+    "drop_after_use": 0,
+    "filter": [],
+    "group_max": 0,
+    "have_max": 0,
+    "icon": "IslandProps/buff",
+    "icon_normal": "",
+    "id": 300004,
+    "jump_page": [
+      [
+        "图鉴",
+        []
+      ]
+    ],
+    "manage_influence": 0,
+    "name": "丰壤农田委派效率提高 8%",
+    "order_price": 0,
+    "price": 0,
+    "pt_num": 0,
+    "rarity": 4,
+    "resource_type": 0,
+    "sub_attribute": [],
+    "tech_id": 0,
+    "type": 2,
+    "usage": "usage_undefined",
+    "usage_arg": "[]"
+  },
+  "300005": {
+    "convert": 0,
+    "desc": "获得后，坠香果园委派效率提高 8%",
+    "drop_after_use": 0,
+    "filter": [],
+    "group_max": 0,
+    "have_max": 0,
+    "icon": "IslandProps/buff",
+    "icon_normal": "",
+    "id": 300005,
+    "jump_page": [
+      [
+        "图鉴",
+        []
+      ]
+    ],
+    "manage_influence": 0,
+    "name": "坠香果园委派效率提高 8%",
+    "order_price": 0,
+    "price": 0,
+    "pt_num": 0,
+    "rarity": 4,
+    "resource_type": 0,
+    "sub_attribute": [],
+    "tech_id": 0,
+    "type": 2,
+    "usage": "usage_undefined",
+    "usage_arg": "[]"
+  },
+  "300006": {
+    "convert": 0,
+    "desc": "获得后，青芽苗圃委派效率提高 8%",
+    "drop_after_use": 0,
+    "filter": [],
+    "group_max": 0,
+    "have_max": 0,
+    "icon": "IslandProps/buff",
+    "icon_normal": "",
+    "id": 300006,
+    "jump_page": [
+      [
+        "图鉴",
+        []
+      ]
+    ],
+    "manage_influence": 0,
+    "name": "青芽苗圃委派效率提高 8%",
+    "order_price": 0,
+    "price": 0,
+    "pt_num": 0,
+    "rarity": 4,
+    "resource_type": 0,
+    "sub_attribute": [],
+    "tech_id": 0,
     "type": 2,
     "usage": "usage_undefined",
     "usage_arg": "[]"
@@ -6279,6 +6772,7 @@
     7,
     8,
     9,
+    10,
     1000,
     1001,
     1002,
@@ -6467,6 +6961,12 @@
     200012,
     200013,
     200014,
-    200015
+    200015,
+    300001,
+    300002,
+    300003,
+    300004,
+    300005,
+    300006
   ]
 }

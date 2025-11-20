@@ -6793,6 +6793,16 @@
           ""
         ],
         0
+      ],
+      [
+        "军需商店兑换",
+        [
+          "SHOP",
+          {
+            "warp": "supplies"
+          }
+        ],
+        0
       ]
     ],
     "group_type": 30104,
@@ -8410,6 +8420,17 @@
           ""
         ],
         0
+      ],
+      [
+        "进行重型舰建造",
+        [
+          "GETBOAT",
+          {
+            "page": 1,
+            "projectName": "heavy"
+          }
+        ],
+        0
       ]
     ],
     "group_type": 30310,
@@ -9144,6 +9165,28 @@
         "限时活动：紫绛槿岚",
         [
           ""
+        ],
+        0
+      ],
+      [
+        "进行重型、特型舰建造",
+        [
+          "GETBOAT",
+          {
+            "page": 1,
+            "projectName": "special"
+          }
+        ],
+        0
+      ],
+      [
+        "常驻UR兑换",
+        [
+          "GETBOAT",
+          {
+            "page": 1,
+            "projectName": "heavy"
+          }
         ],
         0
       ]
@@ -12682,6 +12725,17 @@
         "限时活动：紫绛槿岚",
         [
           ""
+        ],
+        0
+      ],
+      [
+        "进行轻型舰建造",
+        [
+          "GETBOAT",
+          {
+            "page": 1,
+            "projectName": "light"
+          }
         ],
         0
       ]
@@ -23220,6 +23274,17 @@
           ""
         ],
         0
+      ],
+      [
+        "进行轻型舰建造",
+        [
+          "GETBOAT",
+          {
+            "page": 1,
+            "projectName": "light"
+          }
+        ],
+        0
       ]
     ],
     "group_type": 30188,
@@ -24697,6 +24762,17 @@
           ""
         ],
         0
+      ],
+      [
+        "进行轻型舰建造",
+        [
+          "GETBOAT",
+          {
+            "page": 1,
+            "projectName": "light"
+          }
+        ],
+        0
       ]
     ],
     "group_type": 960003,
@@ -24727,6 +24803,17 @@
         "限时活动：飓风与青春之泉",
         [
           ""
+        ],
+        0
+      ],
+      [
+        "进行特型舰建造",
+        [
+          "GETBOAT",
+          {
+            "page": 1,
+            "projectName": "special"
+          }
         ],
         0
       ]
@@ -24761,6 +24848,16 @@
           ""
         ],
         0
+      ],
+      [
+        "军需商店兑换",
+        [
+          "SHOP",
+          {
+            "warp": "supplies"
+          }
+        ],
+        0
       ]
     ],
     "group_type": 960006,
@@ -24793,6 +24890,17 @@
           ""
         ],
         0
+      ],
+      [
+        "进行重型舰建造",
+        [
+          "GETBOAT",
+          {
+            "page": 1,
+            "projectName": "heavy"
+          }
+        ],
+        0
       ]
     ],
     "group_type": 960002,
@@ -24823,6 +24931,17 @@
         "限时活动：飓风与青春之泉",
         [
           ""
+        ],
+        0
+      ],
+      [
+        "进行特型舰建造",
+        [
+          "GETBOAT",
+          {
+            "page": 1,
+            "projectName": "special"
+          }
         ],
         0
       ]
@@ -27828,6 +27947,166 @@
     "trans_type": 0,
     "type": 2
   },
+  "709": {
+    "code": 709,
+    "description": [
+      [
+        "限时活动：飓风与自由群岛",
+        [
+          ""
+        ],
+        0
+      ]
+    ],
+    "group_type": 960012,
+    "handbook_type": 0,
+    "hide": 0,
+    "index_id": 646,
+    "nationality": 96,
+    "property_hexagon": [
+      "A",
+      "E",
+      "E",
+      "C",
+      "E",
+      "B"
+    ],
+    "redirect_id": 101,
+    "share_group_id": [],
+    "trans_radar_chart": [],
+    "trans_skill": [],
+    "trans_skin": 0,
+    "trans_type": 0,
+    "type": 24
+  },
+  "710": {
+    "code": 710,
+    "description": [
+      [
+        "限时活动：飓风与自由群岛",
+        [
+          ""
+        ],
+        0
+      ]
+    ],
+    "group_type": 960013,
+    "handbook_type": 0,
+    "hide": 0,
+    "index_id": 647,
+    "nationality": 96,
+    "property_hexagon": [
+      "A",
+      "E",
+      "E",
+      "C",
+      "E",
+      "A"
+    ],
+    "redirect_id": 101,
+    "share_group_id": [],
+    "trans_radar_chart": [],
+    "trans_skill": [],
+    "trans_skin": 0,
+    "trans_type": 0,
+    "type": 23
+  },
+  "711": {
+    "code": 711,
+    "description": [
+      [
+        "限时活动：飓风与自由群岛",
+        [
+          ""
+        ],
+        0
+      ]
+    ],
+    "group_type": 960014,
+    "handbook_type": 0,
+    "hide": 0,
+    "index_id": 646,
+    "nationality": 96,
+    "property_hexagon": [
+      "A",
+      "E",
+      "E",
+      "C",
+      "E",
+      "B"
+    ],
+    "redirect_id": 101,
+    "share_group_id": [],
+    "trans_radar_chart": [],
+    "trans_skill": [],
+    "trans_skin": 0,
+    "trans_type": 0,
+    "type": 24
+  },
+  "712": {
+    "code": 712,
+    "description": [
+      [
+        "限时活动：飓风与自由群岛",
+        [
+          ""
+        ],
+        0
+      ]
+    ],
+    "group_type": 960015,
+    "handbook_type": 0,
+    "hide": 0,
+    "index_id": 646,
+    "nationality": 96,
+    "property_hexagon": [
+      "C",
+      "E",
+      "E",
+      "C",
+      "E",
+      "B"
+    ],
+    "redirect_id": 101,
+    "share_group_id": [],
+    "trans_radar_chart": [],
+    "trans_skill": [],
+    "trans_skin": 0,
+    "trans_type": 0,
+    "type": 23
+  },
+  "713": {
+    "code": 713,
+    "description": [
+      [
+        "限时活动：飓风与自由群岛",
+        [
+          ""
+        ],
+        0
+      ]
+    ],
+    "group_type": 960016,
+    "handbook_type": 0,
+    "hide": 0,
+    "index_id": 647,
+    "nationality": 96,
+    "property_hexagon": [
+      "C",
+      "E",
+      "E",
+      "C",
+      "E",
+      "B"
+    ],
+    "redirect_id": 101,
+    "share_group_id": [],
+    "trans_radar_chart": [],
+    "trans_skill": [],
+    "trans_skin": 0,
+    "trans_type": 0,
+    "type": 22
+  },
   "10001": {
     "code": 10001,
     "description": [
@@ -30291,6 +30570,262 @@
     "trans_skin": 0,
     "trans_type": 0,
     "type": 1
+  },
+  "10141": {
+    "code": 10141,
+    "description": [
+      [
+        "限时活动：晴空下的邂逅",
+        [
+          ""
+        ],
+        0
+      ]
+    ],
+    "group_type": 1140001,
+    "handbook_type": 1,
+    "hide": 0,
+    "index_id": 10141,
+    "nationality": 114,
+    "property_hexagon": [
+      "E",
+      "E",
+      "E",
+      "C",
+      "D",
+      "C"
+    ],
+    "redirect_id": 101,
+    "share_group_id": [],
+    "trans_radar_chart": [],
+    "trans_skill": [],
+    "trans_skin": 0,
+    "trans_type": 0,
+    "type": 12
+  },
+  "10142": {
+    "code": 10142,
+    "description": [
+      [
+        "限时活动：晴空下的邂逅",
+        [
+          ""
+        ],
+        0
+      ]
+    ],
+    "group_type": 1140002,
+    "handbook_type": 1,
+    "hide": 0,
+    "index_id": 10142,
+    "nationality": 114,
+    "property_hexagon": [
+      "A",
+      "B",
+      "E",
+      "B",
+      "B",
+      "C"
+    ],
+    "redirect_id": 101,
+    "share_group_id": [],
+    "trans_radar_chart": [],
+    "trans_skill": [],
+    "trans_skin": 0,
+    "trans_type": 0,
+    "type": 2
+  },
+  "10151": {
+    "code": 10151,
+    "description": [
+      [
+        "限时活动：DATE A LANE",
+        [
+          ""
+        ],
+        0
+      ]
+    ],
+    "group_type": 1150001,
+    "handbook_type": 1,
+    "hide": 0,
+    "index_id": 10151,
+    "nationality": 115,
+    "property_hexagon": [
+      "B",
+      "E",
+      "E",
+      "B",
+      "B",
+      "A"
+    ],
+    "redirect_id": 101,
+    "share_group_id": [],
+    "trans_radar_chart": [],
+    "trans_skill": [],
+    "trans_skin": 0,
+    "trans_type": 0,
+    "type": 3
+  },
+  "10152": {
+    "code": 10152,
+    "description": [
+      [
+        "限时活动：DATE A LANE",
+        [
+          ""
+        ],
+        0
+      ]
+    ],
+    "group_type": 1150002,
+    "handbook_type": 1,
+    "hide": 0,
+    "index_id": 10152,
+    "nationality": 115,
+    "property_hexagon": [
+      "E",
+      "E",
+      "S",
+      "B",
+      "B",
+      "A"
+    ],
+    "redirect_id": 101,
+    "share_group_id": [],
+    "trans_radar_chart": [],
+    "trans_skill": [],
+    "trans_skin": 0,
+    "trans_type": 0,
+    "type": 7
+  },
+  "10153": {
+    "code": 10153,
+    "description": [
+      [
+        "限时活动：DATE A LANE",
+        [
+          ""
+        ],
+        0
+      ]
+    ],
+    "group_type": 1150003,
+    "handbook_type": 1,
+    "hide": 0,
+    "index_id": 10153,
+    "nationality": 115,
+    "property_hexagon": [
+      "S",
+      "E",
+      "E",
+      "D",
+      "C",
+      "A"
+    ],
+    "redirect_id": 101,
+    "share_group_id": [],
+    "trans_radar_chart": [],
+    "trans_skill": [],
+    "trans_skin": 0,
+    "trans_type": 0,
+    "type": 5
+  },
+  "10154": {
+    "code": 10154,
+    "description": [
+      [
+        "限时活动：DATE A LANE",
+        [
+          ""
+        ],
+        0
+      ]
+    ],
+    "group_type": 1150004,
+    "handbook_type": 1,
+    "hide": 0,
+    "index_id": 10154,
+    "nationality": 115,
+    "property_hexagon": [
+      "E",
+      "E",
+      "A",
+      "D",
+      "A",
+      "A"
+    ],
+    "redirect_id": 101,
+    "share_group_id": [],
+    "trans_radar_chart": [],
+    "trans_skill": [],
+    "trans_skin": 0,
+    "trans_type": 0,
+    "type": 6
+  },
+  "10155": {
+    "code": 10155,
+    "description": [
+      [
+        "限时活动：DATE A LANE",
+        [
+          ""
+        ],
+        0
+      ]
+    ],
+    "group_type": 1150005,
+    "handbook_type": 1,
+    "hide": 0,
+    "index_id": 10155,
+    "nationality": 115,
+    "property_hexagon": [
+      "A",
+      "E",
+      "E",
+      "B",
+      "B",
+      "D"
+    ],
+    "redirect_id": 101,
+    "share_group_id": [],
+    "trans_radar_chart": [],
+    "trans_skill": [],
+    "trans_skin": 0,
+    "trans_type": 0,
+    "type": 2
+  },
+  "10156": {
+    "code": 10156,
+    "description": [
+      [
+        "限时活动：DATE A LANE",
+        [
+          ""
+        ],
+        0
+      ]
+    ],
+    "group_type": 1150006,
+    "handbook_type": 1,
+    "hide": 0,
+    "index_id": 10156,
+    "nationality": 115,
+    "property_hexagon": [
+      "A",
+      "B",
+      "E",
+      "B",
+      "B",
+      "C"
+    ],
+    "redirect_id": 101,
+    "share_group_id": [],
+    "trans_radar_chart": [],
+    "trans_skill": [],
+    "trans_skin": 0,
+    "trans_type": 0,
+    "type": 2
   },
   "20001": {
     "code": 20001,
@@ -33565,6 +34100,41 @@
     "trans_type": 0,
     "type": 1
   },
+  "30053": {
+    "code": 30053,
+    "description": [
+      [
+        "限时活动：世界巡游",
+        [
+          "METACHARACTER",
+          {
+            "autoOpenShipConfigID": 9702081
+          }
+        ],
+        0
+      ]
+    ],
+    "group_type": 970208,
+    "handbook_type": 3,
+    "hide": 0,
+    "index_id": 30050,
+    "nationality": 97,
+    "property_hexagon": [
+      "B",
+      "E",
+      "E",
+      "B",
+      "B",
+      "C"
+    ],
+    "redirect_id": 101,
+    "share_group_id": [],
+    "trans_radar_chart": [],
+    "trans_skill": [],
+    "trans_skin": 0,
+    "trans_type": 0,
+    "type": 2
+  },
   "all": [
     1,
     2,
@@ -34210,6 +34780,11 @@
     666,
     667,
     668,
+    709,
+    710,
+    711,
+    712,
+    713,
     10001,
     10002,
     10003,
@@ -34287,6 +34862,14 @@
     10132,
     10133,
     10134,
+    10141,
+    10142,
+    10151,
+    10152,
+    10153,
+    10154,
+    10155,
+    10156,
     20001,
     20002,
     20003,
@@ -34380,6 +34963,7 @@
     30049,
     30050,
     30051,
-    30052
+    30052,
+    30053
   ]
 }

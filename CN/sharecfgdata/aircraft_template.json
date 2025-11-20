@@ -85545,6 +85545,520 @@
       169090
     ]
   },
+  "169391": {
+    "ACC_growth": 0,
+    "accuracy": 23,
+    "AP_growth": 2000,
+    "attack_power": 2,
+    "bound_bone": {
+      "weapon": [
+        [
+          0.71,
+          -1.73,
+          0
+        ],
+        [
+          0.82,
+          2.04,
+          0
+        ]
+      ]
+    },
+    "cld_box": [
+      1,
+      1,
+      1
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "crash_DMG": 208,
+    "dodge": 1,
+    "dodge_limit": 0,
+    "funnel_behavior": "",
+    "fx_container": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0.64,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "hp_growth": 1846,
+    "icon": "97jiangong",
+    "id": 169391,
+    "max_hp": 48,
+    "model_ID": "97jiangong",
+    "name": "鸢一折纸飞机Lv1",
+    "nationality": 107,
+    "position_offset": [
+      0,
+      5,
+      0
+    ],
+    "scale": 1,
+    "spawn_brownian": 1,
+    "speed": 50,
+    "type": 3,
+    "weapon_ID": [
+      169401
+    ]
+  },
+  "169392": {
+    "base": 169391,
+    "hp_growth": 2087,
+    "id": 169392,
+    "max_hp": 54,
+    "name": "鸢一折纸飞机Lv2",
+    "spawn_brownian": 1,
+    "weapon_ID": [
+      169402
+    ]
+  },
+  "169393": {
+    "base": 169391,
+    "hp_growth": 2327,
+    "id": 169393,
+    "max_hp": 61,
+    "name": "鸢一折纸飞机Lv3",
+    "spawn_brownian": 1,
+    "weapon_ID": [
+      169403
+    ]
+  },
+  "169394": {
+    "base": 169391,
+    "hp_growth": 2568,
+    "id": 169394,
+    "max_hp": 67,
+    "name": "鸢一折纸飞机Lv4",
+    "spawn_brownian": 1,
+    "weapon_ID": [
+      169404
+    ]
+  },
+  "169395": {
+    "base": 169391,
+    "hp_growth": 2809,
+    "id": 169395,
+    "max_hp": 73,
+    "name": "鸢一折纸飞机Lv5",
+    "spawn_brownian": 1,
+    "weapon_ID": [
+      169405
+    ]
+  },
+  "169396": {
+    "base": 169391,
+    "hp_growth": 3050,
+    "id": 169396,
+    "max_hp": 79,
+    "name": "鸢一折纸飞机Lv6",
+    "spawn_brownian": 1,
+    "weapon_ID": [
+      169406
+    ]
+  },
+  "169397": {
+    "base": 169391,
+    "hp_growth": 3290,
+    "id": 169397,
+    "max_hp": 86,
+    "name": "鸢一折纸飞机Lv7",
+    "spawn_brownian": 1,
+    "weapon_ID": [
+      169407
+    ]
+  },
+  "169398": {
+    "base": 169391,
+    "hp_growth": 3531,
+    "id": 169398,
+    "max_hp": 92,
+    "name": "鸢一折纸飞机Lv8",
+    "spawn_brownian": 1,
+    "weapon_ID": [
+      169408
+    ]
+  },
+  "169399": {
+    "base": 169391,
+    "hp_growth": 3772,
+    "id": 169399,
+    "max_hp": 98,
+    "name": "鸢一折纸飞机Lv9",
+    "spawn_brownian": 1,
+    "weapon_ID": [
+      169409
+    ]
+  },
+  "169400": {
+    "base": 169391,
+    "hp_growth": 4013,
+    "id": 169400,
+    "max_hp": 104,
+    "name": "鸢一折纸飞机Lv10",
+    "spawn_brownian": 1,
+    "weapon_ID": [
+      169410
+    ]
+  },
+  "169531": {
+    "ACC_growth": 0,
+    "accuracy": 23,
+    "AP_growth": 2000,
+    "attack_power": 2,
+    "bound_bone": {
+      "weapon": [
+        [
+          0.93,
+          -1.03,
+          0
+        ],
+        [
+          0.96,
+          1.08,
+          0
+        ]
+      ]
+    },
+    "cld_box": [
+      1,
+      1,
+      1
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "crash_DMG": 206,
+    "dodge": 3.03,
+    "dodge_limit": 2.2,
+    "funnel_behavior": "",
+    "fx_container": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "hp_growth": 2076,
+    "icon": "f6f",
+    "id": 169531,
+    "max_hp": 54,
+    "model_ID": "ad1",
+    "name": "独立专武弹幕",
+    "nationality": 3,
+    "position_offset": [
+      0,
+      5,
+      0
+    ],
+    "scale": 1,
+    "spawn_brownian": 1,
+    "speed": 45,
+    "type": 3,
+    "weapon_ID": [
+      169541
+    ]
+  },
+  "169532": {
+    "base": 169531,
+    "hp_growth": 2387,
+    "id": 169532,
+    "max_hp": 62,
+    "spawn_brownian": 1,
+    "weapon_ID": [
+      169542
+    ]
+  },
+  "169533": {
+    "base": 169531,
+    "hp_growth": 2698,
+    "id": 169533,
+    "max_hp": 70,
+    "spawn_brownian": 1,
+    "weapon_ID": [
+      169543
+    ]
+  },
+  "169534": {
+    "base": 169531,
+    "hp_growth": 3010,
+    "id": 169534,
+    "max_hp": 78,
+    "spawn_brownian": 1,
+    "weapon_ID": [
+      169544
+    ]
+  },
+  "169535": {
+    "base": 169531,
+    "hp_growth": 3321,
+    "id": 169535,
+    "max_hp": 86,
+    "spawn_brownian": 1,
+    "weapon_ID": [
+      169545
+    ]
+  },
+  "169536": {
+    "base": 169531,
+    "hp_growth": 3632,
+    "id": 169536,
+    "max_hp": 94,
+    "spawn_brownian": 1,
+    "weapon_ID": [
+      169546
+    ]
+  },
+  "169537": {
+    "base": 169531,
+    "hp_growth": 3944,
+    "id": 169537,
+    "max_hp": 103,
+    "spawn_brownian": 1,
+    "weapon_ID": [
+      169547
+    ]
+  },
+  "169538": {
+    "base": 169531,
+    "hp_growth": 4255,
+    "id": 169538,
+    "max_hp": 111,
+    "spawn_brownian": 1,
+    "weapon_ID": [
+      169548
+    ]
+  },
+  "169539": {
+    "base": 169531,
+    "hp_growth": 4566,
+    "id": 169539,
+    "max_hp": 119,
+    "spawn_brownian": 1,
+    "weapon_ID": [
+      169549
+    ]
+  },
+  "169540": {
+    "base": 169531,
+    "hp_growth": 4878,
+    "id": 169540,
+    "max_hp": 127,
+    "spawn_brownian": 1,
+    "weapon_ID": [
+      169550
+    ]
+  },
+  "169551": {
+    "ACC_growth": 0,
+    "accuracy": 24,
+    "AP_growth": 2000,
+    "attack_power": 2,
+    "bound_bone": {
+      "weapon": [
+        [
+          -1.28,
+          1.62,
+          0
+        ],
+        [
+          -1.12,
+          -1,
+          0
+        ]
+      ]
+    },
+    "cld_box": [
+      1,
+      1,
+      1
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "crash_DMG": 156,
+    "dodge": 0.327,
+    "dodge_limit": 10.5,
+    "funnel_behavior": "",
+    "fx_container": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "hp_growth": 3881,
+    "icon": "f6f",
+    "id": 169551,
+    "max_hp": 110,
+    "model_ID": "f6f",
+    "name": "独立兵装战斗机",
+    "nationality": 1,
+    "position_offset": [
+      0,
+      5,
+      0
+    ],
+    "scale": 1,
+    "spawn_brownian": 1,
+    "speed": 60,
+    "type": 1,
+    "weapon_ID": [
+      169561,
+      169571
+    ]
+  },
+  "169552": {
+    "base": 169551,
+    "hp_growth": 3881,
+    "id": 169552,
+    "max_hp": 110,
+    "spawn_brownian": 1,
+    "weapon_ID": [
+      169562,
+      169572
+    ]
+  },
+  "169553": {
+    "base": 169551,
+    "hp_growth": 3881,
+    "id": 169553,
+    "max_hp": 110,
+    "spawn_brownian": 1,
+    "weapon_ID": [
+      169563,
+      169573
+    ]
+  },
+  "169554": {
+    "base": 169551,
+    "hp_growth": 3881,
+    "id": 169554,
+    "max_hp": 110,
+    "spawn_brownian": 1,
+    "weapon_ID": [
+      169564,
+      169574
+    ]
+  },
+  "169555": {
+    "base": 169551,
+    "hp_growth": 3881,
+    "id": 169555,
+    "max_hp": 110,
+    "spawn_brownian": 1,
+    "weapon_ID": [
+      169565,
+      169575
+    ]
+  },
+  "169556": {
+    "base": 169551,
+    "hp_growth": 3881,
+    "id": 169556,
+    "max_hp": 110,
+    "spawn_brownian": 1,
+    "weapon_ID": [
+      169566,
+      169576
+    ]
+  },
+  "169557": {
+    "base": 169551,
+    "hp_growth": 3881,
+    "id": 169557,
+    "max_hp": 110,
+    "spawn_brownian": 1,
+    "weapon_ID": [
+      169567,
+      169577
+    ]
+  },
+  "169558": {
+    "base": 169551,
+    "hp_growth": 3881,
+    "id": 169558,
+    "max_hp": 110,
+    "spawn_brownian": 1,
+    "weapon_ID": [
+      169568,
+      169578
+    ]
+  },
+  "169559": {
+    "base": 169551,
+    "hp_growth": 3881,
+    "id": 169559,
+    "max_hp": 110,
+    "spawn_brownian": 1,
+    "weapon_ID": [
+      169569,
+      169579
+    ]
+  },
+  "169560": {
+    "base": 169551,
+    "hp_growth": 3881,
+    "id": 169560,
+    "max_hp": 110,
+    "spawn_brownian": 1,
+    "weapon_ID": [
+      169570,
+      169580
+    ]
+  },
   "170844": {
     "ACC_growth": 0,
     "accuracy": 23,
@@ -259970,6 +260484,756 @@
     "type": 3,
     "weapon_ID": []
   },
+  "3218085": {
+    "ACC_growth": 0,
+    "accuracy": 23,
+    "AP_growth": 2000,
+    "attack_power": 2,
+    "bound_bone": {
+      "weapon": [
+        [
+          0.56,
+          -0.76,
+          0
+        ],
+        [
+          0.48,
+          0.99,
+          0
+        ]
+      ]
+    },
+    "cld_box": [
+      1,
+      1,
+      1
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "crash_DMG": 10,
+    "dodge": 1,
+    "dodge_limit": 0,
+    "funnel_behavior": "",
+    "fx_container": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "hp_growth": 1680,
+    "icon": "feiji_haigushou01",
+    "id": 3218085,
+    "max_hp": 60,
+    "model_ID": "feiji_haigushou01",
+    "name": "【2024风帆二期】骸骨兽航母 飞鱼舰载机（快速冲底） Lv1",
+    "nationality": 3,
+    "position_offset": [
+      0,
+      5,
+      0
+    ],
+    "scale": 0.75,
+    "spawn_brownian": 1,
+    "speed": 50,
+    "type": 1,
+    "weapon_ID": [
+      3218090
+    ]
+  },
+  "3218086": {
+    "ACC_growth": 0,
+    "accuracy": 23,
+    "AP_growth": 2000,
+    "attack_power": 2,
+    "bound_bone": {
+      "weapon": [
+        [
+          0.56,
+          -0.76,
+          0
+        ],
+        [
+          0.48,
+          0.99,
+          0
+        ]
+      ]
+    },
+    "cld_box": [
+      1,
+      1,
+      1
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "crash_DMG": 10,
+    "dodge": 1,
+    "dodge_limit": 0,
+    "funnel_behavior": "",
+    "fx_container": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "hp_growth": 1960,
+    "icon": "feiji_haigushou01",
+    "id": 3218086,
+    "max_hp": 90,
+    "model_ID": "feiji_haigushou01",
+    "name": "【2024风帆二期】骸骨兽航母 飞鱼舰载机（快速冲底） Lv2",
+    "nationality": 3,
+    "position_offset": [
+      0,
+      5,
+      0
+    ],
+    "scale": 0.75,
+    "spawn_brownian": 1,
+    "speed": 50,
+    "type": 1,
+    "weapon_ID": [
+      3218091
+    ]
+  },
+  "3218087": {
+    "ACC_growth": 0,
+    "accuracy": 23,
+    "AP_growth": 2000,
+    "attack_power": 2,
+    "bound_bone": {
+      "weapon": [
+        [
+          0.56,
+          -0.76,
+          0
+        ],
+        [
+          0.48,
+          0.99,
+          0
+        ]
+      ]
+    },
+    "cld_box": [
+      1,
+      1,
+      1
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "crash_DMG": 10,
+    "dodge": 1,
+    "dodge_limit": 0,
+    "funnel_behavior": "",
+    "fx_container": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "hp_growth": 2240,
+    "icon": "feiji_haigushou01",
+    "id": 3218087,
+    "max_hp": 120,
+    "model_ID": "feiji_haigushou01",
+    "name": "【2024风帆二期】骸骨兽航母 飞鱼舰载机（快速冲底） Lv3",
+    "nationality": 3,
+    "position_offset": [
+      0,
+      5,
+      0
+    ],
+    "scale": 0.75,
+    "spawn_brownian": 1,
+    "speed": 50,
+    "type": 1,
+    "weapon_ID": [
+      3218092
+    ]
+  },
+  "3218088": {
+    "ACC_growth": 0,
+    "accuracy": 23,
+    "AP_growth": 2000,
+    "attack_power": 2,
+    "bound_bone": {
+      "weapon": [
+        [
+          0.56,
+          -0.76,
+          0
+        ],
+        [
+          0.48,
+          0.99,
+          0
+        ]
+      ]
+    },
+    "cld_box": [
+      1,
+      1,
+      1
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "crash_DMG": 10,
+    "dodge": 1,
+    "dodge_limit": 0,
+    "funnel_behavior": "",
+    "fx_container": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "hp_growth": 2520,
+    "icon": "feiji_haigushou01",
+    "id": 3218088,
+    "max_hp": 150,
+    "model_ID": "feiji_haigushou01",
+    "name": "【2024风帆二期】骸骨兽航母 飞鱼舰载机（快速冲底） Lv4",
+    "nationality": 3,
+    "position_offset": [
+      0,
+      5,
+      0
+    ],
+    "scale": 0.75,
+    "spawn_brownian": 1,
+    "speed": 50,
+    "type": 1,
+    "weapon_ID": [
+      3218093
+    ]
+  },
+  "3218089": {
+    "ACC_growth": 0,
+    "accuracy": 23,
+    "AP_growth": 2000,
+    "attack_power": 2,
+    "bound_bone": {
+      "weapon": [
+        [
+          0.56,
+          -0.76,
+          0
+        ],
+        [
+          0.48,
+          0.99,
+          0
+        ]
+      ]
+    },
+    "cld_box": [
+      1,
+      1,
+      1
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "crash_DMG": 10,
+    "dodge": 1,
+    "dodge_limit": 0,
+    "funnel_behavior": "",
+    "fx_container": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "hp_growth": 2800,
+    "icon": "feiji_haigushou01",
+    "id": 3218089,
+    "max_hp": 180,
+    "model_ID": "feiji_haigushou01",
+    "name": "【2024风帆二期】骸骨兽航母 飞鱼舰载机（快速冲底） Lv5",
+    "nationality": 3,
+    "position_offset": [
+      0,
+      5,
+      0
+    ],
+    "scale": 0.75,
+    "spawn_brownian": 1,
+    "speed": 50,
+    "type": 1,
+    "weapon_ID": [
+      3218094
+    ]
+  },
+  "3218185": {
+    "ACC_growth": 0,
+    "accuracy": 23,
+    "AP_growth": 2000,
+    "attack_power": 2,
+    "bound_bone": {
+      "weapon": [
+        [
+          0.56,
+          -0.76,
+          0
+        ],
+        [
+          0.48,
+          0.99,
+          0
+        ]
+      ]
+    },
+    "cld_box": [
+      1,
+      1,
+      1
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "crash_DMG": 10,
+    "dodge": 1,
+    "dodge_limit": 0,
+    "funnel_behavior": "",
+    "fx_container": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "hp_growth": 1680,
+    "icon": "feiji_haigushou02",
+    "id": 3218185,
+    "max_hp": 60,
+    "model_ID": "feiji_haigushou02",
+    "name": "【2024风帆二期】（换皮）灵体骸骨兽航母 飞鱼舰载机（快速冲底） Lv1",
+    "nationality": 3,
+    "position_offset": [
+      0,
+      5,
+      0
+    ],
+    "scale": 0.75,
+    "spawn_brownian": 1,
+    "speed": 50,
+    "type": 1,
+    "weapon_ID": [
+      3218190
+    ]
+  },
+  "3218186": {
+    "ACC_growth": 0,
+    "accuracy": 23,
+    "AP_growth": 2000,
+    "attack_power": 2,
+    "bound_bone": {
+      "weapon": [
+        [
+          0.56,
+          -0.76,
+          0
+        ],
+        [
+          0.48,
+          0.99,
+          0
+        ]
+      ]
+    },
+    "cld_box": [
+      1,
+      1,
+      1
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "crash_DMG": 10,
+    "dodge": 1,
+    "dodge_limit": 0,
+    "funnel_behavior": "",
+    "fx_container": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "hp_growth": 1960,
+    "icon": "feiji_haigushou02",
+    "id": 3218186,
+    "max_hp": 90,
+    "model_ID": "feiji_haigushou02",
+    "name": "【2024风帆二期】（换皮）灵体骸骨兽航母 飞鱼舰载机（快速冲底） Lv2",
+    "nationality": 3,
+    "position_offset": [
+      0,
+      5,
+      0
+    ],
+    "scale": 0.75,
+    "spawn_brownian": 1,
+    "speed": 50,
+    "type": 1,
+    "weapon_ID": [
+      3218191
+    ]
+  },
+  "3218187": {
+    "ACC_growth": 0,
+    "accuracy": 23,
+    "AP_growth": 2000,
+    "attack_power": 2,
+    "bound_bone": {
+      "weapon": [
+        [
+          0.56,
+          -0.76,
+          0
+        ],
+        [
+          0.48,
+          0.99,
+          0
+        ]
+      ]
+    },
+    "cld_box": [
+      1,
+      1,
+      1
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "crash_DMG": 10,
+    "dodge": 1,
+    "dodge_limit": 0,
+    "funnel_behavior": "",
+    "fx_container": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "hp_growth": 2240,
+    "icon": "feiji_haigushou02",
+    "id": 3218187,
+    "max_hp": 120,
+    "model_ID": "feiji_haigushou02",
+    "name": "【2024风帆二期】（换皮）灵体骸骨兽航母 飞鱼舰载机（快速冲底） Lv3",
+    "nationality": 3,
+    "position_offset": [
+      0,
+      5,
+      0
+    ],
+    "scale": 0.75,
+    "spawn_brownian": 1,
+    "speed": 50,
+    "type": 1,
+    "weapon_ID": [
+      3218192
+    ]
+  },
+  "3218188": {
+    "ACC_growth": 0,
+    "accuracy": 23,
+    "AP_growth": 2000,
+    "attack_power": 2,
+    "bound_bone": {
+      "weapon": [
+        [
+          0.56,
+          -0.76,
+          0
+        ],
+        [
+          0.48,
+          0.99,
+          0
+        ]
+      ]
+    },
+    "cld_box": [
+      1,
+      1,
+      1
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "crash_DMG": 10,
+    "dodge": 1,
+    "dodge_limit": 0,
+    "funnel_behavior": "",
+    "fx_container": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "hp_growth": 2520,
+    "icon": "feiji_haigushou02",
+    "id": 3218188,
+    "max_hp": 150,
+    "model_ID": "feiji_haigushou02",
+    "name": "【2024风帆二期】（换皮）灵体骸骨兽航母 飞鱼舰载机（快速冲底） Lv4",
+    "nationality": 3,
+    "position_offset": [
+      0,
+      5,
+      0
+    ],
+    "scale": 0.75,
+    "spawn_brownian": 1,
+    "speed": 50,
+    "type": 1,
+    "weapon_ID": [
+      3218193
+    ]
+  },
+  "3218189": {
+    "ACC_growth": 0,
+    "accuracy": 23,
+    "AP_growth": 2000,
+    "attack_power": 2,
+    "bound_bone": {
+      "weapon": [
+        [
+          0.56,
+          -0.76,
+          0
+        ],
+        [
+          0.48,
+          0.99,
+          0
+        ]
+      ]
+    },
+    "cld_box": [
+      1,
+      1,
+      1
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "crash_DMG": 10,
+    "dodge": 1,
+    "dodge_limit": 0,
+    "funnel_behavior": "",
+    "fx_container": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "hp_growth": 2800,
+    "icon": "feiji_haigushou02",
+    "id": 3218189,
+    "max_hp": 180,
+    "model_ID": "feiji_haigushou02",
+    "name": "【2024风帆二期】（换皮）灵体骸骨兽航母 飞鱼舰载机（快速冲底） Lv5",
+    "nationality": 3,
+    "position_offset": [
+      0,
+      5,
+      0
+    ],
+    "scale": 0.75,
+    "spawn_brownian": 1,
+    "speed": 50,
+    "type": 1,
+    "weapon_ID": [
+      3218194
+    ]
+  },
   "3218501": {
     "ACC_growth": 0,
     "accuracy": 23,
@@ -271927,6 +273191,384 @@
     "type": 3,
     "weapon_ID": []
   },
+  "3320207": {
+    "ACC_growth": 0,
+    "accuracy": 23,
+    "AP_growth": 2000,
+    "attack_power": 2,
+    "bound_bone": {
+      "weapon": [
+        [
+          0.56,
+          -0.76,
+          0
+        ],
+        [
+          0.48,
+          0.99,
+          0
+        ]
+      ]
+    },
+    "cld_box": [
+      1,
+      1,
+      1
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "crash_DMG": 10,
+    "dodge": 1,
+    "dodge_limit": 0,
+    "funnel_behavior": "",
+    "fx_container": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "hp_growth": 1680,
+    "icon": "feiji_haigushou01",
+    "id": 3320207,
+    "max_hp": 60,
+    "model_ID": "feiji_haigushou01",
+    "name": "【2025风帆三期T3】BOSS 寂静守卫航母 飞鱼舰载机（快速冲底）",
+    "nationality": 3,
+    "position_offset": [
+      0,
+      5,
+      0
+    ],
+    "scale": 0.75,
+    "spawn_brownian": 1,
+    "speed": 50,
+    "type": 1,
+    "weapon_ID": [
+      3320208,
+      3320209
+    ]
+  },
+  "3320307": {
+    "ACC_growth": 0,
+    "accuracy": 23,
+    "AP_growth": 2000,
+    "attack_power": 2,
+    "bound_bone": {
+      "weapon": [
+        [
+          0.56,
+          -0.76,
+          0
+        ],
+        [
+          0.48,
+          0.99,
+          0
+        ]
+      ]
+    },
+    "cld_box": [
+      1,
+      1,
+      1
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "crash_DMG": 10,
+    "dodge": 1,
+    "dodge_limit": 0,
+    "funnel_behavior": "",
+    "fx_container": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "hp_growth": 1680,
+    "icon": "feiji_haigushou02",
+    "id": 3320307,
+    "max_hp": 60,
+    "model_ID": "feiji_haigushou02",
+    "name": "【2025风帆三期T4】BOSS 寂静之灵航母 飞鱼舰载机（快速冲底）",
+    "nationality": 3,
+    "position_offset": [
+      0,
+      5,
+      0
+    ],
+    "scale": 0.75,
+    "spawn_brownian": 1,
+    "speed": 50,
+    "type": 1,
+    "weapon_ID": [
+      3320308,
+      3320309
+    ]
+  },
+  "3333301": {
+    "ACC_growth": 0,
+    "accuracy": 23,
+    "AP_growth": 2000,
+    "attack_power": 2,
+    "bound_bone": {
+      "weapon": [
+        [
+          0.71,
+          -1.73,
+          0
+        ],
+        [
+          0.82,
+          2.04,
+          0
+        ]
+      ]
+    },
+    "cld_box": [
+      1,
+      1,
+      1
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "crash_DMG": 48,
+    "dodge": 1,
+    "dodge_limit": 0,
+    "funnel_behavior": "",
+    "fx_container": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "hp_growth": 1960,
+    "icon": "sairenfeiji_6",
+    "id": 3333301,
+    "max_hp": 80,
+    "model_ID": "sairenfeiji_6",
+    "name": "【2025约战联动L6-4】BOSS宝剑VII「Impulse」战斗机",
+    "nationality": 3,
+    "position_offset": [
+      0,
+      5,
+      0
+    ],
+    "scale": 0.75,
+    "spawn_brownian": 1,
+    "speed": 33,
+    "type": 1,
+    "weapon_ID": [
+      3333303
+    ]
+  },
+  "3333302": {
+    "ACC_growth": 0,
+    "accuracy": 23,
+    "AP_growth": 2000,
+    "attack_power": 2,
+    "bound_bone": {
+      "weapon": [
+        [
+          0.71,
+          -1.73,
+          0
+        ],
+        [
+          0.82,
+          2.04,
+          0
+        ]
+      ]
+    },
+    "cld_box": [
+      1,
+      1,
+      1
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "crash_DMG": 48,
+    "dodge": 1,
+    "dodge_limit": 0,
+    "funnel_behavior": "",
+    "fx_container": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "hp_growth": 1960,
+    "icon": "sairenfeiji_6",
+    "id": 3333302,
+    "max_hp": 80,
+    "model_ID": "sairenfeiji_6",
+    "name": "【2025约战联动L6-4】BOSS宝剑VII「Impulse」轰炸机",
+    "nationality": 3,
+    "position_offset": [
+      0,
+      5,
+      0
+    ],
+    "scale": 0.75,
+    "spawn_brownian": 1,
+    "speed": 33,
+    "type": 3,
+    "weapon_ID": [
+      3333304
+    ]
+  },
+  "3335007": {
+    "ACC_growth": 0,
+    "accuracy": 23,
+    "AP_growth": 2000,
+    "attack_power": 2,
+    "bound_bone": {
+      "weapon": [
+        [
+          0.71,
+          -1.73,
+          0
+        ],
+        [
+          0.82,
+          2.04,
+          0
+        ]
+      ]
+    },
+    "cld_box": [
+      1,
+      1,
+      1
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "crash_DMG": 48,
+    "dodge": 1,
+    "dodge_limit": 0,
+    "funnel_behavior": "",
+    "fx_container": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "hp_growth": 1960,
+    "icon": "feiji_dal_rilunzhihuan",
+    "id": 3335007,
+    "max_hp": 86,
+    "model_ID": "feiji_dal_rilunzhihuan",
+    "name": "【2025约战联动L3角色支援】鸢一折纸 大批量舰载机",
+    "nationality": 3,
+    "position_offset": [
+      0,
+      5,
+      0
+    ],
+    "scale": 0.75,
+    "spawn_brownian": 1,
+    "speed": 48,
+    "type": 1,
+    "weapon_ID": [
+      3335008,
+      3335009
+    ]
+  },
   "all": [
     109,
     110,
@@ -276225,6 +277867,36 @@
     168988,
     168989,
     168990,
+    169391,
+    169392,
+    169393,
+    169394,
+    169395,
+    169396,
+    169397,
+    169398,
+    169399,
+    169400,
+    169531,
+    169532,
+    169533,
+    169534,
+    169535,
+    169536,
+    169537,
+    169538,
+    169539,
+    169540,
+    169551,
+    169552,
+    169553,
+    169554,
+    169555,
+    169556,
+    169557,
+    169558,
+    169559,
+    169560,
     170844,
     170845,
     180010,
@@ -278649,6 +280321,16 @@
     3207533,
     3207535,
     3207537,
+    3218085,
+    3218086,
+    3218087,
+    3218088,
+    3218089,
+    3218185,
+    3218186,
+    3218187,
+    3218188,
+    3218189,
     3218501,
     3228065,
     3228066,
@@ -278850,6 +280532,11 @@
     3314001,
     3314002,
     3315109,
-    3315110
+    3315110,
+    3320207,
+    3320307,
+    3333301,
+    3333302,
+    3335007
   ]
 }

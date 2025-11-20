@@ -1143,6 +1143,40 @@
       3
     ]
   },
+  "1153": {
+    "acesses": "",
+    "desc": "将科技美学转化为私密的休憩空间，构建出一处甜蜜的天外庇护所。\n投身其中，就仿佛置身于遥远星空外的温暖角落。",
+    "icon": "dorm3dIcon/3Ddrom_xinzexi_PremiumFurniture2",
+    "id": 1153,
+    "is_exclusive": 1,
+    "is_special": 0,
+    "model": "Pay_Newjerseyhostel/pre_db_njh_bedroom01",
+    "name": "天外庇所 ",
+    "rarity": 4,
+    "room_id": 11,
+    "scene_hides": [
+      "no_bake_pay_prop/bedroom"
+    ],
+    "shop_id": [
+      270205
+    ],
+    "target_slots": [
+      1110102
+    ],
+    "touch_id": [
+      [
+        10517,
+        1051760
+      ]
+    ],
+    "type": 4,
+    "unlock_banners": [
+      "banner_furniture1153"
+    ],
+    "unlock_tips": [
+      3
+    ]
+  },
   "1201": {
     "acesses": "",
     "desc": "温馨柔软的双人床，床铺上铺着舒适的床垫，被褥枕头齐全，随时都能钻进被窝缓解一天积攒下来的疲劳。",
@@ -1366,6 +1400,40 @@
     ],
     "unlock_tips": ""
   },
+  "1222": {
+    "acesses": "",
+    "desc": "淡雅的光晕透出，抚过绽开的花瓣，留下她动人的身影。花影与乐声交织，仿佛自然的低语流淌其中。",
+    "icon": "dorm3dIcon/3Ddrom_dafeng_PremiumFurniture2",
+    "id": 1222,
+    "is_exclusive": 1,
+    "is_special": 1,
+    "model": "Pay_Dafenghostel/pre_db_df_tedian01",
+    "name": "花乐留韵 ",
+    "rarity": 5,
+    "room_id": 12,
+    "scene_hides": [
+      "no_bake_pay_prop/entertainment"
+    ],
+    "shop_id": [
+      270502
+    ],
+    "target_slots": [
+      1120304
+    ],
+    "touch_id": [
+      [
+        30707,
+        3070750
+      ]
+    ],
+    "type": 99,
+    "unlock_banners": [
+      "banner_furniture1222"
+    ],
+    "unlock_tips": [
+      8
+    ]
+  },
   "all": [
     1,
     2,
@@ -1411,6 +1479,7 @@
     1108,
     1151,
     1152,
+    1153,
     1201,
     1202,
     1203,
@@ -1419,7 +1488,8 @@
     1213,
     1214,
     1215,
-    1221
+    1221,
+    1222
   ],
   "get_id_list_by_room_id": {
     "1": [
@@ -1474,7 +1544,8 @@
       1107,
       1108,
       1151,
-      1152
+      1152,
+      1153
     ],
     "12": [
       1201,
@@ -1485,7 +1556,8 @@
       1213,
       1214,
       1215,
-      1221
+      1221,
+      1222
     ]
   }
 }
