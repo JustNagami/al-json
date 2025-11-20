@@ -378,6 +378,9 @@
   "activity_puzzle_get15": {
     "tip": "<color=#A9F548FF>How to get: \nmission 6</color>"
   },
+  "activity_remain_time": {
+    "tip": "Time Left"
+  },
   "activity_return_reward_pt": {
     "tip": "Mobilization Pts:"
   },
@@ -385,7 +388,7 @@
     "tip": "Limit:"
   },
   "activity_shop_lable": {
-    "tip": "*Available During:<color=#FFCF81>$1</color>"
+    "tip": "*Available During:<color=#539b2c>$1</color>"
   },
   "activity_shop_template_extratext": {
     "tip": "活動追趕道具兌換 "
@@ -1628,7 +1631,7 @@
     "tip": "Oh... Out of Oil again... I'm so hungry that I can't even fight..."
   },
   "battle_preCombatLayer_auto_confirm": {
-    "tip": "Are you sure you want to use the recommended formation?"
+    "tip": "Do you want to replace your current formation with the recommended formation?"
   },
   "battle_preCombatLayer_boss_destruct": {
     "tip": "Defeat the boss before it self-destructs"
@@ -2132,6 +2135,13 @@
       }
     ]
   },
+  "battlepass_main_help_2512": {
+    "tip": [
+      {
+        "info": "Cruise Missions Seasonal Campaign\n2025/12/1 00:00 – 2026/1/31 23:59\n\n- Overview -\n\"Cruise Missions\" is a seasonal campaign where you can complete special missions, collect Progress Pts., and obtain great rewards for reaching certain Progress milestones.\nAdditionally, you can unlock an additional set of \"Fair Winds Cruise\" rewards by purchasing the \"Fair Winds Cruise Pass\" item from Akashi's shop.\nBoise META will be obtainable from the regular Cruise Missions rewards. By upgrading to the Fair Winds Cruise, you will also be able to obtain an exclusive outfit for I-13, \"After-School Observations.\"\n\n- How to Play -\n· Two types of missions will be released at the same time at the start of the campaign season:\na) Weekly Missions - Missions unlocked in batches every 7 days during the campaign season, for a total of 8 batches.\nb) Seasonal Missions - One set of missions available for the entire campaign season, available from the start of the season.\n· All of the above Season Missions are automatically active, and when you open the Season Missions menu, you will automatically obtain Progress Pts. for any missions you've completed.\n· If you purchase a Fair Winds Cruise Pass, you will automatically receive 15 levels worth of progress (1500 Progress Pts).\n· You can receive rewards for reaching certain Progress milestones. There are two types of rewards:\na) Cruise Rewards - Rewards that can be obtained based on the total number of accumulated Progress Pts. There are a total of 100 levels.\nb) Fair Winds Rewards - An additional set of rewards that will be unlocked when you purchase a Fair Winds Cruise Pass. As with the regular Cruise Rewards, there are a total of 100 levels, and they can be collected alongside Cruise Rewards at the same Progress level.\n· When the campaign season ends, your Progress Pts will be reset.\n\n- Tips - \n· Play at your own pace\nCruise Missions have a total of 100 Progress levels, and are not meant to be cleared in one session. We recommend that you complete them at your own pace.\n\n· Fair Winds Cruise Pass\nIf you purchase a Fair Winds Cruise Pass from Akashi's shop, you will automatically earn 1500 Progress Pts and unlock access to valuable rewards. Furthermore, there is an exclusive outfit available only through the Fair Winds rewards, so please plan accordingly.\n\n· Skipping Missions (not recommended)\nYou can purchase and use Cruise Mission Vouchers to automatically complete missions and receive the corresponding amount of Progress Pts. Tap the arrow button next to a mission on the Mission List to automatically complete it.\nWe do not recommend this because this costs Gems, whereas you are able to complete Cruise Missions normally.\nAny purchased Cruise Mission Vouchers will remain even after the campaign season ends."
+      }
+    ]
+  },
   "battlepass_main_time": {
     "tip": "$1 d $2 hr"
   },
@@ -2221,6 +2231,9 @@
   },
   "battlepass_main_tip_2510": {
     "tip": "Complete seasonal missions <icon name=pt w=0.5 h=0.5/> during the 2025.8.1 - 2025.9.30 Cruise Mission season and obtain rewards such as <color=#854747>Dunkerque META</color> and more!"
+  },
+  "battlepass_main_tip_2512": {
+    "tip": "Complete seasonal missions <icon name=pt w=0.5 h=0.5/> during the 2025.12.1 - 2026.1.31 Cruise Mission season and obtain rewards such as <color=#854747>Boise META</color> and more!"
   },
   "battlepass_pay_acquire": {
     "tip": "Buy Now to Get:"
@@ -2357,6 +2370,34 @@
   "bismarck_chapter_desc": {
     "tip": "Participate in \"Scherzo of Iron and Blood\" and complete tasks to acquire rare items. "
   },
+  "black5_bundle_button": {
+    "tip": "Packs"
+  },
+  "black5_bundle_buy_all": {
+    "tip": "Purchase All"
+  },
+  "black5_bundle_desc": {
+    "tip": "Buy 3 featured skins to receive a Promise Ring"
+  },
+  "black5_bundle_help": {
+    "tip": [
+      {
+        "info": "If you have already purchased some of these skins, you can pay the price difference to get the rest of the pack's content.\n*The Outfit Coupon cannot be used when purchasing this pack, but it can be applied to individual skins in the skin shop."
+      }
+    ]
+  },
+  "black5_bundle_popup": {
+    "tip": "Do you want to spend <color=#92fc63>$1</color> Gems to receive <color=#92fc63>$2</color>?"
+  },
+  "black5_bundle_purchased": {
+    "tip": "Purchased"
+  },
+  "black5_bundle_receive": {
+    "tip": "Claim Bonus"
+  },
+  "black5_bundle_tip": {
+    "tip": "Purchase to Receive All"
+  },
   "black_white_grid_notice": {
     "tip": [
       {
@@ -2400,12 +2441,71 @@
   "black_white_grid_switch_tip": {
     "tip": "This Board is still in Progress"
   },
+  "blackfriday_battlepass_complete": {
+    "tip": "Black Friday Cruise Missions have been completed"
+  },
+  "blackfriday_battlepass_main_help_1113": {
+    "tip": [
+      {
+        "info": "Black Friday Cruise Missions\n2025/11/13 00:00 – 2025/12/3 23:59\n\n- Overview -\n\"Black Friday Cruise Missions\" is a special campaign where you can complete special missions, collect BF Progress Pts., and obtain great rewards for reaching certain Progress milestones.\nAdditionally, you can unlock an additional set of \"Black Friday Cruise\" rewards by purchasing the \"Black Friday Cruise Pass\" item from Akashi's shop.\n\n\n- How to Play -\n· Two types of missions will be released at the same time at the start of the campaign season:\na) Daily Missions - Missions unlocked in batches every day during the campaign, for a total of 12 batches.\nb) SP Missions - One set of missions available for the entire campaign, available from the start of the campaign.\n· All of the above missions are automatically active, and when you open the Black Friday Cruise Missions menu, you will automatically obtain BF Progress Pts. for any missions you've completed.\n· If you purchase the Black Friday Cruise Pass, you will automatically receive <color=#ff5c5c>200 BF Progress Pts.</color>\n· You can purchase the Black Friday Cruise Pass up until 1 hour before the campaign ends, i.e. 2025/12/3 22:59:59.\n· You can receive rewards for reaching certain Progress milestones. There are two types of rewards:\na) Base Rewards - Rewards that can be obtained based on the total number of accumulated BF Progress Pts. There are a total of 15 levels. Base Rewards include <color=#ff5c5c>Skin Coupon (BF Cruise Missions)</color>, <color=#ff5c5c>Special General Blueprint - Series 8</color> and more.\nb) Bonus Rewards - An additional set of rewards that will be unlocked when you purchase a Black Friday Cruise Pass. As with the Base Rewards, there are a total of 15 levels, and they can be collected alongside Base Rewards at the same Progress level. Bonus Rewards include <color=#ff5c5c>Wisdom Cubes</color>, <color=#ff5c5c>Gems</color> and more.\n\n- Tips - \n· When the campaign ends, you cannot continue completing the missions or collecting the rewards. Please take note of the campaign period and collect the rewards on time.\n· BF Progress Pts. and Black Friday Cruise Pass only apply to the Black Friday Cruise Missions Campaign, and not to any other Cruise Missions Campaign."
+      }
+    ]
+  },
+  "blackfriday_battlepass_main_time_title": {
+    "tip": "Time Remaining:"
+  },
+  "blackfriday_battlepass_mission": {
+    "tip": "MISSIONS"
+  },
+  "blackfriday_battlepass_pay_acquire": {
+    "tip": "Buy Now to Get:"
+  },
+  "blackfriday_battlepass_pay_tip": {
+    "tip": "Purchase to unlock these Bonus Rewards:"
+  },
+  "blackfriday_battlepass_rewards": {
+    "tip": "REWARDS"
+  },
+  "blackfriday_cruise_btn_all": {
+    "tip": "Collect All"
+  },
+  "blackfriday_cruise_btn_pay": {
+    "tip": "Unlock Bonus Rewards"
+  },
+  "blackfriday_cruise_phase_title": {
+    "tip": "Phase"
+  },
+  "blackfriday_cruise_task_day": {
+    "tip": "Day $1"
+  },
+  "blackfriday_cruise_task_help_1113": {
+    "tip": [
+      {
+        "info": "- Regarding Cruise Missions - \n2025/11/13 00:00 – 2025/12/3 23:59\n\n· Two types of missions will be released at the same time at the start of the campaign season:\na) Daily Missions - Missions unlocked in batches every day during the campaign, for a total of 12 batches.\nb) SP Missions - One set of missions available for the entire campaign, available from the start of the campaign.\n· All of the above missions are automatically active, and when you open the Black Friday Cruise Missions menu, you will automatically obtain BF Progress Pts. for any missions you've completed."
+      }
+    ]
+  },
+  "blackfriday_cruise_task_tips": {
+    "tip": "Completed"
+  },
+  "blackfriday_cruise_task_unlock": {
+    "tip": "Unlocks in $1 day(s) $2 hour(s)"
+  },
+  "blackfriday_cruise_title_1113": {
+    "tip": "Black Friday Cruise Missions"
+  },
   "blackfriday_help": {
     "tip": [
       {
         "info": "Event Rules:\n1. During the event, the purchase of each limited rerun outfit will unlock 1 Tier of the reward list that you can claim immediately.\n2. The event's limited furniture is also purchasable in the Dorm. If you've bought the furniture before claiming your reward from the event, then when you claim the reward, the rewarded limited furniture will be converted into Gems of the same value automatically.\n3. If the number of rerun outfits you do not own is less than 6, you will get the corresponding Tier rewards from Akashi's Fire Sale directly.\n4. Purchasing the Black Friday Lucky Bag (2022) will unlock 1 Tier of the reward list no matter if you get a new skin or a skin you already have."
       }
     ]
+  },
+  "blackfriday_luckybag_164": {
+    "tip": "After purchasing this Lucky Bag, you can collect 1 Skin Discount Coupon (300 Gems Off) on the event page that can be used on any featured skin in the Black Friday Campaign. The coupon expires when the campaign ends."
+  },
+  "blackfriday_luckybag_165": {
+    "tip": "After purchasing this Lucky Bag, you can collect 1 Skin Discount Coupon (300 Gems Off) on the event page that can be used on any featured skin in the Black Friday Campaign. The coupon expires when the campaign ends.\nThe Lucky Bag contains 1 random Live2D skin in the Black Friday Campaign rerun skin list that you do not yet own (if you already own all the listed skins, you will receive Gems x1080 instead), as well as Coins x2,000, Oil x1,000, and Cognitive Chips x20."
   },
   "blackfriday_main_tip": {
     "tip": [
@@ -2753,16 +2853,16 @@
     "tip": "Are you sure you want to upgrade? Building materials will be consumed."
   },
   "buildship_heavy_tip": {
-    "tip": "Lützow, Seydlitz, and Yorck added to standard build pool!"
+    "tip": "Musashi and Haguro added to standard build pool!"
   },
   "buildship_light_tip": {
-    "tip": "Emden and Elbing added to standard build pool!"
+    "tip": "Wakatsuki and Sakawa added to standard build pool!"
   },
   "buildship_new_tip": {
-    "tip": "Get Hakuhou guaranteed with every 200 event builds (can be done up to 4 times)!"
+    "tip": "Rate UP for Tohka Yatogami, Kotori Itsuka, and more!"
   },
   "buildship_special_tip": {
-    "tip": "Leonardo da Vinci added to the standard build pool!"
+    "tip": "Musashi added to standard build pool!"
   },
   "buleprint_need_level_tip": {
     "tip": "The corresponding ship will be unlocked at Level $1."
@@ -5215,6 +5315,13 @@
       }
     ]
   },
+  "cruise_task_help_2512": {
+    "tip": [
+      {
+        "info": "- Regarding Cruise Missions - \n· Two types of missions will be released at the same time at the start of the campaign season:\na) Weekly Missions - Missions unlocked in batches every 7 days during the campaign season, for a total of 8 batches.\nb) Seasonal Missions - One set of missions available for the entire campaign season, available from the start of the season.\n\n· All of the above Season Missions are automatically active, and when you open the Season Missions menu, you will automatically obtain Progress Pts. for any missions you've completed.\n\n· You can purchase and use Cruise Mission Vouchers to automatically complete missions and receive the corresponding amount of Progress Pts. Tap the arrow button next to a mission on the Mission List to automatically complete it.\nWe do not recommend this because this costs Gems, whereas you are able to complete Cruise Missions normally.\nAny purchased Cruise Mission Vouchers will remain even after the campaign season ends."
+      }
+    ]
+  },
   "cruise_task_phase": {
     "tip": "Progress PTS | Stage. $1 "
   },
@@ -5262,6 +5369,9 @@
   },
   "cruise_title_2510": {
     "tip": "Cruise Missions S25"
+  },
+  "cruise_title_2512": {
+    "tip": "Cruise Missions - S26"
   },
   "cryptolalia_coming_soom": {
     "tip": "Coming Soon..."
@@ -5362,6 +5472,156 @@
   },
   "dailyLevel_unopened": {
     "tip": "Not open"
+  },
+  "dal_AwardPage_name_1": {
+    "tip": "Gear"
+  },
+  "dal_AwardPage_name_2": {
+    "tip": "Module"
+  },
+  "dal_chapter_goto": {
+    "tip": "Go"
+  },
+  "dal_chapter_tip": {
+    "tip": "- Info on the DATE A LANE Collab Event Joint Operation Stage -\n1. During the event period, six Joint Operation stages (ranging from Sector 1 to 6) are available. Completing one of these stages rewards you with Battle Contributions, the event currency.\nEach stage has a Normal and a Hard difficulty version available. The amount of Battle Contributions you get depends on the difficulty. Some rewards additionally vary by difficulty.\n2. The stages have enemy control bars, indicating how strong the enemy's presence is. As you and all other players on your server earn more Battle Contributions, these control bars will decrease in value.\n3. At the start, only Sector 1 will be available. Once the control bar for Sector 1 reaches 0%, Sectors 2 through 5 will be unlocked. Once the control bars for all these stages have reached a value of 0%, Sector 6 will be unlocked.\nIf you begin playing the collab event while a given stage has already been completed (i.e., it has been 100% seized,) you can still challenge the stage if you wish. Clearing a 100% seized stage will also unlock event story progress and let you advance to the next stage.\n4. Once the enemy control bar reaches 0%, a full Sector suppression reward will be sent to the mailbox of all players who have participated in the event.\n5. If a control bar reaches 0% on a stage which you have not cleared a single time, you will receive special missions that give you the rewards upon completing them.\n\n- Upgrade Airship -\n1. In the bottom right on the event stage select screen, there is an Upgrade Airship button. Tapping this will bring you to the Upgrade Airship screen.\n2. On this screen, you can use the Fraxinus AL Improvement Data that you've obtained through collab missions to upgrade its various faction-specific modules. Upgrading these modules will give you buffs on the collab stages.\n"
+  },
+  "dal_chapter_tip2": {
+    "tip": "Complete missions for rewards."
+  },
+  "dal_main_sheet1": {
+    "tip": "Main Page"
+  },
+  "dal_main_sheet1_en": {
+    "tip": "Main Page"
+  },
+  "dal_main_sheet2": {
+    "tip": "Milestone Rewards"
+  },
+  "dal_main_sheet2_en": {
+    "tip": "Milestone"
+  },
+  "dal_main_sheet3": {
+    "tip": "Nightmare Rhapsody"
+  },
+  "dal_main_sheet3_en": {
+    "tip": "Kurumi Event"
+  },
+  "dal_main_sheet4": {
+    "tip": "Side Stories"
+  },
+  "dal_main_sheet4_en": {
+    "tip": "Side Stories"
+  },
+  "dal_main_sheet5": {
+    "tip": "Reward List"
+  },
+  "dal_main_sheet5_en": {
+    "tip": "Reward List"
+  },
+  "DAL_stage_finish_at": {
+    "tip": "Complete:"
+  },
+  "DAL_stage_label_analysis_1": {
+    "tip": "Analyzing..."
+  },
+  "DAL_stage_label_analysis_2": {
+    "tip": "Analysis Complete"
+  },
+  "DAL_stage_label_commander": {
+    "tip": "Command System"
+  },
+  "DAL_stage_label_data": {
+    "tip": "Sector Intel"
+  },
+  "DAL_stage_label_support": {
+    "tip": "Aerial Support"
+  },
+  "DAL_story_tip": {
+    "tip": "Read the side stories to receive an exclusive piece of gear"
+  },
+  "dal_story_tip1": {
+    "tip": "Read the story\nto get rewards"
+  },
+  "dal_story_tip2": {
+    "tip": "Read the story to obtain"
+  },
+  "dal_story_tip3": {
+    "tip": "Complete"
+  },
+  "dal_story_tip_name_en_1": {
+    "tip": "SECTOR-1"
+  },
+  "dal_story_tip_name_en_2": {
+    "tip": "SECTOR-2"
+  },
+  "dal_story_tip_name_en_3": {
+    "tip": "SECTOR-3"
+  },
+  "dal_story_tip_name_en_4": {
+    "tip": "SECTOR-4"
+  },
+  "dal_story_tip_name_en_5": {
+    "tip": "SECTOR-5"
+  },
+  "dal_story_tip_name_en_6": {
+    "tip": "SECTOR-6"
+  },
+  "DAL_upgrade_active": {
+    "tip": "Applied"
+  },
+  "DAL_upgrade_not_enough": {
+    "tip": "Complete the event missions to receive Fraxinus AL Improvement Data"
+  },
+  "DAL_upgrade_program": {
+    "tip": "Upgrade Airship"
+  },
+  "DAL_upgrade_ship": {
+    "tip": "Upgrade Airship"
+  },
+  "DAL_upgrade_unlock": {
+    "tip": "Locked"
+  },
+  "danmachi_award_1": {
+    "tip": "Shipgirl"
+  },
+  "danmachi_award_2": {
+    "tip": "Furniture"
+  },
+  "danmachi_award_3": {
+    "tip": "Gear Skins"
+  },
+  "danmachi_award_4": {
+    "tip": "Augments"
+  },
+  "danmachi_award_get": {
+    "tip": "Obtained"
+  },
+  "danmachi_award_name1": {
+    "tip": "Hestia"
+  },
+  "danmachi_award_name2": {
+    "tip": "Ryu Lion"
+  },
+  "danmachi_award_unget": {
+    "tip": "Unobtained"
+  },
+  "danmachi_main_sheet1": {
+    "tip": "Main Event"
+  },
+  "danmachi_main_sheet2": {
+    "tip": "Hestia"
+  },
+  "danmachi_main_sheet3": {
+    "tip": "Ryu Lion"
+  },
+  "danmachi_main_sheet4": {
+    "tip": "Story"
+  },
+  "danmachi_main_sheet5": {
+    "tip": "Reward List"
+  },
+  "danmachi_main_time": {
+    "tip": "$1 hour(s) left"
   },
   "data_erro": {
     "tip": "寮舎データにエラーが発生しました"
@@ -5779,6 +6039,9 @@
   "dorm3d_furnitrue_type_floor": {
     "tip": "Flooring"
   },
+  "dorm3d_furnitrue_type_special": {
+    "tip": "Exclusive"
+  },
   "dorm3d_furnitrue_type_table": {
     "tip": "Tables"
   },
@@ -6146,7 +6409,7 @@
     "tip": "Excl."
   },
   "dorm3d_purchase_label_special": {
-    "tip": "Bonus"
+    "tip": "Exclusive"
   },
   "dorm3d_purchase_outtime": {
     "tip": "Not currently available."
@@ -6274,6 +6537,9 @@
   "dorm3d_shop_tag7": {
     "tip": "Unlocks the beach slide story (you must place the character in the shared beach area.)"
   },
+  "dorm3d_shop_tag8": {
+    "tip": "Unlock Tights Interaction"
+  },
   "dorm3d_shop_title": {
     "tip": "Quarters Shop"
   },
@@ -6318,6 +6584,9 @@
   },
   "dorm3d_touch": {
     "tip": "Interact"
+  },
+  "dorm3d_touch2": {
+    "tip": "Touch ($1)"
   },
   "dorm3d_unlock_tips": {
     "tip": "Unlocked at Intimacy $1"
@@ -6604,6 +6873,27 @@
   },
   "equip_ammo_type_11": {
     "tip": "Missile"
+  },
+  "equip_enhancement_finish": {
+    "tip": "Enhanced"
+  },
+  "equip_enhancement_lv": {
+    "tip": "+ "
+  },
+  "equip_enhancement_lv1": {
+    "tip": "Enhance +1"
+  },
+  "equip_enhancement_lvx": {
+    "tip": "Enhance to +$1"
+  },
+  "equip_enhancement_required": {
+    "tip": "Materials Needed:"
+  },
+  "equip_enhancement_tip": {
+    "tip": "Insufficient Materials"
+  },
+  "equip_enhancement_title": {
+    "tip": "Enhance"
   },
   "equip_info_1": {
     "tip": "DMG"
@@ -7414,6 +7704,18 @@
       }
     }
   },
+  "fengfanV3_20251023_jinianshouce": {
+    "tip": "Achievements"
+  },
+  "fengfanV3_20251023_Sidebar1": {
+    "tip": "Main Event "
+  },
+  "fengfanV3_20251023_Sidebar2": {
+    "tip": "Milestone "
+  },
+  "fengfanV3_20251023_Sidebar3": {
+    "tip": "Side Event "
+  },
   "fenjie_lantu_tip": {
     "tip": "You can only analyze Prototype Blueprints after reaching Development Level 30 with that corresponding ship."
   },
@@ -7904,6 +8206,18 @@
   "genBtn_text": {
     "tip": "Generate"
   },
+  "general_activity_side_bar1": {
+    "tip": "Pit Stop Standby"
+  },
+  "general_activity_side_bar2": {
+    "tip": "Port Fashion Collection"
+  },
+  "general_activity_side_bar3": {
+    "tip": "BF Cruise Missions"
+  },
+  "general_activity_side_bar4": {
+    "tip": "BF Ltd. Rerun Outfits"
+  },
   "gift_act_drawline_help": {
     "tip": [
       {
@@ -8175,7 +8489,7 @@
     "tip": "Typical 3D Settings"
   },
   "group_download_tip": {
-    "tip": "You must download $1 of data to perform an update. Proceed with download?"
+    "tip": "You must download $1 of data to perform \nan update. Proceed with download?"
   },
   "group_prefs_switch_tip": {
     "tip": "Asset download settings updated. They will apply after your next bootup."
@@ -12498,6 +12812,9 @@
   "island_card_word_title": {
     "tip": "Island Greeting"
   },
+  "island_chara_attr_help": {
+    "tip": "1. The higher a character's <color=#39bfff>stats</color> are, the higher their corresponding <color=#39bfff>grade</color> will be.\n2. A character with a high <color=#39bfff>grade</color> works with <color=#39bfff>superior efficiency</color> when performing a task <color=#39bfff>related to that stat</color>.\n3.<color=#39bfff>Grades</color> are defined as follows based on the <color=#39bfff>stat</color> in question:\n\t<color=#E79CC6>S</color> Stat>=200\n\t<color=#FFDC1C>A</color> 120<=Stat<200\n\t<color=#B7A4FF>B</color> 80<=Stat<120\n\t<color=#97CFF6>C</color> 50<=Stat<80\n\t<color=#757577>D</color> 25<=Stat<50\n\t<color=#757577>E</color> 0<=Stat<25"
+  },
   "island_chara_attribute1": {
     "tip": "Farm."
   },
@@ -12576,6 +12893,9 @@
   "island_chara_list_sort": {
     "tip": "Sort"
   },
+  "island_chara_list_workspeed": {
+    "tip": "Efficiency"
+  },
   "island_chara_now_rank": {
     "tip": "Current Rank"
   },
@@ -12646,7 +12966,7 @@
     "tip": "Tap the Screen to Close"
   },
   "island_confirm": {
-    "tip": "Confirm"
+    "tip": "Confirm "
   },
   "island_curr_people_cnt": {
     "tip": "Visitors:"
@@ -12700,7 +13020,7 @@
     "tip": "Obtained"
   },
   "island_draw_help": {
-    "tip": "You can spend Stellar Tickets on the Stellar Prize Draw to draw various prizes, ranging in grade from S (highest) to C (lowest).\n1. There are two ways to obtain Stellar Tickets. They can be earned through playing Island Planner, or purchased using Gems.\n2. There is a fixed number of prizes of each grade, and the probability of receiving each respective prize within a grade is the same. Once you get a certain prize, it will not appear again during the duration of the Stellar Prize Draw.\n· S-grade prizes are special in that you may change the order you acquire them if you so like.\n3. The Stellar Prize Draw lineup is exclusive to each limited period during which it runs. Once one run of it ends, the next one will have a different lineup of prizes.\n4. During a single Stellar Prize Draw run, once you've won a certain number of prizes, you may select a prize from the Total Draws shown on the Stellar Prize Draw menu. Your total number of draws is reset between individual runs of the Stellar Prize Draw.\n5. When a given run of the Stellar Prize Draw ends, if you have yet to obtain all the prizes and you still possess any Stellar Tickets, as many of them as possible will automatically be used in order to give you all the prizes.\n· If you've won all the prizes, any leftover Stellar Tickets will be converted to Gems.\n· Prizes and Gems obtained through the above method will be sent to your Mailbox."
+    "tip": "You can spend <color=#39bfff>Stellar Tickets</color> in the Premium Booth to draw various prizes, ranging in grade from <color=#39bfff>S (highest)</color> to C (lowest).\n1. There are two ways to obtain Stellar Tickets. They can be earned through playing Island Planner, or purchased using Gems.\n2. There is a fixed number of prizes of each grade, and the probability of receiving each respective prize within a grade is the same. Once you get a certain prize, it will not appear again during the duration of the Stellar Prize Draw.\n· S-grade prizes are special in that you may <color=#39bfff>change the order you acquire them</color> if you so like.\n3. The Stellar Prize Draw lineup is exclusive to each limited period during which it runs. Once one run of it ends, the next one will have a <color=#39bfff>different lineup</color> of prizes.\n4. During a single Stellar Prize Draw run, once you've won a certain number of prizes, you may select a prize from the Total Draws shown on the Stellar Prize Draw menu. Your total number of draws is reset between individual runs of the Stellar Prize Draw.\n5. When a given run of the Stellar Prize Draw ends, if you have yet to obtain all the prizes and you still possess any Stellar Tickets, <color=#39bfff>as many of them as possible will automatically be used</color> in order to give you all the prizes.\n· If you've won all the prizes, any leftover Stellar Tickets will be <color=#39bfff>converted to Gems</color>.\n· Prizes and Gems obtained through the above method will be sent to your Mailbox."
   },
   "island_draw_last": {
     "tip": "Remaining:"
@@ -12727,7 +13047,7 @@
     "tip": "Prize S"
   },
   "island_draw_S_order": {
-    "tip": "Drag to Change Order"
+    "tip": "Drag to Change Order of Acquirement"
   },
   "island_draw_S_order_title": {
     "tip": "Prize S Order"
@@ -12772,7 +13092,7 @@
     "tip": "Unowned outfits have been removed."
   },
   "island_dress_initial_makesure": {
-    "tip": "Confirm"
+    "tip": "Confirm "
   },
   "island_dress_mutually_exclusive": {
     "tip": "$1 cannot be worn with current outfit, has been automatically removed."
@@ -12800,6 +13120,12 @@
   },
   "island_dress_skin_buy": {
     "tip": "Do you want to use $1 to buy $2?"
+  },
+  "island_dresscolorunlock": {
+    "tip": "Unlock"
+  },
+  "island_dresscolorunlock_tips": {
+    "tip": "Unlock Consumes"
   },
   "island_dressup_tip": {
     "tip": "Do you want to keep this appearance? You can change it later."
@@ -12835,7 +13161,7 @@
     "tip": "This person seems to be busy."
   },
   "island_freight_btn_idle": {
-    "tip": "Awaiting Transport"
+    "tip": "Awaiting\nTransport"
   },
   "island_freight_btn_locked": {
     "tip": "Unavailable"
@@ -12914,6 +13240,12 @@
   },
   "island_guide_help": {
     "tip": "Unlocking character-related content on the island gives you Collection Points. Once you accumulate enough points, your Collection Level will increase, and you'll receive the corresponding Collection Rewards:\n\n1. When you <color=#39bfff>obtain a character (complete their Island Authority Permit process)</color>, you'll receive <color=#39bfff>20</color> Collection Points per character.\n2. When you <color=#39bfff>Limit Break a character (use a Profession Star on them)</color>, you'll receive <color=#39bfff>30</color> Collection Points per Limit Break. And when a character reaches Limit Break ★5, you'll receive an additional <color=#39bfff>10</color> Collection Points.\n3. When <color=#39bfff>raising a character's Island Level to 50</color>, you'll receive <color=#39bfff>50</color> Collection Points."
+  },
+  "island_guide_help_item": {
+    "tip": "Unlocking resource-related content on the island gives you Collection Points. Once you accumulate enough points, your Collection Level will increase, and you'll receive the corresponding Collection Rewards: \n\n1. <color=#39bfff>Unlocking</color> Resources: Unlocking a resource in the Collection gives you <color=#39bfff>20</color> Collection points. \n2. <color=#39bfff>Obtaining</color> Resources: Getting a specific amount of a resource gives you Collection points. You can view the reward stages and the required amounts of each resource in the Collection."
+  },
+  "island_guide_help_npc": {
+    "tip": "Unlocking development team-related on the island gives you Collection Points. Once you accumulate enough points, your Collection Level will increase, and you'll receive the corresponding Collection Rewards: \nInteract with development team members to unlock the Collection and receive Collection Points."
   },
   "island_guide_item": {
     "tip": "Resources"
@@ -13019,11 +13351,48 @@
       }
     }
   },
-  "island_help_cafe_minigasme": {
+  "island_help_cafe_minigame": {
     "tip": {
       "1": {
         "icon": {
           "atlas": "helpbg/island_help_cafe_minigame",
+          "path": ""
+        }
+      },
+      "defaultpage": 1,
+      "disableScroll": true,
+      "helpSize": {
+        "x": 1176,
+        "y": 1024
+      },
+      "ImageMode": true,
+      "pageMode": true,
+      "windowPos": {
+        "y": -70
+      },
+      "windowSize": {
+        "x": 1263,
+        "y": 873
+      }
+    }
+  },
+  "island_help_character_info": {
+    "tip": {
+      "1": {
+        "icon": {
+          "atlas": "helpbg/island_help_character_info1",
+          "path": ""
+        }
+      },
+      "2": {
+        "icon": {
+          "atlas": "helpbg/island_help_character_info2",
+          "path": ""
+        }
+      },
+      "3": {
+        "icon": {
+          "atlas": "helpbg/island_help_character_info3",
           "path": ""
         }
       },
@@ -13410,6 +13779,18 @@
           "path": ""
         }
       },
+      "4": {
+        "icon": {
+          "atlas": "helpbg/island_help_ship_order4",
+          "path": ""
+        }
+      },
+      "5": {
+        "icon": {
+          "atlas": "helpbg/island_help_ship_order5",
+          "path": ""
+        }
+      },
       "defaultpage": 1,
       "disableScroll": true,
       "helpSize": {
@@ -13458,6 +13839,25 @@
       }
     }
   },
+  "island_helpbtn_card": {
+    "tip": [
+      {
+        "info": "Information about the island is displayed on your profile. You can use the <color=#39bfff>Chat</color> and <color=#39bfff>Visit</color> functions to view other Commanders' profiles.\n<color=#E58A00>Achievements</color>: Tap to display the <color=#39bfff>achievements</color> you've completed on your profile.\n<color=#E58A00>Rename Island</color>: Tap to change the name of your island.\n<color=#E58A00>Change Greeting</color>: Tap to change the greeting displayed on your profile.\n<color=#E58A00>Tag Settings</color>: Tap to view the rating tags you've received.\n<color=#E58A00>Island Photos</color>: Tap to change your displayed island photos."
+      }
+    ]
+  },
+  "island_helpbtn_commission": {
+    "tip": "The Manage All menu lets you check on the status of your <color=#39bfff>Production</color>, <color=#39bfff>Management</color>, and <color=#39bfff>Daily Supplies</color>, as well as letting you manage each.\n<color=#E58A00>Production</color>: Tap the <color=#39bfff>assignment slots</color> to assign characters and claim produce. Tap the <color=#39bfff>button to swap</color> to alternate between the respective options.\n<color=#E58A00>Management</color>: Tap the <color=#39bfff>Manage</color> button to view what staff you have assigned as well as what dishes you're selling. Tap the button to <color=#39bfff>Open Business</color> to collect your revenue.\n<color=#E58A00>Supplies</color>: Tap the <color=#39bfff>Supplies</color> button to instantly jump to the collection site on Get-Together Island."
+  },
+  "island_helpbtn_order": {
+    "tip": "<color=#E58A00>Island Requests</color>: Spending the designated <color=#39bfff>resources</color> will complete the request. Completing requests gives you <color=#39bfff>Development Funds</color> and <color=#39bfff>Island Dev. EXP</color>.\n<color=#E58A00>Urgent Requests</color>: Urgent Requests are unlocked after you research them in <color=#39bfff>Tech Research</color>. They have a chance of appearing when <color=#39bfff>time passes</color>, when you <color=#39bfff>complete regular requests</color>, and when you undertake <color=#39bfff>transport jobs</color>.\n<color=#E58A00>Island Request Limit</color>: Regular requests and urgent requests have separate caps as to how many you can complete in a certain period. The regular requests limit is reset <color=#39bfff>daily</color>, while the urgent requests limit is reset <color=#39bfff>weekly</color>.\n<color=#E58A00>Request Preference</color>: This allows you to change the difficulty of the island requests that appear. The change will take effect starting from <color=#39bfff>the next time that requests are issued</color>."
+  },
+  "island_helpbtn_speedup": {
+    "tip": "You can use Express Tickets to speed up things like <color=#39bfff>the production time of an assigned slot</color>, <color=#39bfff>the refresh time of an island request</color>, and so on.\n\nDifferent tickets <color=#39bfff>speed the process up by different amounts of time</color>. Any excess time reduction <color=#FD5650>will not be reimbursed</color>. Furthermore, Express Tickets have <color=#39bfff>expiration dates</color>, and they will <color=#FD5650>expire</color> once you reach this limit."
+  },
+  "island_helpbtn_technology": {
+    "tip": "Island Tech lets you assign characters to research unlocked technologies and spend resources to obtain them. Advancing your research will unlock <color=#39bfff>new production sites</color> and <color=#39bfff>new products</color>.\n\n<color=#E58A00>- Authorization -</color>\nAuthorization lets you unlock many new things, including <color=#39bfff>new maps</color>, features such as <color=#39bfff>batch management</color>, <color=#39bfff>island requests</color>, <color=#39bfff>transport jobs</color>, additional <color=#39bfff>Daily Supplies</color> content, and Island Authority Permits that let you recruit <color=#39bfff>new characters</color> to your island.\n\n<color=#E58A00>- Research -</color>\nResearch lets you unlock things such as <color=#39bfff>working slots</color> in various production sites, improve your efficiency when manually harvesting and working, and unlock new <color=#39bfff>recipes</color> for you to use."
+  },
   "island_history_desc": {
     "tip": "Unlock hidden treasure chests by completely exploring an area!"
   },
@@ -13478,6 +13878,9 @@
   },
   "island_index_status": {
     "tip": "Buffed"
+  },
+  "island_information_tech": {
+    "tip": "Island Tech - $1 - $2"
   },
   "island_input_code_erro": {
     "tip": "Please enter a code."
@@ -13549,7 +13952,7 @@
     "tip": "Furniture takes up space capacity. You cannot exceed the maximum allowed capacity."
   },
   "island_leave": {
-    "tip": "Return to the Port"
+    "tip": "Return"
   },
   "island_level_to_unlock": {
     "tip": "Unlocked at Island Level $1"
@@ -13618,7 +14021,7 @@
     "tip": "EXP Needed"
   },
   "island_manage_no_addition": {
-    "tip": "There are no applicable buffs."
+    "tip": "No applicable buffs"
   },
   "island_manage_no_work": {
     "tip": "No Work"
@@ -13663,7 +14066,7 @@
     "tip": "Store EXP"
   },
   "island_manage_skill_cant_use": {
-    "tip": "This skill is not applicable here."
+    "tip": "Not applicable here"
   },
   "island_manage_slot": {
     "tip": "Dish Slots"
@@ -13788,8 +14191,26 @@
   "island_order_not_get_award": {
     "tip": "This cannot be claimed."
   },
+  "island_order_ship_btn_replace": {
+    "tip": "Change Jobs"
+  },
   "island_order_ship_end_work": {
     "tip": "Complete..."
+  },
+  "island_order_ship_exchange_tip": {
+    "tip": "Do you want to change to a new transport job?"
+  },
+  "island_order_ship_exchange_tip_1": {
+    "tip": "Do you want to update the jobs list? (If you have submitted any materials, they will not be reimbursed, and your transport job attempt will be deducted.)"
+  },
+  "island_order_ship_exchange_tip_2": {
+    "tip": "Insufficient number of transport job attempts"
+  },
+  "island_order_ship_finish_cnt": {
+    "tip": "Transports $1/$2"
+  },
+  "island_order_ship_finish_cnt_not_enough": {
+    "tip": "Refresh"
   },
   "island_order_ship_loadup": {
     "tip": "Accept"
@@ -13804,10 +14225,16 @@
     "tip": "View Rewards"
   },
   "island_order_ship_page_onekey_loadup": {
-    "tip": "Submit All"
+    "tip": "<size=20>Submit</size>\nAll"
   },
   "island_order_ship_page_req": {
     "tip": "View Details"
+  },
+  "island_order_ship_reset_all": {
+    "tip": "Do you want to refresh all displayed jobs?"
+  },
+  "island_order_ship_sel_delegate_label": {
+    "tip": "- Tap to Select Job -"
   },
   "island_order_ship_unlock_tip": {
     "tip": "Unlock slots by doing research."
@@ -13870,7 +14297,7 @@
     "tip": "Character Details"
   },
   "island_production_collect": {
-    "tip": "Collect Products"
+    "tip": "Collect"
   },
   "island_production_cost_notenough": {
     "tip": "Insufficient resources or stamina."
@@ -13914,8 +14341,26 @@
   "island_production_selected_tip2": {
     "tip": "Select a Character"
   },
+  "island_production_speed_addition1": {
+    "tip": "<color=#39bfff>$1</color> Stat"
+  },
+  "island_production_speed_addition2": {
+    "tip": "Skill Effect"
+  },
+  "island_production_speed_addition3": {
+    "tip": "Buff Effect"
+  },
+  "island_production_speed_tip1": {
+    "tip": "Working Efficiency <color=#39bfff>+$1%</color>"
+  },
+  "island_production_speed_tip2": {
+    "tip": "Working Efficiency Buff"
+  },
   "island_production_start": {
     "tip": "Start Work"
+  },
+  "island_production_tip": {
+    "tip": "/time(s)"
   },
   "island_prosperity_level": {
     "tip": "繁荣度"
@@ -13934,6 +14379,9 @@
   },
   "island_queue_display": {
     "tip": "The island has reached its visitor limit. You will enter a queue.\nPlace in Queue: $1"
+  },
+  "island_quickselect_tip": {
+    "tip": "* Press and hold the icon to quickly increase the amount used"
   },
   "island_rename_confirm": {
     "tip": "Your island's name will be changed to: $1"
@@ -13983,6 +14431,9 @@
   "island_season_charts_level": {
     "tip": "Island Dev. Level"
   },
+  "island_season_charts_out": {
+    "tip": "Not in Rank"
+  },
   "island_season_charts_pt": {
     "tip": "Island Dev. Points"
   },
@@ -13993,7 +14444,7 @@
     "tip": "The Development Ranks are updated every 30 minutes."
   },
   "island_season_help": {
-    "tip": "1. When a new season begins, your Island Development Points (IDP) will automatically reset.\n2. During a season, you can earn IDP by doing things such as exchanging resources, producing specific resources, completing transport jobs, participating in seasonal events, and making purchases in the shop.\n3. At the end of a season, the resources in your warehouse will be automatically converted to IDP, and you will be placed on the development ranking accordingly.\n4. When the season finishes, you will be unable to claim development and milestone rewards from the season that just ended."
+    "tip": "1. When a new season begins, your Island Development Points (IDP) will be <color=#FD5650>automatically reset</color>.\n2. During a season, you can earn IDP by doing things such as <color=#39bfff>converting</color> and <color=#39bfff>producing specific resources</color>, <color=#39bfff>participate in seasonal events</color>, and <color=#39bfff>making purchases in the seasonal shop</color>.\n3. At the end of a season, the resources in your warehouse will be <color=#FD5650>automatically converted into IDP</color>, and you will be placed on the development ranking accordingly.\n4. When the season finishes, active <color=#39bfff> island requests, transport jobs, character assignments, manual farming, store management</color> will be reset.\n5. When the season finishes, you will be <color=#FD5650>unable to claim</color> development and milestone rewards from the season that just ended."
   },
   "island_season_pt": {
     "tip": "Milestone Points"
@@ -14089,7 +14540,7 @@
     "tip": "Final Ranking"
   },
   "island_season_window_rule": {
-    "tip": "1. At the end of a season, the resources in your warehouse will be automatically converted to IDP, and you will be placed on the development ranking accordingly. Additionally, the contents of your temporary warehouse will be cleared, and all active requests, transport commissions, food production, and character assignments will be reset.\n2. When the season finishes, you will be unable to claim development and milestone rewards from the season that just ended.\n3. When a new season begins, your Island Development Points (IDP) will automatically reset."
+    "tip": "1. At the end of a season, the contents of your <color=#39bfff>temporary warehouse</color> will be <color=#FD5650>cleared</color>, and the <color=#39bfff>resources in your warehouse</color> will be automatically converted to Island Development Points (IDP), and you will be placed on the development ranking accordingly.\n2. When the season finishes, all active <color=#39bfff> island requests, transport jobs, character assignments, manual farming, store management</color> will be reset.\n3. When the season finishes, you will be <color=#FD5650>unable to claim development and milestone rewards from the season that just ended</color>.\n4. When a new season begins, your IDP will <color=#FD5650>automatically reset</color>."
   },
   "island_season_window_transformtip": {
     "tip": "Do you want to convert the selected item(s)?"
@@ -14115,11 +14566,17 @@
   "island_select_ship_tip": {
     "tip": "The customer appeal of your dishes affects your sales. The higher the customer appeal, the likelier a customer is to make a purchase.\nCustomer appeal is influenced by the stats (main and sub) of your assigned characters.\n\n· Main stats: Greatly increase the customer appeal.\n· Sub stats: Moderately increase the customer appeal."
   },
+  "island_selectall": {
+    "tip": "All"
+  },
   "island_set_like": {
     "tip": "Set as Favorite"
   },
   "island_set_manifesto_success": {
     "tip": "Changes Saved"
+  },
+  "island_setmeal_benifit_title": {
+    "tip": "Revenue Up"
   },
   "island_setmeal_title": {
     "tip": "Combo Guide"
@@ -14193,6 +14650,18 @@
   "island_ship_no_energy": {
     "tip": "Exhausted"
   },
+  "island_ship_order_delegate_auto_refresh_label": {
+    "tip": "There are no transport jobs you can accept."
+  },
+  "island_ship_order_delegate_auto_refresh_time": {
+    "tip": "Transport Job List Refreshes in:"
+  },
+  "island_ship_order_toggle_label_award": {
+    "tip": "Rewards"
+  },
+  "island_ship_order_toggle_label_request": {
+    "tip": "Cost"
+  },
   "island_ship_title1": {
     "tip": "Develop Stats"
   },
@@ -14214,8 +14683,17 @@
   "island_ship_working": {
     "tip": "Working:"
   },
+  "island_shiporder_refresh_preparing": {
+    "tip": "Refreshing Transport Jobs"
+  },
+  "island_shiporder_refresh_tip1": {
+    "tip": "You have already submitted this order and cannot change it."
+  },
+  "island_shiporder_refresh_tip2": {
+    "tip": "Do you want to refresh your transport jobs?"
+  },
   "island_shipselect_confirm": {
-    "tip": "Confirm"
+    "tip": "Confirm "
   },
   "island_shop_limit_error": {
     "tip": "Unable to exchange; you cannot hold any more of this item."
@@ -14319,11 +14797,17 @@
   "island_task_type_6": {
     "tip": "Event"
   },
+  "island_taskjump_placenoopen_tips": {
+    "tip": "You have not yet unlocked this location."
+  },
+  "island_taskjump_systemnoopen_tips": {
+    "tip": "You have not yet unlocked this feature."
+  },
   "island_tech_can_get": {
     "tip": "Claimable"
   },
   "island_tech_detail_desctitle": {
-    "tip": "科技成果"
+    "tip": "Tech Gain"
   },
   "island_tech_detail_unlocktitle": {
     "tip": "Unlock Conditions"
@@ -14410,7 +14894,7 @@
     "tip": "Finished"
   },
   "island_ticket_nearing_expiration": {
-    "tip": "Tickets Near Expiration: $1"
+    "tip": "Expiring: $1"
   },
   "island_ticket_remain_time": {
     "tip": "Time Left"
@@ -14459,6 +14943,16 @@
   },
   "island_upgrade_res": {
     "tip": "Resources Needed"
+  },
+  "island_urgent_notice": {
+    "tip": [
+      {
+        "info": "1. Island Planner Season Reset"
+      },
+      {
+        "info": "After the next maintenance on <color=#39bfff>November 6th</color>, the current Island Planner Season will be reset. The new season will run from <color=#39bfff>11/6/2025 after maintenance - 2/5/2026 maintenance</color>. Compensation will be sent through <color=#39bfff>Main Menu > Compensation</color> to Commanders who participated in the Island Planner. \n* Reset and Compensation Rules: \n1. Production and Store Management: Ongoing <color=#39bfff>island requests, transport jobs, character assignments, manual farming, and store management</color> will be cleared and reset.\n2. Development Rank: All Commanders will automatically receive the highest-tier development ranking reward.\n3. Development Plan: Development Plan will be reset. Commanders will receive Stellar Tickets through <color=#39bfff>Main Menu > Compensation</color> based on the progress of incomplete development plans and completed but unclaimed development plans.\n4. Shop: The shop's content will be reset. Commander accessories or actions in the shop before the next maintenance will remain (they can only be obtained once).\n5. Island Request: <color=#39bfff>Island Seasonal PT Exchange Tickets</color> will be added. Based on the number of completed seasonal requests, Commanders will receive corresponding PT tickets, which can be directly converted into a certain amount of Island Dev. Points.\n* Island Seasonal PT Exchange Tickets is a resource and will be automatically converted into Island Dev. Points when the season ends.\n6. Other Progress Reset: Island requests (daily requests, weekly urgent requests limit, weekly ratings), transport jobs (refresh count is reset), development plan (daily and weekly plans), map collection points (map items, ore, logging sites), daily supplies and available daily supply limit, and store management counts will also be reset.\n* As the season ended early, for this special reset, after all resources have been converted, the total Island Dev. Points will be converted <color=#39bfff>x4</color> into Final Island Dev. Points. Accumulated Island Dev. Points rewards will be sent based on this Final Island Dev. Points, to be collected through <color=#39bfff>Main Menu > Compensation</color>.\n - Note: Autumn's seasonal resources will not be converted.\n\nWhat will NOT be reset after the special reset:\n- Island Dev. Level, character status, Island Tech;\n- Stellar Prize Draw status, including Prizes, obtained rewards, draws remaining, accumulative rewards, and Stellar Tickets;\n- Autumn specialties and resources\n- Seasonal Express Tickets"
+      }
+    ]
   },
   "island_use_ticket_success": {
     "tip": "Successfully Used"
@@ -14620,7 +15114,7 @@
     "tip": "Not Given"
   },
   "island_word_go": {
-    "tip": "Confirm"
+    "tip": "Confirm "
   },
   "island_word_own": {
     "tip": "Owned: $1"
@@ -16859,6 +17353,9 @@
   "meta_repair_success": {
     "tip": "Rigging Fortification successful. "
   },
+  "meta_reproduce_btn": {
+    "tip": "Would you like to simulate a battle of the current META showdown? \nDifficulty: Lv. 15\n* Simulated battles cost no Oil and give no rewards."
+  },
   "meta_shop_exchange_limit": {
     "tip": "Unobtained"
   },
@@ -16882,6 +17379,9 @@
   },
   "meta_shop_unexchange_label": {
     "tip": ""
+  },
+  "meta_simulated_btn": {
+    "tip": "Would you like to simulate a battle of the current META showdown? \nDifficulty: Lv. $1\n* Simulated battles cost no Oil and give no rewards."
   },
   "meta_skill_dailyexp": {
     "tip": "Daily EXP"
@@ -20292,6 +20792,15 @@
   "sculpture_puzzle_tip": {
     "tip": "Drag the parts around the area indicated by the dotted lines to combine them!"
   },
+  "search_equipment": {
+    "tip": "Search Gear by Name"
+  },
+  "search_equipment_appearance": {
+    "tip": "Search Gear Skin by Name"
+  },
+  "search_sp_equipment": {
+    "tip": "Search Aug. Module by Name"
+  },
   "sec_floor_limit_tip": {
     "tip": "Unlocks after first floor of dorm is expanded."
   },
@@ -20727,7 +21236,7 @@
     "tip": "Update Comics"
   },
   "setting_resdownload_title_map": {
-    "tip": "岛屿资源更新"
+    "tip": "Update Island Assets"
   },
   "setting_resdownload_title_music": {
     "tip": "Update BGM"
@@ -22046,6 +22555,9 @@
   "shop_refresh_time": {
     "tip": "Resets in $1"
   },
+  "shop_sell_ended": {
+    "tip": "Unavailable"
+  },
   "shop_side_lable_en": {
     "tip": "Recommend"
   },
@@ -22078,6 +22590,9 @@
   },
   "shop_supply_prop_en": {
     "tip": "Supply"
+  },
+  "shop_tag_control_tip": {
+    "tip": "Cannot download assets."
   },
   "shop_title": {
     "tip": "Shop"
@@ -22211,6 +22726,13 @@
   "SkinDiscount_Owned_Tips": {
     "tip": "You already own at least one skin ($1/$2). Purchasing this pack will give you a coupon that can be used when purchasing an unowned skin.\nIf you already own all the eligible skins, you will receive 680 Gems instead and will not receive a coupon.\nDo you want to buy this pack?"
   },
+  "SkinDiscountHelp_BlackFriday": {
+    "tip": [
+      {
+        "info": "1. During the campaign, if you purchase a Black Friday rerun skin in this campaign <color=#92fc63>without using a coupon</color> or purchase any one of the Black Friday campaign's lucky bags, you may claim a <color=#92fc63>Skin Coupon (Black Friday 2025)</color> from the campaign page.\n2. The <color=#92fc63>Skin Coupon (Black Friday 2025)</color> gives you a discount of 300 Gems when purchasing a Black Friday rerun skin. This discount is not applicable to item packs.\n3. If you have not used this coupon before the campaign ends (at the server reset on December 3rd, 2025), it will be removed automatically."
+      }
+    ]
+  },
   "SkinDiscountHelp_Carnival": {
     "tip": [
       {
@@ -22230,6 +22752,12 @@
   },
   "skinshop_live2d_fliter_failed": {
     "tip": "No outfits to display under current filter settings "
+  },
+  "skinshop_on_sale_tip": {
+    "tip": "Packs on Sale"
+  },
+  "skinshop_on_sale_tip_2": {
+    "tip": "Lucky Bag on Sale"
   },
   "snowball_help": {
     "tip": [
@@ -24680,6 +25208,9 @@
   "word_japanese_2": {
     "tip": "2"
   },
+  "word_japanese_3": {
+    "tip": "1"
+  },
   "word_kind": {
     "tip": "Type"
   },
@@ -25070,6 +25601,12 @@
   },
   "word_shipNation_chongYing": {
     "tip": "Sakura Empire"
+  },
+  "word_shipNation_dal": {
+    "tip": "Date A Live"
+  },
+  "word_shipNation_danmachi": {
+    "tip": "Danmachi"
   },
   "word_shipNation_doa": {
     "tip": "Venus Vacation "

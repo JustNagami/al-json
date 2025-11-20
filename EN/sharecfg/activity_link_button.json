@@ -9,7 +9,7 @@
     "text_pic": "text_event_all",
     "time": [
       "default",
-      50081
+      50222
     ],
     "type": 3
   },
@@ -40,14 +40,16 @@
     "id": 10,
     "name": "event_map",
     "order": 1,
-    "param": "0",
+    "param": [
+      "bossrush dal collab"
+    ],
     "pic": "event_map",
     "text_pic": "text_event_map",
     "time": [
       "default",
-      50114
+      50256
     ],
-    "type": 0
+    "type": 2
   },
   "11": {
     "group_id": 3,
@@ -245,13 +247,13 @@
     "name": "event_boat_ad_game",
     "order": 1,
     "param": [
-      73
+      68
     ],
     "pic": "event_boat_ad_game",
     "text_pic": "text_event_boat_ad_game",
     "time": [
       "default",
-      5765
+      50204
     ],
     "type": 7
   },
@@ -292,12 +294,12 @@
     "id": 109,
     "name": "event_core",
     "order": 1,
-    "param": "TianYuTianYuanCoreActivityUI",
+    "param": "DALCoreActivityUI",
     "pic": "event_core",
     "text_pic": "text_event_core",
     "time": [
       "default",
-      50130
+      50256
     ],
     "type": 16
   },
@@ -306,12 +308,15 @@
     "id": 110,
     "name": "event_core_2",
     "order": 2,
-    "param": "ALYCoreActivityUI",
-    "pic": "event_yumia",
-    "text_pic": "text_event_yumia",
+    "param": [
+      "PSSCoreActivityUI",
+      "JINNIANDECUXIAOXINGSHISHI1"
+    ],
+    "pic": "event_blackfriday",
+    "text_pic": "text_event_blackfriday",
     "time": [
       "default",
-      50058
+      50234
     ],
     "type": 16
   },
@@ -353,7 +358,7 @@
     "text_pic": "text_event_special",
     "time": [
       "default",
-      50116
+      50118
     ],
     "type": 16
   },
