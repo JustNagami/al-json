@@ -23718,6 +23718,147 @@
     "value_1": 35,
     "value_2": 15
   },
+  "14400": {
+    "attribute_1": "cannon",
+    "attribute_2": "hit",
+    "descrip": "特殊装備コアで製造できる艦船の専用兵装",
+    "effect_id": 902030,
+    "effect_id_display": 902030,
+    "hide_buff_upgrade": [],
+    "icon": "14400",
+    "id": 14400,
+    "important": 2,
+    "label": [],
+    "level": 1,
+    "name": "幸運をもたらす錨",
+    "next": 14401,
+    "prev": 0,
+    "rarity": 4,
+    "skill_upgrade": [
+      [
+        0,
+        1012430
+      ]
+    ],
+    "tech": 0,
+    "type": 6,
+    "uncraftable": 0,
+    "unique": 10520,
+    "upgrade_id": 101,
+    "usability": [
+      5
+    ],
+    "value_1": 13,
+    "value_1_random": 10,
+    "value_2": 10,
+    "value_2_random": 5
+  },
+  "14401": {
+    "base": 14400,
+    "id": 14401,
+    "level": 2,
+    "next": 14402,
+    "prev": 14400,
+    "upgrade_id": 102,
+    "value_1": 14,
+    "value_2": 10
+  },
+  "14402": {
+    "base": 14400,
+    "id": 14402,
+    "level": 3,
+    "next": 14403,
+    "prev": 14401,
+    "upgrade_id": 103,
+    "value_1": 15,
+    "value_2": 10
+  },
+  "14403": {
+    "base": 14400,
+    "id": 14403,
+    "level": 4,
+    "next": 14404,
+    "prev": 14402,
+    "upgrade_id": 104,
+    "value_1": 16,
+    "value_2": 11
+  },
+  "14404": {
+    "base": 14400,
+    "id": 14404,
+    "level": 5,
+    "next": 14405,
+    "prev": 14403,
+    "upgrade_id": 105,
+    "value_1": 17,
+    "value_2": 11
+  },
+  "14405": {
+    "base": 14400,
+    "id": 14405,
+    "level": 6,
+    "next": 14406,
+    "prev": 14404,
+    "upgrade_id": 106,
+    "value_1": 18,
+    "value_2": 12
+  },
+  "14406": {
+    "base": 14400,
+    "id": 14406,
+    "level": 7,
+    "next": 14407,
+    "prev": 14405,
+    "upgrade_id": 107,
+    "value_1": 19,
+    "value_2": 12
+  },
+  "14407": {
+    "base": 14400,
+    "id": 14407,
+    "level": 8,
+    "next": 14408,
+    "prev": 14406,
+    "upgrade_id": 108,
+    "value_1": 20,
+    "value_2": 13
+  },
+  "14408": {
+    "base": 14400,
+    "id": 14408,
+    "level": 9,
+    "next": 14409,
+    "prev": 14407,
+    "upgrade_id": 109,
+    "value_1": 21,
+    "value_2": 13
+  },
+  "14409": {
+    "base": 14400,
+    "id": 14409,
+    "level": 10,
+    "next": 14410,
+    "prev": 14408,
+    "upgrade_id": 110,
+    "value_1": 23,
+    "value_2": 14
+  },
+  "14410": {
+    "base": 14400,
+    "id": 14410,
+    "level": 11,
+    "next": 0,
+    "prev": 14409,
+    "skill_upgrade": [
+      [
+        12430,
+        1012430
+      ]
+    ],
+    "upgrade_id": 111,
+    "value_1": 25,
+    "value_2": 15
+  },
   "14420": {
     "attribute_1": "cannon",
     "attribute_2": "hit",
@@ -24703,6 +24844,2255 @@
     ],
     "upgrade_id": 111,
     "value_1": 25,
+    "value_2": 15
+  },
+  "14560": {
+    "attribute_1": "durability",
+    "attribute_2": "dodge",
+    "descrip": "特殊装備コアで製造できる艦船の専用兵装",
+    "effect_id": 901020,
+    "effect_id_display": 901020,
+    "hide_buff_upgrade": [],
+    "icon": "14560",
+    "id": 14560,
+    "important": 2,
+    "label": [],
+    "level": 1,
+    "name": "風紀、守るべし！",
+    "next": 14561,
+    "prev": 0,
+    "rarity": 4,
+    "skill_upgrade": [
+      [
+        0,
+        1090430
+      ]
+    ],
+    "tech": 0,
+    "type": 4,
+    "uncraftable": 0,
+    "unique": 30307,
+    "upgrade_id": 101,
+    "usability": [
+      3
+    ],
+    "value_1": 80,
+    "value_1_random": 20,
+    "value_2": 1,
+    "value_2_random": 5
+  },
+  "14561": {
+    "base": 14560,
+    "id": 14561,
+    "level": 2,
+    "next": 14562,
+    "prev": 14560,
+    "upgrade_id": 102,
+    "value_1": 92
+  },
+  "14562": {
+    "base": 14560,
+    "id": 14562,
+    "level": 3,
+    "next": 14563,
+    "prev": 14561,
+    "upgrade_id": 103,
+    "value_1": 104,
+    "value_2": 2
+  },
+  "14563": {
+    "base": 14560,
+    "id": 14563,
+    "level": 4,
+    "next": 14564,
+    "prev": 14562,
+    "upgrade_id": 104,
+    "value_1": 116,
+    "value_2": 3
+  },
+  "14564": {
+    "base": 14560,
+    "id": 14564,
+    "level": 5,
+    "next": 14565,
+    "prev": 14563,
+    "upgrade_id": 105,
+    "value_1": 128,
+    "value_2": 4
+  },
+  "14565": {
+    "base": 14560,
+    "id": 14565,
+    "level": 6,
+    "next": 14566,
+    "prev": 14564,
+    "upgrade_id": 106,
+    "value_1": 140,
+    "value_2": 5
+  },
+  "14566": {
+    "base": 14560,
+    "id": 14566,
+    "level": 7,
+    "next": 14567,
+    "prev": 14565,
+    "upgrade_id": 107,
+    "value_1": 152,
+    "value_2": 6
+  },
+  "14567": {
+    "base": 14560,
+    "id": 14567,
+    "level": 8,
+    "next": 14568,
+    "prev": 14566,
+    "upgrade_id": 108,
+    "value_1": 164,
+    "value_2": 7
+  },
+  "14568": {
+    "base": 14560,
+    "id": 14568,
+    "level": 9,
+    "next": 14569,
+    "prev": 14567,
+    "upgrade_id": 109,
+    "value_1": 176,
+    "value_2": 8
+  },
+  "14569": {
+    "base": 14560,
+    "id": 14569,
+    "level": 10,
+    "next": 14570,
+    "prev": 14568,
+    "upgrade_id": 110,
+    "value_1": 188,
+    "value_2": 9
+  },
+  "14570": {
+    "base": 14560,
+    "id": 14570,
+    "level": 11,
+    "next": 0,
+    "prev": 14569,
+    "skill_upgrade": [
+      [
+        4041,
+        1090430
+      ]
+    ],
+    "upgrade_id": 111,
+    "value_1": 200,
+    "value_2": 10
+  },
+  "14580": {
+    "attribute_1": "durability",
+    "attribute_2": "dodge",
+    "descrip": "特殊装備コアで製造できる艦船の専用兵装",
+    "effect_id": 114040,
+    "effect_id_display": 114040,
+    "hide_buff_upgrade": [],
+    "icon": "14580",
+    "id": 14580,
+    "important": 2,
+    "label": [],
+    "level": 1,
+    "name": "ヘスティアの紐",
+    "next": 14581,
+    "prev": 0,
+    "rarity": 4,
+    "skill_upgrade": [
+      [
+        0,
+        114030
+      ]
+    ],
+    "tech": 0,
+    "type": 3,
+    "uncraftable": 1,
+    "unique": 1140001,
+    "upgrade_id": 10001,
+    "usability": [
+      12
+    ],
+    "value_1": 180,
+    "value_1_random": 0,
+    "value_2": 5,
+    "value_2_random": 0
+  },
+  "14581": {
+    "base": 14580,
+    "id": 14581,
+    "level": 2,
+    "next": 14582,
+    "prev": 14580,
+    "upgrade_id": 10002,
+    "value_1": 190,
+    "value_2": 6
+  },
+  "14582": {
+    "base": 14580,
+    "id": 14582,
+    "level": 3,
+    "next": 14583,
+    "prev": 14581,
+    "upgrade_id": 10003,
+    "value_1": 200,
+    "value_2": 7
+  },
+  "14583": {
+    "base": 14580,
+    "id": 14583,
+    "level": 4,
+    "next": 14584,
+    "prev": 14582,
+    "upgrade_id": 10004,
+    "value_1": 210,
+    "value_2": 8
+  },
+  "14584": {
+    "base": 14580,
+    "id": 14584,
+    "level": 5,
+    "next": 14585,
+    "prev": 14583,
+    "upgrade_id": 10005,
+    "value_1": 220,
+    "value_2": 9
+  },
+  "14585": {
+    "base": 14580,
+    "id": 14585,
+    "level": 6,
+    "next": 14586,
+    "prev": 14584,
+    "upgrade_id": 10006,
+    "value_1": 230,
+    "value_2": 10
+  },
+  "14586": {
+    "base": 14580,
+    "id": 14586,
+    "level": 7,
+    "next": 14587,
+    "prev": 14585,
+    "upgrade_id": 10007,
+    "value_1": 240,
+    "value_2": 11
+  },
+  "14587": {
+    "base": 14580,
+    "id": 14587,
+    "level": 8,
+    "next": 14588,
+    "prev": 14586,
+    "upgrade_id": 10008,
+    "value_1": 250,
+    "value_2": 12
+  },
+  "14588": {
+    "base": 14580,
+    "id": 14588,
+    "level": 9,
+    "next": 14589,
+    "prev": 14587,
+    "upgrade_id": 10009,
+    "value_1": 260,
+    "value_2": 13
+  },
+  "14589": {
+    "base": 14580,
+    "id": 14589,
+    "level": 10,
+    "next": 14590,
+    "prev": 14588,
+    "upgrade_id": 10010,
+    "value_1": 270,
+    "value_2": 14
+  },
+  "14590": {
+    "base": 14580,
+    "id": 14590,
+    "level": 11,
+    "next": 0,
+    "prev": 14589,
+    "skill_upgrade": [
+      [
+        114020,
+        114030
+      ]
+    ],
+    "upgrade_id": 10011,
+    "value_1": 280,
+    "value_2": 15
+  },
+  "14600": {
+    "attribute_1": "cannon",
+    "attribute_2": "dodge",
+    "descrip": "特殊装備コアで製造できる艦船の専用兵装",
+    "effect_id": 114129,
+    "effect_id_display": 114129,
+    "hide_buff_upgrade": [],
+    "icon": "14600",
+    "id": 14600,
+    "important": 2,
+    "label": [],
+    "level": 1,
+    "name": "アルヴス・ユースティティア",
+    "next": 14601,
+    "prev": 0,
+    "rarity": 4,
+    "skill_upgrade": [
+      [
+        0,
+        114120
+      ]
+    ],
+    "tech": 0,
+    "type": 2,
+    "uncraftable": 1,
+    "unique": 1140002,
+    "upgrade_id": 10001,
+    "usability": [
+      2
+    ],
+    "value_1": 25,
+    "value_1_random": 0,
+    "value_2": 5,
+    "value_2_random": 0
+  },
+  "14601": {
+    "base": 14600,
+    "id": 14601,
+    "level": 2,
+    "next": 14602,
+    "prev": 14600,
+    "upgrade_id": 10002,
+    "value_1": 26,
+    "value_2": 6
+  },
+  "14602": {
+    "base": 14600,
+    "id": 14602,
+    "level": 3,
+    "next": 14603,
+    "prev": 14601,
+    "upgrade_id": 10003,
+    "value_1": 27,
+    "value_2": 7
+  },
+  "14603": {
+    "base": 14600,
+    "id": 14603,
+    "level": 4,
+    "next": 14604,
+    "prev": 14602,
+    "upgrade_id": 10004,
+    "value_1": 28,
+    "value_2": 8
+  },
+  "14604": {
+    "base": 14600,
+    "id": 14604,
+    "level": 5,
+    "next": 14605,
+    "prev": 14603,
+    "upgrade_id": 10005,
+    "value_1": 29,
+    "value_2": 9
+  },
+  "14605": {
+    "base": 14600,
+    "id": 14605,
+    "level": 6,
+    "next": 14606,
+    "prev": 14604,
+    "upgrade_id": 10006,
+    "value_1": 30,
+    "value_2": 10
+  },
+  "14606": {
+    "base": 14600,
+    "id": 14606,
+    "level": 7,
+    "next": 14607,
+    "prev": 14605,
+    "upgrade_id": 10007,
+    "value_1": 31,
+    "value_2": 11
+  },
+  "14607": {
+    "base": 14600,
+    "id": 14607,
+    "level": 8,
+    "next": 14608,
+    "prev": 14606,
+    "upgrade_id": 10008,
+    "value_1": 32,
+    "value_2": 12
+  },
+  "14608": {
+    "base": 14600,
+    "id": 14608,
+    "level": 9,
+    "next": 14609,
+    "prev": 14607,
+    "upgrade_id": 10009,
+    "value_1": 33,
+    "value_2": 13
+  },
+  "14609": {
+    "base": 14600,
+    "id": 14609,
+    "level": 10,
+    "next": 14610,
+    "prev": 14608,
+    "upgrade_id": 10010,
+    "value_1": 34,
+    "value_2": 14
+  },
+  "14610": {
+    "base": 14600,
+    "id": 14610,
+    "level": 11,
+    "next": 0,
+    "prev": 14609,
+    "skill_upgrade": [
+      [
+        114110,
+        114120
+      ]
+    ],
+    "upgrade_id": 10011,
+    "value_1": 35,
+    "value_2": 15
+  },
+  "14620": {
+    "attribute_1": "cannon",
+    "attribute_2": "hit",
+    "descrip": "特殊装備コアで製造できる艦船の専用兵装",
+    "effect_id": 902340,
+    "effect_id_display": 902340,
+    "hide_buff_upgrade": [],
+    "icon": "14620",
+    "id": 14620,
+    "important": 2,
+    "label": [],
+    "level": 1,
+    "name": "イブニングローズ",
+    "next": 14621,
+    "prev": 0,
+    "rarity": 4,
+    "skill_upgrade": [
+      [
+        0,
+        10151760
+      ]
+    ],
+    "tech": 0,
+    "type": 10,
+    "uncraftable": 0,
+    "unique": 960012,
+    "upgrade_id": 101,
+    "usability": [
+      24
+    ],
+    "value_1": 13,
+    "value_1_random": 10,
+    "value_2": 1,
+    "value_2_random": 5
+  },
+  "14621": {
+    "base": 14620,
+    "id": 14621,
+    "level": 2,
+    "next": 14622,
+    "prev": 14620,
+    "upgrade_id": 102,
+    "value_1": 14
+  },
+  "14622": {
+    "base": 14620,
+    "id": 14622,
+    "level": 3,
+    "next": 14623,
+    "prev": 14621,
+    "upgrade_id": 103,
+    "value_1": 15,
+    "value_2": 2
+  },
+  "14623": {
+    "base": 14620,
+    "id": 14623,
+    "level": 4,
+    "next": 14624,
+    "prev": 14622,
+    "upgrade_id": 104,
+    "value_1": 16,
+    "value_2": 3
+  },
+  "14624": {
+    "base": 14620,
+    "id": 14624,
+    "level": 5,
+    "next": 14625,
+    "prev": 14623,
+    "upgrade_id": 105,
+    "value_1": 17,
+    "value_2": 4
+  },
+  "14625": {
+    "base": 14620,
+    "id": 14625,
+    "level": 6,
+    "next": 14626,
+    "prev": 14624,
+    "upgrade_id": 106,
+    "value_1": 18,
+    "value_2": 5
+  },
+  "14626": {
+    "base": 14620,
+    "id": 14626,
+    "level": 7,
+    "next": 14627,
+    "prev": 14625,
+    "upgrade_id": 107,
+    "value_1": 19,
+    "value_2": 6
+  },
+  "14627": {
+    "base": 14620,
+    "id": 14627,
+    "level": 8,
+    "next": 14628,
+    "prev": 14626,
+    "upgrade_id": 108,
+    "value_1": 20,
+    "value_2": 7
+  },
+  "14628": {
+    "base": 14620,
+    "id": 14628,
+    "level": 9,
+    "next": 14629,
+    "prev": 14627,
+    "upgrade_id": 109,
+    "value_1": 21,
+    "value_2": 8
+  },
+  "14629": {
+    "base": 14620,
+    "id": 14629,
+    "level": 10,
+    "next": 14630,
+    "prev": 14628,
+    "upgrade_id": 110,
+    "value_1": 23,
+    "value_2": 9
+  },
+  "14630": {
+    "base": 14620,
+    "id": 14630,
+    "level": 11,
+    "next": 0,
+    "prev": 14629,
+    "skill_upgrade": [
+      [
+        151760,
+        10151760
+      ]
+    ],
+    "upgrade_id": 111,
+    "value_1": 25,
+    "value_2": 10
+  },
+  "14640": {
+    "attribute_1": "cannon",
+    "attribute_2": "durability",
+    "descrip": "特殊装備コアで製造できる艦船の専用兵装",
+    "effect_id": 902240,
+    "effect_id_display": 902240,
+    "hide_buff_upgrade": [],
+    "icon": "14640",
+    "id": 14640,
+    "important": 2,
+    "label": [],
+    "level": 1,
+    "name": "秩序と審判の槍",
+    "next": 14641,
+    "prev": 0,
+    "rarity": 4,
+    "skill_upgrade": [
+      [
+        0,
+        10151810
+      ]
+    ],
+    "tech": 0,
+    "type": 10,
+    "uncraftable": 0,
+    "unique": 960013,
+    "upgrade_id": 101,
+    "usability": [
+      23
+    ],
+    "value_1": 5,
+    "value_1_random": 5,
+    "value_2": 130,
+    "value_2_random": 20
+  },
+  "14641": {
+    "base": 14640,
+    "id": 14641,
+    "level": 2,
+    "next": 14642,
+    "prev": 14640,
+    "upgrade_id": 102,
+    "value_1": 6,
+    "value_2": 135
+  },
+  "14642": {
+    "base": 14640,
+    "id": 14642,
+    "level": 3,
+    "next": 14643,
+    "prev": 14641,
+    "upgrade_id": 103,
+    "value_1": 7,
+    "value_2": 140
+  },
+  "14643": {
+    "base": 14640,
+    "id": 14643,
+    "level": 4,
+    "next": 14644,
+    "prev": 14642,
+    "upgrade_id": 104,
+    "value_1": 8,
+    "value_2": 145
+  },
+  "14644": {
+    "base": 14640,
+    "id": 14644,
+    "level": 5,
+    "next": 14645,
+    "prev": 14643,
+    "upgrade_id": 105,
+    "value_1": 9,
+    "value_2": 150
+  },
+  "14645": {
+    "base": 14640,
+    "id": 14645,
+    "level": 6,
+    "next": 14646,
+    "prev": 14644,
+    "upgrade_id": 106,
+    "value_1": 10,
+    "value_2": 155
+  },
+  "14646": {
+    "base": 14640,
+    "id": 14646,
+    "level": 7,
+    "next": 14647,
+    "prev": 14645,
+    "upgrade_id": 107,
+    "value_1": 11,
+    "value_2": 160
+  },
+  "14647": {
+    "base": 14640,
+    "id": 14647,
+    "level": 8,
+    "next": 14648,
+    "prev": 14646,
+    "upgrade_id": 108,
+    "value_1": 12,
+    "value_2": 165
+  },
+  "14648": {
+    "base": 14640,
+    "id": 14648,
+    "level": 9,
+    "next": 14649,
+    "prev": 14647,
+    "upgrade_id": 109,
+    "value_1": 13,
+    "value_2": 170
+  },
+  "14649": {
+    "base": 14640,
+    "id": 14649,
+    "level": 10,
+    "next": 14650,
+    "prev": 14648,
+    "upgrade_id": 110,
+    "value_1": 14,
+    "value_2": 175
+  },
+  "14650": {
+    "base": 14640,
+    "id": 14650,
+    "level": 11,
+    "next": 0,
+    "prev": 14649,
+    "skill_upgrade": [
+      [
+        151810,
+        10151810
+      ]
+    ],
+    "upgrade_id": 111,
+    "value_1": 15,
+    "value_2": 180
+  },
+  "14660": {
+    "attribute_1": "cannon",
+    "attribute_2": "hit",
+    "descrip": "特殊装備コアで製造できる艦船の専用兵装",
+    "effect_id": 902250,
+    "effect_id_display": 902250,
+    "hide_buff_upgrade": [],
+    "icon": "14660",
+    "id": 14660,
+    "important": 2,
+    "label": [],
+    "level": 1,
+    "name": "真珠の心",
+    "next": 14661,
+    "prev": 0,
+    "rarity": 4,
+    "skill_upgrade": [
+      [
+        0,
+        151790
+      ]
+    ],
+    "tech": 0,
+    "type": 10,
+    "uncraftable": 0,
+    "unique": 960014,
+    "upgrade_id": 101,
+    "usability": [
+      24
+    ],
+    "value_1": 13,
+    "value_1_random": 10,
+    "value_2": 1,
+    "value_2_random": 5
+  },
+  "14661": {
+    "base": 14660,
+    "id": 14661,
+    "level": 2,
+    "next": 14662,
+    "prev": 14660,
+    "upgrade_id": 102,
+    "value_1": 14
+  },
+  "14662": {
+    "base": 14660,
+    "id": 14662,
+    "level": 3,
+    "next": 14663,
+    "prev": 14661,
+    "upgrade_id": 103,
+    "value_1": 15,
+    "value_2": 2
+  },
+  "14663": {
+    "base": 14660,
+    "id": 14663,
+    "level": 4,
+    "next": 14664,
+    "prev": 14662,
+    "upgrade_id": 104,
+    "value_1": 16,
+    "value_2": 3
+  },
+  "14664": {
+    "base": 14660,
+    "id": 14664,
+    "level": 5,
+    "next": 14665,
+    "prev": 14663,
+    "upgrade_id": 105,
+    "value_1": 17,
+    "value_2": 4
+  },
+  "14665": {
+    "base": 14660,
+    "id": 14665,
+    "level": 6,
+    "next": 14666,
+    "prev": 14664,
+    "upgrade_id": 106,
+    "value_1": 18,
+    "value_2": 5
+  },
+  "14666": {
+    "base": 14660,
+    "id": 14666,
+    "level": 7,
+    "next": 14667,
+    "prev": 14665,
+    "upgrade_id": 107,
+    "value_1": 19,
+    "value_2": 6
+  },
+  "14667": {
+    "base": 14660,
+    "id": 14667,
+    "level": 8,
+    "next": 14668,
+    "prev": 14666,
+    "upgrade_id": 108,
+    "value_1": 20,
+    "value_2": 7
+  },
+  "14668": {
+    "base": 14660,
+    "id": 14668,
+    "level": 9,
+    "next": 14669,
+    "prev": 14667,
+    "upgrade_id": 109,
+    "value_1": 21,
+    "value_2": 8
+  },
+  "14669": {
+    "base": 14660,
+    "id": 14669,
+    "level": 10,
+    "next": 14670,
+    "prev": 14668,
+    "upgrade_id": 110,
+    "value_1": 23,
+    "value_2": 9
+  },
+  "14670": {
+    "base": 14660,
+    "id": 14670,
+    "level": 11,
+    "next": 0,
+    "prev": 14669,
+    "skill_upgrade": [
+      [
+        151770,
+        151790
+      ]
+    ],
+    "upgrade_id": 111,
+    "value_1": 25,
+    "value_2": 10
+  },
+  "14680": {
+    "attribute_1": "cannon",
+    "attribute_2": "durability",
+    "descrip": "特殊装備コアで製造できる艦船の専用兵装",
+    "effect_id": 902240,
+    "effect_id_display": 902240,
+    "hide_buff_upgrade": [],
+    "icon": "14680",
+    "id": 14680,
+    "important": 2,
+    "label": [],
+    "level": 1,
+    "name": "キュリオスエッジ",
+    "next": 14681,
+    "prev": 0,
+    "rarity": 4,
+    "skill_upgrade": [
+      [
+        0,
+        151740
+      ]
+    ],
+    "tech": 0,
+    "type": 10,
+    "uncraftable": 0,
+    "unique": 960015,
+    "upgrade_id": 101,
+    "usability": [
+      23
+    ],
+    "value_1": 10,
+    "value_1_random": 10,
+    "value_2": 130,
+    "value_2_random": 20
+  },
+  "14681": {
+    "base": 14680,
+    "id": 14681,
+    "level": 2,
+    "next": 14682,
+    "prev": 14680,
+    "upgrade_id": 102,
+    "value_1": 11,
+    "value_2": 135
+  },
+  "14682": {
+    "base": 14680,
+    "id": 14682,
+    "level": 3,
+    "next": 14683,
+    "prev": 14681,
+    "upgrade_id": 103,
+    "value_1": 12,
+    "value_2": 140
+  },
+  "14683": {
+    "base": 14680,
+    "id": 14683,
+    "level": 4,
+    "next": 14684,
+    "prev": 14682,
+    "upgrade_id": 104,
+    "value_1": 13,
+    "value_2": 145
+  },
+  "14684": {
+    "base": 14680,
+    "id": 14684,
+    "level": 5,
+    "next": 14685,
+    "prev": 14683,
+    "upgrade_id": 105,
+    "value_1": 14,
+    "value_2": 150
+  },
+  "14685": {
+    "base": 14680,
+    "id": 14685,
+    "level": 6,
+    "next": 14686,
+    "prev": 14684,
+    "upgrade_id": 106,
+    "value_1": 15,
+    "value_2": 155
+  },
+  "14686": {
+    "base": 14680,
+    "id": 14686,
+    "level": 7,
+    "next": 14687,
+    "prev": 14685,
+    "upgrade_id": 107,
+    "value_1": 16,
+    "value_2": 160
+  },
+  "14687": {
+    "base": 14680,
+    "id": 14687,
+    "level": 8,
+    "next": 14688,
+    "prev": 14686,
+    "upgrade_id": 108,
+    "value_1": 17,
+    "value_2": 165
+  },
+  "14688": {
+    "base": 14680,
+    "id": 14688,
+    "level": 9,
+    "next": 14689,
+    "prev": 14687,
+    "upgrade_id": 109,
+    "value_1": 18,
+    "value_2": 170
+  },
+  "14689": {
+    "base": 14680,
+    "id": 14689,
+    "level": 10,
+    "next": 14690,
+    "prev": 14688,
+    "upgrade_id": 110,
+    "value_1": 19,
+    "value_2": 175
+  },
+  "14690": {
+    "base": 14680,
+    "id": 14690,
+    "level": 11,
+    "next": 0,
+    "prev": 14689,
+    "skill_upgrade": [
+      [
+        151680,
+        151740
+      ]
+    ],
+    "upgrade_id": 111,
+    "value_1": 20,
+    "value_2": 180
+  },
+  "14700": {
+    "attribute_1": "durability",
+    "attribute_2": "reload",
+    "descrip": "特殊装備コアで製造できる艦船の専用兵装",
+    "effect_id": 902230,
+    "effect_id_display": 902230,
+    "hide_buff_upgrade": [],
+    "icon": "14700",
+    "id": 14700,
+    "important": 2,
+    "label": [],
+    "level": 1,
+    "name": "アドベンチャースタッフ",
+    "next": 14701,
+    "prev": 0,
+    "rarity": 4,
+    "skill_upgrade": [
+      [
+        0,
+        151710
+      ]
+    ],
+    "tech": 0,
+    "type": 10,
+    "uncraftable": 0,
+    "unique": 960016,
+    "upgrade_id": 101,
+    "usability": [
+      22
+    ],
+    "value_1": 100,
+    "value_1_random": 20,
+    "value_2": 1,
+    "value_2_random": 5
+  },
+  "14701": {
+    "base": 14700,
+    "id": 14701,
+    "level": 2,
+    "next": 14702,
+    "prev": 14700,
+    "upgrade_id": 102,
+    "value_1": 105
+  },
+  "14702": {
+    "base": 14700,
+    "id": 14702,
+    "level": 3,
+    "next": 14703,
+    "prev": 14701,
+    "upgrade_id": 103,
+    "value_1": 110,
+    "value_2": 2
+  },
+  "14703": {
+    "base": 14700,
+    "id": 14703,
+    "level": 4,
+    "next": 14704,
+    "prev": 14702,
+    "upgrade_id": 104,
+    "value_1": 115,
+    "value_2": 3
+  },
+  "14704": {
+    "base": 14700,
+    "id": 14704,
+    "level": 5,
+    "next": 14705,
+    "prev": 14703,
+    "upgrade_id": 105,
+    "value_1": 120,
+    "value_2": 4
+  },
+  "14705": {
+    "base": 14700,
+    "id": 14705,
+    "level": 6,
+    "next": 14706,
+    "prev": 14704,
+    "upgrade_id": 106,
+    "value_1": 125,
+    "value_2": 5
+  },
+  "14706": {
+    "base": 14700,
+    "id": 14706,
+    "level": 7,
+    "next": 14707,
+    "prev": 14705,
+    "upgrade_id": 107,
+    "value_1": 130,
+    "value_2": 6
+  },
+  "14707": {
+    "base": 14700,
+    "id": 14707,
+    "level": 8,
+    "next": 14708,
+    "prev": 14706,
+    "upgrade_id": 108,
+    "value_1": 135,
+    "value_2": 7
+  },
+  "14708": {
+    "base": 14700,
+    "id": 14708,
+    "level": 9,
+    "next": 14709,
+    "prev": 14707,
+    "upgrade_id": 109,
+    "value_1": 140,
+    "value_2": 8
+  },
+  "14709": {
+    "base": 14700,
+    "id": 14709,
+    "level": 10,
+    "next": 14710,
+    "prev": 14708,
+    "upgrade_id": 110,
+    "value_1": 145,
+    "value_2": 9
+  },
+  "14710": {
+    "base": 14700,
+    "id": 14710,
+    "level": 11,
+    "next": 0,
+    "prev": 14709,
+    "skill_upgrade": [
+      [
+        151700,
+        151710
+      ]
+    ],
+    "upgrade_id": 111,
+    "value_1": 150,
+    "value_2": 10
+  },
+  "14720": {
+    "attribute_1": "torpedo",
+    "attribute_2": "hit",
+    "descrip": "特殊装備コアで製造できる艦船の専用兵装",
+    "effect_id": 902070,
+    "effect_id_display": 902070,
+    "hide_buff_upgrade": [],
+    "icon": "14720",
+    "id": 14720,
+    "important": 2,
+    "label": [],
+    "level": 1,
+    "name": "Alarmtauchen！",
+    "next": 14721,
+    "prev": 0,
+    "rarity": 4,
+    "skill_upgrade": [
+      [
+        0,
+        1011390
+      ]
+    ],
+    "tech": 0,
+    "type": 8,
+    "uncraftable": 0,
+    "unique": 40801,
+    "upgrade_id": 101,
+    "usability": [
+      8
+    ],
+    "value_1": 15,
+    "value_1_random": 10,
+    "value_2": 5,
+    "value_2_random": 5
+  },
+  "14721": {
+    "base": 14720,
+    "id": 14721,
+    "level": 2,
+    "next": 14722,
+    "prev": 14720,
+    "upgrade_id": 102,
+    "value_1": 16,
+    "value_2": 6
+  },
+  "14722": {
+    "base": 14720,
+    "id": 14722,
+    "level": 3,
+    "next": 14723,
+    "prev": 14721,
+    "upgrade_id": 103,
+    "value_1": 17,
+    "value_2": 7
+  },
+  "14723": {
+    "base": 14720,
+    "id": 14723,
+    "level": 4,
+    "next": 14724,
+    "prev": 14722,
+    "upgrade_id": 104,
+    "value_1": 18,
+    "value_2": 8
+  },
+  "14724": {
+    "base": 14720,
+    "id": 14724,
+    "level": 5,
+    "next": 14725,
+    "prev": 14723,
+    "upgrade_id": 105,
+    "value_1": 19,
+    "value_2": 9
+  },
+  "14725": {
+    "base": 14720,
+    "id": 14725,
+    "level": 6,
+    "next": 14726,
+    "prev": 14724,
+    "upgrade_id": 106,
+    "value_1": 20,
+    "value_2": 10
+  },
+  "14726": {
+    "base": 14720,
+    "id": 14726,
+    "level": 7,
+    "next": 14727,
+    "prev": 14725,
+    "upgrade_id": 107,
+    "value_1": 21,
+    "value_2": 11
+  },
+  "14727": {
+    "base": 14720,
+    "id": 14727,
+    "level": 8,
+    "next": 14728,
+    "prev": 14726,
+    "upgrade_id": 108,
+    "value_1": 22,
+    "value_2": 12
+  },
+  "14728": {
+    "base": 14720,
+    "id": 14728,
+    "level": 9,
+    "next": 14729,
+    "prev": 14727,
+    "upgrade_id": 109,
+    "value_1": 23,
+    "value_2": 13
+  },
+  "14729": {
+    "base": 14720,
+    "id": 14729,
+    "level": 10,
+    "next": 14730,
+    "prev": 14728,
+    "upgrade_id": 110,
+    "value_1": 24,
+    "value_2": 14
+  },
+  "14730": {
+    "base": 14720,
+    "id": 14730,
+    "level": 11,
+    "next": 0,
+    "prev": 14729,
+    "skill_upgrade": [
+      [
+        11390,
+        1011390
+      ]
+    ],
+    "upgrade_id": 111,
+    "value_1": 25,
+    "value_2": 15
+  },
+  "14740": {
+    "attribute_1": "air",
+    "attribute_2": "reload",
+    "descrip": "特殊装備コアで製造できる艦船の専用兵装",
+    "effect_id": 902350,
+    "effect_id_display": 902350,
+    "hide_buff_upgrade": [],
+    "icon": "14740",
+    "id": 14740,
+    "important": 2,
+    "label": [],
+    "level": 1,
+    "name": "一射必中",
+    "next": 14741,
+    "prev": 0,
+    "rarity": 4,
+    "skill_upgrade": [
+      [
+        0,
+        1011910
+      ]
+    ],
+    "tech": 0,
+    "type": 7,
+    "uncraftable": 0,
+    "unique": 10722,
+    "upgrade_id": 101,
+    "usability": [
+      6
+    ],
+    "value_1": 22,
+    "value_1_random": 10,
+    "value_2": 1,
+    "value_2_random": 5
+  },
+  "14741": {
+    "base": 14740,
+    "id": 14741,
+    "level": 2,
+    "next": 14742,
+    "prev": 14740,
+    "upgrade_id": 102,
+    "value_1": 22
+  },
+  "14742": {
+    "base": 14740,
+    "id": 14742,
+    "level": 3,
+    "next": 14743,
+    "prev": 14741,
+    "upgrade_id": 103,
+    "value_1": 23,
+    "value_2": 2
+  },
+  "14743": {
+    "base": 14740,
+    "id": 14743,
+    "level": 4,
+    "next": 14744,
+    "prev": 14742,
+    "upgrade_id": 104,
+    "value_1": 23,
+    "value_2": 3
+  },
+  "14744": {
+    "base": 14740,
+    "id": 14744,
+    "level": 5,
+    "next": 14745,
+    "prev": 14743,
+    "upgrade_id": 105,
+    "value_1": 24,
+    "value_2": 4
+  },
+  "14745": {
+    "base": 14740,
+    "id": 14745,
+    "level": 6,
+    "next": 14746,
+    "prev": 14744,
+    "upgrade_id": 106,
+    "value_1": 25,
+    "value_2": 5
+  },
+  "14746": {
+    "base": 14740,
+    "id": 14746,
+    "level": 7,
+    "next": 14747,
+    "prev": 14745,
+    "upgrade_id": 107,
+    "value_1": 26,
+    "value_2": 6
+  },
+  "14747": {
+    "base": 14740,
+    "id": 14747,
+    "level": 8,
+    "next": 14748,
+    "prev": 14746,
+    "upgrade_id": 108,
+    "value_1": 27,
+    "value_2": 7
+  },
+  "14748": {
+    "base": 14740,
+    "id": 14748,
+    "level": 9,
+    "next": 14749,
+    "prev": 14747,
+    "upgrade_id": 109,
+    "value_1": 28,
+    "value_2": 8
+  },
+  "14749": {
+    "base": 14740,
+    "id": 14749,
+    "level": 10,
+    "next": 14750,
+    "prev": 14748,
+    "upgrade_id": 110,
+    "value_1": 29,
+    "value_2": 9
+  },
+  "14750": {
+    "base": 14740,
+    "id": 14750,
+    "level": 11,
+    "next": 0,
+    "prev": 14749,
+    "skill_upgrade": [
+      [
+        11910,
+        1011910
+      ]
+    ],
+    "upgrade_id": 111,
+    "value_1": 30,
+    "value_2": 10
+  },
+  "14760": {
+    "attribute_1": "cannon",
+    "attribute_2": "dodge",
+    "descrip": "夜刀神十香の専用特種装備",
+    "effect_id": 115040,
+    "effect_id_display": 115040,
+    "hide_buff_upgrade": [],
+    "icon": "14760",
+    "id": 14760,
+    "important": 2,
+    "label": [],
+    "level": 1,
+    "name": "鏖殺公（サンダルフォン）",
+    "next": 14761,
+    "prev": 0,
+    "rarity": 4,
+    "skill_upgrade": [
+      [
+        0,
+        115030
+      ]
+    ],
+    "tech": 0,
+    "type": 4,
+    "uncraftable": 1,
+    "unique": 1150001,
+    "upgrade_id": 10001,
+    "usability": [
+      3
+    ],
+    "value_1": 20,
+    "value_1_random": 0,
+    "value_2": 1,
+    "value_2_random": 0
+  },
+  "14761": {
+    "base": 14760,
+    "id": 14761,
+    "level": 2,
+    "next": 14762,
+    "prev": 14760,
+    "upgrade_id": 10002,
+    "value_1": 21,
+    "value_2": 1
+  },
+  "14762": {
+    "base": 14760,
+    "id": 14762,
+    "level": 3,
+    "next": 14763,
+    "prev": 14761,
+    "upgrade_id": 10003,
+    "value_1": 22,
+    "value_2": 2
+  },
+  "14763": {
+    "base": 14760,
+    "id": 14763,
+    "level": 4,
+    "next": 14764,
+    "prev": 14762,
+    "upgrade_id": 10004,
+    "value_1": 23,
+    "value_2": 3
+  },
+  "14764": {
+    "base": 14760,
+    "id": 14764,
+    "level": 5,
+    "next": 14765,
+    "prev": 14763,
+    "upgrade_id": 10005,
+    "value_1": 24,
+    "value_2": 4
+  },
+  "14765": {
+    "base": 14760,
+    "id": 14765,
+    "level": 6,
+    "next": 14766,
+    "prev": 14764,
+    "upgrade_id": 10006,
+    "value_1": 25,
+    "value_2": 5
+  },
+  "14766": {
+    "base": 14760,
+    "id": 14766,
+    "level": 7,
+    "next": 14767,
+    "prev": 14765,
+    "upgrade_id": 10007,
+    "value_1": 26,
+    "value_2": 6
+  },
+  "14767": {
+    "base": 14760,
+    "id": 14767,
+    "level": 8,
+    "next": 14768,
+    "prev": 14766,
+    "upgrade_id": 10008,
+    "value_1": 27,
+    "value_2": 7
+  },
+  "14768": {
+    "base": 14760,
+    "id": 14768,
+    "level": 9,
+    "next": 14769,
+    "prev": 14767,
+    "upgrade_id": 10009,
+    "value_1": 28,
+    "value_2": 8
+  },
+  "14769": {
+    "base": 14760,
+    "id": 14769,
+    "level": 10,
+    "next": 14770,
+    "prev": 14768,
+    "upgrade_id": 10010,
+    "value_1": 29,
+    "value_2": 9
+  },
+  "14770": {
+    "base": 14760,
+    "id": 14770,
+    "level": 11,
+    "next": 0,
+    "prev": 14769,
+    "skill_upgrade": [
+      [
+        115010,
+        115030
+      ]
+    ],
+    "upgrade_id": 10011,
+    "value_1": 30,
+    "value_2": 10
+  },
+  "14780": {
+    "attribute_1": "cannon",
+    "attribute_2": "reload",
+    "descrip": "五河琴里の専用特種装備",
+    "effect_id": 115080,
+    "effect_id_display": 115080,
+    "hide_buff_upgrade": [],
+    "icon": "14780",
+    "id": 14780,
+    "important": 2,
+    "label": [],
+    "level": 1,
+    "name": "灼爛殲鬼（カマエル）",
+    "next": 14781,
+    "prev": 0,
+    "rarity": 4,
+    "skill_upgrade": [
+      [
+        0,
+        115070
+      ]
+    ],
+    "tech": 0,
+    "type": 6,
+    "uncraftable": 1,
+    "unique": 1150003,
+    "upgrade_id": 10001,
+    "usability": [
+      5
+    ],
+    "value_1": 20,
+    "value_1_random": 0,
+    "value_2": 6,
+    "value_2_random": 0
+  },
+  "14781": {
+    "base": 14780,
+    "id": 14781,
+    "level": 2,
+    "next": 14782,
+    "prev": 14780,
+    "upgrade_id": 10002,
+    "value_1": 21,
+    "value_2": 6
+  },
+  "14782": {
+    "base": 14780,
+    "id": 14782,
+    "level": 3,
+    "next": 14783,
+    "prev": 14781,
+    "upgrade_id": 10003,
+    "value_1": 22,
+    "value_2": 7
+  },
+  "14783": {
+    "base": 14780,
+    "id": 14783,
+    "level": 4,
+    "next": 14784,
+    "prev": 14782,
+    "upgrade_id": 10004,
+    "value_1": 23,
+    "value_2": 8
+  },
+  "14784": {
+    "base": 14780,
+    "id": 14784,
+    "level": 5,
+    "next": 14785,
+    "prev": 14783,
+    "upgrade_id": 10005,
+    "value_1": 24,
+    "value_2": 9
+  },
+  "14785": {
+    "base": 14780,
+    "id": 14785,
+    "level": 6,
+    "next": 14786,
+    "prev": 14784,
+    "upgrade_id": 10006,
+    "value_1": 25,
+    "value_2": 10
+  },
+  "14786": {
+    "base": 14780,
+    "id": 14786,
+    "level": 7,
+    "next": 14787,
+    "prev": 14785,
+    "upgrade_id": 10007,
+    "value_1": 26,
+    "value_2": 11
+  },
+  "14787": {
+    "base": 14780,
+    "id": 14787,
+    "level": 8,
+    "next": 14788,
+    "prev": 14786,
+    "upgrade_id": 10008,
+    "value_1": 27,
+    "value_2": 12
+  },
+  "14788": {
+    "base": 14780,
+    "id": 14788,
+    "level": 9,
+    "next": 14789,
+    "prev": 14787,
+    "upgrade_id": 10009,
+    "value_1": 28,
+    "value_2": 13
+  },
+  "14789": {
+    "base": 14780,
+    "id": 14789,
+    "level": 10,
+    "next": 14790,
+    "prev": 14788,
+    "upgrade_id": 10010,
+    "value_1": 29,
+    "value_2": 14
+  },
+  "14790": {
+    "base": 14780,
+    "id": 14790,
+    "level": 11,
+    "next": 0,
+    "prev": 14789,
+    "skill_upgrade": [
+      [
+        115060,
+        115070
+      ]
+    ],
+    "upgrade_id": 10011,
+    "value_1": 30,
+    "value_2": 15
+  },
+  "14800": {
+    "attribute_1": "air",
+    "attribute_2": "dodge",
+    "descrip": "鳶一折紙の専用特種装備",
+    "effect_id": 115260,
+    "effect_id_display": 115260,
+    "hide_buff_upgrade": [],
+    "icon": "14800",
+    "id": 14800,
+    "important": 2,
+    "label": [],
+    "level": 1,
+    "name": "絶滅天使（メタトロン）",
+    "next": 14801,
+    "prev": 0,
+    "rarity": 4,
+    "skill_upgrade": [
+      [
+        0,
+        115250
+      ]
+    ],
+    "tech": 0,
+    "type": 7,
+    "uncraftable": 1,
+    "unique": 1150002,
+    "upgrade_id": 10001,
+    "usability": [
+      7
+    ],
+    "value_1": 27,
+    "value_1_random": 0,
+    "value_2": 14,
+    "value_2_random": 0
+  },
+  "14801": {
+    "base": 14800,
+    "id": 14801,
+    "level": 2,
+    "next": 14802,
+    "prev": 14800,
+    "upgrade_id": 10002,
+    "value_2": 15
+  },
+  "14802": {
+    "base": 14800,
+    "id": 14802,
+    "level": 3,
+    "next": 14803,
+    "prev": 14801,
+    "upgrade_id": 10003,
+    "value_1": 28,
+    "value_2": 15
+  },
+  "14803": {
+    "base": 14800,
+    "id": 14803,
+    "level": 4,
+    "next": 14804,
+    "prev": 14802,
+    "upgrade_id": 10004,
+    "value_1": 28,
+    "value_2": 16
+  },
+  "14804": {
+    "base": 14800,
+    "id": 14804,
+    "level": 5,
+    "next": 14805,
+    "prev": 14803,
+    "upgrade_id": 10005,
+    "value_1": 29,
+    "value_2": 16
+  },
+  "14805": {
+    "base": 14800,
+    "id": 14805,
+    "level": 6,
+    "next": 14806,
+    "prev": 14804,
+    "upgrade_id": 10006,
+    "value_1": 30,
+    "value_2": 17
+  },
+  "14806": {
+    "base": 14800,
+    "id": 14806,
+    "level": 7,
+    "next": 14807,
+    "prev": 14805,
+    "upgrade_id": 10007,
+    "value_1": 31,
+    "value_2": 17
+  },
+  "14807": {
+    "base": 14800,
+    "id": 14807,
+    "level": 8,
+    "next": 14808,
+    "prev": 14806,
+    "upgrade_id": 10008,
+    "value_1": 32,
+    "value_2": 18
+  },
+  "14808": {
+    "base": 14800,
+    "id": 14808,
+    "level": 9,
+    "next": 14809,
+    "prev": 14807,
+    "upgrade_id": 10009,
+    "value_1": 33,
+    "value_2": 18
+  },
+  "14809": {
+    "base": 14800,
+    "id": 14809,
+    "level": 10,
+    "next": 14810,
+    "prev": 14808,
+    "upgrade_id": 10010,
+    "value_1": 34,
+    "value_2": 19
+  },
+  "14810": {
+    "base": 14800,
+    "id": 14810,
+    "level": 11,
+    "next": 0,
+    "prev": 14809,
+    "skill_upgrade": [
+      [
+        115180,
+        115250
+      ]
+    ],
+    "upgrade_id": 10011,
+    "value_1": 35,
+    "value_2": 20
+  },
+  "14820": {
+    "attribute_1": "cannon",
+    "attribute_2": "hit",
+    "descrip": "時崎狂三の専用特種装備",
+    "effect_id": 115130,
+    "effect_id_display": 115130,
+    "hide_buff_upgrade": [],
+    "icon": "14820",
+    "id": 14820,
+    "important": 2,
+    "label": [],
+    "level": 1,
+    "name": "刻々帝（ザフキエル）",
+    "next": 14821,
+    "prev": 0,
+    "rarity": 4,
+    "skill_upgrade": [
+      [
+        0,
+        115160
+      ]
+    ],
+    "tech": 0,
+    "type": 2,
+    "uncraftable": 1,
+    "unique": 1150005,
+    "upgrade_id": 10001,
+    "usability": [
+      2
+    ],
+    "value_1": 25,
+    "value_1_random": 0,
+    "value_2": 5,
+    "value_2_random": 0
+  },
+  "14821": {
+    "base": 14820,
+    "id": 14821,
+    "level": 2,
+    "next": 14822,
+    "prev": 14820,
+    "upgrade_id": 10002,
+    "value_1": 26,
+    "value_2": 6
+  },
+  "14822": {
+    "base": 14820,
+    "id": 14822,
+    "level": 3,
+    "next": 14823,
+    "prev": 14821,
+    "upgrade_id": 10003,
+    "value_1": 27,
+    "value_2": 7
+  },
+  "14823": {
+    "base": 14820,
+    "id": 14823,
+    "level": 4,
+    "next": 14824,
+    "prev": 14822,
+    "upgrade_id": 10004,
+    "value_1": 28,
+    "value_2": 8
+  },
+  "14824": {
+    "base": 14820,
+    "id": 14824,
+    "level": 5,
+    "next": 14825,
+    "prev": 14823,
+    "upgrade_id": 10005,
+    "value_1": 29,
+    "value_2": 9
+  },
+  "14825": {
+    "base": 14820,
+    "id": 14825,
+    "level": 6,
+    "next": 14826,
+    "prev": 14824,
+    "upgrade_id": 10006,
+    "value_1": 30,
+    "value_2": 10
+  },
+  "14826": {
+    "base": 14820,
+    "id": 14826,
+    "level": 7,
+    "next": 14827,
+    "prev": 14825,
+    "upgrade_id": 10007,
+    "value_1": 31,
+    "value_2": 11
+  },
+  "14827": {
+    "base": 14820,
+    "id": 14827,
+    "level": 8,
+    "next": 14828,
+    "prev": 14826,
+    "upgrade_id": 10008,
+    "value_1": 32,
+    "value_2": 12
+  },
+  "14828": {
+    "base": 14820,
+    "id": 14828,
+    "level": 9,
+    "next": 14829,
+    "prev": 14827,
+    "upgrade_id": 10009,
+    "value_1": 33,
+    "value_2": 13
+  },
+  "14829": {
+    "base": 14820,
+    "id": 14829,
+    "level": 10,
+    "next": 14830,
+    "prev": 14828,
+    "upgrade_id": 10010,
+    "value_1": 34,
+    "value_2": 14
+  },
+  "14830": {
+    "base": 14820,
+    "id": 14830,
+    "level": 11,
+    "next": 0,
+    "prev": 14829,
+    "skill_upgrade": [
+      [
+        115150,
+        115160
+      ]
+    ],
+    "upgrade_id": 10011,
+    "value_1": 35,
+    "value_2": 15
+  },
+  "14840": {
+    "attribute_1": "air",
+    "attribute_2": "reload",
+    "descrip": "四糸乃の専用特種装備",
+    "effect_id": 115230,
+    "effect_id_display": 115230,
+    "hide_buff_upgrade": [],
+    "icon": "14840",
+    "id": 14840,
+    "important": 2,
+    "label": [],
+    "level": 1,
+    "name": "氷結傀儡（ザドキエル）",
+    "next": 14841,
+    "prev": 0,
+    "rarity": 4,
+    "skill_upgrade": [
+      [
+        0,
+        115210
+      ]
+    ],
+    "tech": 0,
+    "type": 7,
+    "uncraftable": 1,
+    "unique": 1150004,
+    "upgrade_id": 10001,
+    "usability": [
+      6
+    ],
+    "value_1": 32,
+    "value_1_random": 0,
+    "value_2": 9,
+    "value_2_random": 0
+  },
+  "14841": {
+    "base": 14840,
+    "id": 14841,
+    "level": 2,
+    "next": 14842,
+    "prev": 14840,
+    "upgrade_id": 10002,
+    "value_2": 10
+  },
+  "14842": {
+    "base": 14840,
+    "id": 14842,
+    "level": 3,
+    "next": 14843,
+    "prev": 14841,
+    "upgrade_id": 10003,
+    "value_1": 33,
+    "value_2": 10
+  },
+  "14843": {
+    "base": 14840,
+    "id": 14843,
+    "level": 4,
+    "next": 14844,
+    "prev": 14842,
+    "upgrade_id": 10004,
+    "value_1": 33,
+    "value_2": 11
+  },
+  "14844": {
+    "base": 14840,
+    "id": 14844,
+    "level": 5,
+    "next": 14845,
+    "prev": 14843,
+    "upgrade_id": 10005,
+    "value_1": 34,
+    "value_2": 11
+  },
+  "14845": {
+    "base": 14840,
+    "id": 14845,
+    "level": 6,
+    "next": 14846,
+    "prev": 14844,
+    "upgrade_id": 10006,
+    "value_1": 35,
+    "value_2": 12
+  },
+  "14846": {
+    "base": 14840,
+    "id": 14846,
+    "level": 7,
+    "next": 14847,
+    "prev": 14845,
+    "upgrade_id": 10007,
+    "value_1": 36,
+    "value_2": 12
+  },
+  "14847": {
+    "base": 14840,
+    "id": 14847,
+    "level": 8,
+    "next": 14848,
+    "prev": 14846,
+    "upgrade_id": 10008,
+    "value_1": 37,
+    "value_2": 13
+  },
+  "14848": {
+    "base": 14840,
+    "id": 14848,
+    "level": 9,
+    "next": 14849,
+    "prev": 14847,
+    "upgrade_id": 10009,
+    "value_1": 38,
+    "value_2": 13
+  },
+  "14849": {
+    "base": 14840,
+    "id": 14849,
+    "level": 10,
+    "next": 14850,
+    "prev": 14848,
+    "upgrade_id": 10010,
+    "value_1": 39,
+    "value_2": 14
+  },
+  "14850": {
+    "base": 14840,
+    "id": 14850,
+    "level": 11,
+    "next": 0,
+    "prev": 14849,
+    "skill_upgrade": [
+      [
+        115200,
+        115210
+      ]
+    ],
+    "upgrade_id": 10011,
+    "value_1": 40,
+    "value_2": 15
+  },
+  "14860": {
+    "attribute_1": "cannon",
+    "attribute_2": "hit",
+    "descrip": "八舞耶倶矢・八舞夕弦の専用特種装備",
+    "effect_id": 115120,
+    "effect_id_display": 115120,
+    "hide_buff_upgrade": [],
+    "icon": "14860",
+    "id": 14860,
+    "important": 2,
+    "label": [],
+    "level": 1,
+    "name": "颶風騎士（ラファエル）",
+    "next": 14861,
+    "prev": 0,
+    "rarity": 4,
+    "skill_upgrade": [
+      [
+        0,
+        115110
+      ]
+    ],
+    "tech": 0,
+    "type": 2,
+    "uncraftable": 1,
+    "unique": 1150006,
+    "upgrade_id": 10001,
+    "usability": [
+      2
+    ],
+    "value_1": 25,
+    "value_1_random": 0,
+    "value_2": 5,
+    "value_2_random": 0
+  },
+  "14861": {
+    "base": 14860,
+    "id": 14861,
+    "level": 2,
+    "next": 14862,
+    "prev": 14860,
+    "upgrade_id": 10002,
+    "value_1": 26,
+    "value_2": 6
+  },
+  "14862": {
+    "base": 14860,
+    "id": 14862,
+    "level": 3,
+    "next": 14863,
+    "prev": 14861,
+    "upgrade_id": 10003,
+    "value_1": 27,
+    "value_2": 7
+  },
+  "14863": {
+    "base": 14860,
+    "id": 14863,
+    "level": 4,
+    "next": 14864,
+    "prev": 14862,
+    "upgrade_id": 10004,
+    "value_1": 28,
+    "value_2": 8
+  },
+  "14864": {
+    "base": 14860,
+    "id": 14864,
+    "level": 5,
+    "next": 14865,
+    "prev": 14863,
+    "upgrade_id": 10005,
+    "value_1": 29,
+    "value_2": 9
+  },
+  "14865": {
+    "base": 14860,
+    "id": 14865,
+    "level": 6,
+    "next": 14866,
+    "prev": 14864,
+    "upgrade_id": 10006,
+    "value_1": 30,
+    "value_2": 10
+  },
+  "14866": {
+    "base": 14860,
+    "id": 14866,
+    "level": 7,
+    "next": 14867,
+    "prev": 14865,
+    "upgrade_id": 10007,
+    "value_1": 31,
+    "value_2": 11
+  },
+  "14867": {
+    "base": 14860,
+    "id": 14867,
+    "level": 8,
+    "next": 14868,
+    "prev": 14866,
+    "upgrade_id": 10008,
+    "value_1": 32,
+    "value_2": 12
+  },
+  "14868": {
+    "base": 14860,
+    "id": 14868,
+    "level": 9,
+    "next": 14869,
+    "prev": 14867,
+    "upgrade_id": 10009,
+    "value_1": 33,
+    "value_2": 13
+  },
+  "14869": {
+    "base": 14860,
+    "id": 14869,
+    "level": 10,
+    "next": 14870,
+    "prev": 14868,
+    "upgrade_id": 10010,
+    "value_1": 34,
+    "value_2": 14
+  },
+  "14870": {
+    "base": 14860,
+    "id": 14870,
+    "level": 11,
+    "next": 0,
+    "prev": 14869,
+    "skill_upgrade": [
+      [
+        115090,
+        115110
+      ]
+    ],
+    "upgrade_id": 10011,
+    "value_1": 35,
     "value_2": 15
   },
   "1010100": {
@@ -29872,6 +32262,17 @@
     14388,
     14389,
     14390,
+    14400,
+    14401,
+    14402,
+    14403,
+    14404,
+    14405,
+    14406,
+    14407,
+    14408,
+    14409,
+    14410,
     14420,
     14421,
     14422,
@@ -29948,6 +32349,182 @@
     14547,
     14548,
     14549,
-    14550
+    14550,
+    14560,
+    14561,
+    14562,
+    14563,
+    14564,
+    14565,
+    14566,
+    14567,
+    14568,
+    14569,
+    14570,
+    14580,
+    14581,
+    14582,
+    14583,
+    14584,
+    14585,
+    14586,
+    14587,
+    14588,
+    14589,
+    14590,
+    14600,
+    14601,
+    14602,
+    14603,
+    14604,
+    14605,
+    14606,
+    14607,
+    14608,
+    14609,
+    14610,
+    14620,
+    14621,
+    14622,
+    14623,
+    14624,
+    14625,
+    14626,
+    14627,
+    14628,
+    14629,
+    14630,
+    14640,
+    14641,
+    14642,
+    14643,
+    14644,
+    14645,
+    14646,
+    14647,
+    14648,
+    14649,
+    14650,
+    14660,
+    14661,
+    14662,
+    14663,
+    14664,
+    14665,
+    14666,
+    14667,
+    14668,
+    14669,
+    14670,
+    14680,
+    14681,
+    14682,
+    14683,
+    14684,
+    14685,
+    14686,
+    14687,
+    14688,
+    14689,
+    14690,
+    14700,
+    14701,
+    14702,
+    14703,
+    14704,
+    14705,
+    14706,
+    14707,
+    14708,
+    14709,
+    14710,
+    14720,
+    14721,
+    14722,
+    14723,
+    14724,
+    14725,
+    14726,
+    14727,
+    14728,
+    14729,
+    14730,
+    14740,
+    14741,
+    14742,
+    14743,
+    14744,
+    14745,
+    14746,
+    14747,
+    14748,
+    14749,
+    14750,
+    14760,
+    14761,
+    14762,
+    14763,
+    14764,
+    14765,
+    14766,
+    14767,
+    14768,
+    14769,
+    14770,
+    14780,
+    14781,
+    14782,
+    14783,
+    14784,
+    14785,
+    14786,
+    14787,
+    14788,
+    14789,
+    14790,
+    14800,
+    14801,
+    14802,
+    14803,
+    14804,
+    14805,
+    14806,
+    14807,
+    14808,
+    14809,
+    14810,
+    14820,
+    14821,
+    14822,
+    14823,
+    14824,
+    14825,
+    14826,
+    14827,
+    14828,
+    14829,
+    14830,
+    14840,
+    14841,
+    14842,
+    14843,
+    14844,
+    14845,
+    14846,
+    14847,
+    14848,
+    14849,
+    14850,
+    14860,
+    14861,
+    14862,
+    14863,
+    14864,
+    14865,
+    14866,
+    14867,
+    14868,
+    14869,
+    14870
   ]
 }

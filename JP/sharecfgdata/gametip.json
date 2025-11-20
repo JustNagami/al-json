@@ -378,6 +378,9 @@
   "activity_puzzle_get15": {
     "tip": "<color=#92fc63FF>入手方法\n限定任務6</color>"
   },
+  "activity_remain_time": {
+    "tip": "イベント残り"
+  },
   "activity_return_reward_pt": {
     "tip": "カムバックPt："
   },
@@ -1513,7 +1516,7 @@
     "tip": "出撃するための燃料が不足しています"
   },
   "battle_preCombatLayer_auto_confirm": {
-    "tip": "選択中の編成をオススメ編成に変更しますか？"
+    "tip": "選択中の編成をおすすめ編成で再編成しますか？"
   },
   "battle_preCombatLayer_boss_destruct": {
     "tip": "自爆を阻止した上ボス撃破"
@@ -2017,6 +2020,13 @@
       }
     ]
   },
+  "battlepass_main_help_2512": {
+    "tip": [
+      {
+        "info": "■キャンペーン開催期間\n 2025.12.1（月）0:00～2026.1.31（土）23:59\n\n■概要\n「シーズン任務」とは、キャンペーン開催中の任務をクリアし「進捗Pt」を集め、入手した進捗Ptに応じた累計獲得数報酬が手に入るキャンペーンになります。\nまた、通常の累計獲得数報酬に追加する形で「SP報酬」が存在し、ショップアイテム「クルーズパス」を購入すると、SP報酬も入手可能となります。\n通常報酬からは艦船「ボイシ(META)」、SP報酬からは潜水空母「伊13」の限定着せ替え「ほろ酔いに熱冷まし」を入手できます。\n\n■遊び方\n・「シーズン任務」キャンペーンの開始と同時に、2種類の任務が開放されます。\n ①週次開放任務\n キャンペーン開始時とキャンペーン期間中毎週月曜日0時に開放される任務。全8グループ\n ②全期間任務\n 最初から全開放される任務。全1グループ\n・上記「シーズン任務」はすべて自動受領済となり、また「シーズン任務」画面を開いた際、既に完成条件を満たしている任務はクリア状態となり、「進捗Pt」を自動で入手できます。\n さらに「クルーズパス」を購入すると、15段階分の報酬（進捗Pt1500）が入手可能となります。\n・「進捗Pt」の累計入手数に応じて、進捗Pt累計獲得数報酬を入手できます。累計獲得数報酬は2種類存在します。\n ①通常報酬\n 「進捗Pt」の入手数に応じて獲得できる報酬。全100段階となります\n ②SP報酬\n 「クルーズパス」を購入すると開放される追加報酬。通常報酬と同じく全100段階存在し、通常報酬と同じ段階のSP報酬が入手できます。\n・キャンペーンが終了すると、入手済みの進捗Ptはリセットされます。\n\n■Tips\n・プレイスタイル\n シーズン任務は全100段階あり、いきなり最後まではクリアできない仕様になっております。いつものクエストをくり返しながら任務をこなしていくか、狙いの報酬を決めて最短ペースでクリアしていくかなど、自分のプレイスタイルに合わせてプレイすることをオススメします。\n\n・クルーズパス\n ショップで「クルーズパス」を購入すると、お得なアイテムとともに「進捗Pt」を1500Pt入手できます。また、追加の限定着せ替えは「クルーズパス」を購入して開放される「SP報酬」でのみ入手できます。要注意。\n\n・任務のスキップ（オススメしません）\n 「シーズン任務」の「任務一覧」画面で、各任務の右側の矢印ボタンをタップすると、任務を自動でスキップ（クリア状態にする）し、進捗Ptを入手出来る「シーズン任務チケット」の購入・使用が可能です。\n ダイヤを消費しますので、オススメしません。\n 「シーズン任務チケット」はキャンペーン終了後も所持し続けることができます。"
+      }
+    ]
+  },
   "battlepass_main_time": {
     "tip": "$1日$2時間"
   },
@@ -2106,6 +2116,9 @@
   },
   "battlepass_main_tip_2510": {
     "tip": "2025/10/1-2025/11/30キャンペーン期間中、シーズン任務累計<icon name=pt w=0.5 h=0.5/>入手報酬で<color=#854747>「デューイ(META)」</color>などを入手可能"
+  },
+  "battlepass_main_tip_2512": {
+    "tip": "2025/12/1-2026/1/31キャンペーン期間中、シーズン任務累計<icon name=pt w=0.5 h=0.5/>入手報酬で<color=#854747>「ボイシ(META)」</color>などを入手可能"
   },
   "battlepass_pay_acquire": {
     "tip": "購入時に獲得："
@@ -2241,6 +2254,34 @@
   },
   "bismarck_chapter_desc": {
     "tip": "実績達成で記念アイテムGET！"
+  },
+  "black5_bundle_button": {
+    "tip": "パック"
+  },
+  "black5_bundle_buy_all": {
+    "tip": "全て購入"
+  },
+  "black5_bundle_desc": {
+    "tip": "対象着せ替え3着購入で誓いの指輪入手可能"
+  },
+  "black5_bundle_help": {
+    "tip": [
+      {
+        "info": "対象の新規着せ替えを着せ替えショップにて購入済みの場合、購入した分のダイヤが割引されます。\nまた、パック購入の際に、着せ替えクーポンを適用することができません。着せ替えクーポンは着せ替えショップで対象着せ替えを購入する際に適用できます"
+      }
+    ]
+  },
+  "black5_bundle_popup": {
+    "tip": "ダイヤ<color=#92fc63>$1</color>を消費し<color=#92fc63>$2</color>を購入しますか？"
+  },
+  "black5_bundle_purchased": {
+    "tip": "購入済"
+  },
+  "black5_bundle_receive": {
+    "tip": "特典入手"
+  },
+  "black5_bundle_tip": {
+    "tip": "購入で一括入手"
   },
   "black_white_grid_notice": {
     "tip": [
@@ -2662,16 +2703,16 @@
     "tip": "施設を増築しますか？"
   },
   "buildship_heavy_tip": {
-    "tip": "「リュッツォウ」「ザイドリッツ」「ヨルク」常設実装！"
+    "tip": "「武蔵」「羽黒」常設実装！"
   },
   "buildship_light_tip": {
-    "tip": "「エムデン」「エルビング」常設実装！"
+    "tip": "「若月」「酒匂」常設実装！"
   },
   "buildship_new_tip": {
-    "tip": "期間限定建造を累計200回行うと「白鳳」を確定で入手可能！（最大4隻まで）"
+    "tip": "「夜刀神十香」「五河琴里」など出現率がUP!"
   },
   "buildship_special_tip": {
-    "tip": "「レオナルド・ダ・ヴィンチ」常設実装！"
+    "tip": "「武蔵」常設実装！"
   },
   "buleprint_need_level_tip": {
     "tip": "該当艦がレベル$1で開放"
@@ -4455,7 +4496,7 @@
     "tip": "每日上限(未使用)"
   },
   "common_dont_remind_dur_login": {
-    "tip": "次回アプリ起動まで表示しない"
+    "tip": "<size=30>次回起動まで表示しない</size>"
   },
   "common_elite_no_quota": {
     "tip": "今日はこれ以上出撃できません"
@@ -5091,6 +5132,13 @@
       }
     ]
   },
+  "cruise_task_help_2512": {
+    "tip": [
+      {
+        "info": "■シーズン任務について\n・「シーズン任務」キャンペーンの開始と同時に、2種類の任務が開放されます。\n ①週次開放任務\n キャンペーン開始時とキャンペーン期間中毎週月曜日0時に開放される任務。全8グループ\n ②全期間任務\n 最初から全開放される任務。全1グループ\n\n・「シーズン任務」はすべて自動受領済となり、また「シーズン任務」画面を開いた際、既に完成条件を満たしている任務はクリア状態となり、「進捗Pt」を自動で入手できます。\n\n・「シーズン任務」の「任務一覧」画面で、各任務の右側の矢印ボタンをタップすると、任務を自動でスキップ（クリア状態にする）し、進捗Ptを入手出来る「シーズン任務チケット」の購入・使用が可能です。\n ダイヤを消費しますので、オススメしません……\n 「シーズン任務チケット」はキャンペーン終了後も所持し続けることができます。"
+      }
+    ]
+  },
   "cruise_task_phase": {
     "tip": "累計進捗.$1"
   },
@@ -5138,6 +5186,9 @@
   },
   "cruise_title_2510": {
     "tip": "シーズン任務・25期"
+  },
+  "cruise_title_2512": {
+    "tip": "シーズン任務・26期"
   },
   "cryptolalia_coming_soom": {
     "tip": "日服不用这个"
@@ -5238,6 +5289,156 @@
   },
   "dailyLevel_unopened": {
     "tip": "準備中です"
+  },
+  "dal_AwardPage_name_1": {
+    "tip": "Gear"
+  },
+  "dal_AwardPage_name_2": {
+    "tip": "Module"
+  },
+  "dal_chapter_goto": {
+    "tip": "確認へ"
+  },
+  "dal_chapter_tip": {
+    "tip": "コラボイベント『DATE A LANE』共闘ステージについて：\n 1.イベント期間中AREA1～AREA6の合計6つの共闘ステージが出現します。共闘ステージをクリアすると、イベントPtアイテム「戦役貢献」を入手できます。\n 　共闘ステージはそれぞれノーマル/ハードの難易度が存在し、難易度によって入手する「戦役貢献」の数が異なり、また一部報酬の入手確率が異なります。\n 2.共闘ステージでは、所属サーバーの全ての指揮官のステージでの「戦役貢献」累計獲得数に応じて、作戦進捗が変動（ステージゲージが減少）していきます。\n 3.共闘ステージは始めはAREA1のみが出現します。AREA1ステージのゲージが0%になると、AREA2～AREA5ステージが開放されます。AREA2～AREA5ステージのゲージが全部0%になると、AREA6ステージが開放されます。\n   コラボイベント参加時にすでにイベントステージがクリア「完全制圧」になっている場合でも、引き続き当該ステージに挑戦することができます。また、「完全制圧」のステージを1度クリアすると、作戦進捗ストーリーが解放され、次のステージに挑戦できるようになります。\n 4.共闘ステージのゲージが0%になると、イベントに参加した指揮官に完全制圧報酬がメールで配布されます。\n 5.ステージのゲージが0％になるまでに当該ステージを一度もクリアしいなかった指揮官には、報酬を入手できる特殊任務が出現します。\n\n  <飛空艦強化>\n 1.イベントステージ選択画面の右下の「飛空艦強化」をタップすると、飛空艦強化画面に移動できます。 2.「飛空艦強化」では、コラボイベント任務で入手した「フラクシナスAL強化データ」を消費し、それぞれの陣営の強化モジュールを有効化できます。モジュールを有効化すると、コラボステージで艦隊に強化効果が付与されます。\n"
+  },
+  "dal_chapter_tip2": {
+    "tip": "限定任務で報酬を入手可能"
+  },
+  "dal_main_sheet1": {
+    "tip": "一覧"
+  },
+  "dal_main_sheet1_en": {
+    "tip": "Main Page"
+  },
+  "dal_main_sheet2": {
+    "tip": "累計Pt"
+  },
+  "dal_main_sheet2_en": {
+    "tip": "Milestone"
+  },
+  "dal_main_sheet3": {
+    "tip": "夢魔狂想曲"
+  },
+  "dal_main_sheet3_en": {
+    "tip": "Kurumi Event"
+  },
+  "dal_main_sheet4": {
+    "tip": "日常編"
+  },
+  "dal_main_sheet4_en": {
+    "tip": "Side Stories"
+  },
+  "dal_main_sheet5": {
+    "tip": "報酬一覧"
+  },
+  "dal_main_sheet5_en": {
+    "tip": "Reward List"
+  },
+  "DAL_stage_finish_at": {
+    "tip": "完了済："
+  },
+  "DAL_stage_label_analysis_1": {
+    "tip": "分析中"
+  },
+  "DAL_stage_label_analysis_2": {
+    "tip": "分析完了"
+  },
+  "DAL_stage_label_commander": {
+    "tip": "指揮システム"
+  },
+  "DAL_stage_label_data": {
+    "tip": "海域情報"
+  },
+  "DAL_stage_label_support": {
+    "tip": "空中支援"
+  },
+  "DAL_story_tip": {
+    "tip": "ストーリーを読み、限定装備外装をGET"
+  },
+  "dal_story_tip1": {
+    "tip": "ストーリーを読むと\n報酬を入手可能"
+  },
+  "dal_story_tip2": {
+    "tip": "ストーリー確認で入手"
+  },
+  "dal_story_tip3": {
+    "tip": "完了済"
+  },
+  "dal_story_tip_name_en_1": {
+    "tip": "AREA-1"
+  },
+  "dal_story_tip_name_en_2": {
+    "tip": "AREA-2"
+  },
+  "dal_story_tip_name_en_3": {
+    "tip": "AREA-3"
+  },
+  "dal_story_tip_name_en_4": {
+    "tip": "AREA-4"
+  },
+  "dal_story_tip_name_en_5": {
+    "tip": "AREA-5"
+  },
+  "dal_story_tip_name_en_6": {
+    "tip": "AREA-6"
+  },
+  "DAL_upgrade_active": {
+    "tip": "適用中"
+  },
+  "DAL_upgrade_not_enough": {
+    "tip": "限定任務をクリアし、フラクシナスAL強化データを入手しましょう"
+  },
+  "DAL_upgrade_program": {
+    "tip": "飛空艦強化"
+  },
+  "DAL_upgrade_ship": {
+    "tip": "飛空艦強化"
+  },
+  "DAL_upgrade_unlock": {
+    "tip": "未開放"
+  },
+  "danmachi_award_1": {
+    "tip": "艦船"
+  },
+  "danmachi_award_2": {
+    "tip": "家具"
+  },
+  "danmachi_award_3": {
+    "tip": "装備外装"
+  },
+  "danmachi_award_4": {
+    "tip": "特殊装備"
+  },
+  "danmachi_award_get": {
+    "tip": "入手済"
+  },
+  "danmachi_award_name1": {
+    "tip": "ヘスティア"
+  },
+  "danmachi_award_name2": {
+    "tip": "リュー・リオン"
+  },
+  "danmachi_award_unget": {
+    "tip": "未入手"
+  },
+  "danmachi_main_sheet1": {
+    "tip": "青空の下で出会いを"
+  },
+  "danmachi_main_sheet2": {
+    "tip": "消えない聖火"
+  },
+  "danmachi_main_sheet3": {
+    "tip": "止まない疾風"
+  },
+  "danmachi_main_sheet4": {
+    "tip": "邂逅の旅"
+  },
+  "danmachi_main_sheet5": {
+    "tip": "報酬一覧"
+  },
+  "danmachi_main_time": {
+    "tip": "残り$1時間"
   },
   "data_erro": {
     "tip": "寮舎データにエラーが発生しました"
@@ -5668,6 +5869,9 @@
   },
   "dorm3d_furnitrue_type_floor": {
     "tip": "床"
+  },
+  "dorm3d_furnitrue_type_special": {
+    "tip": "特典"
   },
   "dorm3d_furnitrue_type_table": {
     "tip": "テーブル"
@@ -6164,6 +6368,9 @@
   "dorm3d_shop_tag7": {
     "tip": "特殊演出開放（対応キャラのビーチ配置が必要）"
   },
+  "dorm3d_shop_tag8": {
+    "tip": "サイハイ演出開放"
+  },
   "dorm3d_shop_title": {
     "tip": "宿舎ショップ"
   },
@@ -6208,6 +6415,9 @@
   },
   "dorm3d_touch": {
     "tip": "タッチ"
+  },
+  "dorm3d_touch2": {
+    "tip": "タッチ($1)"
   },
   "dorm3d_unlock_tips": {
     "tip": "親愛度$1で開放"
@@ -6494,6 +6704,27 @@
   },
   "equip_ammo_type_11": {
     "tip": "ミサイル"
+  },
+  "equip_enhancement_finish": {
+    "tip": "強化完了"
+  },
+  "equip_enhancement_lv": {
+    "tip": "LV"
+  },
+  "equip_enhancement_lv1": {
+    "tip": "1レベル強化"
+  },
+  "equip_enhancement_lvx": {
+    "tip": "レベル$1まで強化"
+  },
+  "equip_enhancement_required": {
+    "tip": "消費素材："
+  },
+  "equip_enhancement_tip": {
+    "tip": "素材が不足しています"
+  },
+  "equip_enhancement_title": {
+    "tip": "強化"
   },
   "equip_info_1": {
     "tip": "ダメージ"
@@ -7280,6 +7511,18 @@
       }
     }
   },
+  "fengfanV3_20251023_jinianshouce": {
+    "tip": "実績"
+  },
+  "fengfanV3_20251023_Sidebar1": {
+    "tip": "テンペスタと自由群島"
+  },
+  "fengfanV3_20251023_Sidebar2": {
+    "tip": "自由群島補給地"
+  },
+  "fengfanV3_20251023_Sidebar3": {
+    "tip": "ハロウィンII"
+  },
   "fenjie_lantu_tip": {
     "tip": "対応の特別計画艦が強化レベル30に達成した場合、余剰強化ユニットを分解できます"
   },
@@ -7757,6 +8000,12 @@
   },
   "genBtn_text": {
     "tip": "送信する"
+  },
+  "general_activity_side_bar1": {
+    "tip": "ピット・スタンバイ"
+  },
+  "general_activity_side_bar2": {
+    "tip": "着せ替え特集"
   },
   "gift_act_drawline_help": {
     "tip": [
@@ -12362,6 +12611,9 @@
   "island_card_word_title": {
     "tip": "離島挨拶"
   },
+  "island_chara_attr_help": {
+    "tip": "1.仲間の<color=#39bfff>能力（ステータス）</color>が高いと、対応の<color=#39bfff>グレード</color>も上昇します\n2.<color=#39bfff>グレード</color>が高いと、<color=#39bfff>当該能力に対応する作業</color>を行う際、<color=#39bfff>効率</color>が上昇します\n3.<color=#39bfff>グレード</color>別の<color=#39bfff>能力</color>範囲について：\n\t<color=#E79CC6>S</color> 能力>=200\n\t<color=#FFDC1C>A</color> 120<=能力<200\n\t<color=#B7A4FF>B</color> 80<=能力<120\n\t<color=#97CFF6>C</color> 50<=能力<80\n\t<color=#757577>D</color> 25<=能力<50\n\t<color=#757577>E</color> 0<=能力<25"
+  },
   "island_chara_attribute1": {
     "tip": "農業"
   },
@@ -12439,6 +12691,9 @@
   },
   "island_chara_list_sort": {
     "tip": "ソート"
+  },
+  "island_chara_list_workspeed": {
+    "tip": "作業効率"
   },
   "island_chara_now_rank": {
     "tip": "現在★"
@@ -12564,7 +12819,7 @@
     "tip": "入手済"
   },
   "island_draw_help": {
-    "tip": "星彩賞は「星彩チケット」を消費し、ランダムでS・A・B・Cランクの賞品アイテムを入手できます。\n 1.星彩賞の「星彩チケット」は離島経営の各種コンテンツを遊ぶか、ダイヤを消費して購入することが出来ます。\n 2.星彩賞の各ランクの賞品はそれぞれ総数が固定であり、出現確率が同じになります。一度賞品を入手すると、その賞品が開催期間中再度出現することがありません。\n   また、S賞の賞品については、入手の順番（出現順番）を変更することができます。\n 3.星彩賞は期毎に期間限定で開催されます。星彩賞の開催期間が終了すると、賞品のラインナップが更新されます。\n 4.星彩賞の開催期間中に賞品を一定個数入手（引く）すると、星彩賞の画面で「累計入手回数報酬」を選んで入手できます。「累計入手回数報酬」の累計入手回数カウントは開催期間終了後にリセットされます。\n 5.星彩賞の開催期間終了時、賞品が全部入手されていなく、かつ「星彩チケット」を所持している場合、賞品を全部入手できるよう自動で「星彩チケット」が消費されます。\n 　賞品が全部入手された場合、余った「星彩チケット」は自動でダイヤに変換されます。\n 　この方法で自動入手した賞品・変換されたダイヤはメールボックスに送られます。"
+    "tip": "星彩賞は「星彩チケット」を消費し、ランダムでS・A・B・Cランクの賞品アイテムを入手できます。\n 1.星彩賞の「星彩チケット」は離島経営の各種コンテンツを遊ぶか、ダイヤを消費して購入することができます。\n 2.星彩賞の各ランクの賞品はそれぞれ総数が固定であり、出現確率が同じになります。一度賞品を入手すると、その賞品が開催期間中再度出現することはありません。\n   また、S賞の賞品については、入手の<color=#39bfff>順番（出現順番）を変更</color>することができます。\n 3.星彩賞は期毎に期間限定で開催されます。星彩賞の開催期間が終了すると、賞品のラインナップが<color=#39bfff>更新</color>されます。\n 4.星彩賞の開催期間中に賞品を一定個数入手（引く）すると、星彩賞の画面で「累計入手回数報酬」を選んで入手できます。「累計入手回数報酬」の累計入手回数カウントは開催期間終了後にリセットされます。\n 5.星彩賞の開催期間終了時、賞品が全部入手されていなく、かつ「星彩チケット」を所持している場合、<color=#39bfff>賞品を全部入手できるよう自動で「星彩チケット」が消費</color>されます。\n 　賞品が全部入手された場合、余った「星彩チケット」は自動で<color=#39bfff>ダイヤに変換</color>されます。\n 　この方法で自動入手した賞品・変換されたダイヤはメールボックスに送られます。"
   },
   "island_draw_last": {
     "tip": "残り："
@@ -12664,6 +12919,12 @@
   },
   "island_dress_skin_buy": {
     "tip": "$1を消費し$2を購入しますか？"
+  },
+  "island_dresscolorunlock": {
+    "tip": "開放"
+  },
+  "island_dresscolorunlock_tips": {
+    "tip": "開放消費"
   },
   "island_dressup_tip": {
     "tip": "外見を確定しますか？あとでも変更できます"
@@ -12779,6 +13040,12 @@
   "island_guide_help": {
     "tip": "離島のキャラ関連のコンテンツを開放することで図鑑Ptを貯めることができます。図鑑Ptが貯まると図鑑Lvが上がり、対応の図鑑報酬を開放できます：\n\n1.キャラを<color=#39bfff>入手（離島権限認証を完了）</color>すると、キャラ1名につき<color=#39bfff>20</color>の図鑑Ptを入手できます\n2.キャラを<color=#39bfff>突破（職責の星を使用する）</color>すると、突破する毎に<color=#39bfff>30</color>の図鑑Ptを入手でき、更に★5に突破した場合追加で<color=#39bfff>10</color>の図鑑Ptを入手できます\n3.キャラを育成し<color=#39bfff>離島でのレベルが50到達</color>させると、図鑑Ptを<color=#39bfff>50</color>入手可能"
   },
+  "island_guide_help_item": {
+    "tip": "離島のキャラ関連のコンテンツを開放することで図鑑Ptを貯めることができます。図鑑Ptが貯まると図鑑Lvが上がり、対応の図鑑報酬を開放できます：\n\n1.資源<color=#39bfff>解放</color>：図鑑で資源を解放すると、図鑑Ptを<color=#39bfff>20</color>入手可能\n2.資源<color=#39bfff>入手</color>：報酬の入手条件に定められた数の資源を入手すると、図鑑Ptを入手可能。それぞれの資源の報酬段階と必要な入手数は図鑑で確認できます"
+  },
+  "island_guide_help_npc": {
+    "tip": "離島のキャラ関連のコンテンツを開放することで図鑑Ptを貯めることができます。図鑑Ptが貯まると図鑑Lvが上がり、対応の図鑑報酬を開放できます：\nNPCキャラとインタラクトすると、図鑑を解放でき図鑑Ptを入手できます"
+  },
   "island_guide_item": {
     "tip": "資源"
   },
@@ -12888,6 +13155,43 @@
       "1": {
         "icon": {
           "atlas": "helpbg/island_help_cafe_minigame",
+          "path": ""
+        }
+      },
+      "defaultpage": 1,
+      "disableScroll": true,
+      "helpSize": {
+        "x": 1176,
+        "y": 1024
+      },
+      "ImageMode": true,
+      "pageMode": true,
+      "windowPos": {
+        "y": -70
+      },
+      "windowSize": {
+        "x": 1263,
+        "y": 873
+      }
+    }
+  },
+  "island_help_character_info": {
+    "tip": {
+      "1": {
+        "icon": {
+          "atlas": "helpbg/island_help_character_info1",
+          "path": ""
+        }
+      },
+      "2": {
+        "icon": {
+          "atlas": "helpbg/island_help_character_info2",
+          "path": ""
+        }
+      },
+      "3": {
+        "icon": {
+          "atlas": "helpbg/island_help_character_info3",
           "path": ""
         }
       },
@@ -13274,6 +13578,18 @@
           "path": ""
         }
       },
+      "4": {
+        "icon": {
+          "atlas": "helpbg/island_help_ship_order4",
+          "path": ""
+        }
+      },
+      "5": {
+        "icon": {
+          "atlas": "helpbg/island_help_ship_order5",
+          "path": ""
+        }
+      },
       "defaultpage": 1,
       "disableScroll": true,
       "helpSize": {
@@ -13322,6 +13638,25 @@
       }
     }
   },
+  "island_helpbtn_card": {
+    "tip": [
+      {
+        "info": "プロフィール画面では指揮官の離島情報が展示されます。<color=#39bfff>チャット</color>と<color=#39bfff>訪問</color>機能でほかの指揮官のプロフィールを確認できます。\n<color=#E58A00>実績展示</color>：タップすると達成済みの<color=#39bfff>実績</color>をプロフィールで展示できます。\n<color=#E58A00>離島名変更</color>：タップすると離島名称を変更できます。\n<color=#E58A00>あいさつ修正</color>：タップするとプロフィールで表示されるあいさつを修正できます。\n<color=#E58A00>タグ設定</color>：入手済みの評判タグを確認できます。\n<color=#E58A00>離島写真</color>：タップで離島の表示写真を変更することができます。"
+      }
+    ]
+  },
+  "island_helpbtn_commission": {
+    "tip": "「一括管理」では、解放済みの<color=#39bfff>生産</color>・<color=#39bfff>経営</color>・<color=#39bfff>定期補給</color>状況を確認・管理できます。\n<color=#E58A00>生産</color>：<color=#39bfff>配置枠</color>をタップすると、キャラ配置・生産物入手を行うことができます。<color=#39bfff>切り替えボタン</color>をタップするとキャラの配置状況・生産物を確認できます。\n<color=#E58A00>経営</color>：<color=#39bfff>経営準備</color>をタップすると、スタッフ配置・販売メニュー選択を確認できます。<color=#39bfff>経営開始</color>をタップすると売上を回収できます。\n<color=#E58A00>補給</color>：<color=#39bfff>補給ボタン</color>をタップすると、集会島定期補給の受領地点に瞬時に移動できます。"
+  },
+  "island_helpbtn_order": {
+    "tip": "<color=#E58A00>離島依頼</color>：指定された<color=#39bfff>資源</color>を消費すると離島依頼を完遂することができます。依頼を完遂すると<color=#39bfff>開発資金</color>と<color=#39bfff>離島開発EXP</color>を入手できます。\n<color=#E58A00>緊急依頼</color>：<color=#39bfff>技術研究</color>で緊急依頼の技術を研究すると開放されます。離島での<color=#39bfff>時間経過</color>・<color=#39bfff>通常依頼完遂</color>・<color=#39bfff>輸送委託受注</color>時に確率で緊急依頼が出現します。\n<color=#E58A00>依頼上限</color>：通常依頼と緊急依頼はそれぞれ完遂数上限が存在します。通常依頼は<color=#39bfff>毎日</color>、緊急依頼は<color=#39bfff>毎週</color>上限がリセットされます。\n<color=#E58A00>依頼傾向</color>：「依頼傾向」項目で、出現する離島依頼の難易度を変更できます。変更結果は<color=#39bfff>次の依頼出現時</color>に反映されます。"
+  },
+  "island_helpbtn_speedup": {
+    "tip": "加速券を使用すると、<color=#39bfff>配置枠での生産作業時間</color>、<color=#39bfff>離島依頼の準備時間</color>などを短縮させることができます。\n\nそれぞれの加速券によって<color=#39bfff>短縮できる時間は異なります</color>。超過した短縮時間分は<color=#FD5650>返還されません</color>。また、加速券には<color=#39bfff>使用期限</color>が存在し、使用期限が過ぎると加速券が自動で<color=#FD5650>無効</color>になります。"
+  },
+  "island_helpbtn_technology": {
+    "tip": "離島技術では、解放条件を達成済みの研究に仲間を配置し、資源を消費することで研究を開始することができます。研究を進めると、新しい<color=#39bfff>生産ポイント</color>と<color=#39bfff>生産物</color>を開放できます。\n\n<color=#E58A00>本部認証</color>\n新しい<color=#39bfff>マップ</color>、<color=#39bfff>一括管理</color>などの機能、<color=#39bfff>離島依頼</color>・<color=#39bfff>輸送委託</color>、<color=#39bfff>定期補給</color>の<color=#39bfff>追加</color>などを開放できるほか、<color=#39bfff>新しい仲間</color>の離島権限認証アイテムを入手できます。\n\n<color=#E58A00>研究</color>\n各生産ポイントの<color=#39bfff>配置作業</color>を開放できるほか、手動採集と配置作業の効率を向上させ、生産ポイントの<color=#39bfff>レシピ</color>を開放できます。"
+  },
   "island_history_desc": {
     "tip": "探検が最後まで進捗すると、隠し宝箱のヒントが出現！"
   },
@@ -13342,6 +13677,9 @@
   },
   "island_index_status": {
     "tip": "バフあり"
+  },
+  "island_information_tech": {
+    "tip": "離島技術-$1-$2"
   },
   "island_input_code_erro": {
     "tip": "コードを入力してください"
@@ -13652,8 +13990,26 @@
   "island_order_not_get_award": {
     "tip": "受取出来ません"
   },
+  "island_order_ship_btn_replace": {
+    "tip": "委託更新"
+  },
   "island_order_ship_end_work": {
     "tip": "完了済..."
+  },
+  "island_order_ship_exchange_tip": {
+    "tip": "新しい委託に更新しますか？"
+  },
+  "island_order_ship_exchange_tip_1": {
+    "tip": "新しい委託に更新しますか？（受注中の資材がある場合、更新を行うと、輸送回数が1回消費され、消費資材は返還されません）"
+  },
+  "island_order_ship_exchange_tip_2": {
+    "tip": "輸送回数が不足しています"
+  },
+  "island_order_ship_finish_cnt": {
+    "tip": "輸送回数$1/$2"
+  },
+  "island_order_ship_finish_cnt_not_enough": {
+    "tip": "リセット"
   },
   "island_order_ship_loadup": {
     "tip": "受注"
@@ -13672,6 +14028,12 @@
   },
   "island_order_ship_page_req": {
     "tip": "委託内容確認"
+  },
+  "island_order_ship_reset_all": {
+    "tip": "表示中の全ての委託を更新しますか？"
+  },
+  "island_order_ship_sel_delegate_label": {
+    "tip": "- タップで委託選択 -"
   },
   "island_order_ship_unlock_tip": {
     "tip": "技術開発で枠を開放できます"
@@ -13734,7 +14096,7 @@
     "tip": "キャラ詳細"
   },
   "island_production_collect": {
-    "tip": "生産物獲得"
+    "tip": "入手"
   },
   "island_production_cost_notenough": {
     "tip": "配置に失敗しました。キャラ体力・資源をご確認ください"
@@ -13778,8 +14140,26 @@
   "island_production_selected_tip2": {
     "tip": "キャラを選択してください"
   },
+  "island_production_speed_addition1": {
+    "tip": "<color=#39bfff>$1</color>能力"
+  },
+  "island_production_speed_addition2": {
+    "tip": "技術効果"
+  },
+  "island_production_speed_addition3": {
+    "tip": "バフ効果"
+  },
+  "island_production_speed_tip1": {
+    "tip": "作業効率 <color=#39bfff>+$1%</color>"
+  },
+  "island_production_speed_tip2": {
+    "tip": "作業効率バフ"
+  },
   "island_production_start": {
     "tip": "作業開始"
+  },
+  "island_production_tip": {
+    "tip": "/回"
   },
   "island_prosperity_level": {
     "tip": "繁栄度"
@@ -13798,6 +14178,9 @@
   },
   "island_queue_display": {
     "tip": "離島訪問数が上限になっています。待機リストに入ります\n指揮官の待機番号：$1"
+  },
+  "island_quickselect_tip": {
+    "tip": "*アイコンを長押しすると使用数を高速で増やせます"
   },
   "island_rename_confirm": {
     "tip": "離島名が変更されます：$1"
@@ -13847,6 +14230,9 @@
   "island_season_charts_level": {
     "tip": "離島開発Lv"
   },
+  "island_season_charts_out": {
+    "tip": "ランク外"
+  },
   "island_season_charts_pt": {
     "tip": "離島開発PT"
   },
@@ -13857,7 +14243,7 @@
     "tip": "開発順位は30分毎に更新されます"
   },
   "island_season_help": {
-    "tip": "1.新しいシーズンが開始すると、離島開発PTは自動でリセットされます\n22.開発シーズンでは、資源変換・特定の資源を生産・ショップ購入で離島開発PTを入手できます\n23.シーズン終了時、資源倉庫の資源は自動で開発PTに変換され、開発順位の計算において統計されます\n24.シーズンが終了すると、終了したシーズンの開発計画報酬と累計PT報酬が受け取れなくなります"
+    "tip": "1.新しいシーズンが開始すると、離島開発PTは<color=#FD5650>自動でリセット</color>されます\n 2.開発シーズンでは、<color=#39bfff>資源変換</color>・<color=#39bfff>特定の資源を生産</color>・<color=#39bfff>離島イベント参加</color>・<color=#39bfff>ショップ購入</color>で離島開発PTを入手できます\n 3.シーズン終了時、資源倉庫の資源は<color=#FD5650>自動で開発PTに変換</color>され、開発順位の計算において統計されます\n 4.シーズンが終了すると、<color=#39bfff>離島依頼、輸送委託、配置作業、手動での栽培、店舗経営</color>など、各種進行中のタスクがリセットされます。\n 5.終了したシーズンの開発計画報酬と累計PT報酬が<color=#39bfff>受け取れなくなります</color>。"
   },
   "island_season_pt": {
     "tip": "累計PT"
@@ -13953,7 +14339,7 @@
     "tip": "最終順位"
   },
   "island_season_window_rule": {
-    "tip": "1.シーズンが終了すると、資源倉庫の資源は自動で開発PTに変換され、開発順位の計算において統計されます。また、一時倉庫の中身がクリアされ、進行中の依頼・輸送委託・料理制作・仲間の生産配置もリセットされます\n2.シーズンが終了すると、終了したシーズンの開発計画報酬と累計PT報酬が受け取れなくなります\n3.新しいシーズンが開始すると、開発PTは自動でリセットされます"
+    "tip": "1.シーズンが終了すると、資源倉庫の資源は<color=#FD5650>自動で開発PTに変換</color>され、開発順位の計算において統計されます。また、一時倉庫の中身がクリアされます。\n 2.進行中の<color=#39bfff>離島依頼、輸送委託、配置作業、手動での栽培、店舗経営</color>など、各種進行中のタスクがリセットされます。\n 3.シーズンが終了すると、終了したシーズンの開発計画報酬と累計PT報酬が<color=#39bfff>受け取れなくなります</color>。\n 4.新しいシーズンが開始すると、開発PTは<color=#FD5650>自動でリセット</color>されます。"
   },
   "island_season_window_transformtip": {
     "tip": "選択したアイテムを変換しますか？"
@@ -13979,11 +14365,17 @@
   "island_select_ship_tip": {
     "tip": "メニューの集客力は売上に影響します。集客力が高いほど、客が購入する確率が上がります。\n集客力は担当仲間の能力（メイン・サブ）によって影響されます。\n メイン能力：集客力を著しく上昇させる能力 \nサブ能力：集客力をそこそこ上昇させる能力"
   },
+  "island_selectall": {
+    "tip": "全て"
+  },
   "island_set_like": {
     "tip": "常用設定"
   },
   "island_set_manifesto_success": {
     "tip": "修正完了"
+  },
+  "island_setmeal_benifit_title": {
+    "tip": "売上UP"
   },
   "island_setmeal_title": {
     "tip": "セット図鑑"
@@ -14057,6 +14449,18 @@
   "island_ship_no_energy": {
     "tip": "疲労"
   },
+  "island_ship_order_delegate_auto_refresh_label": {
+    "tip": "受注できる輸送委託はありません"
+  },
+  "island_ship_order_delegate_auto_refresh_time": {
+    "tip": "委託リスト自動更新まで："
+  },
+  "island_ship_order_toggle_label_award": {
+    "tip": "報酬確認"
+  },
+  "island_ship_order_toggle_label_request": {
+    "tip": "消費確認"
+  },
   "island_ship_title1": {
     "tip": "能力育成"
   },
@@ -14077,6 +14481,15 @@
   },
   "island_ship_working": {
     "tip": "作業中："
+  },
+  "island_shiporder_refresh_preparing": {
+    "tip": "輸送依頼準備中"
+  },
+  "island_shiporder_refresh_tip1": {
+    "tip": "すでに受注したため、変更できません"
+  },
+  "island_shiporder_refresh_tip2": {
+    "tip": "輸送依頼を変更しますか？"
   },
   "island_shipselect_confirm": {
     "tip": "確定"
@@ -14182,6 +14595,12 @@
   },
   "island_task_type_6": {
     "tip": "イベント"
+  },
+  "island_taskjump_placenoopen_tips": {
+    "tip": "ロケーションはまだ解放されていません"
+  },
+  "island_taskjump_systemnoopen_tips": {
+    "tip": "機能はまだ解放されていません"
   },
   "island_tech_can_get": {
     "tip": "受取可"
@@ -14323,6 +14742,16 @@
   },
   "island_upgrade_res": {
     "tip": "必要資源"
+  },
+  "island_urgent_notice": {
+    "tip": [
+      {
+        "info": "シーズンリセットについて"
+      },
+      {
+        "info": "在<color=#39bfff>11/6（木）メンテナンス後</color>、バランス調整や各種システムの改善・改修のため、現在開催中の離島経営の開発シーズンについては、開発シーズンのリセットを行わせていただきます。\n リセット後の開発シーズンは<color=#39bfff>2025年11月6日(木)メンテナンス後～2026年2月5日(木)メンテナンス</color>まで開催されます。\n 離島経営をすでにプレイした指揮官に対して<color=#39bfff>「メイン画面」-「補填」</color>にて関連の補填アイテムの配布を行わせていただきます。\n この度は「離島経営」コンテンツ実装に関して、多くのご不便とご迷惑をおかけしましたことを心よりお詫び申し上げます。\n\n  ①開発Ptについて\n 開発シーズン終了時、資源倉庫の一部の資源（倉庫の「資源」カテゴリーにて確認できます）がそれぞれの変換レートに応じてシーズン開発Ptに自動変換され、入手した開発Ptの累計数量に応じて累計Pt報酬が解放されます。\n 11/6（木）メンテナンス後に行われるシーズンリセットでは、シーズン期間は通常と異なるため、変換レートは<color=#39bfff>通常の4倍</color>で適用されます。累計Pt報酬は「メイン画面」→「補填」にて入手できます。\n  「秋の特産経営」の特産品資源が開発Ptに変換されません。\n\n  ②リセット内容について\n 1.生産・経営作業：<color=#39bfff>離島依頼、輸送委託、配置作業、手動での栽培、店舗経営</color>など、各種進行中のタスクがリセットされます。（例：メンテナンス前に店舗経営に出された料理は収益を受け取れず削除されます）\n 2.開発順位：シーズンの開発順位（ランキング）がリセットされます。また、離島経営に参加した指揮官全員に順位1位の報酬を配布する予定です。\n 3.開発計画：シーズン関連の開発計画の進捗がリセットされます。未完了の開発計画については、入手可能な星彩賞チケットを補填する予定です；リセット時点ですでに完了したものの、まだ報酬を入手していない開発計画については、その報酬の星彩賞チケットを別途配布する予定です。\n 4.開発ショップ：開発ショップの商品購入可能数がリセットされます。また、11/6（木）メンテナンス後、新しい指揮官着せ替えとモーションが販売開始されます。11/6（木）メンテナンスまで販売予定だった指揮官着せ替えとモーションのみ、2/5（木）メンテナンスまでに期間を延長します（すでに購入済みの場合、再度購入できません）。\n 5.離島依頼：11/6（木）メンテナンス時点で完了済みのイベント依頼の数に応じて<color=#39bfff>「離島シーズンPt交換チケット」</color>付与されます。「離島シーズンPt交換チケット」は離島開発Ptに変換できます。（例：11/6メンテナンス後に入手した「離島シーズンPt交換チケット」は、2/5シーズン終了時に離島開発Ptに変換されます）\n 6.その他リセットされる内容：離島依頼（デイリー・ウィークリー緊急依頼の回数と評価）、輸送委託（更新回数）、出現中の開発計画（デイリー、ウィークリー）、定期補給・定期補給受領可能回数、キャラインタラクト回数、資源採取ポイント（マップ上の採集可能な資源ポイント）、店舗の経営回数もリセットされます。\n 7.下記コンテンツはリセットされません：星彩賞（入手済みの賞品、所持中のチケット、星彩賞を引いた回数、累計回数報酬）、秋の特産経営コンテンツ（特産資源、特産制作アイテム、限定依頼、イベント計画の進捗）、加速券ははリセットされません。\n 　また、一度入手・完了するとシーズンリセット関係なく永続的に解放・所持するるコンテンツ：開発資金、離島開発レベル、離島キャラの加入と育成状況、購入・入手済みの家具/着せ替え/配置オブジェクト、離島技術の研究（完了済みの研究、研究進捗）、店舗レベル、メイン開発計画、実績などはリセットされません。"
+      }
+    ]
   },
   "island_use_ticket_success": {
     "tip": "使用成功"
@@ -16696,6 +17125,9 @@
   "meta_repair_success": {
     "tip": "艤装強化に成功しました"
   },
+  "meta_reproduce_btn": {
+    "tip": "現在のMETA戦の模擬戦闘を始めますか？\n戦闘難易度：Lv$1\n*模擬戦闘は石油を消費せず、報酬を獲得しません"
+  },
   "meta_shop_exchange_limit": {
     "tip": "未所持"
   },
@@ -16719,6 +17151,9 @@
   },
   "meta_shop_unexchange_label": {
     "tip": "未所持"
+  },
+  "meta_simulated_btn": {
+    "tip": "現在のMETA戦の模擬戦闘を始めますか？\n戦闘難易度：Lv$1\n*模擬戦闘は石油を消費せず、報酬を獲得しません"
   },
   "meta_skill_dailyexp": {
     "tip": "本日入手経験値"
@@ -20084,6 +20519,15 @@
   "sculpture_puzzle_tip": {
     "tip": "お土産のパーツを点線に囲まれたエリアまでドラッグして組み合わせよう！"
   },
+  "search_equipment": {
+    "tip": "装備名検索"
+  },
+  "search_equipment_appearance": {
+    "tip": "装備外装名検索"
+  },
+  "search_sp_equipment": {
+    "tip": "特殊装備名検索"
+  },
   "sec_floor_limit_tip": {
     "tip": "寮舎1F最大拡張完了で開放"
   },
@@ -21818,6 +22262,9 @@
   "shop_refresh_time": {
     "tip": "$1後にリセット"
   },
+  "shop_sell_ended": {
+    "tip": "交換不可"
+  },
   "shop_side_lable_en": {
     "tip": "RecommendShop"
   },
@@ -21837,7 +22284,7 @@
     "tip": "特殊装備所持数上限が増加しました"
   },
   "shop_street_activity_tip": {
-    "tip": "※<color=#A1E400FF>$1</COLOR>では<color=#A1E400FF>装備外装箱</color>が100%出現します"
+    "tip": "※<color=#539b2c>$1</COLOR>では<color=#539b2c>装備外装箱</color>が100%出現します"
   },
   "shop_street_Equipment_skin_box_help": {
     "tip": "<color=#A1E400FF>$1</COLOR>\n販売期間：<color=#A1E400FF>$2</COLOR>"
@@ -21850,6 +22297,9 @@
   },
   "shop_supply_prop_en": {
     "tip": "Props"
+  },
+  "shop_tag_control_tip": {
+    "tip": "アセットをDLできません"
   },
   "shop_title": {
     "tip": "ショップ"
@@ -22002,6 +22452,12 @@
   },
   "skinshop_live2d_fliter_failed": {
     "tip": "対象となる着せ替えはありません"
+  },
+  "skinshop_on_sale_tip": {
+    "tip": "パック販売中"
+  },
+  "skinshop_on_sale_tip_2": {
+    "tip": "福袋販売中"
   },
   "snowball_help": {
     "tip": [
@@ -24449,6 +24905,9 @@
   "word_japanese_2": {
     "tip": "②"
   },
+  "word_japanese_3": {
+    "tip": "①"
+  },
   "word_kind": {
     "tip": "種類"
   },
@@ -24830,6 +25289,12 @@
   },
   "word_shipNation_chongYing": {
     "tip": "重桜"
+  },
+  "word_shipNation_dal": {
+    "tip": "Date A Live"
+  },
+  "word_shipNation_danmachi": {
+    "tip": "danmachi"
   },
   "word_shipNation_doa": {
     "tip": "DOAXVV"
