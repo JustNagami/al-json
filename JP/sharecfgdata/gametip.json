@@ -710,6 +710,21 @@
   "Announcements_System_Notice": {
     "tip": "更新"
   },
+  "ANTTFFCoreActivity_subtitle_1": {
+    "tip": "天穹に響く音謡·F"
+  },
+  "ANTTFFCoreActivity_title": {
+    "tip": "天穹に響く音謡·F"
+  },
+  "ANTTFFCoreActivity_title2": {
+    "tip": "event"
+  },
+  "ANTTFFCoreActivityPtpage_title": {
+    "tip": "天穹に響く音謡·F"
+  },
+  "ANTTFFCoreActivityPtpage_title2": {
+    "tip": "event"
+  },
   "apartment_level_unenough": {
     "tip": "親愛度Lv$1で開放"
   },
@@ -1464,6 +1479,9 @@
   "battle_battleMediator_quest_exist": {
     "tip": "撤退すると<color=#92fc63>アイテムと艦</color>が入手できなくなります。\n撤退しますか？"
   },
+  "battle_battleMediator_quest_exist_submarine_support": {
+    "tip": "戦闘を中断すると、現在の敵ボスの耐久に応じてリザルトが集計されます。戦闘を中断しますか？"
+  },
   "battle_battleMediator_remainTime": {
     "tip": "残り時間"
   },
@@ -1649,6 +1667,9 @@
   },
   "battle_result_boss_destruct": {
     "tip": "自爆を阻止した上ボス撃破"
+  },
+  "battle_result_boss_hp_lower": {
+    "tip": "敵ボス残り耐久$1%以下"
   },
   "battle_result_confirm": {
     "tip": "確 定"
@@ -2724,7 +2745,7 @@
     "tip": "「ハムマンⅡ」常設実装！"
   },
   "buildship_new_tip": {
-    "tip": "期間限定建造を累計200回行うと「レキシントンⅡ」を確定で入手可能！（最大4隻まで）"
+    "tip": "期間限定建造を累計200回行うと「グアム」を確定で入手可能！（最大4隻まで）"
   },
   "buildship_special_tip": {
     "tip": "「ヨークタウンⅡ」「ホーネットⅡ」常設実装！"
@@ -6631,7 +6652,7 @@
     "tip": "この章のハードモードはまだ開放されていません"
   },
   "elite_fleet_confirm": {
-    "tip": "$1が出撃条件に<color=#ff5c5c>満たしていません</color>ため、戦闘に参加できませんが、本当に出撃しますか？"
+    "tip": "$1は<color=#ff5c5c>出撃条件を満たしていない</color>ため、戦闘に参加できません"
   },
   "elite_warp_to_latest_map": {
     "tip": "最新章に切り替えました"
@@ -11435,6 +11456,68 @@
       }
     }
   },
+  "help_supportfleet_16": {
+    "tip": {
+      "1": {
+        "icon": {
+          "atlas": "helpbg/supportfleet_help1",
+          "path": ""
+        }
+      },
+      "2": {
+        "icon": {
+          "atlas": "helpbg/supportfleet_help_16",
+          "path": ""
+        }
+      },
+      "defaultpage": 1,
+      "disableScroll": true,
+      "helpSize": {
+        "x": 1176,
+        "y": 1024
+      },
+      "ImageMode": true,
+      "pageMode": true,
+      "windowPos": {
+        "y": -70
+      },
+      "windowSize": {
+        "x": 1263,
+        "y": 873
+      }
+    }
+  },
+  "help_supportfleet_16_submarine": {
+    "tip": {
+      "1": {
+        "icon": {
+          "atlas": "helpbg/supportfleet_submarine_help1",
+          "path": ""
+        }
+      },
+      "2": {
+        "icon": {
+          "atlas": "helpbg/supportfleet_submarine_help2",
+          "path": ""
+        }
+      },
+      "defaultpage": 1,
+      "disableScroll": true,
+      "helpSize": {
+        "x": 1176,
+        "y": 1024
+      },
+      "ImageMode": true,
+      "pageMode": true,
+      "windowPos": {
+        "y": -70
+      },
+      "windowSize": {
+        "x": 1263,
+        "y": 873
+      }
+    }
+  },
   "help_technolog": {
     "tip": {
       "1": {
@@ -14613,6 +14696,18 @@
   },
   "island_sure_ticket_overflow": {
     "tip": "生産に必要な時間以上の加速券を選択しています。続けますか？"
+  },
+  "island_survey_ui_1": {
+    "tip": "为了更好地收集指挥官的意见与建议,司令部在此为您准备了一份问卷。"
+  },
+  "island_survey_ui_2": {
+    "tip": "问卷提交后将无法修改,请指挥官认真填写。"
+  },
+  "island_survey_ui_award": {
+    "tip": "作为感谢，完成问卷后可获得："
+  },
+  "island_survey_ui_button": {
+    "tip": "打开问卷"
   },
   "island_task_award": {
     "tip": "報酬"
@@ -21416,7 +21511,7 @@
     "tip": "選択中の <color=#92fc63>$1</color>は唯一の<color=#92fc63>$2</color>であるため、入れ替えできません！"
   },
   "ship_formationMediator_request_replace_support": {
-    "tip": "すでに支援艦隊に編成されています。編成を切り替えますか？"
+    "tip": "支援艦隊に編成されている艦船がいます。編成から外しますか？"
   },
   "ship_formationUI_changeFormationError_countError": {
     "tip": "戦闘可能艦が足りません"
@@ -21450,6 +21545,9 @@
   },
   "ship_formationUI_fleetName12": {
     "tip": "第二潜水艦隊"
+  },
+  "ship_formationUI_fleetName13": {
+    "tip": "支援艦隊"
   },
   "ship_formationUI_fleetName_1": {
     "tip": "T1 入院棟（正午）"
@@ -22975,6 +23073,9 @@
   },
   "submarine_approach_desc": {
     "tip": "敵潜水艦が海域に出現中！"
+  },
+  "submarine_support_oil_consume_tip": {
+    "tip": "潜水支援艦隊出撃は燃料を$1消費します。続けますか？"
   },
   "summary_page_un_rearch": {
     "tip": "まだ入手してい\nません"
