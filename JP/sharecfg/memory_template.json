@@ -31406,7 +31406,7 @@
     "title": "第四十二章：勇者の凱旋",
     "type": 2,
     "unlock_pre": [
-      "50003"
+      "51003"
     ]
   },
   "2361": {
@@ -31451,7 +31451,7 @@
     "title": "物語の結……末？",
     "type": 2,
     "unlock_pre": [
-      "50002"
+      "51002"
     ]
   },
   "2371": {
@@ -59538,6 +59538,261 @@
       "WEINEITUO7"
     ]
   },
+  "4961": {
+    "condition": "「特集写真――撮影進行中！」イベントに参加",
+    "icon": "memory_guangyingfengshang",
+    "id": 4961,
+    "is_open": 0,
+    "mask": "bg/bg_memory",
+    "number": 0,
+    "story": "GUANGYINGFENGSHANG1",
+    "subtitle": "",
+    "title": "撮影、スタート！",
+    "type": 1,
+    "unlock_pre": [
+      "GUANGYINGFENGSHANG1"
+    ]
+  },
+  "4962": {
+    "condition": "対応特集ページを解放する",
+    "icon": "memory_guangyingfengshang",
+    "id": 4962,
+    "is_open": 0,
+    "mask": "bg/bg_memory",
+    "number": 0,
+    "story": "GUANGYINGFENGSHANG2",
+    "subtitle": "",
+    "title": "あなたに捧げる真実",
+    "type": 1,
+    "unlock_pre": [
+      "GUANGYINGFENGSHANG2"
+    ]
+  },
+  "4963": {
+    "condition": "対応特集ページを解放する",
+    "icon": "memory_guangyingfengshang",
+    "id": 4963,
+    "is_open": 0,
+    "mask": "bg/bg_memory",
+    "number": 0,
+    "story": "GUANGYINGFENGSHANG3",
+    "subtitle": "",
+    "title": "ときめき駆け引き",
+    "type": 1,
+    "unlock_pre": [
+      "GUANGYINGFENGSHANG3"
+    ]
+  },
+  "4964": {
+    "condition": "対応特集ページを解放する",
+    "icon": "memory_guangyingfengshang",
+    "id": 4964,
+    "is_open": 0,
+    "mask": "bg/bg_memory",
+    "number": 0,
+    "story": "GUANGYINGFENGSHANG4",
+    "subtitle": "",
+    "title": "サプライズ・ゴージャスプライズ！",
+    "type": 1,
+    "unlock_pre": [
+      "GUANGYINGFENGSHANG4"
+    ]
+  },
+  "4965": {
+    "condition": "対応特集ページを解放する",
+    "icon": "memory_guangyingfengshang",
+    "id": 4965,
+    "is_open": 0,
+    "mask": "bg/bg_memory",
+    "number": 0,
+    "story": "GUANGYINGFENGSHANG5",
+    "subtitle": "",
+    "title": "イレギュラーな修行指導",
+    "type": 1,
+    "unlock_pre": [
+      "GUANGYINGFENGSHANG5"
+    ]
+  },
+  "4966": {
+    "condition": "対応特集ページを解放する",
+    "icon": "memory_guangyingfengshang",
+    "id": 4966,
+    "is_open": 0,
+    "mask": "bg/bg_memory",
+    "number": 0,
+    "story": "GUANGYINGFENGSHANG6",
+    "subtitle": "",
+    "title": "プライベートショットへの手ほどき",
+    "type": 1,
+    "unlock_pre": [
+      "GUANGYINGFENGSHANG6"
+    ]
+  },
+  "4967": {
+    "condition": "対応特集ページを解放する",
+    "icon": "memory_guangyingfengshang",
+    "id": 4967,
+    "is_open": 0,
+    "mask": "bg/bg_memory",
+    "number": 0,
+    "story": "GUANGYINGFENGSHANG7",
+    "subtitle": "",
+    "title": "手取り足取りの個人レッスン",
+    "type": 1,
+    "unlock_pre": [
+      "GUANGYINGFENGSHANG7"
+    ]
+  },
+  "4968": {
+    "condition": "対応特集ページを解放する",
+    "icon": "memory_guangyingfengshang",
+    "id": 4968,
+    "is_open": 0,
+    "mask": "bg/bg_memory",
+    "number": 0,
+    "story": "GUANGYINGFENGSHANG8",
+    "subtitle": "",
+    "title": "撮影三十六計",
+    "type": 1,
+    "unlock_pre": [
+      "GUANGYINGFENGSHANG8"
+    ]
+  },
+  "4969": {
+    "condition": "対応特集ページを解放する",
+    "icon": "memory_guangyingfengshang",
+    "id": 4969,
+    "is_open": 0,
+    "mask": "bg/bg_memory",
+    "number": 0,
+    "story": "GUANGYINGFENGSHANG9",
+    "subtitle": "",
+    "title": "キメ姿は美しい露出にあり",
+    "type": 1,
+    "unlock_pre": [
+      "GUANGYINGFENGSHANG9"
+    ]
+  },
+  "4970": {
+    "condition": "写真特集を全て完成する",
+    "icon": "memory_guangyingfengshang",
+    "id": 4970,
+    "is_open": 0,
+    "mask": "bg/bg_memory",
+    "number": 0,
+    "story": "GUANGYINGFENGSHANG10",
+    "subtitle": "",
+    "title": "ファッションの真髄",
+    "type": 1,
+    "unlock_pre": [
+      "GUANGYINGFENGSHANG10"
+    ]
+  },
+  "4971": {
+    "condition": "「投資して、しかして破綻せよ1」開始",
+    "icon": "memory_dingan",
+    "id": 4971,
+    "is_open": 0,
+    "mask": "bg/bg_memory",
+    "number": 0,
+    "story": "DINGAN1",
+    "subtitle": "",
+    "title": "危機意識",
+    "type": 1,
+    "unlock_pre": [
+      "DINGAN1"
+    ]
+  },
+  "4972": {
+    "condition": "「投資して、しかして破綻せよ2」開始",
+    "icon": "memory_dingan",
+    "id": 4972,
+    "is_open": 0,
+    "mask": "bg/bg_memory",
+    "number": 0,
+    "story": "DINGAN2",
+    "subtitle": "",
+    "title": "考察対象は……？",
+    "type": 1,
+    "unlock_pre": [
+      "DINGAN2"
+    ]
+  },
+  "4973": {
+    "condition": "「投資して、しかして破綻せよ3」開始",
+    "icon": "memory_dingan",
+    "id": 4973,
+    "is_open": 0,
+    "mask": "bg/bg_memory",
+    "number": 0,
+    "story": "DINGAN3",
+    "subtitle": "",
+    "title": "赤字確定！",
+    "type": 1,
+    "unlock_pre": [
+      "DINGAN3"
+    ]
+  },
+  "4974": {
+    "condition": "「投資して、しかして破綻せよ4」開始",
+    "icon": "memory_dingan",
+    "id": 4974,
+    "is_open": 0,
+    "mask": "bg/bg_memory",
+    "number": 0,
+    "story": "DINGAN4",
+    "subtitle": "",
+    "title": "黒字の秘密は……？",
+    "type": 1,
+    "unlock_pre": [
+      "DINGAN4"
+    ]
+  },
+  "4975": {
+    "condition": "「投資して、しかして破綻せよ5」開始",
+    "icon": "memory_dingan",
+    "id": 4975,
+    "is_open": 0,
+    "mask": "bg/bg_memory",
+    "number": 0,
+    "story": "DINGAN5",
+    "subtitle": "",
+    "title": "大損計画2.0",
+    "type": 1,
+    "unlock_pre": [
+      "DINGAN5"
+    ]
+  },
+  "4976": {
+    "condition": "「投資して、しかして破綻せよ6」開始",
+    "icon": "memory_dingan",
+    "id": 4976,
+    "is_open": 0,
+    "mask": "bg/bg_memory",
+    "number": 0,
+    "story": "DINGAN6",
+    "subtitle": "",
+    "title": "売れた商品は……？",
+    "type": 1,
+    "unlock_pre": [
+      "DINGAN6"
+    ]
+  },
+  "4977": {
+    "condition": "「投資して、しかして破綻せよ7」開始",
+    "icon": "memory_dingan",
+    "id": 4977,
+    "is_open": 0,
+    "mask": "bg/bg_memory",
+    "number": 0,
+    "story": "DINGAN7",
+    "subtitle": "",
+    "title": "真の「利益」",
+    "type": 1,
+    "unlock_pre": [
+      "DINGAN7"
+    ]
+  },
   "10000": {
     "condition": "「努力、希望と計画」開始",
     "icon": "activity",
@@ -66958,6 +67213,23 @@
     4955,
     4956,
     4957,
+    4961,
+    4962,
+    4963,
+    4964,
+    4965,
+    4966,
+    4967,
+    4968,
+    4969,
+    4970,
+    4971,
+    4972,
+    4973,
+    4974,
+    4975,
+    4976,
+    4977,
     10000,
     10001,
     10002,
