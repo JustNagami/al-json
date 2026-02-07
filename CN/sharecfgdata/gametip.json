@@ -490,7 +490,7 @@
     "tip": "更换同时加入秘书组"
   },
   "adventure_award_end_tip": {
-    "tip": "※领取时间截止至4.17 24时"
+    "tip": "※领取时间截止至2.18 24时"
   },
   "adventure_award_title": {
     "tip": "冒险等级奖励"
@@ -2156,6 +2156,13 @@
       }
     ]
   },
+  "battlepass_main_help_2602": {
+    "tip": [
+      {
+        "info": "世界巡游(2026.2.1-2026.3.31)\n\n·<color=#92fc63>开放时间</color>\n 2026.2.1 0点 ~ 2026.3.31 23:59:59\n\n·<color=#92fc63>巡游进度说明</color>\n（1）活动期间，指挥官通过完成巡游任务，可获取「巡游点数」。\n（2）巡游任务随时间开放解锁。\n（3）每获取100点「巡游点数」即可增加1巡游进度\n（4）巡游进度提升后可以获取相应等级的奖励，巡游进度最高可达100。\n\n·<color=#92fc63>奖励规则</color>\n巡游进度奖励分为两种：\n（1）基础巡游奖励：包含<color=#ff5c5c>「龙骑兵·META」</color>、<color=#ff5c5c>心智魔方</color>、<color=#ff5c5c>高级定向蓝图·八期</color>等奖励；\n 当巡游达到指定进度时，指挥官可以直接领取相应的基础巡游奖励。\n（2）特许巡游奖励：包含<color=#ff5c5c>希娜换装「击球手★全垒打 </color>」、<color=#ff5c5c>钻石</color>等奖励；\n 购买「特许巡游凭证」，且巡游达到指定进度时，可以领取特许巡游奖励。\n 注：购买「特许巡游凭证」后，不会影响基础巡游奖励的领取。\n\n·<color=#92fc63>「特许巡游凭证」说明</color>\n（1）「特许巡游凭证」可于「商店」-「优惠礼包」中购买，购买后可立刻获得<color=#ff5c5c>1500点</color>「巡游点数」同时解锁特许巡游奖励。\n（2）「特许巡游凭证」将于<color=#ff5c5c>活动结束前一小时</color>停止售卖(即3.31 22:59:59停止)，请指挥官注意购买时间。\n\n·<color=#92fc63>任务说明</color>\n巡游任务分为两种：\n（1）每周任务 \n 巡游任务中共有8组每周任务。自活动开始后解锁第一周任务，之后每周一的0点解锁下一组每周任务\n（2）S.P.任务\n S.P.任务为一组特殊任务，在活动开始后会直接处于全部解锁状态。\n（3）巡游任务在解锁后将自动接取，满足任务完成条件时，会自动完成并获取对应奖励。\n\n·<color=#92fc63>「巡游任务快速完成券」说明</color>\n（1）「巡游任务快速完成券」可以在巡游任务界面使用，花费一定数量的「巡游任务快速完成券」可以直接完成大部分巡游任务\n（2）在「巡游任务快速完成券」数量不足时，指挥官可花费钻石进行补齐\n（3）每个巡游任务需要消耗的完成券数量固定，与当前任务进度无关\n（4）「巡游任务快速完成券」不会随本期活动结束而消失\n\n·<color=#ff5c5c>特别提示</color>\n（1）在本期世界巡游活动结束后，所有巡游任务将会无法继续完成，所有巡游奖励将会无法继续领取，请各位指挥官务必注意活动结束时间，提前领取奖励。\n（2）巡游进度、[特许巡游凭证]仅对本期世界巡游活动生效"
+      }
+    ]
+  },
   "battlepass_main_time": {
     "tip": "$1天$2时"
   },
@@ -2248,6 +2255,9 @@
   },
   "battlepass_main_tip_2512": {
     "tip": "2025/12/1-2026/1/31期间，完成巡游任务累计<icon name=pt w=0.5 h=0.5/>可获取<color=#854747>「树城·META 」</color>在内的丰富奖励"
+  },
+  "battlepass_main_tip_2602": {
+    "tip": "2026/2/1-2026/3/31期间，完成巡游任务累计<icon name=pt w=0.5 h=0.5/>可获取<color=#854747>「龙骑兵·META 」</color>在内的丰富奖励"
   },
   "battlepass_pay_acquire": {
     "tip": "购买后立即获得："
@@ -2832,16 +2842,16 @@
     "tip": "是否升级？升级会消耗对应材料"
   },
   "buildship_heavy_tip": {
-    "tip": "约克城II、北安普敦II 建造追加！"
+    "tip": "怨仇、皇家橡树 建造追加！"
   },
   "buildship_light_tip": {
-    "tip": "哈曼II 建造追加！"
+    "tip": "斯库拉 建造追加！"
   },
   "buildship_new_tip": {
-    "tip": "每累计建造200次可获得海上传奇舰船 关岛(最多4次)"
+    "tip": "弗朗西斯科·卡拉乔洛 等角色建造概率UP！"
   },
   "buildship_special_tip": {
-    "tip": "约克城II、大黄蜂II 建造追加！"
+    "tip": "怨仇、百眼巨人 建造追加！"
   },
   "buleprint_need_level_tip": {
     "tip": "需角色到达$1级"
@@ -5309,6 +5319,13 @@
       }
     ]
   },
+  "cruise_task_help_2602": {
+    "tip": [
+      {
+        "info": "巡游任务说明\n\n·<color=#92fc63>开放时间</color>\n 2026.2.1 0点 ~ 2026.3.30 23:59:59\n\n·<color=#92fc63>巡游任务分为两种</color>\n（1）每周任务\n 巡游任务中共有8组每周任务。自活动开始后解锁第一周任务，之后每周一的0点解锁下一组每周任务。\n（2）S.P.任务\n S.P.任务为一组特殊任务，在活动开始后会直接处于全部解锁状态。\n（3）巡游任务在解锁后将自动接取，满足任务完成条件时，会自动完成并获取对应奖励\n\n·<color=#92fc63>「巡游任务快速完成券」说明</color>\n（1）「巡游任务快速完成券」可以在巡游任务界面使用，花费一定数量的「巡游任务快速完成券」可以直接完成每周巡游任务\n（2）在「巡游任务快速完成券」数量不足时，指挥官可花费钻石进行补齐\n（3）每个巡游任务需要消耗的「巡游任务快速完成券」数量和其提供的「巡游点数」相关，与当前任务进度无关\n（4）「巡游任务快速完成券」<color=#92fc63>不会随本期活动结束而消失</color>"
+      }
+    ]
+  },
   "cruise_task_phase": {
     "tip": "巡游进度 | PHASE.$1"
   },
@@ -5362,6 +5379,9 @@
   },
   "cruise_title_2512": {
     "tip": "世界巡游·第二十六期"
+  },
+  "cruise_title_2602": {
+    "tip": "世界巡游·二十七期"
   },
   "cryptolalia_coming_soom": {
     "tip": "制作中……"
@@ -12016,7 +12036,7 @@
         "info": "纪念手册："
       },
       {
-        "info": "1. 回忆页面内新增「纪念手册」系统入口。\n2. 活动期间，指挥官可通过完成活动任务收集对应<color=#92fc63>「纪念贴纸」</color>兑换获得活动纪念章家具和活动勋章。\n ※ 活动进行时，指挥官可在<color=#92fc63>活动页面或回忆界面</color>通过指定入口进入「纪念贴纸」收集页面；\n ※ 活动结束后指挥官将只能通过<color=#92fc63>回忆界面</color>指定入口进入「纪念贴纸」收集页面；\n ※ 「纪念贴纸」可以通过完成对应活动任务获取；\n ※ 奖励领取界面将延长至1月14日24时；"
+        "info": "1. 回忆页面内新增「纪念手册」系统入口。\n2. 活动期间，指挥官可通过完成活动任务收集对应<color=#92fc63>「纪念贴纸」</color>兑换获得活动勋章。\n ※ 活动进行时，指挥官可在<color=#92fc63>活动页面或回忆界面</color>通过指定入口进入「纪念贴纸」收集页面；\n ※ 活动结束后指挥官将只能通过<color=#92fc63>回忆界面</color>指定入口进入「纪念贴纸」收集页面；\n ※ 「纪念贴纸」可以通过完成对应活动任务获取；\n ※ 奖励领取界面将延长至2月11日24时；"
       }
     ]
   },
@@ -13081,6 +13101,12 @@
   "island_add_temp_bag": {
     "tip": "以下物品将存入临时仓库"
   },
+  "island_addition_influence": {
+    "tip": "吸引力"
+  },
+  "island_addition_sale": {
+    "tip": "售价"
+  },
   "island_additional_production_tip1": {
     "tip": "追加生产"
   },
@@ -13216,6 +13242,9 @@
   "island_bag_max_level": {
     "tip": "已是最大等级"
   },
+  "island_bag_max_tip": {
+    "tip": "岛屿仓库已满"
+  },
   "island_bag_title": {
     "tip": "仓库"
   },
@@ -13233,6 +13262,9 @@
   },
   "island_bag_uprade_success": {
     "tip": "升级成功"
+  },
+  "island_bar_quick_game": {
+    "tip": "快速游戏"
   },
   "island_batch_covert": {
     "tip": "批量转化"
@@ -13705,8 +13737,35 @@
   "island_enter_island_ban": {
     "tip": "禁止访问"
   },
+  "island_exchange_btn_text": {
+    "tip": "加工"
+  },
+  "island_exchange_own_count": {
+    "tip": "持有数量"
+  },
+  "island_exchange_sure_tip": {
+    "tip": "是否确认进行加工？"
+  },
+  "island_exchange_title": {
+    "tip": "加工"
+  },
+  "island_exchange_title_en": {
+    "tip": "Processing"
+  },
   "island_first_season": {
     "tip": "岛屿开发季I"
+  },
+  "island_fishing_exit": {
+    "tip": "是否停止钓鱼？"
+  },
+  "island_fishing_lure_empty": {
+    "tip": "鱼饵不能是空"
+  },
+  "island_fishing_tip_escape": {
+    "tip": "鱼儿逃脱了"
+  },
+  "island_fishing_tip_hooked": {
+    "tip": "鱼儿咬钩了"
   },
   "island_follow_btn_State_cancel": {
     "tip": "取消跟随"
@@ -13722,6 +13781,9 @@
   },
   "island_follower_cnt_max": {
     "tip": "跟随数量已达上限"
+  },
+  "island_follower_exiting_tip": {
+    "tip": "该角色正在离开..."
   },
   "island_follower_state_no_normal": {
     "tip": "该船处于其他状态"
@@ -13804,8 +13866,17 @@
   "island_guide_en": {
     "tip": "HANDBOOK"
   },
+  "island_guide_fish_max_weight": {
+    "tip": "最大重量"
+  },
+  "island_guide_fish_min_weight": {
+    "tip": "最小重量"
+  },
   "island_guide_help": {
     "tip": "积累收集点可以提升收藏等级，并解锁对应的收藏奖励。\n达成以下条件可以领取角色收集点：\n\n1.<color=#39bfff>获取</color>角色：每名角色解锁后可领取<color=#39bfff>20</color>收集点\n2.<color=#39bfff>提升星级</color>：每名角色提升星级可领取<color=#39bfff>30</color>收集点，提升至5星时可额外获得<color=#39bfff>10</color>收集点\n3.角色<color=#39bfff>生活等级</color>：每名角色生活等级达到<color=#39bfff>50级</color>后可领取<color=#39bfff>50</color>收集点"
+  },
+  "island_guide_help_fish": {
+    "tip": "积累收集点可以提升收藏等级，并解锁对应的收藏奖励。\n达成以下条件可以领取钓鱼收集点：\n\n1.<color=#39bfff>获取</color>鱼类：每种鱼类解锁后可领取<color=#39bfff>10</color>收集点\n2.<color=#39bfff>获取鱼类的大小皇冠</color>：获取某种鱼类的重量纪录满足大小皇冠的条件后可领取收集点，每种鱼类的大小皇冠重量条件各不相同，满足条件后会在重量纪录前显示皇冠"
   },
   "island_guide_help_item": {
     "tip": "积累收集点可以提升收藏等级，并解锁对应的收藏奖励。\n达成以下条件可以领取资材收集点：\n\n1.<color=#39bfff>获取</color>资材：每种资材解锁后可领取<color=#39bfff>20</color>收集点\n2.<color=#39bfff>累计获取某种资材达到一定数量</color>：获取某种资材的数量达到奖励阶段的目标数量后可领取收集点，每种资材都有各自的奖励阶段及其对应的目标数量，可在图鉴中查看"
@@ -14058,6 +14129,43 @@
       "1": {
         "icon": {
           "atlas": "helpbg/island_help_farm",
+          "path": ""
+        }
+      },
+      "defaultpage": 1,
+      "disableScroll": true,
+      "helpSize": {
+        "x": 1176,
+        "y": 1024
+      },
+      "ImageMode": true,
+      "pageMode": true,
+      "windowPos": {
+        "y": -70
+      },
+      "windowSize": {
+        "x": 1263,
+        "y": 873
+      }
+    }
+  },
+  "island_help_fish": {
+    "tip": {
+      "1": {
+        "icon": {
+          "atlas": "helpbg/island_help_fish1",
+          "path": ""
+        }
+      },
+      "2": {
+        "icon": {
+          "atlas": "helpbg/island_help_fish2",
+          "path": ""
+        }
+      },
+      "3": {
+        "icon": {
+          "atlas": "helpbg/island_help_fish3",
           "path": ""
         }
       },
@@ -14541,6 +14649,9 @@
   "island_log_gift": {
     "tip": " 邀请你领取补给"
   },
+  "island_log_trade": {
+    "tip": " 邀请你交易珍珠"
+  },
   "island_log_visit": {
     "tip": " 拜访了你的岛屿"
   },
@@ -14841,6 +14952,18 @@
   "island_post_acceptable": {
     "tip": "资材收取"
   },
+  "island_post_event_addition_label": {
+    "tip": "下列餐品获得加成"
+  },
+  "island_post_event_close_label": {
+    "tip": "关闭"
+  },
+  "island_post_event_label": {
+    "tip": "经营事件"
+  },
+  "island_post_event_open_label": {
+    "tip": "查看"
+  },
   "island_post_manage": {
     "tip": "集成管理"
   },
@@ -15015,6 +15138,9 @@
   "island_season_help": {
     "tip": "1.新的岛屿开发季开启时，岛屿开发PT将会<color=#FD5650>自动重置</color>\n2.开发季持续时间内，可通过<color=#39bfff>资材转化</color>、<color=#39bfff>生产指定资材</color>、<color=#39bfff>参与岛屿活动</color>以及<color=#39bfff>在开发季商店购买商品</color>获得岛屿开发PT\n3.岛屿开发季结束后，临时仓库中的物品将直接清空，资材仓库中的资材将<color=#FD5650>自动转化</color>为岛屿开发PT并计入当前开发排行\n4.岛屿开发季结束后，正在进行的<color=#39bfff>岛屿订单、货运委托、角色委派、手动种植、店铺经营</color>等将清理重置\n5.岛屿开发季结束后，当前开发季未领取的开发计划奖励和累积PT奖励将<color=#FD5650>不再可领取</color>"
   },
+  "island_season_label": {
+    "tip": "开发季$1"
+  },
   "island_season_pt": {
     "tip": "累积PT"
   },
@@ -15030,38 +15156,56 @@
   "island_season_review": {
     "tip": "开发回顾"
   },
+  "island_season_review_achi": {
+    "tip": "成就"
+  },
+  "island_season_review_achinum": {
+    "tip": "成就数量"
+  },
+  "island_season_review_blank": {
+    "tip": "未参与该开发季"
+  },
   "island_season_review_charnum": {
     "tip": "角色数量"
   },
   "island_season_review_fishnum": {
-    "tip": "总渔获数"
+    "tip": "成就数量"
   },
   "island_season_review_formulanum": {
-    "tip": "餐品制作数"
+    "tip": "生产数量"
   },
   "island_season_review_gamenum": {
-    "tip": "活动参与数"
+    "tip": "总收集点"
+  },
+  "island_season_review_guidenum": {
+    "tip": "总收集点"
+  },
+  "island_season_review_lv": {
+    "tip": "岛屿开发等级"
   },
   "island_season_review_miss": {
     "tip": "尚未参与该开发季"
   },
   "island_season_review_ordernum": {
-    "tip": "资材交付数"
+    "tip": "订单数量"
   },
   "island_season_review_produce": {
-    "tip": "岛与产出"
+    "tip": "产出统计"
   },
   "island_season_review_projuctnum": {
-    "tip": "研发项目"
+    "tip": "研发项目数量"
   },
   "island_season_review_ptnum": {
     "tip": "开发PT"
   },
   "island_season_review_ptrank": {
-    "tip": "开发排名"
+    "tip": "开发排行"
   },
   "island_season_review_relax": {
-    "tip": "岛屿休闲"
+    "tip": "成就"
+  },
+  "island_season_review_titleone": {
+    "tip": "开发季"
   },
   "island_season_shop": {
     "tip": "开发商店"
@@ -15088,7 +15232,7 @@
     "tip": "已领取"
   },
   "island_season_title": {
-    "tip": "岛屿开发季"
+    "tip": "开发季"
   },
   "island_season_window_award": {
     "tip": "排名奖励"
@@ -15291,6 +15435,15 @@
   "island_spoperation_btn_2509_3": {
     "tip": "活动管理员"
   },
+  "island_spoperation_btn_2602_1": {
+    "tip": "特产采集"
+  },
+  "island_spoperation_btn_2602_2": {
+    "tip": "特产制作"
+  },
+  "island_spoperation_btn_2602_3": {
+    "tip": "活动管理员"
+  },
   "island_spoperation_item_2509_1": {
     "tip": "秋菊"
   },
@@ -15303,6 +15456,18 @@
   "island_spoperation_item_2509_4": {
     "tip": "松茸"
   },
+  "island_spoperation_item_2602_1": {
+    "tip": "春笋"
+  },
+  "island_spoperation_item_2602_2": {
+    "tip": "荠菜"
+  },
+  "island_spoperation_item_2602_3": {
+    "tip": "迎春花"
+  },
+  "island_spoperation_item_2602_4": {
+    "tip": "风信子"
+  },
   "island_spoperation_level_2509_1": {
     "tip": "开放条件：岛屿开发等级Lv.1"
   },
@@ -15314,6 +15479,15 @@
   },
   "island_spoperation_tip_2509_3": {
     "tip": "活动期间，在【坠香果园】【有鱼餐馆】【白熊饮品】【手工制作设备】中可生产对应特产"
+  },
+  "island_spoperation_tip_2602_1": {
+    "tip": "活动期间，佩芮会连续发布特产订单，完成特产订单可获得开发季PT等奖励。\n*特产订单不占用岛屿订单完成上限、也不提升好评等级"
+  },
+  "island_spoperation_tip_2602_2": {
+    "tip": "活动期间，岛屿特定区域中每天都会生长出新的活动采集物，快去寻找吧！"
+  },
+  "island_spoperation_tip_2602_3": {
+    "tip": "活动期间，在【青芽苗圃】【白熊饮品】【有鱼餐馆】【手工制作设备】中可生产对应特产"
   },
   "island_sub_product_cnt": {
     "tip": "副产物 × $1"
@@ -15509,6 +15683,164 @@
   },
   "island_total_price": {
     "tip": "合计价格:"
+  },
+  "island_trade_activity_desc_1": {
+    "tip": "　活动期间，神秘商人会出现在集会岛，在神秘商人处可进行珍珠售卖。"
+  },
+  "island_trade_activity_desc_2": {
+    "tip": "　珍珠可从开发季管理员佩芮处采购，每日采购和售卖的价格会出现波动。"
+  },
+  "island_trade_activity_unlock": {
+    "tip": "开放等级：岛屿LV.22"
+  },
+  "island_trade_bag_full_label": {
+    "tip": "仓库容量不足无法采购"
+  },
+  "island_trade_cnt_inadequate": {
+    "tip": "数量不足"
+  },
+  "island_trade_help_1": {
+    "tip": {
+      "1": {
+        "icon": {
+          "atlas": "helpbg/island_trade_help4",
+          "path": ""
+        }
+      },
+      "defaultpage": 1,
+      "disableScroll": true,
+      "helpSize": {
+        "x": 1176,
+        "y": 1024
+      },
+      "ImageMode": true,
+      "pageMode": true,
+      "windowPos": {
+        "y": -70
+      },
+      "windowSize": {
+        "x": 1263,
+        "y": 873
+      }
+    }
+  },
+  "island_trade_help_2": {
+    "tip": {
+      "1": {
+        "icon": {
+          "atlas": "helpbg/island_trade_help1",
+          "path": ""
+        }
+      },
+      "2": {
+        "icon": {
+          "atlas": "helpbg/island_trade_help2",
+          "path": ""
+        }
+      },
+      "3": {
+        "icon": {
+          "atlas": "helpbg/island_trade_help3",
+          "path": ""
+        }
+      },
+      "defaultpage": 1,
+      "disableScroll": true,
+      "helpSize": {
+        "x": 1176,
+        "y": 1024
+      },
+      "ImageMode": true,
+      "pageMode": true,
+      "windowPos": {
+        "y": -70
+      },
+      "windowSize": {
+        "x": 1263,
+        "y": 873
+      }
+    }
+  },
+  "island_trade_invite_label": {
+    "tip": "邀请玩家"
+  },
+  "island_trade_invite_success": {
+    "tip": "邀请成功"
+  },
+  "island_trade_limit_label": {
+    "tip": "本周可采购数量$1"
+  },
+  "island_trade_msg_pop": {
+    "tip": "$1邀请你前往他的岛屿，该岛屿今日珍珠售价$3"
+  },
+  "island_trade_price_unrefresh": {
+    "tip": "岛主尚未更新价格无法交易"
+  },
+  "island_trade_purchase_failed_label": {
+    "tip": "本周珍珠采购数量已达上限"
+  },
+  "island_trade_purchase_label": {
+    "tip": "珍珠采购"
+  },
+  "island_trade_purchase_sub_label": {
+    "tip": "采购"
+  },
+  "island_trade_rank_info_label": {
+    "tip": "岛屿信息"
+  },
+  "island_trade_rank_label": {
+    "tip": "好友排名"
+  },
+  "island_trade_rank_level_label": {
+    "tip": "岛屿等级"
+  },
+  "island_trade_rank_num_label": {
+    "tip": "开发排名"
+  },
+  "island_trade_rank_price_label": {
+    "tip": "今日价格"
+  },
+  "island_trade_reset_label": {
+    "tip": "今日价格已重置"
+  },
+  "island_trade_sell_failed_label": {
+    "tip": "持有珍珠数量不足无法售卖"
+  },
+  "island_trade_sell_failed_label2": {
+    "tip": "本日该岛珍珠可售卖数量已达上限"
+  },
+  "island_trade_sell_label": {
+    "tip": "珍珠售卖"
+  },
+  "island_trade_sell_sub_label": {
+    "tip": "售卖"
+  },
+  "island_trade_sell_tip_label": {
+    "tip": "今日可在该岛售卖数量$1"
+  },
+  "island_trade_send_msg_label": {
+    "tip": "<material=underline c=#006400 ><color=#006400>今日珍珠售价$2</color></material>"
+  },
+  "island_trade_send_msg_match_label": {
+    "tip": "神秘商人"
+  },
+  "island_trade_share_success": {
+    "tip": "邀请成功"
+  },
+  "island_trade_tip_label": {
+    "tip": "每日03：00刷新采购价格"
+  },
+  "island_trade_tip_label2": {
+    "tip": "每日03：00刷新售卖价格"
+  },
+  "island_trade_title": {
+    "tip": "珍珠采购点"
+  },
+  "island_trade_title2": {
+    "tip": "珍珠售卖点"
+  },
+  "island_trade_trend_label": {
+    "tip": "价格曲线"
   },
   "island_unlock_ship_skill_color": {
     "tip": "是否解锁装扮颜色"
@@ -20937,6 +21269,31 @@
   },
   "same_player_name_tip": {
     "tip": "不能与当前指挥官昵称相同"
+  },
+  "SardiniaSPCoreActivityUI_fleetconfirm": {
+    "tip": "当前编队为空，是否导入上一关编队？"
+  },
+  "SardiniaSPCoreActivityUI_help": {
+    "tip": [
+      {
+        "info": "<b>活动时间：</b>\n·<color=#92fc63>1.22-2.5维护；</color>\n·活动期间开启限时活动「光影风尚——拍摄进行时！」。\n\n<b>活动说明：</b>\n·本次作战分为<color=#92fc63>【作战模式】</color>和<color=#92fc63>【剧情模式】</color>。\n·在【作战模式】中，指挥官可上阵多只队伍按照顺序分别挑战各个关卡，完成关卡内全部挑战后视为关卡通关并获得奖励。\n·同时，部分关卡可切换<color=#92fc63>「单队连战」</color>、<color=#92fc63>「多队出击」</color>两种模式：\n--「单队连战」为单只队伍挑战各个关卡。选择「单队连战」模式时，每个关卡开始前角色耐久值及各类状态均将重置。\n--「多队出击」为不同队伍挑战各个关卡。选择「多队出击」模式时，可获得额外奖励。\n\n·指挥官可以通过作战模式获取「摄影底片」，累计收集「摄影底片」可获得角色<color=#92fc63>「乌戈里诺·维瓦尔迪」</color>、装备<color=#92fc63>「试作型三联装406mm主炮Model1940」</color>在内的大量奖励。\n\n·完成【剧情模式】的全部内容后，可获得限定纪念外观<color=#92fc63>「爱之甜心炮弹」</color>。"
+      }
+    ]
+  },
+  "SardiniaSPCoreActivityUI_story_reward_count": {
+    "tip": "点击角色，消耗<icon name=65812 w=0.4 h=0.4/><color=#10a7a9>(剩余数量$1)</color>进入拍摄剧情\n完成全部剧情后可获得纪念外观<color=#10a7a9>($2/8)</color>"
+  },
+  "SardiniaSPCoreActivityUI_subtitle_1": {
+    "tip": "风尚光影"
+  },
+  "SardiniaSPCoreActivityUI_subtitle_2": {
+    "tip": "光影补给站"
+  },
+  "SardiniaSPCoreActivityUI_title": {
+    "tip": "活动汇总"
+  },
+  "SardiniaSPCoreActivityUI_unlock": {
+    "tip": "可解锁"
   },
   "scenario_unlock": {
     "tip": "点击解锁后续剧情"
