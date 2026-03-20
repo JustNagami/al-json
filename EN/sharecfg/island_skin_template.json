@@ -155,6 +155,84 @@
     "shop_id": 0,
     "tech_id": 0
   },
+  "99000101": {
+    "desc": "Fully geared up and ready to go! Let's see what kind of pranks she'll pull on her way to school today!",
+    "icon": "skin_99000101",
+    "icon_normal": "",
+    "id": 99000101,
+    "jump_page": "",
+    "model": 99000101,
+    "name": "Cheerful Route to School",
+    "ship_group": 990001,
+    "shop_goods_id": 0,
+    "shop_id": 0,
+    "tech_id": 0
+  },
+  "99000102": {
+    "desc": "Her school uniform is a perfect fit. Even when dressed as an honor student, she can't hide the little devil on her shoulder.",
+    "icon": "skin_99000102",
+    "icon_normal": "",
+    "id": 99000102,
+    "jump_page": "",
+    "model": 99000102,
+    "name": "Honor Student's Demeanor",
+    "ship_group": 990001,
+    "shop_goods_id": 0,
+    "shop_id": 0,
+    "tech_id": 0
+  },
+  "99000201": {
+    "desc": "Pure and straightforward, she explores her surroundings with uncertainty, feeling everything with her hands.",
+    "icon": "skin_99000201",
+    "icon_normal": "",
+    "id": 99000201,
+    "jump_page": "",
+    "model": 99000201,
+    "name": "Time of Innocence",
+    "ship_group": 990002,
+    "shop_goods_id": 0,
+    "shop_id": 0,
+    "tech_id": 0
+  },
+  "99000202": {
+    "desc": "A neat and tidy dress. Her focused gaze quietly observes the world.",
+    "icon": "skin_99000202",
+    "icon_normal": "",
+    "id": 99000202,
+    "jump_page": "",
+    "model": 99000202,
+    "name": "Inexperienced Observer",
+    "ship_group": 990002,
+    "shop_goods_id": 0,
+    "shop_id": 0,
+    "tech_id": 0
+  },
+  "99000301": {
+    "desc": "This singularly white outfit is wholly untarnished. It's almost like an extension of her quiet personality.",
+    "icon": "skin_99000301",
+    "icon_normal": "",
+    "id": 99000301,
+    "jump_page": "",
+    "model": 99000301,
+    "name": "Pure White Whisper",
+    "ship_group": 990003,
+    "shop_goods_id": 0,
+    "shop_id": 0,
+    "tech_id": 0
+  },
+  "99000302": {
+    "desc": "A formal outfit complemented by a jumper skirt. It glows with shy, adorable charm.",
+    "icon": "skin_99000302",
+    "icon_normal": "",
+    "id": 99000302,
+    "jump_page": "",
+    "model": 99000302,
+    "name": "Serene Dress",
+    "ship_group": 990003,
+    "shop_goods_id": 0,
+    "shop_id": 0,
+    "tech_id": 0
+  },
   "all": [
     1011001,
     1020501,
@@ -167,7 +245,13 @@
     3120101,
     4030301,
     4990201,
-    5060101
+    5060101,
+    99000201,
+    99000202,
+    99000101,
+    99000102,
+    99000301,
+    99000302
   ],
   "get_id_list_by_ship_group": {
     "10110": [
@@ -205,6 +289,18 @@
     ],
     "50601": [
       5060101
+    ],
+    "990001": [
+      99000101,
+      99000102
+    ],
+    "990002": [
+      99000201,
+      99000202
+    ],
+    "990003": [
+      99000301,
+      99000302
     ]
   }
 }
