@@ -30201,6 +30201,288 @@
     "value_1": 35,
     "value_2": 20
   },
+  "15320": {
+    "attribute_1": "cannon",
+    "attribute_2": "hit",
+    "descrip": "A custom-designed piece of gear made from an Augment Module core.",
+    "effect_id": 901010,
+    "effect_id_display": 901010,
+    "hide_buff_upgrade": [],
+    "icon": "15320",
+    "id": 15320,
+    "important": 2,
+    "label": [],
+    "level": 1,
+    "name": "Blade of Nobility and Honor",
+    "next": 15321,
+    "prev": 0,
+    "rarity": 4,
+    "skill_upgrade": [
+      [
+        0,
+        1014170
+      ]
+    ],
+    "tech": 0,
+    "type": 2,
+    "uncraftable": 0,
+    "unique": 70204,
+    "upgrade_id": 101,
+    "usability": [
+      2
+    ],
+    "value_1": 13,
+    "value_1_random": 10,
+    "value_2": 8,
+    "value_2_random": 5
+  },
+  "15321": {
+    "base": 15320,
+    "id": 15321,
+    "level": 2,
+    "next": 15322,
+    "prev": 15320,
+    "upgrade_id": 102,
+    "value_1": 14,
+    "value_2": 9
+  },
+  "15322": {
+    "base": 15320,
+    "id": 15322,
+    "level": 3,
+    "next": 15323,
+    "prev": 15321,
+    "upgrade_id": 103,
+    "value_1": 15,
+    "value_2": 10
+  },
+  "15323": {
+    "base": 15320,
+    "id": 15323,
+    "level": 4,
+    "next": 15324,
+    "prev": 15322,
+    "upgrade_id": 104,
+    "value_1": 16,
+    "value_2": 11
+  },
+  "15324": {
+    "base": 15320,
+    "id": 15324,
+    "level": 5,
+    "next": 15325,
+    "prev": 15323,
+    "upgrade_id": 105,
+    "value_1": 17,
+    "value_2": 12
+  },
+  "15325": {
+    "base": 15320,
+    "id": 15325,
+    "level": 6,
+    "next": 15326,
+    "prev": 15324,
+    "upgrade_id": 106,
+    "value_1": 18,
+    "value_2": 14
+  },
+  "15326": {
+    "base": 15320,
+    "id": 15326,
+    "level": 7,
+    "next": 15327,
+    "prev": 15325,
+    "upgrade_id": 107,
+    "value_1": 19,
+    "value_2": 15
+  },
+  "15327": {
+    "base": 15320,
+    "id": 15327,
+    "level": 8,
+    "next": 15328,
+    "prev": 15326,
+    "upgrade_id": 108,
+    "value_1": 20,
+    "value_2": 16
+  },
+  "15328": {
+    "base": 15320,
+    "id": 15328,
+    "level": 9,
+    "next": 15329,
+    "prev": 15327,
+    "upgrade_id": 109,
+    "value_1": 21,
+    "value_2": 17
+  },
+  "15329": {
+    "base": 15320,
+    "id": 15329,
+    "level": 10,
+    "next": 15330,
+    "prev": 15328,
+    "upgrade_id": 110,
+    "value_1": 23,
+    "value_2": 18
+  },
+  "15330": {
+    "base": 15320,
+    "id": 15330,
+    "level": 11,
+    "next": 0,
+    "prev": 15329,
+    "skill_upgrade": [
+      [
+        14170,
+        1014170
+      ]
+    ],
+    "upgrade_id": 111,
+    "value_1": 25,
+    "value_2": 20
+  },
+  "15340": {
+    "attribute_1": "cannon",
+    "attribute_2": "reload",
+    "descrip": "A custom-designed piece of gear made from an Augment Module core.",
+    "effect_id": 901010,
+    "effect_id_display": 901010,
+    "hide_buff_upgrade": [],
+    "icon": "15340",
+    "id": 15340,
+    "important": 2,
+    "label": [],
+    "level": 1,
+    "name": "Ace's Decisive Revolver",
+    "next": 15341,
+    "prev": 0,
+    "rarity": 4,
+    "skill_upgrade": [
+      [
+        0,
+        1090460
+      ]
+    ],
+    "tech": 0,
+    "type": 1,
+    "uncraftable": 0,
+    "unique": 20113,
+    "upgrade_id": 101,
+    "usability": [
+      1
+    ],
+    "value_1": 20,
+    "value_1_random": 5,
+    "value_2": 14,
+    "value_2_random": 5
+  },
+  "15341": {
+    "base": 15340,
+    "id": 15341,
+    "level": 2,
+    "next": 15342,
+    "prev": 15340,
+    "upgrade_id": 102,
+    "value_1": 21,
+    "value_2": 15
+  },
+  "15342": {
+    "base": 15340,
+    "id": 15342,
+    "level": 3,
+    "next": 15343,
+    "prev": 15341,
+    "upgrade_id": 103,
+    "value_1": 22,
+    "value_2": 15
+  },
+  "15343": {
+    "base": 15340,
+    "id": 15343,
+    "level": 4,
+    "next": 15344,
+    "prev": 15342,
+    "upgrade_id": 104,
+    "value_1": 23,
+    "value_2": 16
+  },
+  "15344": {
+    "base": 15340,
+    "id": 15344,
+    "level": 5,
+    "next": 15345,
+    "prev": 15343,
+    "upgrade_id": 105,
+    "value_1": 24,
+    "value_2": 16
+  },
+  "15345": {
+    "base": 15340,
+    "id": 15345,
+    "level": 6,
+    "next": 15346,
+    "prev": 15344,
+    "upgrade_id": 106,
+    "value_1": 25,
+    "value_2": 17
+  },
+  "15346": {
+    "base": 15340,
+    "id": 15346,
+    "level": 7,
+    "next": 15347,
+    "prev": 15345,
+    "upgrade_id": 107,
+    "value_1": 26,
+    "value_2": 17
+  },
+  "15347": {
+    "base": 15340,
+    "id": 15347,
+    "level": 8,
+    "next": 15348,
+    "prev": 15346,
+    "upgrade_id": 108,
+    "value_1": 27,
+    "value_2": 18
+  },
+  "15348": {
+    "base": 15340,
+    "id": 15348,
+    "level": 9,
+    "next": 15349,
+    "prev": 15347,
+    "upgrade_id": 109,
+    "value_1": 28,
+    "value_2": 18
+  },
+  "15349": {
+    "base": 15340,
+    "id": 15349,
+    "level": 10,
+    "next": 15350,
+    "prev": 15348,
+    "upgrade_id": 110,
+    "value_1": 29,
+    "value_2": 19
+  },
+  "15350": {
+    "base": 15340,
+    "id": 15350,
+    "level": 11,
+    "next": 0,
+    "prev": 15349,
+    "skill_upgrade": [
+      [
+        1001,
+        1090460
+      ]
+    ],
+    "upgrade_id": 111,
+    "value_1": 30,
+    "value_2": 20
+  },
   "1010100": {
     "attribute_1": "cannon",
     "attribute_2": "dodge",
