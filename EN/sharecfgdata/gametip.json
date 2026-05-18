@@ -1,4 +1,11 @@
 {
+  "0815_main_help": {
+    "tip": [
+      {
+        "info": "- Overview -\nThe Wild West Vacation Log event is available between <color=#92fc63>August 15th and August 28th</color>.\n\n· Collect ingots during the event to upgrade buildings and raise your prosperity level to receive various rewards and story snippets!\n· You can also complete event missions to receive limited rewards, including a <color=#92fc63>portrait frame</color>, a <color=#92fc63>chat frame</color>, and <color=#92fc63>furniture</color> for your dorm! In addition, starting from the 8th day of the event, new Oil-spending missions will be added and completing them will grant you ingots as well.\n· You will receive 1 minigame point every day upon logging in until August 21st. Complete the event minigame while in possession of minigame points to earn rewards!"
+      }
+    ]
+  },
   "3ddorm_beach_slide_tip1": {
     "tip": "Slide"
   },
@@ -40,13 +47,13 @@
           "path": ""
         }
       },
+      "ImageMode": true,
       "defaultpage": 1,
       "disableScroll": true,
       "helpSize": {
         "x": 1176,
         "y": 1024
       },
-      "ImageMode": true,
       "pageMode": true,
       "windowPos": {
         "y": -70
@@ -64,12 +71,26 @@
       }
     ]
   },
-  "0815_main_help": {
-    "tip": [
-      {
-        "info": "- Overview -\nThe Wild West Vacation Log event is available between <color=#92fc63>August 15th and August 28th</color>.\n\n· Collect ingots during the event to upgrade buildings and raise your prosperity level to receive various rewards and story snippets!\n· You can also complete event missions to receive limited rewards, including a <color=#92fc63>portrait frame</color>, a <color=#92fc63>chat frame</color>, and <color=#92fc63>furniture</color> for your dorm! In addition, starting from the 8th day of the event, new Oil-spending missions will be added and completing them will grant you ingots as well.\n· You will receive 1 minigame point every day upon logging in until August 21st. Complete the event minigame while in possession of minigame points to earn rewards!"
-      }
-    ]
+  "2023Valentine_minigame_a": {
+    "tip": "Yep! That came out nicely! Commander, let's try some while it's still fresh!"
+  },
+  "2023Valentine_minigame_b": {
+    "tip": "That should do it... I hope it tastes alright though. Um, Commander, please give it a try!"
+  },
+  "2023Valentine_minigame_c": {
+    "tip": "Um, C-Commander, are you sure you want this? Why don't I go make another batch first..."
+  },
+  "2023Valentine_minigame_label1": {
+    "tip": "Score:"
+  },
+  "2023Valentine_minigame_label2": {
+    "tip": "Laps"
+  },
+  "2023Valentine_minigame_label3": {
+    "tip": "Progress"
+  },
+  "2023Valentine_minigame_s": {
+    "tip": "Woah, we've finished some amazing-looking chocolate... Commander, come give it a taste-test!"
   },
   "2023spring_minigame_bless_speed": {
     "tip": "Gotta Go Fast|Increases your base speed."
@@ -156,27 +177,6 @@
   "2023spring_minigame_tip7": {
     "tip": "$1 upgraded."
   },
-  "2023Valentine_minigame_a": {
-    "tip": "Yep! That came out nicely! Commander, let's try some while it's still fresh!"
-  },
-  "2023Valentine_minigame_b": {
-    "tip": "That should do it... I hope it tastes alright though. Um, Commander, please give it a try!"
-  },
-  "2023Valentine_minigame_c": {
-    "tip": "Um, C-Commander, are you sure you want this? Why don't I go make another batch first..."
-  },
-  "2023Valentine_minigame_label1": {
-    "tip": "Score:"
-  },
-  "2023Valentine_minigame_label2": {
-    "tip": "Laps"
-  },
-  "2023Valentine_minigame_label3": {
-    "tip": "Progress"
-  },
-  "2023Valentine_minigame_s": {
-    "tip": "Woah, we've finished some amazing-looking chocolate... Commander, come give it a taste-test!"
-  },
   "2025Valentine_minigame_a": {
     "tip": "Whoa... This turned out so pretty! You being here really makes a world of difference. Come on, try it! Taste the fruits of our labour!"
   },
@@ -201,6 +201,652 @@
   },
   "202406_wenquan_unlock_tip2": {
     "tip": "Insufficient materials."
+  },
+  "260514_story_title": {
+    "tip": "Dust-Specked Omen"
+  },
+  "260514_story_title_en": {
+    "tip": "Omen in dust spot"
+  },
+  "20260514_story_unlock_tip": {
+    "tip": "Unlocks after 5/20 maintenance"
+  },
+  "ANTTFFCoreActivityPtpage_title": {
+    "tip": "Finale"
+  },
+  "ANTTFFCoreActivityPtpage_title2": {
+    "tip": ""
+  },
+  "ANTTFFCoreActivity_subtitle_1": {
+    "tip": "A Note Through the Firmament - Finale"
+  },
+  "ANTTFFCoreActivity_title": {
+    "tip": "Finale"
+  },
+  "ANTTFFCoreActivity_title2": {
+    "tip": ""
+  },
+  "AR_plane_check": {
+    "tip": "Please detect a level surface."
+  },
+  "AR_plane_distance_near": {
+    "tip": "The character will be hidden if the distance between you is too short."
+  },
+  "AR_plane_long_press_to_summon": {
+    "tip": "Tap and hold on a level surface to invite a character."
+  },
+  "AR_plane_summon_fail_by_near": {
+    "tip": "Could not invite character; distance too short."
+  },
+  "AR_plane_summon_success": {
+    "tip": "Character invited."
+  },
+  "AnniversaryNineCoreActivityUI_subtitle_6": {
+    "tip": "A Lovely Vacation"
+  },
+  "Announcements_Donotshow": {
+    "tip": "Don't show again today"
+  },
+  "Announcements_Event_Notice": {
+    "tip": "Event"
+  },
+  "Announcements_News": {
+    "tip": "News"
+  },
+  "Announcements_System_Notice": {
+    "tip": "System"
+  },
+  "BackYard_collection_be_delete_tip": {
+    "tip": "Some loadouts have been removed your favorites due to deletion by their uploaders. "
+  },
+  "BoatAdGame_minigame_help": {
+    "tip": {
+      "1": {
+        "icon": {
+          "atlas": "helpbg/boatadgame_minigame_help",
+          "path": ""
+        }
+      },
+      "ImageMode": true,
+      "defaultpage": 1,
+      "disableScroll": true,
+      "helpSize": {
+        "x": 1176,
+        "y": 1024
+      },
+      "pageMode": true,
+      "windowPos": {
+        "y": -70
+      },
+      "windowSize": {
+        "x": 1263,
+        "y": 873
+      }
+    }
+  },
+  "CurlingGame_tips1": {
+    "tip": [
+      {
+        "info": "- Overview -\n· Strategically position the swole Meowfficer and slide the curling stone as close to the red circle as you can to score points.\n· A new round of Manjuu Curling will be unlocked every day at midnight up to December 25th.\n\n- How to Play -\n· Every round of Manjuu Curling consists of 3 curling stone slides. One new round a day is unlocked during the event period.\n· Press and hold the Meowfficer to change the curling stone's launch speed. The longer you hold, the faster it will go. Let go when you wish to launch the curling stone.\n· While your finger is on the Meowfficer, move it up and down on the screen to change the curling stone's course.\n· The curling stone's course will change if it bumps into an object.\n· When the curling stone comes to a stop, you will score points based on which circle it stopped inside. Stopping in the blue circle gives you 1,000 points, the yellow circle gives you 2,000 points, and the red circle gives you 3,000 points."
+      }
+    ]
+  },
+  "DAL_stage_finish_at": {
+    "tip": "Complete:"
+  },
+  "DAL_stage_label_analysis_1": {
+    "tip": "Analyzing..."
+  },
+  "DAL_stage_label_analysis_2": {
+    "tip": "Analysis Complete"
+  },
+  "DAL_stage_label_commander": {
+    "tip": "Command System"
+  },
+  "DAL_stage_label_data": {
+    "tip": "Sector Intel"
+  },
+  "DAL_stage_label_support": {
+    "tip": "Aerial Support"
+  },
+  "DAL_story_tip": {
+    "tip": "Read the side stories to receive an exclusive piece of gear"
+  },
+  "DAL_upgrade_active": {
+    "tip": "Applied"
+  },
+  "DAL_upgrade_not_enough": {
+    "tip": "Complete the event missions to receive Fraxinus AL Improvement Data"
+  },
+  "DAL_upgrade_program": {
+    "tip": "Upgrade Airship"
+  },
+  "DAL_upgrade_ship": {
+    "tip": "Upgrade Airship"
+  },
+  "DAL_upgrade_unlock": {
+    "tip": "Locked"
+  },
+  "HelenaCoreActivity_subtitle_1": {
+    "tip": "Memories in Echo"
+  },
+  "HelenaCoreActivity_subtitle_2": {
+    "tip": "Call to Arms"
+  },
+  "HelenaCoreActivity_subtitle_3": {
+    "tip": "To a Brighter World"
+  },
+  "HelenaCoreActivity_subtitle_4": {
+    "tip": "A Note Through the Firmament"
+  },
+  "HelenaCoreActivity_subtitle_5": {
+    "tip": "Veil Resupply Point"
+  },
+  "HelenaCoreActivity_subtitle_6": {
+    "tip": "UR Exchange"
+  },
+  "HelenaCoreActivity_title": {
+    "tip": "Event"
+  },
+  "HelenaCoreActivity_title2": {
+    "tip": "Event"
+  },
+  "HelenaPTPage_title": {
+    "tip": "Memories in Echo"
+  },
+  "HelenaPTPage_title2": {
+    "tip": ""
+  },
+  "LanternRiddle_wait_time_tip": {
+    "tip": "Next Attempt: "
+  },
+  "LinkLinkGame_BestTime": {
+    "tip": "Record:"
+  },
+  "LinkLinkGame_CurTime": {
+    "tip": "Time:"
+  },
+  "LiquorFloorTaskUI_get": {
+    "tip": "Accept"
+  },
+  "LiquorFloorTaskUI_go": {
+    "tip": "Confirm"
+  },
+  "LiquorFloorTaskUI_got": {
+    "tip": "Claimed"
+  },
+  "LiquorFloorTaskUI_title": {
+    "tip": "Business Missions"
+  },
+  "LiquorFloor_character_num": {
+    "tip": "Char. Capacity"
+  },
+  "LiquorFloor_character_tip": {
+    "tip": "Assign shipgirls to get extra Old Coins. Assigned shipgirls gain extra Affinity on sorties."
+  },
+  "LiquorFloor_character_unlock": {
+    "tip": "Unlocks at Lv. $1"
+  },
+  "LiquorFloor_gold": {
+    "tip": "earned per sec."
+  },
+  "LiquorFloor_gold_get": {
+    "tip": "Collect Old Coins"
+  },
+  "LiquorFloor_gold_max_tip": {
+    "tip": "Your Old Coins capacity has maxed out"
+  },
+  "LiquorFloor_gold_num": {
+    "tip": "Old Coins Capacity"
+  },
+  "LiquorFloor_level": {
+    "tip": "Inn Lv."
+  },
+  "LiquorFloor_story_get": {
+    "tip": "Accept"
+  },
+  "LiquorFloor_story_go": {
+    "tip": "Confirm"
+  },
+  "LiquorFloor_story_got": {
+    "tip": "Claimed"
+  },
+  "LiquorFloor_story_title": {
+    "tip": "Inn Story"
+  },
+  "LiquorFloor_story_title_1": {
+    "tip": "Business Journal"
+  },
+  "LiquorFloor_story_title_2": {
+    "tip": "Parlor Anecdotes"
+  },
+  "LiquorFloor_story_title_3": {
+    "tip": "Random Encounters"
+  },
+  "LiquorFloor_story_title_4": {
+    "tip": "Inn Story"
+  },
+  "LiquorFloor_tip": {
+    "tip": [
+      {
+        "info": "- Event Overview -\nDuring the Springtide Inn Online event, manage your inn facilities, host guests, and unlock content based on the success of your management to earn rewards.\n\n1. Attached to the inn are various facilities with a range of effects that can be improved by leveling the facilities. Some level-ups require Sycees, a resource gained by completing event missions.\n2. The Restaurant, the Gazebo, the Garden, and the Pond automatically generate Old Coins, an event resource, which you can manually claim. Additionally, leveling up these facilities makes them produce more Old Coins. Each facility can store up to 6 hours' worth of Old Coins.\n3. Leveling up the Warehouse increases your maximum Old Coins capacity.\n4. You can assign your shipgirls to the Parlor. This will give you additional Old Coins at regular intervals. Furthermore, shipgirls assigned to the Parlor gain more Affinity from sorties. Leveling up the Parlor gives you more slots to assign shipgirls to.\n5. When you have enough Old Coins to reach certain thresholds, your Inn Level will go up.\n6. Once your Inn and its facilities reach certain levels, you will unlock additional content such as new story chapters.\n7. You can complete Business Missions to earn various rewards, including more Old Coins, a portrait frame, event-exclusive furniture, and more."
+      }
+    ]
+  },
+  "LiquorFloor_title": {
+    "tip": "Springtide Inn Online"
+  },
+  "LiquorFloor_title_en": {
+    "tip": "Springtide"
+  },
+  "LiquorFloor_update": {
+    "tip": "Level Up"
+  },
+  "LiquorFloor_update_max": {
+    "tip": "Level Cap Reached"
+  },
+  "LiquorFloor_update_unlock": {
+    "tip": "Inn Lv. has been raised to $1"
+  },
+  "MeixiV4_help": {
+    "tip": [
+      {
+        "info": "\"Silver Archives\" Prelude Event Info:"
+      },
+      {
+        "info": "1. During the event, clear the available event mission to unlock the next mission."
+      },
+      {
+        "info": "2. Complete missions to get rewards including the limited gear Action Report: Operation AF."
+      },
+      {
+        "info": "3. Each days' rewards are as follows:\nMission 1: 5 T2 Plates, 100 Coins.\nMission 2: Unlocks Part 1 of the event story.\nMission 3: 2 T2 Retrofit Blueprints.\nMission 4: 100 Coins.\nMission 5: 3 T2 Tech Packs, 100 Coins.\nMission 6: Unlocks Part 2 of the event story.\nMission 7: 3 Naval Curry.\nMission 8: 100 Coins.\nMission 9: T3 Tech Pack, 100 Coins.\nMission 10: Unlocks Part 3 of the event story.\nMission 11: 2 T3 Skill Books.\nMission 12: 100 Coins.\nMission 13: Action Report: Operation AF, 100 Coins.\nMission 14: Unlocks Part 4 of the event story."
+      }
+    ]
+  },
+  "MonopolyCar2024Game_lock_auto_tip": {
+    "tip": "Accelerate 10 times to unlock auto-advance mode (progress: $1)."
+  },
+  "MonopolyCar2024Game_open_auto_tip": {
+    "tip": "You have unlocked auto-advance mode. You will automatically pick a new crewmate when you pass the starting line."
+  },
+  "MonopolyCar2024Game_pick_tip": {
+    "tip": "You can pick a crewmate at the starting line. Completing a lap with a crewmate can yield a reward."
+  },
+  "MonopolyCar2024Game_sel_label": {
+    "tip": "Choose"
+  },
+  "MonopolyCar2024Game_title1": {
+    "tip": "Laps"
+  },
+  "MonopolyCar2024Game_title2": {
+    "tip": "Progress"
+  },
+  "MonopolyCar2024Game_total_award_title": {
+    "tip": "Total Obtained"
+  },
+  "MonopolyCar2024Game_total_num_tip": {
+    "tip": "Attempts: $1"
+  },
+  "MoscowURCoreActivity_subtitle_1": {
+    "tip": "Springtide Inn Online"
+  },
+  "MoscowURCoreActivity_subtitle_2": {
+    "tip": "Supply Station"
+  },
+  "NewMusic_1": {
+    "tip": "Favorite ($1)"
+  },
+  "NewMusic_2": {
+    "tip": "Searching..."
+  },
+  "NewMusic_3": {
+    "tip": "Found no songs matching the criteria."
+  },
+  "NewMusic_4": {
+    "tip": "Found no albums matching the criteria."
+  },
+  "NewMusic_5": {
+    "tip": "Favorites"
+  },
+  "NewMusic_6": {
+    "tip": "Albums"
+  },
+  "NewMusic_7": {
+    "tip": "No favorite entries found."
+  },
+  "NewMusic_help": {
+    "tip": {
+      "1": {
+        "icon": {
+          "atlas": "helpbg/music_help",
+          "path": ""
+        }
+      },
+      "ImageMode": true,
+      "defaultpage": 1,
+      "disableScroll": true,
+      "helpSize": {
+        "x": 1176,
+        "y": 1024
+      },
+      "pageMode": true,
+      "windowPos": {
+        "y": -70
+      },
+      "windowSize": {
+        "x": 1263,
+        "y": 873
+      }
+    }
+  },
+  "Normalbuild_URexchange_confirm": {
+    "tip": "Exchange 400 points for $1?"
+  },
+  "Normalbuild_URexchange_help": {
+    "tip": [
+      {
+        "info": "- UR Exchange Overview -"
+      },
+      {
+        "info": "· Every time you build in any of the standard Light, Heavy, Special, or Event pools without an obtainable UR shipgirl, you gain UR Exchange points at a rate of 1 point per Wisdom Cube used (up to a total of 400.)\n· When you use Build Tickets, the amount of points you get is equal to the number of Wisdom Cubes that that build would have cost.\n"
+      },
+      {
+        "info": "· 400 UR Exchange points can be traded for any one of the permanently available UR shipgirls."
+      }
+    ]
+  },
+  "Normalbuild_URexchange_text1": {
+    "tip": "UR Exchange"
+  },
+  "Normalbuild_URexchange_text2": {
+    "tip": "Total"
+  },
+  "Normalbuild_URexchange_text3": {
+    "tip": "View Choice"
+  },
+  "Normalbuild_URexchange_text4": {
+    "tip": "Exchange"
+  },
+  "Normalbuild_URexchange_warning1": {
+    "tip": "Insufficient points for exchange."
+  },
+  "Normalbuild_URexchange_warning3": {
+    "tip": "You've hit the points cap. You won't be able to gain any more points until you exchange for a UR. Build anyway?"
+  },
+  "OutPostCoreActivityUI_subtitle_1": {
+    "tip": "Call to Arms"
+  },
+  "OutPostCoreActivityUI_subtitle_2": {
+    "tip": "Dust-Specked Omen"
+  },
+  "OutPostOmenPage_task_tip1": {
+    "tip": "Unlocks on $1/$2"
+  },
+  "OutPostOmenPage_task_tip2": {
+    "tip": "Unlocks after collecting the previous day's mission rewards"
+  },
+  "Outpost_20250904_Progress": {
+    "tip": "Progress"
+  },
+  "Outpost_20250904_Sidebar4": {
+    "tip": "Call to Arms"
+  },
+  "Outpost_20250904_Sidebar5": {
+    "tip": "Prelude"
+  },
+  "Outpost_20250904_Title1": {
+    "tip": "Call to Arms"
+  },
+  "Outpost_20250904_Title2": {
+    "tip": "Call to Arms"
+  },
+  "Outpost_20260514_Detail": {
+    "tip": "Details"
+  },
+  "Pray_activity_tips1": {
+    "tip": [
+      {
+        "info": "- Overview -\nDuring the Winter Wishing Well Cards campaign, make wishes and grant temporary buffs to your fleet.\n\nAfter sending a card, you'll receive a Winter Wish. Collect 7 Winter Wishes to receive a Wish-Fulfilling Card (2026) that can be exchanged for a shipgirl on the event page.\n\nAfter making a wish, your fleet will also receive a temporary buff.\n\n - Cards -\n· Every day during the campaign, you get 1 card, up to a total of 7.\n· As long as you have cards remaining, you can send them to a shipgirl.\n· The following happens after you send a card:\n 1. You gain 1 Winter Wish\n 2. You can make an additional 2 wishes\n 3. You gain a fleet-wide buff from the shipgirl you sent the card to\n Note: Different shipgirls give different buffs, and only 1 buff of a given type can be active at the same time. If you send another card, your previously chosen buff will be overwritten.\n· After you have collected 7 Winter Wishes, you can turn them in on the event page to receive a Wish-Fulfilling Card (2026), which can be used from your Depot to receive an SR shipgirl and a commemorative item.\n\n - Making Wishes -\n· As long as you have wishes remaining, you can make a wish by tapping on the button on the right side.\n· After making a wish, you can select 1 of 3 types of buffs that will be applied to your whole fleet.\n Note: Only 1 buff of a given type can be active at the same time. If you send another card, your previously chosen buff will be overwritten."
+      }
+    ]
+  },
+  "SardiniaSPCoreActivityUI_fleetconfirm": {
+    "tip": "Current formation is empty. Do you want to import the formation from the previous stage?"
+  },
+  "SardiniaSPCoreActivityUI_help": {
+    "tip": [
+      {
+        "info": "- Overview -\nLight & Shadow Fashion Shoot! is available between <color=#92fc63>January 22nd and February 4th</color>!\nComplete missions, dispatch your fleets, and clear event stages to collect Camera Films and receive rewards!\n\n1. Tap the button in the bottom left corner to switch between Story Mode and Battle Mode.\n2. Battle Mode presents a series of stages which you can challenge with your fleets to earn Camera Films.\nBefore going into battle, you can decide whether you\\'d like to fight in a joint sortie or a solo sortie.\n· In a solo sortie, you will challenge each stage with only a single fleet. In this mode, all your shipgirls recover all their health at the start of the battle.\n· In a joint sortie, you will instead send out multiple fleets to battle on each stage. Completing the challenge in this mode will grant you additional rewards.\n3. You will receive rewards for collecting enough Camera Films, including <color=#92fc63>Elite DD Ugolino Vivaldi</color> and a <color=#92fc63>Prototype Triple 406mm Model 1940 Main Gun</color>.\n4. There are special missions available during the event. Complete these to receive additional rewards.\n5. There is a special story available in Story Mode. Read it in its entirety to receive a commemorative gear skin.\n"
+      }
+    ]
+  },
+  "SardiniaSPCoreActivityUI_story_reward_count": {
+    "tip": "Tap shipgirl, consume <icon name=65812 w=0.4 h=0.4/> <color=#10a7a9>($1 remaining)</color> to enter her feature page (event story chapter).\nComplete all stories to get special event gear skins <color=#10a7a9>($2/8)</color>"
+  },
+  "SardiniaSPCoreActivityUI_subtitle_1": {
+    "tip": "Light & Shadow"
+  },
+  "SardiniaSPCoreActivityUI_subtitle_2": {
+    "tip": "Milestone"
+  },
+  "SardiniaSPCoreActivityUI_title": {
+    "tip": "Event"
+  },
+  "SardiniaSPCoreActivityUI_unlock": {
+    "tip": "Locked"
+  },
+  "Settings_title_AdjustScr": {
+    "tip": "UI Adjustment"
+  },
+  "Settings_title_FPS": {
+    "tip": "Frame Rate Settings"
+  },
+  "Settings_title_LoginJP": {
+    "tip": "Account "
+  },
+  "Settings_title_Notification": {
+    "tip": "Push Notifications"
+  },
+  "Settings_title_Other": {
+    "tip": "Game Settings"
+  },
+  "Settings_title_Redeem": {
+    "tip": "Gift Code"
+  },
+  "Settings_title_Redeem_input_label": {
+    "tip": "Serial Code:"
+  },
+  "Settings_title_Redeem_input_placeholder": {
+    "tip": "Please enter your gift code."
+  },
+  "Settings_title_Redeem_input_submit": {
+    "tip": "Submit"
+  },
+  "Settings_title_Secpw": {
+    "tip": "Password Setup"
+  },
+  "Settings_title_Secpwlimop": {
+    "tip": "Password Restrictions"
+  },
+  "Settings_title_agreement": {
+    "tip": "Terms of Use"
+  },
+  "Settings_title_resManage": {
+    "tip": "Manage Assets"
+  },
+  "Settings_title_resManage_All": {
+    "tip": "Update All Assets"
+  },
+  "Settings_title_resManage_Main": {
+    "tip": "Manage Main Assets"
+  },
+  "Settings_title_resManage_Sub": {
+    "tip": "Manage Extra Assets"
+  },
+  "Settings_title_resUpdate": {
+    "tip": "Download Assets"
+  },
+  "Settings_title_sound": {
+    "tip": "Audio Settings"
+  },
+  "SkinDiscountHelp_BlackFriday": {
+    "tip": [
+      {
+        "info": "1. During the campaign, if you purchase a Black Friday rerun skin in this campaign <color=#92fc63>without using a coupon</color> or purchase any one of the Black Friday campaign's lucky bags, you may claim a <color=#92fc63>Skin Coupon (Black Friday 2025)</color> from the campaign page.\n2. The <color=#92fc63>Skin Coupon (Black Friday 2025)</color> gives you a discount of 300 Gems when purchasing a Black Friday rerun skin. This discount is not applicable to item packs.\n3. If you have not used this coupon before the campaign ends (at the server reset on December 3rd, 2025), it will be removed automatically."
+      }
+    ]
+  },
+  "SkinDiscountHelp_Carnival": {
+    "tip": [
+      {
+        "info": "1. During the campaign, after purchasing an eligible Party Dress skin <color=#92fc63>without using a coupon</color>, or after purchasing the Party Dress Return Lucky Box, you can claim a <color=#92fc63>Skin Coupon (Party Dress)</color> from the campaign page.\n2. The <color=#92fc63>Skin Coupon (Party Dress)</color> can be used to receive a 300 Gem discount when buying an eligible Party Dress skin during the campaign. It cannot be used when purchasing a pack deal.\n3. When the campaign ends (on 23:59, 2026/4/8), any unused <color=#92fc63>Skin Coupons (Party Dress)</color> will be deleted."
+      }
+    ]
+  },
+  "SkinDiscountHelp_School": {
+    "tip": [
+      {
+        "info": "1. During the campaign, if you purchase a School Girl series skin <color=#92fc63>without using a coupon</color> or purchase the School Return Lucky Box, you may claim a <color=#92fc63>Skin Coupon (School)</color> from the campaign page.\n2. The <color=#92fc63>Skin Coupon (School)</color> gives you a discount of 300 Gems when purchasing a School series skin. This discount is not applicable to item packs.\n3. If you have not used this coupon before the campaign ends (at the server reset on April 10th, 2025), it will be removed automatically."
+      }
+    ]
+  },
+  "SkinDiscount_Got": {
+    "tip": "Owned: $1"
+  },
+  "SkinDiscount_Hint": {
+    "tip": "You have an unclaimed coupon. Would you like to go to the claim coupon page?"
+  },
+  "SkinDiscount_Last_Coupon": {
+    "tip": "The number of coupons you're about to purchase will exceed the number of skins they may be used on. Some coupons will be unusable.\nDo you want to purchase the coupons?"
+  },
+  "SkinDiscount_Owned_Tips": {
+    "tip": "You already own at least one skin ($1/$2). Purchasing this pack will give you a coupon that can be used when purchasing an unowned skin.\nIf you already own all the eligible skins, you will receive 680 Gems instead and will not receive a coupon.\nDo you want to buy this pack?"
+  },
+  "SkinMagazinePage2_tip": {
+    "tip": "Collect"
+  },
+  "SpringFestival2026CoreActivity_subtitle_1": {
+    "tip": "Spring Auction Adventure"
+  },
+  "SpringFestival2026CoreActivity_subtitle_2": {
+    "tip": "Fu Po's Flawless Plan"
+  },
+  "SpringFestival2026CoreActivity_subtitle_3": {
+    "tip": "Manjuu Resort"
+  },
+  "SpringFestival2026CoreActivity_subtitle_4": {
+    "tip": "Happy Spring Festival"
+  },
+  "SpringFestival2026CoreActivity_subtitle_5": {
+    "tip": "Spring Fireworks Party"
+  },
+  "SpringFestival2026CoreActivity_subtitle_6": {
+    "tip": "Fei Yuen's Great Adventure"
+  },
+  "SpringFestival2026CoreActivity_subtitle_7": {
+    "tip": "Port Fashion Collection"
+  },
+  "SuperBulin2_help": {
+    "tip": [
+      {
+        "info": "How to Play:\n1. During the event, navigate to certain menus or stages to search for mysterious clues.\n2. If you're having difficulty finding the clue, tap the Clue icon to unlock the next phase of the clue search.\nNote: Clues can only be unlocked this way once every 10 minutes.\n3. Once all the clues have been collected, you will be able to challenge a secret stage. Complete it to obtain a special reward."
+      }
+    ]
+  },
+  "SuperBulin2_lock_tip": {
+    "tip": "Collect all the clues to unlock a secret stage!"
+  },
+  "SuperBulin2_tip1": {
+    "tip": "Look for the code in the Depot, bulin!"
+  },
+  "SuperBulin2_tip2": {
+    "tip": "Look for the code in the Dock, bulin!"
+  },
+  "SuperBulin2_tip3": {
+    "tip": "Look for the code in story chapter 1-4, bulin!"
+  },
+  "SuperBulin2_tip4": {
+    "tip": "Look for the code in the Dorm, bulin!"
+  },
+  "SuperBulin2_tip5": {
+    "tip": "Look for the code in story chapter 2-4, bulin!"
+  },
+  "SuperBulin2_tip6": {
+    "tip": "Look for the code in the Academy, bulin!"
+  },
+  "SuperBulin2_tip7": {
+    "tip": "Look for the code in the Shop, bulin!"
+  },
+  "SuperBulin2_tip8": {
+    "tip": "Look for the code in Mementos, bulin!"
+  },
+  "SuperBulin2_tip9": {
+    "tip": "Look for the code on the build screen, bulin!"
+  },
+  "Supplement_pay1": {
+    "tip": "Fraudulent chargeback activity has been confirmed on your account. Please resolve the disputed amount or contact customer support."
+  },
+  "Supplement_pay2": {
+    "tip": "Fraudulent chargeback activity has been confirmed on your account. Please resolve the disputed amount shown to the right, or contact customer support."
+  },
+  "Supplement_pay3": {
+    "tip": "All purchases have been successfully processed, and you are now able to log back in to the game. Thank you for your cooperation."
+  },
+  "Supplement_pay4": {
+    "tip": "Confirm"
+  },
+  "Supplement_pay5": {
+    "tip": "Tap on a confirmed case of fraudulent chargeback activity to view details and how to resolve the dispute."
+  },
+  "Supplement_pay6": {
+    "tip": "Purchased:"
+  },
+  "Supplement_pay7": {
+    "tip": "Refunded:"
+  },
+  "Supplement_pay8": {
+    "tip": "Left:$1"
+  },
+  "UrExchange_Pt_NotEnough": {
+    "tip": "You don't have enough exchange points."
+  },
+  "UrExchange_Pt_charges": {
+    "tip": "($1 times remaining)"
+  },
+  "UrExchange_Pt_help": {
+    "tip": [
+      {
+        "info": "The exchange rules on the event page are the same as in the event shop.\nThe UR ship can only be redeemed 2 times in total during the event. \nThe first time requires 200 UR Vouchers, and the second time requires 300 UR Vouchers."
+      }
+    ]
+  },
+  "Valentine_minigame_label1": {
+    "tip": "Score:"
+  },
+  "Valentine_minigame_label2": {
+    "tip": "Chocolates Needed:"
+  },
+  "Valentine_minigame_label3": {
+    "tip": "Progress:"
+  },
+  "Word_Ship_Exp_Buff": {
+    "tip": "EXP Rate+ "
+  },
+  "YidaliV5FramePage_get": {
+    "tip": "Collect"
+  },
+  "YidaliV5FramePage_go": {
+    "tip": "Go"
+  },
+  "YidaliV5FramePage_got": {
+    "tip": "Collected"
+  },
+  "YunLongSPCoreActivity_subtitle_1": {
+    "tip": "The Vagabond's Recruitment Plan"
+  },
+  "YunLongSPCoreActivity_subtitle_2": {
+    "tip": "Vagabond's Supply Station"
   },
   "acceleration_tips_1": {
     "tip": "<color=#66472a><size=34>Do you want to use $1 Cat Box Quick Finisher(s) to speed up training $2 time(s)?</size></color>"
@@ -719,18 +1365,6 @@
   "anniversary_task_title_14": {
     "tip": "I can't wait until I can see you once more. When the birds resume their song once more..."
   },
-  "Announcements_Donotshow": {
-    "tip": "Don't show again today"
-  },
-  "Announcements_Event_Notice": {
-    "tip": "Event"
-  },
-  "Announcements_News": {
-    "tip": "News"
-  },
-  "Announcements_System_Notice": {
-    "tip": "System"
-  },
   "answer_answer_role": {
     "tip": "下一题由【$1】同学来回答问题\n（请选择【$1】认为正确的答案噢）"
   },
@@ -746,21 +1380,6 @@
         "info": "1 ???????"
       }
     ]
-  },
-  "ANTTFFCoreActivity_subtitle_1": {
-    "tip": "A Note Through the Firmament - Finale"
-  },
-  "ANTTFFCoreActivity_title": {
-    "tip": "Finale"
-  },
-  "ANTTFFCoreActivity_title2": {
-    "tip": ""
-  },
-  "ANTTFFCoreActivityPtpage_title": {
-    "tip": "Finale"
-  },
-  "ANTTFFCoreActivityPtpage_title2": {
-    "tip": ""
   },
   "apartment_level_unenough": {
     "tip": "Unlocks at Intimacy Lv. $1"
@@ -788,21 +1407,6 @@
   },
   "aprilfool_2026_cd": {
     "tip": "Cooldown"
-  },
-  "AR_plane_check": {
-    "tip": "Please detect a level surface."
-  },
-  "AR_plane_distance_near": {
-    "tip": "The character will be hidden if the distance between you is too short."
-  },
-  "AR_plane_long_press_to_summon": {
-    "tip": "Tap and hold on a level surface to invite a character."
-  },
-  "AR_plane_summon_fail_by_near": {
-    "tip": "Could not invite character; distance too short."
-  },
-  "AR_plane_summon_success": {
-    "tip": "Character invited."
   },
   "archives_boss_was_opened": {
     "tip": "Dossier Analysis is in progress. Unable to begin a standard META Showdown."
@@ -1131,6 +1735,9 @@
   "award_window_pt_title": {
     "tip": "Returnee points:"
   },
+  "backYard_missing_furnitrue_tip": {
+    "tip": "Missing these items "
+  },
   "backayrd_theme_delete_erro": {
     "tip": "Failed to delete theme."
   },
@@ -1168,11 +1775,11 @@
   "backyard_apply_theme_template_erro": {
     "tip": "Failed to apply loadout."
   },
-  "backyard_backyardGranaryLayer_buy_max_count": {
-    "tip": "<color=#92fc63>Supplies limit reached.</color>"
-  },
   "backyard_backyardGranaryLayer_buyCountLimit": {
     "tip": "May only purchase <color=#92fc63>$1</color>."
+  },
+  "backyard_backyardGranaryLayer_buy_max_count": {
+    "tip": "<color=#92fc63>Supplies limit reached.</color>"
   },
   "backyard_backyardGranaryLayer_error_entendFail": {
     "tip": "<color=#92fc63>You don't have the required resources to expand storage.</color>"
@@ -1207,6 +1814,9 @@
   "backyard_backyardGranaryLayer_word": {
     "tip": "This one? Or that one... It all looks delicious!"
   },
+  "backyard_backyardScene_Disable_Rotation": {
+    "tip": "This furniture cannot be rotated."
+  },
   "backyard_backyardScene_clearSuccess": {
     "tip": "<color=#92fc63>Cleared!</color>"
   },
@@ -1215,9 +1825,6 @@
   },
   "backyard_backyardScene_comforChatContent2": {
     "tip": "The number of pieces of furniture included in this count increases depending on how many times the dorm has been expanded. Current expansions: <color=#72bc42>$1</color>"
-  },
-  "backyard_backyardScene_Disable_Rotation": {
-    "tip": "This furniture cannot be rotated."
   },
   "backyard_backyardScene_error_canNotRotate": {
     "tip": "<color=#92fc63>May not rotate</color> this location."
@@ -1324,26 +1931,11 @@
   "backyard_class_tip": {
     "tip": "Attending Lectures grants EXP over time."
   },
-  "BackYard_collection_be_delete_tip": {
-    "tip": "Some loadouts have been removed your favorites due to deletion by their uploaders. "
-  },
   "backyard_decoration_theme_template_delete_tip": {
     "tip": "Are you sure you wish to delete this loadout? Likes and Favorites will not be retained once deleted!"
   },
   "backyard_energy_qiuck_up_tip": {
     "tip": "You'll need to give <color=#A9F548FF>$1 cups</color> of Coffee for full energy restoration!\n\nCoffee left: <color=$2>$3 cups</color>"
-  },
-  "backyard_extend_tip_1": {
-    "tip": "Need "
-  },
-  "backyard_extend_tip_2": {
-    "tip": "Expansion License "
-  },
-  "backyard_extend_tip_3": {
-    "tip": "You have:"
-  },
-  "backyard_extend_tip_4": {
-    "tip": ""
   },
   "backyard_extendArea_erro": {
     "tip": "Failed to expand dorm: <color=#92fc63>$1</color>"
@@ -1362,6 +1954,18 @@
   },
   "backyard_extendCapacity_ok": {
     "tip": "Supplies storage expanded! Storage capacity increased by <color=#92fc63>$1</color>."
+  },
+  "backyard_extend_tip_1": {
+    "tip": "Need "
+  },
+  "backyard_extend_tip_2": {
+    "tip": "Expansion License "
+  },
+  "backyard_extend_tip_3": {
+    "tip": "You have:"
+  },
+  "backyard_extend_tip_4": {
+    "tip": ""
   },
   "backyard_filter_tag_other": {
     "tip": "Misc"
@@ -1387,20 +1991,17 @@
   "backyard_longpress_ship_tip": {
     "tip": "<size=27>Tap and hold to view detailed character information.</size>"
   },
-  "backYard_missing_furnitrue_tip": {
-    "tip": "Missing these items "
-  },
   "backyard_no_pos_for_ship": {
     "tip": "You don't have enough space in your dorm! You can only choose this much."
   },
   "backyard_no_ship_tip": {
     "tip": "Ship does not exist."
   },
-  "backyard_not_found_theme_template": {
-    "tip": "No corresponding loadout found."
-  },
   "backyard_notPosition_shipExit": {
     "tip": "Dorm is full. Ship has left the dorm."
+  },
+  "backyard_not_found_theme_template": {
+    "tip": "No corresponding loadout found."
   },
   "backyard_open_2floor": {
     "tip": "Spend $1 Gems to unlock the second floor?\n<color=#FF4B14>No new training slots will unlock with second floor.</color> For decoration only!"
@@ -1422,9 +2023,6 @@
   },
   "backyard_save_empty_theme": {
     "tip": "Unable to save empty themes."
-  },
-  "backyard_ship_on_furnitrue": {
-    "tip": "There's a girl on this furniture! Continue moving?"
   },
   "backyard_shipAddInimacy_error": {
     "tip": "Affinity increase failed: "
@@ -1452,6 +2050,9 @@
   },
   "backyard_shipSpeedUpEnergy_error": {
     "tip": "Speed up failed."
+  },
+  "backyard_ship_on_furnitrue": {
+    "tip": "There's a girl on this furniture! Continue moving?"
   },
   "backyard_shop_refresh_frequently": {
     "tip": "You're tapping too rapidly. Please try again in $1 second(s)"
@@ -2644,13 +3245,13 @@
           "path": ""
         }
       },
+      "ImageMode": true,
       "defaultpage": 1,
       "disableScroll": false,
       "helpSize": {
         "x": 1176,
         "y": 1024
       },
-      "ImageMode": true,
       "pageMode": true,
       "windowPos": {
         "y": -70
@@ -2844,31 +3445,6 @@
   "blueprint_task_update_tip": {
     "tip": "The development progress of a ship has been updated. Please inspect your Shipyard."
   },
-  "BoatAdGame_minigame_help": {
-    "tip": {
-      "1": {
-        "icon": {
-          "atlas": "helpbg/boatadgame_minigame_help",
-          "path": ""
-        }
-      },
-      "defaultpage": 1,
-      "disableScroll": true,
-      "helpSize": {
-        "x": 1176,
-        "y": 1024
-      },
-      "ImageMode": true,
-      "pageMode": true,
-      "windowPos": {
-        "y": -70
-      },
-      "windowSize": {
-        "x": 1263,
-        "y": 873
-      }
-    }
-  },
   "box_account_del_click": {
     "tip": "Tap to write..."
   },
@@ -3020,6 +3596,9 @@
   "bulin_tip_other3": {
     "tip": "Quit the stage? You won't get any rewards."
   },
+  "buyProp_noResource_error": {
+    "tip": "You don't have enough <color=#92fc63>$1</color>."
+  },
   "buy_countLimit": {
     "tip": "Item is currently sold out "
   },
@@ -3028,9 +3607,6 @@
   },
   "buy_item_quest": {
     "tip": "Are you sure you want to buy this item?"
-  },
-  "buyProp_noResource_error": {
-    "tip": "You don't have enough <color=#92fc63>$1</color>."
   },
   "caibulin_help": {
     "tip": [
@@ -3078,6 +3654,12 @@
   "cannot_build_multiple_printblue": {
     "tip": "Would you like to pause <color=#92fc63>$1</color>'s development and start on <color=#92fc63>$2</color> instead? Your development progress will be saved.\nOnce you start or resume development, you can not change which ship to develop for <color=#92fc63>24 hours</color>. "
   },
+  "card_battle_card_empty_ch": {
+    "tip": "There are no Command cards in your deck."
+  },
+  "card_battle_card_empty_en": {
+    "tip": "- LIST IS EMPTY -"
+  },
   "card_battle_card details": {
     "tip": "View Details"
   },
@@ -3092,12 +3674,6 @@
   },
   "card_battle_card details_switchto_hand": {
     "tip": "View Commands"
-  },
-  "card_battle_card_empty_ch": {
-    "tip": "There are no Command cards in your deck."
-  },
-  "card_battle_card_empty_en": {
-    "tip": "- LIST IS EMPTY -"
   },
   "card_pairs_help_tip": {
     "tip": [
@@ -3695,13 +4271,13 @@
           "path": ""
         }
       },
+      "ImageMode": true,
       "defaultpage": 1,
       "disableScroll": true,
       "helpSize": {
         "x": 1176,
         "y": 1024
       },
-      "ImageMode": true,
       "pageMode": true,
       "windowPos": {
         "y": -70
@@ -3765,13 +4341,13 @@
           "path": ""
         }
       },
+      "ImageMode": true,
       "defaultpage": 1,
       "disableScroll": true,
       "helpSize": {
         "x": 1176,
         "y": 1024
       },
-      "ImageMode": true,
       "pageMode": true,
       "windowPos": {
         "y": -70
@@ -3993,13 +4569,13 @@
           "path": ""
         }
       },
+      "ImageMode": true,
       "defaultpage": 1,
       "disableScroll": true,
       "helpSize": {
         "x": 1176,
         "y": 1024
       },
-      "ImageMode": true,
       "pageMode": true,
       "windowPos": {
         "y": -70
@@ -4246,13 +4822,13 @@
           "path": ""
         }
       },
+      "ImageMode": true,
       "defaultpage": 1,
       "disableScroll": true,
       "helpSize": {
         "x": 1176,
         "y": 1024
       },
-      "ImageMode": true,
       "pageMode": true,
       "windowPos": {
         "y": -70
@@ -4664,13 +5240,13 @@
           "path": ""
         }
       },
+      "ImageMode": true,
       "defaultpage": 1,
       "disableScroll": true,
       "helpSize": {
         "x": 1176,
         "y": 1024
       },
-      "ImageMode": true,
       "pageMode": true,
       "windowPos": {
         "y": -70
@@ -5071,11 +5647,11 @@
   "common_activity_end": {
     "tip": "This event <color=#92fc63>has already ended</color>"
   },
-  "common_activity_not_start": {
-    "tip": "This event <color=#92fc63>is currently closed</color>"
-  },
   "common_activity_notStartOrEnd": {
     "tip": "This event <color=#92fc63>has not yet started</color> or <color=#92fc63>has already ended</color>"
+  },
+  "common_activity_not_start": {
+    "tip": "This event <color=#92fc63>is currently closed</color>"
   },
   "common_already owned": {
     "tip": "Owned"
@@ -5903,13 +6479,6 @@
   "cumulative_victory_target_tip": {
     "tip": "Total Victories:"
   },
-  "CurlingGame_tips1": {
-    "tip": [
-      {
-        "info": "- Overview -\n· Strategically position the swole Meowfficer and slide the curling stone as close to the red circle as you can to score points.\n· A new round of Manjuu Curling will be unlocked every day at midnight up to December 25th.\n\n- How to Play -\n· Every round of Manjuu Curling consists of 3 curling stone slides. One new round a day is unlocked during the event period.\n· Press and hold the Meowfficer to change the curling stone's launch speed. The longer you hold, the faster it will go. Let go when you wish to launch the curling stone.\n· While your finger is on the Meowfficer, move it up and down on the screen to change the curling stone's course.\n· The curling stone's course will change if it bumps into an object.\n· When the curling stone comes to a stop, you will score points based on which circle it stopped inside. Stopping in the blue circle gives you 1,000 points, the yellow circle gives you 2,000 points, and the red circle gives you 3,000 points."
-      }
-    ]
-  },
   "current_boss_was_opened": {
     "tip": "A standard META Showdown is in progress. Unable to begin Dossier Analysis."
   },
@@ -5919,18 +6488,6 @@
         "info": "How to Play:\n1. Until <color=#92fc63>4/23</color>, <color=#92fc63>1</color> new challenge round will be added every day (total of <color=#92fc63>7</color>). Play through the challenge stages at any point after they are unlocked to earn the corresponding rewards.\nRules:\n1. You have 60 seconds for each round. Enter the correct inputs to approach and split the watermelon.\n2. If you enter the wrong input, your character will be temporarily stalled.\n3. The game ends when you successfully split the watermelon or the time limit runs out."
       }
     ]
-  },
-  "daily_level_go": {
-    "tip": "Go"
-  },
-  "daily_level_quick_battle_label1": {
-    "tip": "Quick\nBattle x"
-  },
-  "daily_level_quick_battle_label2": {
-    "tip": "Battle"
-  },
-  "daily_level_quick_battle_label3": {
-    "tip": "Quick\nBattle "
   },
   "dailyLevel_bonus_activity": {
     "tip": "Limited Bonus"
@@ -5946,6 +6503,18 @@
   },
   "dailyLevel_unopened": {
     "tip": "Not open"
+  },
+  "daily_level_go": {
+    "tip": "Go"
+  },
+  "daily_level_quick_battle_label1": {
+    "tip": "Quick\nBattle x"
+  },
+  "daily_level_quick_battle_label2": {
+    "tip": "Battle"
+  },
+  "daily_level_quick_battle_label3": {
+    "tip": "Quick\nBattle "
   },
   "dal_AwardPage_name_1": {
     "tip": "Gear"
@@ -5992,27 +6561,6 @@
   "dal_main_sheet5_en": {
     "tip": "Reward List"
   },
-  "DAL_stage_finish_at": {
-    "tip": "Complete:"
-  },
-  "DAL_stage_label_analysis_1": {
-    "tip": "Analyzing..."
-  },
-  "DAL_stage_label_analysis_2": {
-    "tip": "Analysis Complete"
-  },
-  "DAL_stage_label_commander": {
-    "tip": "Command System"
-  },
-  "DAL_stage_label_data": {
-    "tip": "Sector Intel"
-  },
-  "DAL_stage_label_support": {
-    "tip": "Aerial Support"
-  },
-  "DAL_story_tip": {
-    "tip": "Read the side stories to receive an exclusive piece of gear"
-  },
   "dal_story_tip1": {
     "tip": "Read the story\nto get rewards"
   },
@@ -6039,21 +6587,6 @@
   },
   "dal_story_tip_name_en_6": {
     "tip": "SECTOR-6"
-  },
-  "DAL_upgrade_active": {
-    "tip": "Applied"
-  },
-  "DAL_upgrade_not_enough": {
-    "tip": "Complete the event missions to receive Fraxinus AL Improvement Data"
-  },
-  "DAL_upgrade_program": {
-    "tip": "Upgrade Airship"
-  },
-  "DAL_upgrade_ship": {
-    "tip": "Upgrade Airship"
-  },
-  "DAL_upgrade_unlock": {
-    "tip": "Locked"
   },
   "danmachi_award_1": {
     "tip": "Shipgirl"
@@ -6289,31 +6822,6 @@
   "doa_meili": {
     "tip": "APL"
   },
-  "doa_minigame_help": {
-    "tip": {
-      "1": {
-        "icon": {
-          "atlas": "helpbg/doa_minigame_1",
-          "path": ""
-        }
-      },
-      "defaultpage": 1,
-      "disableScroll": true,
-      "helpSize": {
-        "x": 1176,
-        "y": 1024
-      },
-      "ImageMode": true,
-      "pageMode": true,
-      "windowPos": {
-        "y": -70
-      },
-      "windowSize": {
-        "x": 1263,
-        "y": 873
-      }
-    }
-  },
   "doa_minigame_Luna": {
     "tip": "Luna"
   },
@@ -6325,6 +6833,31 @@
   },
   "doa_minigame_Tamaki": {
     "tip": "Tamaki"
+  },
+  "doa_minigame_help": {
+    "tip": {
+      "1": {
+        "icon": {
+          "atlas": "helpbg/doa_minigame_1",
+          "path": ""
+        }
+      },
+      "ImageMode": true,
+      "defaultpage": 1,
+      "disableScroll": true,
+      "helpSize": {
+        "x": 1176,
+        "y": 1024
+      },
+      "pageMode": true,
+      "windowPos": {
+        "y": -70
+      },
+      "windowSize": {
+        "x": 1263,
+        "y": 873
+      }
+    }
   },
   "doa_pt_complete": {
     "tip": "Upgrade Complete "
@@ -6366,6 +6899,24 @@
   "dont_send_message_frequently": {
     "tip": "Do not spam the chat. "
   },
+  "dorm3d_AR_switch": {
+    "tip": "The AR feature is undergoing maintenance..."
+  },
+  "dorm3d_Ankeleiqi_bed": {
+    "tip": "Bedroom"
+  },
+  "dorm3d_Ankeleiqi_chair": {
+    "tip": "Living Area"
+  },
+  "dorm3d_Ankeleiqi_entertainmentarea": {
+    "tip": "Amusement Area"
+  },
+  "dorm3d_VIDEO_CHAT_LABEL": {
+    "tip": "Request From $1"
+  },
+  "dorm3d_VIDEO_TELEPHONE_LABEL": {
+    "tip": "Call from $1"
+  },
   "dorm3d_accompany_locked": {
     "tip": "Unavailable"
   },
@@ -6383,15 +6934,6 @@
   },
   "dorm3d_already_gifted": {
     "tip": "Already given"
-  },
-  "dorm3d_Ankeleiqi_bed": {
-    "tip": "Bedroom"
-  },
-  "dorm3d_Ankeleiqi_chair": {
-    "tip": "Living Area"
-  },
-  "dorm3d_Ankeleiqi_entertainmentarea": {
-    "tip": "Amusement Area"
   },
   "dorm3d_appellation_cd": {
     "tip": "You may change your nickname again after $1."
@@ -6413,9 +6955,6 @@
   },
   "dorm3d_appellation_waring4": {
     "tip": "You cannot change your nickname currently."
-  },
-  "dorm3d_AR_switch": {
-    "tip": "The AR feature is undergoing maintenance..."
   },
   "dorm3d_beach_buy": {
     "tip": "Would you like to spend <color=#39bfff>$1</color> to unlock the <color=#169fff>$2</color>?"
@@ -6501,14 +7040,14 @@
   "dorm3d_dance_button": {
     "tip": "Dance"
   },
+  "dorm3d_data_Invite_lack": {
+    "tip": "You don't have enough characters to move."
+  },
   "dorm3d_data_choose": {
     "tip": "Choose Date"
   },
   "dorm3d_data_go": {
     "tip": "Select a character to put in the <color=#39bfff>$1</color>."
-  },
-  "dorm3d_data_Invite_lack": {
-    "tip": "You don't have enough characters to move."
   },
   "dorm3d_day_night_switching1": {
     "tip": "Already in time period: Day"
@@ -6738,6 +7277,9 @@
   "dorm3d_own_favor": {
     "tip": "Owning a character increases their Intimacy by 100."
   },
+  "dorm3d_photo_Others": {
+    "tip": "Misc."
+  },
   "dorm3d_photo_active_zone": {
     "tip": "$1 Area Exclusive"
   },
@@ -6779,9 +7321,6 @@
   },
   "dorm3d_photo_no_role": {
     "tip": "Character Unavailable"
-  },
-  "dorm3d_photo_Others": {
-    "tip": "Misc."
   },
   "dorm3d_photo_paramaters": {
     "tip": "Parameters"
@@ -7094,12 +7633,6 @@
   },
   "dorm3d_unlock_tips": {
     "tip": "Unlocked at Intimacy $1"
-  },
-  "dorm3d_VIDEO_CHAT_LABEL": {
-    "tip": "Request From $1"
-  },
-  "dorm3d_VIDEO_TELEPHONE_LABEL": {
-    "tip": "Call from $1"
   },
   "dorm3d_volleyball_button": {
     "tip": "Beach Volleyball"
@@ -8233,13 +8766,13 @@
           "path": ""
         }
       },
+      "ImageMode": true,
       "defaultpage": 1,
       "disableScroll": true,
       "helpSize": {
         "x": 1176,
         "y": 1024
       },
-      "ImageMode": true,
       "pageMode": true,
       "windowPos": {
         "y": -70
@@ -8250,9 +8783,6 @@
       }
     }
   },
-  "fengfanV3_20251023_jinianshouce": {
-    "tip": "Achievements"
-  },
   "fengfanV3_20251023_Sidebar1": {
     "tip": "Main Event "
   },
@@ -8261,6 +8791,9 @@
   },
   "fengfanV3_20251023_Sidebar3": {
     "tip": "Side Event "
+  },
+  "fengfanV3_20251023_jinianshouce": {
+    "tip": "Achievements"
   },
   "fenjie_lantu_tip": {
     "tip": "You can only analyze Prototype Blueprints after reaching Development Level 30 with that corresponding ship."
@@ -8407,6 +8940,24 @@
   "fleet_updateFleet_error": {
     "tip": "Failed to update fleet: "
   },
+  "formationScene_use_oil_limit_enemy": {
+    "tip": "Escort"
+  },
+  "formationScene_use_oil_limit_flagship": {
+    "tip": "Flagship"
+  },
+  "formationScene_use_oil_limit_submarine": {
+    "tip": "SS"
+  },
+  "formationScene_use_oil_limit_surface": {
+    "tip": "Surface"
+  },
+  "formationScene_use_oil_limit_tip": {
+    "tip": "Cost Limit:"
+  },
+  "formationScene_use_oil_limit_tip_worldboss": {
+    "tip": "Cost Limit:"
+  },
   "formation_chapter_lock": {
     "tip": "Clear chapter $1 to unlock Fleet $2!"
   },
@@ -8427,24 +8978,6 @@
   },
   "formation_switch_tip": {
     "tip": "Current fleet cannot be formed. Auto switching to <color=#92fc63>$1</color>."
-  },
-  "formationScene_use_oil_limit_enemy": {
-    "tip": "Escort"
-  },
-  "formationScene_use_oil_limit_flagship": {
-    "tip": "Flagship"
-  },
-  "formationScene_use_oil_limit_submarine": {
-    "tip": "SS"
-  },
-  "formationScene_use_oil_limit_surface": {
-    "tip": "Surface"
-  },
-  "formationScene_use_oil_limit_tip": {
-    "tip": "Cost Limit:"
-  },
-  "formationScene_use_oil_limit_tip_worldboss": {
-    "tip": "Cost Limit:"
   },
   "fragment_shop_title": {
     "tip": "Proto"
@@ -8569,23 +9102,17 @@
   "friend_resume_title_metal": {
     "tip": "Highest rank: "
   },
-  "friend_search_page_tip": {
-    "tip": "Display up to <color=#92fc63>$1</color>  players"
-  },
-  "friend_search_succeed": {
-    "tip": "Search complete!"
-  },
   "friend_searchFriend_noPlayer": {
     "tip": "Unable to check this player."
   },
   "friend_searchFriend_wait_time": {
     "tip": "May search again in $1 seconds"
   },
-  "friend_send_msg_erro_tip": {
-    "tip": "Player is offline. Unable to send message."
+  "friend_search_page_tip": {
+    "tip": "Display up to <color=#92fc63>$1</color>  players"
   },
-  "friend_send_msg_null_tip": {
-    "tip": "Unable to send message."
+  "friend_search_succeed": {
+    "tip": "Search complete!"
   },
   "friend_sendFriendMsg_error": {
     "tip": "Failed to send message: "
@@ -8598,6 +9125,12 @@
   },
   "friend_sendFriendRequest_success": {
     "tip": "Friend request sent!"
+  },
+  "friend_send_msg_erro_tip": {
+    "tip": "Player is offline. Unable to send message."
+  },
+  "friend_send_msg_null_tip": {
+    "tip": "Unable to send message."
   },
   "fur_all_buy": {
     "tip": "Buy All"
@@ -8624,7 +9157,7 @@
   "fushun_game3_tip": {
     "tip": [
       {
-        "info": "- Overview -\nIn the Fu Shun's Great Adventure V minigame, take control of Fu Shun and help her avoid obstacles and pitfalls while defeating enemies to rack up points.\n\nYou will receive 1 Minigame Point daily up to February 5th. Finishing the minigame with a Minigame Point in your possession will subtract 1 point, progress the minigame, and give you rewards. Spending 7 Minigame Points in total will award you with the Dragon Empery DD Fu Shun.\n\n- How to Play -\n· Tap the button on the bottom left of the screen to jump.\n· Tap the button on the bottom right of the screen to attack.\n· Coming in contact with a Nianjuu will hurt you for 1 health point.\n· When you run out of health points, fall off, or use the \\\\\"\"End Game\\\\\"\" button, the minigame is done.\n· You may come across useful items as you play through the minigame. These include:\n1. Coin - Worth 50 points\n2. Amulet - Worth 300 points\n3. Power Juice - Increases your movement speed and jump height and lets you defeat Nianjuus by stomping them\n4. Missiles - Upgrades your regular attack into a missile strike\n5. Magnet - Attracts nearby items\n6. Shield - Negates 1 point of damage (up to 3 shields can be held at a time)"
+        "info": "- Overview -\nIn the Fu Shun's Great Adventure V minigame, take control of Fu Shun and help her avoid obstacles and pitfalls while defeating enemies to rack up points.\n\nYou will receive 1 Minigame Point daily up to February 5th. Finishing the minigame with a Minigame Point in your possession will subtract 1 point, progress the minigame, and give you rewards. Spending 7 Minigame Points in total will award you with the Dragon Empery DD Fu Shun.\n\n- How to Play -\n· Tap the button on the bottom left of the screen to jump.\n· Tap the button on the bottom right of the screen to attack.\n· Coming in contact with a Nianjuu will hurt you for 1 health point.\n· When you run out of health points, fall off, or use the \\\"\"End Game\\\"\" button, the minigame is done.\n· You may come across useful items as you play through the minigame. These include:\n1. Coin - Worth 50 points\n2. Amulet - Worth 300 points\n3. Power Juice - Increases your movement speed and jump height and lets you defeat Nianjuus by stomping them\n4. Missiles - Upgrades your regular attack into a missile strike\n5. Magnet - Attracts nearby items\n6. Shield - Negates 1 point of damage (up to 3 shields can be held at a time)"
       }
     ]
   },
@@ -10198,36 +10731,6 @@
   "harbour_bomb_tip": {
     "tip": "The harbor has been destroyed!"
   },
-  "HelenaCoreActivity_subtitle_1": {
-    "tip": "Memories in Echo"
-  },
-  "HelenaCoreActivity_subtitle_2": {
-    "tip": "Call to Arms"
-  },
-  "HelenaCoreActivity_subtitle_3": {
-    "tip": "To a Brighter World"
-  },
-  "HelenaCoreActivity_subtitle_4": {
-    "tip": "A Note Through the Firmament"
-  },
-  "HelenaCoreActivity_subtitle_5": {
-    "tip": "Veil Resupply Point"
-  },
-  "HelenaCoreActivity_subtitle_6": {
-    "tip": "UR Exchange"
-  },
-  "HelenaCoreActivity_title": {
-    "tip": "Event"
-  },
-  "HelenaCoreActivity_title2": {
-    "tip": "Event"
-  },
-  "HelenaPTPage_title": {
-    "tip": "Memories in Echo"
-  },
-  "HelenaPTPage_title2": {
-    "tip": ""
-  },
   "help_act_event": {
     "tip": {
       "1": {
@@ -10236,13 +10739,13 @@
           "path": ""
         }
       },
+      "ImageMode": true,
       "defaultpage": 1,
       "disableScroll": true,
       "helpSize": {
         "x": 1176,
         "y": 1024
       },
-      "ImageMode": true,
       "pageMode": true,
       "windowPos": {
         "y": -70
@@ -10326,13 +10829,13 @@
           "path": ""
         }
       },
+      "ImageMode": true,
       "defaultpage": 7,
       "disableScroll": true,
       "helpSize": {
         "x": 836,
         "y": 660
       },
-      "ImageMode": true,
       "pageMode": true,
       "windowPos": {
         "y": 15
@@ -10364,13 +10867,13 @@
         "line": true
       },
       "disableScroll": true,
-      "helpbg": true,
       "helpPos": {
         "y": 50
       },
       "helpSize": {
         "y": 400
       },
+      "helpbg": true,
       "windowSize": {
         "y": 720
       }
@@ -10414,13 +10917,13 @@
           "path": ""
         }
       },
+      "ImageMode": true,
       "defaultpage": 1,
       "disableScroll": true,
       "helpSize": {
         "x": 1176,
         "y": 1024
       },
-      "ImageMode": true,
       "pageMode": true,
       "windowPos": {
         "y": -70
@@ -10463,13 +10966,13 @@
           "path": ""
         }
       },
+      "ImageMode": true,
       "defaultpage": 1,
       "disableScroll": true,
       "helpSize": {
         "x": 1176,
         "y": 1024
       },
-      "ImageMode": true,
       "pageMode": true,
       "windowPos": {
         "y": -70
@@ -10488,13 +10991,13 @@
           "path": ""
         }
       },
+      "ImageMode": true,
       "buttonsHeight": -130,
       "disableScroll": true,
       "helpSize": {
         "x": 1176,
         "y": 924
       },
-      "ImageMode": true,
       "pageMode": false,
       "windowPos": {
         "y": 15
@@ -10725,13 +11228,13 @@
           "path": ""
         }
       },
+      "ImageMode": true,
       "defaultpage": 1,
       "disableScroll": true,
       "helpSize": {
         "x": 1176,
         "y": 1024
       },
-      "ImageMode": true,
       "pageMode": true,
       "windowPos": {
         "y": -70
@@ -10804,13 +11307,13 @@
           "path": ""
         }
       },
+      "ImageMode": true,
       "defaultpage": 3,
       "disableScroll": true,
       "helpSize": {
         "x": 1176,
         "y": 1024
       },
-      "ImageMode": true,
       "pageMode": true,
       "windowPos": {
         "y": -70
@@ -10883,13 +11386,13 @@
           "path": ""
         }
       },
+      "ImageMode": true,
       "defaultpage": 2,
       "disableScroll": true,
       "helpSize": {
         "x": 1176,
         "y": 1024
       },
-      "ImageMode": true,
       "pageMode": true,
       "windowPos": {
         "y": -70
@@ -10962,13 +11465,13 @@
           "path": ""
         }
       },
+      "ImageMode": true,
       "defaultpage": 4,
       "disableScroll": true,
       "helpSize": {
         "x": 1176,
         "y": 1024
       },
-      "ImageMode": true,
       "pageMode": true,
       "windowPos": {
         "y": -70
@@ -11024,13 +11527,13 @@
           "path": ""
         }
       },
+      "ImageMode": true,
       "defaultpage": 1,
       "disableScroll": true,
       "helpSize": {
         "x": 1176,
         "y": 1024
       },
-      "ImageMode": true,
       "pageMode": true,
       "windowPos": {
         "y": -70
@@ -11146,13 +11649,13 @@
           "path": ""
         }
       },
+      "ImageMode": true,
       "defaultpage": 1,
       "disableScroll": true,
       "helpSize": {
         "x": 1176,
         "y": 1024
       },
-      "ImageMode": true,
       "pageMode": true,
       "windowPos": {
         "y": -70
@@ -11554,10 +12057,10 @@
         "line": true
       },
       "disableScroll": true,
-      "helpbg": true,
       "helpSize": {
         "y": 264
       },
+      "helpbg": true,
       "windowSize": {
         "y": 440
       }
@@ -11571,13 +12074,13 @@
           "path": ""
         }
       },
+      "ImageMode": true,
       "defaultpage": 1,
       "disableScroll": true,
       "helpSize": {
         "x": 1176,
         "y": 1024
       },
-      "ImageMode": true,
       "pageMode": true,
       "windowPos": {
         "y": -70
@@ -11851,13 +12354,13 @@
           "path": ""
         }
       },
+      "ImageMode": true,
       "defaultpage": 8,
       "disableScroll": true,
       "helpSize": {
         "x": 1176,
         "y": 1024
       },
-      "ImageMode": true,
       "pageMode": true,
       "windowPos": {
         "y": -70
@@ -11918,13 +12421,13 @@
           "path": ""
         }
       },
+      "ImageMode": true,
       "defaultpage": 8,
       "disableScroll": true,
       "helpSize": {
         "x": 1176,
         "y": 1024
       },
-      "ImageMode": true,
       "pageMode": true,
       "windowPos": {
         "y": -70
@@ -11999,13 +12502,13 @@
           "path": ""
         }
       },
+      "ImageMode": true,
       "defaultpage": 8,
       "disableScroll": true,
       "helpSize": {
         "x": 1176,
         "y": 1024
       },
-      "ImageMode": true,
       "pageMode": true,
       "windowPos": {
         "y": -70
@@ -12066,13 +12569,13 @@
           "path": ""
         }
       },
+      "ImageMode": true,
       "defaultpage": 8,
       "disableScroll": true,
       "helpSize": {
         "x": 1176,
         "y": 1024
       },
-      "ImageMode": true,
       "pageMode": true,
       "windowPos": {
         "y": -70
@@ -12133,13 +12636,13 @@
           "path": ""
         }
       },
+      "ImageMode": true,
       "defaultpage": 8,
       "disableScroll": true,
       "helpSize": {
         "x": 1176,
         "y": 1024
       },
-      "ImageMode": true,
       "pageMode": true,
       "windowPos": {
         "y": -70
@@ -12215,13 +12718,13 @@
           "path": ""
         }
       },
+      "ImageMode": true,
       "defaultpage": 1,
       "disableScroll": true,
       "helpSize": {
         "x": 1176,
         "y": 1024
       },
-      "ImageMode": true,
       "pageMode": true,
       "windowPos": {
         "y": -70
@@ -12246,13 +12749,13 @@
           "path": ""
         }
       },
+      "ImageMode": true,
       "defaultpage": 1,
       "disableScroll": true,
       "helpSize": {
         "x": 1176,
         "y": 1024
       },
-      "ImageMode": true,
       "pageMode": true,
       "windowPos": {
         "y": -70
@@ -12277,13 +12780,13 @@
           "path": ""
         }
       },
+      "ImageMode": true,
       "defaultpage": 1,
       "disableScroll": true,
       "helpSize": {
         "x": 1176,
         "y": 1024
       },
-      "ImageMode": true,
       "pageMode": true,
       "windowPos": {
         "y": -70
@@ -12326,13 +12829,13 @@
           "path": ""
         }
       },
+      "ImageMode": true,
       "defaultpage": 1,
       "disableScroll": true,
       "helpSize": {
         "x": 1176,
         "y": 1024
       },
-      "ImageMode": true,
       "pageMode": true,
       "windowPos": {
         "y": -70
@@ -12357,13 +12860,13 @@
           "path": ""
         }
       },
+      "ImageMode": true,
       "defaultpage": 2,
       "disableScroll": true,
       "helpSize": {
         "x": 1176,
         "y": 1024
       },
-      "ImageMode": true,
       "pageMode": true,
       "windowPos": {
         "y": -70
@@ -12773,15 +13276,6 @@
   "idolmaster_voice_name_propose": {
     "tip": "Oath "
   },
-  "index_all": {
-    "tip": "All"
-  },
-  "index_awakening": {
-    "tip": "Can Cog. Aw."
-  },
-  "index_awakening2": {
-    "tip": "Can Cog. AW+ "
-  },
   "index_BG": {
     "tip": "Regular BG"
   },
@@ -12794,6 +13288,21 @@
   "index_DBG": {
     "tip": "Animated BG"
   },
+  "index_L2D": {
+    "tip": "L2D"
+  },
+  "index_UNUSE": {
+    "tip": "Unused"
+  },
+  "index_all": {
+    "tip": "All"
+  },
+  "index_awakening": {
+    "tip": "Can Cog. Aw."
+  },
+  "index_awakening2": {
+    "tip": "Can Cog. AW+ "
+  },
   "index_dressed": {
     "tip": "Wearing Skin"
   },
@@ -12805,9 +13314,6 @@
   },
   "index_fleetrear": {
     "tip": "Main "
-  },
-  "index_L2D": {
-    "tip": "L2D"
   },
   "index_marry": {
     "tip": "Oathed"
@@ -12889,9 +13395,6 @@
   },
   "index_strengthen": {
     "tip": "Enhanceable"
-  },
-  "index_UNUSE": {
-    "tip": "Unused"
   },
   "index_upgrade": {
     "tip": "Can Lim. Brk. "
@@ -13206,7 +13709,7 @@
     "tip": "Save"
   },
   "island_agora_capacity": {
-    "tip": "Space Capacity"
+    "tip": "Space Capacity"
   },
   "island_agora_clear_tip": {
     "tip": "Do you want to clear your current layout?"
@@ -13358,14 +13861,14 @@
   "island_batch_covert": {
     "tip": "Batch Convert"
   },
+  "island_blackList": {
+    "tip": "Blacklist"
+  },
   "island_black_list_full": {
     "tip": "Your blacklist is full."
   },
   "island_black_list_tip": {
     "tip": "Blacklisted users cannot visit your island."
-  },
-  "island_blackList": {
-    "tip": "Blacklist"
   },
   "island_book_award_title": {
     "tip": "View Details"
@@ -13724,6 +14227,15 @@
   "island_draw_C": {
     "tip": "Prize C"
   },
+  "island_draw_S": {
+    "tip": "Prize S"
+  },
+  "island_draw_S_order": {
+    "tip": "Drag to Change Order of Acquirement"
+  },
+  "island_draw_S_order_title": {
+    "tip": "Prize S Order"
+  },
   "island_draw_choice": {
     "tip": "Draws Made"
   },
@@ -13759,15 +14271,6 @@
   },
   "island_draw_reward": {
     "tip": "View Details"
-  },
-  "island_draw_S": {
-    "tip": "Prize S"
-  },
-  "island_draw_S_order": {
-    "tip": "Drag to Change Order of Acquirement"
-  },
-  "island_draw_S_order_title": {
-    "tip": "Prize S Order"
   },
   "island_draw_sort": {
     "tip": "Acquisition order changed."
@@ -14071,13 +14574,13 @@
           "path": ""
         }
       },
+      "ImageMode": true,
       "defaultpage": 1,
       "disableScroll": true,
       "helpSize": {
         "x": 1176,
         "y": 1024
       },
-      "ImageMode": true,
       "pageMode": true,
       "windowPos": {
         "y": -70
@@ -14096,13 +14599,13 @@
           "path": ""
         }
       },
+      "ImageMode": true,
       "defaultpage": 1,
       "disableScroll": true,
       "helpSize": {
         "x": 1176,
         "y": 1024
       },
-      "ImageMode": true,
       "pageMode": true,
       "windowPos": {
         "y": -70
@@ -14139,13 +14642,13 @@
           "path": ""
         }
       },
+      "ImageMode": true,
       "defaultpage": 1,
       "disableScroll": true,
       "helpSize": {
         "x": 1176,
         "y": 1024
       },
-      "ImageMode": true,
       "pageMode": true,
       "windowPos": {
         "y": -70
@@ -14164,13 +14667,13 @@
           "path": ""
         }
       },
+      "ImageMode": true,
       "defaultpage": 1,
       "disableScroll": true,
       "helpSize": {
         "x": 1176,
         "y": 1024
       },
-      "ImageMode": true,
       "pageMode": true,
       "windowPos": {
         "y": -70
@@ -14201,13 +14704,13 @@
           "path": ""
         }
       },
+      "ImageMode": true,
       "defaultpage": 1,
       "disableScroll": true,
       "helpSize": {
         "x": 1176,
         "y": 1024
       },
-      "ImageMode": true,
       "pageMode": true,
       "windowPos": {
         "y": -70
@@ -14232,13 +14735,13 @@
           "path": ""
         }
       },
+      "ImageMode": true,
       "defaultpage": 1,
       "disableScroll": true,
       "helpSize": {
         "x": 1176,
         "y": 1024
       },
-      "ImageMode": true,
       "pageMode": true,
       "windowPos": {
         "y": -70
@@ -14275,13 +14778,13 @@
           "path": ""
         }
       },
+      "ImageMode": true,
       "defaultpage": 1,
       "disableScroll": true,
       "helpSize": {
         "x": 1176,
         "y": 1024
       },
-      "ImageMode": true,
       "pageMode": true,
       "windowPos": {
         "y": -70
@@ -14300,13 +14803,13 @@
           "path": ""
         }
       },
+      "ImageMode": true,
       "defaultpage": 1,
       "disableScroll": true,
       "helpSize": {
         "x": 1176,
         "y": 1024
       },
-      "ImageMode": true,
       "pageMode": true,
       "windowPos": {
         "y": -70
@@ -14337,13 +14840,13 @@
           "path": ""
         }
       },
+      "ImageMode": true,
       "defaultpage": 1,
       "disableScroll": true,
       "helpSize": {
         "x": 1176,
         "y": 1024
       },
-      "ImageMode": true,
       "pageMode": true,
       "windowPos": {
         "y": -70
@@ -14368,13 +14871,13 @@
           "path": ""
         }
       },
+      "ImageMode": true,
       "defaultpage": 1,
       "disableScroll": true,
       "helpSize": {
         "x": 1176,
         "y": 1024
       },
-      "ImageMode": true,
       "pageMode": true,
       "windowPos": {
         "y": -70
@@ -14399,13 +14902,13 @@
           "path": ""
         }
       },
+      "ImageMode": true,
       "defaultpage": 1,
       "disableScroll": true,
       "helpSize": {
         "x": 1176,
         "y": 1024
       },
-      "ImageMode": true,
       "pageMode": true,
       "windowPos": {
         "y": -70
@@ -14448,13 +14951,13 @@
           "path": ""
         }
       },
+      "ImageMode": true,
       "defaultpage": 1,
       "disableScroll": true,
       "helpSize": {
         "x": 1176,
         "y": 1024
       },
-      "ImageMode": true,
       "pageMode": true,
       "windowPos": {
         "y": -70
@@ -14473,13 +14976,13 @@
           "path": ""
         }
       },
+      "ImageMode": true,
       "defaultpage": 1,
       "disableScroll": true,
       "helpSize": {
         "x": 1176,
         "y": 1024
       },
-      "ImageMode": true,
       "pageMode": true,
       "windowPos": {
         "y": -70
@@ -14504,13 +15007,13 @@
           "path": ""
         }
       },
+      "ImageMode": true,
       "defaultpage": 1,
       "disableScroll": true,
       "helpSize": {
         "x": 1176,
         "y": 1024
       },
-      "ImageMode": true,
       "pageMode": true,
       "windowPos": {
         "y": -70
@@ -14535,13 +15038,13 @@
           "path": ""
         }
       },
+      "ImageMode": true,
       "defaultpage": 1,
       "disableScroll": true,
       "helpSize": {
         "x": 1176,
         "y": 1024
       },
-      "ImageMode": true,
       "pageMode": true,
       "windowPos": {
         "y": -70
@@ -14584,13 +15087,13 @@
           "path": ""
         }
       },
+      "ImageMode": true,
       "defaultpage": 1,
       "disableScroll": true,
       "helpSize": {
         "x": 1176,
         "y": 1024
       },
-      "ImageMode": true,
       "pageMode": true,
       "windowPos": {
         "y": -70
@@ -14633,13 +15136,13 @@
           "path": ""
         }
       },
+      "ImageMode": true,
       "defaultpage": 1,
       "disableScroll": true,
       "helpSize": {
         "x": 1176,
         "y": 1024
       },
-      "ImageMode": true,
       "pageMode": true,
       "windowPos": {
         "y": -70
@@ -14664,13 +15167,13 @@
           "path": ""
         }
       },
+      "ImageMode": true,
       "defaultpage": 1,
       "disableScroll": true,
       "helpSize": {
         "x": 1176,
         "y": 1024
       },
-      "ImageMode": true,
       "pageMode": true,
       "windowPos": {
         "y": -70
@@ -14742,11 +15245,11 @@
   "island_invitation_gift_success": {
     "tip": "Request to collect resources has been sent."
   },
-  "island_invite_title": {
-    "tip": "Island Authorization Device"
-  },
   "island_inviteCode_refresh": {
     "tip": "You have already updated your code today."
+  },
+  "island_invite_title": {
+    "tip": "Island Authorization Device"
   },
   "island_item_no_capacity": {
     "tip": "Warehouse is Full"
@@ -14773,7 +15276,7 @@
     "tip": "Furniture"
   },
   "island_label_furniture_capacity": {
-    "tip": "Space Capacity"
+    "tip": "Space Capacity"
   },
   "island_label_furniture_capacity_display": {
     "tip": "Total Space Occupied:"
@@ -15030,11 +15533,11 @@
   "island_order_get_label": {
     "tip": "Claim Rewards"
   },
-  "island_order_leftcnt_dispaly": {
-    "tip": "Weekly Urgent Requests Left: $1"
-  },
   "island_order_leftCnt_tip": {
     "tip": "Daily Requests Left:"
+  },
+  "island_order_leftcnt_dispaly": {
+    "tip": "Weekly Urgent Requests Left: $1"
   },
   "island_order_not_get_award": {
     "tip": "This cannot be claimed."
@@ -15917,13 +16420,13 @@
           "path": ""
         }
       },
+      "ImageMode": true,
       "defaultpage": 1,
       "disableScroll": true,
       "helpSize": {
         "x": 1176,
         "y": 1024
       },
-      "ImageMode": true,
       "pageMode": true,
       "windowPos": {
         "y": -70
@@ -15954,13 +16457,13 @@
           "path": ""
         }
       },
+      "ImageMode": true,
       "defaultpage": 1,
       "disableScroll": true,
       "helpSize": {
         "x": 1176,
         "y": 1024
       },
-      "ImageMode": true,
       "pageMode": true,
       "windowPos": {
         "y": -70
@@ -16206,14 +16709,14 @@
   "island_visitor_status": {
     "tip": "Visiting"
   },
+  "island_whiteList": {
+    "tip": "Whitelist"
+  },
   "island_white_list_full": {
     "tip": "Your whitelist is full."
   },
   "island_white_list_tip": {
     "tip": "Whitelisted users' requests to visit your island are automatically approved."
-  },
-  "island_whiteList": {
-    "tip": "Whitelist"
   },
   "island_word_award": {
     "tip": "Rewards"
@@ -16491,9 +16994,6 @@
   "l2d_tip_on": {
     "tip": "L2D interaction tips enabled."
   },
-  "LanternRiddle_wait_time_tip": {
-    "tip": "Next Attempt: "
-  },
   "lanternRiddles_answer_is_right": {
     "tip": "Congratulations!"
   },
@@ -16590,13 +17090,13 @@
           "path": ""
         }
       },
+      "ImageMode": true,
       "defaultpage": 1,
       "disableScroll": true,
       "helpSize": {
         "x": 1176,
         "y": 1024
       },
-      "ImageMode": true,
       "pageMode": true,
       "windowPos": {
         "y": -70
@@ -16636,6 +17136,321 @@
   },
   "lesson_startToLearn_error": {
     "tip": "Failed to begin class: "
+  },
+  "levelScene_activate_loop_mode_failed": {
+    "tip": "You must reach 100% completion on this map to unlock Clearing Mode."
+  },
+  "levelScene_activate_remaster": {
+    "tip": "Unlocking this stage requires <color=#ffde38>1 Data Key</color>.\nWould you like to unlock this stage?"
+  },
+  "levelScene_bomb_help_tip": {
+    "tip": {
+      "1": {
+        "icon": {
+          "atlas": "helpbg/spboom_1",
+          "path": ""
+        }
+      },
+      "2": {
+        "icon": {
+          "atlas": "helpbg/spboom_2",
+          "path": ""
+        }
+      },
+      "ImageMode": true,
+      "defaultpage": 1,
+      "disableScroll": true,
+      "helpSize": {
+        "x": 836,
+        "y": 660
+      },
+      "pageMode": true,
+      "windowPos": {
+        "y": 15
+      },
+      "windowSize": {
+        "x": 836,
+        "y": 740
+      }
+    }
+  },
+  "levelScene_bomb_retreat": {
+    "tip": "Capturing "
+  },
+  "levelScene_chapter_count_tip": {
+    "tip": "Attempts Remaining:  "
+  },
+  "levelScene_chapter_is_activation": {
+    "tip": "You are exploring Stage <color=#92fc63>$1</color>, \nplease choose to continue or retreat now"
+  },
+  "levelScene_chapter_level_limit": {
+    "tip": "Reach Commander lv. <color=#92fc63>$1</color> to unlock this stage."
+  },
+  "levelScene_chapter_lock": {
+    "tip": "Please complete <color=#92fc63>the previous stage</color>."
+  },
+  "levelScene_chapter_notInStrategy": {
+    "tip": "Not in progress..."
+  },
+  "levelScene_chapter_not_open": {
+    "tip": "Not open yet"
+  },
+  "levelScene_chapter_open_count_down": {
+    "tip": "Open time:"
+  },
+  "levelScene_chapter_strategying": {
+    "tip": "Stage <color=#92fc63>$1</color> in progress..."
+  },
+  "levelScene_chapter_timeout": {
+    "tip": "Attack time exceeded. Fleet has returned to harbor."
+  },
+  "levelScene_chapter_unlock_tip": {
+    "tip": "Reach Commander lv. <color=#92fc63>$1</color> to unlock this chapter."
+  },
+  "levelScene_chapter_win": {
+    "tip": "Boss defeated! Stage complete."
+  },
+  "levelScene_coastalgun_help_tip": {
+    "tip": {
+      "1": {
+        "icon": {
+          "atlas": "helpbg/coastalgun_1",
+          "path": ""
+        }
+      },
+      "2": {
+        "icon": {
+          "atlas": "helpbg/coastalgun_2",
+          "path": ""
+        }
+      },
+      "ImageMode": true,
+      "defaultpage": 1,
+      "disableScroll": true,
+      "helpSize": {
+        "x": 1176,
+        "y": 1024
+      },
+      "pageMode": true,
+      "windowPos": {
+        "y": -70
+      },
+      "windowSize": {
+        "x": 1263,
+        "y": 873
+      }
+    }
+  },
+  "levelScene_destroy_torpedo": {
+    "tip": "Successfully defused naval mine. "
+  },
+  "levelScene_escort_help_tip": {
+    "tip": [
+      {
+        "info": "About Maritime Escort:"
+      },
+      {
+        "info": "1.  This game mode will be available from Jan 13th to Jan 26th"
+      },
+      {
+        "info": "2. In this game mode, you'll play on a map where your goal is to neutralize the sea mines and enemy fleets in your way and escort the Transport Ship to its destination."
+      },
+      {
+        "info": "3. You can run Maritime Escort once a day. Your daily attempt will be spent once you start the run. There are 3 difficulties available: Easy, Normal, and Hard."
+      },
+      {
+        "info": "4. Each time your fleet moves on the map, the Transport Ship will move 1 tile towards its destination."
+      },
+      {
+        "info": "5. If an enemy fleet engages the Transport Ship, it will take a hit and come to a stop. Until you intervene and defeat the enemy fleet, the Transport Ship will take a hit again after each turn your fleet makes."
+      },
+      {
+        "info": "6. If the Transport Ship comes in contact with a sea mine, it will take 2 hits. If your fleet comes in contact with a sea mine, all ships in the fleet will lose a bit of HP. This can be avoided if your fleet has a destroyer, in which case it will neutralize the mine and the fleet won't take damage."
+      },
+      {
+        "info": "7. What rewards you receive at the end of the run will depend on how many hits the Transport Ship took. The fewer hits it took, the better the rewards."
+      }
+    ]
+  },
+  "levelScene_escort_lose": {
+    "tip": "The transport ship has taken critical damage. Escort mission failed."
+  },
+  "levelScene_escort_retreat": {
+    "tip": "Would you like to retreat and end this Maritime Escort run?\nYour daily run will NOT be refunded.\nYou will still receive some rewards. "
+  },
+  "levelScene_escort_win": {
+    "tip": "The transport ship has arrived at its goal. Escort mission complete!"
+  },
+  "levelScene_loop_help_tip": {
+    "tip": [
+      {
+        "info": "Upon reaching 100% completion for a given stage, you may choose to enable <color=#92fc63>Clearing Mode</color> for it.\n\nEnabling Clearing Mode affects a stage in the following ways: \n\n1. A maximum Fuel cost limit is added. If the combined Fuel cost of entering a battle with your surface fleets and submarine fleets would exceed this limit, your Fuel cost is automatically reduced to the limit's maximum. This limit is only active while Clearing Mode is enabled.\n2. On Hard Mode stages, enemy escort fleets <color=#92fc63>will not appear</color>.\n3. On Event stages, some changes will be made to the configurations of enemy fleets.\n4. On event stages, <color=#92fc63>movement restrictions</color> will be lifted, allowing you to move your fleets freely.\n5. On normal stages, <color=#92fc63>ambushes and air raids will no longer occur</color>.\n6. <color=#92fc63>Fleet Formation Lock</color> will be enabled.\n7. <color=#92fc63>Auto-Search Mode</color> will be enabled.\n\n <color=#92fc63>Auto-Search Mode</color> Details:\n1. <color=#92fc63>Auto-Search Mode</color> can only be enabled in Clearing Mode, and will be automatically activated the first time you enter a stage in Clearing Mode.\n2.When Auto-Search Mode is enabled, <color=#92fc63>Auto Combat</color> and <color=#92fc63>Fleet Lock</color> will automatically be enabled as well. Auto Submarine will not be automatically enabled and depends on your personal settings.\n3.After enabling Auto-Search, you may change 4 settings on the fleet selection interface. The settings are as follows:①<color=#92fc63>Escorts Only</color>: This fleet will only engage escort fleets. When set, the other fleet will automatically be set to engage the enemy boss fleet.\n②<color=#92fc63>Flagship Only</color>: When the enemy flagship fleet spawns, this fleet will automatically move to engage it. When set, the other fleet will automatically be set to engage enemy escort fleets.\n③<color=#92fc63>All Enemies</color>: This fleet will engage enemy escort fleets until the flagship fleet spawns, then engage the enemy flagship. When set, the other fleet will automatically be set to standby.\n④<color=#92fc63>Standby</color>: This fleet will not be used to engage enemies. When set, the other fleet will automatically be set to engage all enemies.\n When Auto-Search is enabled, if there is an <color=#92fc63>Elite Enemy</color> present on the battlefield, that fleet will be prioritized. If there is no Elite Enemy present, your fleets will attempt to engage the <color=#92fc63>closest available enemy</color>. When the enemy flagship fleet appears, your fleets will prioritize attacking the <color=#92fc63>enemy flagship</color>."
+      }
+    ]
+  },
+  "levelScene_map_lock": {
+    "tip": "<color=#92fc63>Complete this chapter</color> in order to unlock the next."
+  },
+  "levelScene_new_chapter_coming": {
+    "tip": "New Chapter(s): "
+  },
+  "levelScene_notCargo": {
+    "tip": "No treasure chest found."
+  },
+  "levelScene_nothing": {
+    "tip": "There's nothing here."
+  },
+  "levelScene_oni_lose": {
+    "tip": "Special Target has fled, capture failed!"
+  },
+  "levelScene_oni_retreat": {
+    "tip": "Commander, you will not be rewarded from Grand Capture if you retreat. \n (Still considered a victory for this stage) "
+  },
+  "levelScene_oni_win": {
+    "tip": "Special Target captured, success!"
+  },
+  "levelScene_openCargo_erro": {
+    "tip": "Failed to open treasure chest."
+  },
+  "levelScene_remaster_do_not_open": {
+    "tip": "This is not yet available."
+  },
+  "levelScene_remaster_help_tip": {
+    "tip": [
+      {
+        "info": "- Data Keys Info -\n· You can use Data Keys to play on event stages found on the War Archives screen.\n· Any progress you've made on an event stage prior to its addition to the War Archives does not carry over."
+      },
+      {
+        "info": "\n· You can acquire <color=#92fc63>4</color> Data Keys a day from the War Archives menu."
+      },
+      {
+        "info": "· You can store up to <color=#92fc63>60</color> Data Keys at a time. Any Data Keys you collect beyond this point will be <color=#92fc63>discarded</color>."
+      },
+      {
+        "info": "· Using 1 Data Key lets you do <color=#92fc63>1 run</color> on any archived event stage of your choosing."
+      },
+      {
+        "info": "· You can play on any stage from a given archived event, except for EX Stages, if applicable."
+      },
+      {
+        "info": "· Completing the last stage of an archived event will unlock all its associated event cutscenes. You can view these from the Memories menu."
+      },
+      {
+        "info": "· You can receive an SR ship by defeating the Boss Fleet a total of 60 times on certain archived event stages. You can only get 1 SR this way from each applicable event stage."
+      }
+    ]
+  },
+  "levelScene_remaster_story_tip": {
+    "tip": "You've unlocked the cutscenes of $1.\nThey can be viewed through the Memories menu."
+  },
+  "levelScene_remaster_tickets_not_enough": {
+    "tip": "You do not have enough Data Keys."
+  },
+  "levelScene_remaster_unlock_tip": {
+    "tip": "*All associated event cutscenes will be unlocked after clearing\n $1 - $2 in the War Archives."
+  },
+  "levelScene_retreat_erro": {
+    "tip": "Failed to retreat."
+  },
+  "levelScene_select_SP_OP": {
+    "tip": "Select Item"
+  },
+  "levelScene_select_SP_OP_reminder": {
+    "tip": "Would you like to use a High-Efficiency Combat Logistics Plan? \nWhen used, increases the Oil cost during the sortie by 100%;\nAt the end of battle, increases the Commander EXP, Meowfficer EXP, and Ship EXP gain by 100%, and also grants another set of drops;\nMorale drain and Affection gain are also increased by 100%. "
+  },
+  "levelScene_select_noitem": {
+    "tip": "Out of consumable items."
+  },
+  "levelScene_select_sp": {
+    "tip": "A High-Efficiency Combat Logistics Plan has been set."
+  },
+  "levelScene_sham_win": {
+    "tip": "Mirror Sea battle complete."
+  },
+  "levelScene_sphunt_help_tip": {
+    "tip": {
+      "1": {
+        "icon": {
+          "atlas": "helpbg/sphunt_1",
+          "path": ""
+        }
+      },
+      "2": {
+        "icon": {
+          "atlas": "helpbg/sphunt_2",
+          "path": ""
+        }
+      },
+      "3": {
+        "icon": {
+          "atlas": "helpbg/sphunt_3",
+          "path": ""
+        }
+      },
+      "4": {
+        "icon": {
+          "atlas": "helpbg/sphunt_4",
+          "path": ""
+        }
+      },
+      "5": {
+        "icon": {
+          "atlas": "helpbg/sphunt_5",
+          "path": ""
+        }
+      },
+      "ImageMode": true,
+      "defaultpage": 1,
+      "disableScroll": true,
+      "helpSize": {
+        "x": 836,
+        "y": 660
+      },
+      "pageMode": true,
+      "windowPos": {
+        "y": 15
+      },
+      "windowSize": {
+        "x": 836,
+        "y": 740
+      }
+    }
+  },
+  "levelScene_strategying": {
+    "tip": "In progress..."
+  },
+  "levelScene_threat_to_rule_out": {
+    "tip": "Eliminate Threat $1"
+  },
+  "levelScene_time_out": {
+    "tip": "Battle time exceeded."
+  },
+  "levelScene_tracking_erro": {
+    "tip": "Defeat"
+  },
+  "levelScene_tracking_error_3001": {
+    "tip": "A ship is currently under commission. Unable to attack."
+  },
+  "levelScene_tracking_error_pre": {
+    "tip": "Available after <color=#92fc63>$1</color> cleared"
+  },
+  "levelScene_tracking_error_pre_2": {
+    "tip": "Unlocked by clearing $1 or $2."
+  },
+  "levelScene_tracking_error_retry": {
+    "tip": "Failed to activate stage. Please try again."
+  },
+  "levelScene_unselect_SP_OP": {
+    "tip": "No Item"
+  },
+  "levelScene_whether_to_retreat": {
+    "tip": "Commander, are you really sure you want to <color=#92fc63>retreat</color>?"
+  },
+  "levelScene_who_to_exchange": {
+    "tip": "Are you sure you want to swap fleet positions? "
+  },
+  "levelScene_who_to_retreat": {
+    "tip": "Commander, are you sure you want to retreat from <color=#92fc63>$1</color>?"
   },
   "level_ammo_empty": {
     "tip": "Ammo supplies. Ammo +$1. Ammo resupplies exhausted."
@@ -16727,12 +17542,6 @@
   "level_scene_title_word_5": {
     "tip": "Rec. ACV:"
   },
-  "levelScene_activate_loop_mode_failed": {
-    "tip": "You must reach 100% completion on this map to unlock Clearing Mode."
-  },
-  "levelScene_activate_remaster": {
-    "tip": "Unlocking this stage requires <color=#ffde38>1 Data Key</color>.\nWould you like to unlock this stage?"
-  },
   "levelscene_airexpel_cancel": {
     "tip": "Cancel"
   },
@@ -16760,159 +17569,11 @@
   "levelscene_airexpel_select_enemy": {
     "tip": "Only enemy fleets can be targeted."
   },
-  "levelScene_bomb_help_tip": {
-    "tip": {
-      "1": {
-        "icon": {
-          "atlas": "helpbg/spboom_1",
-          "path": ""
-        }
-      },
-      "2": {
-        "icon": {
-          "atlas": "helpbg/spboom_2",
-          "path": ""
-        }
-      },
-      "defaultpage": 1,
-      "disableScroll": true,
-      "helpSize": {
-        "x": 836,
-        "y": 660
-      },
-      "ImageMode": true,
-      "pageMode": true,
-      "windowPos": {
-        "y": 15
-      },
-      "windowSize": {
-        "x": 836,
-        "y": 740
-      }
-    }
-  },
-  "levelScene_bomb_retreat": {
-    "tip": "Capturing "
-  },
-  "levelScene_chapter_count_tip": {
-    "tip": "Attempts Remaining:  "
-  },
-  "levelScene_chapter_is_activation": {
-    "tip": "You are exploring Stage <color=#92fc63>$1</color>, \nplease choose to continue or retreat now"
-  },
-  "levelScene_chapter_level_limit": {
-    "tip": "Reach Commander lv. <color=#92fc63>$1</color> to unlock this stage."
-  },
-  "levelScene_chapter_lock": {
-    "tip": "Please complete <color=#92fc63>the previous stage</color>."
-  },
-  "levelScene_chapter_not_open": {
-    "tip": "Not open yet"
-  },
-  "levelScene_chapter_notInStrategy": {
-    "tip": "Not in progress..."
-  },
-  "levelScene_chapter_open_count_down": {
-    "tip": "Open time:"
-  },
-  "levelScene_chapter_strategying": {
-    "tip": "Stage <color=#92fc63>$1</color> in progress..."
-  },
-  "levelScene_chapter_timeout": {
-    "tip": "Attack time exceeded. Fleet has returned to harbor."
-  },
-  "levelScene_chapter_unlock_tip": {
-    "tip": "Reach Commander lv. <color=#92fc63>$1</color> to unlock this chapter."
-  },
-  "levelScene_chapter_win": {
-    "tip": "Boss defeated! Stage complete."
-  },
-  "levelScene_coastalgun_help_tip": {
-    "tip": {
-      "1": {
-        "icon": {
-          "atlas": "helpbg/coastalgun_1",
-          "path": ""
-        }
-      },
-      "2": {
-        "icon": {
-          "atlas": "helpbg/coastalgun_2",
-          "path": ""
-        }
-      },
-      "defaultpage": 1,
-      "disableScroll": true,
-      "helpSize": {
-        "x": 1176,
-        "y": 1024
-      },
-      "ImageMode": true,
-      "pageMode": true,
-      "windowPos": {
-        "y": -70
-      },
-      "windowSize": {
-        "x": 1263,
-        "y": 873
-      }
-    }
-  },
   "levelscene_deploy_submarine": {
     "tip": "Confirm Target"
   },
   "levelscene_deploy_submarine_cancel": {
     "tip": "Cancel"
-  },
-  "levelScene_destroy_torpedo": {
-    "tip": "Successfully defused naval mine. "
-  },
-  "levelScene_escort_help_tip": {
-    "tip": [
-      {
-        "info": "About Maritime Escort:"
-      },
-      {
-        "info": "1.  This game mode will be available from Jan 13th to Jan 26th"
-      },
-      {
-        "info": "2. In this game mode, you'll play on a map where your goal is to neutralize the sea mines and enemy fleets in your way and escort the Transport Ship to its destination."
-      },
-      {
-        "info": "3. You can run Maritime Escort once a day. Your daily attempt will be spent once you start the run. There are 3 difficulties available: Easy, Normal, and Hard."
-      },
-      {
-        "info": "4. Each time your fleet moves on the map, the Transport Ship will move 1 tile towards its destination."
-      },
-      {
-        "info": "5. If an enemy fleet engages the Transport Ship, it will take a hit and come to a stop. Until you intervene and defeat the enemy fleet, the Transport Ship will take a hit again after each turn your fleet makes."
-      },
-      {
-        "info": "6. If the Transport Ship comes in contact with a sea mine, it will take 2 hits. If your fleet comes in contact with a sea mine, all ships in the fleet will lose a bit of HP. This can be avoided if your fleet has a destroyer, in which case it will neutralize the mine and the fleet won't take damage."
-      },
-      {
-        "info": "7. What rewards you receive at the end of the run will depend on how many hits the Transport Ship took. The fewer hits it took, the better the rewards."
-      }
-    ]
-  },
-  "levelScene_escort_lose": {
-    "tip": "The transport ship has taken critical damage. Escort mission failed."
-  },
-  "levelScene_escort_retreat": {
-    "tip": "Would you like to retreat and end this Maritime Escort run?\nYour daily run will NOT be refunded.\nYou will still receive some rewards. "
-  },
-  "levelScene_escort_win": {
-    "tip": "The transport ship has arrived at its goal. Escort mission complete!"
-  },
-  "levelScene_loop_help_tip": {
-    "tip": [
-      {
-        "info": "Upon reaching 100% completion for a given stage, you may choose to enable <color=#92fc63>Clearing Mode</color> for it.\n\nEnabling Clearing Mode affects a stage in the following ways: \n\n1. A maximum Fuel cost limit is added. If the combined Fuel cost of entering a battle with your surface fleets and submarine fleets would exceed this limit, your Fuel cost is automatically reduced to the limit's maximum. This limit is only active while Clearing Mode is enabled.\n2. On Hard Mode stages, enemy escort fleets <color=#92fc63>will not appear</color>.\n3. On Event stages, some changes will be made to the configurations of enemy fleets.\n4. On event stages, <color=#92fc63>movement restrictions</color> will be lifted, allowing you to move your fleets freely.\n5. On normal stages, <color=#92fc63>ambushes and air raids will no longer occur</color>.\n6. <color=#92fc63>Fleet Formation Lock</color> will be enabled.\n7. <color=#92fc63>Auto-Search Mode</color> will be enabled.\n\n <color=#92fc63>Auto-Search Mode</color> Details:\n1. <color=#92fc63>Auto-Search Mode</color> can only be enabled in Clearing Mode, and will be automatically activated the first time you enter a stage in Clearing Mode.\n2.When Auto-Search Mode is enabled, <color=#92fc63>Auto Combat</color> and <color=#92fc63>Fleet Lock</color> will automatically be enabled as well. Auto Submarine will not be automatically enabled and depends on your personal settings.\n3.After enabling Auto-Search, you may change 4 settings on the fleet selection interface. The settings are as follows:①<color=#92fc63>Escorts Only</color>: This fleet will only engage escort fleets. When set, the other fleet will automatically be set to engage the enemy boss fleet.\n②<color=#92fc63>Flagship Only</color>: When the enemy flagship fleet spawns, this fleet will automatically move to engage it. When set, the other fleet will automatically be set to engage enemy escort fleets.\n③<color=#92fc63>All Enemies</color>: This fleet will engage enemy escort fleets until the flagship fleet spawns, then engage the enemy flagship. When set, the other fleet will automatically be set to standby.\n④<color=#92fc63>Standby</color>: This fleet will not be used to engage enemies. When set, the other fleet will automatically be set to engage all enemies.\n When Auto-Search is enabled, if there is an <color=#92fc63>Elite Enemy</color> present on the battlefield, that fleet will be prioritized. If there is no Elite Enemy present, your fleets will attempt to engage the <color=#92fc63>closest available enemy</color>. When the enemy flagship fleet appears, your fleets will prioritize attacking the <color=#92fc63>enemy flagship</color>."
-      }
-    ]
-  },
-  "levelScene_map_lock": {
-    "tip": "<color=#92fc63>Complete this chapter</color> in order to unlock the next."
   },
   "levelscene_mapselect_advanced": {
     "tip": "Challenge"
@@ -16938,169 +17599,8 @@
   "levelscene_mapselect_tp": {
     "tip": "TP"
   },
-  "levelScene_new_chapter_coming": {
-    "tip": "New Chapter(s): "
-  },
-  "levelScene_notCargo": {
-    "tip": "No treasure chest found."
-  },
-  "levelScene_nothing": {
-    "tip": "There's nothing here."
-  },
-  "levelScene_oni_lose": {
-    "tip": "Special Target has fled, capture failed!"
-  },
-  "levelScene_oni_retreat": {
-    "tip": "Commander, you will not be rewarded from Grand Capture if you retreat. \n (Still considered a victory for this stage) "
-  },
-  "levelScene_oni_win": {
-    "tip": "Special Target captured, success!"
-  },
-  "levelScene_openCargo_erro": {
-    "tip": "Failed to open treasure chest."
-  },
-  "levelScene_remaster_do_not_open": {
-    "tip": "This is not yet available."
-  },
-  "levelScene_remaster_help_tip": {
-    "tip": [
-      {
-        "info": "- Data Keys Info -\n· You can use Data Keys to play on event stages found on the War Archives screen.\n· Any progress you've made on an event stage prior to its addition to the War Archives does not carry over."
-      },
-      {
-        "info": "\n· You can acquire <color=#92fc63>4</color> Data Keys a day from the War Archives menu."
-      },
-      {
-        "info": "· You can store up to <color=#92fc63>60</color> Data Keys at a time. Any Data Keys you collect beyond this point will be <color=#92fc63>discarded</color>."
-      },
-      {
-        "info": "· Using 1 Data Key lets you do <color=#92fc63>1 run</color> on any archived event stage of your choosing."
-      },
-      {
-        "info": "· You can play on any stage from a given archived event, except for EX Stages, if applicable."
-      },
-      {
-        "info": "· Completing the last stage of an archived event will unlock all its associated event cutscenes. You can view these from the Memories menu."
-      },
-      {
-        "info": "· You can receive an SR ship by defeating the Boss Fleet a total of 60 times on certain archived event stages. You can only get 1 SR this way from each applicable event stage."
-      }
-    ]
-  },
-  "levelScene_remaster_story_tip": {
-    "tip": "You've unlocked the cutscenes of $1.\nThey can be viewed through the Memories menu."
-  },
-  "levelScene_remaster_tickets_not_enough": {
-    "tip": "You do not have enough Data Keys."
-  },
-  "levelScene_remaster_unlock_tip": {
-    "tip": "*All associated event cutscenes will be unlocked after clearing\n $1 - $2 in the War Archives."
-  },
-  "levelScene_retreat_erro": {
-    "tip": "Failed to retreat."
-  },
-  "levelScene_select_noitem": {
-    "tip": "Out of consumable items."
-  },
-  "levelScene_select_sp": {
-    "tip": "A High-Efficiency Combat Logistics Plan has been set."
-  },
-  "levelScene_select_SP_OP": {
-    "tip": "Select Item"
-  },
-  "levelScene_select_SP_OP_reminder": {
-    "tip": "Would you like to use a High-Efficiency Combat Logistics Plan? \nWhen used, increases the Oil cost during the sortie by 100%;\nAt the end of battle, increases the Commander EXP, Meowfficer EXP, and Ship EXP gain by 100%, and also grants another set of drops;\nMorale drain and Affection gain are also increased by 100%. "
-  },
-  "levelScene_sham_win": {
-    "tip": "Mirror Sea battle complete."
-  },
-  "levelScene_sphunt_help_tip": {
-    "tip": {
-      "1": {
-        "icon": {
-          "atlas": "helpbg/sphunt_1",
-          "path": ""
-        }
-      },
-      "2": {
-        "icon": {
-          "atlas": "helpbg/sphunt_2",
-          "path": ""
-        }
-      },
-      "3": {
-        "icon": {
-          "atlas": "helpbg/sphunt_3",
-          "path": ""
-        }
-      },
-      "4": {
-        "icon": {
-          "atlas": "helpbg/sphunt_4",
-          "path": ""
-        }
-      },
-      "5": {
-        "icon": {
-          "atlas": "helpbg/sphunt_5",
-          "path": ""
-        }
-      },
-      "defaultpage": 1,
-      "disableScroll": true,
-      "helpSize": {
-        "x": 836,
-        "y": 660
-      },
-      "ImageMode": true,
-      "pageMode": true,
-      "windowPos": {
-        "y": 15
-      },
-      "windowSize": {
-        "x": 836,
-        "y": 740
-      }
-    }
-  },
-  "levelScene_strategying": {
-    "tip": "In progress..."
-  },
-  "levelScene_threat_to_rule_out": {
-    "tip": "Eliminate Threat $1"
-  },
-  "levelScene_time_out": {
-    "tip": "Battle time exceeded."
-  },
   "levelscene_title_story": {
     "tip": "· Story"
-  },
-  "levelScene_tracking_erro": {
-    "tip": "Defeat"
-  },
-  "levelScene_tracking_error_3001": {
-    "tip": "A ship is currently under commission. Unable to attack."
-  },
-  "levelScene_tracking_error_pre": {
-    "tip": "Available after <color=#92fc63>$1</color> cleared"
-  },
-  "levelScene_tracking_error_pre_2": {
-    "tip": "Unlocked by clearing $1 or $2."
-  },
-  "levelScene_tracking_error_retry": {
-    "tip": "Failed to activate stage. Please try again."
-  },
-  "levelScene_unselect_SP_OP": {
-    "tip": "No Item"
-  },
-  "levelScene_whether_to_retreat": {
-    "tip": "Commander, are you really sure you want to <color=#92fc63>retreat</color>?"
-  },
-  "levelScene_who_to_exchange": {
-    "tip": "Are you sure you want to swap fleet positions? "
-  },
-  "levelScene_who_to_retreat": {
-    "tip": "Commander, are you sure you want to retreat from <color=#92fc63>$1</color>?"
   },
   "like_ship_success": {
     "tip": "Action complete!"
@@ -17161,13 +17661,13 @@
           "path": ""
         }
       },
+      "ImageMode": true,
       "defaultpage": 1,
       "disableScroll": true,
       "helpSize": {
         "x": 1176,
         "y": 1024
       },
-      "ImageMode": true,
       "pageMode": true,
       "windowPos": {
         "y": -70
@@ -17235,6 +17735,9 @@
   "liner_target_type5": {
     "tip": "The pleasure cruise has ended."
   },
+  "linkBtn_text": {
+    "tip": "Confirm"
+  },
   "link_link_help_tip": {
     "tip": [
       {
@@ -17262,97 +17765,6 @@
         "info": "7. Once you collect all 18 San Diego Stars from the minigame, you'll receive San Diego's retrofit item, the Sparkling Mic."
       }
     ]
-  },
-  "linkBtn_text": {
-    "tip": "Confirm"
-  },
-  "LinkLinkGame_BestTime": {
-    "tip": "Record:"
-  },
-  "LinkLinkGame_CurTime": {
-    "tip": "Time:"
-  },
-  "LiquorFloor_character_num": {
-    "tip": "Char. Capacity"
-  },
-  "LiquorFloor_character_tip": {
-    "tip": "Assign shipgirls to get extra Old Coins. Assigned shipgirls gain extra Affinity on sorties."
-  },
-  "LiquorFloor_character_unlock": {
-    "tip": "Unlocks at Lv. $1"
-  },
-  "LiquorFloor_gold": {
-    "tip": "earned per sec."
-  },
-  "LiquorFloor_gold_get": {
-    "tip": "Collect Old Coins"
-  },
-  "LiquorFloor_gold_max_tip": {
-    "tip": "Your Old Coins capacity has maxed out"
-  },
-  "LiquorFloor_gold_num": {
-    "tip": "Old Coins Capacity"
-  },
-  "LiquorFloor_level": {
-    "tip": "Inn Lv."
-  },
-  "LiquorFloor_story_get": {
-    "tip": "Accept"
-  },
-  "LiquorFloor_story_go": {
-    "tip": "Confirm"
-  },
-  "LiquorFloor_story_got": {
-    "tip": "Claimed"
-  },
-  "LiquorFloor_story_title": {
-    "tip": "Inn Story"
-  },
-  "LiquorFloor_story_title_1": {
-    "tip": "Business Journal"
-  },
-  "LiquorFloor_story_title_2": {
-    "tip": "Parlor Anecdotes"
-  },
-  "LiquorFloor_story_title_3": {
-    "tip": "Random Encounters"
-  },
-  "LiquorFloor_story_title_4": {
-    "tip": "Inn Story"
-  },
-  "LiquorFloor_tip": {
-    "tip": [
-      {
-        "info": "- Event Overview -\nDuring the Springtide Inn Online event, manage your inn facilities, host guests, and unlock content based on the success of your management to earn rewards.\n\n1. Attached to the inn are various facilities with a range of effects that can be improved by leveling the facilities. Some level-ups require Sycees, a resource gained by completing event missions.\n2. The Restaurant, the Gazebo, the Garden, and the Pond automatically generate Old Coins, an event resource, which you can manually claim. Additionally, leveling up these facilities makes them produce more Old Coins. Each facility can store up to 6 hours' worth of Old Coins.\n3. Leveling up the Warehouse increases your maximum Old Coins capacity.\n4. You can assign your shipgirls to the Parlor. This will give you additional Old Coins at regular intervals. Furthermore, shipgirls assigned to the Parlor gain more Affinity from sorties. Leveling up the Parlor gives you more slots to assign shipgirls to.\n5. When you have enough Old Coins to reach certain thresholds, your Inn Level will go up.\n6. Once your Inn and its facilities reach certain levels, you will unlock additional content such as new story chapters.\n7. You can complete Business Missions to earn various rewards, including more Old Coins, a portrait frame, event-exclusive furniture, and more."
-      }
-    ]
-  },
-  "LiquorFloor_title": {
-    "tip": "Springtide Inn Online"
-  },
-  "LiquorFloor_title_en": {
-    "tip": "Springtide"
-  },
-  "LiquorFloor_update": {
-    "tip": "Level Up"
-  },
-  "LiquorFloor_update_max": {
-    "tip": "Level Cap Reached"
-  },
-  "LiquorFloor_update_unlock": {
-    "tip": "Inn Lv. has been raised to $1"
-  },
-  "LiquorFloorTaskUI_get": {
-    "tip": "Accept"
-  },
-  "LiquorFloorTaskUI_go": {
-    "tip": "Confirm"
-  },
-  "LiquorFloorTaskUI_got": {
-    "tip": "Claimed"
-  },
-  "LiquorFloorTaskUI_title": {
-    "tip": "Business Missions"
   },
   "list_empty_tip_billboardui": {
     "tip": "No ranking data available."
@@ -17392,31 +17804,6 @@
   },
   "list_empty_tip_taskscene": {
     "tip": "There are no missions available."
-  },
-  "littleaijier_npc": {
-    "tip": [
-      {
-        "info": "- Overview -\nDuring the event, Little Ägir will provisionally join your fleet. Fight boss fleets to earn Trust. Collect enough Trust to have Little Ägir permanently join your fleet!"
-      },
-      {
-        "info": "- How to Play -\n· Collect Trust during the event period to have Little Ägir permanently join your fleet.\n· Trust can be gathered by defeating the boss fleet of campaign maps starting from Chapter 3 on normal difficulty and event maps (not including War Archives). If Little Ägir is in the fleet that defeats the boss and she is still afloat, you'll receive double the amount of Trust.\n· The Trust you've collected can be turned in for additional rewards on the event banner."
-      },
-      {
-        "info": "· You will not be able to give a Promise Ring to Little Ägir until you have formally recruited her to the fleet. You will also not be able to Retire her or use her as Enhancement or Limit Break material."
-      },
-      {
-        "info": "· If Little Ägir has not been formally recruited by the end of the event, she will leave the port."
-      },
-      {
-        "info": "· Rewards for reaching certain amounts of Trust will unlock in phases, one phase per day up to May 1st."
-      },
-      {
-        "info": "· Little Ägir cannot participate in Operation Siren or META Showdowns until she has been formally recruited."
-      },
-      {
-        "info": "· Little Ägir cannot participate in Guild Bosses until she has been formally recruited.￼"
-      }
-    ]
   },
   "littleChaijun_npc": {
     "tip": [
@@ -17581,6 +17968,31 @@
       }
     ]
   },
+  "littleaijier_npc": {
+    "tip": [
+      {
+        "info": "- Overview -\nDuring the event, Little Ägir will provisionally join your fleet. Fight boss fleets to earn Trust. Collect enough Trust to have Little Ägir permanently join your fleet!"
+      },
+      {
+        "info": "- How to Play -\n· Collect Trust during the event period to have Little Ägir permanently join your fleet.\n· Trust can be gathered by defeating the boss fleet of campaign maps starting from Chapter 3 on normal difficulty and event maps (not including War Archives). If Little Ägir is in the fleet that defeats the boss and she is still afloat, you'll receive double the amount of Trust.\n· The Trust you've collected can be turned in for additional rewards on the event banner."
+      },
+      {
+        "info": "· You will not be able to give a Promise Ring to Little Ägir until you have formally recruited her to the fleet. You will also not be able to Retire her or use her as Enhancement or Limit Break material."
+      },
+      {
+        "info": "· If Little Ägir has not been formally recruited by the end of the event, she will leave the port."
+      },
+      {
+        "info": "· Rewards for reaching certain amounts of Trust will unlock in phases, one phase per day up to May 1st."
+      },
+      {
+        "info": "· Little Ägir cannot participate in Operation Siren or META Showdowns until she has been formally recruited."
+      },
+      {
+        "info": "· Little Ägir cannot participate in Guild Bosses until she has been formally recruited.￼"
+      }
+    ]
+  },
   "live2d_reset_desc": {
     "tip": "L2D Settings have been reset."
   },
@@ -17613,6 +18025,9 @@
   },
   "login": {
     "tip": "Login"
+  },
+  "loginBtn_text": {
+    "tip": "Confirm"
   },
   "login_arrears_tips": {
     "tip": "Fraudulent chargeback activity has been detected on your account. You are only able to log in to the following server(s): $1"
@@ -17755,9 +18170,6 @@
   "login_wait_tip": {
     "tip": "Server is currently busy, please wait.\n(Position in queue: $1)"
   },
-  "loginBtn_text": {
-    "tip": "Confirm"
-  },
   "long_time_offline": {
     "tip": "Inactive"
   },
@@ -17799,13 +18211,13 @@
           "path": ""
         }
       },
+      "ImageMode": true,
       "defaultpage": 1,
       "disableScroll": true,
       "helpSize": {
         "x": 1176,
         "y": 1024
       },
-      "ImageMode": true,
       "pageMode": true,
       "windowPos": {
         "y": -70
@@ -18027,14 +18439,14 @@
   "mail_filter_placeholder": {
     "tip": "Nothing to see here."
   },
+  "mail_getMailList_error_noNewMail": {
+    "tip": "No new mail."
+  },
   "mail_get_oneclick": {
     "tip": "Batch Claim"
   },
   "mail_getbox_title": {
     "tip": "Claim Mail"
-  },
-  "mail_getMailList_error_noNewMail": {
-    "tip": "No new mail."
   },
   "mail_getone_button": {
     "tip": "Claim Rewards"
@@ -18180,15 +18592,6 @@
   "mail_storeroom_tips": {
     "tip": "* Attached Coins and Oil will be moved to your Storage."
   },
-  "mail_take_all_mail_msgbox": {
-    "tip": "* Would you like to claim the items of all selected mail?"
-  },
-  "mail_take_canget_msgbox": {
-    "tip": "You will obtain the following:"
-  },
-  "mail_take_maildetail_msgbox": {
-    "tip": "Mail Details"
-  },
   "mail_takeAttachment_error_dockYrad_full": {
     "tip": "<color=#92fc63>Failed to collect.</color> Insufficient space in your <color=#92fc63>Dock</color>."
   },
@@ -18206,6 +18609,15 @@
   },
   "mail_takeAttachment_error_reWorld": {
     "tip": "Since Operation Siren was reset, the collected items will be converted into Supply Shop Vouchers. Continue?"
+  },
+  "mail_take_all_mail_msgbox": {
+    "tip": "* Would you like to claim the items of all selected mail?"
+  },
+  "mail_take_canget_msgbox": {
+    "tip": "You will obtain the following:"
+  },
+  "mail_take_maildetail_msgbox": {
+    "tip": "Mail Details"
   },
   "mail_tip": {
     "tip": [
@@ -18683,22 +19095,6 @@
   "medal_shop_titleen": {
     "tip": ""
   },
-  "MeixiV4_help": {
-    "tip": [
-      {
-        "info": "\"Silver Archives\" Prelude Event Info:"
-      },
-      {
-        "info": "1. During the event, clear the available event mission to unlock the next mission."
-      },
-      {
-        "info": "2. Complete missions to get rewards including the limited gear Action Report: Operation AF."
-      },
-      {
-        "info": "3. Each days' rewards are as follows:\nMission 1: 5 T2 Plates, 100 Coins.\nMission 2: Unlocks Part 1 of the event story.\nMission 3: 2 T2 Retrofit Blueprints.\nMission 4: 100 Coins.\nMission 5: 3 T2 Tech Packs, 100 Coins.\nMission 6: Unlocks Part 2 of the event story.\nMission 7: 3 Naval Curry.\nMission 8: 100 Coins.\nMission 9: T3 Tech Pack, 100 Coins.\nMission 10: Unlocks Part 3 of the event story.\nMission 11: 2 T3 Skill Books.\nMission 12: 100 Coins.\nMission 13: Action Report: Operation AF, 100 Coins.\nMission 14: Unlocks Part 4 of the event story."
-      }
-    ]
-  },
   "memory_actiivty_ex": {
     "tip": "Event"
   },
@@ -19156,30 +19552,6 @@
   "monopoly_world_tip3": {
     "tip": "During the event period, you'll receive $1 moves every day.\nTap on the controller to move around the board and collect rewards!"
   },
-  "MonopolyCar2024Game_lock_auto_tip": {
-    "tip": "Accelerate 10 times to unlock auto-advance mode (progress: $1)."
-  },
-  "MonopolyCar2024Game_open_auto_tip": {
-    "tip": "You have unlocked auto-advance mode. You will automatically pick a new crewmate when you pass the starting line."
-  },
-  "MonopolyCar2024Game_pick_tip": {
-    "tip": "You can pick a crewmate at the starting line. Completing a lap with a crewmate can yield a reward."
-  },
-  "MonopolyCar2024Game_sel_label": {
-    "tip": "Choose"
-  },
-  "MonopolyCar2024Game_title1": {
-    "tip": "Laps"
-  },
-  "MonopolyCar2024Game_title2": {
-    "tip": "Progress"
-  },
-  "MonopolyCar2024Game_total_award_title": {
-    "tip": "Total Obtained"
-  },
-  "MonopolyCar2024Game_total_num_tip": {
-    "tip": "Attempts: $1"
-  },
   "month_card_set_ratio_not_change": {
     "tip": "Already changed to this ratio."
   },
@@ -19191,12 +19563,6 @@
   },
   "monthly_card_tip": {
     "tip": ""
-  },
-  "MoscowURCoreActivity_subtitle_1": {
-    "tip": "Springtide Inn Online"
-  },
-  "MoscowURCoreActivity_subtitle_2": {
-    "tip": "Supply Station"
   },
   "mot_class_t_level_1": {
     "tip": "Star Wayfinder"
@@ -19478,6 +19844,9 @@
   },
   "need_break_tip": {
     "tip": "Limit break required."
+  },
+  "new_airi_error_code_-1": {
+    "tip": "Unknown Error"
   },
   "new_airi_error_code_0": {
     "tip": "Success"
@@ -19866,9 +20235,6 @@
   "new_airi_error_code_400460": {
     "tip": "Failed to load the page. Please try again."
   },
-  "new_airi_error_code_-1": {
-    "tip": "Unknown Error"
-  },
   "new_server_shop_sel_goods_tip": {
     "tip": "You can only exchange for gear once."
   },
@@ -19880,52 +20246,6 @@
   },
   "new_version_tip": {
     "tip": "Commander, your game is out of date! Please restart the game and download the update."
-  },
-  "NewMusic_1": {
-    "tip": "Favorite ($1)"
-  },
-  "NewMusic_2": {
-    "tip": "Searching..."
-  },
-  "NewMusic_3": {
-    "tip": "Found no songs matching the criteria."
-  },
-  "NewMusic_4": {
-    "tip": "Found no albums matching the criteria."
-  },
-  "NewMusic_5": {
-    "tip": "Favorites"
-  },
-  "NewMusic_6": {
-    "tip": "Albums"
-  },
-  "NewMusic_7": {
-    "tip": "No favorite entries found."
-  },
-  "NewMusic_help": {
-    "tip": {
-      "1": {
-        "icon": {
-          "atlas": "helpbg/music_help",
-          "path": ""
-        }
-      },
-      "defaultpage": 1,
-      "disableScroll": true,
-      "helpSize": {
-        "x": 1176,
-        "y": 1024
-      },
-      "ImageMode": true,
-      "pageMode": true,
-      "windowPos": {
-        "y": -70
-      },
-      "windowSize": {
-        "x": 1263,
-        "y": 873
-      }
-    }
   },
   "newplayer_help_tip": {
     "tip": [
@@ -20198,43 +20518,6 @@
   "non_support_share": {
     "tip": "Commander, the \"Share\" option is still unavailable."
   },
-  "Normalbuild_URexchange_confirm": {
-    "tip": "Exchange 400 points for $1?"
-  },
-  "Normalbuild_URexchange_help": {
-    "tip": [
-      {
-        "info": "- UR Exchange Overview -"
-      },
-      {
-        "info": "· Every time you build in any of the standard Light, Heavy, Special, or Event pools without an obtainable UR shipgirl, you gain UR Exchange points at a rate of 1 point per Wisdom Cube used (up to a total of 400.)\n· When you use Build Tickets, the amount of points you get is equal to the number of Wisdom Cubes that that build would have cost.\n"
-      },
-      {
-        "info": "· 400 UR Exchange points can be traded for any one of the permanently available UR shipgirls."
-      }
-    ]
-  },
-  "Normalbuild_URexchange_text1": {
-    "tip": "UR Exchange"
-  },
-  "Normalbuild_URexchange_text2": {
-    "tip": "Total"
-  },
-  "Normalbuild_URexchange_text3": {
-    "tip": "View Choice"
-  },
-  "Normalbuild_URexchange_text4": {
-    "tip": "Exchange"
-  },
-  "Normalbuild_URexchange_warning1": {
-    "tip": "Insufficient points for exchange."
-  },
-  "Normalbuild_URexchange_warning3": {
-    "tip": "You've hit the points cap. You won't be able to gain any more points until you exchange for a UR. Build anyway?"
-  },
-  "not yet completed": {
-    "tip": "尚未完成"
-  },
   "not_exist_guild_use_item": {
     "tip": "This item cannot be used as you are not in a Guild. "
   },
@@ -20261,6 +20544,9 @@
   },
   "notify_clock_tip": {
     "tip": ""
+  },
+  "not yet completed": {
+    "tip": "尚未完成"
   },
   "npc_breakout_tip": {
     "tip": "If this Temporary Recruit leaves the port, any items or materials used to Limit Break her will NOT be refunded. Continue anyway?"
@@ -20505,13 +20791,13 @@
           "path": ""
         }
       },
+      "ImageMode": true,
       "defaultpage": 1,
       "disableScroll": true,
       "helpSize": {
         "x": 1176,
         "y": 1024
       },
-      "ImageMode": true,
       "pageMode": true,
       "windowPos": {
         "y": -70
@@ -20563,13 +20849,13 @@
           "path": ""
         }
       },
+      "ImageMode": true,
       "defaultpage": 1,
       "disableScroll": true,
       "helpSize": {
         "x": 1176,
         "y": 1024
       },
-      "ImageMode": true,
       "pageMode": true,
       "windowPos": {
         "y": -70
@@ -20612,13 +20898,13 @@
           "path": ""
         }
       },
+      "ImageMode": true,
       "defaultpage": 1,
       "disableScroll": true,
       "helpSize": {
         "x": 1176,
         "y": 1024
       },
-      "ImageMode": true,
       "pageMode": true,
       "windowPos": {
         "y": -70
@@ -20661,13 +20947,13 @@
           "path": ""
         }
       },
+      "ImageMode": true,
       "defaultpage": 1,
       "disableScroll": true,
       "helpSize": {
         "x": 1176,
         "y": 1024
       },
-      "ImageMode": true,
       "pageMode": true,
       "windowPos": {
         "y": -70
@@ -20678,9 +20964,6 @@
       }
     }
   },
-  "Outpost_20250904_Progress": {
-    "tip": "Progress"
-  },
   "outpost_20250904_Sidebar1": {
     "tip": "Main Event"
   },
@@ -20690,26 +20973,14 @@
   "outpost_20250904_Sidebar3": {
     "tip": "UR Exchange"
   },
-  "Outpost_20250904_Sidebar4": {
-    "tip": "Call to Arms"
-  },
   "outpost_20250904_Sidebar4": {
     "tip": "Call to Arms"
-  },
-  "Outpost_20250904_Sidebar5": {
-    "tip": "Prelude"
   },
   "outpost_20250904_Sidebar5": {
     "tip": "Prelude"
   },
-  "Outpost_20250904_Title1": {
-    "tip": "Call to Arms"
-  },
   "outpost_20250904_Title1": {
     "tip": "Event"
-  },
-  "Outpost_20250904_Title2": {
-    "tip": "Call to Arms"
   },
   "outpost_20250904_Title2": {
     "tip": "EVENT"
@@ -20817,13 +21088,13 @@
           "path": ""
         }
       },
+      "ImageMode": true,
       "defaultpage": 1,
       "disableScroll": true,
       "helpSize": {
         "x": 1176,
         "y": 1024
       },
-      "ImageMode": true,
       "pageMode": true,
       "windowPos": {
         "y": -70
@@ -20865,9 +21136,6 @@
   "play_room_viewer_tip": {
     "tip": "Spectators: $1/$2"
   },
-  "player_change_chat_room_erro": {
-    "tip": "Failed to change chat channels."
-  },
   "player_changeManifesto_error": {
     "tip": "Failed to update motto: "
   },
@@ -20888,6 +21156,9 @@
   },
   "player_changePlayerName_ok": {
     "tip": "Name changed!"
+  },
+  "player_change_chat_room_erro": {
+    "tip": "Failed to change chat channels."
   },
   "player_expResource_mail_fullBag": {
     "tip": "You won't be able to collect resources that exceed the storage limit. Are you sure you want to continue?"
@@ -20975,12 +21246,8 @@
   "practise_idol_tip": {
     "tip": "Would you like to begin rehearsing $1? "
   },
-  "Pray_activity_tips1": {
-    "tip": [
-      {
-        "info": "- Overview -\nDuring the Winter Wishing Well Cards campaign, make wishes and grant temporary buffs to your fleet.\n\nAfter sending a card, you'll receive a Winter Wish. Collect 7 Winter Wishes to receive a Wish-Fulfilling Card (2026) that can be exchanged for a shipgirl on the event page.\n\nAfter making a wish, your fleet will also receive a temporary buff.\n\n - Cards -\n· Every day during the campaign, you get 1 card, up to a total of 7.\n· As long as you have cards remaining, you can send them to a shipgirl.\n· The following happens after you send a card:\n 1. You gain 1 Winter Wish\n 2. You can make an additional 2 wishes\n 3. You gain a fleet-wide buff from the shipgirl you sent the card to\n Note: Different shipgirls give different buffs, and only 1 buff of a given type can be active at the same time. If you send another card, your previously chosen buff will be overwritten.\n· After you have collected 7 Winter Wishes, you can turn them in on the event page to receive a Wish-Fulfilling Card (2026), which can be used from your Depot to receive an SR shipgirl and a commemorative item.\n\n - Making Wishes -\n· As long as you have wishes remaining, you can make a wish by tapping on the button on the right side.\n· After making a wish, you can select 1 of 3 types of buffs that will be applied to your whole fleet.\n Note: Only 1 buff of a given type can be active at the same time. If you send another card, your previously chosen buff will be overwritten."
-      }
-    ]
+  "pray_build_UR_warning": {
+    "tip": "You may only select 1 shipgirl of <color=#ff5e39>Ultra Rare</color> rarity."
   },
   "pray_build_help": {
     "tip": [
@@ -21037,9 +21304,6 @@
   "pray_build_select_ship_instruction": {
     "tip": "Select 2 shipgirls."
   },
-  "pray_build_UR_warning": {
-    "tip": "You may only select 1 shipgirl of <color=#ff5e39>Ultra Rare</color> rarity."
-  },
   "pray_cant_tips": {
     "tip": "Send cards to receive wishes."
   },
@@ -21087,12 +21351,12 @@
           "path": ""
         }
       },
+      "ImageMode": true,
       "disableScroll": true,
       "helpSize": {
         "x": 1176,
         "y": 1024
       },
-      "ImageMode": true,
       "pageMode": true,
       "windowPos": {
         "y": -70
@@ -21189,13 +21453,13 @@
           "path": ""
         }
       },
+      "ImageMode": true,
       "defaultpage": 1,
       "disableScroll": true,
       "helpSize": {
         "x": 1176,
         "y": 1024
       },
-      "ImageMode": true,
       "pageMode": true,
       "windowPos": {
         "y": -70
@@ -21277,13 +21541,13 @@
           "path": ""
         }
       },
+      "ImageMode": true,
       "defaultpage": 1,
       "disableScroll": true,
       "helpSize": {
         "x": 1176,
         "y": 1024
       },
-      "ImageMode": true,
       "pageMode": true,
       "windowPos": {
         "y": -70
@@ -21630,6 +21894,24 @@
       }
     ]
   },
+  "resourceSite_beginScanMap_error": {
+    "tip": "Radar scan failed: "
+  },
+  "resourceSite_beginScanMap_ok": {
+    "tip": "Scan successful!"
+  },
+  "resourceSite_collectResource_error": {
+    "tip": "Failed to retrieve resource point: "
+  },
+  "resourceSite_error_noSite": {
+    "tip": "Resource node does not exist."
+  },
+  "resourceSite_finishResourceSite_error": {
+    "tip": "Failed to complete harvesting: "
+  },
+  "resourceSite_startResourceSite_error": {
+    "tip": "Failed to sail to resource node: "
+  },
   "resource_clear_3ddorm": {
     "tip": "Would you like to delete all Private Quarters assets?\nData size: $1.\n(After deleting the Private Quarters assets, you will need to redownload them to access them again.)"
   },
@@ -21689,24 +21971,6 @@
   },
   "resource_verify_warn": {
     "tip": "Do you wish to initiate data repair? The process will take some time. This will not affect your gameplay but may hinder the optimal performance of your phone. "
-  },
-  "resourceSite_beginScanMap_error": {
-    "tip": "Radar scan failed: "
-  },
-  "resourceSite_beginScanMap_ok": {
-    "tip": "Scan successful!"
-  },
-  "resourceSite_collectResource_error": {
-    "tip": "Failed to retrieve resource point: "
-  },
-  "resourceSite_error_noSite": {
-    "tip": "Resource node does not exist."
-  },
-  "resourceSite_finishResourceSite_error": {
-    "tip": "Failed to complete harvesting: "
-  },
-  "resourceSite_startResourceSite_error": {
-    "tip": "Failed to sail to resource node: "
   },
   "restart_music_game": {
     "tip": "Would you like to stop the song and start over?"
@@ -21997,13 +22261,13 @@
           "path": ""
         }
       },
+      "ImageMode": true,
       "defaultpage": 1,
       "disableScroll": true,
       "helpSize": {
         "x": 1176,
         "y": 1024
       },
-      "ImageMode": true,
       "pageMode": true,
       "windowPos": {
         "y": -70
@@ -22070,13 +22334,13 @@
           "path": ""
         }
       },
+      "ImageMode": true,
       "defaultpage": 1,
       "disableScroll": true,
       "helpSize": {
         "x": 1176,
         "y": 1024
       },
-      "ImageMode": true,
       "pageMode": true,
       "windowPos": {
         "y": -70
@@ -22104,13 +22368,13 @@
           "path": ""
         }
       },
+      "ImageMode": true,
       "defaultpage": 1,
       "disableScroll": true,
       "helpSize": {
         "x": 1176,
         "y": 1024
       },
-      "ImageMode": true,
       "pageMode": true,
       "windowPos": {
         "y": -70
@@ -22162,13 +22426,13 @@
           "path": ""
         }
       },
+      "ImageMode": true,
       "defaultpage": 1,
       "disableScroll": true,
       "helpSize": {
         "x": 1176,
         "y": 1024
       },
-      "ImageMode": true,
       "pageMode": true,
       "windowPos": {
         "y": -70
@@ -22314,13 +22578,13 @@
           "path": ""
         }
       },
+      "ImageMode": true,
       "defaultpage": 1,
       "disableScroll": true,
       "helpSize": {
         "x": 1176,
         "y": 1024
       },
-      "ImageMode": true,
       "pageMode": true,
       "windowPos": {
         "y": -70
@@ -22340,31 +22604,6 @@
   },
   "same_player_name_tip": {
     "tip": "You cannot use this name "
-  },
-  "SardiniaSPCoreActivityUI_fleetconfirm": {
-    "tip": "Current formation is empty. Do you want to import the formation from the previous stage?"
-  },
-  "SardiniaSPCoreActivityUI_help": {
-    "tip": [
-      {
-        "info": "- Overview -\nLight & Shadow Fashion Shoot! is available between <color=#92fc63>January 22nd and February 4th</color>!\nComplete missions, dispatch your fleets, and clear event stages to collect Camera Films and receive rewards!\n\n1. Tap the button in the bottom left corner to switch between Story Mode and Battle Mode.\n2. Battle Mode presents a series of stages which you can challenge with your fleets to earn Camera Films.\nBefore going into battle, you can decide whether you\\\\'d like to fight in a joint sortie or a solo sortie.\n· In a solo sortie, you will challenge each stage with only a single fleet. In this mode, all your shipgirls recover all their health at the start of the battle.\n· In a joint sortie, you will instead send out multiple fleets to battle on each stage. Completing the challenge in this mode will grant you additional rewards.\n3. You will receive rewards for collecting enough Camera Films, including <color=#92fc63>Elite DD Ugolino Vivaldi</color> and a <color=#92fc63>Prototype Triple 406mm Model 1940 Main Gun</color>.\n4. There are special missions available during the event. Complete these to receive additional rewards.\n5. There is a special story available in Story Mode. Read it in its entirety to receive a commemorative gear skin.\n"
-      }
-    ]
-  },
-  "SardiniaSPCoreActivityUI_story_reward_count": {
-    "tip": "Tap shipgirl, consume <icon name=65812 w=0.4 h=0.4/> <color=#10a7a9>($1 remaining)</color> to enter her feature page (event story chapter).\nComplete all stories to get special event gear skins <color=#10a7a9>($2/8)</color>"
-  },
-  "SardiniaSPCoreActivityUI_subtitle_1": {
-    "tip": "Light & Shadow"
-  },
-  "SardiniaSPCoreActivityUI_subtitle_2": {
-    "tip": "Milestone"
-  },
-  "SardiniaSPCoreActivityUI_title": {
-    "tip": "Event"
-  },
-  "SardiniaSPCoreActivityUI_unlock": {
-    "tip": "Locked"
   },
   "save_success": {
     "tip": "Data Saved Successfully"
@@ -22743,6 +22982,12 @@
       }
     ]
   },
+  "series_enemy_SP_count": {
+    "tip": "Attempts Remaining:"
+  },
+  "series_enemy_SP_error": {
+    "tip": "No more attempts available today."
+  },
   "series_enemy_cost": {
     "tip": "Total Cost:"
   },
@@ -22787,12 +23032,6 @@
   },
   "series_enemy_score": {
     "tip": "Score"
-  },
-  "series_enemy_SP_count": {
-    "tip": "Attempts Remaining:"
-  },
-  "series_enemy_SP_error": {
-    "tip": "No more attempts available today."
   },
   "series_enemy_storyreward": {
     "tip": "Unlocked:   "
@@ -22941,60 +23180,6 @@
   "settings_title_account_del": {
     "tip": "Account"
   },
-  "Settings_title_AdjustScr": {
-    "tip": "UI Adjustment"
-  },
-  "Settings_title_agreement": {
-    "tip": "Terms of Use"
-  },
-  "Settings_title_FPS": {
-    "tip": "Frame Rate Settings"
-  },
-  "Settings_title_LoginJP": {
-    "tip": "Account "
-  },
-  "Settings_title_Notification": {
-    "tip": "Push Notifications"
-  },
-  "Settings_title_Other": {
-    "tip": "Game Settings"
-  },
-  "Settings_title_Redeem": {
-    "tip": "Gift Code"
-  },
-  "Settings_title_Redeem_input_label": {
-    "tip": "Serial Code:"
-  },
-  "Settings_title_Redeem_input_placeholder": {
-    "tip": "Please enter your gift code."
-  },
-  "Settings_title_Redeem_input_submit": {
-    "tip": "Submit"
-  },
-  "Settings_title_resManage": {
-    "tip": "Manage Assets"
-  },
-  "Settings_title_resManage_All": {
-    "tip": "Update All Assets"
-  },
-  "Settings_title_resManage_Main": {
-    "tip": "Manage Main Assets"
-  },
-  "Settings_title_resManage_Sub": {
-    "tip": "Manage Extra Assets"
-  },
-  "Settings_title_resUpdate": {
-    "tip": "Download Assets"
-  },
-  "Settings_title_Secpw": {
-    "tip": "Password Setup"
-  },
-  "Settings_title_Secpwlimop": {
-    "tip": "Password Restrictions"
-  },
-  "Settings_title_sound": {
-    "tip": "Audio Settings"
-  },
   "settle_rewards_subtitle": {
     "tip": "SETTLE REWARDS"
   },
@@ -23108,27 +23293,6 @@
   "ship_buildBatchShip": {
     "tip": "Spend <color=#92fc63>$1 Gems</color> to receive <color=#92fc63>10 high performance ships</color>?"
   },
-  "ship_buildShip_error": {
-    "tip": "Failed to build ship: "
-  },
-  "ship_buildShip_error_noTemplate": {
-    "tip": "Ship build config not found: <color=#92fc63>$1</color>"
-  },
-  "ship_buildShip_error_notEnoughItem": {
-    "tip": "You don't have enough resources."
-  },
-  "ship_buildShip_list_empty": {
-    "tip": "Construction queue is empty."
-  },
-  "ship_buildShip_not_position": {
-    "tip": "Construction queue is full. Unable to receive ship."
-  },
-  "ship_buildShip_succeed": {
-    "tip": "Ship received!"
-  },
-  "ship_buildship_tip": {
-    "tip": "Cost to build 1 <color=#92fc63>$4</color>:\n<color=#92fc63>$1 Coins</color> and <color=#92fc63>$2 $3</color>."
-  },
   "ship_buildShipImmediately_error": {
     "tip": "Failed to speed up: "
   },
@@ -23150,8 +23314,29 @@
   "ship_buildShipScene_quest_quickFinish": {
     "tip": "You must spend <color=#92fc63>$1</color> x Quick Finisher to complete construction.\n\nQuick Finishers left: <color=#92fc63>$3</color>"
   },
+  "ship_buildShip_error": {
+    "tip": "Failed to build ship: "
+  },
+  "ship_buildShip_error_noTemplate": {
+    "tip": "Ship build config not found: <color=#92fc63>$1</color>"
+  },
+  "ship_buildShip_error_notEnoughItem": {
+    "tip": "You don't have enough resources."
+  },
+  "ship_buildShip_list_empty": {
+    "tip": "Construction queue is empty."
+  },
+  "ship_buildShip_not_position": {
+    "tip": "Construction queue is full. Unable to receive ship."
+  },
+  "ship_buildShip_succeed": {
+    "tip": "Ship received!"
+  },
   "ship_buildSingleShip": {
     "tip": "Spend <color=#92fc63>$1 Gems</color> to receive <color=#92fc63>1 high performance ships</color>?"
+  },
+  "ship_buildship_tip": {
+    "tip": "Cost to build 1 <color=#92fc63>$4</color>:\n<color=#92fc63>$1 Coins</color> and <color=#92fc63>$2 $3</color>."
   },
   "ship_destoryShips_error": {
     "tip": "Failed to retire ship: "
@@ -23192,6 +23377,15 @@
   "ship_energy_mid_desc": {
     "tip": "Normal\nWill not receive Affinity during attacks"
   },
+  "ship_equipToShip_error": {
+    "tip": "Failed to equip: "
+  },
+  "ship_equipToShip_error_noEquip": {
+    "tip": "Gear does not exist."
+  },
+  "ship_equipToShip_ok": {
+    "tip": "<color=#92fc63>$1</color> equipped!"
+  },
   "ship_equip_check": {
     "tip": "You can toggle this element on/off from the Settings menu"
   },
@@ -23203,15 +23397,6 @@
   },
   "ship_equip_same_group_equipment": {
     "tip": "You can only equip 1 Unique gear piece. "
-  },
-  "ship_equipToShip_error": {
-    "tip": "Failed to equip: "
-  },
-  "ship_equipToShip_error_noEquip": {
-    "tip": "Gear does not exist."
-  },
-  "ship_equipToShip_ok": {
-    "tip": "<color=#92fc63>$1</color> equipped!"
   },
   "ship_error_noShip": {
     "tip": "Character does not exist: <color=#92fc63>$1</color>"
@@ -23420,26 +23605,26 @@
   "ship_max_star": {
     "tip": "This ship's <color=#92fc63>stars have been fully upgraded</color>!"
   },
-  "ship_mod_exp_to_attr_tip": {
-    "tip": "*Use an identical ship as enhancing materials for 2x EXP"
-  },
-  "ship_mod_no_addition_tip": {
-    "tip": "Enhancing <color=#92fc63>has no buffs</color>. Continue?"
-  },
   "ship_modShip_error": {
     "tip": "Failed to enhance ship: "
   },
   "ship_modShip_error_notEnoughGold": {
     "tip": "<color=#92fc63>Not enough Coins</color>"
   },
+  "ship_mod_exp_to_attr_tip": {
+    "tip": "*Use an identical ship as enhancing materials for 2x EXP"
+  },
+  "ship_mod_no_addition_tip": {
+    "tip": "Enhancing <color=#92fc63>has no buffs</color>. Continue?"
+  },
   "ship_newShipLayer_get": {
     "tip": "Receive <color=#92fc63>$1</color> - <color=#92fc63>$2</color>"
   },
-  "ship_newSkin_name": {
-    "tip": "$1"
-  },
   "ship_newSkinLayer_get": {
     "tip": "Receive <color=#92fc63>$1</color> skin - <color=#92fc63>$2</color>"
+  },
+  "ship_newSkin_name": {
+    "tip": "$1"
   },
   "ship_preference_common": {
     "tip": "Set ship as Favorite."
@@ -23494,6 +23679,9 @@
   },
   "ship_random_secretary_tag": {
     "tip": "Random Secretary"
+  },
+  "ship_remouldShip_error": {
+    "tip": "Limit Break failed: "
   },
   "ship_remould_finished": {
     "tip": "Completed"
@@ -23645,12 +23833,6 @@
   "ship_remould_warning_702124": {
     "tip": "<size=35>Retrofitting <color=#92fc63>$1</color> will change her\n<color=#92fc63>Main Gun (Light Cruiser)</color> gear slot into a\n<color=#92fc63>Main Gun (Destroyer )</color> gear slot.<color=#92fc63>\nGear in the <color=#92fc63>Main Gun</color> slot will be unequipped.\nAre you sure you want to continue?\n<material=underline c=#92fc63 event=clickDetail>Tap here for details.</material></color></size>"
   },
-  "ship_remouldShip_error": {
-    "tip": "Limit Break failed: "
-  },
-  "ship_rename_success": {
-    "tip": "Name changed successfully!"
-  },
   "ship_renameShip_error": {
     "tip": "Failed to rename ship."
   },
@@ -23659,6 +23841,9 @@
   },
   "ship_renameShip_error_2011": {
     "tip": "Name is too long!"
+  },
+  "ship_rename_success": {
+    "tip": "Name changed successfully!"
   },
   "ship_set_skin_error": {
     "tip": "Failed to change skins: "
@@ -23741,12 +23926,6 @@
   "ship_skill_unlock_tip": {
     "tip": "Limit break to unlock"
   },
-  "ship_unequip_all_success": {
-    "tip": "Gear <color=#FF0000>unequipped</color>."
-  },
-  "ship_unequip_all_tip": {
-    "tip": "Are you sure you want to unequip all gear?"
-  },
   "ship_unequipFromShip_error": {
     "tip": "Failed to unequip gear: "
   },
@@ -23756,6 +23935,12 @@
   "ship_unequipFromShip_ok": {
     "tip": "<color=#FFD700FF>$1</color> unequipped."
   },
+  "ship_unequip_all_success": {
+    "tip": "Gear <color=#FF0000>unequipped</color>."
+  },
+  "ship_unequip_all_tip": {
+    "tip": "Are you sure you want to unequip all gear?"
+  },
   "ship_updateShipLock_error": {
     "tip": "Failed to change lock status: "
   },
@@ -23764,9 +23949,6 @@
   },
   "ship_updateShipLock_ok_unlock": {
     "tip": "<color=#92fc63>$1</color> unlocked."
-  },
-  "ship_upgrade_unequip_tip": {
-    "tip": "This limit break will change <color=$2>$1</color>'s gear selections. Some gear will be unequipped. Are you sure you want to continue?"
   },
   "ship_upgradeStar_error": {
     "tip": "Limit Break failed: "
@@ -23788,6 +23970,9 @@
   },
   "ship_upgradeStar_select_material_tip": {
     "tip": "Select Limit Break items"
+  },
+  "ship_upgrade_unequip_tip": {
+    "tip": "This limit break will change <color=$2>$1</color>'s gear selections. Some gear will be unequipped. Are you sure you want to continue?"
   },
   "ship_vo_event": {
     "tip": "Selected character is deployed on special ops."
@@ -23898,6 +24083,12 @@
   "shoot_screen_fail": {
     "tip": "Screenshot Failed"
   },
+  "shopStreet_refresh_max_count": {
+    "tip": "You're out of daily refreshes!"
+  },
+  "shopStreet_upgrade_done": {
+    "tip": "Shop leveled up!"
+  },
   "shop_activity": {
     "tip": "Event Exchange"
   },
@@ -23925,14 +24116,14 @@
   "shop_entendShipYard_error": {
     "tip": "Failed to expand dock: "
   },
+  "shop_extendMagazine_error": {
+    "tip": "Failed to expand arsenal: "
+  },
   "shop_extendcommander_success": {
     "tip": "Slots purchased. The Cattery was successfully expanded."
   },
   "shop_extendequip_success": {
     "tip": "Gear storage expanded!"
-  },
-  "shop_extendMagazine_error": {
-    "tip": "Failed to expand arsenal: "
   },
   "shop_extendship_success": {
     "tip": "Dock expanded!"
@@ -24204,11 +24395,11 @@
   "shop_spweapon_success": {
     "tip": "Your Augment Module storage capacity has increased."
   },
-  "shop_street_activity_tip": {
-    "tip": "※<color=#2E852C>Gear Skins</color> are purchasable during(<color=#2E852C>$1</COLOR>)!"
-  },
   "shop_street_Equipment_skin_box_help": {
     "tip": "<color=#A1E400FF>$1</COLOR>Sale Period:<color=#A1E400FF>$2</COLOR>"
+  },
+  "shop_street_activity_tip": {
+    "tip": "※<color=#2E852C>Gear Skins</color> are purchasable during(<color=#2E852C>$1</COLOR>)!"
   },
   "shop_supply": {
     "tip": "Supply"
@@ -24242,12 +24433,6 @@
   },
   "shops_rest_day": {
     "tip": "Store refreshes in :"
-  },
-  "shopStreet_refresh_max_count": {
-    "tip": "You're out of daily refreshes!"
-  },
-  "shopStreet_upgrade_done": {
-    "tip": "Shop leveled up!"
   },
   "show_chat_warning": {
     "tip": "Turning on chat to display messages."
@@ -24341,42 +24526,6 @@
   },
   "skinatlas_search_result_is_empty": {
     "tip": "You have no skins that match the search terms."
-  },
-  "SkinDiscount_Got": {
-    "tip": "Owned: $1"
-  },
-  "SkinDiscount_Hint": {
-    "tip": "You have an unclaimed coupon. Would you like to go to the claim coupon page?"
-  },
-  "SkinDiscount_Last_Coupon": {
-    "tip": "The number of coupons you're about to purchase will exceed the number of skins they may be used on. Some coupons will be unusable.\nDo you want to purchase the coupons?"
-  },
-  "SkinDiscount_Owned_Tips": {
-    "tip": "You already own at least one skin ($1/$2). Purchasing this pack will give you a coupon that can be used when purchasing an unowned skin.\nIf you already own all the eligible skins, you will receive 680 Gems instead and will not receive a coupon.\nDo you want to buy this pack?"
-  },
-  "SkinDiscountHelp_BlackFriday": {
-    "tip": [
-      {
-        "info": "1. During the campaign, if you purchase a Black Friday rerun skin in this campaign <color=#92fc63>without using a coupon</color> or purchase any one of the Black Friday campaign's lucky bags, you may claim a <color=#92fc63>Skin Coupon (Black Friday 2025)</color> from the campaign page.\n2. The <color=#92fc63>Skin Coupon (Black Friday 2025)</color> gives you a discount of 300 Gems when purchasing a Black Friday rerun skin. This discount is not applicable to item packs.\n3. If you have not used this coupon before the campaign ends (at the server reset on December 3rd, 2025), it will be removed automatically."
-      }
-    ]
-  },
-  "SkinDiscountHelp_Carnival": {
-    "tip": [
-      {
-        "info": "1. During the campaign, after purchasing an eligible Party Dress skin <color=#92fc63>without using a coupon</color>, or after purchasing the Party Dress Return Lucky Box, you can claim a <color=#92fc63>Skin Coupon (Party Dress)</color> from the campaign page.\n2. The <color=#92fc63>Skin Coupon (Party Dress)</color> can be used to receive a 300 Gem discount when buying an eligible Party Dress skin during the campaign. It cannot be used when purchasing a pack deal.\n3. When the campaign ends (on 23:59, 2026/4/8), any unused <color=#92fc63>Skin Coupons (Party Dress)</color> will be deleted."
-      }
-    ]
-  },
-  "SkinDiscountHelp_School": {
-    "tip": [
-      {
-        "info": "1. During the campaign, if you purchase a School Girl series skin <color=#92fc63>without using a coupon</color> or purchase the School Return Lucky Box, you may claim a <color=#92fc63>Skin Coupon (School)</color> from the campaign page.\n2. The <color=#92fc63>Skin Coupon (School)</color> gives you a discount of 300 Gems when purchasing a School series skin. This discount is not applicable to item packs.\n3. If you have not used this coupon before the campaign ends (at the server reset on April 10th, 2025), it will be removed automatically."
-      }
-    ]
-  },
-  "SkinMagazinePage2_tip": {
-    "tip": "Collect"
   },
   "skinshop_live2d_fliter_failed": {
     "tip": "No outfits to display under current filter settings "
@@ -24497,27 +24646,6 @@
         "info": "The Spring Pavilion campaign encompasses the following:\n\n1. Fu Shun's Great Adventure III\n· Play the minigame to the end to receive the destroyer Fu Shun!\n2. The World Within the Painting\n· Complete missions to get Exploration Points to reveal tiles within the painting and unlock 2 new shipgirls: Hai Tien and Hai Chi!\n3. The Picture Diary\n· Complete missions to get Paint, use it to fill in the pictures, and receive the destroyer An Shan!\n4. Retrofit Missions\n· Complete missions to get the retrofit materials for An Shan and Chang Chun and upgrade them into guided-missile destroyers!\n5. The Manjuu Resort\n· Head here to open your Red Envelopes!\n6. The Outfit Store\n· Check out the latest and greatest shipgirl fashion!\n7. Limited Construction\n· Build for new and exclusive event shipgirls!\n"
       }
     ]
-  },
-  "SpringFestival2026CoreActivity_subtitle_1": {
-    "tip": "Spring Auction Adventure"
-  },
-  "SpringFestival2026CoreActivity_subtitle_2": {
-    "tip": "Fu Po's Flawless Plan"
-  },
-  "SpringFestival2026CoreActivity_subtitle_3": {
-    "tip": "Manjuu Resort"
-  },
-  "SpringFestival2026CoreActivity_subtitle_4": {
-    "tip": "Happy Spring Festival"
-  },
-  "SpringFestival2026CoreActivity_subtitle_5": {
-    "tip": "Spring Fireworks Party"
-  },
-  "SpringFestival2026CoreActivity_subtitle_6": {
-    "tip": "Fei Yuen's Great Adventure"
-  },
-  "SpringFestival2026CoreActivity_subtitle_7": {
-    "tip": "Port Fashion Collection"
   },
   "springtask_tip": {
     "tip": "Craft the required items at the Base Camp to finish construction on the Open-Air Bath!\nAfter the Open-Air Bath is open for business, you'll be able to use it to recover Morale faster for your fleet! (All missions unlocked 5/29)"
@@ -24853,6 +24981,9 @@
   "storyline_chapter4": {
     "tip": "Chapter 4"
   },
+  "storyline_chapter5": {
+    "tip": "Interlude"
+  },
   "storyline_goto": {
     "tip": "Check Memories"
   },
@@ -24895,67 +25026,6 @@
   },
   "super_bulin_tip": {
     "tip": "Tap here to get bonking, bulin!"
-  },
-  "SuperBulin2_help": {
-    "tip": [
-      {
-        "info": "How to Play:\n1. During the event, navigate to certain menus or stages to search for mysterious clues.\n2. If you're having difficulty finding the clue, tap the Clue icon to unlock the next phase of the clue search.\nNote: Clues can only be unlocked this way once every 10 minutes.\n3. Once all the clues have been collected, you will be able to challenge a secret stage. Complete it to obtain a special reward."
-      }
-    ]
-  },
-  "SuperBulin2_lock_tip": {
-    "tip": "Collect all the clues to unlock a secret stage!"
-  },
-  "SuperBulin2_tip1": {
-    "tip": "Look for the code in the Depot, bulin!"
-  },
-  "SuperBulin2_tip2": {
-    "tip": "Look for the code in the Dock, bulin!"
-  },
-  "SuperBulin2_tip3": {
-    "tip": "Look for the code in story chapter 1-4, bulin!"
-  },
-  "SuperBulin2_tip4": {
-    "tip": "Look for the code in the Dorm, bulin!"
-  },
-  "SuperBulin2_tip5": {
-    "tip": "Look for the code in story chapter 2-4, bulin!"
-  },
-  "SuperBulin2_tip6": {
-    "tip": "Look for the code in the Academy, bulin!"
-  },
-  "SuperBulin2_tip7": {
-    "tip": "Look for the code in the Shop, bulin!"
-  },
-  "SuperBulin2_tip8": {
-    "tip": "Look for the code in Mementos, bulin!"
-  },
-  "SuperBulin2_tip9": {
-    "tip": "Look for the code on the build screen, bulin!"
-  },
-  "Supplement_pay1": {
-    "tip": "Fraudulent chargeback activity has been confirmed on your account. Please resolve the disputed amount or contact customer support."
-  },
-  "Supplement_pay2": {
-    "tip": "Fraudulent chargeback activity has been confirmed on your account. Please resolve the disputed amount shown to the right, or contact customer support."
-  },
-  "Supplement_pay3": {
-    "tip": "All purchases have been successfully processed, and you are now able to log back in to the game. Thank you for your cooperation."
-  },
-  "Supplement_pay4": {
-    "tip": "Confirm"
-  },
-  "Supplement_pay5": {
-    "tip": "Tap on a confirmed case of fraudulent chargeback activity to view details and how to resolve the dispute."
-  },
-  "Supplement_pay6": {
-    "tip": "Purchased:"
-  },
-  "Supplement_pay7": {
-    "tip": "Refunded:"
-  },
-  "Supplement_pay8": {
-    "tip": "Left:$1"
   },
   "support_rate_title": {
     "tip": "Rates"
@@ -25043,12 +25113,12 @@
           "path": ""
         }
       },
+      "ImageMode": true,
       "disableScroll": true,
       "helpSize": {
         "x": 1176,
         "y": 1024
       },
-      "ImageMode": true,
       "pageMode": true,
       "windowPos": {
         "y": -70
@@ -25571,12 +25641,6 @@
   "text_nextpage": {
     "tip": "Next"
   },
-  "text_nofood_no": {
-    "tip": "Ignore"
-  },
-  "text_nofood_yes": {
-    "tip": "Give Food"
-  },
   "text_noPos_buy": {
     "tip": "Expand"
   },
@@ -25597,6 +25661,12 @@
   },
   "text_noRes_tip": {
     "tip": "Still need: $1"
+  },
+  "text_nofood_no": {
+    "tip": "Ignore"
+  },
+  "text_nofood_yes": {
+    "tip": "Give Food"
   },
   "text_prepage": {
     "tip": "Prev"
@@ -25907,13 +25977,13 @@
           "path": ""
         }
       },
+      "ImageMode": true,
       "defaultpage": 1,
       "disableScroll": true,
       "helpSize": {
         "x": 1176,
         "y": 1024
       },
-      "ImageMode": true,
       "pageMode": true,
       "windowPos": {
         "y": -70
@@ -26066,19 +26136,6 @@
   "urdraw_tip": {
     "tip": "You have unclaimed cumulative construction rewards."
   },
-  "UrExchange_Pt_charges": {
-    "tip": "($1 times remaining)"
-  },
-  "UrExchange_Pt_help": {
-    "tip": [
-      {
-        "info": "The exchange rules on the event page are the same as in the event shop.\nThe UR ship can only be redeemed 2 times in total during the event. \nThe first time requires 200 UR Vouchers, and the second time requires 300 UR Vouchers."
-      }
-    ]
-  },
-  "UrExchange_Pt_NotEnough": {
-    "tip": "You don't have enough exchange points."
-  },
   "us_error_download_painting": {
     "tip": "As data has been detected as missing, the game will now close to clear the cache. The neccessary files will be downloaded once the game is open again. "
   },
@@ -26103,13 +26160,13 @@
           "path": ""
         }
       },
+      "ImageMode": true,
       "defaultpage": 1,
       "disableScroll": true,
       "helpSize": {
         "x": 1176,
         "y": 1024
       },
-      "ImageMode": true,
       "pageMode": true,
       "windowPos": {
         "y": -70
@@ -26175,15 +26232,6 @@
         "info": "    5.在活动结束后，未完成转化的临时角色【芙米露露】将离开\n    港区，不返还已经消耗的强化、突破等培养材料；"
       }
     ]
-  },
-  "Valentine_minigame_label1": {
-    "tip": "Score:"
-  },
-  "Valentine_minigame_label2": {
-    "tip": "Chocolates Needed:"
-  },
-  "Valentine_minigame_label3": {
-    "tip": "Progress:"
   },
   "valentinesday__shop_tip": {
     "tip": "Would you like to go to the Outfit Store?"
@@ -26409,13 +26457,13 @@
           "path": ""
         }
       },
+      "ImageMode": true,
       "defaultpage": 1,
       "disableScroll": true,
       "helpSize": {
         "x": 1176,
         "y": 1024
       },
-      "ImageMode": true,
       "pageMode": true,
       "windowPos": {
         "y": -70
@@ -26480,9 +26528,6 @@
   "without_ship_to_wear": {
     "tip": "You have no shipgirls who can wear this."
   },
-  "word_ air_defense_artillery": {
-    "tip": "Anti-Air"
-  },
   "word_achieved_item": {
     "tip": "Time joined"
   },
@@ -26494,6 +26539,9 @@
   },
   "word_adjustFleet": {
     "tip": "Adjust"
+  },
+  "word_ air_defense_artillery": {
+    "tip": "Anti-Air"
   },
   "word_air_defense_artillery": {
     "tip": "Anti-Air"
@@ -26786,11 +26834,11 @@
   "word_exp": {
     "tip": "EXP"
   },
-  "word_exp_chinese": {
-    "tip": "EXP"
-  },
   "word_expAdd": {
     "tip": "EXP +$1"
+  },
+  "word_exp_chinese": {
+    "tip": "EXP"
   },
   "word_expand": {
     "tip": "Expand"
@@ -27123,11 +27171,11 @@
   "word_normal_junhe": {
     "tip": "Normal"
   },
-  "word_not_get": {
-    "tip": "Ungranted "
-  },
   "word_notExist": {
     "tip": "Does not exist"
+  },
+  "word_not_get": {
+    "tip": "Ungranted "
   },
   "word_nowenergy": {
     "tip": "Morale"
@@ -27276,12 +27324,6 @@
   "word_serverLoadVindicate": {
     "tip": "<color=#a2a2a2>Maintenance</color>"
   },
-  "Word_Ship_Exp_Buff": {
-    "tip": "EXP Rate+ "
-  },
-  "word_shipboard_aircraft": {
-    "tip": "Aircraft"
-  },
   "word_shipInfoScene_equip": {
     "tip": "Ship Gear"
   },
@@ -27387,9 +27429,6 @@
   "word_shipNation_ziyou": {
     "tip": "Iris Libre"
   },
-  "word_shipskin": {
-    "tip": "Special"
-  },
   "word_shipState_activity": {
     "tip": "This ship is already assigned to a special fleet. "
   },
@@ -27452,6 +27491,12 @@
   },
   "word_shipType_zhongXun": {
     "tip": "Heavy Cruiser"
+  },
+  "word_shipboard_aircraft": {
+    "tip": "Aircraft"
+  },
+  "word_shipskin": {
+    "tip": "Special"
   },
   "word_shop": {
     "tip": "Shop"
@@ -27618,14 +27663,14 @@
   "word_take": {
     "tip": "Accept"
   },
+  "word_takeOk": {
+    "tip": "Collected"
+  },
   "word_take_effect": {
     "tip": " in Effect "
   },
   "word_take_video_tip": {
     "tip": "Tips: Tap the button on the right side to stop recording."
-  },
-  "word_takeOk": {
-    "tip": "Collected"
   },
   "word_talent": {
     "tip": "Talent"
@@ -27726,8 +27771,11 @@
   "word_yisegefuke_pt": {
     "tip": "Points"
   },
-  "words_auto_battle_label": {
-    "tip": "Auto Combat Alert "
+  "words_autoFIght_down_frame": {
+    "tip": "Auto-Search FPS Reduction"
+  },
+  "words_autoFIght_down_frame_des": {
+    "tip": "When toggled on, reduces game FPS when battery saver mode is active."
   },
   "words_autoFight_battery_savemode": {
     "tip": "Auto-Search Battery Saver"
@@ -27735,17 +27783,14 @@
   "words_autoFight_battery_savemode_des": {
     "tip": "When toggled on, reduces screen brightness 20 seconds after starting Auto-Search."
   },
-  "words_autoFIght_down_frame": {
-    "tip": "Auto-Search FPS Reduction"
-  },
-  "words_autoFIght_down_frame_des": {
-    "tip": "When toggled on, reduces game FPS when battery saver mode is active."
-  },
   "words_autoFight_right": {
     "tip": "You may need modify permissions in your device's system settings to enable Battery Saver."
   },
   "words_autoFight_tips": {
     "tip": "Requires \"Auto-Search Battery Saver\" to be ON."
+  },
+  "words_auto_battle_label": {
+    "tip": "Auto Combat Alert "
   },
   "words_battle_expose_line": {
     "tip": "Toggle in-combat CV detection line "
@@ -28189,12 +28234,12 @@
           "path": ""
         }
       },
+      "ImageMode": true,
       "disableScroll": true,
       "helpSize": {
         "x": 1176,
         "y": 1024
       },
-      "ImageMode": true,
       "pageMode": true,
       "windowPos": {
         "y": -70
@@ -28274,18 +28319,6 @@
   "world_file_tip": {
     "tip": "* Scroll the page by sliding the screen. Close the page by tapping the screen."
   },
-  "world_fleet_choose": {
-    "tip": "<color=#80e742>Fighting in Operation Siren will not affect Morale or consume Oil. </color>"
-  },
-  "world_fleet_formation_not_valid": {
-    "tip": "The formation of $1 must be changed. "
-  },
-  "world_fleet_in_vortex": {
-    "tip": "The fleet has been caught in a Maelstrom and has restricted movement. "
-  },
-  "world_fleet_stop": {
-    "tip": "Your fleet has stopped moving. "
-  },
   "world_fleetName1": {
     "tip": "1st Fleet"
   },
@@ -28300,6 +28333,18 @@
   },
   "world_fleetName5": {
     "tip": "Sub Fleet"
+  },
+  "world_fleet_choose": {
+    "tip": "<color=#80e742>Fighting in Operation Siren will not affect Morale or consume Oil. </color>"
+  },
+  "world_fleet_formation_not_valid": {
+    "tip": "The formation of $1 must be changed. "
+  },
+  "world_fleet_in_vortex": {
+    "tip": "The fleet has been caught in a Maelstrom and has restricted movement. "
+  },
+  "world_fleet_stop": {
+    "tip": "Your fleet has stopped moving. "
   },
   "world_help_tip": {
     "tip": "未配置tip"
@@ -28653,12 +28698,12 @@
   },
   "world_stage_help": {
     "tip": {
+      "ImageMode": true,
       "disableScroll": true,
       "helpSize": {
         "x": 1176,
         "y": 1024
       },
-      "ImageMode": true,
       "pageMode": true,
       "windowPos": {
         "y": -70
@@ -29148,12 +29193,6 @@
   },
   "yumia_stronghold_10": {
     "tip": "Make Furniture"
-  },
-  "YunLongSPCoreActivity_subtitle_1": {
-    "tip": "The Vagabond's Recruitment Plan"
-  },
-  "YunLongSPCoreActivity_subtitle_2": {
-    "tip": "Vagabond's Supply Station"
   },
   "zan_ship_eva_error_7": {
     "tip": "You've already reviewed this comment!"
