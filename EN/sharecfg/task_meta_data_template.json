@@ -2879,6 +2879,46 @@
     "target_id_2": "970210",
     "target_num": 1
   },
+  "100561": {
+    "desc": "Sortie and obtain 1 victory with Elbe META in the fleet.",
+    "id": 100561,
+    "sub_type": 180,
+    "target_id": "0",
+    "target_id_2": "970605",
+    "target_num": 1
+  },
+  "100562": {
+    "desc": "Defeat a Lv. 30+ enemy fleet with Elbe META in the fleet.",
+    "id": 100562,
+    "sub_type": 180,
+    "target_id": "30",
+    "target_id_2": "970605",
+    "target_num": 1
+  },
+  "100563": {
+    "desc": "Defeat a Lv. 55+ enemy fleet with Elbe META in the fleet.",
+    "id": 100563,
+    "sub_type": 180,
+    "target_id": "55",
+    "target_id_2": "970605",
+    "target_num": 1
+  },
+  "100564": {
+    "desc": "Defeat a Lv. 80+ enemy fleet with Elbe META in the fleet.",
+    "id": 100564,
+    "sub_type": 180,
+    "target_id": "80",
+    "target_id_2": "970605",
+    "target_num": 1
+  },
+  "100565": {
+    "desc": "Defeat a Lv. 100+ enemy fleet with Elbe META in the fleet.",
+    "id": 100565,
+    "sub_type": 180,
+    "target_id": "100",
+    "target_id_2": "970605",
+    "target_num": 1
+  },
   "200001": {
     "desc": "Win 1 battle in Operation Siren with Hunter META in your fleet.",
     "id": 200001,
@@ -4319,6 +4359,38 @@
     "target_id_2": "970210",
     "target_num": 1
   },
+  "200471": {
+    "desc": "Sortie in Operation Siren and obtain 1 victory with Elbe META in the fleet.",
+    "id": 200471,
+    "sub_type": 302,
+    "target_id": "0",
+    "target_id_2": "970605",
+    "target_num": 1
+  },
+  "200472": {
+    "desc": "Sortie in Operation Siren and defeat a Lv. 70+ enemy fleet with Elbe META in the fleet.",
+    "id": 200472,
+    "sub_type": 302,
+    "target_id": "70",
+    "target_id_2": "970605",
+    "target_num": 1
+  },
+  "200473": {
+    "desc": "Sortie in Operation Siren and defeat a Lv. 90+ enemy fleet with Elbe META in the fleet.",
+    "id": 200473,
+    "sub_type": 302,
+    "target_id": "90",
+    "target_id_2": "970605",
+    "target_num": 1
+  },
+  "200474": {
+    "desc": "Sortie in Operation Siren and defeat a Lv. 100+ enemy fleet with Elbe META in the fleet.",
+    "id": 200474,
+    "sub_type": 302,
+    "target_id": "100",
+    "target_id_2": "970605",
+    "target_num": 1
+  },
   "all": [
     1,
     2,
@@ -4680,6 +4752,11 @@
     100533,
     100534,
     100535,
+    100561,
+    100562,
+    100563,
+    100564,
+    100565,
     200001,
     200002,
     200003,
@@ -4859,6 +4936,10 @@
     200441,
     200442,
     200443,
-    200444
+    200444,
+    200471,
+    200472,
+    200473,
+    200474
   ]
 }

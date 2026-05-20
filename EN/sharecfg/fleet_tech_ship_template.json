@@ -8734,6 +8734,50 @@
     "pt_level": 16,
     "pt_upgrage": 22
   },
+  "40114": {
+    "add_get_attr": 1,
+    "add_get_shiptype": [
+      1,
+      20,
+      21
+    ],
+    "add_get_value": 1,
+    "add_level_attr": 2,
+    "add_level_shiptype": [
+      1,
+      20,
+      21
+    ],
+    "add_level_value": 1,
+    "class": 40106,
+    "id": 40114,
+    "max_star": 5,
+    "pt_get": 10,
+    "pt_level": 16,
+    "pt_upgrage": 22
+  },
+  "40115": {
+    "add_get_attr": 1,
+    "add_get_shiptype": [
+      1,
+      20,
+      21
+    ],
+    "add_get_value": 1,
+    "add_level_attr": 2,
+    "add_level_shiptype": [
+      1,
+      20,
+      21
+    ],
+    "add_level_value": 1,
+    "class": 40106,
+    "id": 40115,
+    "max_star": 5,
+    "pt_get": 10,
+    "pt_level": 16,
+    "pt_upgrage": 22
+  },
   "40116": {
     "add_get_attr": 1,
     "add_get_shiptype": [
@@ -9486,6 +9530,28 @@
     "pt_level": 32,
     "pt_upgrage": 44
   },
+  "40317": {
+    "add_get_attr": 1,
+    "add_get_shiptype": [
+      3,
+      13,
+      18
+    ],
+    "add_get_value": 1,
+    "add_level_attr": 2,
+    "add_level_shiptype": [
+      3,
+      13,
+      18
+    ],
+    "add_level_value": 1,
+    "class": 40304,
+    "id": 40317,
+    "max_star": 6,
+    "pt_get": 22,
+    "pt_level": 32,
+    "pt_upgrage": 44
+  },
   "40401": {
     "add_get_attr": 1,
     "add_get_shiptype": [
@@ -9737,6 +9803,28 @@
     "add_level_value": 1,
     "class": 40505,
     "id": 40505,
+    "max_star": 6,
+    "pt_get": 56,
+    "pt_level": 86,
+    "pt_upgrage": 114
+  },
+  "40507": {
+    "add_get_attr": 1,
+    "add_get_shiptype": [
+      4,
+      5,
+      10
+    ],
+    "add_get_value": 1,
+    "add_level_attr": 2,
+    "add_level_shiptype": [
+      4,
+      5,
+      10
+    ],
+    "add_level_value": 2,
+    "class": 40503,
+    "id": 40507,
     "max_star": 6,
     "pt_get": 56,
     "pt_level": 86,
@@ -10135,6 +10223,26 @@
     "pt_get": 12,
     "pt_level": 18,
     "pt_upgrage": 24
+  },
+  "40815": {
+    "add_get_attr": 8,
+    "add_get_shiptype": [
+      8,
+      17
+    ],
+    "add_get_value": 1,
+    "add_level_attr": 3,
+    "add_level_shiptype": [
+      8,
+      17
+    ],
+    "add_level_value": 2,
+    "class": 40807,
+    "id": 40815,
+    "max_star": 6,
+    "pt_get": 19,
+    "pt_level": 29,
+    "pt_upgrage": 39
   },
   "49901": {
     "add_get_attr": 1,
@@ -14825,6 +14933,24 @@
     "pt_level": 18,
     "pt_upgrage": 25
   },
+  "970605": {
+    "add_get_attr": 5,
+    "add_get_shiptype": [
+      6
+    ],
+    "add_get_value": 1,
+    "add_level_attr": 6,
+    "add_level_shiptype": [
+      6
+    ],
+    "add_level_value": 1,
+    "class": 970605,
+    "id": 970605,
+    "max_star": 6,
+    "pt_get": 17,
+    "pt_level": 26,
+    "pt_upgrage": 35
+  },
   "970701": {
     "add_get_attr": 1,
     "add_get_shiptype": [
@@ -15468,6 +15594,8 @@
     40102,
     40111,
     40113,
+    40114,
+    40115,
     40116,
     40118,
     40119,
@@ -15504,6 +15632,7 @@
     40310,
     40311,
     40314,
+    40317,
     40401,
     40402,
     40403,
@@ -15516,6 +15645,7 @@
     40503,
     40504,
     40505,
+    40507,
     40601,
     40602,
     40603,
@@ -15536,6 +15666,7 @@
     40812,
     40813,
     40814,
+    40815,
     49901,
     49902,
     49903,
@@ -15761,6 +15892,7 @@
     970602,
     970603,
     970604,
+    970605,
     970701,
     970702,
     970703,

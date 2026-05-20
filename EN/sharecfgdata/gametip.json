@@ -241,8 +241,23 @@
   "AR_plane_summon_success": {
     "tip": "Character invited."
   },
+  "AnniversaryNineCoreActivityUI_subtitle_1": {
+    "tip": "Login Bonus"
+  },
+  "AnniversaryNineCoreActivityUI_subtitle_2": {
+    "tip": "Summer Invitation"
+  },
+  "AnniversaryNineCoreActivityUI_subtitle_3": {
+    "tip": "Mobilization"
+  },
   "AnniversaryNineCoreActivityUI_subtitle_6": {
-    "tip": "A Lovely Vacation"
+    "tip": "Spring Towards Summer!"
+  },
+  "AnniversaryNineCoreActivity_subtitle_1": {
+    "tip": "Supply Station"
+  },
+  "AnniversaryNineCoreActivity_subtitle_2": {
+    "tip": "Operation Vacation"
   },
   "Announcements_Donotshow": {
     "tip": "Don't show again today"
@@ -326,6 +341,15 @@
   },
   "DAL_upgrade_unlock": {
     "tip": "Locked"
+  },
+  "GeZiURCoreActivityUI_subtitle_1": {
+    "tip": "Event"
+  },
+  "GeZiURCoreActivityUI_subtitle_2": {
+    "tip": "Event"
+  },
+  "GeZiURCoreActivityUI_subtitle_3": {
+    "tip": "UR Exchange"
   },
   "HelenaCoreActivity_subtitle_1": {
     "tip": "Memories in Echo"
@@ -1322,6 +1346,9 @@
   },
   "anniversary_eight_main_page_desc": {
     "tip": "· The magic barrier protecting the castle's treasure fell in an unprecedented earthquake, and now ninja are scheming to steal your treasure!\n· Repair the castle, recruit troops, bolster your defenses, and restore peace!"
+  },
+  "anniversary_nine_main_page": {
+    "tip": "Commemoration"
   },
   "anniversary_task_title_1": {
     "tip": "Commander, I still clearly remember the way the birds chirped when our eyes first met."
@@ -3545,7 +3572,7 @@
     "tip": "Marseillaise added to standard build pool!"
   },
   "buildship_new_tip": {
-    "tip": "Rate UP for Elise, Shandy, and Yukino!"
+    "tip": "Get Götz von Berlichingen guaranteed with every 200 event builds (can be done up to 4 times)!"
   },
   "buildship_special_tip": {
     "tip": "Implacable and Argus added to standard build pool!"
@@ -17996,6 +18023,33 @@
   "live2d_reset_desc": {
     "tip": "L2D Settings have been reset."
   },
+  "loading_chosen_blank": {
+    "tip": "No images met the criteria."
+  },
+  "loading_pic_chosen": {
+    "tip": "Selected"
+  },
+  "loading_pic_max": {
+    "tip": "Maximum selections exceeded."
+  },
+  "loading_pic_min": {
+    "tip": "Please select at least 1 image."
+  },
+  "loading_pic_tip": {
+    "tip": "Changes have not been saved. Exit and keep previous settings?"
+  },
+  "loading_picture_lack": {
+    "tip": "Custom loading screens not enabled."
+  },
+  "loading_quit_tip": {
+    "tip": "If custom loading screens are disabled, a random still image will be displayed on loading screens. Would you like to exit?"
+  },
+  "loading_set_tip": {
+    "tip": "Tap the button to add the image to the custom loading screen pool."
+  },
+  "loading_start_set": {
+    "tip": "Enable custom settings"
+  },
   "loading_tip_FModMgr": {
     "tip": "Making noise..."
   },
@@ -18019,6 +18073,9 @@
   },
   "loading_tip_TipsMgr": {
     "tip": "Getting stickers..."
+  },
+  "loading_title": {
+    "tip": "Current Loading Screen:"
   },
   "lock_new_ship": {
     "tip": "Automatically lock new characters"
@@ -18815,6 +18872,175 @@
   "maintenance_message_text": {
     "tip": "The server will undergo maintenance in $1. You will be unable to play the game during the maintenance. Please plan accordingly, and thank you for your understanding."
   },
+  "mall_award_can_get": {
+    "tip": "Collect"
+  },
+  "mall_award_get": {
+    "tip": "Collected"
+  },
+  "mall_award_got": {
+    "tip": "Collected"
+  },
+  "mall_balance_header": {
+    "tip": "Remaining"
+  },
+  "mall_change_floor_sure": {
+    "tip": "This staff member is currently assigned to another floor. Would you like to move them to this floor?"
+  },
+  "mall_change_order_sure": {
+    "tip": "This staff member is currently fulfilling a custom order and cannot be assigned to this floor."
+  },
+  "mall_char_lock": {
+    "tip": "Complete custom orders to unlock"
+  },
+  "mall_continue_to_unlock": {
+    "tip": "提升购物中心等级后解锁"
+  },
+  "mall_evaluate_title": {
+    "tip": "Closed for Business  Customer Reviews"
+  },
+  "mall_finished_all_tip": {
+    "tip": "All Rewards Collected"
+  },
+  "mall_floor_all_empty_tip": {
+    "tip": "Please assign staff members to the unlocked floors first."
+  },
+  "mall_floor_income_header": {
+    "tip": "$1F Revenue"
+  },
+  "mall_floor_lock": {
+    "tip": "Sales Area Locked"
+  },
+  "mall_get_all_btn": {
+    "tip": "Collect All"
+  },
+  "mall_gold_input_success_tip": {
+    "tip": "Submission complete!"
+  },
+  "mall_help": {
+    "tip": [
+      {
+        "info": "How to Play <color=#92fc63>\"\"The Opulent! The Glamorous! Luxury Bay!\"\"</color>\n\n<b>How to Play</b>:\n 1. During this event, you will be in charge of assigning <color=#92fc63>Manjuu Staff</color> workers to the various shops around the mall to increase the ratings of your sales reports for each floor. After finishing your assignments, tap the <color=#92fc63>\"\"Start Managing\"\"</color> button to begin the round. Earn evaluations from the various shipgirls to earn event currency, <color=#92fc63>Sparks of Joy</color>.\n 2. Additionally, during this event, you may receive special orders from various shipgirls, known as <color=#92fc63>\"\"Manjuu Custom Orders\"\"</color>, pertaining to certain shops around the mall. Fulfill these orders to unlock <color=#92fc63>Character Stories</color> and <color=#92fc63>new Manjuu Staff workers</color>, and additional rewards such as <color=#92fc63>Sparks of Joy</color>.\n 3. Tap the <color=#92fc63>Upgrade Requirements</color> button on the right side of the management screen to see what you need to <color=#92fc63>raise your Mall's level</color>. Once you meet the requirements, your Mall level will increase, opening up new business areas, unlocking more <color=#92fc63>Manjuu Custom Orders</color>, and increasing the amount of <color=#92fc63>Sparks of Joy</color> you can earn.\n\n<b>Reward Information</b>:\n 1. During the event, tap the <color=#92fc63>Check Rewards</color> button on the right side of the screen to submit <color=#92fc63>Sparks of Joy</color> and earn great rewards. \n 2. The milestone rewards for submitting <color=#92fc63>Sparks of Joy</color> will be unlocked sequentially during the event period. You will not be able to continue mall management until the next milestone reward is unlocked. All <color=#92fc63>Spark of Joy</color> submission rewards can be unlocked on as early as May 24th, 2026.\n\n<b>Event Duration</b>:\n5/20/2026 - 6/11/2026 Maintenance. Management rewards must be claimed before 6/17/2026 23:59.\n"
+      }
+    ]
+  },
+  "mall_input_btn": {
+    "tip": "Submit Sparks"
+  },
+  "mall_input_header": {
+    "tip": "Sparks of Joy Spent:"
+  },
+  "mall_level_header": {
+    "tip": "Mall Level:"
+  },
+  "mall_level_max": {
+    "tip": "The Mall has reached max level."
+  },
+  "mall_open_title": {
+    "tip": "Managing..."
+  },
+  "mall_order_btn_complete": {
+    "tip": "Order Complete"
+  },
+  "mall_order_btn_doing": {
+    "tip": "Fulfilling"
+  },
+  "mall_order_btn_staff": {
+    "tip": "Assign Staff"
+  },
+  "mall_order_btn_start": {
+    "tip": "Begin Fulfillment"
+  },
+  "mall_order_char_header": {
+    "tip": "Requester:"
+  },
+  "mall_order_finished_all_tip": {
+    "tip": "All custom orders have been fulfilled."
+  },
+  "mall_order_need_attrs_header": {
+    "tip": "Staff Stats Required:"
+  },
+  "mall_order_need_staff_header": {
+    "tip": "Staff Needed:"
+  },
+  "mall_order_unlock_lv_tip": {
+    "tip": "Increase the Mall's level to unlock new orders."
+  },
+  "mall_order_wait_tip": {
+    "tip": "Next Batch of Orders:"
+  },
+  "mall_point_name_type1": {
+    "tip": "Landmarks"
+  },
+  "mall_point_name_type2": {
+    "tip": "Travelog"
+  },
+  "mall_point_name_type3": {
+    "tip": "Special Stories"
+  },
+  "mall_point_name_type4": {
+    "tip": "Character Stories"
+  },
+  "mall_rank_a": {
+    "tip": "A"
+  },
+  "mall_rank_b": {
+    "tip": "B"
+  },
+  "mall_rank_close": {
+    "tip": "Resting"
+  },
+  "mall_rank_s": {
+    "tip": "S"
+  },
+  "mall_remove_floor_sure": {
+    "tip": "This staff member is currently working in the mall. Move them to custom order fulfillment?"
+  },
+  "mall_right_title_summary": {
+    "tip": "Upgrade Requirements"
+  },
+  "mall_right_title_upgrade": {
+    "tip": "Mall Overview"
+  },
+  "mall_round_header": {
+    "tip": "Round:"
+  },
+  "mall_staff_in_floor": {
+    "tip": "Working"
+  },
+  "mall_staff_in_order": {
+    "tip": "Fulfilling"
+  },
+  "mall_staff_position_full_tip": {
+    "tip": "Unable to assign; max number of staff has been reached."
+  },
+  "mall_summary_btn": {
+    "tip": "Sparks of Joy Earned:"
+  },
+  "mall_summary_title": {
+    "tip": "Sales Revenue"
+  },
+  "mall_title": {
+    "tip": "Luxury Bay"
+  },
+  "mall_title_en": {
+    "tip": "Events"
+  },
+  "mall_title_lock": {
+    "tip": "Level up the Mall\nto unlock"
+  },
+  "mall_total_income_header": {
+    "tip": "All Sales"
+  },
+  "mall_unlock_date_tip": {
+    "tip": "You can reopen the mall for business on $1/$2 (New rewards will become available)."
+  },
+  "mall_unlock_date_tip2": {
+    "tip": "Unlocks on $1/$2"
+  },
+  "mall_upgrade_title": {
+    "tip": "Mall Level Increased!"
+  },
   "map_event_lighthouse_tip_1": {
     "tip": "Lighthouse controlled. Searchlight support may activate during combat."
   },
@@ -19106,6 +19332,36 @@
   },
   "memory_activity_sp": {
     "tip": "Special"
+  },
+  "memory_filter_option_1": {
+    "tip": "Default"
+  },
+  "memory_filter_option_2": {
+    "tip": "Progress"
+  },
+  "memory_filter_option_3": {
+    "tip": "All"
+  },
+  "memory_filter_option_4": {
+    "tip": "Unlockable"
+  },
+  "memory_filter_option_5": {
+    "tip": "Locked"
+  },
+  "memory_filter_option_6": {
+    "tip": "Character Not Obtained"
+  },
+  "memory_filter_title_1": {
+    "tip": "Filter"
+  },
+  "memory_filter_title_2": {
+    "tip": "FILTER"
+  },
+  "memory_goto": {
+    "tip": "Confirm"
+  },
+  "memory_unlock": {
+    "tip": "Tap to unlock"
   },
   "memorybook_get_award_tip": {
     "tip": "You must unlock all \"Port Memories\" to receive the \"Commemorative Pyoko-Pyoko Medal\""
@@ -21255,7 +21511,7 @@
         "info": "Event Description: \n"
       },
       {
-        "info": "1. Focus your wishes upon one of the three permanent build categories — Light, Heavy, or Special builds — then choose one ship to wish for. (Ultra Rare ships can only appear in Heavy or Special builds.)"
+        "info": "1. Focus your wishes upon one of the three permanent build categories – Light, Heavy, or Special builds – then choose one ship to wish for. (Ultra Rare ships can only appear in Heavy or Special builds.)"
       },
       {
         "info": "2. The acquisition rate of each rarity is the same in the Wishing Well as it is for normal building:"
@@ -21273,10 +21529,10 @@
         "info": "3. You can see a list of all ships available for construction in the Wishing Well."
       },
       {
-        "info": "4. You may choose two ships on which to focus your wishes. (You can only choose one Ultra Rare ship and any other Ultra Rare ship cannot be build in the Wishing Well.)"
+        "info": "4. You may choose two ships on which to focus your wishes. (You can only choose one Ultra Rare ship and any other Ultra Rare ship cannot be built in the Wishing Well.)"
       },
       {
-        "info": "5. Only ships added to the normal building pool prior to March 26th, 2025 can hear your wishes."
+        "info": "5. Only ships added to the normal building pool prior to March 25th, 2026 can hear your wishes."
       },
       {
         "info": "6. Ships that have an unlock condition cannot hear your wishes, and will not appear in the Wishing Well."
@@ -23797,6 +24053,9 @@
   "ship_remould_warning_402134": {
     "tip": "Completing this Retrofit will permanently change the first \"Auxiliary\" equipment slot to a <color=#92fc63>\"Helicopter\"</color>\n equipment slot. Proceed with the Retrofit? "
   },
+  "ship_remould_warning_403994": {
+    "tip": "Completing the retrofit will have the following effects:\n<color=#92fc63>Main Gun base +1</color>\n<color=#92fc63>Main Gun efficiency becomes 120%</color>\nProceed with retrofit?"
+  },
   "ship_remould_warning_502114": {
     "tip": "The skill <color=#92fc63>Dragon Empery Bond</color> will be upgraded upon retrofit completion."
   },
@@ -24576,6 +24835,43 @@
   },
   "sort_intimacy": {
     "tip": "Affinity"
+  },
+  "sort_minigame_help": {
+    "tip": {
+      "1": {
+        "icon": {
+          "atlas": "helpbg/sortgame_help1",
+          "path": ""
+        }
+      },
+      "2": {
+        "icon": {
+          "atlas": "helpbg/sortgame_help2",
+          "path": ""
+        }
+      },
+      "3": {
+        "icon": {
+          "atlas": "helpbg/sortgame_help3",
+          "path": ""
+        }
+      },
+      "ImageMode": true,
+      "defaultpage": 1,
+      "disableScroll": true,
+      "helpSize": {
+        "x": 1176,
+        "y": 1024
+      },
+      "pageMode": true,
+      "windowPos": {
+        "y": -70
+      },
+      "windowSize": {
+        "x": 1263,
+        "y": 873
+      }
+    }
   },
   "sp_no_quota": {
     "tip": "You cannot sortie any more today."

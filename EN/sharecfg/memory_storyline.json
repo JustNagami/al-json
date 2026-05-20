@@ -2431,12 +2431,37 @@
     "world_id": ""
   },
   "95": {
+    "bgm": "theme-hrr",
+    "chapter": 5,
+    "column": 59,
+    "description": "\"I, Götz von Berlichingen...\"\n\"Do solemnly swear upon the Hagiobull.\"\n\"No matter the price, even my very life\"\n\"I will guard this sacred land to my last breath.\"\n\"I shall fight and fight, until...\"",
+    "icon": "InterludeOne_2",
+    "id": 95,
+    "link_event": [
+      96
+    ],
+    "memory_id": [
+      1,
+      365
+    ],
+    "memory_lock": 0,
+    "name": "Alliance Before the Hagiobull",
+    "row": 0,
+    "shipnation": [
+      4,
+      10,
+      6
+    ],
+    "sort": 1,
+    "world_id": ""
+  },
+  "96": {
     "bgm": "",
     "chapter": 0,
-    "column": 59,
+    "column": 60,
     "description": "Stay Tuned",
     "icon": "",
-    "id": 95,
+    "id": 96,
     "link_event": "",
     "memory_id": "",
     "memory_lock": 1,
@@ -2541,6 +2566,7 @@
     92,
     93,
     94,
-    95
+    95,
+    96
   ]
 }

@@ -9309,6 +9309,260 @@
     "themeId": 0,
     "type": 7
   },
+  "335": {
+    "advice": 0,
+    "belong": 1,
+    "can_rotate": 0,
+    "can_trigger": [
+      1
+    ],
+    "canputon": 0,
+    "canputonGrid": [],
+    "comfortable": 0,
+    "count": 1,
+    "deblocking": 1,
+    "describe": "A miniature modeled after a terrifying netherworld tower. Awarded to Commanders who participated in the \"Alliance Before the Hagiobull\" event.",
+    "dir": 0,
+    "dorm_id": 0,
+    "effect": "",
+    "gain_by": "Alliance Before the Hagiobull",
+    "icon": "gezixunzhangicon",
+    "id": 335,
+    "interAction_group": [],
+    "is_3d_obj": 0,
+    "is_get_time_note": 1,
+    "level": 1,
+    "name": "Netherworld Tower",
+    "offset": [],
+    "picture": "",
+    "rarity": 5,
+    "size": [
+      3,
+      3
+    ],
+    "spine": [
+      [
+        "gezixunzhang",
+        "normal"
+      ]
+    ],
+    "spine_action_replace": "",
+    "spine_combine_action_replace": "",
+    "spine_extra": "",
+    "tag": 8,
+    "themeId": 0,
+    "type": 7
+  },
+  "336": {
+    "advice": 0,
+    "belong": 1,
+    "can_rotate": 0,
+    "can_trigger": [
+      0
+    ],
+    "canputon": 0,
+    "canputonGrid": [],
+    "comfortable": 0,
+    "count": 1,
+    "deblocking": 1,
+    "describe": "Take a dreamy trip to the land of your dreams, all without leaving your bed!",
+    "dir": 0,
+    "dorm_id": 0,
+    "effect": "",
+    "followBone": [
+      "char",
+      1
+    ],
+    "gain_by": "",
+    "icon": "daolanshuchuangicon",
+    "id": 336,
+    "interAction_group": [],
+    "is_3d_obj": 0,
+    "is_get_time_note": 0,
+    "level": 1,
+    "name": "Dream Traveler",
+    "offset": [],
+    "picture": "",
+    "rarity": 4,
+    "size": [
+      4,
+      6
+    ],
+    "spine": [
+      [
+        "daolanshuchuang",
+        "normal"
+      ],
+      [],
+      [
+        [
+          0,
+          0
+        ],
+        [
+          [
+            "sleep1",
+            null,
+            "sleep"
+          ]
+        ],
+        [
+          null,
+          1
+        ],
+        [
+          1
+        ],
+        [
+          [
+            "sleep1",
+            "sleep2",
+            "sleep3"
+          ]
+        ]
+      ],
+      [],
+      [
+        0,
+        0
+      ]
+    ],
+    "spine_action_replace": "",
+    "spine_combine_action_replace": "",
+    "spine_extra": "",
+    "tag": 6,
+    "themeId": 0,
+    "type": 7
+  },
+  "337": {
+    "advice": 0,
+    "belong": 1,
+    "can_rotate": 0,
+    "can_trigger": [
+      0
+    ],
+    "canputon": 0,
+    "canputonGrid": [],
+    "comfortable": 4,
+    "count": 1,
+    "deblocking": 1,
+    "describe": "No more walking. Hop on the rolling suitcase and go, go, go!",
+    "dir": 0,
+    "dorm_id": 0,
+    "effect": "",
+    "followBone": [
+      "char",
+      -1
+    ],
+    "gain_by": "",
+    "icon": "sanxiaoxinglixiangicon",
+    "id": 337,
+    "interAction_group": [],
+    "is_3d_obj": 0,
+    "is_get_time_note": 0,
+    "level": 1,
+    "name": "Go-go Travel Suitcase",
+    "offset": [],
+    "picture": "",
+    "rarity": 4,
+    "size": [
+      2,
+      3
+    ],
+    "spine": [
+      [
+        "sanxiaoxinglixiang",
+        "normal",
+        null,
+        true
+      ],
+      [],
+      [
+        [
+          0,
+          0
+        ],
+        [
+          [
+            "sit",
+            null,
+            "sit"
+          ]
+        ],
+        {
+          "3": [
+            "sit2",
+            "sit",
+            false,
+            true
+          ]
+        },
+        [
+          1
+        ]
+      ],
+      [],
+      [
+        0,
+        0
+      ],
+      [
+        1,
+        1
+      ],
+      0.8
+    ],
+    "spine_action_replace": "",
+    "spine_combine_action_replace": "",
+    "spine_extra": "",
+    "tag": 6,
+    "themeId": 0,
+    "type": 11
+  },
+  "338": {
+    "advice": 0,
+    "belong": 1,
+    "can_rotate": 0,
+    "can_trigger": [
+      1
+    ],
+    "canputon": 0,
+    "canputonGrid": [],
+    "comfortable": 0,
+    "count": 1,
+    "deblocking": 1,
+    "describe": "A miniature model of the Tower of Luxury (Star included).",
+    "dir": 0,
+    "dorm_id": 0,
+    "effect": "",
+    "gain_by": "The Opulent! The Glamorous! Luxury Bay!",
+    "icon": "fujindashaxunzhangicon",
+    "id": 338,
+    "interAction_group": [],
+    "is_3d_obj": 0,
+    "is_get_time_note": 1,
+    "level": 1,
+    "name": "Miniature Tower of Luxury",
+    "offset": [],
+    "picture": "",
+    "rarity": 5,
+    "size": [
+      2,
+      2
+    ],
+    "spine": [
+      [
+        "fujindashaxunzhang",
+        "normal"
+      ]
+    ],
+    "spine_action_replace": "",
+    "spine_combine_action_replace": "",
+    "spine_extra": "",
+    "tag": 8,
+    "themeId": 0,
+    "type": 7
+  },
   "1001": {
     "advice": 0,
     "belong": 0,
@@ -161837,6 +162091,812 @@
     "themeId": 137,
     "type": 2
   },
+  "338001": {
+    "advice": 0,
+    "belong": 0,
+    "can_rotate": 0,
+    "can_trigger": [
+      0
+    ],
+    "canputon": 0,
+    "canputonGrid": [],
+    "comfortable": 4,
+    "count": 1,
+    "deblocking": 1,
+    "describe": "Enjoy Luxury Bay's gorgeous scenery by walking along its brilliant streets!",
+    "dir": 0,
+    "dorm_id": 0,
+    "effect": "",
+    "gain_by": "",
+    "icon": "dibanshhicon",
+    "id": 338001,
+    "interAction_group": [],
+    "is_3d_obj": 0,
+    "is_get_time_note": 0,
+    "level": 1,
+    "name": "Luxury Bay Flooring",
+    "offset": [],
+    "picture": "shh/dibanshh",
+    "rarity": 4,
+    "size": "",
+    "spine_action_replace": "",
+    "spine_combine_action_replace": "",
+    "spine_extra": "",
+    "tag": 4,
+    "themeId": 138,
+    "type": 4
+  },
+  "338002": {
+    "advice": 0,
+    "belong": 0,
+    "can_rotate": 0,
+    "can_trigger": [
+      0
+    ],
+    "canputon": 0,
+    "canputonGrid": [],
+    "comfortable": 4,
+    "count": 1,
+    "deblocking": 1,
+    "describe": "Enjoy Luxury Bay's gorgeous scenery by walking along its brilliant streets!",
+    "dir": 0,
+    "dorm_id": 0,
+    "effect": "",
+    "gain_by": "",
+    "icon": "qiangbishhicon",
+    "id": 338002,
+    "interAction_group": [],
+    "is_3d_obj": 0,
+    "is_get_time_note": 0,
+    "level": 5,
+    "name": "Luxury Bay Wallpaper",
+    "offset": [],
+    "picture": "",
+    "rarity": 4,
+    "size": "",
+    "spine": [
+      [
+        "qiangbishh",
+        "normal"
+      ]
+    ],
+    "spine_action_replace": "",
+    "spine_combine_action_replace": "",
+    "spine_extra": "",
+    "tag": 3,
+    "themeId": 138,
+    "type": 1
+  },
+  "338101": {
+    "advice": 0,
+    "belong": 1,
+    "can_rotate": 0,
+    "can_trigger": [
+      0
+    ],
+    "canputon": 0,
+    "canputonGrid": [],
+    "comfortable": 2,
+    "count": 1,
+    "deblocking": 1,
+    "describe": "A golden premium automobile parked quietly by the wayside.",
+    "dir": 0,
+    "dorm_id": 0,
+    "effect": "",
+    "followBone": [
+      "char",
+      -1
+    ],
+    "gain_by": "",
+    "icon": "changpengcheshhicon",
+    "id": 338101,
+    "interAction_group": [],
+    "is_3d_obj": 0,
+    "is_get_time_note": 0,
+    "level": 1,
+    "name": "Luxury Bay Premium Car",
+    "offset": [],
+    "picture": "",
+    "rarity": 2,
+    "size": [
+      6,
+      3
+    ],
+    "spine": [
+      [
+        "changpengcheshhB",
+        "normal"
+      ],
+      [
+        "changpengcheshhT"
+      ],
+      [
+        [
+          0,
+          0
+        ],
+        [
+          [
+            "sit"
+          ]
+        ],
+        [],
+        [
+          1
+        ]
+      ],
+      [],
+      [
+        0,
+        0
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "spine_action_replace": "",
+    "spine_combine_action_replace": "",
+    "spine_extra": "",
+    "tag": 1,
+    "themeId": 138,
+    "type": 2
+  },
+  "338102": {
+    "advice": 0,
+    "belong": 1,
+    "can_rotate": 0,
+    "can_trigger": [
+      0
+    ],
+    "canputon": 0,
+    "canputonGrid": [],
+    "comfortable": 2,
+    "count": 1,
+    "deblocking": 1,
+    "describe": "I had a crazy shopping spree, peep!",
+    "dir": 0,
+    "dorm_id": 0,
+    "effect": "",
+    "gain_by": "",
+    "icon": "gouwujiushhicon",
+    "id": 338102,
+    "interAction_group": [],
+    "is_3d_obj": 0,
+    "is_get_time_note": 0,
+    "level": 1,
+    "name": "Luxury Bay Shopperjuu",
+    "offset": [],
+    "picture": "",
+    "rarity": 2,
+    "size": [
+      2,
+      2
+    ],
+    "spine": [
+      [
+        "gouwujiushh",
+        "normal",
+        [
+          "walk",
+          true
+        ]
+      ]
+    ],
+    "spine_action_replace": "",
+    "spine_combine_action_replace": "",
+    "spine_extra": "",
+    "tag": 1,
+    "themeId": 138,
+    "type": 11
+  },
+  "338103": {
+    "advice": 0,
+    "belong": 1,
+    "can_rotate": 0,
+    "can_trigger": [
+      0
+    ],
+    "canputon": 0,
+    "canputonGrid": [],
+    "comfortable": 3,
+    "count": 1,
+    "deblocking": 1,
+    "describe": "A luxurious shopping mall with large cinema screens and high-class fashion boutiques",
+    "dir": 0,
+    "dorm_id": 0,
+    "effect": "",
+    "gain_by": "",
+    "icon": "gouwuloufangshhicon",
+    "id": 338103,
+    "interAction_group": [],
+    "is_3d_obj": 0,
+    "is_get_time_note": 0,
+    "level": 1,
+    "name": "Luxury Bay Cinemall",
+    "offset": [],
+    "picture": "shh/gouwuloufangshh",
+    "rarity": 3,
+    "size": [
+      4,
+      3
+    ],
+    "spine": "",
+    "spine_action_replace": "",
+    "spine_combine_action_replace": "",
+    "spine_extra": "",
+    "tag": 1,
+    "themeId": 138,
+    "type": 2
+  },
+  "338104": {
+    "advice": 0,
+    "belong": 1,
+    "can_rotate": 0,
+    "can_trigger": [
+      0
+    ],
+    "canputon": 0,
+    "canputonGrid": [],
+    "comfortable": 3,
+    "count": 1,
+    "deblocking": 1,
+    "describe": "Its flowing dresses bewitch at first sight with their charm and luxury",
+    "dir": 0,
+    "dorm_id": 0,
+    "effect": "",
+    "gain_by": "",
+    "icon": "gouwuloufang2shhicon",
+    "id": 338104,
+    "interAction_group": [],
+    "is_3d_obj": 0,
+    "is_get_time_note": 0,
+    "level": 1,
+    "name": "Luxury Bay Fashion Center",
+    "offset": [],
+    "picture": "shh/gouwuloufang2shh",
+    "rarity": 3,
+    "size": [
+      4,
+      3
+    ],
+    "spine": "",
+    "spine_action_replace": "",
+    "spine_combine_action_replace": "",
+    "spine_extra": "",
+    "tag": 1,
+    "themeId": 138,
+    "type": 2
+  },
+  "338105": {
+    "advice": 0,
+    "belong": 1,
+    "can_rotate": 1,
+    "can_trigger": [
+      0
+    ],
+    "canputon": 0,
+    "canputonGrid": [],
+    "comfortable": 4,
+    "count": 1,
+    "deblocking": 1,
+    "describe": "A fancy shopping paradise that deals in all manners of merchandise.",
+    "dir": 0,
+    "dorm_id": 0,
+    "effect": "",
+    "gain_by": "",
+    "icon": "gouwulousanjiaoshhicon",
+    "id": 338105,
+    "interAction_group": [],
+    "is_3d_obj": 0,
+    "is_get_time_note": 0,
+    "level": 1,
+    "name": "Luxury Bay Shopping Center",
+    "offset": [],
+    "picture": "shh/gouwulousanjiaoshh",
+    "rarity": 4,
+    "size": [
+      5,
+      5
+    ],
+    "spine": "",
+    "spine_action_replace": "",
+    "spine_combine_action_replace": "",
+    "spine_extra": "",
+    "tag": 1,
+    "themeId": 138,
+    "type": 2
+  },
+  "338106": {
+    "advice": 0,
+    "belong": 1,
+    "can_rotate": 0,
+    "can_trigger": [
+      0
+    ],
+    "canputon": 0,
+    "canputonGrid": [],
+    "comfortable": 3,
+    "count": 1,
+    "deblocking": 1,
+    "describe": "Its landmark dome is always in sight. You'll never get lost so long as you look for it!",
+    "dir": 0,
+    "dorm_id": 0,
+    "effect": "",
+    "gain_by": "",
+    "icon": "gouwulouyuanshhicon",
+    "id": 338106,
+    "interAction_group": [],
+    "is_3d_obj": 0,
+    "is_get_time_note": 0,
+    "level": 1,
+    "name": "Luxury Bay Dome Mall",
+    "offset": [],
+    "picture": "",
+    "rarity": 3,
+    "size": [
+      3,
+      3
+    ],
+    "spine": [
+      [
+        "gouwulouyuanshh",
+        "normal"
+      ]
+    ],
+    "spine_action_replace": "",
+    "spine_combine_action_replace": "",
+    "spine_extra": "",
+    "tag": 1,
+    "themeId": 138,
+    "type": 2
+  },
+  "338107": {
+    "advice": 0,
+    "belong": 1,
+    "can_rotate": 0,
+    "can_trigger": [
+      0
+    ],
+    "canputon": 0,
+    "canputonGrid": [],
+    "comfortable": 3,
+    "count": 1,
+    "deblocking": 1,
+    "describe": "A sightseeing cruiser docked at the river that allows visitors to watch the cityscape from a waterside view.",
+    "dir": 0,
+    "dorm_id": 0,
+    "effect": "",
+    "gain_by": "",
+    "icon": "guanguangchuanshhicon",
+    "id": 338107,
+    "interAction_group": [],
+    "is_3d_obj": 0,
+    "is_get_time_note": 0,
+    "level": 1,
+    "name": "Luxury Bay Sightseeing Cruiser",
+    "offset": [],
+    "picture": "",
+    "rarity": 3,
+    "size": [
+      8,
+      3
+    ],
+    "spine": [
+      [
+        "guanguangchuanshh",
+        "normal"
+      ]
+    ],
+    "spine_action_replace": "",
+    "spine_combine_action_replace": "",
+    "spine_extra": "",
+    "tag": 1,
+    "themeId": 138,
+    "type": 2
+  },
+  "338108": {
+    "advice": 0,
+    "belong": 1,
+    "can_rotate": 0,
+    "can_trigger": [
+      0
+    ],
+    "canputon": 0,
+    "canputonGrid": [],
+    "comfortable": 3,
+    "count": 1,
+    "deblocking": 1,
+    "describe": "With a barbecue and meat on the grill, what else do you need?!",
+    "dir": 0,
+    "dorm_id": 0,
+    "effect": "",
+    "gain_by": "",
+    "icon": "kaoroutanshhicon",
+    "id": 338108,
+    "interAction_group": [],
+    "is_3d_obj": 0,
+    "is_get_time_note": 0,
+    "level": 1,
+    "name": "Luxury Bay Stalls",
+    "offset": [],
+    "picture": "",
+    "rarity": 3,
+    "size": [
+      4,
+      3
+    ],
+    "spine": [
+      [
+        "kaoroutanshh",
+        "normal",
+        [
+          "action",
+          false
+        ]
+      ]
+    ],
+    "spine_action_replace": "",
+    "spine_combine_action_replace": "",
+    "spine_extra": "",
+    "tag": 1,
+    "themeId": 138,
+    "type": 2
+  },
+  "338109": {
+    "advice": 0,
+    "belong": 1,
+    "can_rotate": 0,
+    "can_trigger": [
+      0
+    ],
+    "canputon": 0,
+    "canputonGrid": [],
+    "comfortable": 1,
+    "count": 1,
+    "deblocking": 1,
+    "describe": "A knee-high fence that divides space without obstructing your field of vision.",
+    "dir": 0,
+    "dorm_id": 0,
+    "effect": "",
+    "gain_by": "",
+    "icon": "langanshhicon",
+    "id": 338109,
+    "interAction_group": [],
+    "is_3d_obj": 0,
+    "is_get_time_note": 0,
+    "level": 1,
+    "name": "Luxury Bay Partition",
+    "offset": [],
+    "picture": "shh/langanshh",
+    "rarity": 1,
+    "size": [
+      22,
+      1
+    ],
+    "spine": "",
+    "spine_action_replace": "",
+    "spine_combine_action_replace": "",
+    "spine_extra": "",
+    "tag": 1,
+    "themeId": 138,
+    "type": 2
+  },
+  "338110": {
+    "advice": 0,
+    "belong": 1,
+    "can_rotate": 0,
+    "can_trigger": [
+      0
+    ],
+    "canputon": 0,
+    "canputonGrid": [],
+    "comfortable": 1,
+    "count": 2,
+    "deblocking": 1,
+    "describe": "A delicately-designed street light that casts a soft glow on nighttime streets.",
+    "dir": 0,
+    "dorm_id": 0,
+    "effect": "",
+    "gain_by": "",
+    "icon": "ludengshhicon",
+    "id": 338110,
+    "interAction_group": [],
+    "is_3d_obj": 0,
+    "is_get_time_note": 0,
+    "level": 1,
+    "name": "Luxury Bay Street Light",
+    "offset": [],
+    "picture": "shh/ludengshh",
+    "rarity": 1,
+    "size": [
+      1,
+      1
+    ],
+    "spine": "",
+    "spine_action_replace": "",
+    "spine_combine_action_replace": "",
+    "spine_extra": "",
+    "tag": 1,
+    "themeId": 138,
+    "type": 2
+  },
+  "338111": {
+    "advice": 0,
+    "belong": 1,
+    "can_rotate": 0,
+    "can_trigger": [
+      0
+    ],
+    "canputon": 0,
+    "canputonGrid": [],
+    "comfortable": 3,
+    "count": 1,
+    "deblocking": 1,
+    "describe": "Jets of water sway to the music, making for quite a show.",
+    "dir": 0,
+    "dorm_id": 0,
+    "effect": "",
+    "gain_by": "",
+    "icon": "penquanshhicon",
+    "id": 338111,
+    "interAction_group": [],
+    "is_3d_obj": 0,
+    "is_get_time_note": 0,
+    "level": 1,
+    "name": "Luxury Bay Fountain",
+    "offset": [],
+    "picture": "",
+    "rarity": 3,
+    "size": [
+      5,
+      5
+    ],
+    "spine": [
+      [
+        "penquanshh",
+        "normal"
+      ]
+    ],
+    "spine_action_replace": "",
+    "spine_combine_action_replace": "",
+    "spine_extra": "",
+    "tag": 1,
+    "themeId": 138,
+    "type": 2
+  },
+  "338112": {
+    "advice": 0,
+    "belong": 1,
+    "can_rotate": 0,
+    "can_trigger": [
+      0
+    ],
+    "canputon": 0,
+    "canputonGrid": [],
+    "comfortable": 2,
+    "count": 1,
+    "deblocking": 1,
+    "describe": "Where do we stroll next, peep?",
+    "dir": 0,
+    "dorm_id": 0,
+    "effect": "",
+    "gain_by": "",
+    "icon": "sanbujiushhicon",
+    "id": 338112,
+    "interAction_group": [],
+    "is_3d_obj": 0,
+    "is_get_time_note": 0,
+    "level": 1,
+    "name": "Luxury Bay Touristjuu",
+    "offset": [],
+    "picture": "",
+    "rarity": 2,
+    "size": [
+      2,
+      2
+    ],
+    "spine": [
+      [
+        "sanbujiushh",
+        "normal",
+        [
+          "walk",
+          true
+        ]
+      ]
+    ],
+    "spine_action_replace": "",
+    "spine_combine_action_replace": "",
+    "spine_extra": "",
+    "tag": 1,
+    "themeId": 138,
+    "type": 11
+  },
+  "338113": {
+    "advice": 0,
+    "belong": 1,
+    "can_rotate": 0,
+    "can_trigger": [
+      0
+    ],
+    "canputon": 0,
+    "canputonGrid": [],
+    "comfortable": 2,
+    "count": 1,
+    "deblocking": 1,
+    "describe": "Ding dong! Are you ready for your next thrilling shopping trip?",
+    "dir": 0,
+    "dorm_id": 0,
+    "effect": "",
+    "gain_by": "",
+    "icon": "shizhongtashhicon",
+    "id": 338113,
+    "interAction_group": [],
+    "is_3d_obj": 0,
+    "is_get_time_note": 0,
+    "level": 1,
+    "name": "Luxury Bay Clock Tower",
+    "offset": [],
+    "picture": "",
+    "rarity": 2,
+    "size": [
+      2,
+      2
+    ],
+    "spine": [
+      [
+        "shizhongtashh",
+        "normal",
+        [
+          "action",
+          false
+        ]
+      ]
+    ],
+    "spine_action_replace": "",
+    "spine_combine_action_replace": "",
+    "spine_extra": "",
+    "tag": 1,
+    "themeId": 138,
+    "type": 2
+  },
+  "338114": {
+    "advice": 0,
+    "belong": 1,
+    "can_rotate": 0,
+    "can_trigger": [
+      0
+    ],
+    "canputon": 0,
+    "canputonGrid": [],
+    "comfortable": 1,
+    "count": 1,
+    "deblocking": 1,
+    "describe": "A toy of a cutting-edge helicopter that's always ready to take off!",
+    "dir": 0,
+    "dorm_id": 0,
+    "effect": "",
+    "gain_by": "",
+    "icon": "wurenjishhicon",
+    "id": 338114,
+    "interAction_group": [],
+    "is_3d_obj": 0,
+    "is_get_time_note": 0,
+    "level": 1,
+    "name": "Luxury Bay Helicopter",
+    "offset": [],
+    "picture": "",
+    "rarity": 1,
+    "size": [
+      2,
+      2
+    ],
+    "spine": [
+      [
+        "wurenjishh",
+        "normal",
+        [
+          "action",
+          true
+        ]
+      ]
+    ],
+    "spine_action_replace": "",
+    "spine_combine_action_replace": "",
+    "spine_extra": "",
+    "tag": 1,
+    "themeId": 138,
+    "type": 11
+  },
+  "338115": {
+    "advice": 0,
+    "belong": 1,
+    "can_rotate": 0,
+    "can_trigger": [
+      0
+    ],
+    "canputon": 0,
+    "canputonGrid": [],
+    "comfortable": 2,
+    "count": 2,
+    "deblocking": 1,
+    "describe": "A tropical palm tree that casts shade over the shopping district.",
+    "dir": 0,
+    "dorm_id": 0,
+    "effect": "",
+    "gain_by": "",
+    "icon": "zonglvshushhicon",
+    "id": 338115,
+    "interAction_group": [],
+    "is_3d_obj": 0,
+    "is_get_time_note": 0,
+    "level": 1,
+    "name": "Luxury Bay Palm Tree",
+    "offset": [],
+    "picture": "",
+    "rarity": 2,
+    "size": [
+      2,
+      2
+    ],
+    "spine": [
+      [
+        "zonglvshushh",
+        "normal"
+      ]
+    ],
+    "spine_action_replace": "",
+    "spine_combine_action_replace": "",
+    "spine_extra": "",
+    "tag": 1,
+    "themeId": 138,
+    "type": 2
+  },
+  "338116": {
+    "advice": 0,
+    "belong": 1,
+    "can_rotate": 0,
+    "can_trigger": [
+      0
+    ],
+    "canputon": 0,
+    "canputonGrid": [],
+    "comfortable": 4,
+    "count": 1,
+    "deblocking": 1,
+    "describe": "A dedicated taxi stand for customers heading home with lots of shopping bags.",
+    "dir": 0,
+    "dorm_id": 0,
+    "effect": "",
+    "gain_by": "",
+    "icon": "chuzucheshhicon",
+    "id": 338116,
+    "interAction_group": [],
+    "is_3d_obj": 0,
+    "is_get_time_note": 0,
+    "level": 1,
+    "name": "Luxury Bay Taxi Stand",
+    "offset": [],
+    "picture": "",
+    "rarity": 4,
+    "size": [
+      7,
+      5
+    ],
+    "spine": [
+      [
+        "chuzucheshh",
+        "normal"
+      ]
+    ],
+    "spine_action_replace": "",
+    "spine_combine_action_replace": "",
+    "spine_extra": "",
+    "tag": 7,
+    "themeId": 138,
+    "type": 2
+  },
   "all": [
     1,
     2,
@@ -162025,6 +163085,10 @@
     331,
     332,
     333,
+    335,
+    336,
+    337,
+    338,
     100002,
     100003,
     100004,
@@ -165358,7 +166422,25 @@
     337113,
     337114,
     337115,
-    337116
+    337116,
+    338001,
+    338002,
+    338101,
+    338102,
+    338103,
+    338104,
+    338105,
+    338106,
+    338107,
+    338108,
+    338109,
+    338110,
+    338111,
+    338112,
+    338113,
+    338114,
+    338115,
+    338116
   ],
   "get_id_list_by_tag": [
     [
@@ -167609,7 +168691,22 @@
       337113,
       337114,
       337115,
-      337116
+      337116,
+      338101,
+      338102,
+      338103,
+      338104,
+      338105,
+      338106,
+      338107,
+      338108,
+      338109,
+      338110,
+      338111,
+      338112,
+      338113,
+      338114,
+      338115
     ],
     [
       1108,
@@ -167898,7 +168995,8 @@
       334002,
       335002,
       336002,
-      337002
+      337002,
+      338002
     ],
     [
       1001,
@@ -168023,7 +169121,8 @@
       334001,
       335001,
       336001,
-      337001
+      337001,
+      338001
     ],
     [
       1301,
@@ -168527,6 +169626,8 @@
       328,
       329,
       330,
+      336,
+      337,
       100002,
       100003,
       100004,
@@ -168820,7 +169921,8 @@
       333119,
       334123,
       335119,
-      336115
+      336115,
+      338116
     ],
     [
       106,
@@ -168896,7 +169998,9 @@
       323,
       331,
       332,
-      333
+      333,
+      335,
+      338
     ]
   ],
   "get_id_list_by_themeId": {
@@ -169086,6 +170190,10 @@
       331,
       332,
       333,
+      335,
+      336,
+      337,
+      338,
       100002,
       100003,
       100004,
@@ -172668,6 +173776,26 @@
       337114,
       337115,
       337116
+    ],
+    "138": [
+      338001,
+      338002,
+      338101,
+      338102,
+      338103,
+      338104,
+      338105,
+      338106,
+      338107,
+      338108,
+      338109,
+      338110,
+      338111,
+      338112,
+      338113,
+      338114,
+      338115,
+      338116
     ]
   },
   "get_id_list_by_type": [
@@ -172795,7 +173923,8 @@
       334002,
       335002,
       336002,
-      337002
+      337002,
+      338002
     ],
     [
       120,
@@ -175046,7 +176175,20 @@
       337113,
       337114,
       337115,
-      337116
+      337116,
+      338101,
+      338103,
+      338104,
+      338105,
+      338106,
+      338107,
+      338108,
+      338109,
+      338110,
+      338111,
+      338113,
+      338115,
+      338116
     ],
     [
       1108,
@@ -175335,7 +176477,8 @@
       334001,
       335001,
       336001,
-      337001
+      337001,
+      338001
     ],
     [
       1101,
@@ -176042,6 +177185,9 @@
       331,
       332,
       333,
+      335,
+      336,
+      338,
       100002,
       100004,
       100005,
@@ -176146,6 +177292,7 @@
       281,
       282,
       308,
+      337,
       100003,
       100008,
       100021,
@@ -176192,7 +177339,10 @@
       316112,
       316121,
       317107,
-      323102
+      323102,
+      338102,
+      338112,
+      338114
     ],
     [
       46131

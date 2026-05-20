@@ -45,7 +45,7 @@
     "text_pic": "text_event_map",
     "time": [
       "default",
-      50481
+      50605
     ],
     "type": 0
   },
@@ -206,36 +206,13 @@
     "name": "event_medal",
     "order": 1,
     "param": [
-      "SCENE.DOA2_MEDAL_COLLECTION_SCENE"
+      "SENRANKAGURA_MEDAL"
     ],
     "pic": "event_medal",
     "text_pic": "text_event_medal",
     "time": [
-      "timer",
-      [
-        [
-          2026,
-          5,
-          2
-        ],
-        [
-          0,
-          0,
-          0
-        ]
-      ],
-      [
-        [
-          2026,
-          5,
-          7
-        ],
-        [
-          23,
-          59,
-          59
-        ]
-      ]
+      "default",
+      5093
     ],
     "type": 2
   },
@@ -363,12 +340,12 @@
     "id": 110,
     "name": "event_core_2",
     "order": 2,
-    "param": "AprilFoolDiscovery2026UI",
+    "param": "AnniversaryNineCoreActivityUI",
     "pic": "event_core3",
     "text_pic": "text_event_core3",
     "time": [
       "default",
-      50493
+      50611
     ],
     "type": 16
   },
@@ -433,12 +410,12 @@
     "id": 115,
     "name": "event_core_2",
     "order": 1,
-    "param": "OutPostCoreActivityUI",
+    "param": "AnniversaryNineCoreActivityUI",
     "pic": "event_core2",
     "text_pic": "text_event_core2",
     "time": [
       "default",
-      51005
+      50619
     ],
     "type": 16
   },
@@ -453,6 +430,20 @@
     "time": [
       "default",
       51001
+    ],
+    "type": 16
+  },
+  "117": {
+    "group_id": 1,
+    "id": 117,
+    "name": "event_core",
+    "order": 1,
+    "param": "GeZiURCoreActivityUI",
+    "pic": "event_core3",
+    "text_pic": "text_event_core3",
+    "time": [
+      "default",
+      50608
     ],
     "type": 16
   },
@@ -501,6 +492,7 @@
     113,
     114,
     115,
+    117,
     116,
     121
   ],
@@ -531,6 +523,7 @@
     "event_core": [
       109,
       114,
+      117,
       116
     ],
     "event_core_2": [
