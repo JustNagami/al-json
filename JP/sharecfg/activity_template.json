@@ -29522,10 +29522,10 @@
   },
   "6036": {
     "config_client": {
+      "PTID": 653,
       "entrance_bg": "activitybanner/temp10",
       "fightLinkActID": 6036,
       "order": 1,
-      "PTID": 653,
       "task_id": 25426
     },
     "config_data": [
@@ -33098,9 +33098,9 @@
   },
   "50042": {
     "config_client": {
+      "PTID": 523,
       "entrance_bg": "activitybanner/temp10",
-      "order": 2,
-      "PTID": 523
+      "order": 2
     },
     "config_data": [
       1690001,
@@ -33658,9 +33658,9 @@
   },
   "50054": {
     "config_client": {
+      "PTID": 528,
       "entrance_bg": "activitybanner/temp10",
       "order": 1,
-      "PTID": 528,
       "storys": [
         48,
         49,
@@ -34575,10 +34575,10 @@
   },
   "50081": {
     "config_client": {
+      "PTID": 534,
       "entrance_bg": "activitybanner/temp10",
       "first_story": "QIYUANXIADEMIMI1",
       "order": 1,
-      "PTID": 534,
       "roll_task": 21819,
       "storys": [
         121,
@@ -35505,8 +35505,8 @@
   },
   "50114": {
     "config_client": {
-      "entrance_bg": "activitybanner/temp10",
       "PTID": 543,
+      "entrance_bg": "activitybanner/temp10",
       "task_id": 24466
     },
     "config_data": [
@@ -37236,8 +37236,8 @@
   },
   "50181": {
     "config_client": {
-      "entrance_bg": "activitybanner/temp10",
       "PTID": 577,
+      "entrance_bg": "activitybanner/temp10",
       "task_id": 24600
     },
     "config_data": [
@@ -38893,9 +38893,9 @@
   },
   "50256": {
     "config_client": {
+      "PTID": 588,
       "entrance_bg": "activitybanner/temp10",
       "first_story": "DATEALANEGUANQIA1",
-      "PTID": 588,
       "shopID": 50246,
       "shopItemID": 71237,
       "storys_unlock_story": [
@@ -39380,8 +39380,8 @@
   },
   "50281": {
     "config_client": {
-      "entrance_bg": "activitybanner/temp10",
       "PTID": 596,
+      "entrance_bg": "activitybanner/temp10",
       "shopItemID": 71243,
       "task_id": 24824
     },
@@ -40619,8 +40619,8 @@
   },
   "50326": {
     "config_client": {
-      "entrance_bg": "activitybanner/temp10",
-      "PTID": 607
+      "PTID": 607,
+      "entrance_bg": "activitybanner/temp10"
     },
     "config_data": [
       1780001,
@@ -44061,8 +44061,8 @@
   },
   "50426": {
     "config_client": {
-      "entrance_bg": "activitybanner/temp10",
       "PTID": 632,
+      "entrance_bg": "activitybanner/temp10",
       "shopItemID": 71307
     },
     "config_data": [
@@ -44265,14 +44265,6 @@
   },
   "50434": {
     "config_client": {
-      "beforestory": [
-        [
-          "HUANGYEJIARIKAITUOJI5"
-        ],
-        [
-          "HUANGYEJIARIKAITUOJI18"
-        ]
-      ],
       "BookData": [
         {
           "data1": [
@@ -44309,6 +44301,14 @@
           ],
           "task": 25273
         }
+      ],
+      "beforestory": [
+        [
+          "HUANGYEJIARIKAITUOJI5"
+        ],
+        [
+          "HUANGYEJIARIKAITUOJI18"
+        ]
       ],
       "endingtime": [
         [
@@ -44825,8 +44825,8 @@
   },
   "50461": {
     "config_client": {
-      "entrance_bg": "activitybanner/temp10",
-      "PTID": 638
+      "PTID": 638,
+      "entrance_bg": "activitybanner/temp10"
     },
     "config_data": [
       1790001,
@@ -45801,9 +45801,9 @@
   },
   "50481": {
     "config_client": {
+      "PTID": 643,
       "entrance_bg": "activitybanner/temp10",
       "order": 1,
-      "PTID": 643,
       "shopItemID": 71317,
       "storys": [
         167,
@@ -46561,10 +46561,10 @@
   },
   "50804": {
     "config_client": {
+      "PTID": 661,
       "entrance_bg": "activitybanner/temp10",
       "fightLinkActID": 50804,
       "order": 2,
-      "PTID": 661,
       "story": "JIARIHANGXIAN1"
     },
     "config_data": [
@@ -47445,8 +47445,8 @@
   },
   "50825": {
     "config_client": {
-      "entrance_bg": "activitybanner/temp10",
       "PTID": 691,
+      "entrance_bg": "activitybanner/temp10",
       "shopItemID": 71128,
       "task_id": 25557
     },
@@ -49361,7 +49361,6 @@
     "title_res_tag": "",
     "type": 800
   },
-  "__name": "activity_template",
   "all": [
     3,
     4,

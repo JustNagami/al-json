@@ -1,25 +1,8 @@
 {
-  "__name": "equip_data_code",
   "AIR": {
     "code": "AIR",
     "text": "空战"
   },
-  "all": [
-    "WAVE",
-    "GUID",
-    "ASW",
-    "SCA",
-    "NA",
-    "FP",
-    "AIR",
-    "VOL",
-    "BOMB",
-    "SRG",
-    "LRG",
-    "NORM",
-    "LOCK",
-    "TRP"
-  ],
   "ASW": {
     "code": "ASW",
     "text": "反潜"
@@ -71,5 +54,21 @@
   "WAVE": {
     "code": "WAVE",
     "text": "/轮"
-  }
+  },
+  "all": [
+    "WAVE",
+    "GUID",
+    "ASW",
+    "SCA",
+    "NA",
+    "FP",
+    "AIR",
+    "VOL",
+    "BOMB",
+    "SRG",
+    "LRG",
+    "NORM",
+    "LOCK",
+    "TRP"
+  ]
 }

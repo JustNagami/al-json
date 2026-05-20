@@ -1,25 +1,8 @@
 {
-  "__name": "equip_data_code",
   "AIR": {
     "code": "AIR",
     "text": "Air"
   },
-  "all": [
-    "WAVE",
-    "GUID",
-    "ASW",
-    "SCA",
-    "NA",
-    "FP",
-    "AIR",
-    "VOL",
-    "BOMB",
-    "SRG",
-    "LRG",
-    "NORM",
-    "LOCK",
-    "TRP"
-  ],
   "ASW": {
     "code": "ASW",
     "text": "Anti\nsubmarine"
@@ -71,5 +54,21 @@
   "WAVE": {
     "code": "WAVE",
     "text": "/wave"
-  }
+  },
+  "all": [
+    "WAVE",
+    "GUID",
+    "ASW",
+    "SCA",
+    "NA",
+    "FP",
+    "AIR",
+    "VOL",
+    "BOMB",
+    "SRG",
+    "LRG",
+    "NORM",
+    "LOCK",
+    "TRP"
+  ]
 }

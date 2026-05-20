@@ -1,27 +1,4 @@
 {
-  "__name": "effect_offset",
-  "aidingbao_zhenwang": {
-    "container_index": -1,
-    "mirror": false,
-    "offset": [
-      0,
-      0,
-      -1
-    ],
-    "top_cover_offset": false,
-    "y_scale": false
-  },
-  "aierjiliya_buff": {
-    "container_index": 1,
-    "mirror": false,
-    "offset": [
-      1.5,
-      0,
-      4
-    ],
-    "top_cover_offset": false,
-    "y_scale": false
-  },
   "AL_Laser01": {
     "container_index": -1,
     "mirror": false,
@@ -44,8 +21,30 @@
     "top_cover_offset": true,
     "y_scale": false
   },
-  "ankeleiqi_xueding": {
-    "container_index": -1,
+  "ATK": {
+    "container_index": 2,
+    "mirror": false,
+    "offset": [
+      0,
+      5,
+      0
+    ],
+    "top_cover_offset": false,
+    "y_scale": false
+  },
+  "Bossbomb": {
+    "container_index": 1,
+    "mirror": false,
+    "offset": [
+      0,
+      -1.25,
+      0
+    ],
+    "top_cover_offset": false,
+    "y_scale": false
+  },
+  "Bossbomb_red": {
+    "container_index": 4,
     "mirror": false,
     "offset": [
       0,
@@ -55,8 +54,217 @@
     "top_cover_offset": false,
     "y_scale": false
   },
-  "appearbig": {
+  "DEF": {
+    "container_index": 2,
+    "mirror": false,
+    "offset": [
+      0,
+      5,
+      0
+    ],
+    "top_cover_offset": false,
+    "y_scale": false
+  },
+  "Darkness": {
+    "container_index": 2,
+    "mirror": false,
+    "offset": [
+      0,
+      3,
+      0
+    ],
+    "top_cover_offset": false,
+    "y_scale": false
+  },
+  "EVDdowm": {
+    "container_index": 2,
+    "mirror": false,
+    "offset": [
+      -0.75,
+      2.31,
+      -1.82
+    ],
+    "top_cover_offset": false,
+    "y_scale": false
+  },
+  "Health": {
+    "container_index": 2,
+    "mirror": false,
+    "offset": [
+      0,
+      0,
+      0
+    ],
+    "top_cover_offset": false,
+    "y_scale": false
+  },
+  "Heart": {
+    "container_index": 2,
+    "mirror": false,
+    "offset": [
+      0,
+      5,
+      0
+    ],
+    "top_cover_offset": false,
+    "y_scale": false
+  },
+  "Hedandaji_warning": {
     "container_index": 1,
+    "mirror": false,
+    "offset": [
+      0,
+      0,
+      0
+    ],
+    "top_cover_offset": false,
+    "y_scale": true
+  },
+  "Pojia01": {
+    "container_index": -1,
+    "mirror": false,
+    "offset": [
+      0,
+      1,
+      0
+    ],
+    "top_cover_offset": false,
+    "y_scale": false
+  },
+  "Pojia02": {
+    "container_index": 2,
+    "mirror": false,
+    "offset": [
+      0,
+      1,
+      0
+    ],
+    "top_cover_offset": false,
+    "y_scale": false
+  },
+  "RedEyes": {
+    "container_index": 2,
+    "mirror": false,
+    "offset": [
+      0,
+      0,
+      0
+    ],
+    "top_cover_offset": true,
+    "y_scale": false
+  },
+  "SPD": {
+    "container_index": 2,
+    "mirror": false,
+    "offset": [
+      0,
+      3,
+      0
+    ],
+    "top_cover_offset": false,
+    "y_scale": false
+  },
+  "SPDdowm": {
+    "container_index": 2,
+    "mirror": false,
+    "offset": [
+      0,
+      3,
+      0
+    ],
+    "top_cover_offset": false,
+    "y_scale": false
+  },
+  "Shield": {
+    "container_index": 1,
+    "mirror": false,
+    "offset": [
+      0,
+      -1.25,
+      0
+    ],
+    "top_cover_offset": false,
+    "y_scale": false
+  },
+  "Shield_1": {
+    "container_index": 1,
+    "mirror": false,
+    "offset": [
+      0,
+      -1.25,
+      0
+    ],
+    "top_cover_offset": false,
+    "y_scale": false
+  },
+  "Shield_enemy": {
+    "container_index": 1,
+    "mirror": false,
+    "offset": [
+      0.08,
+      1.24,
+      0
+    ],
+    "top_cover_offset": false,
+    "y_scale": false
+  },
+  "Shield_mojiaduoer": {
+    "container_index": 1,
+    "mirror": false,
+    "offset": [
+      0,
+      -1.25,
+      0
+    ],
+    "top_cover_offset": false,
+    "y_scale": false
+  },
+  "Star": {
+    "container_index": 2,
+    "mirror": false,
+    "offset": [
+      0,
+      5,
+      0
+    ],
+    "top_cover_offset": false,
+    "y_scale": false
+  },
+  "Tainted": {
+    "container_index": 2,
+    "mirror": false,
+    "offset": [
+      0,
+      0,
+      0
+    ],
+    "top_cover_offset": false,
+    "y_scale": false
+  },
+  "aidingbao_zhenwang": {
+    "container_index": -1,
+    "mirror": false,
+    "offset": [
+      0,
+      0,
+      -1
+    ],
+    "top_cover_offset": false,
+    "y_scale": false
+  },
+  "aierjiliya_buff": {
+    "container_index": 1,
+    "mirror": false,
+    "offset": [
+      1.5,
+      0,
+      4
+    ],
+    "top_cover_offset": false,
+    "y_scale": false
+  },
+  "ankeleiqi_xueding": {
+    "container_index": -1,
     "mirror": false,
     "offset": [
       0,
@@ -77,7 +285,7 @@
     "top_cover_offset": false,
     "y_scale": false
   },
-  "appearsmall": {
+  "appearbig": {
     "container_index": 1,
     "mirror": false,
     "offset": [
@@ -88,12 +296,12 @@
     "top_cover_offset": false,
     "y_scale": false
   },
-  "ATK": {
-    "container_index": 2,
+  "appearsmall": {
+    "container_index": 1,
     "mirror": false,
     "offset": [
       0,
-      5,
+      0,
       0
     ],
     "top_cover_offset": false,
@@ -149,28 +357,6 @@
     "offset": [
       0,
       1,
-      0
-    ],
-    "top_cover_offset": false,
-    "y_scale": false
-  },
-  "Bossbomb": {
-    "container_index": 1,
-    "mirror": false,
-    "offset": [
-      0,
-      -1.25,
-      0
-    ],
-    "top_cover_offset": false,
-    "y_scale": false
-  },
-  "Bossbomb_red": {
-    "container_index": 4,
-    "mirror": false,
-    "offset": [
-      0,
-      0,
       0
     ],
     "top_cover_offset": false,
@@ -385,28 +571,6 @@
     "top_cover_offset": false,
     "y_scale": false
   },
-  "Darkness": {
-    "container_index": 2,
-    "mirror": false,
-    "offset": [
-      0,
-      3,
-      0
-    ],
-    "top_cover_offset": false,
-    "y_scale": false
-  },
-  "DEF": {
-    "container_index": 2,
-    "mirror": false,
-    "offset": [
-      0,
-      5,
-      0
-    ],
-    "top_cover_offset": false,
-    "y_scale": false
-  },
   "dianliu_BB": {
     "container_index": 4,
     "mirror": false,
@@ -605,13 +769,13 @@
     "top_cover_offset": false,
     "y_scale": false
   },
-  "EVDdowm": {
-    "container_index": 2,
+  "fangkongRing02": {
+    "container_index": 4,
     "mirror": false,
     "offset": [
-      -0.75,
-      2.31,
-      -1.82
+      0,
+      -0.85,
+      0.8
     ],
     "top_cover_offset": false,
     "y_scale": false
@@ -623,17 +787,6 @@
       0,
       0,
       0
-    ],
-    "top_cover_offset": false,
-    "y_scale": false
-  },
-  "fangkongRing02": {
-    "container_index": 4,
-    "mirror": false,
-    "offset": [
-      0,
-      -0.85,
-      0.8
     ],
     "top_cover_offset": false,
     "y_scale": false
@@ -824,39 +977,6 @@
     ],
     "top_cover_offset": false,
     "y_scale": false
-  },
-  "Health": {
-    "container_index": 2,
-    "mirror": false,
-    "offset": [
-      0,
-      0,
-      0
-    ],
-    "top_cover_offset": false,
-    "y_scale": false
-  },
-  "Heart": {
-    "container_index": 2,
-    "mirror": false,
-    "offset": [
-      0,
-      5,
-      0
-    ],
-    "top_cover_offset": false,
-    "y_scale": false
-  },
-  "Hedandaji_warning": {
-    "container_index": 1,
-    "mirror": false,
-    "offset": [
-      0,
-      0,
-      0
-    ],
-    "top_cover_offset": false,
-    "y_scale": true
   },
   "heihailunna_shadow": {
     "container_index": 1,
@@ -1232,6 +1352,17 @@
     "top_cover_offset": false,
     "y_scale": false
   },
+  "juguangdeng_STG": {
+    "container_index": 2,
+    "mirror": false,
+    "offset": [
+      -5,
+      8,
+      0
+    ],
+    "top_cover_offset": false,
+    "y_scale": false
+  },
   "juguangdeng_huaduo_BOSS": {
     "container_index": 2,
     "mirror": false,
@@ -1244,17 +1375,6 @@
     "y_scale": false
   },
   "juguangdeng_huaduo_STG": {
-    "container_index": 2,
-    "mirror": false,
-    "offset": [
-      -5,
-      8,
-      0
-    ],
-    "top_cover_offset": false,
-    "y_scale": false
-  },
-  "juguangdeng_STG": {
     "container_index": 2,
     "mirror": false,
     "offset": [
@@ -1694,28 +1814,6 @@
     "top_cover_offset": false,
     "y_scale": false
   },
-  "Pojia01": {
-    "container_index": -1,
-    "mirror": false,
-    "offset": [
-      0,
-      1,
-      0
-    ],
-    "top_cover_offset": false,
-    "y_scale": false
-  },
-  "Pojia02": {
-    "container_index": 2,
-    "mirror": false,
-    "offset": [
-      0,
-      1,
-      0
-    ],
-    "top_cover_offset": false,
-    "y_scale": false
-  },
   "qianghuamo_aerjiliya": {
     "container_index": 1,
     "mirror": false,
@@ -1782,17 +1880,6 @@
     "top_cover_offset": false,
     "y_scale": false
   },
-  "RedEyes": {
-    "container_index": 2,
-    "mirror": false,
-    "offset": [
-      0,
-      0,
-      0
-    ],
-    "top_cover_offset": true,
-    "y_scale": false
-  },
   "robot_bulisituoer_m": {
     "container_index": 2,
     "mirror": false,
@@ -1843,17 +1930,6 @@
     "offset": [
       0,
       -2.8,
-      0
-    ],
-    "top_cover_offset": false,
-    "y_scale": false
-  },
-  "Shield": {
-    "container_index": 1,
-    "mirror": false,
-    "offset": [
-      0,
-      -1.25,
       0
     ],
     "top_cover_offset": false,
@@ -1914,89 +1990,12 @@
     "top_cover_offset": false,
     "y_scale": false
   },
-  "Shield_1": {
-    "container_index": 1,
-    "mirror": false,
-    "offset": [
-      0,
-      -1.25,
-      0
-    ],
-    "top_cover_offset": false,
-    "y_scale": false
-  },
-  "Shield_enemy": {
-    "container_index": 1,
-    "mirror": false,
-    "offset": [
-      0.08,
-      1.24,
-      0
-    ],
-    "top_cover_offset": false,
-    "y_scale": false
-  },
-  "Shield_mojiaduoer": {
-    "container_index": 1,
-    "mirror": false,
-    "offset": [
-      0,
-      -1.25,
-      0
-    ],
-    "top_cover_offset": false,
-    "y_scale": false
-  },
   "shock": {
     "container_index": 1,
     "mirror": false,
     "offset": [
       -1.5,
       2,
-      0
-    ],
-    "top_cover_offset": false,
-    "y_scale": false
-  },
-  "SPD": {
-    "container_index": 2,
-    "mirror": false,
-    "offset": [
-      0,
-      3,
-      0
-    ],
-    "top_cover_offset": false,
-    "y_scale": false
-  },
-  "SPDdowm": {
-    "container_index": 2,
-    "mirror": false,
-    "offset": [
-      0,
-      3,
-      0
-    ],
-    "top_cover_offset": false,
-    "y_scale": false
-  },
-  "Star": {
-    "container_index": 2,
-    "mirror": false,
-    "offset": [
-      0,
-      5,
-      0
-    ],
-    "top_cover_offset": false,
-    "y_scale": false
-  },
-  "Tainted": {
-    "container_index": 2,
-    "mirror": false,
-    "offset": [
-      0,
-      0,
       0
     ],
     "top_cover_offset": false,
