@@ -3053,6 +3053,59 @@
     "type": 2,
     "view_name": "CutFruitGameView"
   },
+  "84": {
+    "config_csv": "",
+    "config_csv_key": "",
+    "config_data": [],
+    "game_room": 0,
+    "hub_id": 71,
+    "id": 84,
+    "is_ranking": 1,
+    "mediator_name": "MiniHubMediator",
+    "name": "整理小游戏",
+    "request_data": 1,
+    "simple_config_data": {
+      "drop_ids": [
+        [
+          2,
+          54006,
+          1
+        ],
+        [
+          2,
+          50004,
+          5
+        ],
+        [
+          1,
+          2,
+          300
+        ],
+        [
+          2,
+          54034,
+          2
+        ],
+        [
+          2,
+          20013,
+          1
+        ],
+        [
+          2,
+          54051,
+          1
+        ],
+        [
+          5,
+          337,
+          1
+        ]
+      ]
+    },
+    "type": 2,
+    "view_name": "SortGameView"
+  },
   "86": {
     "config_csv": "",
     "config_csv_key": "",
@@ -3825,6 +3878,7 @@
     83,
     86,
     87,
+    84,
     1001,
     1002,
     1003,

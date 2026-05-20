@@ -7868,6 +7868,779 @@
       "限定任務DAY7をクリア"
     ]
   },
+  "421": {
+    "change_background": "star_level_bg_518",
+    "change_bgm": "battle-shenguang-freely",
+    "change_prefab": "",
+    "id": 421,
+    "label_key": "",
+    "lock": "",
+    "name": "EP1-1 審判号",
+    "pre_event": "",
+    "story": "SHENGYINQIANDETONGMENG1",
+    "story_type": 1,
+    "unlock_conditions": ""
+  },
+  "422": {
+    "change_background": "bg_aircraft_future",
+    "change_bgm": "theme-hrr",
+    "change_prefab": "",
+    "id": 422,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        421
+      ]
+    ],
+    "name": "EP1-2 自由傭兵",
+    "pre_event": [
+      421
+    ],
+    "story": "2036001",
+    "story_type": 2,
+    "unlock_conditions": "EP1-1をクリア"
+  },
+  "423": {
+    "change_background": "star_level_bg_518",
+    "change_bgm": "story-hrr",
+    "change_prefab": "",
+    "id": 423,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        422
+      ]
+    ],
+    "name": "EP1-3 傭兵の情報",
+    "pre_event": [
+      422
+    ],
+    "story": "SHENGYINQIANDETONGMENG3",
+    "story_type": 1,
+    "unlock_conditions": "EP1-2をクリア"
+  },
+  "424": {
+    "change_background": "star_level_bg_305",
+    "change_bgm": "theme-hrr",
+    "change_prefab": "",
+    "id": 424,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        423
+      ]
+    ],
+    "name": "EP2-1 公式接触",
+    "pre_event": [
+      423
+    ],
+    "story": "SHENGYINQIANDETONGMENG4",
+    "story_type": 1,
+    "unlock_conditions": "EP1-3をクリア"
+  },
+  "425": {
+    "change_background": "star_level_bg_501",
+    "change_bgm": "story-ironblood-light",
+    "change_prefab": "",
+    "id": 425,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        424
+      ]
+    ],
+    "name": "EP2-2 選挙公の情報",
+    "pre_event": [
+      424
+    ],
+    "story": "SHENGYINQIANDETONGMENG5",
+    "story_type": 1,
+    "unlock_conditions": "EP2-1をクリア"
+  },
+  "426": {
+    "change_background": "bg_hrr_1",
+    "change_bgm": "theme-hrr",
+    "change_prefab": "",
+    "id": 426,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        425
+      ]
+    ],
+    "name": "EP2-3 騎士とパーティー",
+    "pre_event": [
+      425
+    ],
+    "story": "SHENGYINQIANDETONGMENG6",
+    "story_type": 1,
+    "unlock_conditions": "EP2-2をクリア"
+  },
+  "427": {
+    "change_background": "star_level_bg_311",
+    "change_bgm": "story-hrr",
+    "change_prefab": "",
+    "id": 427,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        426
+      ]
+    ],
+    "name": "EP3-1 神の水路",
+    "pre_event": [
+      426
+    ],
+    "story": "SHENGYINQIANDETONGMENG7",
+    "story_type": 1,
+    "unlock_conditions": "EP2-3をクリア"
+  },
+  "428": {
+    "change_background": "star_level_bg_549",
+    "change_bgm": "battle-hrr",
+    "change_prefab": "",
+    "id": 428,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        427
+      ]
+    ],
+    "name": "EP3-2 急報",
+    "pre_event": [
+      427
+    ],
+    "story": "SHENGYINQIANDETONGMENG8",
+    "story_type": 1,
+    "unlock_conditions": "EP3-1をクリア"
+  },
+  "429": {
+    "change_background": "star_level_bg_558",
+    "change_bgm": "story-hrr",
+    "change_prefab": "",
+    "id": 429,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        428
+      ]
+    ],
+    "name": "EP3-3 ランス市の防衛戦",
+    "pre_event": [
+      428
+    ],
+    "story": "2036002",
+    "story_type": 2,
+    "unlock_conditions": "EP3-2をクリア"
+  },
+  "430": {
+    "change_background": "star_level_bg_305",
+    "change_bgm": "battle-hrr",
+    "change_prefab": "",
+    "id": 430,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        429
+      ]
+    ],
+    "name": "EP3-4 救済の火種",
+    "pre_event": [
+      429
+    ],
+    "story": "SHENGYINQIANDETONGMENG10",
+    "story_type": 1,
+    "unlock_conditions": "EP3-3をクリア"
+  },
+  "431": {
+    "change_background": "star_level_bg_535",
+    "change_bgm": "story-shenguang-holy",
+    "change_prefab": "",
+    "id": 431,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        430
+      ]
+    ],
+    "name": "EP4-1 枢機卿の判断",
+    "pre_event": [
+      430
+    ],
+    "story": "SHENGYINQIANDETONGMENG11",
+    "story_type": 1,
+    "unlock_conditions": "EP3-4をクリア"
+  },
+  "432": {
+    "change_background": "star_level_bg_307",
+    "change_bgm": "battle-shenguang-freely",
+    "change_prefab": "",
+    "id": 432,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        431
+      ]
+    ],
+    "name": "EP4-2 選挙侯認証儀式",
+    "pre_event": [
+      431
+    ],
+    "story": "SHENGYINQIANDETONGMENG12",
+    "story_type": 1,
+    "unlock_conditions": "EP4-1をクリア"
+  },
+  "433": {
+    "change_background": "star_level_bg_499",
+    "change_bgm": "story-thehierophantV",
+    "change_prefab": "",
+    "id": 433,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        432
+      ]
+    ],
+    "name": "EP4-3 手分け",
+    "pre_event": [
+      432
+    ],
+    "story": "SHENGYINQIANDETONGMENG13",
+    "story_type": 1,
+    "unlock_conditions": "EP4-2をクリア"
+  },
+  "434": {
+    "change_background": "star_level_bg_305",
+    "change_bgm": "theme-hrr",
+    "change_prefab": "",
+    "id": 434,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        433
+      ]
+    ],
+    "name": "EP4-4 法聖降臨儀式",
+    "pre_event": [
+      433
+    ],
+    "story": "SHENGYINQIANDETONGMENG14",
+    "story_type": 1,
+    "unlock_conditions": "EP4-3をクリア"
+  },
+  "435": {
+    "change_background": "star_level_bg_534",
+    "change_bgm": "theme-marcopolo",
+    "change_prefab": "",
+    "id": 435,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        434
+      ]
+    ],
+    "name": "EP4-5 深潜準備",
+    "pre_event": [
+      434
+    ],
+    "story": "SHENGYINQIANDETONGMENG15",
+    "story_type": 1,
+    "unlock_conditions": "EP4-4をクリア"
+  },
+  "436": {
+    "change_background": "star_level_bg_548",
+    "change_bgm": "story-mirrorheart-mystic",
+    "change_prefab": "",
+    "id": 436,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        435
+      ]
+    ],
+    "name": "EP4-6 計画あり",
+    "pre_event": [
+      435
+    ],
+    "story": "SHENGYINQIANDETONGMENG16",
+    "story_type": 1,
+    "unlock_conditions": "EP4-5をクリア"
+  },
+  "437": {
+    "change_background": "bg_hrr_1",
+    "change_bgm": "battle-hrr",
+    "change_prefab": "",
+    "id": 437,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        436
+      ]
+    ],
+    "name": "EP5-1 黒き領域",
+    "pre_event": [
+      436
+    ],
+    "story": "SHENGYINQIANDETONGMENG17",
+    "story_type": 1,
+    "unlock_conditions": "EP4-6をクリア"
+  },
+  "438": {
+    "change_background": "bg_hrr_cg4",
+    "change_bgm": "story-mirrorheart-mystic",
+    "change_prefab": "",
+    "id": 438,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        437
+      ]
+    ],
+    "name": "EP5-2 緊急起動",
+    "pre_event": [
+      437
+    ],
+    "story": "SHENGYINQIANDETONGMENG18",
+    "story_type": 1,
+    "unlock_conditions": "EP5-1をクリア"
+  },
+  "439": {
+    "change_background": "bg_hrr_2",
+    "change_bgm": "battle-theemperorIV-question",
+    "change_prefab": "",
+    "id": 439,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        438
+      ]
+    ],
+    "name": "EP5-3 世界接続儀式",
+    "pre_event": [
+      438
+    ],
+    "story": "SHENGYINQIANDETONGMENG19",
+    "story_type": 1,
+    "unlock_conditions": "EP5-2をクリア"
+  },
+  "440": {
+    "change_background": "bg_underheaven_cg3",
+    "change_bgm": "story-theme-sardinia",
+    "change_prefab": "",
+    "id": 440,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        439
+      ]
+    ],
+    "name": "EP5-4 干渉",
+    "pre_event": [
+      439
+    ],
+    "story": "SHENGYINQIANDETONGMENG20",
+    "story_type": 1,
+    "unlock_conditions": "EP5-3をクリア"
+  },
+  "441": {
+    "change_background": "star_level_bg_177",
+    "change_bgm": "theme-frederick",
+    "change_prefab": "",
+    "id": 441,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        440
+      ]
+    ],
+    "name": "EP6-1 再び空へ",
+    "pre_event": [
+      440
+    ],
+    "story": "SHENGYINQIANDETONGMENG21",
+    "story_type": 1,
+    "unlock_conditions": "EP5-4をクリア"
+  },
+  "442": {
+    "change_background": "star_level_bg_177",
+    "change_bgm": "battle-hrr",
+    "change_prefab": "",
+    "id": 442,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        441
+      ]
+    ],
+    "name": "EP6-2 皇帝召喚儀式",
+    "pre_event": [
+      441
+    ],
+    "story": "SHENGYINQIANDETONGMENG22",
+    "story_type": 1,
+    "unlock_conditions": "EP6-1をクリア"
+  },
+  "443": {
+    "change_background": "star_level_bg_504",
+    "change_bgm": "story-hrr-pv",
+    "change_prefab": "",
+    "id": 443,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        442
+      ]
+    ],
+    "name": "EP6-3 合奏",
+    "pre_event": [
+      442
+    ],
+    "story": "SHENGYINQIANDETONGMENG23",
+    "story_type": 1,
+    "unlock_conditions": "EP6-2をクリア"
+  },
+  "444": {
+    "change_background": "star_level_bg_550",
+    "change_bgm": "theme-hrr",
+    "change_prefab": "",
+    "id": 444,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        443
+      ]
+    ],
+    "name": "EP6-4 全域反撃",
+    "pre_event": [
+      443
+    ],
+    "story": "SHENGYINQIANDETONGMENG24",
+    "story_type": 1,
+    "unlock_conditions": "EP6-3をクリア"
+  },
+  "445": {
+    "change_background": "bg_firedust_5",
+    "change_bgm": "theme-vichy-church",
+    "change_prefab": "",
+    "id": 445,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        444
+      ]
+    ],
+    "name": "EP6-5 近道",
+    "pre_event": [
+      444
+    ],
+    "story": "2036003",
+    "story_type": 2,
+    "unlock_conditions": "EP6-4をクリア"
+  },
+  "446": {
+    "change_background": "bg_firedust_5",
+    "change_bgm": "theme-vichy-church",
+    "change_prefab": "",
+    "id": 446,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        445
+      ]
+    ],
+    "name": "EP7-1 強制接続",
+    "pre_event": [
+      445
+    ],
+    "story": "SHENGYINQIANDETONGMENG26",
+    "story_type": 1,
+    "unlock_conditions": "EP6-5をクリア"
+  },
+  "447": {
+    "change_background": "bg_hrr_cg6",
+    "change_bgm": "theme-vichy-slaughter",
+    "change_prefab": "",
+    "id": 447,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        446
+      ]
+    ],
+    "name": "EP7-2 もう一つの可能性",
+    "pre_event": [
+      446
+    ],
+    "story": "SHENGYINQIANDETONGMENG27",
+    "story_type": 1,
+    "unlock_conditions": "EP7-1をクリア"
+  },
+  "448": {
+    "change_background": "star_level_bg_504",
+    "change_bgm": "theme-marcopolo",
+    "change_prefab": "",
+    "id": 448,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        447
+      ]
+    ],
+    "name": "EP7-3 黒き領域の審判",
+    "pre_event": [
+      447
+    ],
+    "story": "2036004",
+    "story_type": 2,
+    "unlock_conditions": "EP7-2をクリア"
+  },
+  "449": {
+    "change_background": "star_level_bg_504",
+    "change_bgm": "story-hrr-pv",
+    "change_prefab": "",
+    "id": 449,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        448
+      ]
+    ],
+    "name": "EP7-4 空翔る光",
+    "pre_event": [
+      448
+    ],
+    "story": "SHENGYINQIANDETONGMENG29",
+    "story_type": 1,
+    "unlock_conditions": "EP7-3をクリア"
+  },
+  "450": {
+    "change_background": "bg_hrr_3",
+    "change_bgm": "story-hrr",
+    "change_prefab": "",
+    "id": 450,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        449
+      ]
+    ],
+    "name": "EP7-5 明日のために",
+    "pre_event": [
+      449
+    ],
+    "story": "SHENGYINQIANDETONGMENG30",
+    "story_type": 1,
+    "unlock_conditions": "EP7-4をクリア"
+  },
+  "451": {
+    "change_background": "bg_hrr_cg9",
+    "change_bgm": "story-hrr-pv",
+    "change_prefab": "",
+    "id": 451,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        450
+      ]
+    ],
+    "name": "EP7-6 皇帝独奏曲",
+    "pre_event": [
+      450
+    ],
+    "story": "SHENGYINQIANDETONGMENG31",
+    "story_type": 1,
+    "unlock_conditions": "EP7-5をクリア"
+  },
+  "452": {
+    "change_background": "bg_hrr_2",
+    "change_bgm": "battle-theemperorIV-question",
+    "change_prefab": "",
+    "id": 452,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        451
+      ]
+    ],
+    "name": "EP7-7 神の名において",
+    "pre_event": [
+      451
+    ],
+    "story": "2036005",
+    "story_type": 2,
+    "unlock_conditions": "EP7-6をクリア"
+  },
+  "453": {
+    "change_background": "bg_hrr_5",
+    "change_bgm": "theme-thehierophantV",
+    "change_prefab": "",
+    "id": 453,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        452
+      ]
+    ],
+    "name": "EP8-1 最後の謎",
+    "pre_event": [
+      452
+    ],
+    "story": "2036006",
+    "story_type": 2,
+    "unlock_conditions": "EP7-7をクリア"
+  },
+  "454": {
+    "change_background": "star_level_bg_597",
+    "change_bgm": "theme-hrr",
+    "change_prefab": "",
+    "id": 454,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        453
+      ]
+    ],
+    "name": "EP8-2 登りて臨む者",
+    "pre_event": [
+      453
+    ],
+    "story": "SHENGYINQIANDETONGMENG34",
+    "story_type": 1,
+    "unlock_conditions": "EP8-1をクリア"
+  },
+  "455": {
+    "change_background": "star_level_bg_450",
+    "change_bgm": "story-richang-light",
+    "change_prefab": "",
+    "id": 455,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        454
+      ]
+    ],
+    "name": "EP8-3 遠出の前",
+    "pre_event": [
+      454
+    ],
+    "story": "SHENGYINQIANDETONGMENG35",
+    "story_type": 1,
+    "unlock_conditions": "EP8-2をクリア"
+  },
+  "456": {
+    "change_background": "star_level_bg_493",
+    "change_bgm": "story-richang-light",
+    "change_prefab": "",
+    "id": 456,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        455
+      ]
+    ],
+    "name": "EX-1 継続された契約",
+    "pre_event": [
+      455
+    ],
+    "story": "SHENGYINQIANDETONGMENG36",
+    "story_type": 1,
+    "unlock_conditions": "EP8-3をクリア"
+  },
+  "457": {
+    "change_background": "bg_port_chongdong",
+    "change_bgm": "theme-starsea-core",
+    "change_prefab": "",
+    "id": 457,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        456
+      ]
+    ],
+    "name": "EX-2 新しい始発点",
+    "pre_event": [
+      456
+    ],
+    "story": "SHENGYINQIANDETONGMENG37",
+    "story_type": 1,
+    "unlock_conditions": "EX-1をクリア"
+  },
+  "458": {
+    "change_background": "star_level_bg_154",
+    "change_bgm": "story-wanderingcity-future",
+    "change_prefab": "",
+    "id": 458,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        457
+      ]
+    ],
+    "name": "EX-3 後方基地",
+    "pre_event": [
+      457
+    ],
+    "story": "SHENGYINQIANDETONGMENG38",
+    "story_type": 1,
+    "unlock_conditions": "EX-2をクリア"
+  },
+  "459": {
+    "change_background": "Map_2030002",
+    "change_bgm": "Theme-hrr",
+    "change_prefab": "map_2030003B",
+    "id": 459,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        458
+      ]
+    ],
+    "name": "EX-4 光を追い求める蛾",
+    "pre_event": [
+      458
+    ],
+    "story": "SHENGYINQIANDETONGMENG39",
+    "story_type": 1,
+    "unlock_conditions": "EX-3をクリア"
+  },
   "all": [
     1,
     2,
@@ -8247,6 +9020,45 @@
     414,
     415,
     416,
-    417
+    417,
+    421,
+    422,
+    423,
+    424,
+    425,
+    426,
+    427,
+    428,
+    429,
+    430,
+    431,
+    432,
+    433,
+    434,
+    435,
+    436,
+    437,
+    438,
+    439,
+    440,
+    441,
+    442,
+    443,
+    444,
+    445,
+    446,
+    447,
+    448,
+    449,
+    450,
+    451,
+    452,
+    453,
+    454,
+    455,
+    456,
+    457,
+    458,
+    459
   ]
 }

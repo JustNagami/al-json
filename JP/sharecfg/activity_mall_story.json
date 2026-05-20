@@ -1,0 +1,550 @@
+{
+  "101": {
+    "desc": "水に映る心",
+    "icon": "huangjinhaian",
+    "id": 101,
+    "lua": "",
+    "name": "黄金の浜",
+    "posion": [
+      653,
+      -269,
+      0
+    ],
+    "type": 1
+  },
+  "102": {
+    "desc": "水辺のカンツォーナ",
+    "icon": "gangkou",
+    "id": 102,
+    "lua": "",
+    "name": "埠頭",
+    "posion": [
+      1019,
+      168,
+      0
+    ],
+    "type": 1
+  },
+  "103": {
+    "desc": "紅月が幻夢を想い耽る",
+    "icon": "rengongqundao",
+    "id": 103,
+    "lua": "",
+    "name": "人工群島",
+    "posion": [
+      1005,
+      -78,
+      0
+    ],
+    "type": 1
+  },
+  "104": {
+    "desc": "青凪の人魚",
+    "icon": "qiongdingjiudian",
+    "id": 104,
+    "lua": "",
+    "name": "天穹ホテル",
+    "posion": [
+      -341,
+      -20,
+      0
+    ],
+    "type": 1
+  },
+  "105": {
+    "desc": "ランプ魔人の願いゲーム",
+    "icon": "fujindasha",
+    "id": 105,
+    "lua": "",
+    "name": "黄金ビル",
+    "posion": [
+      -40,
+      62,
+      0
+    ],
+    "type": 1
+  },
+  "106": {
+    "desc": "ウイッチ・スター・ランデヴー",
+    "icon": "tianfangyanhuiting",
+    "id": 106,
+    "lua": "",
+    "name": "宴会ホール",
+    "posion": [
+      155,
+      35,
+      0
+    ],
+    "type": 1
+  },
+  "107": {
+    "desc": "バルーン・ダンス",
+    "icon": "haifengjiudian",
+    "id": 107,
+    "lua": "",
+    "name": "潮風ホテル",
+    "posion": [
+      172,
+      -331,
+      0
+    ],
+    "type": 1
+  },
+  "108": {
+    "desc": "空想と現実を融合させた科学技術展示場。仮想と現実の境界を越える不思議な体験ができる。",
+    "icon": "kejiguan",
+    "id": 108,
+    "lua": "",
+    "name": "展示場",
+    "posion": [
+      -252,
+      -242,
+      0
+    ],
+    "type": 1
+  },
+  "109": {
+    "desc": "歓声と絶叫が響く夢のテーマパーク。純粋な楽しさに浸れる場所。",
+    "icon": "youleyuan",
+    "id": 109,
+    "lua": "",
+    "name": "遊園地",
+    "posion": [
+      -546,
+      -224,
+      0
+    ],
+    "type": 1
+  },
+  "110": {
+    "desc": "豊かな香りが漂うスパイス市場。世界中のスパイスが並ぶ活気あるマーケット。",
+    "icon": "xiangliaoshichang",
+    "id": 110,
+    "lua": "",
+    "name": "スパイス市場",
+    "posion": [
+      -700,
+      476,
+      0
+    ],
+    "type": 1
+  },
+  "111": {
+    "desc": "店がひしめく観光街。精巧な工芸品からローカルグルメまで何でも揃う。",
+    "icon": "fengqingjie",
+    "id": 111,
+    "lua": "",
+    "name": "観光街",
+    "posion": [
+      -478,
+      408,
+      0
+    ],
+    "type": 1
+  },
+  "112": {
+    "desc": "巨大なアクアリウム。多彩な海の生物を間近で観察できる。",
+    "icon": "shuizuguan",
+    "id": 112,
+    "lua": "",
+    "name": "水族館",
+    "posion": [
+      -680,
+      254,
+      0
+    ],
+    "type": 1
+  },
+  "113": {
+    "desc": "広大な砂漠エリア。砂漠ツアーや体験キャンプイベントに最適。",
+    "icon": "qiansha",
+    "id": 113,
+    "lua": "",
+    "name": "砂地",
+    "posion": [
+      140,
+      531,
+      0
+    ],
+    "type": 1
+  },
+  "114": {
+    "desc": "左右対称の花壇が中央の東屋を囲み、花の香りとともに鮮やかな景色が広がる。",
+    "icon": "qijihuayuan",
+    "id": 114,
+    "lua": "",
+    "name": "奇跡の園",
+    "posion": [
+      -164,
+      401,
+      0
+    ],
+    "type": 1
+  },
+  "115": {
+    "desc": "砂漠と都会の間にひっそりと佇む水の空間。一点の緑すらもゴールデン・ベイの富の象徴である。",
+    "icon": "rengonghu",
+    "id": 115,
+    "lua": "",
+    "name": "人造湖",
+    "posion": [
+      472,
+      517,
+      0
+    ],
+    "type": 1
+  },
+  "201": {
+    "desc": "指揮官閣下、お目覚めの時間ですよ",
+    "icon": "icon_1",
+    "id": 201,
+    "lua": "SHEHUAXIANGMENGFUJINWAN1",
+    "name": "指揮官閣下、お目覚めの時間ですよ",
+    "posion": [
+      327,
+      198,
+      0
+    ],
+    "type": 2
+  },
+  "202": {
+    "desc": "現れては消える宝石",
+    "icon": "icon_1",
+    "id": 202,
+    "lua": "SHEHUAXIANGMENGFUJINWAN19",
+    "name": "現れては消える宝石",
+    "posion": [
+      -341,
+      -20,
+      0
+    ],
+    "type": 2
+  },
+  "203": {
+    "desc": "カモメの行方",
+    "icon": "icon_1",
+    "id": 203,
+    "lua": "SHEHUAXIANGMENGFUJINWAN20",
+    "name": "カモメの行方",
+    "posion": [
+      1019,
+      168,
+      0
+    ],
+    "type": 2
+  },
+  "204": {
+    "desc": "屋上の「海賊」",
+    "icon": "icon_1",
+    "id": 204,
+    "lua": "SHEHUAXIANGMENGFUJINWAN21",
+    "name": "屋上の「海賊」",
+    "posion": [
+      172,
+      -331,
+      0
+    ],
+    "type": 2
+  },
+  "205": {
+    "desc": "ランプの願い",
+    "icon": "icon_1",
+    "id": 205,
+    "lua": "SHEHUAXIANGMENGFUJINWAN22",
+    "name": "ランプの願い",
+    "posion": [
+      -478,
+      408,
+      0
+    ],
+    "type": 2
+  },
+  "206": {
+    "desc": "魔法？ガーデンの宴",
+    "icon": "icon_1",
+    "id": 206,
+    "lua": "SHEHUAXIANGMENGFUJINWAN23",
+    "name": "魔法？ガーデンの宴",
+    "posion": [
+      140,
+      531,
+      0
+    ],
+    "type": 2
+  },
+  "207": {
+    "desc": "奇跡の光",
+    "icon": "icon_1",
+    "id": 207,
+    "lua": "SHEHUAXIANGMENGFUJINWAN24",
+    "name": "奇跡の光",
+    "posion": [
+      -164,
+      401,
+      0
+    ],
+    "type": 2
+  },
+  "208": {
+    "desc": "指揮官閣下、お目覚めの時間ですよ",
+    "icon": "icon_1",
+    "id": 208,
+    "lua": "SHEHUAXIANGMENGFUJINWAN2",
+    "name": "指揮官閣下、お目覚めの時間ですよ",
+    "posion": [
+      653,
+      -269,
+      0
+    ],
+    "type": 2
+  },
+  "301": {
+    "desc": "",
+    "icon": "gangkou",
+    "id": 301,
+    "lua": "SHEHUAXIANGMENGFUJINWAN13",
+    "name": "現れては消える宝石",
+    "posion": [
+      1019,
+      168,
+      0
+    ],
+    "type": 3
+  },
+  "302": {
+    "desc": "",
+    "icon": "rengongqundao",
+    "id": 302,
+    "lua": "SHEHUAXIANGMENGFUJINWAN14",
+    "name": "カモメの行方",
+    "posion": [
+      1005,
+      -78,
+      0
+    ],
+    "type": 3
+  },
+  "303": {
+    "desc": "",
+    "icon": "youleyuan",
+    "id": 303,
+    "lua": "SHEHUAXIANGMENGFUJINWAN15",
+    "name": "屋上の「海賊」",
+    "posion": [
+      -546,
+      -224,
+      0
+    ],
+    "type": 3
+  },
+  "304": {
+    "desc": "",
+    "icon": "xiangliaoshichang",
+    "id": 304,
+    "lua": "SHEHUAXIANGMENGFUJINWAN16",
+    "name": "ランプの願い",
+    "posion": [
+      -700,
+      476,
+      0
+    ],
+    "type": 3
+  },
+  "305": {
+    "desc": "",
+    "icon": "fengqingjie",
+    "id": 305,
+    "lua": "SHEHUAXIANGMENGFUJINWAN17",
+    "name": "魔法？ガーデンの宴",
+    "posion": [
+      -478,
+      408,
+      0
+    ],
+    "type": 3
+  },
+  "306": {
+    "desc": "",
+    "icon": "qiansha",
+    "id": 306,
+    "lua": "SHEHUAXIANGMENGFUJINWAN18",
+    "name": "奇跡の光",
+    "posion": [
+      140,
+      531,
+      0
+    ],
+    "type": 3
+  },
+  "401": {
+    "desc": "1",
+    "icon": "yanusi",
+    "id": 401,
+    "lua": "SHEHUAXIANGMENGFUJINWAN3",
+    "name": "貴方に捧げる贈り物",
+    "posion": [
+      960,
+      540,
+      0
+    ],
+    "type": 4
+  },
+  "402": {
+    "desc": "2",
+    "icon": "mojiaduoer",
+    "id": 402,
+    "lua": "SHEHUAXIANGMENGFUJINWAN4",
+    "name": "ハプニング付きの鬼ごっこ",
+    "posion": [
+      960,
+      540,
+      0
+    ],
+    "type": 4
+  },
+  "403": {
+    "desc": "3",
+    "icon": "luyijiushi",
+    "id": 403,
+    "lua": "SHEHUAXIANGMENGFUJINWAN5",
+    "name": "砂像大会進行中！",
+    "posion": [
+      960,
+      540,
+      0
+    ],
+    "type": 4
+  },
+  "404": {
+    "desc": "4",
+    "icon": "u2501",
+    "id": 404,
+    "lua": "SHEHUAXIANGMENGFUJINWAN6",
+    "name": "お相手はどの子？",
+    "posion": [
+      960,
+      540,
+      0
+    ],
+    "type": 4
+  },
+  "405": {
+    "desc": "5",
+    "icon": "aimudeng",
+    "id": 405,
+    "lua": "SHEHUAXIANGMENGFUJINWAN7",
+    "name": "特番撮影始動",
+    "posion": [
+      960,
+      540,
+      0
+    ],
+    "type": 4
+  },
+  "406": {
+    "desc": "6",
+    "icon": "gezi",
+    "id": 406,
+    "lua": "SHEHUAXIANGMENGFUJINWAN8",
+    "name": "湯気に煙る",
+    "posion": [
+      960,
+      540,
+      0
+    ],
+    "type": 4
+  },
+  "407": {
+    "desc": "7",
+    "icon": "tianchengcv",
+    "id": 407,
+    "lua": "SHEHUAXIANGMENGFUJINWAN9",
+    "name": "クロスカントリー競走",
+    "posion": [
+      960,
+      540,
+      0
+    ],
+    "type": 4
+  },
+  "408": {
+    "desc": "8",
+    "icon": "moliciqinwang",
+    "id": 408,
+    "lua": "SHEHUAXIANGMENGFUJINWAN10",
+    "name": "雲の上の波しぶき",
+    "posion": [
+      960,
+      540,
+      0
+    ],
+    "type": 4
+  },
+  "409": {
+    "desc": "9",
+    "icon": "aogusite",
+    "id": 409,
+    "lua": "SHEHUAXIANGMENGFUJINWAN11",
+    "name": "溶け合う鼓動",
+    "posion": [
+      960,
+      540,
+      0
+    ],
+    "type": 4
+  },
+  "410": {
+    "desc": "10",
+    "icon": "z15",
+    "id": 410,
+    "lua": "SHEHUAXIANGMENGFUJINWAN12",
+    "name": "蜜漬けの余韻",
+    "posion": [
+      960,
+      540,
+      0
+    ],
+    "type": 4
+  },
+  "all": [
+    101,
+    102,
+    103,
+    104,
+    105,
+    106,
+    107,
+    108,
+    109,
+    110,
+    111,
+    112,
+    113,
+    114,
+    115,
+    201,
+    202,
+    203,
+    204,
+    205,
+    206,
+    207,
+    208,
+    301,
+    302,
+    303,
+    304,
+    305,
+    306,
+    401,
+    402,
+    403,
+    404,
+    405,
+    406,
+    407,
+    408,
+    409,
+    410
+  ]
+}

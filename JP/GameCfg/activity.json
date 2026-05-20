@@ -6,7 +6,7 @@
       "data": [
         "SCENE.SUMMARY"
       ],
-      "isShow": "function()\n\t\t\treturn\n\t\tend"
+      "isShow": "function()\n\t\t\tlocal var_1_0 = getProxy(ActivityProxy):getActivityByType(ActivityConst.ACTIVITY_TYPE_SUMMARY)\n\n\t\t\treturn var_1_0 and not var_1_0:isEnd()\n\t\tend"
     },
     {
       "banner": "build_pray",
