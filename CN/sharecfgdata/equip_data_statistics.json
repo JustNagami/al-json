@@ -5067,6 +5067,44 @@
       492
     ]
   },
+  "493": {
+    "ammo": 1,
+    "ammo_icon": [
+      2
+    ],
+    "ammo_info": [],
+    "damage": "21 x 4",
+    "descrip": "默认装备",
+    "equip_info": [],
+    "equip_parameters": [],
+    "hidden_skill_id": [],
+    "icon": "1",
+    "id": 493,
+    "label": [
+      "KMS",
+      "CL",
+      "MG",
+      "AP"
+    ],
+    "name": "P2突破后自带150mm副炮",
+    "nationality": 4,
+    "part_main": [
+      3
+    ],
+    "part_sub": [],
+    "property_rate": [],
+    "rarity": 1,
+    "skill_id": [],
+    "speciality": "<[LOCK]>",
+    "tech": 1,
+    "torpedo_ammo": 0,
+    "type": 2,
+    "value_2": 0,
+    "value_3": 0,
+    "weapon_id": [
+      180025
+    ]
+  },
   "500": {
     "ammo": 10,
     "ammo_icon": [],
@@ -162671,6 +162709,133 @@
     "value_1": "21",
     "value_2": 16
   },
+  "151160": {
+    "ammo": 10,
+    "ammo_icon": [],
+    "ammo_info": [],
+    "attribute_1": "torpedo",
+    "attribute_2": "durability",
+    "attribute_3": "raid_distance",
+    "descrip": "通过对艇壳形状的改良，减小了潜艇水下航行的阻力，提高了战斗中的航速与航程",
+    "equip_info": [
+      6
+    ],
+    "equip_parameters": [],
+    "hidden_skill_id": [],
+    "icon": "800",
+    "id": 151160,
+    "label": [
+      "KMS",
+      "DEV"
+    ],
+    "name": "艇壳改良设计案",
+    "nationality": 4,
+    "part_main": [
+      8,
+      17
+    ],
+    "part_sub": [
+      8,
+      17
+    ],
+    "property_rate": [],
+    "rarity": 5,
+    "skill_id": [
+      [
+        6560,
+        1
+      ]
+    ],
+    "speciality": "<[NA]>",
+    "tech": 3,
+    "torpedo_ammo": 0,
+    "type": 10,
+    "value_1": "18",
+    "value_2": 48,
+    "value_3": -8,
+    "weapon_id": []
+  },
+  "151161": {
+    "base": 151160,
+    "id": 151161,
+    "value_1": "20",
+    "value_2": 54
+  },
+  "151162": {
+    "base": 151160,
+    "id": 151162,
+    "value_1": "23",
+    "value_2": 60
+  },
+  "151163": {
+    "base": 151160,
+    "id": 151163,
+    "value_1": "25",
+    "value_2": 66
+  },
+  "151164": {
+    "base": 151160,
+    "id": 151164,
+    "value_1": "27",
+    "value_2": 72
+  },
+  "151165": {
+    "base": 151160,
+    "id": 151165,
+    "value_1": "30",
+    "value_2": 78
+  },
+  "151166": {
+    "base": 151160,
+    "id": 151166,
+    "value_1": "32",
+    "value_2": 84
+  },
+  "151167": {
+    "base": 151160,
+    "id": 151167,
+    "value_1": "35",
+    "value_2": 90
+  },
+  "151168": {
+    "base": 151160,
+    "id": 151168,
+    "value_1": "37",
+    "value_2": 96
+  },
+  "151169": {
+    "base": 151160,
+    "id": 151169,
+    "value_1": "40",
+    "value_2": 108
+  },
+  "151170": {
+    "base": 151160,
+    "id": 151170,
+    "value_1": "42",
+    "value_2": 120
+  },
+  "151171": {
+    "anti_siren": 100,
+    "base": 151160,
+    "id": 151171,
+    "value_1": "44",
+    "value_2": 125
+  },
+  "151172": {
+    "anti_siren": 200,
+    "base": 151160,
+    "id": 151172,
+    "value_1": "46",
+    "value_2": 132
+  },
+  "151173": {
+    "anti_siren": 300,
+    "base": 151160,
+    "id": 151173,
+    "value_1": "50",
+    "value_2": 142
+  },
   "170001": {
     "ammo": 10,
     "ammo_icon": [],
@@ -164409,6 +164574,44 @@
     "value_3": 0,
     "weapon_id": [
       180001
+    ]
+  },
+  "180025": {
+    "ammo": 1,
+    "ammo_icon": [
+      2
+    ],
+    "ammo_info": [],
+    "damage": "21 x 4",
+    "descrip": "默认装备",
+    "equip_info": [],
+    "equip_parameters": [],
+    "hidden_skill_id": [],
+    "icon": "1",
+    "id": 180025,
+    "label": [
+      "KMS",
+      "CL",
+      "MG",
+      "HE"
+    ],
+    "name": "莫里茨突破后自带150mm副炮",
+    "nationality": 4,
+    "part_main": [
+      3
+    ],
+    "part_sub": [],
+    "property_rate": [],
+    "rarity": 1,
+    "skill_id": [],
+    "speciality": "<[LOCK]>",
+    "tech": 1,
+    "torpedo_ammo": 0,
+    "type": 2,
+    "value_2": 0,
+    "value_3": 0,
+    "weapon_id": [
+      180025
     ]
   },
   "594017": {
@@ -169007,6 +169210,7 @@
     486,
     491,
     492,
+    493,
     500,
     501,
     502,
@@ -179031,6 +179235,20 @@
     151149,
     151150,
     151151,
+    151160,
+    151161,
+    151162,
+    151163,
+    151164,
+    151165,
+    151166,
+    151167,
+    151168,
+    151169,
+    151170,
+    151171,
+    151172,
+    151173,
     170001,
     170002,
     170011,
@@ -179098,6 +179316,7 @@
     170882,
     180000,
     180001,
+    180025,
     594017,
     594018,
     594019,
