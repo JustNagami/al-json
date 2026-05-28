@@ -44936,6 +44936,187 @@
       101
     ]
   },
+  "2121": {
+    "bullet_name": "zidan_bianhuanchilun",
+    "derivate_boom": "",
+    "derivate_bullet": "",
+    "derivate_torpedo": "",
+    "desc": "An unceasing cog that has spun countless times.",
+    "double_char_bone": "",
+    "equip_type": [
+      1,
+      2,
+      3
+    ],
+    "fire_fx_name": "",
+    "hit_fx_name": "zidan_bianhuanchilun_hit",
+    "hit_sfx": "",
+    "icon": "96845",
+    "id": 2121,
+    "mirror": 0,
+    "miss_sfx": "",
+    "name": "Perpetual Cog Shell",
+    "orbit_combat": "",
+    "orbit_combat_anima_change": "",
+    "orbit_combat_bound": "",
+    "orbit_hidden_action": "",
+    "orbit_rotate": "",
+    "orbit_slg": "",
+    "orbit_slg_bound": "",
+    "orbit_ui": "",
+    "orbit_ui_back": 0,
+    "orbit_ui_bound": "",
+    "preview_hit_distance": 30,
+    "rarity": 4,
+    "ship_config_id": 100011,
+    "ship_skin_id": 0,
+    "themeid": 109,
+    "type": 1,
+    "weapon_ids": [
+      101,
+      101
+    ]
+  },
+  "2122": {
+    "bullet_name": "yulei_huocheyancong",
+    "derivate_boom": "",
+    "derivate_bullet": "",
+    "derivate_torpedo": "",
+    "desc": "Where there's smoke, there's... no fire?",
+    "double_char_bone": "",
+    "equip_type": [
+      5,
+      13
+    ],
+    "fire_fx_name": "",
+    "hit_fx_name": "yulei_huocheyancong_hit",
+    "hit_sfx": "",
+    "icon": "96846",
+    "id": 2122,
+    "mirror": 0,
+    "miss_sfx": "",
+    "name": "Silent Smokestack Torpedo",
+    "orbit_combat": "",
+    "orbit_combat_anima_change": "",
+    "orbit_combat_bound": "",
+    "orbit_hidden_action": "",
+    "orbit_rotate": "",
+    "orbit_slg": "",
+    "orbit_slg_bound": "",
+    "orbit_ui": "",
+    "orbit_ui_back": 0,
+    "orbit_ui_bound": "",
+    "preview_hit_distance": 30,
+    "rarity": 4,
+    "ship_config_id": 100011,
+    "ship_skin_id": 0,
+    "themeid": 109,
+    "type": 1,
+    "weapon_ids": [
+      107,
+      107
+    ]
+  },
+  "2123": {
+    "bullet_name": "paodan_huntianyi",
+    "derivate_boom": "",
+    "derivate_bullet": "",
+    "derivate_torpedo": "",
+    "desc": "The stars' orbits divide the seasons.",
+    "double_char_bone": "",
+    "equip_type": [
+      4,
+      11
+    ],
+    "fire_fx_name": "",
+    "hit_fx_name": "",
+    "hit_sfx": "",
+    "icon": "96847",
+    "id": 2123,
+    "mirror": 0,
+    "miss_sfx": "",
+    "name": "Astrolabe Shell",
+    "orbit_combat": "",
+    "orbit_combat_anima_change": "",
+    "orbit_combat_bound": "",
+    "orbit_hidden_action": "",
+    "orbit_rotate": "",
+    "orbit_slg": "",
+    "orbit_slg_bound": "",
+    "orbit_ui": "",
+    "orbit_ui_back": 0,
+    "orbit_ui_bound": "",
+    "preview_hit_distance": 0,
+    "rarity": 4,
+    "ship_config_id": 100011,
+    "ship_skin_id": 0,
+    "themeid": 109,
+    "type": 1,
+    "weapon_ids": [
+      24000,
+      24000,
+      24000
+    ]
+  },
+  "2124": {
+    "bullet_name": "",
+    "derivate_boom": "",
+    "derivate_bullet": "",
+    "derivate_torpedo": "",
+    "desc": "The mechanisms still tick, keeping dreams trapped within.",
+    "double_char_bone": [
+      1,
+      0,
+      1
+    ],
+    "equip_type": [
+      10
+    ],
+    "fire_fx_name": "",
+    "hit_fx_name": "",
+    "hit_sfx": "",
+    "icon": "96848",
+    "id": 2124,
+    "mirror": 0,
+    "miss_sfx": "",
+    "name": "Phantasmal Cage",
+    "orbit_combat": "shebei_longzhongniao",
+    "orbit_combat_anima_change": "",
+    "orbit_combat_bound": [
+      "face",
+      [
+        -0.2,
+        -2.03,
+        -0.91
+      ]
+    ],
+    "orbit_hidden_action": [
+      "sleep",
+      "wash"
+    ],
+    "orbit_rotate": false,
+    "orbit_slg": "",
+    "orbit_slg_bound": "",
+    "orbit_ui": "shebei_longzhongniaoui",
+    "orbit_ui_back": 1,
+    "orbit_ui_bound": [
+      "face",
+      [
+        -10,
+        -147.5
+      ]
+    ],
+    "preview_hit_distance": 0,
+    "rarity": 4,
+    "ship_config_id": 100011,
+    "ship_skin_id": 0,
+    "themeid": 109,
+    "type": 1,
+    "weapon_ids": [
+      101,
+      101
+    ]
+  },
   "3001": {
     "bullet_name": "",
     "derivate_boom": "",
@@ -47137,6 +47318,47 @@
     "weapon_ids": [
       101,
       101
+    ]
+  },
+  "3078": {
+    "bullet_name": "paodan_dengguangwurenji",
+    "derivate_boom": "",
+    "derivate_bullet": "",
+    "derivate_torpedo": "",
+    "desc": "矩阵闪亮，满屏流光啾~",
+    "double_char_bone": "",
+    "equip_type": [
+      4,
+      11
+    ],
+    "fire_fx_name": "",
+    "hit_fx_name": "",
+    "hit_sfx": "",
+    "icon": "99197",
+    "id": 3078,
+    "mirror": 0,
+    "miss_sfx": "",
+    "name": "久啾灯光炮弹",
+    "orbit_combat": "",
+    "orbit_combat_anima_change": "",
+    "orbit_combat_bound": "",
+    "orbit_hidden_action": "",
+    "orbit_rotate": "",
+    "orbit_slg": "",
+    "orbit_slg_bound": "",
+    "orbit_ui": "",
+    "orbit_ui_back": 0,
+    "orbit_ui_bound": "",
+    "preview_hit_distance": 0,
+    "rarity": 4,
+    "ship_config_id": 100011,
+    "ship_skin_id": 0,
+    "themeid": 199,
+    "type": 1,
+    "weapon_ids": [
+      24000,
+      24000,
+      24000
     ]
   },
   "3079": {
@@ -64243,6 +64465,10 @@
     2118,
     2119,
     2120,
+    2121,
+    2122,
+    2123,
+    2124,
     3001,
     3002,
     3004,
@@ -64291,6 +64517,7 @@
     3069,
     3070,
     3076,
+    3078,
     3079,
     3080,
     3081,

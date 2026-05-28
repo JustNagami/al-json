@@ -42911,7 +42911,7 @@
     ],
     "num": 1,
     "num_limit": 0,
-    "order": 50,
+    "order": 57,
     "resource_category": 2,
     "resource_num": 500,
     "resource_type": 59900
@@ -42931,9 +42931,29 @@
     ],
     "num": 1,
     "num_limit": 0,
-    "order": 7,
+    "order": 58,
     "resource_category": 2,
     "resource_num": 500,
+    "resource_type": 59900
+  },
+  "10515": {
+    "activity": 0,
+    "commodity_id": 3840,
+    "commodity_id_list": "",
+    "commodity_id_list_show": 0,
+    "commodity_type": 3,
+    "id": 10515,
+    "limit_args": [
+      [
+        "quota",
+        2
+      ]
+    ],
+    "num": 1,
+    "num_limit": 0,
+    "order": 2,
+    "resource_category": 2,
+    "resource_num": 800,
     "resource_type": 59900
   },
   "10800": {
@@ -43152,6 +43172,26 @@
     "num": 1,
     "num_limit": 0,
     "order": 102,
+    "resource_category": 2,
+    "resource_num": 1000,
+    "resource_type": 59900
+  },
+  "10909": {
+    "activity": 0,
+    "commodity_id": 301263,
+    "commodity_id_list": "",
+    "commodity_id_list_show": 0,
+    "commodity_type": 7,
+    "id": 10909,
+    "limit_args": [
+      [
+        "quota",
+        1
+      ]
+    ],
+    "num": 1,
+    "num_limit": 0,
+    "order": 103,
     "resource_category": 2,
     "resource_num": 1000,
     "resource_type": 59900
@@ -45124,6 +45164,113 @@
     "order": 4,
     "resource_category": 2,
     "resource_num": 30,
+    "resource_type": 21000
+  },
+  "12046": {
+    "activity": 7104,
+    "commodity_id": 9706031,
+    "commodity_id_list": "",
+    "commodity_id_list_show": 0,
+    "commodity_type": 4,
+    "id": 12046,
+    "limit_args": [
+      [
+        "uniqueship",
+        970603
+      ],
+      [
+        2,
+        [
+          [
+            2026,
+            6,
+            1
+          ],
+          [
+            0,
+            0,
+            0
+          ]
+        ]
+      ]
+    ],
+    "num": 1,
+    "num_limit": 1,
+    "order": 3,
+    "resource_category": 2,
+    "resource_num": 60,
+    "resource_type": 21000
+  },
+  "12047": {
+    "activity": 7104,
+    "commodity_id": 21026,
+    "commodity_id_list": "",
+    "commodity_id_list_show": 0,
+    "commodity_type": 2,
+    "id": 12047,
+    "limit_args": [
+      [
+        1,
+        970603,
+        1
+      ],
+      [
+        2,
+        [
+          [
+            2026,
+            6,
+            1
+          ],
+          [
+            0,
+            0,
+            0
+          ]
+        ]
+      ]
+    ],
+    "num": 1,
+    "num_limit": 4,
+    "order": 4,
+    "resource_category": 2,
+    "resource_num": 30,
+    "resource_type": 21000
+  },
+  "12048": {
+    "activity": 7104,
+    "commodity_id": 21061,
+    "commodity_id_list": "",
+    "commodity_id_list_show": 0,
+    "commodity_type": 2,
+    "id": 12048,
+    "limit_args": [
+      [
+        1,
+        970605,
+        1
+      ],
+      [
+        2,
+        [
+          [
+            2026,
+            6,
+            18
+          ],
+          [
+            0,
+            0,
+            0
+          ]
+        ]
+      ]
+    ],
+    "num": 1,
+    "num_limit": 4,
+    "order": 4,
+    "resource_category": 2,
+    "resource_num": 80,
     "resource_type": 21000
   },
   "all": [
@@ -47968,6 +48115,7 @@
     10512,
     10513,
     10514,
+    10515,
     10800,
     10801,
     10802,
@@ -47979,6 +48127,7 @@
     10906,
     10907,
     10908,
+    10909,
     11001,
     11002,
     11003,
@@ -48058,7 +48207,10 @@
     12042,
     12043,
     12044,
-    12045
+    12045,
+    12046,
+    12047,
+    12048
   ],
   "get_id_list_by_commodity_type": {
     "1": [
@@ -50478,7 +50630,9 @@
       12040,
       12042,
       12043,
-      12045
+      12045,
+      12047,
+      12048
     ],
     "3": [
       202,
@@ -50651,7 +50805,8 @@
       10511,
       10512,
       10513,
-      10514
+      10514,
+      10515
     ],
     "4": [
       201,
@@ -50838,7 +50993,8 @@
       12036,
       12038,
       12041,
-      12044
+      12044,
+      12046
     ],
     "5": [
       204,
@@ -50904,7 +51060,8 @@
       10905,
       10906,
       10907,
-      10908
+      10908,
+      10909
     ],
     "8": [
       1621,
