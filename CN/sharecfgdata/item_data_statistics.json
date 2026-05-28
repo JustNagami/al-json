@@ -15419,6 +15419,35 @@
     "usage_arg": "[]",
     "virtual_type": 0
   },
+  "21060": {
+    "combination_display": [],
+    "compose_number": 0,
+    "display": "{namecode:555}的专用性能提升装置，可在「META研究室」-「能量激活」中使用。",
+    "display_effect": "",
+    "display_icon": [],
+    "icon": "Props/21060",
+    "id": 21060,
+    "index": [],
+    "is_world": 0,
+    "limit": [],
+    "link_id": 0,
+    "max_num": 0,
+    "name": "结晶：{namecode:555}",
+    "open_directly": 0,
+    "order": 0,
+    "other_item_cost": "[]",
+    "other_resource_cost": "[]",
+    "price": [],
+    "rarity": 4,
+    "replace_item": 0,
+    "shiptrans_id": [],
+    "target_id": 0,
+    "time_limit": 0,
+    "type": 4,
+    "usage": "usage_undefined",
+    "usage_arg": "[]",
+    "virtual_type": 0
+  },
   "21061": {
     "combination_display": [],
     "compose_number": 0,
@@ -30088,6 +30117,56 @@
     "type": 11,
     "usage": "usage_drop",
     "usage_arg": "111228",
+    "virtual_type": 0
+  },
+  "30435": {
+    "combination_display": [],
+    "compose_number": 0,
+    "display": "可以随机获得一件本次世界巡游限定外观装备",
+    "display_effect": "",
+    "display_icon": [
+      [
+        9,
+        2121,
+        1
+      ],
+      [
+        9,
+        2122,
+        1
+      ],
+      [
+        9,
+        2123,
+        1
+      ],
+      [
+        9,
+        2124,
+        1
+      ]
+    ],
+    "icon": "Props/appearanceboxshijiexunyou",
+    "id": 30435,
+    "index": [],
+    "is_world": 0,
+    "limit": [],
+    "link_id": 0,
+    "max_num": 0,
+    "name": "外观装备箱(世界巡游)",
+    "open_directly": 1,
+    "order": 0,
+    "other_item_cost": "[]",
+    "other_resource_cost": "[]",
+    "price": [],
+    "rarity": 4,
+    "replace_item": 0,
+    "shiptrans_id": [],
+    "target_id": 0,
+    "time_limit": 0,
+    "type": 11,
+    "usage": "usage_drop",
+    "usage_arg": "111229",
     "virtual_type": 0
   },
   "30501": {
@@ -125923,6 +126002,389 @@
     ],
     "virtual_type": 0
   },
+  "68288": {
+    "combination_display": [],
+    "compose_number": 0,
+    "display": "购买后可获得<color=#92fc63FF>雅努斯</color>换装<color=#92fc63FF>云端的水光</color>的钻石抵扣券等道具",
+    "display_effect": "",
+    "display_icon": [
+      [
+        2,
+        68291,
+        1
+      ],
+      [
+        2,
+        68294,
+        1
+      ]
+    ],
+    "icon": "ChargeIcon/skin_ticket_package",
+    "id": 68288,
+    "index": [],
+    "is_world": 0,
+    "limit": [],
+    "link_id": 0,
+    "max_num": 0,
+    "name": "换装抵扣礼包(云端的水光)",
+    "open_directly": 1,
+    "order": 0,
+    "other_item_cost": "[]",
+    "other_resource_cost": "[]",
+    "price": [],
+    "rarity": 4,
+    "replace_item": 0,
+    "shiptrans_id": [],
+    "target_id": 0,
+    "time_limit": 0,
+    "type": 17,
+    "usage": "usage_drop",
+    "usage_arg": "88032",
+    "virtual_type": 0
+  },
+  "68289": {
+    "combination_display": [],
+    "compose_number": 0,
+    "display": "购买后可获得<color=#92fc63FF>路易九世</color>换装<color=#92fc63FF>微醺的静谧时光</color>的钻石抵扣券等道具",
+    "display_effect": "",
+    "display_icon": [
+      [
+        2,
+        68292,
+        1
+      ],
+      [
+        2,
+        68295,
+        1
+      ]
+    ],
+    "icon": "ChargeIcon/skin_ticket_package",
+    "id": 68289,
+    "index": [],
+    "is_world": 0,
+    "limit": [],
+    "link_id": 0,
+    "max_num": 0,
+    "name": "换装抵扣礼包(微醺的静谧时光)",
+    "open_directly": 1,
+    "order": 0,
+    "other_item_cost": "[]",
+    "other_resource_cost": "[]",
+    "price": [],
+    "rarity": 4,
+    "replace_item": 0,
+    "shiptrans_id": [],
+    "target_id": 0,
+    "time_limit": 0,
+    "type": 17,
+    "usage": "usage_drop",
+    "usage_arg": "88033",
+    "virtual_type": 0
+  },
+  "68290": {
+    "combination_display": [],
+    "compose_number": 0,
+    "display": "购买后可获得<color=#92fc63FF>{namecode:481}</color>换装<color=#92fc63FF>与“魔女”的星夜之约</color>的钻石抵扣券等道具",
+    "display_effect": "",
+    "display_icon": [
+      [
+        2,
+        68293,
+        1
+      ],
+      [
+        2,
+        68296,
+        1
+      ]
+    ],
+    "icon": "ChargeIcon/skin_ticket_package",
+    "id": 68290,
+    "index": [],
+    "is_world": 0,
+    "limit": [],
+    "link_id": 0,
+    "max_num": 0,
+    "name": "换装抵扣礼包(与“魔女”的星夜之约)",
+    "open_directly": 1,
+    "order": 0,
+    "other_item_cost": "[]",
+    "other_resource_cost": "[]",
+    "price": [],
+    "rarity": 4,
+    "replace_item": 0,
+    "shiptrans_id": [],
+    "target_id": 0,
+    "time_limit": 0,
+    "type": 17,
+    "usage": "usage_drop",
+    "usage_arg": "88034",
+    "virtual_type": 0
+  },
+  "68291": {
+    "combination_display": [],
+    "compose_number": 0,
+    "display": "持有此道具时，购买<color=#92fc63FF>雅努斯</color>换装<color=#92fc63FF>云端的水光</color>时可消耗此道具，并抵扣300钻石\n<color=#ff5c5c>道具有效期：自获得后～2026年6月4日 23:59，过期后此道具将消失，并自动转化为300钻石</color>",
+    "display_effect": "",
+    "display_icon": [],
+    "icon": "Props/limit_skin_300",
+    "id": 68291,
+    "index": [],
+    "is_world": 0,
+    "limit": [],
+    "link_id": 0,
+    "max_num": 0,
+    "name": "换装抵扣券(云端的水光)",
+    "open_directly": 0,
+    "order": 1,
+    "other_item_cost": "[]",
+    "other_resource_cost": "[]",
+    "price": [
+      14,
+      300
+    ],
+    "rarity": 4,
+    "replace_item": 0,
+    "shiptrans_id": [],
+    "target_id": 0,
+    "time_limit": 1,
+    "type": 1,
+    "usage": "usage_shop_discount",
+    "usage_arg": [
+      [
+        71354
+      ],
+      300
+    ],
+    "virtual_type": 0
+  },
+  "68292": {
+    "combination_display": [],
+    "compose_number": 0,
+    "display": "持有此道具时，购买<color=#92fc63FF>路易九世</color>换装<color=#92fc63FF>微醺的静谧时光</color>时可消耗此道具，并抵扣300钻石\n<color=#ff5c5c>道具有效期：自获得后～2026年6月4日 23:59，过期后此道具将消失，并自动转化为300钻石</color>",
+    "display_effect": "",
+    "display_icon": [],
+    "icon": "Props/limit_skin_300",
+    "id": 68292,
+    "index": [],
+    "is_world": 0,
+    "limit": [],
+    "link_id": 0,
+    "max_num": 0,
+    "name": "换装抵扣券(微醺的静谧时光)",
+    "open_directly": 0,
+    "order": 1,
+    "other_item_cost": "[]",
+    "other_resource_cost": "[]",
+    "price": [
+      14,
+      300
+    ],
+    "rarity": 4,
+    "replace_item": 0,
+    "shiptrans_id": [],
+    "target_id": 0,
+    "time_limit": 1,
+    "type": 1,
+    "usage": "usage_shop_discount",
+    "usage_arg": [
+      [
+        71351
+      ],
+      300
+    ],
+    "virtual_type": 0
+  },
+  "68293": {
+    "combination_display": [],
+    "compose_number": 0,
+    "display": "持有此道具时，购买<color=#92fc63FF>{namecode:481}</color>换装<color=#92fc63FF>与“魔女”的星夜之约</color>时可消耗此道具，并抵扣300钻石\n<color=#ff5c5c>道具有效期：自获得后～2026年6月4日 23:59，过期后此道具将消失，并自动转化为300钻石</color>",
+    "display_effect": "",
+    "display_icon": [],
+    "icon": "Props/limit_skin_300",
+    "id": 68293,
+    "index": [],
+    "is_world": 0,
+    "limit": [],
+    "link_id": 0,
+    "max_num": 0,
+    "name": "换装抵扣券(与“魔女”的星夜之约)",
+    "open_directly": 0,
+    "order": 1,
+    "other_item_cost": "[]",
+    "other_resource_cost": "[]",
+    "price": [
+      14,
+      300
+    ],
+    "rarity": 4,
+    "replace_item": 0,
+    "shiptrans_id": [],
+    "target_id": 0,
+    "time_limit": 1,
+    "type": 1,
+    "usage": "usage_shop_discount",
+    "usage_arg": [
+      [
+        71355
+      ],
+      300
+    ],
+    "virtual_type": 0
+  },
+  "68294": {
+    "combination_display": [],
+    "compose_number": 0,
+    "display": "使用后可前往换装体验兑换界面，界面内可以选择兑换<color=#92fc63FF>雅努斯</color>换装<color=#92fc63FF>云端的水光</color>的2天换装体验资格\n<color=#ff5c5c>道具有效期：自获得后～2026年6月4日 23:59，过期后此道具将消失</color>",
+    "display_effect": "",
+    "display_icon": [],
+    "icon": "Props/limit_skinticket",
+    "id": 68294,
+    "index": [],
+    "is_world": 0,
+    "limit": [],
+    "link_id": 0,
+    "max_num": 0,
+    "name": "换装体验券(云端的水光)",
+    "open_directly": 0,
+    "order": 1,
+    "other_item_cost": "[]",
+    "other_resource_cost": "[]",
+    "price": [
+      1,
+      0
+    ],
+    "rarity": 4,
+    "replace_item": 0,
+    "shiptrans_id": [],
+    "target_id": 0,
+    "time_limit": 1,
+    "type": 1,
+    "usage": "usage_skin_exp",
+    "usage_arg": [
+      90491
+    ],
+    "virtual_type": 0
+  },
+  "68295": {
+    "combination_display": [],
+    "compose_number": 0,
+    "display": "使用后可前往换装体验兑换界面，界面内可以选择兑换<color=#92fc63FF>路易九世</color>换装<color=#92fc63FF>微醺的静谧时光</color>的2天换装体验资格\n<color=#ff5c5c>道具有效期：自获得后～2026年6月4日 23:59，过期后此道具将消失</color>",
+    "display_effect": "",
+    "display_icon": [],
+    "icon": "Props/limit_skinticket",
+    "id": 68295,
+    "index": [],
+    "is_world": 0,
+    "limit": [],
+    "link_id": 0,
+    "max_num": 0,
+    "name": "换装体验券(微醺的静谧时光)",
+    "open_directly": 0,
+    "order": 1,
+    "other_item_cost": "[]",
+    "other_resource_cost": "[]",
+    "price": [
+      1,
+      0
+    ],
+    "rarity": 4,
+    "replace_item": 0,
+    "shiptrans_id": [],
+    "target_id": 0,
+    "time_limit": 1,
+    "type": 1,
+    "usage": "usage_skin_exp",
+    "usage_arg": [
+      90492
+    ],
+    "virtual_type": 0
+  },
+  "68296": {
+    "combination_display": [],
+    "compose_number": 0,
+    "display": "使用后可前往换装体验兑换界面，界面内可以选择兑换<color=#92fc63FF>{namecode:481}</color>换装<color=#92fc63FF>与“魔女”的星夜之约</color>的2天换装体验资格\n<color=#ff5c5c>道具有效期：自获得后～2026年6月4日 23:59，过期后此道具将消失</color>",
+    "display_effect": "",
+    "display_icon": [],
+    "icon": "Props/limit_skinticket",
+    "id": 68296,
+    "index": [],
+    "is_world": 0,
+    "limit": [],
+    "link_id": 0,
+    "max_num": 0,
+    "name": "换装体验券(与“魔女”的星夜之约)",
+    "open_directly": 0,
+    "order": 1,
+    "other_item_cost": "[]",
+    "other_resource_cost": "[]",
+    "price": [
+      1,
+      0
+    ],
+    "rarity": 4,
+    "replace_item": 0,
+    "shiptrans_id": [],
+    "target_id": 0,
+    "time_limit": 1,
+    "type": 1,
+    "usage": "usage_skin_exp",
+    "usage_arg": [
+      90493
+    ],
+    "virtual_type": 0
+  },
+  "69975": {
+    "combination_display": [],
+    "compose_number": 0,
+    "display": "有几率获得随机科技箱T4",
+    "display_effect": "",
+    "display_icon": [
+      [
+        2,
+        30014,
+        1
+      ],
+      [
+        2,
+        30024,
+        1
+      ],
+      [
+        2,
+        30034,
+        1
+      ],
+      [
+        2,
+        30044,
+        1
+      ]
+    ],
+    "icon": "Props/30004",
+    "id": 69975,
+    "index": [],
+    "is_world": 0,
+    "limit": [],
+    "link_id": 0,
+    "max_num": 0,
+    "name": "未知科技箱T4",
+    "open_directly": 1,
+    "order": 0,
+    "other_item_cost": "[]",
+    "other_resource_cost": "[]",
+    "price": [],
+    "rarity": 4,
+    "replace_item": 0,
+    "shiptrans_id": [],
+    "target_id": 0,
+    "time_limit": 0,
+    "type": 17,
+    "usage": "usage_drop",
+    "usage_arg": "69975",
+    "virtual_type": 0
+  },
   "81200": {
     "combination_display": [],
     "compose_number": 0,
@@ -128740,6 +129202,71 @@
     "usage_arg": "998331",
     "virtual_type": 0
   },
+  "81236": {
+    "combination_display": [],
+    "compose_number": 0,
+    "display": "购买礼包可获得随机换装*1，钻石*2026，心智单元*50，心智魔方*20，高级定向蓝图·八期*2，快速完成工具*10，家具币*100",
+    "display_effect": "",
+    "display_icon": [
+      [
+        2,
+        86228,
+        1
+      ],
+      [
+        1,
+        14,
+        2026
+      ],
+      [
+        2,
+        42076,
+        2
+      ],
+      [
+        2,
+        15008,
+        50
+      ],
+      [
+        2,
+        20001,
+        20
+      ],
+      [
+        2,
+        15003,
+        10
+      ],
+      [
+        1,
+        6,
+        100
+      ]
+    ],
+    "icon": "Props/fudai36",
+    "id": 81236,
+    "index": [],
+    "is_world": 0,
+    "limit": [],
+    "link_id": 0,
+    "max_num": 0,
+    "name": "九周年泳装礼盒·II",
+    "open_directly": 1,
+    "order": 0,
+    "other_item_cost": "[]",
+    "other_resource_cost": "[]",
+    "price": [],
+    "rarity": 4,
+    "replace_item": 0,
+    "shiptrans_id": [],
+    "target_id": 0,
+    "time_limit": 0,
+    "type": 17,
+    "usage": "usage_drop",
+    "usage_arg": "998332",
+    "virtual_type": 0
+  },
   "81407": {
     "combination_display": [],
     "compose_number": 0,
@@ -131083,6 +131610,7 @@
     21057,
     21058,
     21059,
+    21060,
     21061,
     21101,
     21111,
@@ -131267,6 +131795,7 @@
     30432,
     30433,
     30434,
+    30435,
     30501,
     30502,
     30503,
@@ -133537,6 +134066,15 @@
     68257,
     68259,
     68260,
+    68288,
+    68289,
+    68290,
+    68291,
+    68292,
+    68293,
+    68294,
+    68295,
+    68296,
     68261,
     68262,
     68263,
@@ -133555,6 +134093,7 @@
     68285,
     68286,
     68287,
+    69975,
     81200,
     81201,
     81202,
@@ -133591,6 +134130,7 @@
     81233,
     81234,
     81235,
+    81236,
     81407,
     81408,
     81409,
@@ -135169,6 +135709,12 @@
       68257,
       68259,
       68260,
+      68291,
+      68292,
+      68293,
+      68294,
+      68295,
+      68296,
       68264,
       68265,
       68266,
@@ -135325,6 +135871,7 @@
       21057,
       21058,
       21059,
+      21060,
       21061,
       21101,
       21111,
@@ -135857,6 +136404,7 @@
       30432,
       30433,
       30434,
+      30435,
       59730,
       59731,
       59732,
@@ -136593,12 +137141,16 @@
       68246,
       68253,
       68254,
+      68288,
+      68289,
+      68290,
       68261,
       68262,
       68263,
       68279,
       68280,
       68281,
+      69975,
       81200,
       81201,
       81202,
@@ -136631,6 +137183,7 @@
       81233,
       81234,
       81235,
+      81236,
       81407,
       81408,
       81409,

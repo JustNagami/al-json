@@ -170081,6 +170081,30 @@
     "type": 0,
     "virtual_type": 21
   },
+  "65117": {
+    "album_config": "",
+    "combination_display": [],
+    "display": "参与「世界巡游」获得的点数，累计一定程度可以领取奖励，活动结束后将会消失 ",
+    "display_icon": [],
+    "drop_gold_max": 0,
+    "drop_oil_max": 0,
+    "icon": "props/battlepass_pt",
+    "id": 65117,
+    "index": [],
+    "is_world": 0,
+    "link_id": 7029,
+    "max_num": 0,
+    "name": "巡游点数",
+    "order": 0,
+    "price": [],
+    "rarity": 2,
+    "replace_item": 0,
+    "shiptrans_id": [],
+    "shop_id": -1,
+    "time_limit": 0,
+    "type": 0,
+    "virtual_type": 21
+  },
   "65500": {
     "album_config": [
       1,
@@ -180242,6 +180266,30 @@
     "type": 98,
     "virtual_type": 0
   },
+  "65990": {
+    "album_config": "",
+    "combination_display": [],
+    "display": "用于「限时体验商店」兑换角色限时换装，2019年7月11日后将无法使用",
+    "display_icon": [],
+    "drop_gold_max": 0,
+    "drop_oil_max": 0,
+    "icon": "Props/skinTicket",
+    "id": 65990,
+    "index": [],
+    "is_world": 0,
+    "link_id": 0,
+    "max_num": 0,
+    "name": "换装体验券",
+    "order": 0,
+    "price": [],
+    "rarity": 4,
+    "replace_item": 0,
+    "shiptrans_id": [],
+    "shop_id": 1,
+    "time_limit": 0,
+    "type": 98,
+    "virtual_type": 0
+  },
   "66001": {
     "album_config": "",
     "combination_display": [],
@@ -180578,6 +180626,30 @@
     "type": 0,
     "virtual_type": 22
   },
+  "66020": {
+    "album_config": "",
+    "combination_display": [],
+    "display": "用于「限时体验商店」兑换角色限时换装",
+    "display_icon": [],
+    "drop_gold_max": 0,
+    "drop_oil_max": 0,
+    "icon": "Props/skinTicket",
+    "id": 66020,
+    "index": [],
+    "is_world": 0,
+    "link_id": 0,
+    "max_num": 0,
+    "name": "换装体验券",
+    "order": 0,
+    "price": [],
+    "rarity": 4,
+    "replace_item": 0,
+    "shiptrans_id": [],
+    "shop_id": 1,
+    "time_limit": 0,
+    "type": 98,
+    "virtual_type": 0
+  },
   "66021": {
     "album_config": "",
     "combination_display": [],
@@ -180673,6 +180745,54 @@
     "time_limit": 0,
     "type": 98,
     "virtual_type": 0
+  },
+  "66037": {
+    "album_config": "",
+    "combination_display": [],
+    "display": "用于「独立小仙寻宝中」活动提升角色好感，活动结束后将会消失",
+    "display_icon": [],
+    "drop_gold_max": 0,
+    "drop_oil_max": 0,
+    "icon": "Props/xiaoyunxian_pt",
+    "id": 66037,
+    "index": [],
+    "is_world": 0,
+    "link_id": 0,
+    "max_num": 0,
+    "name": "友好度-{namecode:563}",
+    "order": 0,
+    "price": [],
+    "rarity": 2,
+    "replace_item": 0,
+    "shiptrans_id": [],
+    "shop_id": -1,
+    "time_limit": 0,
+    "type": 98,
+    "virtual_type": 0
+  },
+  "66038": {
+    "album_config": "",
+    "combination_display": [],
+    "display": "看不到看不到",
+    "display_icon": [],
+    "drop_gold_max": 0,
+    "drop_oil_max": 0,
+    "icon": "Props/xiaoyunxian_pt",
+    "id": 66038,
+    "index": [],
+    "is_world": 0,
+    "link_id": 51012,
+    "max_num": 0,
+    "name": "小云仙转换虚拟道具（不显示）",
+    "order": 0,
+    "price": [],
+    "rarity": 2,
+    "replace_item": 0,
+    "shiptrans_id": [],
+    "shop_id": -1,
+    "time_limit": 0,
+    "type": 0,
+    "virtual_type": 17
   },
   "68081": {
     "album_config": "",
@@ -189036,6 +189156,55 @@
     "drop_oil_max": 0,
     "icon": "Props/clothIcon",
     "id": 86227,
+    "index": [],
+    "is_world": 0,
+    "link_id": 0,
+    "max_num": 0,
+    "name": "随机换装",
+    "order": 0,
+    "price": [],
+    "rarity": 4,
+    "replace_item": 0,
+    "shiptrans_id": [],
+    "shop_id": -1,
+    "time_limit": 0,
+    "type": 98,
+    "virtual_type": 0
+  },
+  "86228": {
+    "album_config": "",
+    "combination_display": [
+      [
+        499063,
+        1300
+      ],
+      [
+        201355,
+        1300
+      ],
+      [
+        899013,
+        1300
+      ],
+      [
+        402074,
+        1600
+      ],
+      [
+        502013,
+        2000
+      ],
+      [
+        107225,
+        2500
+      ]
+    ],
+    "display": "不会被看到",
+    "display_icon": [],
+    "drop_gold_max": 0,
+    "drop_oil_max": 0,
+    "icon": "Props/clothIcon",
+    "id": 86228,
     "index": [],
     "is_world": 0,
     "link_id": 0,
@@ -247813,7 +247982,7 @@
       ],
       [
         4,
-        101071,
+        103021,
         1
       ],
       [
@@ -247948,7 +248117,7 @@
       ],
       [
         4,
-        101071,
+        103021,
         1
       ],
       [
@@ -248083,7 +248252,7 @@
       ],
       [
         4,
-        101071,
+        103021,
         1
       ],
       [
@@ -248628,7 +248797,7 @@
       ],
       [
         4,
-        101071,
+        103021,
         1
       ],
       [
@@ -248763,7 +248932,7 @@
       ],
       [
         4,
-        101071,
+        103021,
         1
       ],
       [
@@ -248898,7 +249067,7 @@
       ],
       [
         4,
-        101071,
+        103021,
         1
       ],
       [
@@ -252256,6 +252425,7 @@
     65113,
     65115,
     65116,
+    65117,
     65500,
     65501,
     65502,
@@ -252554,6 +252724,7 @@
     65901,
     65902,
     65903,
+    65990,
     65918,
     65919,
     65920,
@@ -252639,6 +252810,9 @@
     66016,
     66018,
     66019,
+    66020,
+    66037,
+    66038,
     66021,
     66022,
     66031,
@@ -252948,6 +253122,7 @@
     86225,
     86226,
     86227,
+    86228,
     86411,
     86412,
     100000,
@@ -254189,6 +254364,7 @@
       65112,
       65113,
       65116,
+      65117,
       65501,
       65502,
       65503,
@@ -254472,6 +254648,7 @@
       66014,
       66015,
       66019,
+      66038,
       66022,
       68800,
       68801,
@@ -255192,6 +255369,7 @@
       65887,
       65901,
       65902,
+      65990,
       65918,
       65919,
       65920,
@@ -255200,6 +255378,8 @@
       66013,
       66016,
       66018,
+      66020,
+      66037,
       66021,
       66031,
       66036,
@@ -255261,6 +255441,7 @@
       86225,
       86226,
       86227,
+      86228,
       86411,
       86412,
       110002

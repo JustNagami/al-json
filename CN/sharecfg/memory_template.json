@@ -75369,6 +75369,24 @@
     ],
     "year": 0
   },
+  "5211": {
+    "condition": "开始「若漆之光」活动",
+    "icon": "memory_ruoqizhiguang",
+    "id": 5211,
+    "is_open": 0,
+    "mask": "bg/bg_memory",
+    "number": 0,
+    "ship_group": 0,
+    "story": "RUOQIZHIGUANG1",
+    "subtitle": "",
+    "task": 0,
+    "title": "若漆之光",
+    "type": 1,
+    "unlock_pre": [
+      "RUOQIZHIGUANG1"
+    ],
+    "year": 0
+  },
   "10011": {
     "condition": "完成长岛任务1",
     "icon": "changdao",
@@ -84471,6 +84489,7 @@
     5202,
     5203,
     5204,
+    5211,
     10011,
     10012,
     10013,
