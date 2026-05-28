@@ -123540,6 +123540,75 @@
     "themeId": 0,
     "type": 7
   },
+  "100085": {
+    "advice": 0,
+    "belong": 1,
+    "can_rotate": 0,
+    "can_trigger": [
+      0
+    ],
+    "canputon": 0,
+    "canputonGrid": [],
+    "comfortable": 0,
+    "count": 1,
+    "deblocking": 1,
+    "describe": "パワータイプの噴水。どんなに重くても空までかっ飛ばす！",
+    "dir": 0,
+    "dorm_id": 0,
+    "effect": "",
+    "followBone": [
+      "char",
+      1
+    ],
+    "gain_by": "",
+    "icon": "qianglipenquanicon",
+    "id": 100085,
+    "interAction_group": [],
+    "is_3d_obj": 0,
+    "is_get_time_note": 0,
+    "level": 1,
+    "name": "超強力★噴水",
+    "offset": [],
+    "picture": "",
+    "rarity": 4,
+    "size": [
+      4,
+      4
+    ],
+    "spine": [
+      [
+        "qianglipenquan",
+        "normal"
+      ],
+      [],
+      [
+        [
+          0,
+          0
+        ],
+        [
+          [
+            "dance"
+          ]
+        ],
+        [],
+        [
+          1
+        ]
+      ],
+      [],
+      [
+        0,
+        0
+      ]
+    ],
+    "spine_action_replace": "",
+    "spine_combine_action_replace": "",
+    "spine_extra": "",
+    "tag": 6,
+    "themeId": 0,
+    "type": 7
+  },
   "200001": {
     "advice": 0,
     "belong": 1,
@@ -163625,6 +163694,7 @@
     100082,
     100083,
     100084,
+    100085,
     200001,
     200002,
     200003,
@@ -170140,6 +170210,7 @@
       100082,
       100083,
       100084,
+      100085,
       31101,
       54104,
       54105
@@ -170724,6 +170795,7 @@
       100082,
       100083,
       100084,
+      100085,
       200001,
       200002,
       200003,
@@ -177669,7 +177741,8 @@
       100080,
       100081,
       100082,
-      100084
+      100084,
+      100085
     ],
     [
       15119,

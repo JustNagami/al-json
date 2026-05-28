@@ -15071,6 +15071,35 @@
     "usage_arg": "[]",
     "virtual_type": 0
   },
+  "21060": {
+    "combination_display": [],
+    "compose_number": 0,
+    "display": "ケーニヒスベルク(META)の能力を上昇させるアイテム。メタラボの限界突破に使用可能",
+    "display_effect": "",
+    "display_icon": [],
+    "icon": "Props/21060",
+    "id": 21060,
+    "index": [],
+    "is_world": 0,
+    "limit": [],
+    "link_id": 0,
+    "max_num": 0,
+    "name": "結晶：ケーニヒスベルク(META)",
+    "open_directly": 0,
+    "order": 0,
+    "other_item_cost": "[]",
+    "other_resource_cost": "[]",
+    "price": [],
+    "rarity": 4,
+    "replace_item": 0,
+    "shiptrans_id": [],
+    "target_id": 0,
+    "time_limit": 0,
+    "type": 4,
+    "usage": "usage_undefined",
+    "usage_arg": "[]",
+    "virtual_type": 0
+  },
   "21061": {
     "combination_display": [],
     "compose_number": 0,
@@ -29708,6 +29737,56 @@
     "type": 11,
     "usage": "usage_drop",
     "usage_arg": "111228",
+    "virtual_type": 0
+  },
+  "30435": {
+    "combination_display": [],
+    "compose_number": 0,
+    "display": "クルーズ報酬の装備外装をランダムに１つ入手可能",
+    "display_effect": "",
+    "display_icon": [
+      [
+        9,
+        2121,
+        1
+      ],
+      [
+        9,
+        2122,
+        1
+      ],
+      [
+        9,
+        2123,
+        1
+      ],
+      [
+        9,
+        2124,
+        1
+      ]
+    ],
+    "icon": "Props/appearanceboxshijiexunyou",
+    "id": 30435,
+    "index": [],
+    "is_world": 0,
+    "limit": [],
+    "link_id": 0,
+    "max_num": 0,
+    "name": "ランダム装備外装",
+    "open_directly": 1,
+    "order": 0,
+    "other_item_cost": "[]",
+    "other_resource_cost": "[]",
+    "price": [],
+    "rarity": 4,
+    "replace_item": 0,
+    "shiptrans_id": [],
+    "target_id": 0,
+    "time_limit": 0,
+    "type": 11,
+    "usage": "usage_drop",
+    "usage_arg": "111229",
     "virtual_type": 0
   },
   "30501": {
@@ -116596,6 +116675,71 @@
     "usage_arg": "998331",
     "virtual_type": 0
   },
+  "81236": {
+    "combination_display": [],
+    "compose_number": 0,
+    "display": "ランダムな（2026夏水着B対象）着せ替え衣装、上級指向型強化ユニット・Ⅷ期×2、ダイヤ×2026、メンタルユニット×50、キューブ×20、家具コイン×100、高速建造材×10が入手できます",
+    "display_effect": "",
+    "display_icon": [
+      [
+        2,
+        86228,
+        1
+      ],
+      [
+        1,
+        14,
+        2026
+      ],
+      [
+        2,
+        42076,
+        2
+      ],
+      [
+        2,
+        15008,
+        50
+      ],
+      [
+        2,
+        20001,
+        20
+      ],
+      [
+        2,
+        15003,
+        10
+      ],
+      [
+        1,
+        6,
+        100
+      ]
+    ],
+    "icon": "Props/fudai36",
+    "id": 81236,
+    "index": [],
+    "is_world": 0,
+    "limit": [],
+    "link_id": 0,
+    "max_num": 0,
+    "name": "夏の水着福袋2026B",
+    "open_directly": 1,
+    "order": 0,
+    "other_item_cost": "[]",
+    "other_resource_cost": "[]",
+    "price": [],
+    "rarity": 4,
+    "replace_item": 0,
+    "shiptrans_id": [],
+    "target_id": 0,
+    "time_limit": 0,
+    "type": 17,
+    "usage": "usage_drop",
+    "usage_arg": "998332",
+    "virtual_type": 0
+  },
   "81407": {
     "combination_display": [],
     "compose_number": 0,
@@ -118945,6 +119089,7 @@
     21057,
     21058,
     21059,
+    21060,
     21061,
     21101,
     21111,
@@ -119128,6 +119273,7 @@
     30432,
     30433,
     30434,
+    30435,
     30501,
     30502,
     30503,
@@ -121152,6 +121298,7 @@
     81233,
     81234,
     81235,
+    81236,
     81407,
     81408,
     81410,
@@ -122700,6 +122847,7 @@
       21057,
       21058,
       21059,
+      21060,
       21061,
       21101,
       21111,
@@ -123219,6 +123367,7 @@
       30432,
       30433,
       30434,
+      30435,
       59730,
       59731,
       59732,
@@ -123880,6 +124029,7 @@
       81233,
       81234,
       81235,
+      81236,
       81407,
       81408,
       81410,

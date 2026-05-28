@@ -116372,6 +116372,57 @@
       72282
     ]
   },
+  "72291": {
+    "ammo": 10,
+    "ammo_icon": [],
+    "ammo_info": [],
+    "descrip": "技能弹幕",
+    "equip_info": [],
+    "equip_parameters": [],
+    "hidden_skill_id": [],
+    "icon": "1",
+    "id": 72291,
+    "label": [],
+    "name": "全弹发射-云仙级I",
+    "nationality": 0,
+    "part_main": [
+      1,
+      19,
+      20,
+      21
+    ],
+    "part_sub": [
+      2,
+      3,
+      4,
+      5,
+      8,
+      13,
+      18
+    ],
+    "property_rate": [],
+    "rarity": 1,
+    "skill_id": [],
+    "speciality": "<[NA]>",
+    "tech": 1,
+    "torpedo_ammo": 0,
+    "type": 1,
+    "value_1": "0",
+    "value_2": 0,
+    "value_3": 0,
+    "weapon_id": [
+      72291
+    ]
+  },
+  "72292": {
+    "base": 72291,
+    "hidden_skill_id": [],
+    "id": 72292,
+    "name": "全弹发射-云仙级II",
+    "weapon_id": [
+      72292
+    ]
+  },
   "72311": {
     "ammo": 10,
     "ammo_icon": [],
@@ -126954,6 +127005,57 @@
     "name": "专属弹幕-科隆METAII",
     "weapon_id": [
       170992
+    ]
+  },
+  "80631": {
+    "ammo": 10,
+    "ammo_icon": [],
+    "ammo_info": [],
+    "descrip": "技能弹幕",
+    "equip_info": [],
+    "equip_parameters": [],
+    "hidden_skill_id": [],
+    "icon": "1",
+    "id": 80631,
+    "label": [],
+    "name": "专属弹幕-柯尼斯堡METAI",
+    "nationality": 0,
+    "part_main": [
+      1,
+      19,
+      20,
+      21
+    ],
+    "part_sub": [
+      2,
+      3,
+      4,
+      5,
+      8,
+      13,
+      18
+    ],
+    "property_rate": [],
+    "rarity": 1,
+    "skill_id": [],
+    "speciality": "<[NA]>",
+    "tech": 1,
+    "torpedo_ammo": 0,
+    "type": 2,
+    "value_1": "0",
+    "value_2": 0,
+    "value_3": 0,
+    "weapon_id": [
+      171001
+    ]
+  },
+  "80632": {
+    "base": 80631,
+    "hidden_skill_id": [],
+    "id": 80632,
+    "name": "专属弹幕-柯尼斯堡METAII",
+    "weapon_id": [
+      171002
     ]
   },
   "85000": {
@@ -173756,6 +173858,8 @@
     72272,
     72281,
     72282,
+    72291,
+    72292,
     72311,
     72312,
     72411,
@@ -174168,6 +174272,8 @@
     80612,
     80621,
     80622,
+    80631,
+    80632,
     85000,
     85001,
     85002,

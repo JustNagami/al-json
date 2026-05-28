@@ -169450,6 +169450,30 @@
     "type": 0,
     "virtual_type": 21
   },
+  "65117": {
+    "album_config": "",
+    "combination_display": [],
+    "display": "キャンペーン「シーズン任務」で累計獲得数報酬を入手するための任務Ptアイテム。キャンペーン終了後に削除されます",
+    "display_icon": [],
+    "drop_gold_max": 0,
+    "drop_oil_max": 0,
+    "icon": "props/battlepass_pt",
+    "id": 65117,
+    "index": [],
+    "is_world": 0,
+    "link_id": 7029,
+    "max_num": 0,
+    "name": "進捗Pt",
+    "order": 0,
+    "price": [],
+    "rarity": 2,
+    "replace_item": 0,
+    "shiptrans_id": [],
+    "shop_id": -1,
+    "time_limit": 0,
+    "type": 0,
+    "virtual_type": 21
+  },
   "65500": {
     "album_config": [
       1,
@@ -179635,6 +179659,30 @@
     "type": 98,
     "virtual_type": 0
   },
+  "65990": {
+    "album_config": "",
+    "combination_display": [],
+    "display": "「試着貸出」対象になった着せ替えを一定時間内使用可能にするチケット。イベント終了（2026.6.11まで）で削除されます",
+    "display_icon": [],
+    "drop_gold_max": 0,
+    "drop_oil_max": 0,
+    "icon": "Props/skinTicket",
+    "id": 65990,
+    "index": [],
+    "is_world": 0,
+    "link_id": 0,
+    "max_num": 0,
+    "name": "試着貸出チケット（2026.6.11まで）",
+    "order": 0,
+    "price": [],
+    "rarity": 4,
+    "replace_item": 0,
+    "shiptrans_id": [],
+    "shop_id": 1,
+    "time_limit": 0,
+    "type": 98,
+    "virtual_type": 0
+  },
   "66001": {
     "album_config": "",
     "combination_display": [],
@@ -179923,6 +179971,30 @@
     "type": 0,
     "virtual_type": 22
   },
+  "66020": {
+    "album_config": "",
+    "combination_display": [],
+    "display": "「試着貸出」対象になった着せ替えを一定時間内使用可能にするチケット。イベント終了（2026.6.11まで）で削除されます",
+    "display_icon": [],
+    "drop_gold_max": 0,
+    "drop_oil_max": 0,
+    "icon": "Props/skinTicket",
+    "id": 66020,
+    "index": [],
+    "is_world": 0,
+    "link_id": 0,
+    "max_num": 0,
+    "name": "試着貸出チケット（2026.6.11まで）",
+    "order": 0,
+    "price": [],
+    "rarity": 4,
+    "replace_item": 0,
+    "shiptrans_id": [],
+    "shop_id": 1,
+    "time_limit": 0,
+    "type": 98,
+    "virtual_type": 0
+  },
   "66021": {
     "album_config": "",
     "combination_display": [],
@@ -180018,6 +180090,54 @@
     "time_limit": 0,
     "type": 98,
     "virtual_type": 0
+  },
+  "66037": {
+    "album_config": "",
+    "combination_display": [],
+    "display": "イベント「小さき仙人の　背伸び」・友好度",
+    "display_icon": [],
+    "drop_gold_max": 0,
+    "drop_oil_max": 0,
+    "icon": "Props/xiaoyunxian_pt",
+    "id": 66037,
+    "index": [],
+    "is_world": 0,
+    "link_id": 0,
+    "max_num": 0,
+    "name": "友好度-雲仙ちゃん",
+    "order": 0,
+    "price": [],
+    "rarity": 2,
+    "replace_item": 0,
+    "shiptrans_id": [],
+    "shop_id": -1,
+    "time_limit": 0,
+    "type": 98,
+    "virtual_type": 0
+  },
+  "66038": {
+    "album_config": "",
+    "combination_display": [],
+    "display": "看不到看不到",
+    "display_icon": [],
+    "drop_gold_max": 0,
+    "drop_oil_max": 0,
+    "icon": "Props/xiaoyunxian_pt",
+    "id": 66038,
+    "index": [],
+    "is_world": 0,
+    "link_id": 51012,
+    "max_num": 0,
+    "name": "小云仙转换虚拟道具（不显示）",
+    "order": 0,
+    "price": [],
+    "rarity": 2,
+    "replace_item": 0,
+    "shiptrans_id": [],
+    "shop_id": -1,
+    "time_limit": 0,
+    "type": 0,
+    "virtual_type": 17
   },
   "68081": {
     "album_config": "",
@@ -188328,6 +188448,55 @@
     "drop_oil_max": 0,
     "icon": "Props/clothIcon",
     "id": 86227,
+    "index": [],
+    "is_world": 0,
+    "link_id": 0,
+    "max_num": 0,
+    "name": "ランダム衣装",
+    "order": 0,
+    "price": [],
+    "rarity": 4,
+    "replace_item": 0,
+    "shiptrans_id": [],
+    "shop_id": -1,
+    "time_limit": 0,
+    "type": 98,
+    "virtual_type": 0
+  },
+  "86228": {
+    "album_config": "",
+    "combination_display": [
+      [
+        499063,
+        1300
+      ],
+      [
+        201355,
+        1300
+      ],
+      [
+        899013,
+        1300
+      ],
+      [
+        402074,
+        1600
+      ],
+      [
+        502013,
+        2000
+      ],
+      [
+        107225,
+        2500
+      ]
+    ],
+    "display": "不会被看到",
+    "display_icon": [],
+    "drop_gold_max": 0,
+    "drop_oil_max": 0,
+    "icon": "Props/clothIcon",
+    "id": 86228,
     "index": [],
     "is_world": 0,
     "link_id": 0,
@@ -247008,7 +247177,7 @@
       ],
       [
         4,
-        101071,
+        103021,
         1
       ],
       [
@@ -247143,7 +247312,7 @@
       ],
       [
         4,
-        101071,
+        103021,
         1
       ],
       [
@@ -247278,7 +247447,7 @@
       ],
       [
         4,
-        101071,
+        103021,
         1
       ],
       [
@@ -247823,7 +247992,7 @@
       ],
       [
         4,
-        101071,
+        103021,
         1
       ],
       [
@@ -247958,7 +248127,7 @@
       ],
       [
         4,
-        101071,
+        103021,
         1
       ],
       [
@@ -248093,7 +248262,7 @@
       ],
       [
         4,
-        101071,
+        103021,
         1
       ],
       [
@@ -251435,6 +251604,7 @@
     65113,
     65115,
     65116,
+    65117,
     65500,
     65501,
     65502,
@@ -251733,6 +251903,7 @@
     65901,
     65902,
     65903,
+    65990,
     65910,
     65918,
     65919,
@@ -251817,6 +251988,9 @@
     66014,
     66018,
     66019,
+    66020,
+    66037,
+    66038,
     66021,
     66022,
     66031,
@@ -252126,6 +252300,7 @@
     86225,
     86226,
     86227,
+    86228,
     100000,
     100002,
     110000,
@@ -253356,6 +253531,7 @@
       65112,
       65113,
       65116,
+      65117,
       65501,
       65502,
       65503,
@@ -253637,6 +253813,7 @@
       66012,
       66014,
       66019,
+      66038,
       66022,
       68800,
       68801,
@@ -254373,6 +254550,7 @@
       65887,
       65901,
       65902,
+      65990,
       65910,
       65918,
       65919,
@@ -254381,6 +254559,8 @@
       65989,
       66013,
       66018,
+      66020,
+      66037,
       66021,
       66031,
       66036,
@@ -254442,6 +254622,7 @@
       86225,
       86226,
       86227,
+      86228,
       110002
     ],
     "99": [
