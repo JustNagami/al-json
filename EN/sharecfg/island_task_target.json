@@ -5514,6 +5514,81 @@
     "tips": "",
     "type": 1001
   },
+  "900020011": {
+    "id": 900020011,
+    "jump_ui": "",
+    "name": "Pet a cat.",
+    "target_num": 1,
+    "target_param": [
+      6201
+    ],
+    "tips": "",
+    "type": 1
+  },
+  "900020021": {
+    "id": 900020021,
+    "jump_ui": "",
+    "name": "获得任意农田作物个数*30",
+    "target_num": 30,
+    "target_param": [
+      10121
+    ],
+    "tips": "10010040",
+    "type": 53
+  },
+  "900020031": {
+    "id": 900020031,
+    "jump_ui": "6",
+    "name": "Complete island requests.",
+    "target_num": 1,
+    "target_param": [
+      0
+    ],
+    "tips": "",
+    "type": 54
+  },
+  "900020041": {
+    "id": 900020041,
+    "jump_ui": "",
+    "name": "Assign a character to a material production slot.",
+    "target_num": 1,
+    "target_param": [
+      0
+    ],
+    "tips": "",
+    "type": 7
+  },
+  "900020051": {
+    "id": 900020051,
+    "jump_ui": "",
+    "name": "Interact with any character.",
+    "target_num": 1,
+    "target_param": "",
+    "tips": "",
+    "type": 55
+  },
+  "900020061": {
+    "id": 900020061,
+    "jump_ui": "7",
+    "name": "Complete 1 Transport Job.",
+    "target_num": 1,
+    "target_param": [
+      0
+    ],
+    "tips": "",
+    "type": 12
+  },
+  "900020071": {
+    "id": 900020071,
+    "jump_ui": "",
+    "name": "获得任意餐品三次",
+    "target_num": 3,
+    "target_param": [
+      20000
+    ],
+    "tips": "",
+    "type": 53
+  },
   "all": [
     101,
     201,
@@ -6016,6 +6091,13 @@
     900010101,
     900010111,
     900010121,
-    900010201
+    900010201,
+    900020011,
+    900020021,
+    900020031,
+    900020041,
+    900020051,
+    900020061,
+    900020071
   ]
 }

@@ -25533,6 +25533,69 @@
     "type": 2,
     "type_order": 0
   },
+  "60805": {
+    "akashi_pick": 0,
+    "collaboration_skin_time": "",
+    "desc": "980钻石购买限时礼包-比翼双飞(260605国服周年第三弹版本)",
+    "discount": 0,
+    "discount_time": [],
+    "effect_args": [
+      40100
+    ],
+    "first_icon": "",
+    "first_text": "",
+    "genre": "gift_package",
+    "group": 0,
+    "group_buy_count": 0,
+    "group_limit": 0,
+    "group_type": 0,
+    "id": 60805,
+    "limit_args": [
+      [
+        "time",
+        1
+      ]
+    ],
+    "limit_args2": "",
+    "num": 1,
+    "order": 0,
+    "package_sort_id": 0,
+    "package_tag": "",
+    "package_tag_open": 0,
+    "resource_num": 980,
+    "resource_type": 14,
+    "second_text": "",
+    "tag": 2,
+    "time": [
+      [
+        [
+          2026,
+          6,
+          5
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2026,
+          6,
+          17
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
+    "time_second": 0,
+    "type": 2,
+    "type_order": 5
+  },
   "61001": {
     "akashi_pick": 0,
     "collaboration_skin_time": "",
@@ -79354,6 +79417,64 @@
     "type": 6,
     "type_order": 0
   },
+  "71356": {
+    "akashi_pick": 0,
+    "collaboration_skin_time": "",
+    "desc": "购买皮肤:260605胡德SPINE",
+    "discount": 0,
+    "discount_time": [],
+    "effect_args": [
+      204035
+    ],
+    "first_icon": "",
+    "first_text": "",
+    "genre": "skin_shop",
+    "group": 0,
+    "group_buy_count": 0,
+    "group_limit": 0,
+    "group_type": 0,
+    "id": 71356,
+    "limit_args": [],
+    "limit_args2": "",
+    "num": 1,
+    "order": 6,
+    "package_sort_id": 0,
+    "package_tag": "",
+    "package_tag_open": 0,
+    "resource_num": 980,
+    "resource_type": 14,
+    "second_text": "",
+    "tag": 2,
+    "time": [
+      [
+        [
+          2026,
+          6,
+          5
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2026,
+          6,
+          17
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
+    "time_second": 0,
+    "type": 6,
+    "type_order": 0
+  },
   "90001": {
     "akashi_pick": 0,
     "collaboration_skin_time": "",
@@ -109399,6 +109520,7 @@
     60792,
     60793,
     60794,
+    60805,
     61001,
     61002,
     61003,
@@ -110666,6 +110788,7 @@
     71353,
     71354,
     71355,
+    71356,
     90001,
     90002,
     90003,
@@ -111757,6 +111880,7 @@
       60792,
       60793,
       60794,
+      60805,
       61025,
       61031,
       99999,
@@ -113227,7 +113351,8 @@
       71352,
       71353,
       71354,
-      71355
+      71355,
+      71356
     ],
     "skin_shop_timelimit": [
       90001,

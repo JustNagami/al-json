@@ -162,16 +162,16 @@
       "isTip": "function()\n\t\t\tlocal var_29_0 = getProxy(ActivityProxy):getActivityById(ActivityConst.DOA_MEDAL_ACT_ID)\n\n\t\t\treturn Activity.IsActivityReady(var_29_0)\n\t\tend"
     },
     {
-      "banner": "meta_entrance_970211",
+      "banner": "meta_entrance_970112",
       "event": "ActivityMediator.EVENT_GO_SCENE",
       "data": [
         "SCENE.METACHARACTER",
         {
-          "autoOpenShipConfigID": 9702111
+          "autoOpenShipConfigID": 9701121
         }
       ],
-      "isShow": "function()\n\t\t\tlocal var_30_0 = 970211\n\t\t\tlocal var_30_1 = getProxy(MetaCharacterProxy):getMetaProgressVOByID(var_30_0)\n\n\t\t\treturn var_30_1 and var_30_1:isInAct()\n\t\tend",
-      "isTip": "function()\n\t\t\tlocal var_31_0 = 970211\n\t\t\tlocal var_31_1 = getProxy(MetaCharacterProxy):getMetaProgressVOByID(var_31_0)\n\n\t\t\tif var_31_1:isPassType() then\n\t\t\t\treturn false\n\t\t\tend\n\n\t\t\tif not var_31_1:isShow() then\n\t\t\t\treturn false\n\t\t\tend\n\n\t\t\tlocal var_31_2 = false\n\n\t\t\tif var_31_1.metaPtData then\n\t\t\t\tvar_31_2 = var_31_1.metaPtData:CanGetAward()\n\t\t\tend\n\n\t\t\tif var_31_2 == false then\n\t\t\t\tvar_31_2 = getProxy(MetaCharacterProxy):getRedTag(var_31_0)\n\t\t\tend\n\n\t\t\treturn var_31_2\n\t\tend"
+      "isShow": "function()\n\t\t\tlocal var_30_0 = 970112\n\t\t\tlocal var_30_1 = getProxy(MetaCharacterProxy):getMetaProgressVOByID(var_30_0)\n\n\t\t\treturn var_30_1 and var_30_1:isInAct()\n\t\tend",
+      "isTip": "function()\n\t\t\tlocal var_31_0 = 970112\n\t\t\tlocal var_31_1 = getProxy(MetaCharacterProxy):getMetaProgressVOByID(var_31_0)\n\n\t\t\tif var_31_1:isPassType() then\n\t\t\t\treturn false\n\t\t\tend\n\n\t\t\tif not var_31_1:isShow() then\n\t\t\t\treturn false\n\t\t\tend\n\n\t\t\tlocal var_31_2 = false\n\n\t\t\tif var_31_1.metaPtData then\n\t\t\t\tvar_31_2 = var_31_1.metaPtData:CanGetAward()\n\t\t\tend\n\n\t\t\tif var_31_2 == false then\n\t\t\t\tvar_31_2 = getProxy(MetaCharacterProxy):getRedTag(var_31_0)\n\t\t\tend\n\n\t\t\treturn var_31_2\n\t\tend"
     },
     {
       "banner": "activity_permanent",

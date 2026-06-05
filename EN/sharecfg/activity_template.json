@@ -39484,6 +39484,52 @@
     "title_res_tag": "survey",
     "type": 101
   },
+  "7114": {
+    "config_client": "",
+    "config_data": [
+      1,
+      30
+    ],
+    "config_id": 1013,
+    "id": 7114,
+    "is_show": 35,
+    "login_pop": 0,
+    "mark": 20260605,
+    "page_core": "",
+    "page_info": {
+      "class_name": "SurveyPage",
+      "ui_name": "SurveyPage"
+    },
+    "time": [
+      "timer",
+      [
+        [
+          2026,
+          6,
+          5
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2026,
+          6,
+          11
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
+    "title_res_tag": "survey",
+    "type": 101
+  },
   "7301": {
     "config_client": [
       [
@@ -79205,7 +79251,7 @@
     "config_data": [],
     "config_id": 1,
     "id": 50612,
-    "is_show": 7,
+    "is_show": 8,
     "login_pop": 0,
     "mark": 20250520,
     "page_core": "AnniversaryNineCoreActivityUI",
@@ -79697,6 +79743,106 @@
     ],
     "title_res_tag": "",
     "type": 16
+  },
+  "50630": {
+    "config_client": {
+      "story": [
+        [
+          "HONGSHULINDESHOUHUJINGLING1"
+        ]
+      ],
+      "subType": 1,
+      "unlock_task": [
+        [
+          27155,
+          27156
+        ],
+        [
+          27157,
+          27158
+        ],
+        [
+          27159,
+          27160
+        ],
+        [
+          27161,
+          27162
+        ],
+        [
+          27163,
+          27164
+        ],
+        [
+          27165,
+          27166
+        ],
+        [
+          27167,
+          27168
+        ]
+      ]
+    },
+    "config_data": [
+      [
+        27155,
+        27156,
+        27157,
+        27158,
+        27159,
+        27160,
+        27161,
+        27162,
+        27163,
+        27164,
+        27165,
+        27166,
+        27167,
+        27168
+      ]
+    ],
+    "config_id": 3,
+    "id": 50630,
+    "is_show": 6,
+    "login_pop": 0,
+    "mark": 20260605,
+    "page_core": "AnniversaryNineCoreActivityUI",
+    "page_info": {
+      "class_name": "AnniversaryNineEvertsenSkinPage",
+      "sub_ui": [
+        "AnniversaryNineEvertsenTaskWinidow"
+      ],
+      "ui_name": "AnniversaryNineEvertsenSkinPage"
+    },
+    "time": [
+      "timer",
+      [
+        [
+          2026,
+          6,
+          5
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2026,
+          6,
+          17
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
+    "title_res_tag": "OutPostCoreActivityUI_subtitle_4",
+    "type": 18
   },
   "50801": {
     "config_client": "",
@@ -81347,7 +81493,7 @@
     ],
     "config_id": 0,
     "id": 51001,
-    "is_show": 6,
+    "is_show": 7,
     "login_pop": 0,
     "mark": 20260514,
     "page_core": "AnniversaryNineCoreActivityUI",
@@ -81525,6 +81671,7 @@
         416,
         417
       ],
+      "subType": 1,
       "task_id": 27025,
       "unlock_task": [
         [
@@ -81583,6 +81730,9 @@
     "page_core": "GeZiURCoreActivityUI",
     "page_info": {
       "class_name": "OutPostOmenPage",
+      "sub_ui": [
+        "OutPostOmenTaskWindow"
+      ],
       "ui_name": "OutPostOmenPage"
     },
     "time": [
@@ -81706,6 +81856,7 @@
           "RUOQIZHIGUANG1"
         ]
       ],
+      "subType": 1,
       "unlock_task": [
         [
           27141,
@@ -81763,6 +81914,9 @@
     "page_core": "AnniversaryNineCoreActivityUI",
     "page_info": {
       "class_name": "AnniversaryNineHwahJahSkinPage",
+      "sub_ui": [
+        "AnniversaryNineHwahJahTaskWindow"
+      ],
       "ui_name": "AnniversaryNineHwahJahSkinPage"
     },
     "time": [
@@ -83260,6 +83414,46 @@
     "title_res_tag": "",
     "type": 800
   },
+  "990021": {
+    "config_client": "",
+    "config_data": [],
+    "config_id": 0,
+    "id": 990021,
+    "is_show": 0,
+    "login_pop": 0,
+    "mark": 20260605,
+    "page_core": "",
+    "page_info": "",
+    "time": [
+      "timer",
+      [
+        [
+          2026,
+          6,
+          5
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2026,
+          6,
+          18
+        ],
+        [
+          12,
+          0,
+          0
+        ]
+      ]
+    ],
+    "title_res_tag": "",
+    "type": 18
+  },
   "999901": {
     "config_client": "",
     "config_data": [],
@@ -84444,6 +84638,7 @@
     50623,
     50624,
     50625,
+    50630,
     51001,
     51002,
     51003,
@@ -84484,6 +84679,7 @@
     7108,
     7109,
     7112,
+    7114,
     7301,
     7501,
     7502,
@@ -85242,6 +85438,7 @@
     990018,
     990019,
     990020,
+    990021,
     999901
   ],
   "get_id_list_by_type": {
@@ -86271,6 +86468,7 @@
       50471,
       50480,
       50610,
+      50630,
       51001,
       51005,
       51011,
@@ -86344,7 +86542,8 @@
       30706,
       30711,
       30726,
-      30835
+      30835,
+      990021
     ],
     "19": [
       1093,
@@ -87285,7 +87484,8 @@
       7107,
       7108,
       7109,
-      7112
+      7112,
+      7114
     ],
     "102": [
       4887

@@ -35769,6 +35769,41 @@
     "trans_type": 0,
     "type": 6
   },
+  "30062": {
+    "code": 30062,
+    "description": [
+      [
+        "META Lab - Coordinate Analysis",
+        [
+          "METACHARACTER",
+          {
+            "autoOpenShipConfigID": 9701121
+          }
+        ],
+        0
+      ]
+    ],
+    "group_type": 970112,
+    "handbook_type": 3,
+    "hide": 0,
+    "index_id": 30062,
+    "nationality": 97,
+    "property_hexagon": [
+      "B",
+      "B",
+      "E",
+      "B",
+      "A",
+      "C"
+    ],
+    "redirect_id": 101,
+    "share_group_id": [],
+    "trans_radar_chart": [],
+    "trans_skill": [],
+    "trans_skin": 0,
+    "trans_type": 0,
+    "type": 1
+  },
   "all": [
     1,
     2,
@@ -36629,7 +36664,8 @@
     30059,
     30058,
     30060,
-    30061
+    30061,
+    30062
   ],
   "get_id_list_by_group_type": {
     "10000": [
@@ -38813,6 +38849,9 @@
     "970111": [
       30056
     ],
+    "970112": [
+      30062
+    ],
     "970201": [
       30003
     ],
@@ -40080,7 +40119,8 @@
       30059,
       30058,
       30060,
-      30061
+      30061,
+      30062
     ]
   }
 }

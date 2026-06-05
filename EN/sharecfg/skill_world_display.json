@@ -3907,6 +3907,20 @@
     "desc_get_add": [],
     "id": 802202
   },
+  "802271": {
+    "desc": "[Operation Siren]\nEvery 15 times this ship fires her Main Guns: fires a special barrage. When fighting humanoid Siren fleets or Boss fleets: increases this ship's DMG dealt by 2.0%.",
+    "desc_add": [],
+    "desc_get": "",
+    "desc_get_add": [],
+    "id": 802271
+  },
+  "802272": {
+    "desc": "[Operation Siren]\nEvery 10 times this ship fires her Main Guns: fires a special barrage. When fighting humanoid Siren fleets or Boss fleets: increases this ship's DMG dealt by 2.0%.",
+    "desc_add": [],
+    "desc_get": "",
+    "desc_get_add": [],
+    "id": 802272
+  },
   "1019260": {
     "desc": "[Operation Siren]\nIncreases this ship's FP and ACC by $1 and Crit Rate by $2. Each Main Gun reload gives this ship 2 Salvoes that can be fired independently, with each Salvo consisting of 1 Volley (this effect is not affected by the Tolls of War debuff). This ship's DMG bonus with manually aimed Salvoes becomes $4. When the battle starts, and every 15s: $3 chance to fire a powerful special barrage (DMG is based on the skill's level).",
     "desc_add": [
@@ -4189,6 +4203,8 @@
     802141,
     802142,
     802201,
-    802202
+    802202,
+    802271,
+    802272
   ]
 }
