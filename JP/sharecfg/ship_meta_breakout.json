@@ -692,6 +692,69 @@
     "repair": 0,
     "weapon_ids": []
   },
+  "9701121": {
+    "breakout_id": 9701122,
+    "breakout_view": "スキル【焔追の灰・ブリストル】習得/武器補正+2%",
+    "gold": 1000,
+    "id": 9701121,
+    "item1": 21062,
+    "item1_num": 1,
+    "item2": 21001,
+    "item2_num": 0,
+    "level": 10,
+    "pre_id": 0,
+    "repair": 0,
+    "weapon_ids": [
+      80641
+    ]
+  },
+  "9701122": {
+    "breakout_id": 9701123,
+    "breakout_view": "魚雷装填数+1/開始時魚雷+1/武器補正+3％",
+    "gold": 3000,
+    "id": 9701122,
+    "item1": 21062,
+    "item1_num": 1,
+    "item2": 21001,
+    "item2_num": 0,
+    "level": 30,
+    "pre_id": 9701121,
+    "repair": 0,
+    "weapon_ids": [
+      108,
+      108
+    ]
+  },
+  "9701123": {
+    "breakout_id": 9701124,
+    "breakout_view": "スキル【焔追の灰・ブリストル】強化/武器補正+5%",
+    "gold": 10000,
+    "id": 9701123,
+    "item1": 21062,
+    "item1_num": 2,
+    "item2": 21001,
+    "item2_num": 0,
+    "level": 70,
+    "pre_id": 9701122,
+    "repair": 0,
+    "weapon_ids": [
+      80642
+    ]
+  },
+  "9701124": {
+    "breakout_id": 0,
+    "breakout_view": "なし",
+    "gold": 0,
+    "id": 9701124,
+    "item1": 21062,
+    "item1_num": 0,
+    "item2": 21001,
+    "item2_num": 0,
+    "level": 0,
+    "pre_id": 9701123,
+    "repair": 0,
+    "weapon_ids": []
+  },
   "9702011": {
     "breakout_id": 9702012,
     "breakout_view": "【炬火の力-ヘレナ】習得/主砲補正+5%",
@@ -4020,6 +4083,10 @@
     9701112,
     9701113,
     9701114,
+    9701121,
+    9701122,
+    9701123,
+    9701124,
     9702011,
     9702012,
     9702013,

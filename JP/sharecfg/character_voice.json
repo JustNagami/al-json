@@ -83,7 +83,8 @@
     "asmr_007",
     "asmr_008",
     "asmr_009",
-    "asmr_010"
+    "asmr_010",
+    "gift_prefer"
   ],
   "asmr_001": {
     "key": "asmr_001",
@@ -604,6 +605,19 @@
       10000
     ],
     "voice_name": "ラブ"
+  },
+  "gift_prefer": {
+    "key": "gift_prefer",
+    "l2d_action": "",
+    "profile_index": 78,
+    "resource_key": "present_like",
+    "sp_trans_l2d": 0,
+    "spine_action": "normal",
+    "unlock_condition": [
+      0,
+      0
+    ],
+    "voice_name": "プレゼント"
   },
   "headtouch": {
     "key": "headtouch",

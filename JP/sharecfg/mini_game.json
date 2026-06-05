@@ -3792,6 +3792,74 @@
     "type": 1,
     "view_name": "GameRoomFushun3View"
   },
+  "1025": {
+    "config_csv": "",
+    "config_csv_key": "",
+    "config_data": "",
+    "game_room": 24,
+    "hub_id": 45,
+    "id": 1025,
+    "is_ranking": 0,
+    "mediator_name": "MiniHubMediator",
+    "name": "小游戏厅躲猫猫",
+    "request_data": 1,
+    "simple_config_data": [],
+    "type": 1,
+    "view_name": "GameRoomHideSeekView"
+  },
+  "1026": {
+    "config_csv": "",
+    "config_csv_key": "",
+    "config_data": "",
+    "game_room": 25,
+    "hub_id": 45,
+    "id": 1026,
+    "is_ranking": 0,
+    "mediator_name": "MiniHubMediator",
+    "name": "小游戏厅冰激凌",
+    "request_data": 1,
+    "simple_config_data": {
+      "drop_ids": [
+        [
+          2,
+          54050,
+          2
+        ],
+        [
+          1,
+          1,
+          300
+        ],
+        [
+          2,
+          54051,
+          1
+        ],
+        [
+          1,
+          1,
+          300
+        ],
+        [
+          2,
+          50004,
+          5
+        ],
+        [
+          2,
+          20012,
+          2
+        ],
+        [
+          14,
+          601,
+          1
+        ]
+      ]
+    },
+    "type": 1,
+    "view_name": "GameRoomIceCreamView"
+  },
   "all": [
     1,
     2,
@@ -3899,6 +3967,8 @@
     1018,
     1019,
     1020,
-    1021
+    1021,
+    1025,
+    1026
   ]
 }

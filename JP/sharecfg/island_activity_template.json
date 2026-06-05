@@ -1,6 +1,8 @@
 {
   "990001": {
     "ability_id": 33001,
+    "config_client": "",
+    "config_data": "",
     "config_id": 0,
     "id": 990001,
     "is_show": 99,
@@ -12,6 +14,8 @@
   },
   "990002": {
     "ability_id": 34001,
+    "config_client": "",
+    "config_data": "",
     "config_id": 0,
     "id": 990002,
     "is_show": 0,
@@ -20,6 +24,8 @@
   },
   "990003": {
     "ability_id": 35001,
+    "config_client": "",
+    "config_data": "",
     "config_id": 0,
     "id": 990003,
     "is_show": 0,
@@ -28,6 +34,8 @@
   },
   "990004": {
     "ability_id": 36001,
+    "config_client": "",
+    "config_data": "",
     "config_id": 0,
     "id": 990004,
     "is_show": 0,
@@ -36,6 +44,8 @@
   },
   "990005": {
     "ability_id": 33001,
+    "config_client": "",
+    "config_data": "",
     "config_id": 0,
     "id": 990005,
     "is_show": 99,
@@ -47,6 +57,8 @@
   },
   "990006": {
     "ability_id": 34001,
+    "config_client": "",
+    "config_data": "",
     "config_id": 0,
     "id": 990006,
     "is_show": 0,
@@ -55,6 +67,8 @@
   },
   "990007": {
     "ability_id": 35001,
+    "config_client": "",
+    "config_data": "",
     "config_id": 0,
     "id": 990007,
     "is_show": 0,
@@ -63,6 +77,8 @@
   },
   "990008": {
     "ability_id": 36001,
+    "config_client": "",
+    "config_data": "",
     "config_id": 0,
     "id": 990008,
     "is_show": 0,
@@ -71,6 +87,8 @@
   },
   "990011": {
     "ability_id": 33001,
+    "config_client": "",
+    "config_data": "",
     "config_id": 0,
     "id": 990011,
     "is_show": 99,
@@ -82,6 +100,8 @@
   },
   "990013": {
     "ability_id": 2,
+    "config_client": "",
+    "config_data": "",
     "config_id": 0,
     "id": 990013,
     "is_show": 0,
@@ -90,6 +110,8 @@
   },
   "990014": {
     "ability_id": 2,
+    "config_client": "",
+    "config_data": "",
     "config_id": 0,
     "id": 990014,
     "is_show": 1,
@@ -101,6 +123,8 @@
   },
   "990015": {
     "ability_id": 2,
+    "config_client": "",
+    "config_data": "",
     "config_id": 1,
     "id": 990015,
     "is_show": 1,
@@ -112,6 +136,8 @@
   },
   "990016": {
     "ability_id": 33001,
+    "config_client": "",
+    "config_data": "",
     "config_id": 0,
     "id": 990016,
     "is_show": 99,
@@ -123,6 +149,8 @@
   },
   "990017": {
     "ability_id": 34001,
+    "config_client": "",
+    "config_data": "",
     "config_id": 0,
     "id": 990017,
     "is_show": 0,
@@ -131,6 +159,8 @@
   },
   "990018": {
     "ability_id": 35001,
+    "config_client": "",
+    "config_data": "",
     "config_id": 0,
     "id": 990018,
     "is_show": 0,
@@ -139,11 +169,48 @@
   },
   "990019": {
     "ability_id": 36001,
+    "config_client": "",
+    "config_data": "",
     "config_id": 0,
     "id": 990019,
     "is_show": 0,
     "page_info": "",
     "title_res_tag": ""
+  },
+  "990021": {
+    "ability_id": 0,
+    "config_client": "",
+    "config_data": [
+      [
+        90002001
+      ],
+      [
+        90002002
+      ],
+      [
+        90002003
+      ],
+      [
+        90002004
+      ],
+      [
+        90002005
+      ],
+      [
+        90002006
+      ],
+      [
+        90002007
+      ]
+    ],
+    "config_id": 0,
+    "id": 990021,
+    "is_show": 1,
+    "page_info": {
+      "class_name": "IslandMechaTaskPage",
+      "ui_name": "IslandMechaTaskPage"
+    },
+    "title_res_tag": "コア接続"
   },
   "all": [
     990001,
@@ -161,6 +228,7 @@
     990016,
     990017,
     990018,
-    990019
+    990019,
+    990021
   ]
 }
