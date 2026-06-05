@@ -14099,6 +14099,82 @@
     "unlock": "",
     "weight": 0
   },
+  "461060015": {
+    "desc": "购买可获得指挥官“动力装甲”皮肤装扮",
+    "discount": 0,
+    "discount_time": "",
+    "goods_detail_type": 2,
+    "goods_have": 0,
+    "goods_name": "动力装甲",
+    "groups_detail_type": "",
+    "have_show": 1,
+    "icon": "IslandDressIcon/dress_1060015",
+    "id": 461060015,
+    "items": [
+      [
+        46,
+        1060015,
+        1
+      ],
+      [
+        46,
+        1060014,
+        1
+      ],
+      [
+        46,
+        1070015,
+        1
+      ]
+    ],
+    "items_model": "",
+    "limited_num": 1,
+    "limited_show": 0,
+    "model_param": [
+      [
+        0,
+        0
+      ],
+      0,
+      1
+    ],
+    "pay_id": 0,
+    "pt_award": 0,
+    "remian_show": 1,
+    "resource_consume": [
+      1,
+      14,
+      1100
+    ],
+    "time": [
+      [
+        [
+          2026,
+          6,
+          5
+        ],
+        [
+          12,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2026,
+          6,
+          18
+        ],
+        [
+          12,
+          0,
+          0
+        ]
+      ]
+    ],
+    "unlock": "",
+    "weight": 0
+  },
   "471011001": {
     "desc": "购买可获得威廉·D·波特“元气满载！”皮肤装扮",
     "discount": 0,
@@ -14810,6 +14886,7 @@
     99000201,
     99000202,
     99000301,
-    99000302
+    99000302,
+    461060015
   ]
 }

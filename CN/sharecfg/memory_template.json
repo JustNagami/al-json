@@ -75387,6 +75387,24 @@
     ],
     "year": 0
   },
+  "5221": {
+    "condition": "开始「红树林的守护精灵」活动",
+    "icon": "memory_hongshulindeshouhujingling",
+    "id": 5221,
+    "is_open": 0,
+    "mask": "bg/bg_memory",
+    "number": 0,
+    "ship_group": 0,
+    "story": "HONGSHULINDESHOUHUJINGLING1",
+    "subtitle": "",
+    "task": 0,
+    "title": "红树林的守护精灵",
+    "type": 1,
+    "unlock_pre": [
+      "HONGSHULINDESHOUHUJINGLING1"
+    ],
+    "year": 0
+  },
   "10011": {
     "condition": "完成长岛任务1",
     "icon": "changdao",
@@ -84490,6 +84508,7 @@
     5203,
     5204,
     5211,
+    5221,
     10011,
     10012,
     10013,
