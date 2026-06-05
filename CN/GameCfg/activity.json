@@ -162,7 +162,7 @@
       "isTip": "function()\n\t\t\tlocal var_29_0 = getProxy(ActivityProxy):getActivityById(ActivityConst.DOA_MEDAL_ACT_ID)\n\n\t\t\treturn Activity.IsActivityReady(var_29_0)\n\t\tend"
     },
     {
-      "banner": "970112",
+      "banner": "meta_entrance_970112",
       "event": "ActivityMediator.EVENT_GO_SCENE",
       "data": [
         "SCENE.METACHARACTER",
