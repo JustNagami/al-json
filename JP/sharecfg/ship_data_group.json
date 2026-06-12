@@ -24723,6 +24723,17 @@
           ""
         ],
         0
+      ],
+      [
+        "小型艦建造",
+        [
+          "GETBOAT",
+          {
+            "page": 1,
+            "projectName": "light"
+          }
+        ],
+        0
       ]
     ],
     "group_type": 40199,
@@ -24753,6 +24764,16 @@
         "イベント：覆天せし万象の塵",
         [
           ""
+        ],
+        0
+      ],
+      [
+        "演習ショップ(ランダム出現)",
+        [
+          "SHOP",
+          {
+            "warp": "supplies"
+          }
         ],
         0
       ]
@@ -24787,6 +24808,17 @@
           ""
         ],
         0
+      ],
+      [
+        "小型艦建造",
+        [
+          "GETBOAT",
+          {
+            "page": 1,
+            "projectName": "light"
+          }
+        ],
+        0
       ]
     ],
     "group_type": 40210,
@@ -24817,6 +24849,28 @@
         "イベント：覆天せし万象の塵",
         [
           ""
+        ],
+        0
+      ],
+      [
+        "大型艦建造、特型艦建造",
+        [
+          "GETBOAT",
+          {
+            "page": 1,
+            "projectName": "special"
+          }
+        ],
+        0
+      ],
+      [
+        "常設UR交換",
+        [
+          "GETBOAT",
+          {
+            "page": 1,
+            "projectName": "heavy"
+          }
         ],
         0
       ]
@@ -34041,11 +34095,11 @@
     "code": 30005,
     "description": [
       [
-        "メタラボ・シーズン任務",
+        "METAショップ交換",
         [
-          "METACHARACTER",
+          "SHOP",
           {
-            "autoOpenShipConfigID": 9705011
+            "warp": "meta"
           }
         ],
         0
@@ -34076,11 +34130,11 @@
     "code": 30006,
     "description": [
       [
-        "メタラボ・シーズン任務",
+        "METAショップ交換",
         [
-          "METACHARACTER",
+          "SHOP",
           {
-            "autoOpenShipConfigID": 9706011
+            "warp": "meta"
           }
         ],
         0
@@ -34146,11 +34200,11 @@
     "code": 30008,
     "description": [
       [
-        "メタラボ・シーズン任務",
+        "METAショップ交換",
         [
-          "METACHARACTER",
+          "SHOP",
           {
-            "autoOpenShipConfigID": 9706021
+            "warp": "meta"
           }
         ],
         0
@@ -34216,11 +34270,11 @@
     "code": 30010,
     "description": [
       [
-        "メタラボ・シーズン任務",
+        "METAショップ交換",
         [
-          "METACHARACTER",
+          "SHOP",
           {
-            "autoOpenShipConfigID": 9705011
+            "warp": "meta"
           }
         ],
         0
@@ -34251,11 +34305,11 @@
     "code": 30011,
     "description": [
       [
-        "メタラボ・シーズン任務",
+        "METAショップ交換",
         [
-          "METACHARACTER",
+          "SHOP",
           {
-            "autoOpenShipConfigID": 9702021
+            "warp": "meta"
           }
         ],
         0
@@ -34321,11 +34375,11 @@
     "code": 30013,
     "description": [
       [
-        "メタラボ・シーズン任務",
+        "METAショップ交換",
         [
-          "METACHARACTER",
+          "SHOP",
           {
-            "autoOpenShipConfigID": 9703011
+            "warp": "meta"
           }
         ],
         0
@@ -34391,11 +34445,11 @@
     "code": 30015,
     "description": [
       [
-        "メタラボ・シーズン任務",
+        "METAショップ交換",
         [
-          "METACHARACTER",
+          "SHOP",
           {
-            "autoOpenShipConfigID": 9701011
+            "warp": "meta"
           }
         ],
         0
@@ -34426,11 +34480,11 @@
     "code": 30016,
     "description": [
       [
-        "メタラボ・シーズン任務",
+        "METAショップ交換",
         [
-          "METACHARACTER",
+          "SHOP",
           {
-            "autoOpenShipConfigID": 9701021
+            "warp": "meta"
           }
         ],
         0
@@ -34496,11 +34550,11 @@
     "code": 30018,
     "description": [
       [
-        "メタラボ・シーズン任務",
+        "METAショップ交換",
         [
-          "METACHARACTER",
+          "SHOP",
           {
-            "autoOpenShipConfigID": 9703021
+            "warp": "meta"
           }
         ],
         0
@@ -34566,11 +34620,11 @@
     "code": 30020,
     "description": [
       [
-        "メタラボ・シーズン任務",
+        "METAショップ交換",
         [
-          "METACHARACTER",
+          "SHOP",
           {
-            "autoOpenShipConfigID": 9702041
+            "warp": "meta"
           }
         ],
         0
@@ -34606,6 +34660,17 @@
           ""
         ],
         0
+      ],
+      [
+        "特型艦建造",
+        [
+          "GETBOAT",
+          {
+            "page": 1,
+            "projectName": "special"
+          }
+        ],
+        0
       ]
     ],
     "group_type": 970801,
@@ -34633,11 +34698,11 @@
     "code": 30022,
     "description": [
       [
-        "メタラボ・シーズン任務",
+        "METAショップ交換",
         [
-          "METACHARACTER",
+          "SHOP",
           {
-            "autoOpenShipConfigID": 9712011
+            "warp": "meta"
           }
         ],
         0
@@ -34703,11 +34768,11 @@
     "code": 30024,
     "description": [
       [
-        "メタラボ・シーズン任務",
+        "METAショップ交換",
         [
-          "METACHARACTER",
+          "SHOP",
           {
-            "autoOpenShipConfigID": 9701031
+            "warp": "meta"
           }
         ],
         0

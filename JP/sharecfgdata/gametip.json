@@ -3439,16 +3439,16 @@
     "tip": "施設を増築しますか？"
   },
   "buildship_heavy_tip": {
-    "tip": "「ブリュンヒルデ」「ブリュッヒャー」常設実装！"
+    "tip": "「ビスマルクZwei」常設実装！"
   },
   "buildship_light_tip": {
-    "tip": "「マルセイエーズ」常設実装！"
+    "tip": "「レーゲンスブルク」常設実装！"
   },
   "buildship_new_tip": {
     "tip": "限定建造200回で「ゲッツ・フォン・ベルリヒンゲン」を確定で入手可能！（最大4隻まで）"
   },
   "buildship_special_tip": {
-    "tip": "「インプラカブル」「アーガス」常設実装！"
+    "tip": "「ビスマルクZwei」「U-556(META)」常設実装！"
   },
   "buleprint_need_level_tip": {
     "tip": "該当艦がレベル$1で開放"
@@ -18590,6 +18590,9 @@
   "mail_takeAttachment_error_dockYrad_full": {
     "tip": "<color=#92fc63>受取失敗:</color><color=#92fc63>ドックが一杯です</color>"
   },
+  "mail_takeAttachment_error_equipment_overlimit": {
+    "tip": "下記報酬が所持可能数上限を越えているため、受け取ると自動で$1に変換されます。受け取りますか？"
+  },
   "mail_takeAttachment_error_magazine_full": {
     "tip": "<color=#92fc63>受取失敗:</color><color=#92fc63>装備倉庫が一杯です</color>"
   },
@@ -24467,6 +24470,9 @@
   "shop_skin": {
     "tip": "着せ替え"
   },
+  "shop_skin_already_inuse": {
+    "tip": "適用中"
+  },
   "shop_skin_en": {
     "tip": "NewClothes"
   },
@@ -25546,7 +25552,7 @@
     "tip": "入手済"
   },
   "tech_package_tip": {
-    "tip": "※交換アイテムは１回しか購入できません\n※交換アイテムのみを購入した場合、\n   交換アイテム＋強化ユニットセットを追加で\n   購入することはできません（強化ユニットセットは追加で購入できます）\n※購入したアイテムはメールボックスに送られます"
+    "tip": "※交換アイテムは１回しか購入できません\n※交換アイテムのみを購入した場合、\n   交換アイテム＋強化ユニットセットを追加で\n   購入することはできません（強化ユニットセットは追加で購入できます）\n※購入したアイテムはメールボックスに送られます"
   },
   "tech_select_tip1": {
     "tip": "PR艦船交換"
@@ -28439,6 +28445,9 @@
   },
   "world_consume_carry_tips": {
     "tip": "未配置tip"
+  },
+  "world_cruise_due_tips": {
+    "tip": "$1はあと$2日後に終了する予定。報酬受取を忘れずに！"
   },
   "world_daily_task_lock": {
     "tip": "デイリーミッションはセイレーン作戦4章クリアで開放されます"
