@@ -24715,6 +24715,17 @@
           ""
         ],
         0
+      ],
+      [
+        "Light ship Construction",
+        [
+          "GETBOAT",
+          {
+            "page": 1,
+            "projectName": "light"
+          }
+        ],
+        0
       ]
     ],
     "group_type": 40199,
@@ -24745,6 +24756,16 @@
         "Event: Confluence of Nothingness",
         [
           ""
+        ],
+        0
+      ],
+      [
+        "Merit Shop",
+        [
+          "SHOP",
+          {
+            "warp": "supplies"
+          }
         ],
         0
       ]
@@ -24779,6 +24800,17 @@
           ""
         ],
         0
+      ],
+      [
+        "Light ship Construction",
+        [
+          "GETBOAT",
+          {
+            "page": 1,
+            "projectName": "light"
+          }
+        ],
+        0
       ]
     ],
     "group_type": 40210,
@@ -24809,6 +24841,28 @@
         "Event: Confluence of Nothingness",
         [
           ""
+        ],
+        0
+      ],
+      [
+        "Heavy/Special Construction",
+        [
+          "GETBOAT",
+          {
+            "page": 1,
+            "projectName": "special"
+          }
+        ],
+        0
+      ],
+      [
+        "UR Exchange",
+        [
+          "GETBOAT",
+          {
+            "page": 1,
+            "projectName": "heavy"
+          }
         ],
         0
       ]
@@ -33808,11 +33862,11 @@
     "code": 30005,
     "description": [
       [
-        "Event: Cruise Missions",
+        "META Shop Exchange",
         [
-          "METACHARACTER",
+          "SHOP",
           {
-            "autoOpenShipConfigID": 9705011
+            "warp": "meta"
           }
         ],
         0
@@ -33843,11 +33897,11 @@
     "code": 30006,
     "description": [
       [
-        "Event: Cruise Missions",
+        "META Shop Exchange",
         [
-          "METACHARACTER",
+          "SHOP",
           {
-            "autoOpenShipConfigID": 9706011
+            "warp": "meta"
           }
         ],
         0
@@ -33913,11 +33967,11 @@
     "code": 30008,
     "description": [
       [
-        "Event: Cruise Missions",
+        "META Shop Exchange",
         [
-          "METACHARACTER",
+          "SHOP",
           {
-            "autoOpenShipConfigID": 9706021
+            "warp": "meta"
           }
         ],
         0
@@ -33983,11 +34037,11 @@
     "code": 30010,
     "description": [
       [
-        "Event: Cruise Missions",
+        "META Shop Exchange",
         [
-          "METACHARACTER",
+          "SHOP",
           {
-            "autoOpenShipConfigID": 9705011
+            "warp": "meta"
           }
         ],
         0
@@ -34018,11 +34072,11 @@
     "code": 30011,
     "description": [
       [
-        "Event: Cruise Missions",
+        "META Shop Exchange",
         [
-          "METACHARACTER",
+          "SHOP",
           {
-            "autoOpenShipConfigID": 9702021
+            "warp": "meta"
           }
         ],
         0
@@ -34088,11 +34142,11 @@
     "code": 30013,
     "description": [
       [
-        "Event: Cruise Missions",
+        "META Shop Exchange",
         [
-          "METACHARACTER",
+          "SHOP",
           {
-            "autoOpenShipConfigID": 9703011
+            "warp": "meta"
           }
         ],
         0
@@ -34158,11 +34212,11 @@
     "code": 30015,
     "description": [
       [
-        "Event: Cruise Missions",
+        "META Shop Exchange",
         [
-          "METACHARACTER",
+          "SHOP",
           {
-            "autoOpenShipConfigID": 9701011
+            "warp": "meta"
           }
         ],
         0
@@ -34193,11 +34247,11 @@
     "code": 30016,
     "description": [
       [
-        "Event: Cruise Missions",
+        "META Shop Exchange",
         [
-          "METACHARACTER",
+          "SHOP",
           {
-            "autoOpenShipConfigID": 9701021
+            "warp": "meta"
           }
         ],
         0
@@ -34263,11 +34317,11 @@
     "code": 30018,
     "description": [
       [
-        "Event: Cruise Missions",
+        "META Shop Exchange",
         [
-          "METACHARACTER",
+          "SHOP",
           {
-            "autoOpenShipConfigID": 9702031
+            "warp": "meta"
           }
         ],
         0
@@ -34333,11 +34387,11 @@
     "code": 30020,
     "description": [
       [
-        "Event: Cruise Missions",
+        "META Shop Exchange",
         [
-          "METACHARACTER",
+          "SHOP",
           {
-            "autoOpenShipConfigID": 9702041
+            "warp": "meta"
           }
         ],
         0
@@ -34373,6 +34427,17 @@
           ""
         ],
         0
+      ],
+      [
+        "Special Construction",
+        [
+          "GETBOAT",
+          {
+            "page": 1,
+            "projectName": "special"
+          }
+        ],
+        0
       ]
     ],
     "group_type": 970801,
@@ -34400,11 +34465,11 @@
     "code": 30022,
     "description": [
       [
-        "Event: Cruise Missions",
+        "META Shop Exchange",
         [
-          "METACHARACTER",
+          "SHOP",
           {
-            "autoOpenShipConfigID": 9712011
+            "warp": "meta"
           }
         ],
         0
@@ -34470,11 +34535,11 @@
     "code": 30024,
     "description": [
       [
-        "Event: Cruise Missions",
+        "META Shop Exchange",
         [
-          "METACHARACTER",
+          "SHOP",
           {
-            "autoOpenShipConfigID": 9701031
+            "warp": "meta"
           }
         ],
         0
