@@ -11,7 +11,7 @@
         [
           2026,
           6,
-          12
+          18
         ],
         [
           0,
@@ -23,7 +23,7 @@
         [
           2026,
           6,
-          17
+          24
         ],
         [
           23,
@@ -37,11 +37,8 @@
   "2": {
     "id": 2,
     "param": [
-      "scene get boat",
-      {
-        "page": 1,
-        "projectName": "new"
-      }
+      "scene skinshop",
+      []
     ],
     "pic": "temp2",
     "time": "stop",
@@ -49,26 +46,20 @@
   },
   "3": {
     "id": 3,
-    "param": "51005",
-    "pic": "temp3",
-    "time": "stop",
-    "type": 3
-  },
-  "4": {
-    "id": 4,
     "param": [
-      "scene charge",
+      "scene get boat",
       {
-        "wrap": 2
+        "page": 1,
+        "projectName": "new"
       }
     ],
-    "pic": "temp4",
+    "pic": "temp3",
     "time": [
       [
         [
           2026,
           6,
-          12
+          18
         ],
         [
           0,
@@ -80,7 +71,7 @@
         [
           2026,
           6,
-          17
+          24
         ],
         [
           23,
@@ -91,24 +82,81 @@
     ],
     "type": 2
   },
+  "4": {
+    "id": 4,
+    "param": "51033",
+    "pic": "temp4",
+    "time": [
+      [
+        [
+          2026,
+          6,
+          18
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2026,
+          6,
+          24
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
+    "type": 3
+  },
   "5": {
     "id": 5,
     "param": [
-      "scene shop",
+      "scene charge",
       {
-        "warp": "shopstreet"
+        "wrap": 2
       }
     ],
     "pic": "temp5",
-    "time": "stop",
+    "time": [
+      [
+        [
+          2026,
+          6,
+          18
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2026,
+          6,
+          24
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
     "type": 2
   },
   "6": {
     "id": 6,
     "param": [
-      "scene core activity",
+      "scene charge",
       {
-        "coreName": "OutPostCoreActivityUI"
+        "wrap": 2
       }
     ],
     "pic": "temp6",
@@ -117,80 +165,26 @@
   },
   "7": {
     "id": 7,
-    "param": [
-      "scene equip",
-      {
-        "designPage": 2,
-        "warp": "WARP_TO_DESIGN"
-      }
-    ],
+    "param": "50630",
     "pic": "temp7",
-    "time": [
-      [
-        [
-          2026,
-          6,
-          12
-        ],
-        [
-          0,
-          0,
-          0
-        ]
-      ],
-      [
-        [
-          2026,
-          6,
-          17
-        ],
-        [
-          23,
-          59,
-          59
-        ]
-      ]
-    ],
-    "type": 2
+    "time": "stop",
+    "type": 3
   },
   "8": {
     "id": 8,
-    "param": "51021",
-    "pic": "temp8",
-    "time": [
-      [
-        [
-          2026,
-          6,
-          12
-        ],
-        [
-          0,
-          0,
-          0
-        ]
-      ],
-      [
-        [
-          2026,
-          6,
-          17
-        ],
-        [
-          23,
-          59,
-          59
-        ]
-      ]
+    "param": [
+      "metacharacter"
     ],
-    "type": 3
+    "pic": "temp8",
+    "time": "stop",
+    "type": 2
   },
   "9": {
     "id": 9,
     "param": [
       "scene level",
       {
-        "isEX": true,
+        "isSP": true,
         "open_remaster": true
       }
     ],
@@ -200,7 +194,7 @@
         [
           2026,
           6,
-          12
+          18
         ],
         [
           0,
@@ -212,7 +206,7 @@
         [
           2026,
           6,
-          17
+          24
         ],
         [
           23,
@@ -248,7 +242,32 @@
     "id": 99,
     "param": "",
     "pic": "limit_skin",
-    "time": "stop",
+    "time": [
+      [
+        [
+          2026,
+          6,
+          18
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2026,
+          6,
+          24
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
     "type": 12
   },
   "100": {
@@ -318,15 +337,15 @@
     "2": [
       1,
       2,
-      4,
+      3,
       5,
       6,
-      7,
+      8,
       9
     ],
     "3": [
-      3,
-      8
+      4,
+      7
     ],
     "9": [
       90,
