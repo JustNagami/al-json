@@ -11,7 +11,7 @@
         [
           2026,
           6,
-          12
+          18
         ],
         [
           0,
@@ -23,7 +23,7 @@
         [
           2026,
           6,
-          17
+          18
         ],
         [
           23,
@@ -37,38 +37,16 @@
   "2": {
     "id": 2,
     "param": [
-      "scene get boat",
-      {
-        "page": 1,
-        "projectName": "new"
-      }
+      "scene skinshop",
+      []
     ],
     "pic": "temp2",
-    "time": "stop",
-    "type": 2
-  },
-  "3": {
-    "id": 3,
-    "param": "51005",
-    "pic": "temp3",
-    "time": "stop",
-    "type": 3
-  },
-  "4": {
-    "id": 4,
-    "param": [
-      "scene charge",
-      {
-        "wrap": 2
-      }
-    ],
-    "pic": "temp4",
     "time": [
       [
         [
           2026,
           6,
-          12
+          22
         ],
         [
           0,
@@ -80,7 +58,7 @@
         [
           2026,
           6,
-          17
+          24
         ],
         [
           23,
@@ -91,46 +69,22 @@
     ],
     "type": 2
   },
-  "5": {
-    "id": 5,
+  "3": {
+    "id": 3,
     "param": [
-      "scene shop",
+      "scene get boat",
       {
-        "warp": "shopstreet"
+        "page": 1,
+        "projectName": "new"
       }
     ],
-    "pic": "temp5",
-    "time": "stop",
-    "type": 2
-  },
-  "6": {
-    "id": 6,
-    "param": [
-      "scene core activity",
-      {
-        "coreName": "OutPostCoreActivityUI"
-      }
-    ],
-    "pic": "temp6",
-    "time": "stop",
-    "type": 2
-  },
-  "7": {
-    "id": 7,
-    "param": [
-      "scene equip",
-      {
-        "designPage": 2,
-        "warp": "WARP_TO_DESIGN"
-      }
-    ],
-    "pic": "temp7",
+    "pic": "temp3",
     "time": [
       [
         [
           2026,
           6,
-          12
+          18
         ],
         [
           0,
@@ -142,7 +96,7 @@
         [
           2026,
           6,
-          18
+          25
         ],
         [
           12,
@@ -153,16 +107,16 @@
     ],
     "type": 2
   },
-  "8": {
-    "id": 8,
-    "param": "51021",
-    "pic": "temp8",
+  "4": {
+    "id": 4,
+    "param": "51033",
+    "pic": "temp4",
     "time": [
       [
         [
           2026,
           6,
-          12
+          18
         ],
         [
           0,
@@ -174,7 +128,7 @@
         [
           2026,
           6,
-          18
+          25
         ],
         [
           12,
@@ -185,22 +139,21 @@
     ],
     "type": 3
   },
-  "9": {
-    "id": 9,
+  "5": {
+    "id": 5,
     "param": [
-      "scene level",
+      "scene charge",
       {
-        "isEX": true,
-        "open_remaster": true
+        "wrap": 2
       }
     ],
-    "pic": "temp9",
+    "pic": "temp5",
     "time": [
       [
         [
           2026,
           6,
-          12
+          18
         ],
         [
           0,
@@ -212,7 +165,73 @@
         [
           2026,
           6,
+          24
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
+    "type": 2
+  },
+  "6": {
+    "id": 6,
+    "param": [
+      "scene charge",
+      {
+        "wrap": 2
+      }
+    ],
+    "pic": "temp6",
+    "time": "stop",
+    "type": 2
+  },
+  "7": {
+    "id": 7,
+    "param": "50630",
+    "pic": "temp7",
+    "time": "stop",
+    "type": 3
+  },
+  "8": {
+    "id": 8,
+    "param": [
+      "metacharacter"
+    ],
+    "pic": "temp8",
+    "time": "stop",
+    "type": 2
+  },
+  "9": {
+    "id": 9,
+    "param": [
+      "scene level",
+      {
+        "isSP": true,
+        "open_remaster": true
+      }
+    ],
+    "pic": "temp9",
+    "time": [
+      [
+        [
+          2026,
+          6,
           18
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2026,
+          6,
+          25
         ],
         [
           12,
@@ -318,15 +337,15 @@
     "2": [
       1,
       2,
-      4,
+      3,
       5,
       6,
-      7,
+      8,
       9
     ],
     "3": [
-      3,
-      8
+      4,
+      7
     ],
     "9": [
       90,
