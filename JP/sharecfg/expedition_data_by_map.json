@@ -6599,7 +6599,7 @@
     "map": 1810001,
     "map_name": "",
     "name": "赫輝のマルティリウム·前編|| ||CHAPTER EX||E.X.",
-    "on_activity": 5331,
+    "on_activity": 51033,
     "story_id": "",
     "story_inactive_color": "",
     "title": "EX",
@@ -6659,7 +6659,7 @@
     "map": 1810002,
     "map_name": "",
     "name": "赫輝のマルティリウム·後編|| ||CHAPTER EX||E.X.",
-    "on_activity": 5331,
+    "on_activity": 51033,
     "story_id": "",
     "story_inactive_color": "",
     "title": "EX",
@@ -6730,7 +6730,7 @@
     "map": 1810011,
     "map_name": "",
     "name": "赫輝のマルティリウム·前編|| ||CHAPTER EX||E.X.",
-    "on_activity": 5331,
+    "on_activity": 51033,
     "story_id": "",
     "story_inactive_color": "",
     "title": "EX",
@@ -6790,7 +6790,7 @@
     "map": 1810012,
     "map_name": "",
     "name": "赫輝のマルティリウム·後編|| ||CHAPTER EX||E.X.",
-    "on_activity": 5331,
+    "on_activity": 51033,
     "story_id": "",
     "story_inactive_color": "",
     "title": "EX",
@@ -6840,7 +6840,7 @@
     "map": 1810025,
     "map_name": "",
     "name": "赫輝のマルティリウム·SP|| ||CHAPTER EX||E.X.",
-    "on_activity": 5331,
+    "on_activity": 51033,
     "story_id": "",
     "story_inactive_color": "",
     "title": "EX",
@@ -6890,7 +6890,7 @@
     "map": 1810026,
     "map_name": "",
     "name": "赫輝のマルティリウム·EX|| ||CHAPTER EX||E.X.",
-    "on_activity": 5331,
+    "on_activity": 51033,
     "story_id": "",
     "story_inactive_color": "",
     "title": "EX",
@@ -22127,6 +22127,132 @@
     "ui_type": 1,
     "uifx": ""
   },
+  "2200170": {
+    "anchor": "",
+    "ani_controller": "",
+    "ani_name": "Map_1820001",
+    "animtor": 1,
+    "bg": "Map_1820001",
+    "bgm": "story-musicanniversary-gorgeous",
+    "bind_map": 2200170,
+    "chapterGroups": [
+      [
+        2200171,
+        2200174
+      ],
+      [
+        2200172,
+        2200175
+      ],
+      [
+        2200173,
+        2200176
+      ]
+    ],
+    "cloud_suffix": "",
+    "clouds_pos": [
+      [
+        332,
+        271
+      ],
+      [
+        896,
+        110
+      ],
+      [
+        -280,
+        0
+      ],
+      [
+        990,
+        -90
+      ],
+      [
+        0,
+        -465
+      ]
+    ],
+    "default_background": "",
+    "default_bgm": "",
+    "destory_icon_suffix": "blue",
+    "drop_by_map_display": "",
+    "enter_story": "",
+    "guide_id": "",
+    "level_limit": 1,
+    "map": 2200170,
+    "map_name": "levelscene_mapselect_normal",
+    "name": "夢幻の間奏曲|| ||CHAPTER EX||E.X.",
+    "on_activity": 0,
+    "story_id": "",
+    "story_inactive_color": "",
+    "title": "EX",
+    "type": 4,
+    "ui_type": 10,
+    "uifx": ""
+  },
+  "2200171": {
+    "anchor": "",
+    "ani_controller": "",
+    "ani_name": "Map_1820001",
+    "animtor": 1,
+    "bg": "Map_1820001",
+    "bgm": "story-musicanniversary-gorgeous",
+    "bind_map": 2200171,
+    "chapterGroups": [
+      [
+        2200171,
+        2200174
+      ],
+      [
+        2200172,
+        2200175
+      ],
+      [
+        2200173,
+        2200176
+      ]
+    ],
+    "cloud_suffix": "",
+    "clouds_pos": [
+      [
+        332,
+        271
+      ],
+      [
+        896,
+        110
+      ],
+      [
+        -280,
+        0
+      ],
+      [
+        990,
+        -90
+      ],
+      [
+        0,
+        -465
+      ]
+    ],
+    "default_background": "",
+    "default_bgm": "",
+    "destory_icon_suffix": "blue",
+    "drop_by_map_display": "",
+    "enter_story": "",
+    "guide_id": "",
+    "level_limit": 1,
+    "map": 2200171,
+    "map_name": "levelscene_mapselect_normal",
+    "name": "夢幻の間奏曲|| ||CHAPTER EX||E.X.",
+    "on_activity": 0,
+    "story_id": "",
+    "story_inactive_color": "",
+    "title": "EX",
+    "type": 5,
+    "ui_type": 10,
+    "uifx": ""
+  },
   "all": [
     1,
     2,
@@ -22472,6 +22598,8 @@
     2200140,
     2200141,
     2200150,
-    2200160
+    2200160,
+    2200170,
+    2200171
   ]
 }
