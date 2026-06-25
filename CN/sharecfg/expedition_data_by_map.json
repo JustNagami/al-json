@@ -14925,6 +14925,216 @@
     "ui_type": 10,
     "uifx": ""
   },
+  "2040001": {
+    "anchor": "",
+    "ani_controller": "",
+    "ani_name": "Map_2040001",
+    "animtor": 1,
+    "bg": "Map_2040001",
+    "bgm": "theme-magicalnight-mystic",
+    "bind_map": 2040001,
+    "chapterGroups": [
+      [
+        2040001,
+        2040021
+      ],
+      [
+        2040002,
+        2040022
+      ],
+      [
+        2040003,
+        2040023
+      ]
+    ],
+    "cloud_suffix": "",
+    "clouds_pos": [
+      [
+        332,
+        271
+      ],
+      [
+        896,
+        110
+      ],
+      [
+        -280,
+        0
+      ],
+      [
+        990,
+        -90
+      ],
+      [
+        0,
+        -465
+      ]
+    ],
+    "default_background": "bg_qimiaoye_cg1",
+    "default_bgm": "theme-magicalnight-mystic",
+    "destory_icon_suffix": "blue",
+    "drop_by_map_display": "",
+    "enter_story": "",
+    "guide_id": "",
+    "level_limit": 1,
+    "map": 2040001,
+    "map_name": "levelscene_mapselect_normal",
+    "name": "美梦巡演奇妙夜|| ||CHAPTER EX||E.X.",
+    "on_activity": 50651,
+    "story_id": [
+      461,
+      462,
+      463,
+      464,
+      465,
+      466,
+      467,
+      468,
+      469
+    ],
+    "story_inactive_color": "162443",
+    "title": "EX",
+    "type": 4,
+    "ui_type": 10,
+    "uifx": ""
+  },
+  "2040002": {
+    "anchor": "",
+    "ani_controller": "",
+    "ani_name": "Map_2040001",
+    "animtor": 1,
+    "bg": "Map_2040001",
+    "bgm": "theme-magicalnight-mystic",
+    "bind_map": 2040002,
+    "chapterGroups": [
+      [
+        2040001,
+        2040021
+      ],
+      [
+        2040002,
+        2040022
+      ],
+      [
+        2040003,
+        2040023
+      ]
+    ],
+    "cloud_suffix": "",
+    "clouds_pos": [
+      [
+        332,
+        271
+      ],
+      [
+        896,
+        110
+      ],
+      [
+        -280,
+        0
+      ],
+      [
+        990,
+        -90
+      ],
+      [
+        0,
+        -465
+      ]
+    ],
+    "default_background": "bg_qimiaoye_cg1",
+    "default_bgm": "theme-magicalnight-mystic",
+    "destory_icon_suffix": "blue",
+    "drop_by_map_display": "",
+    "enter_story": "",
+    "guide_id": "",
+    "level_limit": 1,
+    "map": 2040002,
+    "map_name": "levelscene_mapselect_normal",
+    "name": "美梦巡演奇妙夜|| ||CHAPTER EX||E.X.",
+    "on_activity": 50651,
+    "story_id": [
+      461,
+      462,
+      463,
+      464,
+      465,
+      466,
+      467,
+      468,
+      469
+    ],
+    "story_inactive_color": "162443",
+    "title": "EX",
+    "type": 5,
+    "ui_type": 10,
+    "uifx": ""
+  },
+  "2040003": {
+    "anchor": "",
+    "ani_controller": "",
+    "ani_name": "Map_2040002",
+    "animtor": 1,
+    "bg": "Map_2040002",
+    "bgm": "theme-magicalnight-mystic",
+    "bind_map": 2040002,
+    "chapterGroups": [
+      [
+        2040041
+      ]
+    ],
+    "cloud_suffix": "",
+    "clouds_pos": [
+      [
+        332,
+        271
+      ],
+      [
+        896,
+        110
+      ],
+      [
+        -280,
+        0
+      ],
+      [
+        990,
+        -90
+      ],
+      [
+        0,
+        -465
+      ]
+    ],
+    "default_background": "bg_qimiaoye_cg1",
+    "default_bgm": "theme-magicalnight-mystic",
+    "destory_icon_suffix": "blue",
+    "drop_by_map_display": "",
+    "enter_story": "",
+    "guide_id": "",
+    "level_limit": 1,
+    "map": 2040003,
+    "map_name": "levelscene_mapselect_sp",
+    "name": "美梦巡演奇妙夜·SP|| ||CHAPTER EX||E.X.",
+    "on_activity": 50651,
+    "story_id": [
+      461,
+      462,
+      463,
+      464,
+      465,
+      466,
+      467,
+      468,
+      469
+    ],
+    "story_inactive_color": "162443",
+    "title": "EX",
+    "type": 8,
+    "ui_type": 10,
+    "uifx": ""
+  },
   "2100000": {
     "anchor": "",
     "ani_controller": "",
@@ -22512,6 +22722,9 @@
     2030012,
     2030025,
     2030026,
+    2040001,
+    2040002,
+    2040003,
     2100000,
     2100001,
     2100010,

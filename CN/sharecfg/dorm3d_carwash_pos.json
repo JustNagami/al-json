@@ -1,0 +1,58 @@
+{
+  "1": {
+    "fury_anim": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "hit_reaction_layer": "idle1",
+    "id": 1,
+    "idle_anim": "XC1_idle",
+    "mood_value": 0,
+    "pos": "nxmf_1"
+  },
+  "2": {
+    "fury_anim": [
+      5,
+      6,
+      7,
+      8,
+      99
+    ],
+    "hit_reaction_layer": "idle1",
+    "id": 2,
+    "idle_anim": "XC2_idle",
+    "mood_value": 30,
+    "pos": "nxmf_2"
+  },
+  "3": {
+    "fury_anim": [
+      9,
+      12,
+      4
+    ],
+    "hit_reaction_layer": "idle1",
+    "id": 3,
+    "idle_anim": "XC3_idle-CW",
+    "mood_value": 60,
+    "pos": "nxmf_3"
+  },
+  "4": {
+    "fury_anim": [
+      10,
+      11
+    ],
+    "hit_reaction_layer": "",
+    "id": 4,
+    "idle_anim": "XC3_idle-CN",
+    "mood_value": 100,
+    "pos": "nxmf_3"
+  },
+  "all": [
+    1,
+    2,
+    3,
+    4
+  ]
+}

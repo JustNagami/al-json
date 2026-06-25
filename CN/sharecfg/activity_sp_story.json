@@ -8641,6 +8641,179 @@
     "story_type": 1,
     "unlock_conditions": "完成EX-3"
   },
+  "461": {
+    "change_background": "bg_qimiaoye_cg1",
+    "change_bgm": "theme-magicalnight-mystic",
+    "change_prefab": "",
+    "id": 461,
+    "label_key": "",
+    "lock": "",
+    "name": "EPS-1 月光下的引路者",
+    "pre_event": "",
+    "story": "MEIMENGXUNYANQIMIAOYE1",
+    "story_type": 1,
+    "unlock_conditions": ""
+  },
+  "462": {
+    "change_background": "bg_qimiaoye_1",
+    "change_bgm": "theme-magicalnight-mystic",
+    "change_prefab": "",
+    "id": 462,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        461
+      ]
+    ],
+    "name": "EPS-2 美梦的守秘人",
+    "pre_event": [
+      461
+    ],
+    "story": "MEIMENGXUNYANQIMIAOYE2",
+    "story_type": 1,
+    "unlock_conditions": "完成EPS-1"
+  },
+  "463": {
+    "change_background": "star_level_bg_665",
+    "change_bgm": "theme-magicalnight-mystic",
+    "change_prefab": "",
+    "id": 463,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        462
+      ]
+    ],
+    "name": "EPS-3 第一场演出：火焰之舞",
+    "pre_event": [
+      462
+    ],
+    "story": "MEIMENGXUNYANQIMIAOYE3",
+    "story_type": 1,
+    "unlock_conditions": "完成EPS-2"
+  },
+  "464": {
+    "change_background": "star_level_bg_665",
+    "change_bgm": "theme-magicalnight-mystic",
+    "change_prefab": "",
+    "id": 464,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        463
+      ]
+    ],
+    "name": "EPS-4 第二场演出：受困的魔术",
+    "pre_event": [
+      463
+    ],
+    "story": "MEIMENGXUNYANQIMIAOYE4",
+    "story_type": 1,
+    "unlock_conditions": "完成EPS-3"
+  },
+  "465": {
+    "change_background": "star_level_bg_665",
+    "change_bgm": "theme-magicalnight-mystic",
+    "change_prefab": "",
+    "id": 465,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        464
+      ]
+    ],
+    "name": "EPS-5 第三场演出：秋千上的发明家",
+    "pre_event": [
+      464
+    ],
+    "story": "MEIMENGXUNYANQIMIAOYE5",
+    "story_type": 1,
+    "unlock_conditions": "完成EPS-4"
+  },
+  "466": {
+    "change_background": "star_level_bg_665",
+    "change_bgm": "theme-magicalnight-mystic",
+    "change_prefab": "",
+    "id": 466,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        465
+      ]
+    ],
+    "name": "EPS-6 第四场演出：梦幻画笔",
+    "pre_event": [
+      465
+    ],
+    "story": "MEIMENGXUNYANQIMIAOYE6",
+    "story_type": 1,
+    "unlock_conditions": "完成EPS-5"
+  },
+  "467": {
+    "change_background": "star_level_bg_665",
+    "change_bgm": "theme-magicalnight-mystic",
+    "change_prefab": "",
+    "id": 467,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        466
+      ]
+    ],
+    "name": "EPS-7 第五场演出：一箭心动",
+    "pre_event": [
+      466
+    ],
+    "story": "MEIMENGXUNYANQIMIAOYE7",
+    "story_type": 1,
+    "unlock_conditions": "完成EPS-6"
+  },
+  "468": {
+    "change_background": "bg_qimiaoye_2",
+    "change_bgm": "theme-magicalnight-mystic",
+    "change_prefab": "",
+    "id": 468,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        467
+      ]
+    ],
+    "name": "EPS-8 最后一位同伴",
+    "pre_event": [
+      467
+    ],
+    "story": "MEIMENGXUNYANQIMIAOYE8",
+    "story_type": 1,
+    "unlock_conditions": "完成EPS-7"
+  },
+  "469": {
+    "change_background": "star_level_bg_523",
+    "change_bgm": "theme-magicalnight-mystic",
+    "change_prefab": "",
+    "id": 469,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        468
+      ]
+    ],
+    "name": "EPS-9 美好永不落幕",
+    "pre_event": [
+      468
+    ],
+    "story": "MEIMENGXUNYANQIMIAOYE9",
+    "story_type": 1,
+    "unlock_conditions": "完成EPS-8"
+  },
   "all": [
     1,
     2,
@@ -9059,6 +9232,15 @@
     456,
     457,
     458,
-    459
+    459,
+    461,
+    462,
+    463,
+    464,
+    465,
+    466,
+    467,
+    468,
+    469
   ]
 }

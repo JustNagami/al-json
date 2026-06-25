@@ -21346,7 +21346,11 @@
       10213447,
       10213448,
       10213449,
-      10213450
+      10213450,
+      10213451,
+      10213452,
+      10213453,
+      10213454
     ],
     "shop_dynamic_hx": 0,
     "shop_id": 71010,
@@ -195441,6 +195445,176 @@
     "voice_actor_2": -1,
     "voice_lang": ""
   },
+  "403103": {
+    "bg": "665",
+    "bg_sp": "",
+    "bgm": "",
+    "bound_bone": {
+      "antiaircraft": [
+        [
+          0.6,
+          2.44,
+          0
+        ]
+      ],
+      "cannon": [
+        [
+          0.77,
+          1.04,
+          0
+        ]
+      ],
+      "torpedo": [
+        [
+          0.021,
+          0.01,
+          0
+        ]
+      ],
+      "vicegun": [
+        [
+          0.99,
+          0.79,
+          0
+        ]
+      ]
+    },
+    "change_skin": "",
+    "desc": "唔？指挥官竟然能闯进魔术师的练习场地，还真是了不起……正好，就让你来做我新魔术的第一位观众吧。",
+    "double_char": 0,
+    "fx_container": [
+      [
+        0,
+        1.99185,
+        1.15
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0.75,
+        -1.299
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "get_showing": {
+      "data": [
+        [
+          -1464,
+          107,
+          2,
+          0,
+          124,
+          2
+        ],
+        [
+          -312,
+          455,
+          2,
+          141,
+          0,
+          2
+        ],
+        [
+          -593,
+          -365,
+          2,
+          0,
+          -141,
+          2
+        ]
+      ],
+      "show": 1
+    },
+    "group_index": 3,
+    "gyro": 0,
+    "hand_id": 1,
+    "id": 403103,
+    "illustrator": -1,
+    "illustrator2": -1,
+    "l2d_animations": "",
+    "l2d_drag_rate": "",
+    "l2d_ignore_drag": 0,
+    "l2d_para_range": "",
+    "l2d_se": "",
+    "l2d_voice_calibrate": "",
+    "lip_smoothing": 0,
+    "lip_sync_gain": 0,
+    "live2d_offset": [
+      0,
+      0,
+      0
+    ],
+    "live2d_offset_profile": "",
+    "lover_hand": "hand_1_02",
+    "lover_kiss": "lip03",
+    "main_UI_FX": "",
+    "name": "黑与白的魔术师",
+    "painting": "adaerbote_4",
+    "part_scale": "",
+    "prefab": "adaerbote_4",
+    "purchase_offset": "",
+    "rarity_bg": "",
+    "ship_group": 40310,
+    "ship_l2d_id": "",
+    "shop_dynamic_hx": 0,
+    "shop_id": 71377,
+    "shop_offset": [
+      -122,
+      -527.6,
+      0,
+      0.42
+    ],
+    "shop_type_id": 26,
+    "show_skin": "stand",
+    "skeleton_default_skin": "",
+    "skin_type": 4,
+    "smoke": [
+      [
+        50,
+        [
+          [
+            "smoke",
+            [
+              -0.74,
+              2.48,
+              0
+            ]
+          ]
+        ]
+      ]
+    ],
+    "special_effects": "",
+    "spine_action_offset": false,
+    "spine_offset": [
+      147.3,
+      -548.5,
+      0,
+      0.41
+    ],
+    "spine_offset_profile": [
+      -60.1,
+      -517.3,
+      0,
+      0.41
+    ],
+    "spine_use_live2d": 0,
+    "tag": [
+      6,
+      2
+    ],
+    "time": "",
+    "voice_actor": 297,
+    "voice_actor_2": -1,
+    "voice_lang": ""
+  },
   "403110": {
     "bg": "",
     "bg_sp": "",
@@ -214416,7 +214590,7 @@
     "get_showing": {
       "data": [
         [
-          1480,
+          1470,
           356,
           2,
           0,
@@ -214424,10 +214598,10 @@
           2
         ],
         [
-          239,
-          1023.8,
+          240,
+          1023,
           3,
-          -123,
+          -124,
           0,
           2
         ],
@@ -238739,6 +238913,176 @@
     "voice_actor_2": -1,
     "voice_lang": ""
   },
+  "605082": {
+    "bg": "665",
+    "bg_sp": "",
+    "bgm": "",
+    "bound_bone": {
+      "antiaircraft": [
+        [
+          0.689,
+          2.277,
+          0
+        ]
+      ],
+      "cannon": [
+        [
+          1.63,
+          0.91,
+          0
+        ]
+      ],
+      "torpedo": [
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      "vicegun": [
+        [
+          1.61,
+          1.44,
+          0
+        ]
+      ]
+    },
+    "change_skin": "",
+    "desc": "欢迎光临马戏团的艺术巡回展~！怎么样指挥官，看到我送您的这份礼物，有没有感觉心跳加速？为了完成这件杰作，我可是献出了自己的“全部”哦~",
+    "double_char": 0,
+    "fx_container": [
+      [
+        0,
+        1.99185,
+        1.15
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0.75,
+        -1.299
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "get_showing": {
+      "data": [
+        [
+          -2363,
+          765.98,
+          2,
+          153,
+          0,
+          2
+        ],
+        [
+          201,
+          533,
+          1.5,
+          0,
+          -185,
+          2
+        ],
+        [
+          -519,
+          -124,
+          1.5,
+          -133,
+          0,
+          2
+        ]
+      ],
+      "show": 1
+    },
+    "group_index": 2,
+    "gyro": 0,
+    "hand_id": 1,
+    "id": 605082,
+    "illustrator": -1,
+    "illustrator2": -1,
+    "l2d_animations": "",
+    "l2d_drag_rate": "",
+    "l2d_ignore_drag": 0,
+    "l2d_para_range": "",
+    "l2d_se": "",
+    "l2d_voice_calibrate": "",
+    "lip_smoothing": 0,
+    "lip_sync_gain": 0,
+    "live2d_offset": [
+      0,
+      0,
+      0
+    ],
+    "live2d_offset_profile": "",
+    "lover_hand": "hand_1_02",
+    "lover_kiss": "lip03",
+    "main_UI_FX": "",
+    "name": "共绘的魔术杰作",
+    "painting": "lafeier_3",
+    "part_scale": "",
+    "prefab": "lafeier_3",
+    "purchase_offset": "",
+    "rarity_bg": "",
+    "ship_group": 60508,
+    "ship_l2d_id": "",
+    "shop_dynamic_hx": 0,
+    "shop_id": 71374,
+    "shop_offset": [
+      -194.3,
+      -816.5,
+      0,
+      0.61
+    ],
+    "shop_type_id": 26,
+    "show_skin": "stand",
+    "skeleton_default_skin": "",
+    "skin_type": 4,
+    "smoke": [
+      [
+        50,
+        [
+          [
+            "smoke",
+            [
+              -0.65,
+              2.338,
+              0
+            ]
+          ]
+        ]
+      ]
+    ],
+    "special_effects": "",
+    "spine_action_offset": false,
+    "spine_offset": [
+      146,
+      -1322.7,
+      0,
+      0.84
+    ],
+    "spine_offset_profile": [
+      -139.3,
+      -803.2,
+      0,
+      0.6
+    ],
+    "spine_use_live2d": 0,
+    "tag": [
+      6,
+      2
+    ],
+    "time": "",
+    "voice_actor": 441,
+    "voice_actor_2": -1,
+    "voice_lang": ""
+  },
   "605090": {
     "bg": "",
     "bg_sp": "",
@@ -240215,6 +240559,146 @@
     "voice_actor_2": -1,
     "voice_lang": ""
   },
+  "608022": {
+    "bg": "665",
+    "bg_sp": "",
+    "bgm": "",
+    "bound_bone": {
+      "cannon": [
+        [
+          0.61,
+          0.71,
+          0
+        ]
+      ],
+      "torpedo": [
+        [
+          0,
+          0.05,
+          0
+        ]
+      ]
+    },
+    "change_skin": "",
+    "desc": "呀，指挥官！刚才荡至最高处的瞬间，我脑子里突然闪过一个新灵感！魔术表演——可以开始了！",
+    "double_char": 0,
+    "fx_container": [
+      [
+        0,
+        1.99185,
+        1.15
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0.75,
+        -1.299
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "get_showing": {
+      "data": [
+        [
+          -1695,
+          -83,
+          1.8,
+          0,
+          174,
+          2
+        ],
+        [
+          -1331,
+          704,
+          1.8,
+          116,
+          0,
+          2
+        ],
+        [
+          -329,
+          -166,
+          1.8,
+          0,
+          -141,
+          2
+        ]
+      ],
+      "show": 1
+    },
+    "group_index": 2,
+    "gyro": 0,
+    "hand_id": 13,
+    "id": 608022,
+    "illustrator": -1,
+    "illustrator2": -1,
+    "l2d_animations": "",
+    "l2d_drag_rate": "",
+    "l2d_ignore_drag": 0,
+    "l2d_para_range": "",
+    "l2d_se": "",
+    "l2d_voice_calibrate": "",
+    "lip_smoothing": 0,
+    "lip_sync_gain": 0,
+    "live2d_offset": [
+      0,
+      0,
+      0
+    ],
+    "live2d_offset_profile": "",
+    "lover_hand": "hand_2_02",
+    "lover_kiss": "lip02",
+    "main_UI_FX": "",
+    "name": "摇摆兔女郎",
+    "painting": "dafenqi_3",
+    "part_scale": "",
+    "prefab": "dafenqi_3",
+    "purchase_offset": "",
+    "rarity_bg": "",
+    "ship_group": 60802,
+    "ship_l2d_id": "",
+    "shop_dynamic_hx": 0,
+    "shop_id": 71375,
+    "shop_offset": "",
+    "shop_type_id": 26,
+    "show_skin": "stand",
+    "skeleton_default_skin": "",
+    "skin_type": 4,
+    "smoke": [
+      [
+        50,
+        [
+          [
+            "smoke",
+            [
+              -0.63,
+              2.42,
+              0
+            ]
+          ]
+        ]
+      ]
+    ],
+    "special_effects": "",
+    "spine_action_offset": false,
+    "spine_offset": "",
+    "spine_offset_profile": "",
+    "spine_use_live2d": 0,
+    "tag": [
+      2
+    ],
+    "time": "",
+    "voice_actor": 332,
+    "voice_actor_2": -1,
+    "voice_lang": ""
+  },
   "608030": {
     "bg": "",
     "bg_sp": "",
@@ -240686,6 +241170,176 @@
     "spine_offset_profile": "",
     "spine_use_live2d": 0,
     "tag": [
+      2
+    ],
+    "time": "",
+    "voice_actor": 280,
+    "voice_actor_2": -1,
+    "voice_lang": ""
+  },
+  "699012": {
+    "bg": "665",
+    "bg_sp": "",
+    "bgm": "",
+    "bound_bone": {
+      "antiaircraft": [
+        [
+          0.61,
+          2.65,
+          0
+        ]
+      ],
+      "cannon": [
+        [
+          1.51,
+          1.24,
+          0
+        ]
+      ],
+      "torpedo": [
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      "vicegun": [
+        [
+          1.23,
+          0.77,
+          0
+        ]
+      ]
+    },
+    "change_skin": "",
+    "desc": "欢迎来到我的惊奇show~！现在是演出结算时间，好好睁大眼睛吧指挥官，可别轻易迷失在这欢乐的海洋之中了，呵呵呵~",
+    "double_char": 0,
+    "fx_container": [
+      [
+        0,
+        1.99185,
+        1.15
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0.75,
+        -1.299
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "get_showing": {
+      "data": [
+        [
+          -1471,
+          -895,
+          2,
+          0,
+          157,
+          2
+        ],
+        [
+          -1256,
+          156,
+          2,
+          157,
+          0,
+          2
+        ],
+        [
+          -14,
+          -382,
+          2,
+          0,
+          -182,
+          2
+        ]
+      ],
+      "show": 1
+    },
+    "group_index": 2,
+    "gyro": 0,
+    "hand_id": 1,
+    "id": 699012,
+    "illustrator": -1,
+    "illustrator2": -1,
+    "l2d_animations": "",
+    "l2d_drag_rate": "",
+    "l2d_ignore_drag": 0,
+    "l2d_para_range": "",
+    "l2d_se": "",
+    "l2d_voice_calibrate": "",
+    "lip_smoothing": 0,
+    "lip_sync_gain": 0,
+    "live2d_offset": [
+      0,
+      0,
+      0
+    ],
+    "live2d_offset_profile": "",
+    "lover_hand": "hand_1_02",
+    "lover_kiss": "lip03",
+    "main_UI_FX": "",
+    "name": "好戏开幕！惊奇Show",
+    "painting": "makeboluo_3",
+    "part_scale": "",
+    "prefab": "makeboluo_3",
+    "purchase_offset": "",
+    "rarity_bg": "",
+    "ship_group": 69901,
+    "ship_l2d_id": "",
+    "shop_dynamic_hx": 0,
+    "shop_id": 71376,
+    "shop_offset": [
+      -22,
+      -601,
+      0,
+      0.7
+    ],
+    "shop_type_id": 26,
+    "show_skin": "stand",
+    "skeleton_default_skin": "",
+    "skin_type": 4,
+    "smoke": [
+      [
+        50,
+        [
+          [
+            "smoke",
+            [
+              -0.65,
+              2.43,
+              0
+            ]
+          ]
+        ]
+      ]
+    ],
+    "special_effects": "",
+    "spine_action_offset": false,
+    "spine_offset": [
+      -37.8,
+      -703.6,
+      0,
+      0.87
+    ],
+    "spine_offset_profile": [
+      44,
+      -576,
+      0,
+      0.69
+    ],
+    "spine_use_live2d": 0,
+    "tag": [
+      6,
       2
     ],
     "time": "",
@@ -257749,6 +258403,300 @@
     "voice_actor_2": -1,
     "voice_lang": ""
   },
+  "801060": {
+    "bg": "",
+    "bg_sp": "",
+    "bgm": "",
+    "bound_bone": {
+      "antiaircraft": [
+        [
+          0.89,
+          0.537,
+          0
+        ]
+      ],
+      "cannon": [
+        [
+          0.95,
+          0.587,
+          0
+        ]
+      ],
+      "torpedo": [
+        [
+          0.151,
+          0.051,
+          0
+        ]
+      ],
+      "vicegun": [
+        [
+          0.95,
+          0.54,
+          0
+        ]
+      ]
+    },
+    "change_skin": "",
+    "desc": "大胆级驱逐舰一一无惧",
+    "double_char": 0,
+    "fx_container": [
+      [
+        0,
+        1.99185,
+        1.15
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0.75,
+        -1.299
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "get_showing": "",
+    "group_index": 0,
+    "gyro": 0,
+    "hand_id": 13,
+    "id": 801060,
+    "illustrator": -1,
+    "illustrator2": -1,
+    "l2d_animations": "",
+    "l2d_drag_rate": "",
+    "l2d_ignore_drag": 0,
+    "l2d_para_range": "",
+    "l2d_se": "",
+    "l2d_voice_calibrate": "",
+    "lip_smoothing": 0,
+    "lip_sync_gain": 0,
+    "live2d_offset": [
+      0,
+      0,
+      0
+    ],
+    "live2d_offset_profile": "",
+    "lover_hand": "hand_2_02",
+    "lover_kiss": "lip02",
+    "main_UI_FX": "",
+    "name": "无惧",
+    "painting": "wuju",
+    "part_scale": "",
+    "prefab": "wuju",
+    "purchase_offset": "",
+    "rarity_bg": "",
+    "ship_group": 80106,
+    "ship_l2d_id": "",
+    "shop_dynamic_hx": 0,
+    "shop_id": 0,
+    "shop_offset": "",
+    "shop_type_id": 0,
+    "show_skin": "stand",
+    "skeleton_default_skin": "",
+    "skin_type": -1,
+    "smoke": [
+      [
+        50,
+        [
+          [
+            "smoke",
+            [
+              -0.6,
+              2.26,
+              0
+            ]
+          ]
+        ]
+      ]
+    ],
+    "special_effects": "",
+    "spine_action_offset": false,
+    "spine_offset": "",
+    "spine_offset_profile": "",
+    "spine_use_live2d": 0,
+    "tag": [],
+    "time": "",
+    "voice_actor": 158,
+    "voice_actor_2": -1,
+    "voice_lang": ""
+  },
+  "801061": {
+    "bg": "159",
+    "bg_sp": "",
+    "bgm": "",
+    "bound_bone": {
+      "antiaircraft": [
+        [
+          0.761,
+          2.291,
+          0
+        ]
+      ],
+      "cannon": [
+        [
+          1.015,
+          1.282,
+          0
+        ]
+      ],
+      "torpedo": [
+        [
+          -0.14,
+          0.035,
+          0
+        ]
+      ],
+      "vicegun": [
+        [
+          1.362,
+          1.486,
+          0
+        ]
+      ]
+    },
+    "change_skin": "",
+    "desc": "呼呼——！最后的高潮来啦！看我摘下火圈上的烤肉，为今晚的盛宴画上完美的句号哇！指挥官，见证此刻吧——",
+    "double_char": 0,
+    "fx_container": [
+      [
+        0,
+        1.99185,
+        1.15
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0.75,
+        -1.299
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "get_showing": {
+      "data": [
+        [
+          1176,
+          -201,
+          2.5,
+          0,
+          165,
+          2
+        ],
+        [
+          -629,
+          827,
+          2,
+          -119,
+          0,
+          2
+        ],
+        [
+          -519,
+          -378,
+          2,
+          0,
+          -177,
+          2
+        ]
+      ],
+      "show": 1
+    },
+    "group_index": 1,
+    "gyro": 0,
+    "hand_id": 13,
+    "id": 801061,
+    "illustrator": -1,
+    "illustrator2": -1,
+    "l2d_animations": "",
+    "l2d_drag_rate": "",
+    "l2d_ignore_drag": 0,
+    "l2d_para_range": "",
+    "l2d_se": "",
+    "l2d_voice_calibrate": "",
+    "lip_smoothing": 0,
+    "lip_sync_gain": 0,
+    "live2d_offset": [
+      0,
+      0,
+      0
+    ],
+    "live2d_offset_profile": "",
+    "lover_hand": "hand_2_02",
+    "lover_kiss": "lip02",
+    "main_UI_FX": "",
+    "name": "炙焰冲刺！",
+    "painting": "wuju_2",
+    "part_scale": "",
+    "prefab": "wuju_2",
+    "purchase_offset": "",
+    "rarity_bg": "",
+    "ship_group": 80106,
+    "ship_l2d_id": "",
+    "shop_dynamic_hx": 0,
+    "shop_id": 71373,
+    "shop_offset": [
+      -143,
+      -1028,
+      0,
+      0.7
+    ],
+    "shop_type_id": 26,
+    "show_skin": "stand",
+    "skeleton_default_skin": "",
+    "skin_type": 4,
+    "smoke": [
+      [
+        50,
+        [
+          [
+            "smoke",
+            [
+              -0.778,
+              2.389,
+              0
+            ]
+          ]
+        ]
+      ]
+    ],
+    "special_effects": "",
+    "spine_action_offset": false,
+    "spine_offset": [
+      90.8,
+      -1014.1,
+      0,
+      0.73
+    ],
+    "spine_offset_profile": [
+      -46.2,
+      -936.1,
+      0,
+      0.65
+    ],
+    "spine_use_live2d": 0,
+    "tag": [
+      6,
+      4
+    ],
+    "time": "",
+    "voice_actor": 158,
+    "voice_actor_2": -1,
+    "voice_lang": ""
+  },
   "801070": {
     "bg": "",
     "bg_sp": "",
@@ -263561,6 +264509,300 @@
     "voice_actor_2": -1,
     "voice_lang": ""
   },
+  "806020": {
+    "bg": "",
+    "bg_sp": "",
+    "bgm": "",
+    "bound_bone": {
+      "antiaircraft": [
+        [
+          0.833,
+          2.282,
+          0
+        ]
+      ],
+      "cannon": [
+        [
+          1.284,
+          0.933,
+          0
+        ]
+      ],
+      "torpedo": [
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      "vicegun": [
+        [
+          2.054,
+          0.718,
+          0
+        ]
+      ]
+    },
+    "change_skin": "",
+    "desc": "巨像级轻型航空母舰一一阿罗芒什",
+    "double_char": 0,
+    "fx_container": [
+      [
+        0,
+        1.99185,
+        1.15
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0.75,
+        -1.299
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "get_showing": "",
+    "group_index": 0,
+    "gyro": 0,
+    "hand_id": 13,
+    "id": 806020,
+    "illustrator": -1,
+    "illustrator2": -1,
+    "l2d_animations": "",
+    "l2d_drag_rate": "",
+    "l2d_ignore_drag": 0,
+    "l2d_para_range": "",
+    "l2d_se": "",
+    "l2d_voice_calibrate": "",
+    "lip_smoothing": 0,
+    "lip_sync_gain": 0,
+    "live2d_offset": [
+      0,
+      0,
+      0
+    ],
+    "live2d_offset_profile": "",
+    "lover_hand": "hand_1_02",
+    "lover_kiss": "lip03",
+    "main_UI_FX": "",
+    "name": "阿罗芒什",
+    "painting": "aluomangshi",
+    "part_scale": "",
+    "prefab": "aluomangshi",
+    "purchase_offset": "",
+    "rarity_bg": "",
+    "ship_group": 80602,
+    "ship_l2d_id": "",
+    "shop_dynamic_hx": 0,
+    "shop_id": 0,
+    "shop_offset": "",
+    "shop_type_id": 0,
+    "show_skin": "stand",
+    "skeleton_default_skin": "",
+    "skin_type": -1,
+    "smoke": [
+      [
+        50,
+        [
+          [
+            "smoke",
+            [
+              -0.625,
+              2.45,
+              0
+            ]
+          ]
+        ]
+      ]
+    ],
+    "special_effects": "",
+    "spine_action_offset": false,
+    "spine_offset": "",
+    "spine_offset_profile": "",
+    "spine_use_live2d": 0,
+    "tag": [],
+    "time": "",
+    "voice_actor": 511,
+    "voice_actor_2": -1,
+    "voice_lang": ""
+  },
+  "806021": {
+    "bg": "159",
+    "bg_sp": "",
+    "bgm": "",
+    "bound_bone": {
+      "antiaircraft": [
+        [
+          0.808,
+          2.274,
+          0
+        ]
+      ],
+      "cannon": [
+        [
+          1.252,
+          0.901,
+          0
+        ]
+      ],
+      "torpedo": [
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      "vicegun": [
+        [
+          1.796,
+          0.774,
+          0
+        ]
+      ]
+    },
+    "change_skin": "",
+    "desc": "保持重心……平衡……拉弓……欸？指挥官你来得正巧，我的新表演还缺个帮手呢~ ",
+    "double_char": 0,
+    "fx_container": [
+      [
+        0,
+        1.99185,
+        1.15
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0.75,
+        -1.299
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "get_showing": {
+      "data": [
+        [
+          391,
+          -834,
+          2.5,
+          0,
+          -86,
+          2
+        ],
+        [
+          -854,
+          -599,
+          2.5,
+          -132,
+          0,
+          2
+        ],
+        [
+          -764,
+          398,
+          2.5,
+          0,
+          135,
+          2
+        ]
+      ],
+      "show": 1
+    },
+    "group_index": 1,
+    "gyro": 0,
+    "hand_id": 13,
+    "id": 806021,
+    "illustrator": -1,
+    "illustrator2": -1,
+    "l2d_animations": "",
+    "l2d_drag_rate": "",
+    "l2d_ignore_drag": 0,
+    "l2d_para_range": "",
+    "l2d_se": "",
+    "l2d_voice_calibrate": "",
+    "lip_smoothing": 0,
+    "lip_sync_gain": 0,
+    "live2d_offset": [
+      0,
+      0,
+      0
+    ],
+    "live2d_offset_profile": "",
+    "lover_hand": "hand_1_02",
+    "lover_kiss": "lip03",
+    "main_UI_FX": "",
+    "name": "足尖弓矢",
+    "painting": "aluomangshi_2",
+    "part_scale": "",
+    "prefab": "aluomangshi_2",
+    "purchase_offset": "",
+    "rarity_bg": "",
+    "ship_group": 80602,
+    "ship_l2d_id": "",
+    "shop_dynamic_hx": 0,
+    "shop_id": 71372,
+    "shop_offset": [
+      -72.2,
+      -609.6,
+      0,
+      0.43
+    ],
+    "shop_type_id": 26,
+    "show_skin": "stand",
+    "skeleton_default_skin": "",
+    "skin_type": 4,
+    "smoke": [
+      [
+        50,
+        [
+          [
+            "smoke",
+            [
+              -0.714,
+              2.418,
+              0
+            ]
+          ]
+        ]
+      ]
+    ],
+    "special_effects": "",
+    "spine_action_offset": false,
+    "spine_offset": [
+      147,
+      -729,
+      0,
+      0.388
+    ],
+    "spine_offset_profile": [
+      -14.4,
+      -610.7,
+      0,
+      0.42
+    ],
+    "spine_use_live2d": 0,
+    "tag": [
+      7,
+      4
+    ],
+    "time": "",
+    "voice_actor": 511,
+    "voice_actor_2": -1,
+    "voice_lang": ""
+  },
   "807010": {
     "bg": "",
     "bg_sp": "",
@@ -264580,6 +265822,393 @@
     ],
     "time": "",
     "voice_actor": 85,
+    "voice_actor_2": -1,
+    "voice_lang": ""
+  },
+  "818010": {
+    "bg": "",
+    "bg_sp": "",
+    "bgm": "",
+    "bound_bone": {
+      "antiaircraft": [
+        [
+          0.929,
+          2.274,
+          0
+        ]
+      ],
+      "cannon": [
+        [
+          2.108,
+          0.963,
+          0
+        ]
+      ],
+      "torpedo": [
+        [
+          0.07,
+          0.09,
+          0
+        ]
+      ]
+    },
+    "change_skin": "",
+    "desc": "海军条约型23333长吨大型防护巡洋舰一一瑟堡",
+    "double_char": 0,
+    "fx_container": [
+      [
+        0,
+        1.99185,
+        1.15
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0.75,
+        -1.299
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "get_showing": "",
+    "group_index": 0,
+    "gyro": 0,
+    "hand_id": 1,
+    "id": 818010,
+    "illustrator": -1,
+    "illustrator2": -1,
+    "l2d_animations": "",
+    "l2d_drag_rate": "",
+    "l2d_ignore_drag": 0,
+    "l2d_para_range": "",
+    "l2d_se": "",
+    "l2d_voice_calibrate": "",
+    "lip_smoothing": 0,
+    "lip_sync_gain": 0,
+    "live2d_offset": [
+      0,
+      0,
+      0
+    ],
+    "live2d_offset_profile": "",
+    "lover_hand": "hand_1_02",
+    "lover_kiss": "lip03",
+    "main_UI_FX": "",
+    "name": "瑟堡",
+    "painting": "sebao",
+    "part_scale": "",
+    "prefab": "sebao",
+    "purchase_offset": "",
+    "rarity_bg": "",
+    "ship_group": 81801,
+    "ship_l2d_id": "",
+    "shop_dynamic_hx": 0,
+    "shop_id": 0,
+    "shop_offset": "",
+    "shop_type_id": 0,
+    "show_skin": "stand",
+    "skeleton_default_skin": "",
+    "skin_type": -1,
+    "smoke": [
+      [
+        50,
+        [
+          [
+            "smoke",
+            [
+              -0.758,
+              2.381,
+              -0.16
+            ]
+          ]
+        ]
+      ]
+    ],
+    "special_effects": [
+      "lihui_kalangshitade",
+      [
+        1597,
+        229,
+        0
+      ],
+      [
+        1.35
+      ]
+    ],
+    "spine_action_offset": false,
+    "spine_offset": [
+      -92,
+      -772,
+      0,
+      0.95
+    ],
+    "spine_offset_profile": "",
+    "spine_use_live2d": 0,
+    "tag": [],
+    "time": "",
+    "voice_actor": 509,
+    "voice_actor_2": -1,
+    "voice_lang": ""
+  },
+  "818011": {
+    "bg": "159",
+    "bg_sp": "",
+    "bgm": "",
+    "bound_bone": {
+      "antiaircraft": [
+        [
+          1.01,
+          2.419,
+          0
+        ]
+      ],
+      "cannon": [
+        [
+          2.14,
+          0.963,
+          0
+        ]
+      ],
+      "torpedo": [
+        [
+          0.07,
+          0.09,
+          0
+        ]
+      ]
+    },
+    "change_skin": "",
+    "desc": "哈……哈……布偶装里面，真的很热呢……这样惊人的出场方式，一定完全超出了指挥官你的意料吧，呵呵呵呵~",
+    "double_char": 0,
+    "fx_container": [
+      [
+        0,
+        1.99185,
+        1.15
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0.75,
+        -1.299
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "get_showing": {
+      "data": [
+        [
+          1346,
+          398,
+          2.5,
+          0,
+          -115,
+          2
+        ],
+        [
+          70,
+          -744,
+          2.5,
+          -155,
+          0,
+          2
+        ],
+        [
+          38,
+          126,
+          2.5,
+          0,
+          152,
+          2
+        ],
+        [
+          59,
+          1023.7,
+          2.5,
+          115,
+          0,
+          2
+        ]
+      ],
+      "show": 1
+    },
+    "group_index": 1,
+    "gyro": 0,
+    "hand_id": 1,
+    "id": 818011,
+    "illustrator": -1,
+    "illustrator2": -1,
+    "l2d_animations": [
+      "idle",
+      "main_1",
+      "main_2",
+      "main_3",
+      "mission",
+      "mission_complete",
+      "complete",
+      "login",
+      "home",
+      "mail",
+      "touch_body",
+      "touch_head"
+    ],
+    "l2d_drag_rate": "",
+    "l2d_ignore_drag": 0,
+    "l2d_para_range": "",
+    "l2d_se": "",
+    "l2d_voice_calibrate": {
+      "use_event": true
+    },
+    "lip_smoothing": 0,
+    "lip_sync_gain": 0,
+    "live2d_offset": [
+      0,
+      -120,
+      0,
+      70
+    ],
+    "live2d_offset_profile": [
+      0,
+      100,
+      0,
+      70
+    ],
+    "lover_hand": "hand_1_02",
+    "lover_kiss": "lip03",
+    "main_UI_FX": "",
+    "name": "布偶熊里面的是……？",
+    "painting": "sebao_2",
+    "part_scale": "",
+    "prefab": "sebao_2",
+    "purchase_offset": [
+      0,
+      110,
+      0,
+      70
+    ],
+    "rarity_bg": "",
+    "ship_group": 81801,
+    "ship_l2d_id": [
+      81801101,
+      81801102,
+      81801103,
+      81801104,
+      81801105,
+      81801106,
+      81801107,
+      81801108,
+      81801109,
+      81801110,
+      81801111,
+      81801112,
+      81801113,
+      81801114,
+      81801115,
+      81801116,
+      81801117,
+      81801118,
+      81801119,
+      81801120,
+      81801121,
+      81801122,
+      81801123,
+      81801124,
+      81801125,
+      81801126,
+      81801127,
+      81801128,
+      81801129,
+      81801130,
+      81801131,
+      81801132,
+      81801133,
+      81801134,
+      81801135,
+      81801136,
+      81801137,
+      81801138,
+      81801139,
+      81801140,
+      81801141,
+      81801142,
+      81801143,
+      81801144,
+      81801145,
+      81801146,
+      81801147,
+      81801148,
+      81801149,
+      81801150,
+      81801151,
+      81801152,
+      81801153,
+      81801154,
+      81801155,
+      81801156,
+      81801157,
+      81801158,
+      81801159,
+      81801160,
+      81801161,
+      81801162,
+      81801163,
+      81801164,
+      81801165,
+      81801166,
+      81801167
+    ],
+    "shop_dynamic_hx": 0,
+    "shop_id": 71378,
+    "shop_offset": [
+      0,
+      110,
+      0,
+      70
+    ],
+    "shop_type_id": 26,
+    "show_skin": "stand",
+    "skeleton_default_skin": "",
+    "skin_type": 4,
+    "smoke": [
+      [
+        50,
+        [
+          [
+            "smoke",
+            [
+              -0.815,
+              2.518,
+              -0.16
+            ]
+          ]
+        ]
+      ]
+    ],
+    "special_effects": "",
+    "spine_action_offset": false,
+    "spine_offset": "",
+    "spine_offset_profile": "",
+    "spine_use_live2d": 0,
+    "tag": [
+      9,
+      4
+    ],
+    "time": "",
+    "voice_actor": 509,
     "voice_actor_2": -1,
     "voice_lang": ""
   },
@@ -358054,6 +359683,7 @@
     403100,
     403101,
     403102,
+    403103,
     403110,
     403111,
     403112,
@@ -358346,6 +359976,7 @@
     605071,
     605080,
     605081,
+    605082,
     605090,
     605091,
     607010,
@@ -358358,6 +359989,7 @@
     608011,
     608020,
     608021,
+    608022,
     608030,
     608031,
     701020,
@@ -358476,6 +360108,8 @@
     801041,
     801050,
     801051,
+    801060,
+    801061,
     801070,
     801071,
     801072,
@@ -358517,6 +360151,8 @@
     805032,
     806010,
     806011,
+    806020,
+    806021,
     807010,
     807011,
     807020,
@@ -358525,6 +360161,8 @@
     808010,
     808011,
     808012,
+    818010,
+    818011,
     901010,
     901011,
     901012,
@@ -359326,6 +360964,7 @@
     499063,
     699010,
     699011,
+    699012,
     699030,
     699031,
     299050,
@@ -361881,7 +363520,8 @@
     "40310": [
       403100,
       403101,
-      403102
+      403102,
+      403103
     ],
     "40311": [
       403110,
@@ -362424,7 +364064,8 @@
     ],
     "60508": [
       605080,
-      605081
+      605081,
+      605082
     ],
     "60509": [
       605090,
@@ -362446,7 +364087,8 @@
     ],
     "60802": [
       608020,
-      608021
+      608021,
+      608022
     ],
     "60803": [
       608030,
@@ -362454,7 +364096,8 @@
     ],
     "69901": [
       699010,
-      699011
+      699011,
+      699012
     ],
     "69902": [
       699020,
@@ -362674,6 +364317,10 @@
       801050,
       801051
     ],
+    "80106": [
+      801060,
+      801061
+    ],
     "80107": [
       801070,
       801071,
@@ -362745,6 +364392,10 @@
       806010,
       806011
     ],
+    "80602": [
+      806020,
+      806021
+    ],
     "80701": [
       807010,
       807011
@@ -362758,6 +364409,10 @@
       808010,
       808011,
       808012
+    ],
+    "81801": [
+      818010,
+      818011
     ],
     "89901": [
       899010,
@@ -365225,6 +366880,7 @@
       801030,
       801040,
       801050,
+      801060,
       801070,
       801080,
       801090,
@@ -365240,9 +366896,11 @@
       805020,
       805030,
       806010,
+      806020,
       807010,
       807020,
       808010,
+      818010,
       901010,
       901020,
       901030,
@@ -367151,7 +368809,14 @@
       306063,
       319014,
       401353,
+      403103,
       519012,
+      605082,
+      608022,
+      801061,
+      806021,
+      818011,
+      699012,
       499072
     ],
     "27": [
