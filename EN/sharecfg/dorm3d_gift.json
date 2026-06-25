@@ -2,6 +2,7 @@
   "1021001": {
     "display": "A pink stuffed bunny with a scarf. It's made of soft materials that make you want to hug it all day.",
     "favor_trigger_id": 1009,
+    "hide_if_not_owned": 0,
     "icon": "dorm3dicon/3Ddrom_everyone_CommonGift3",
     "id": 1021001,
     "name": "Bunny Plushie",
@@ -30,10 +31,15 @@
       [
         49905,
         140301
+      ],
+      [
+        79902,
+        210301
       ]
     ],
     "ship_group_id": 0,
     "shop_id": "",
+    "time": "always",
     "unlock_banners": [
       [
         20220,
@@ -70,6 +76,12 @@
         [
           "banner_aijier"
         ]
+      ],
+      [
+        79902,
+        [
+          "banner_naximofu"
+        ]
       ]
     ],
     "unlock_dialogue_id": 0,
@@ -78,6 +90,7 @@
   "1021002": {
     "display": "This bouquet exudes a rich, captivating aroma. Both the roses and the other red flowers are practically dripping with emotion and romance.",
     "favor_trigger_id": 1010,
+    "hide_if_not_owned": 0,
     "icon": "dorm3dicon/3Ddrom_everyone_CommonGift2",
     "id": 1021002,
     "name": "Romantic's Bouquet",
@@ -106,6 +119,10 @@
       [
         49905,
         140302
+      ],
+      [
+        79902,
+        210302
       ]
     ],
     "ship_group_id": 0,
@@ -116,6 +133,7 @@
       260104,
       260105
     ],
+    "time": "always",
     "unlock_banners": [
       [
         20220,
@@ -152,6 +170,12 @@
         [
           "banner_aijier"
         ]
+      ],
+      [
+        79902,
+        [
+          "banner_naximofu"
+        ]
       ]
     ],
     "unlock_dialogue_id": 0,
@@ -160,6 +184,7 @@
   "1021003": {
     "display": "A meticulously wrapped box containing slices of delicious cake. You can eat them yourself, or you can gift them and make someone's day.",
     "favor_trigger_id": 1019,
+    "hide_if_not_owned": 0,
     "icon": "dorm3dicon/3Ddrom_everyone_CommonGift1",
     "id": 1021003,
     "name": "Cake Gift Box",
@@ -188,6 +213,10 @@
       [
         49905,
         140303
+      ],
+      [
+        79902,
+        210303
       ]
     ],
     "ship_group_id": 0,
@@ -195,6 +224,7 @@
       260201,
       260202
     ],
+    "time": "always",
     "unlock_banners": [
       [
         20220,
@@ -231,6 +261,12 @@
         [
           "banner_aijier"
         ]
+      ],
+      [
+        79902,
+        [
+          "banner_naximofu"
+        ]
       ]
     ],
     "unlock_dialogue_id": 0,
@@ -239,6 +275,7 @@
   "1051701": {
     "display": "The transparent glass jar is full of shiny, colorful candy. When you open the lid, you smell the sweet scent of bliss.",
     "favor_trigger_id": 1004,
+    "hide_if_not_owned": 0,
     "icon": "dorm3dicon/3Ddrom_xinzexi_CommonFurniture4",
     "id": 1051701,
     "name": "Crystal Candy",
@@ -253,6 +290,7 @@
     "shop_id": [
       260401
     ],
+    "time": "always",
     "unlock_banners": [
       [
         10517,
@@ -269,6 +307,7 @@
   "1051702": {
     "display": "With RGB lighting and precise haptic feedback, it's the perfect controller for everything – from casual fun to fierce competition!",
     "favor_trigger_id": 1004,
+    "hide_if_not_owned": 0,
     "icon": "dorm3dicon/3Ddrom_xinzexi_PremiumGift2",
     "id": 1051702,
     "name": "Gamepad",
@@ -283,6 +322,7 @@
     "shop_id": [
       260402
     ],
+    "time": "always",
     "unlock_banners": [
       [
         10517,
@@ -299,6 +339,7 @@
   "1990301": {
     "display": "An adorably colored canvas that seems to capture all of Anchorage's world within. Every line reflects her innocence.",
     "favor_trigger_id": 1004,
+    "hide_if_not_owned": 0,
     "icon": "dorm3dicon/3Ddrom_ankeleiqi_FancyGift1",
     "id": 1990301,
     "name": "Heart in Crayon",
@@ -313,6 +354,7 @@
     "shop_id": [
       260331
     ],
+    "time": "always",
     "unlock_banners": [
       [
         19903,
@@ -329,6 +371,7 @@
   "1990302": {
     "display": "A union of wavy ribbons and a wooden frame – a point where color and inspiration converge. Her creativity blooms with a burst of joy.",
     "favor_trigger_id": 1004,
+    "hide_if_not_owned": 0,
     "icon": "dorm3dicon/3Ddrom_ankeleiqi_FancyGift2",
     "id": 1990302,
     "name": "Elegant Frame",
@@ -343,6 +386,7 @@
     "shop_id": [
       260332
     ],
+    "time": "always",
     "unlock_banners": [
       [
         19903,
@@ -359,6 +403,7 @@
   "2022001": {
     "display": "A toolbox of must-have items for cleaning and tidying up both at home and at the workplace. It's built with durable and resilient materials to protect the tools inside from damage.",
     "favor_trigger_id": 1004,
+    "hide_if_not_owned": 0,
     "icon": "dorm3dicon/3Ddrom_tianlangxing_FancyGift2",
     "id": 2022001,
     "name": "Cleaning Supplies\nToolbox",
@@ -373,6 +418,7 @@
     "shop_id": [
       260301
     ],
+    "time": "always",
     "unlock_banners": [
       [
         20220,
@@ -389,6 +435,7 @@
   "2022002": {
     "display": "A classy, elegant tea set from the Royal Islands.\nIts blue and white design feels both refreshing and relaxing, bringing grace to your teatime.",
     "favor_trigger_id": 1004,
+    "hide_if_not_owned": 0,
     "icon": "dorm3dicon/3Ddrom_tianlangxing_FancyGift1",
     "id": 2022002,
     "name": "Royal Tea Set",
@@ -403,6 +450,7 @@
     "shop_id": [
       260302
     ],
+    "time": "always",
     "unlock_banners": [
       [
         20220,
@@ -419,6 +467,7 @@
   "2022003": {
     "display": "This book explains in detail the knowledge, skills, and mindset that a perfect maid must have, using examples and thought-out theory.\nIt urges the reader to carry the spirit of maidly service with them even in daily life.",
     "favor_trigger_id": 1004,
+    "hide_if_not_owned": 0,
     "icon": "dorm3dicon/3Ddrom_tianlangxing_FancyGift4",
     "id": 2022003,
     "name": "The Perfect Maid's\nGuidebook",
@@ -433,6 +482,7 @@
     "shop_id": [
       260303
     ],
+    "time": "always",
     "unlock_banners": [
       [
         20220,
@@ -449,6 +499,7 @@
   "3022101": {
     "display": "A simple design with a simple color scheme. Easy and comfortable to wear. \nThey fit perfectly around the heel and welcome your feet every time you put them on.",
     "favor_trigger_id": 1004,
+    "hide_if_not_owned": 0,
     "icon": "dorm3dicon/3Ddrom_nengdai_FancyGift1",
     "id": 3022101,
     "name": "Sincere Loafers",
@@ -463,6 +514,7 @@
     "shop_id": [
       260321
     ],
+    "time": "always",
     "unlock_banners": [
       [
         30221,
@@ -479,6 +531,7 @@
   "3022102": {
     "display": "Relieve your stress, soothe your mind, and feel your body's energy return to you!",
     "favor_trigger_id": 1004,
+    "hide_if_not_owned": 0,
     "icon": "dorm3dicon/3Ddrom_nengdai_FancyGift2",
     "id": 3022102,
     "name": "Foot Massager",
@@ -493,6 +546,7 @@
     "shop_id": [
       260322
     ],
+    "time": "always",
     "unlock_banners": [
       [
         30221,
@@ -509,6 +563,7 @@
   "3070701": {
     "display": "Handcuffs with a heart charm between them, simple yet profound. The cool touch of metal conveys a loving bond like nothing else.",
     "favor_trigger_id": 1004,
+    "hide_if_not_owned": 0,
     "icon": "dorm3dicon/3Ddrom_dafeng_FancyGift1",
     "id": 3070701,
     "name": "Love Enshackled",
@@ -523,6 +578,7 @@
     "shop_id": [
       260501
     ],
+    "time": "always",
     "unlock_banners": [
       [
         30707,
@@ -539,6 +595,7 @@
   "3070702": {
     "display": "The crimson tails unfurl like the sunset, black butterflies tied in a knot of affection. What awaits your fingertips is a wellspring of love that cannot be hidden beneath the warmth.",
     "favor_trigger_id": 1004,
+    "hide_if_not_owned": 0,
     "icon": "dorm3dicon/3Ddrom_dafeng_FancyGift2",
     "id": 3070702,
     "name": "Scarlet Invite",
@@ -553,6 +610,7 @@
     "shop_id": [
       260502
     ],
+    "time": "always",
     "unlock_banners": [
       [
         30707,
@@ -569,6 +627,7 @@
   "4990501": {
     "display": "A lovely, elegant glass resembling a rosebud beneath the dawnlight.\nWithin its curves, the memories of two people tenderly intermingle and coalesce.",
     "favor_trigger_id": 1004,
+    "hide_if_not_owned": 0,
     "icon": "dorm3dicon/3Ddrom_aijier_FancyGift1",
     "id": 4990501,
     "name": "Tulip Glass",
@@ -583,6 +642,7 @@
     "shop_id": [
       260601
     ],
+    "time": "always",
     "unlock_banners": [
       [
         49905,
@@ -595,6 +655,91 @@
     "unlock_tips": [
       4
     ]
+  },
+  "7990201": {
+    "display": "A toy known as the \"Instinct Instructor\" that uses a fish plushie to capture the trainee's gaze.\nAs it arcs through the air, it tempts the trainee, aiming to draw out their purest instincts.",
+    "favor_trigger_id": 1004,
+    "hide_if_not_owned": 0,
+    "icon": "dorm3dicon/3Ddrom_naximofu_FancyGift1",
+    "id": 7990201,
+    "name": "Instinct Instructor",
+    "rarity": 4,
+    "reply_dialogue_id": [
+      [
+        79902,
+        210304
+      ]
+    ],
+    "ship_group_id": 79902,
+    "shop_id": [
+      260701
+    ],
+    "time": "always",
+    "unlock_banners": [
+      [
+        79902,
+        [
+          "banner_gift7990201"
+        ]
+      ]
+    ],
+    "unlock_dialogue_id": 210541,
+    "unlock_tips": [
+      4
+    ]
+  },
+  "7990261": {
+    "display": "A soft and cuddly body pillow inspired by the joys of deep-sea fishing.\nPerfect for napping, or simply daydreaming.",
+    "favor_trigger_id": 1099,
+    "hide_if_not_owned": 1,
+    "icon": "dorm3dicon/3Ddrom_naximofu_FancyGift9",
+    "id": 7990261,
+    "name": "Deep Sea Fish Body Pillow",
+    "rarity": 4,
+    "reply_dialogue_id": [
+      [
+        79902,
+        210302
+      ]
+    ],
+    "ship_group_id": 79902,
+    "shop_id": [],
+    "time": [
+      [
+        [
+          2026,
+          6,
+          25
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2026,
+          7,
+          16
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
+    "unlock_banners": [
+      [
+        79902,
+        [
+          "banner_naximofu"
+        ]
+      ]
+    ],
+    "unlock_dialogue_id": 0,
+    "unlock_tips": []
   },
   "all": [
     1021001,
@@ -611,7 +756,9 @@
     1051702,
     3070701,
     3070702,
-    4990501
+    4990501,
+    7990201,
+    7990261
   ],
   "get_id_list_by_ship_group_id": {
     "0": [
@@ -642,6 +789,10 @@
     ],
     "49905": [
       4990501
+    ],
+    "79902": [
+      7990201,
+      7990261
     ]
   }
 }

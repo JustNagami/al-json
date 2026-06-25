@@ -39817,6 +39817,149 @@
     "title_res_tag": "Island_Sign",
     "type": 89
   },
+  "7505": {
+    "config_client": "",
+    "config_data": [
+      [
+        23920
+      ],
+      [
+        23921
+      ],
+      [
+        23922
+      ],
+      [
+        23923
+      ],
+      [
+        23924
+      ],
+      [
+        23925
+      ],
+      [
+        23926
+      ]
+    ],
+    "config_id": 0,
+    "id": 7505,
+    "is_show": 44,
+    "login_pop": 99,
+    "mark": 20260625,
+    "page_core": "",
+    "page_info": {
+      "class_name": "DormSignThirdPage",
+      "ui_name": "DormSignThirdPage"
+    },
+    "time": [
+      "timer",
+      [
+        [
+          2026,
+          6,
+          25
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2034,
+          12,
+          27
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
+    "title_res_tag": "DormSignThree",
+    "type": 89
+  },
+  "7506": {
+    "config_client": {
+      "subType": 1,
+      "unlock_task": [
+        [
+          27400
+        ],
+        [
+          27401
+        ],
+        [
+          27402
+        ],
+        [
+          27403
+        ],
+        [
+          27404
+        ],
+        [
+          27405
+        ],
+        [
+          27406
+        ]
+      ]
+    },
+    "config_data": [
+      [
+        27400,
+        27401,
+        27402,
+        27403,
+        27404,
+        27405,
+        27406
+      ]
+    ],
+    "config_id": 3,
+    "id": 7506,
+    "is_show": 44,
+    "login_pop": 99,
+    "mark": 20260625,
+    "page_core": "",
+    "page_info": {
+      "class_name": "DormTaskPage",
+      "ui_name": "DormTaskPage"
+    },
+    "time": [
+      "timer",
+      [
+        [
+          2026,
+          6,
+          25
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2026,
+          7,
+          8
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
+    "title_res_tag": "DormTask",
+    "type": 18
+  },
   "8009": {
     "config_client": "",
     "config_data": [],
@@ -79841,6 +79984,480 @@
     "title_res_tag": "OutPostCoreActivityUI_subtitle_4",
     "type": 18
   },
+  "50651": {
+    "config_client": {
+      "PTID": 726,
+      "entrance_bg": "activitybanner/temp10",
+      "shopItemID": 71378,
+      "task_id": 27265
+    },
+    "config_data": [
+      2040001,
+      2040002,
+      2040003,
+      2040021,
+      2040022,
+      2040023,
+      2040041
+    ],
+    "config_id": 0,
+    "id": 50651,
+    "is_show": 1,
+    "login_pop": 0,
+    "mark": 20260625,
+    "page_core": "DreamTourCoreActivityUI",
+    "page_info": {
+      "class_name": "DreamTourMainPage",
+      "ui_name": "DreamTourMainPage"
+    },
+    "time": [
+      "timer",
+      [
+        [
+          2026,
+          6,
+          25
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2026,
+          7,
+          8
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
+    "title_res_tag": "DreamTourCoreActivity_subtitle_1",
+    "type": 12
+  },
+  "50652": {
+    "config_client": {
+      "highValueItemSort": [
+        13,
+        21,
+        23,
+        25,
+        28
+      ],
+      "shopLinkActID": 50655
+    },
+    "config_data": [],
+    "config_id": 50652,
+    "id": 50652,
+    "is_show": 2,
+    "login_pop": 0,
+    "mark": 20260625,
+    "page_core": "DreamTourCoreActivityUI",
+    "page_info": {
+      "class_name": "DreamTourPtPage",
+      "ui_name": "DreamTourPtPage"
+    },
+    "time": [
+      "timer",
+      [
+        [
+          2026,
+          6,
+          25
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2026,
+          7,
+          15
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
+    "title_res_tag": "DreamTourCoreActivity_subtitle_2",
+    "type": 74
+  },
+  "50653": {
+    "config_client": "",
+    "config_data": [
+      [
+        31921,
+        100
+      ]
+    ],
+    "config_id": 1,
+    "id": 50653,
+    "is_show": 0,
+    "login_pop": 0,
+    "mark": 20260625,
+    "page_core": "",
+    "page_info": "",
+    "time": [
+      "timer",
+      [
+        [
+          2026,
+          6,
+          25
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2026,
+          7,
+          8
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
+    "title_res_tag": "",
+    "type": 27
+  },
+  "50654": {
+    "config_client": "",
+    "config_data": "100",
+    "config_id": 726,
+    "id": 50654,
+    "is_show": 0,
+    "login_pop": 0,
+    "mark": 20260625,
+    "page_core": "",
+    "page_info": "",
+    "time": [
+      "timer",
+      [
+        [
+          2026,
+          6,
+          25
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2026,
+          7,
+          15
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
+    "title_res_tag": "",
+    "type": 16
+  },
+  "50655": {
+    "config_client": {
+      "1": "commonbg/bg_pt_helanSP",
+      "2": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "painting": "aluomangshi_pt",
+      "pt_id": 726,
+      "use_secretary": false
+    },
+    "config_data": [
+      4101,
+      4102,
+      4103,
+      4104,
+      4105,
+      4106,
+      4107,
+      4108,
+      4109,
+      4110,
+      4111,
+      4112,
+      4113,
+      4114,
+      4115,
+      4116,
+      4117,
+      4118,
+      4119,
+      4120,
+      4121,
+      4122,
+      4123,
+      4124,
+      4125
+    ],
+    "config_id": 0,
+    "id": 50655,
+    "is_show": 0,
+    "login_pop": 0,
+    "mark": 20260625,
+    "page_core": "",
+    "page_info": "",
+    "time": [
+      "timer",
+      [
+        [
+          2026,
+          6,
+          25
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2026,
+          7,
+          15
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
+    "title_res_tag": "",
+    "type": 14
+  },
+  "50656": {
+    "config_client": "",
+    "config_data": [
+      27251,
+      27252,
+      27253,
+      27254,
+      27255,
+      27256,
+      27257,
+      27258,
+      27259,
+      27260,
+      27261,
+      27262,
+      27263,
+      27264,
+      27265
+    ],
+    "config_id": 0,
+    "id": 50656,
+    "is_show": 0,
+    "login_pop": 0,
+    "mark": 20260625,
+    "page_core": "",
+    "page_info": "",
+    "time": [
+      "timer",
+      [
+        [
+          2026,
+          6,
+          25
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2026,
+          7,
+          8
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
+    "title_res_tag": "",
+    "type": 13
+  },
+  "50657": {
+    "config_client": "",
+    "config_data": [
+      27305
+    ],
+    "config_id": 0,
+    "id": 50657,
+    "is_show": 0,
+    "login_pop": 0,
+    "mark": 20260625,
+    "page_core": "",
+    "page_info": "",
+    "time": [
+      "timer",
+      [
+        [
+          2026,
+          6,
+          25
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2026,
+          7,
+          8
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
+    "title_res_tag": "",
+    "type": 13
+  },
+  "50658": {
+    "config_client": {
+      "bg": "loadingbg/bg_build_4_act",
+      "buildship_tip": "Rate UP for Cherbourg and Prinz Adalbert!",
+      "id": 4,
+      "rate_tip": [
+        "<color=#ffde38>Super Rare</color>: 7%",
+        "<color=#d797ff>Elite</color>: 12%",
+        "<color=#3dc6ff>Rare</color>: 51%",
+        "Common: 30%",
+        "<color=#ffde38>Cherbourg</color>: 2.0% <color=#92FC63>(up!)</color>",
+        " ",
+        "<color=#ffde38>Prinz Adalbert</color>: 2.0% <color=#92FC63>(up!)</color>",
+        " ",
+        "<color=#ffde38>Arromanches</color>: 0.5%"
+      ]
+    },
+    "config_data": [],
+    "config_id": 4,
+    "id": 50658,
+    "is_show": 0,
+    "login_pop": 0,
+    "mark": 20260625,
+    "page_core": "",
+    "page_info": "",
+    "time": [
+      "timer",
+      [
+        [
+          2026,
+          6,
+          25
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2026,
+          7,
+          8
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
+    "title_res_tag": "",
+    "type": 1
+  },
+  "50659": {
+    "config_client": "",
+    "config_data": [
+      21975,
+      21976,
+      21977,
+      21978,
+      21979,
+      21980,
+      21981,
+      21982,
+      21983,
+      21984
+    ],
+    "config_id": 0,
+    "id": 50659,
+    "is_show": 0,
+    "login_pop": 0,
+    "mark": 20260625,
+    "page_core": "",
+    "page_info": "",
+    "time": [
+      "timer",
+      [
+        [
+          2026,
+          6,
+          25
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2026,
+          7,
+          15
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
+    "title_res_tag": "",
+    "type": 13
+  },
   "50801": {
     "config_client": "",
     "config_data": [
@@ -83138,6 +83755,48 @@
     "title_res_tag": "",
     "type": 13
   },
+  "51049": {
+    "config_client": "",
+    "config_data": [
+      27305
+    ],
+    "config_id": 0,
+    "id": 51049,
+    "is_show": 0,
+    "login_pop": 0,
+    "mark": 260625,
+    "page_core": "",
+    "page_info": "",
+    "time": [
+      "timer",
+      [
+        [
+          2026,
+          6,
+          25
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2026,
+          7,
+          8
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
+    "title_res_tag": "",
+    "type": 13
+  },
   "51050": {
     "config_client": {
       "activitytime": 51035,
@@ -85732,6 +86391,15 @@
     50624,
     50625,
     50630,
+    50651,
+    50652,
+    50653,
+    50654,
+    50655,
+    50656,
+    50657,
+    50658,
+    50659,
     51001,
     51002,
     51003,
@@ -85764,6 +86432,7 @@
     51046,
     51047,
     51048,
+    51049,
     51050,
     7001,
     7011,
@@ -85798,6 +86467,8 @@
     7501,
     7502,
     7503,
+    7505,
+    7506,
     8009,
     8010,
     8050,
@@ -86623,6 +87294,7 @@
       50816,
       50828,
       50614,
+      50658,
       51037,
       30006,
       30014,
@@ -86859,6 +87531,7 @@
       50825,
       50605,
       50606,
+      50651,
       51033,
       51034,
       30012,
@@ -87146,6 +87819,9 @@
       50616,
       50619,
       50624,
+      50656,
+      50657,
+      50659,
       51006,
       51014,
       51015,
@@ -87153,6 +87829,7 @@
       51035,
       51046,
       51048,
+      51049,
       1103,
       1104,
       1105,
@@ -87332,6 +88009,7 @@
       50807,
       50829,
       50611,
+      50655,
       51032,
       30013,
       30042,
@@ -87429,6 +88107,7 @@
       50827,
       50599,
       50625,
+      50654,
       51039,
       30015,
       30023,
@@ -87598,6 +88277,7 @@
       51005,
       51011,
       51041,
+      7506,
       6000,
       6001,
       6002,
@@ -87855,6 +88535,7 @@
       50803,
       50824,
       50601,
+      50653,
       51036,
       30003,
       30033,
@@ -88419,6 +89100,7 @@
       50833,
       50604,
       50621,
+      50652,
       51021,
       51013,
       51031,
@@ -88581,6 +89263,7 @@
       7501,
       7502,
       7503,
+      7505,
       990014
     ],
     "91": [

@@ -26519,6 +26519,87 @@
     "title": "",
     "type": 1
   },
+  "655": {
+    "group_id": 655,
+    "id": 655,
+    "is_active": 1,
+    "message_persist": "",
+    "name": "Cherbourg",
+    "npc_discuss_persist": [],
+    "oalist_pic_persist": "",
+    "picture_persist": "",
+    "sculpture": "sebao",
+    "ship_group": 81801,
+    "time": [
+      [
+        2026,
+        6,
+        25
+      ],
+      [
+        14,
+        8,
+        0
+      ]
+    ],
+    "time_persist": [],
+    "title": "",
+    "type": 1
+  },
+  "656": {
+    "group_id": 656,
+    "id": 656,
+    "is_active": 1,
+    "message_persist": "",
+    "name": "Arromanches",
+    "npc_discuss_persist": [],
+    "oalist_pic_persist": "",
+    "picture_persist": "",
+    "sculpture": "aluomangshi",
+    "ship_group": 80602,
+    "time": [
+      [
+        2026,
+        6,
+        26
+      ],
+      [
+        17,
+        35,
+        0
+      ]
+    ],
+    "time_persist": [],
+    "title": "",
+    "type": 1
+  },
+  "657": {
+    "group_id": 657,
+    "id": 657,
+    "is_active": 1,
+    "message_persist": "",
+    "name": "L'Intrépide",
+    "npc_discuss_persist": [],
+    "oalist_pic_persist": "",
+    "picture_persist": "",
+    "sculpture": "wuju",
+    "ship_group": 80106,
+    "time": [
+      [
+        2026,
+        6,
+        27
+      ],
+      [
+        18,
+        0,
+        0
+      ]
+    ],
+    "time_persist": [],
+    "title": "",
+    "type": 1
+  },
   "20001": {
     "group_id": 20001,
     "id": 20001,
@@ -26706,6 +26787,33 @@
     ],
     "time_persist": [],
     "title": "[Port Tales] The Secrets of the Volcano! Fu Shun's Bizarre Adventure (3) ",
+    "type": 2
+  },
+  "20008": {
+    "group_id": 20008,
+    "id": 20008,
+    "is_active": 1,
+    "message_persist": "",
+    "name": "",
+    "npc_discuss_persist": [],
+    "oalist_pic_persist": "",
+    "picture_persist": "",
+    "sculpture": "",
+    "ship_group": 0,
+    "time": [
+      [
+        2026,
+        6,
+        25
+      ],
+      [
+        16,
+        0,
+        0
+      ]
+    ],
+    "time_persist": [],
+    "title": "[Port News] The New Dream Circus Sees Countless Visitors Every Day!",
     "type": 2
   },
   "all": [
@@ -27353,12 +27461,16 @@
     648,
     649,
     643,
+    655,
+    656,
+    657,
     20001,
     20002,
     20003,
     20004,
     20006,
     20005,
-    20007
+    20007,
+    20008
   ]
 }

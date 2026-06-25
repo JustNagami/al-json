@@ -369,6 +369,66 @@
     "type_prioritys": "",
     "watch_camera": "tianlangxing"
   },
+  "21001": {
+    "id": 21001,
+    "is_global": 0,
+    "name": "Bedroom",
+    "room_id": 21,
+    "special_action": "",
+    "touch_id": "",
+    "type_prioritys": "",
+    "watch_camera": "Bed"
+  },
+  "21002": {
+    "id": 21002,
+    "is_global": 0,
+    "name": "Workshop",
+    "room_id": 21,
+    "special_action": "",
+    "touch_id": "",
+    "type_prioritys": "",
+    "watch_camera": "Table"
+  },
+  "21003": {
+    "id": 21003,
+    "is_global": 0,
+    "name": "Living Room",
+    "room_id": 21,
+    "special_action": "",
+    "touch_id": "",
+    "type_prioritys": "",
+    "watch_camera": "Chair"
+  },
+  "26001": {
+    "id": 26001,
+    "is_global": 0,
+    "name": "Parking Area",
+    "room_id": 26,
+    "special_action": "",
+    "touch_id": "",
+    "type_prioritys": "",
+    "watch_camera": "Parking"
+  },
+  "26002": {
+    "id": 26002,
+    "is_global": 0,
+    "name": "Rest Area",
+    "room_id": 26,
+    "special_action": "",
+    "touch_id": "",
+    "type_prioritys": "",
+    "watch_camera": "Relax"
+  },
+  "26003": {
+    "id": 26003,
+    "is_global": 0,
+    "name": "Training Area",
+    "room_id": 26,
+    "special_action": "",
+    "touch_id": "",
+    "type_prioritys": "",
+    "watch_camera": "Train"
+  },
   "all": [
     1000,
     1001,
@@ -397,7 +457,13 @@
     16001,
     16002,
     16003,
-    16004
+    16004,
+    21001,
+    21002,
+    21003,
+    26001,
+    26002,
+    26003
   ],
   "get_id_list_by_room_id": {
     "1": [
@@ -443,6 +509,16 @@
       16002,
       16003,
       16004
+    ],
+    "21": [
+      21001,
+      21002,
+      21003
+    ],
+    "26": [
+      26001,
+      26002,
+      26003
     ]
   }
 }

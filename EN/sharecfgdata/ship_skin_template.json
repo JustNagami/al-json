@@ -21240,7 +21240,11 @@
       10213447,
       10213448,
       10213449,
-      10213450
+      10213450,
+      10213451,
+      10213452,
+      10213453,
+      10213454
     ],
     "shop_dynamic_hx": 0,
     "shop_id": 71010,
@@ -194673,6 +194677,176 @@
     "voice_actor_2": -1,
     "voice_lang": ""
   },
+  "403103": {
+    "bg": "665",
+    "bg_sp": "",
+    "bgm": "",
+    "bound_bone": {
+      "antiaircraft": [
+        [
+          0.6,
+          2.44,
+          0
+        ]
+      ],
+      "cannon": [
+        [
+          0.77,
+          1.04,
+          0
+        ]
+      ],
+      "torpedo": [
+        [
+          0.021,
+          0.01,
+          0
+        ]
+      ],
+      "vicegun": [
+        [
+          0.99,
+          0.79,
+          0
+        ]
+      ]
+    },
+    "change_skin": "",
+    "desc": "Huh? Damn... You made it to the magician's training hall. Alright. I'll let ya be the first to see my new trick.",
+    "double_char": 0,
+    "fx_container": [
+      [
+        0,
+        1.99185,
+        1.15
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0.75,
+        -1.299
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "get_showing": {
+      "data": [
+        [
+          -1464,
+          107,
+          2,
+          0,
+          124,
+          2
+        ],
+        [
+          -312,
+          455,
+          2,
+          141,
+          0,
+          2
+        ],
+        [
+          -593,
+          -365,
+          2,
+          0,
+          -141,
+          2
+        ]
+      ],
+      "show": 1
+    },
+    "group_index": 3,
+    "gyro": 0,
+    "hand_id": 1,
+    "id": 403103,
+    "illustrator": -1,
+    "illustrator2": -1,
+    "l2d_animations": "",
+    "l2d_drag_rate": "",
+    "l2d_ignore_drag": 0,
+    "l2d_para_range": "",
+    "l2d_se": "",
+    "l2d_voice_calibrate": "",
+    "lip_smoothing": 0,
+    "lip_sync_gain": 0,
+    "live2d_offset": [
+      0,
+      0,
+      0
+    ],
+    "live2d_offset_profile": "",
+    "lover_hand": "hand_1_02",
+    "lover_kiss": "lip03",
+    "main_UI_FX": "",
+    "name": "The Black-and-White Magician",
+    "painting": "adaerbote_4",
+    "part_scale": "",
+    "prefab": "adaerbote_4",
+    "purchase_offset": "",
+    "rarity_bg": "",
+    "ship_group": 40310,
+    "ship_l2d_id": "",
+    "shop_dynamic_hx": 0,
+    "shop_id": 71377,
+    "shop_offset": [
+      -122,
+      -527.6,
+      0,
+      0.42
+    ],
+    "shop_type_id": 26,
+    "show_skin": "stand",
+    "skeleton_default_skin": "",
+    "skin_type": 0,
+    "smoke": [
+      [
+        50,
+        [
+          [
+            "smoke",
+            [
+              -0.74,
+              2.48,
+              0
+            ]
+          ]
+        ]
+      ]
+    ],
+    "special_effects": "",
+    "spine_action_offset": false,
+    "spine_offset": [
+      147.3,
+      -548.5,
+      0,
+      0.41
+    ],
+    "spine_offset_profile": [
+      -60.1,
+      -517.3,
+      0,
+      0.41
+    ],
+    "spine_use_live2d": 0,
+    "tag": [
+      6,
+      2
+    ],
+    "time": "",
+    "voice_actor": 297,
+    "voice_actor_2": -1,
+    "voice_lang": ""
+  },
   "403110": {
     "bg": "",
     "bg_sp": "",
@@ -213528,7 +213702,7 @@
     "get_showing": {
       "data": [
         [
-          1480,
+          1470,
           356,
           2,
           0,
@@ -213536,10 +213710,10 @@
           2
         ],
         [
-          239,
-          1023.8,
+          240,
+          1023,
           3,
-          -123,
+          -124,
           0,
           2
         ],
@@ -237732,6 +237906,176 @@
     "voice_actor_2": -1,
     "voice_lang": ""
   },
+  "605082": {
+    "bg": "665",
+    "bg_sp": "",
+    "bgm": "",
+    "bound_bone": {
+      "antiaircraft": [
+        [
+          0.689,
+          2.277,
+          0
+        ]
+      ],
+      "cannon": [
+        [
+          1.63,
+          0.91,
+          0
+        ]
+      ],
+      "torpedo": [
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      "vicegun": [
+        [
+          1.61,
+          1.44,
+          0
+        ]
+      ]
+    },
+    "change_skin": "",
+    "desc": "Welcome to the Circus Art Roadshow! What do you think, Commander? Did my present make your heart race? I used everything I have to complete this art... And I mean EVERYTHING♪",
+    "double_char": 0,
+    "fx_container": [
+      [
+        0,
+        1.99185,
+        1.15
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0.75,
+        -1.299
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "get_showing": {
+      "data": [
+        [
+          -2363,
+          765.98,
+          2,
+          153,
+          0,
+          2
+        ],
+        [
+          201,
+          533,
+          1.5,
+          0,
+          -185,
+          2
+        ],
+        [
+          -519,
+          -124,
+          1.5,
+          -133,
+          0,
+          2
+        ]
+      ],
+      "show": 1
+    },
+    "group_index": 2,
+    "gyro": 0,
+    "hand_id": 1,
+    "id": 605082,
+    "illustrator": -1,
+    "illustrator2": -1,
+    "l2d_animations": "",
+    "l2d_drag_rate": "",
+    "l2d_ignore_drag": 0,
+    "l2d_para_range": "",
+    "l2d_se": "",
+    "l2d_voice_calibrate": "",
+    "lip_smoothing": 0,
+    "lip_sync_gain": 0,
+    "live2d_offset": [
+      0,
+      0,
+      0
+    ],
+    "live2d_offset_profile": "",
+    "lover_hand": "hand_1_02",
+    "lover_kiss": "lip03",
+    "main_UI_FX": "",
+    "name": "Magical Combo Masterpiece",
+    "painting": "lafeier_3",
+    "part_scale": "",
+    "prefab": "lafeier_3",
+    "purchase_offset": "",
+    "rarity_bg": "",
+    "ship_group": 60508,
+    "ship_l2d_id": "",
+    "shop_dynamic_hx": 0,
+    "shop_id": 71374,
+    "shop_offset": [
+      -194.3,
+      -816.5,
+      0,
+      0.61
+    ],
+    "shop_type_id": 26,
+    "show_skin": "stand",
+    "skeleton_default_skin": "",
+    "skin_type": 0,
+    "smoke": [
+      [
+        50,
+        [
+          [
+            "smoke",
+            [
+              -0.65,
+              2.338,
+              0
+            ]
+          ]
+        ]
+      ]
+    ],
+    "special_effects": "",
+    "spine_action_offset": false,
+    "spine_offset": [
+      146,
+      -1322.7,
+      0,
+      0.84
+    ],
+    "spine_offset_profile": [
+      -139.3,
+      -803.2,
+      0,
+      0.6
+    ],
+    "spine_use_live2d": 0,
+    "tag": [
+      6,
+      2
+    ],
+    "time": "",
+    "voice_actor": 441,
+    "voice_actor_2": -1,
+    "voice_lang": ""
+  },
   "605090": {
     "bg": "",
     "bg_sp": "",
@@ -239208,6 +239552,146 @@
     "voice_actor_2": -1,
     "voice_lang": ""
   },
+  "608022": {
+    "bg": "665",
+    "bg_sp": "",
+    "bgm": "",
+    "bound_bone": {
+      "cannon": [
+        [
+          0.61,
+          0.71,
+          0
+        ]
+      ],
+      "torpedo": [
+        [
+          0,
+          0.05,
+          0
+        ]
+      ]
+    },
+    "change_skin": "",
+    "desc": "Ah, Commander! I got a flash of inspiration when I swung to the top just now! Let the magic show begin now!",
+    "double_char": 0,
+    "fx_container": [
+      [
+        0,
+        1.99185,
+        1.15
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0.75,
+        -1.299
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "get_showing": {
+      "data": [
+        [
+          -1695,
+          -83,
+          1.8,
+          0,
+          174,
+          2
+        ],
+        [
+          -1331,
+          704,
+          1.8,
+          116,
+          0,
+          2
+        ],
+        [
+          -329,
+          -166,
+          1.8,
+          0,
+          -141,
+          2
+        ]
+      ],
+      "show": 1
+    },
+    "group_index": 2,
+    "gyro": 0,
+    "hand_id": 13,
+    "id": 608022,
+    "illustrator": -1,
+    "illustrator2": -1,
+    "l2d_animations": "",
+    "l2d_drag_rate": "",
+    "l2d_ignore_drag": 0,
+    "l2d_para_range": "",
+    "l2d_se": "",
+    "l2d_voice_calibrate": "",
+    "lip_smoothing": 0,
+    "lip_sync_gain": 0,
+    "live2d_offset": [
+      0,
+      0,
+      0
+    ],
+    "live2d_offset_profile": "",
+    "lover_hand": "hand_2_02",
+    "lover_kiss": "lip02",
+    "main_UI_FX": "",
+    "name": "Swinging Inventor Girl",
+    "painting": "dafenqi_3",
+    "part_scale": "",
+    "prefab": "dafenqi_3",
+    "purchase_offset": "",
+    "rarity_bg": "",
+    "ship_group": 60802,
+    "ship_l2d_id": "",
+    "shop_dynamic_hx": 0,
+    "shop_id": 71375,
+    "shop_offset": "",
+    "shop_type_id": 26,
+    "show_skin": "stand",
+    "skeleton_default_skin": "",
+    "skin_type": 0,
+    "smoke": [
+      [
+        50,
+        [
+          [
+            "smoke",
+            [
+              -0.63,
+              2.42,
+              0
+            ]
+          ]
+        ]
+      ]
+    ],
+    "special_effects": "",
+    "spine_action_offset": false,
+    "spine_offset": "",
+    "spine_offset_profile": "",
+    "spine_use_live2d": 0,
+    "tag": [
+      2
+    ],
+    "time": "",
+    "voice_actor": 332,
+    "voice_actor_2": -1,
+    "voice_lang": ""
+  },
   "608030": {
     "bg": "",
     "bg_sp": "",
@@ -239679,6 +240163,176 @@
     "spine_offset_profile": "",
     "spine_use_live2d": 0,
     "tag": [
+      2
+    ],
+    "time": "",
+    "voice_actor": 280,
+    "voice_actor_2": -1,
+    "voice_lang": ""
+  },
+  "699012": {
+    "bg": "665",
+    "bg_sp": "",
+    "bgm": "",
+    "bound_bone": {
+      "antiaircraft": [
+        [
+          0.61,
+          2.65,
+          0
+        ]
+      ],
+      "cannon": [
+        [
+          1.51,
+          1.24,
+          0
+        ]
+      ],
+      "torpedo": [
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      "vicegun": [
+        [
+          1.23,
+          0.77,
+          0
+        ]
+      ]
+    },
+    "change_skin": "",
+    "desc": "Welcome to Marco Polo's magic show! Make sure you watch closely, Commander, and pay attention! Don't get too engrossed in the entertainment, now! Ooohohoho!",
+    "double_char": 0,
+    "fx_container": [
+      [
+        0,
+        1.99185,
+        1.15
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0.75,
+        -1.299
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "get_showing": {
+      "data": [
+        [
+          -1471,
+          -895,
+          2,
+          0,
+          157,
+          2
+        ],
+        [
+          -1256,
+          156,
+          2,
+          157,
+          0,
+          2
+        ],
+        [
+          -14,
+          -382,
+          2,
+          0,
+          -182,
+          2
+        ]
+      ],
+      "show": 1
+    },
+    "group_index": 2,
+    "gyro": 0,
+    "hand_id": 1,
+    "id": 699012,
+    "illustrator": -1,
+    "illustrator2": -1,
+    "l2d_animations": "",
+    "l2d_drag_rate": "",
+    "l2d_ignore_drag": 0,
+    "l2d_para_range": "",
+    "l2d_se": "",
+    "l2d_voice_calibrate": "",
+    "lip_smoothing": 0,
+    "lip_sync_gain": 0,
+    "live2d_offset": [
+      0,
+      0,
+      0
+    ],
+    "live2d_offset_profile": "",
+    "lover_hand": "hand_1_02",
+    "lover_kiss": "lip03",
+    "main_UI_FX": "",
+    "name": "Ambitious Showcase",
+    "painting": "makeboluo_3",
+    "part_scale": "",
+    "prefab": "makeboluo_3",
+    "purchase_offset": "",
+    "rarity_bg": "",
+    "ship_group": 69901,
+    "ship_l2d_id": "",
+    "shop_dynamic_hx": 0,
+    "shop_id": 71376,
+    "shop_offset": [
+      -22,
+      -601,
+      0,
+      0.7
+    ],
+    "shop_type_id": 26,
+    "show_skin": "stand",
+    "skeleton_default_skin": "",
+    "skin_type": 0,
+    "smoke": [
+      [
+        50,
+        [
+          [
+            "smoke",
+            [
+              -0.65,
+              2.43,
+              0
+            ]
+          ]
+        ]
+      ]
+    ],
+    "special_effects": "",
+    "spine_action_offset": false,
+    "spine_offset": [
+      -37.8,
+      -703.6,
+      0,
+      0.87
+    ],
+    "spine_offset_profile": [
+      44,
+      -576,
+      0,
+      0.69
+    ],
+    "spine_use_live2d": 0,
+    "tag": [
+      6,
       2
     ],
     "time": "",
@@ -256743,6 +257397,300 @@
     "voice_actor_2": -1,
     "voice_lang": ""
   },
+  "801060": {
+    "bg": "",
+    "bg_sp": "",
+    "bgm": "",
+    "bound_bone": {
+      "antiaircraft": [
+        [
+          0.89,
+          0.537,
+          0
+        ]
+      ],
+      "cannon": [
+        [
+          0.95,
+          0.587,
+          0
+        ]
+      ],
+      "torpedo": [
+        [
+          0.151,
+          0.051,
+          0
+        ]
+      ],
+      "vicegun": [
+        [
+          0.95,
+          0.54,
+          0
+        ]
+      ]
+    },
+    "change_skin": "",
+    "desc": "Le Hardi-class destroyer – L'Intrépide.",
+    "double_char": 0,
+    "fx_container": [
+      [
+        0,
+        1.99185,
+        1.15
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0.75,
+        -1.299
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "get_showing": "",
+    "group_index": 0,
+    "gyro": 0,
+    "hand_id": 13,
+    "id": 801060,
+    "illustrator": -1,
+    "illustrator2": -1,
+    "l2d_animations": "",
+    "l2d_drag_rate": "",
+    "l2d_ignore_drag": 0,
+    "l2d_para_range": "",
+    "l2d_se": "",
+    "l2d_voice_calibrate": "",
+    "lip_smoothing": 0,
+    "lip_sync_gain": 0,
+    "live2d_offset": [
+      0,
+      0,
+      0
+    ],
+    "live2d_offset_profile": "",
+    "lover_hand": "hand_2_02",
+    "lover_kiss": "lip02",
+    "main_UI_FX": "",
+    "name": "L'Intrépide",
+    "painting": "wuju",
+    "part_scale": "",
+    "prefab": "wuju",
+    "purchase_offset": "",
+    "rarity_bg": "",
+    "ship_group": 80106,
+    "ship_l2d_id": "",
+    "shop_dynamic_hx": 0,
+    "shop_id": 0,
+    "shop_offset": "",
+    "shop_type_id": 0,
+    "show_skin": "stand",
+    "skeleton_default_skin": "",
+    "skin_type": -1,
+    "smoke": [
+      [
+        50,
+        [
+          [
+            "smoke",
+            [
+              -0.6,
+              2.26,
+              0
+            ]
+          ]
+        ]
+      ]
+    ],
+    "special_effects": "",
+    "spine_action_offset": false,
+    "spine_offset": "",
+    "spine_offset_profile": "",
+    "spine_use_live2d": 0,
+    "tag": [],
+    "time": "",
+    "voice_actor": 510,
+    "voice_actor_2": -1,
+    "voice_lang": ""
+  },
+  "801061": {
+    "bg": "159",
+    "bg_sp": "",
+    "bgm": "",
+    "bound_bone": {
+      "antiaircraft": [
+        [
+          0.761,
+          2.291,
+          0
+        ]
+      ],
+      "cannon": [
+        [
+          1.015,
+          1.282,
+          0
+        ]
+      ],
+      "torpedo": [
+        [
+          -0.14,
+          0.035,
+          0
+        ]
+      ],
+      "vicegun": [
+        [
+          1.362,
+          1.486,
+          0
+        ]
+      ]
+    },
+    "change_skin": "",
+    "desc": "Heheh, here comes the grand finale! Watch in amazement as I snatch the meat from that ring of fire and put the finishing touch to tonight's feast! Don't blink, Commander!",
+    "double_char": 0,
+    "fx_container": [
+      [
+        0,
+        1.99185,
+        1.15
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0.75,
+        -1.299
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "get_showing": {
+      "data": [
+        [
+          1176,
+          -201,
+          2.5,
+          0,
+          165,
+          2
+        ],
+        [
+          -629,
+          827,
+          2,
+          -119,
+          0,
+          2
+        ],
+        [
+          -519,
+          -378,
+          2,
+          0,
+          -177,
+          2
+        ]
+      ],
+      "show": 1
+    },
+    "group_index": 1,
+    "gyro": 0,
+    "hand_id": 13,
+    "id": 801061,
+    "illustrator": -1,
+    "illustrator2": -1,
+    "l2d_animations": "",
+    "l2d_drag_rate": "",
+    "l2d_ignore_drag": 0,
+    "l2d_para_range": "",
+    "l2d_se": "",
+    "l2d_voice_calibrate": "",
+    "lip_smoothing": 0,
+    "lip_sync_gain": 0,
+    "live2d_offset": [
+      0,
+      0,
+      0
+    ],
+    "live2d_offset_profile": "",
+    "lover_hand": "hand_2_02",
+    "lover_kiss": "lip02",
+    "main_UI_FX": "",
+    "name": "Blazing Dash!",
+    "painting": "wuju_2",
+    "part_scale": "",
+    "prefab": "wuju_2",
+    "purchase_offset": "",
+    "rarity_bg": "",
+    "ship_group": 80106,
+    "ship_l2d_id": "",
+    "shop_dynamic_hx": 0,
+    "shop_id": 71373,
+    "shop_offset": [
+      -143,
+      -1028,
+      0,
+      0.7
+    ],
+    "shop_type_id": 26,
+    "show_skin": "stand",
+    "skeleton_default_skin": "",
+    "skin_type": 0,
+    "smoke": [
+      [
+        50,
+        [
+          [
+            "smoke",
+            [
+              -0.778,
+              2.389,
+              0
+            ]
+          ]
+        ]
+      ]
+    ],
+    "special_effects": "",
+    "spine_action_offset": false,
+    "spine_offset": [
+      90.8,
+      -1014.1,
+      0,
+      0.73
+    ],
+    "spine_offset_profile": [
+      -46.2,
+      -936.1,
+      0,
+      0.65
+    ],
+    "spine_use_live2d": 0,
+    "tag": [
+      6,
+      4
+    ],
+    "time": "",
+    "voice_actor": 510,
+    "voice_actor_2": -1,
+    "voice_lang": ""
+  },
   "801070": {
     "bg": "",
     "bg_sp": "",
@@ -262556,6 +263504,300 @@
     "voice_actor_2": -1,
     "voice_lang": ""
   },
+  "806020": {
+    "bg": "",
+    "bg_sp": "",
+    "bgm": "",
+    "bound_bone": {
+      "antiaircraft": [
+        [
+          0.833,
+          2.282,
+          0
+        ]
+      ],
+      "cannon": [
+        [
+          1.284,
+          0.933,
+          0
+        ]
+      ],
+      "torpedo": [
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      "vicegun": [
+        [
+          2.054,
+          0.718,
+          0
+        ]
+      ]
+    },
+    "change_skin": "",
+    "desc": "Colossus-class light aircraft carrier – Arromanches.",
+    "double_char": 0,
+    "fx_container": [
+      [
+        0,
+        1.99185,
+        1.15
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0.75,
+        -1.299
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "get_showing": "",
+    "group_index": 0,
+    "gyro": 0,
+    "hand_id": 13,
+    "id": 806020,
+    "illustrator": -1,
+    "illustrator2": -1,
+    "l2d_animations": "",
+    "l2d_drag_rate": "",
+    "l2d_ignore_drag": 0,
+    "l2d_para_range": "",
+    "l2d_se": "",
+    "l2d_voice_calibrate": "",
+    "lip_smoothing": 0,
+    "lip_sync_gain": 0,
+    "live2d_offset": [
+      0,
+      0,
+      0
+    ],
+    "live2d_offset_profile": "",
+    "lover_hand": "hand_1_02",
+    "lover_kiss": "lip03",
+    "main_UI_FX": "",
+    "name": "Arromanches",
+    "painting": "aluomangshi",
+    "part_scale": "",
+    "prefab": "aluomangshi",
+    "purchase_offset": "",
+    "rarity_bg": "",
+    "ship_group": 80602,
+    "ship_l2d_id": "",
+    "shop_dynamic_hx": 0,
+    "shop_id": 0,
+    "shop_offset": "",
+    "shop_type_id": 0,
+    "show_skin": "stand",
+    "skeleton_default_skin": "",
+    "skin_type": -1,
+    "smoke": [
+      [
+        50,
+        [
+          [
+            "smoke",
+            [
+              -0.625,
+              2.45,
+              0
+            ]
+          ]
+        ]
+      ]
+    ],
+    "special_effects": "",
+    "spine_action_offset": false,
+    "spine_offset": "",
+    "spine_offset_profile": "",
+    "spine_use_live2d": 0,
+    "tag": [],
+    "time": "",
+    "voice_actor": 511,
+    "voice_actor_2": -1,
+    "voice_lang": ""
+  },
+  "806021": {
+    "bg": "159",
+    "bg_sp": "",
+    "bgm": "",
+    "bound_bone": {
+      "antiaircraft": [
+        [
+          0.808,
+          2.274,
+          0
+        ]
+      ],
+      "cannon": [
+        [
+          1.252,
+          0.901,
+          0
+        ]
+      ],
+      "torpedo": [
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      "vicegun": [
+        [
+          1.796,
+          0.774,
+          0
+        ]
+      ]
+    },
+    "change_skin": "",
+    "desc": "Focus your core, keep your center of balance... Draw the bow, and... Huh? Great timing, Commander! I was just looking for an assistant for my new performance!",
+    "double_char": 0,
+    "fx_container": [
+      [
+        0,
+        1.99185,
+        1.15
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0.75,
+        -1.299
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "get_showing": {
+      "data": [
+        [
+          391,
+          -834,
+          2.5,
+          0,
+          -86,
+          2
+        ],
+        [
+          -854,
+          -599,
+          2.5,
+          -132,
+          0,
+          2
+        ],
+        [
+          -764,
+          398,
+          2.5,
+          0,
+          135,
+          2
+        ]
+      ],
+      "show": 1
+    },
+    "group_index": 1,
+    "gyro": 0,
+    "hand_id": 13,
+    "id": 806021,
+    "illustrator": -1,
+    "illustrator2": -1,
+    "l2d_animations": "",
+    "l2d_drag_rate": "",
+    "l2d_ignore_drag": 0,
+    "l2d_para_range": "",
+    "l2d_se": "",
+    "l2d_voice_calibrate": "",
+    "lip_smoothing": 0,
+    "lip_sync_gain": 0,
+    "live2d_offset": [
+      0,
+      0,
+      0
+    ],
+    "live2d_offset_profile": "",
+    "lover_hand": "hand_1_02",
+    "lover_kiss": "lip03",
+    "main_UI_FX": "",
+    "name": "Acrobatic Archery",
+    "painting": "aluomangshi_2",
+    "part_scale": "",
+    "prefab": "aluomangshi_2",
+    "purchase_offset": "",
+    "rarity_bg": "",
+    "ship_group": 80602,
+    "ship_l2d_id": "",
+    "shop_dynamic_hx": 0,
+    "shop_id": 71372,
+    "shop_offset": [
+      -72.2,
+      -609.6,
+      0,
+      0.43
+    ],
+    "shop_type_id": 26,
+    "show_skin": "stand",
+    "skeleton_default_skin": "",
+    "skin_type": 0,
+    "smoke": [
+      [
+        50,
+        [
+          [
+            "smoke",
+            [
+              -0.714,
+              2.418,
+              0
+            ]
+          ]
+        ]
+      ]
+    ],
+    "special_effects": "",
+    "spine_action_offset": false,
+    "spine_offset": [
+      147,
+      -729,
+      0,
+      0.388
+    ],
+    "spine_offset_profile": [
+      -14.4,
+      -610.7,
+      0,
+      0.42
+    ],
+    "spine_use_live2d": 0,
+    "tag": [
+      7,
+      4
+    ],
+    "time": "",
+    "voice_actor": 511,
+    "voice_actor_2": -1,
+    "voice_lang": ""
+  },
   "807010": {
     "bg": "",
     "bg_sp": "",
@@ -263576,6 +264818,393 @@
     ],
     "time": "",
     "voice_actor": 85,
+    "voice_actor_2": -1,
+    "voice_lang": ""
+  },
+  "818010": {
+    "bg": "",
+    "bg_sp": "",
+    "bgm": "",
+    "bound_bone": {
+      "antiaircraft": [
+        [
+          0.929,
+          2.274,
+          0
+        ]
+      ],
+      "cannon": [
+        [
+          2.108,
+          0.963,
+          0
+        ]
+      ],
+      "torpedo": [
+        [
+          0.07,
+          0.09,
+          0
+        ]
+      ]
+    },
+    "change_skin": "",
+    "desc": "Naval treaty specification 23,333 long ton protected cruiser – Cherbourg.",
+    "double_char": 0,
+    "fx_container": [
+      [
+        0,
+        1.99185,
+        1.15
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0.75,
+        -1.299
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "get_showing": "",
+    "group_index": 0,
+    "gyro": 0,
+    "hand_id": 1,
+    "id": 818010,
+    "illustrator": -1,
+    "illustrator2": -1,
+    "l2d_animations": "",
+    "l2d_drag_rate": "",
+    "l2d_ignore_drag": 0,
+    "l2d_para_range": "",
+    "l2d_se": "",
+    "l2d_voice_calibrate": "",
+    "lip_smoothing": 0,
+    "lip_sync_gain": 0,
+    "live2d_offset": [
+      0,
+      0,
+      0
+    ],
+    "live2d_offset_profile": "",
+    "lover_hand": "hand_1_02",
+    "lover_kiss": "lip03",
+    "main_UI_FX": "",
+    "name": "Cherbourg",
+    "painting": "sebao",
+    "part_scale": "",
+    "prefab": "sebao",
+    "purchase_offset": "",
+    "rarity_bg": "",
+    "ship_group": 81801,
+    "ship_l2d_id": "",
+    "shop_dynamic_hx": 0,
+    "shop_id": 0,
+    "shop_offset": "",
+    "shop_type_id": 0,
+    "show_skin": "stand",
+    "skeleton_default_skin": "",
+    "skin_type": -1,
+    "smoke": [
+      [
+        50,
+        [
+          [
+            "smoke",
+            [
+              -0.758,
+              2.381,
+              -0.16
+            ]
+          ]
+        ]
+      ]
+    ],
+    "special_effects": [
+      "lihui_kalangshitade",
+      [
+        1597,
+        229,
+        0
+      ],
+      [
+        1.35
+      ]
+    ],
+    "spine_action_offset": false,
+    "spine_offset": [
+      -92,
+      -772,
+      0,
+      0.95
+    ],
+    "spine_offset_profile": "",
+    "spine_use_live2d": 0,
+    "tag": [],
+    "time": "",
+    "voice_actor": 509,
+    "voice_actor_2": -1,
+    "voice_lang": ""
+  },
+  "818011": {
+    "bg": "159",
+    "bg_sp": "",
+    "bgm": "",
+    "bound_bone": {
+      "antiaircraft": [
+        [
+          1.01,
+          2.419,
+          0
+        ]
+      ],
+      "cannon": [
+        [
+          2.14,
+          0.963,
+          0
+        ]
+      ],
+      "torpedo": [
+        [
+          0.07,
+          0.09,
+          0
+        ]
+      ]
+    },
+    "change_skin": "",
+    "desc": "*pant*... It's really hot inside the teddy bear suit... I bet that dynamic entrance took you by surprise, didn't it? Heheh!",
+    "double_char": 0,
+    "fx_container": [
+      [
+        0,
+        1.99185,
+        1.15
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0.75,
+        -1.299
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "get_showing": {
+      "data": [
+        [
+          1346,
+          398,
+          2.5,
+          0,
+          -115,
+          2
+        ],
+        [
+          70,
+          -744,
+          2.5,
+          -155,
+          0,
+          2
+        ],
+        [
+          38,
+          126,
+          2.5,
+          0,
+          152,
+          2
+        ],
+        [
+          59,
+          1023.7,
+          2.5,
+          115,
+          0,
+          2
+        ]
+      ],
+      "show": 1
+    },
+    "group_index": 1,
+    "gyro": 0,
+    "hand_id": 1,
+    "id": 818011,
+    "illustrator": -1,
+    "illustrator2": -1,
+    "l2d_animations": [
+      "idle",
+      "main_1",
+      "main_2",
+      "main_3",
+      "mission",
+      "mission_complete",
+      "complete",
+      "login",
+      "home",
+      "mail",
+      "touch_body",
+      "touch_head"
+    ],
+    "l2d_drag_rate": "",
+    "l2d_ignore_drag": 0,
+    "l2d_para_range": "",
+    "l2d_se": "",
+    "l2d_voice_calibrate": {
+      "use_event": true
+    },
+    "lip_smoothing": 0,
+    "lip_sync_gain": 0,
+    "live2d_offset": [
+      0,
+      -120,
+      0,
+      70
+    ],
+    "live2d_offset_profile": [
+      0,
+      100,
+      0,
+      70
+    ],
+    "lover_hand": "hand_1_02",
+    "lover_kiss": "lip03",
+    "main_UI_FX": "",
+    "name": "What's Inside the Bear",
+    "painting": "sebao_2",
+    "part_scale": "",
+    "prefab": "sebao_2",
+    "purchase_offset": [
+      0,
+      110,
+      0,
+      70
+    ],
+    "rarity_bg": "",
+    "ship_group": 81801,
+    "ship_l2d_id": [
+      81801101,
+      81801102,
+      81801103,
+      81801104,
+      81801105,
+      81801106,
+      81801107,
+      81801108,
+      81801109,
+      81801110,
+      81801111,
+      81801112,
+      81801113,
+      81801114,
+      81801115,
+      81801116,
+      81801117,
+      81801118,
+      81801119,
+      81801120,
+      81801121,
+      81801122,
+      81801123,
+      81801124,
+      81801125,
+      81801126,
+      81801127,
+      81801128,
+      81801129,
+      81801130,
+      81801131,
+      81801132,
+      81801133,
+      81801134,
+      81801135,
+      81801136,
+      81801137,
+      81801138,
+      81801139,
+      81801140,
+      81801141,
+      81801142,
+      81801143,
+      81801144,
+      81801145,
+      81801146,
+      81801147,
+      81801148,
+      81801149,
+      81801150,
+      81801151,
+      81801152,
+      81801153,
+      81801154,
+      81801155,
+      81801156,
+      81801157,
+      81801158,
+      81801159,
+      81801160,
+      81801161,
+      81801162,
+      81801163,
+      81801164,
+      81801165,
+      81801166,
+      81801167
+    ],
+    "shop_dynamic_hx": 0,
+    "shop_id": 71378,
+    "shop_offset": [
+      0,
+      110,
+      0,
+      70
+    ],
+    "shop_type_id": 26,
+    "show_skin": "stand",
+    "skeleton_default_skin": "",
+    "skin_type": 0,
+    "smoke": [
+      [
+        50,
+        [
+          [
+            "smoke",
+            [
+              -0.815,
+              2.518,
+              -0.16
+            ]
+          ]
+        ]
+      ]
+    ],
+    "special_effects": "",
+    "spine_action_offset": false,
+    "spine_offset": "",
+    "spine_offset_profile": "",
+    "spine_use_live2d": 0,
+    "tag": [
+      9,
+      4
+    ],
+    "time": "",
+    "voice_actor": 509,
     "voice_actor_2": -1,
     "voice_lang": ""
   },
@@ -355146,6 +356775,7 @@
     403100,
     403101,
     403102,
+    403103,
     403110,
     403111,
     403112,
@@ -355436,6 +357066,7 @@
     605071,
     605080,
     605081,
+    605082,
     605090,
     605091,
     607010,
@@ -355448,6 +357079,7 @@
     608011,
     608020,
     608021,
+    608022,
     608030,
     608031,
     701020,
@@ -355566,6 +357198,8 @@
     801041,
     801050,
     801051,
+    801060,
+    801061,
     801070,
     801071,
     801072,
@@ -355607,6 +357241,8 @@
     805032,
     806010,
     806011,
+    806020,
+    806021,
     807010,
     807011,
     807020,
@@ -355615,6 +357251,8 @@
     808010,
     808011,
     808012,
+    818010,
+    818011,
     901010,
     901011,
     901012,
@@ -356400,6 +358038,7 @@
     499063,
     699010,
     699011,
+    699012,
     699030,
     699031,
     299050,
@@ -358947,7 +360586,8 @@
     "40310": [
       403100,
       403101,
-      403102
+      403102,
+      403103
     ],
     "40311": [
       403110,
@@ -359489,7 +361129,8 @@
     ],
     "60508": [
       605080,
-      605081
+      605081,
+      605082
     ],
     "60509": [
       605090,
@@ -359511,7 +361152,8 @@
     ],
     "60802": [
       608020,
-      608021
+      608021,
+      608022
     ],
     "60803": [
       608030,
@@ -359519,7 +361161,8 @@
     ],
     "69901": [
       699010,
-      699011
+      699011,
+      699012
     ],
     "69902": [
       699020,
@@ -359739,6 +361382,10 @@
       801050,
       801051
     ],
+    "80106": [
+      801060,
+      801061
+    ],
     "80107": [
       801070,
       801071,
@@ -359810,6 +361457,10 @@
       806010,
       806011
     ],
+    "80602": [
+      806020,
+      806021
+    ],
     "80701": [
       807010,
       807011
@@ -359823,6 +361474,10 @@
       808010,
       808011,
       808012
+    ],
+    "81801": [
+      818010,
+      818011
     ],
     "89901": [
       899010,
@@ -362251,6 +363906,7 @@
       801030,
       801040,
       801050,
+      801060,
       801070,
       801080,
       801090,
@@ -362266,9 +363922,11 @@
       805020,
       805030,
       806010,
+      806020,
       807010,
       807020,
       808010,
+      818010,
       901010,
       901020,
       901030,
@@ -364167,7 +365825,14 @@
       306063,
       319014,
       401353,
+      403103,
       519012,
+      605082,
+      608022,
+      801061,
+      806021,
+      818011,
+      699012,
       499072
     ],
     "27": [

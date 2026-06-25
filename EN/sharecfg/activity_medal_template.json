@@ -864,7 +864,7 @@
     "task_id": 21836
   },
   "5013602": {
-    "activity_medal_desc": "Behold the soaring phoenix's majestic dance; hearken to its cries that echo through Amahara above.",
+    "activity_medal_desc": "Behold the soaring phoenix's majestic dance",
     "activity_medal_name": "Sticker: Form of the Phoenix",
     "group": 50136,
     "id": 5013602,
@@ -1703,6 +1703,102 @@
     "remake_task_id": 0,
     "task_id": 21941
   },
+  "5065901": {
+    "activity_medal_desc": "Let's get this show on the road! Come one, come all to the world of surprises!",
+    "activity_medal_name": "Sticker: A World of Surprises",
+    "group": 50659,
+    "id": 5065901,
+    "item": 65993,
+    "medal_asset": "ActivityMedal/5065901",
+    "next_medal": 0,
+    "prefab_node": "1",
+    "remake_task_id": 0,
+    "task_id": 21976
+  },
+  "5065902": {
+    "activity_medal_desc": "Time to witness a miracle!",
+    "activity_medal_name": "Sticker: Hat Trick",
+    "group": 50659,
+    "id": 5065902,
+    "item": 65994,
+    "medal_asset": "ActivityMedal/5065902",
+    "next_medal": 0,
+    "prefab_node": "2",
+    "remake_task_id": 0,
+    "task_id": 21977
+  },
+  "5065903": {
+    "activity_medal_desc": "No staff members were turned into dinner during the making of this stunt.",
+    "activity_medal_name": "Sticker: Ring of Fire",
+    "group": 50659,
+    "id": 5065903,
+    "item": 65995,
+    "medal_asset": "ActivityMedal/5065903",
+    "next_medal": 0,
+    "prefab_node": "3",
+    "remake_task_id": 0,
+    "task_id": 21978
+  },
+  "5065904": {
+    "activity_medal_desc": "Amateurs marvel at the spectacle, pros marvel at the details.",
+    "activity_medal_name": "Sticker: Escape Artist",
+    "group": 50659,
+    "id": 5065904,
+    "item": 65996,
+    "medal_asset": "ActivityMedal/5065904",
+    "next_medal": 0,
+    "prefab_node": "4",
+    "remake_task_id": 0,
+    "task_id": 21979
+  },
+  "5065905": {
+    "activity_medal_desc": "Manjuu, out!",
+    "activity_medal_name": "Sticker: Flying Manjuu",
+    "group": 50659,
+    "id": 5065905,
+    "item": 65997,
+    "medal_asset": "ActivityMedal/5065905",
+    "next_medal": 0,
+    "prefab_node": "5",
+    "remake_task_id": 0,
+    "task_id": 21980
+  },
+  "5065906": {
+    "activity_medal_desc": "Can you truly be cool without knowing how to shoot a bow with your feet?",
+    "activity_medal_name": "Sticker: Foot Archery",
+    "group": 50659,
+    "id": 5065906,
+    "item": 65998,
+    "medal_asset": "ActivityMedal/5065906",
+    "next_medal": 0,
+    "prefab_node": "6",
+    "remake_task_id": 0,
+    "task_id": 21981
+  },
+  "5065907": {
+    "activity_medal_desc": "It's just a paintbrush. How powerful could it be?",
+    "activity_medal_name": "Sticker: Colorful Paintbrush",
+    "group": 50659,
+    "id": 5065907,
+    "item": 65999,
+    "medal_asset": "ActivityMedal/5065907",
+    "next_medal": 0,
+    "prefab_node": "7",
+    "remake_task_id": 0,
+    "task_id": 21982
+  },
+  "5065908": {
+    "activity_medal_desc": "You came all the way here. Don't back out now.",
+    "activity_medal_name": "Sticker: Circus Ticket",
+    "group": 50659,
+    "id": 5065908,
+    "item": 66045,
+    "medal_asset": "ActivityMedal/5065908",
+    "next_medal": 0,
+    "prefab_node": "8",
+    "remake_task_id": 0,
+    "task_id": 21983
+  },
   "all": [
     571101,
     571102,
@@ -1845,7 +1941,15 @@
     5061604,
     5061605,
     5061606,
-    5061607
+    5061607,
+    5065901,
+    5065902,
+    5065903,
+    5065904,
+    5065905,
+    5065906,
+    5065907,
+    5065908
   ],
   "get_id_list_by_group": {
     "5711": [
@@ -2025,6 +2129,16 @@
       5061605,
       5061606,
       5061607
+    ],
+    "50659": [
+      5065901,
+      5065902,
+      5065903,
+      5065904,
+      5065905,
+      5065906,
+      5065907,
+      5065908
     ]
   }
 }

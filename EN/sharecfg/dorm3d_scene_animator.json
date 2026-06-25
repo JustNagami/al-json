@@ -114,6 +114,31 @@
     "item_name": "FurnitureSlots/1140201/pre_db_aijier_study01(Clone)/pre_db_aje_chair01",
     "room_id": 14
   },
+  "3001": {
+    "id": 3001,
+    "item_name": "no_bake_pay_prop/bedroom/pre_db_naximofu_bed01_0/pre_db_nxmf_bed01_00",
+    "room_id": 21
+  },
+  "3002": {
+    "id": 3002,
+    "item_name": "no_bake_pay_prop/basement/pre_db_naximofu_basement01_0/pre_db_nxmf_frame01_0",
+    "room_id": 21
+  },
+  "3003": {
+    "id": 3003,
+    "item_name": "no_bake_pay_prop/livingroom/pre_db_naximofu_living01_0/pre_db_nxmf_sofa01_0",
+    "room_id": 21
+  },
+  "3004": {
+    "id": 3004,
+    "item_name": "FurnitureSlots/2210201/pre_db_naximofu_basement01(Clone)",
+    "room_id": 21
+  },
+  "3005": {
+    "id": 3005,
+    "item_name": "FurnitureSlots/2210201/pre_db_naximofu_basement01(Clone)/all/fbx_db_nxmf_equipment01/vfx_desk02",
+    "room_id": 21
+  },
   "all": [
     2001,
     2002,
@@ -137,7 +162,12 @@
     2020,
     2021,
     2022,
-    2023
+    2023,
+    3001,
+    3002,
+    3003,
+    3004,
+    3005
   ],
   "get_id_list_by_room_id": {
     "1": [
@@ -178,6 +208,13 @@
     "16": [
       2014,
       2017
+    ],
+    "21": [
+      3001,
+      3002,
+      3003,
+      3004,
+      3005
     ]
   }
 }

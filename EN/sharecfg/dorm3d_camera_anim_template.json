@@ -6410,6 +6410,777 @@
     "unlock": "",
     "zone": ""
   },
+  "21001": {
+    "anim_time": 0,
+    "desc": "Idle",
+    "enter_extra_item": "",
+    "enter_scene_anim": "",
+    "finish_anim": 21001,
+    "furniture_id": 0,
+    "hide_scene_item": "",
+    "icon": "camera_action2",
+    "id": 21001,
+    "pre_anim": 0,
+    "room": 21,
+    "ship_group": 79902,
+    "state": "Idle",
+    "staypoint": "",
+    "unlock": "",
+    "zone": ""
+  },
+  "21002": {
+    "anim_time": 5.667,
+    "desc": "Nod",
+    "enter_extra_item": "",
+    "enter_scene_anim": "",
+    "finish_anim": 21001,
+    "furniture_id": 0,
+    "hide_scene_item": "",
+    "icon": "camera_action7",
+    "id": 21002,
+    "pre_anim": 21001,
+    "room": 21,
+    "ship_group": 79902,
+    "state": "nod_01",
+    "staypoint": "",
+    "unlock": "",
+    "zone": ""
+  },
+  "21003": {
+    "anim_time": 4.667,
+    "desc": "Shake Head",
+    "enter_extra_item": "",
+    "enter_scene_anim": "",
+    "finish_anim": 21001,
+    "furniture_id": 0,
+    "hide_scene_item": "",
+    "icon": "camera_action12",
+    "id": 21003,
+    "pre_anim": 21001,
+    "room": 21,
+    "ship_group": 79902,
+    "state": "shake_01",
+    "staypoint": "",
+    "unlock": "",
+    "zone": ""
+  },
+  "21004": {
+    "anim_time": 5.833,
+    "desc": "Confused",
+    "enter_extra_item": "",
+    "enter_scene_anim": "",
+    "finish_anim": 21001,
+    "furniture_id": 0,
+    "hide_scene_item": "",
+    "icon": "camera_action10",
+    "id": 21004,
+    "pre_anim": 21001,
+    "room": 21,
+    "ship_group": 79902,
+    "state": "doubt_01-start",
+    "staypoint": "",
+    "unlock": "",
+    "zone": ""
+  },
+  "21005": {
+    "anim_time": 5.833,
+    "desc": "Gloomy",
+    "enter_extra_item": "",
+    "enter_scene_anim": "",
+    "finish_anim": 21001,
+    "furniture_id": 0,
+    "hide_scene_item": "",
+    "icon": "camera_action11",
+    "id": 21005,
+    "pre_anim": 21001,
+    "room": 21,
+    "ship_group": 79902,
+    "state": "sad_01-start",
+    "staypoint": "",
+    "unlock": "",
+    "zone": ""
+  },
+  "21006": {
+    "anim_time": 5.667,
+    "desc": "Happy",
+    "enter_extra_item": "",
+    "enter_scene_anim": "",
+    "finish_anim": 21001,
+    "furniture_id": 0,
+    "hide_scene_item": "",
+    "icon": "camera_action6",
+    "id": 21006,
+    "pre_anim": 21001,
+    "room": 21,
+    "ship_group": 79902,
+    "state": "happy_01-start",
+    "staypoint": "",
+    "unlock": "",
+    "zone": ""
+  },
+  "21007": {
+    "anim_time": 5,
+    "desc": "Excited",
+    "enter_extra_item": "",
+    "enter_scene_anim": "",
+    "finish_anim": 21001,
+    "furniture_id": 0,
+    "hide_scene_item": "",
+    "icon": "camera_action7",
+    "id": 21007,
+    "pre_anim": 21001,
+    "room": 21,
+    "ship_group": 79902,
+    "state": "excited_01-start",
+    "staypoint": "",
+    "unlock": "",
+    "zone": ""
+  },
+  "21008": {
+    "anim_time": 4.833,
+    "desc": "Chatting",
+    "enter_extra_item": "",
+    "enter_scene_anim": "",
+    "finish_anim": 21001,
+    "furniture_id": 0,
+    "hide_scene_item": "",
+    "icon": "camera_action8",
+    "id": 21008,
+    "pre_anim": 21001,
+    "room": 21,
+    "ship_group": 79902,
+    "state": "talk_01-start",
+    "staypoint": "",
+    "unlock": "",
+    "zone": ""
+  },
+  "21009": {
+    "anim_time": 6.433,
+    "desc": "Proud",
+    "enter_extra_item": "",
+    "enter_scene_anim": "",
+    "finish_anim": 21001,
+    "furniture_id": 0,
+    "hide_scene_item": "",
+    "icon": "camera_action9",
+    "id": 21009,
+    "pre_anim": 21001,
+    "room": 21,
+    "ship_group": 79902,
+    "state": "satisfied_01-start",
+    "staypoint": "",
+    "unlock": "",
+    "zone": ""
+  },
+  "21010": {
+    "anim_time": 10.3333,
+    "desc": "Shocked",
+    "enter_extra_item": "",
+    "enter_scene_anim": "",
+    "finish_anim": 21001,
+    "furniture_id": 0,
+    "hide_scene_item": "",
+    "icon": "camera_action14",
+    "id": 21010,
+    "pre_anim": 21001,
+    "room": 21,
+    "ship_group": 79902,
+    "state": "scared_01-start",
+    "staypoint": "",
+    "unlock": "",
+    "zone": ""
+  },
+  "21011": {
+    "anim_time": 6.766,
+    "desc": "Surprised",
+    "enter_extra_item": "",
+    "enter_scene_anim": "",
+    "finish_anim": 21001,
+    "furniture_id": 0,
+    "hide_scene_item": "",
+    "icon": "camera_action5",
+    "id": 21011,
+    "pre_anim": 21001,
+    "room": 21,
+    "ship_group": 79902,
+    "state": "anger_01-start",
+    "staypoint": "",
+    "unlock": "",
+    "zone": ""
+  },
+  "21012": {
+    "anim_time": 7.333,
+    "desc": "Explaining",
+    "enter_extra_item": "",
+    "enter_scene_anim": "",
+    "finish_anim": 21001,
+    "furniture_id": 0,
+    "hide_scene_item": "",
+    "icon": "camera_action11",
+    "id": 21012,
+    "pre_anim": 21001,
+    "room": 21,
+    "ship_group": 79902,
+    "state": "talk_02-start",
+    "staypoint": "",
+    "unlock": "",
+    "zone": ""
+  },
+  "21013": {
+    "anim_time": 6.33,
+    "desc": "Thinking",
+    "enter_extra_item": "",
+    "enter_scene_anim": "",
+    "finish_anim": 21001,
+    "furniture_id": 0,
+    "hide_scene_item": "",
+    "icon": "camera_action3",
+    "id": 21013,
+    "pre_anim": 21001,
+    "room": 21,
+    "ship_group": 79902,
+    "state": "think_01-start",
+    "staypoint": "",
+    "unlock": "",
+    "zone": ""
+  },
+  "21014": {
+    "anim_time": 9.133,
+    "desc": "Shy ",
+    "enter_extra_item": "",
+    "enter_scene_anim": "",
+    "finish_anim": 21001,
+    "furniture_id": 0,
+    "hide_scene_item": "",
+    "icon": "camera_action11",
+    "id": 21014,
+    "pre_anim": 21001,
+    "room": 21,
+    "ship_group": 79902,
+    "state": "shy_01",
+    "staypoint": "",
+    "unlock": "",
+    "zone": ""
+  },
+  "21015": {
+    "anim_time": 5.833,
+    "desc": "Defeated",
+    "enter_extra_item": "",
+    "enter_scene_anim": "",
+    "finish_anim": 21001,
+    "furniture_id": 0,
+    "hide_scene_item": "",
+    "icon": "camera_action11",
+    "id": 21015,
+    "pre_anim": 21001,
+    "room": 21,
+    "ship_group": 79902,
+    "state": "sad_01-start",
+    "staypoint": "",
+    "unlock": "",
+    "zone": ""
+  },
+  "21101": {
+    "anim_time": 0,
+    "desc": "Idle",
+    "enter_extra_item": "",
+    "enter_scene_anim": [
+      [
+        3002,
+        "IK_desk01_idle01_ZWJ"
+      ]
+    ],
+    "finish_anim": 21101,
+    "furniture_id": 2102,
+    "hide_scene_item": "",
+    "icon": "camera_action1",
+    "id": 21101,
+    "pre_anim": 0,
+    "room": 21,
+    "ship_group": 79902,
+    "state": "IK_desk01_idle01",
+    "staypoint": "Pos700210",
+    "unlock": "",
+    "zone": "21002"
+  },
+  "21102": {
+    "anim_time": 9.533,
+    "desc": "Confused",
+    "enter_extra_item": "",
+    "enter_scene_anim": [
+      [
+        3002,
+        "IK_desk01_idle01_fb01_ZWJ"
+      ]
+    ],
+    "finish_anim": 21101,
+    "furniture_id": 2102,
+    "hide_scene_item": "",
+    "icon": "camera_action3",
+    "id": 21102,
+    "pre_anim": 21101,
+    "room": 21,
+    "ship_group": 79902,
+    "state": "IK_desk01_idle01_fb01",
+    "staypoint": "Pos700210",
+    "unlock": "",
+    "zone": "21002"
+  },
+  "21103": {
+    "anim_time": 24.033,
+    "desc": "Happy",
+    "enter_extra_item": "",
+    "enter_scene_anim": [
+      [
+        3002,
+        "IK_desk01_idle01_fb02_ZWJ"
+      ]
+    ],
+    "finish_anim": 21101,
+    "furniture_id": 2102,
+    "hide_scene_item": "",
+    "icon": "camera_action10",
+    "id": 21103,
+    "pre_anim": 21101,
+    "room": 21,
+    "ship_group": 79902,
+    "state": "IK_desk01_idle01_fb02",
+    "staypoint": "Pos700210",
+    "unlock": "",
+    "zone": "21002"
+  },
+  "21104": {
+    "anim_time": 10.833,
+    "desc": "Proud",
+    "enter_extra_item": "",
+    "enter_scene_anim": [
+      [
+        3002,
+        "IK_desk01_idle01_fb03_ZWJ"
+      ]
+    ],
+    "finish_anim": 21101,
+    "furniture_id": 2102,
+    "hide_scene_item": "",
+    "icon": "camera_action6",
+    "id": 21104,
+    "pre_anim": 21101,
+    "room": 21,
+    "ship_group": 79902,
+    "state": "IK_desk01_idle01_fb03",
+    "staypoint": "Pos700210",
+    "unlock": "",
+    "zone": "21002"
+  },
+  "21201": {
+    "anim_time": 0,
+    "desc": "Idle",
+    "enter_extra_item": "",
+    "enter_scene_anim": [
+      [
+        3003,
+        "IK_living01_idle01_SF"
+      ]
+    ],
+    "finish_anim": 21201,
+    "furniture_id": 2103,
+    "hide_scene_item": "",
+    "icon": "camera_action13",
+    "id": 21201,
+    "pre_anim": 0,
+    "room": 21,
+    "ship_group": 79902,
+    "state": "IK_living01_idle01",
+    "staypoint": "Pos700310",
+    "unlock": "",
+    "zone": "21003"
+  },
+  "21202": {
+    "anim_time": 17.6,
+    "desc": "Bashful",
+    "enter_extra_item": "",
+    "enter_scene_anim": [
+      [
+        3003,
+        "IK_living01_idle01_fb01_SF"
+      ]
+    ],
+    "finish_anim": 21201,
+    "furniture_id": 2103,
+    "hide_scene_item": "",
+    "icon": "camera_action11",
+    "id": 21202,
+    "pre_anim": 21201,
+    "room": 21,
+    "ship_group": 79902,
+    "state": "IK_living01_idle01_fb01",
+    "staypoint": "Pos700310",
+    "unlock": "",
+    "zone": "21003"
+  },
+  "21203": {
+    "anim_time": 16.33,
+    "desc": "Surprised",
+    "enter_extra_item": "",
+    "enter_scene_anim": [
+      [
+        3003,
+        "IK_living01_idle01_fb02_SF"
+      ]
+    ],
+    "finish_anim": 21201,
+    "furniture_id": 2103,
+    "hide_scene_item": "",
+    "icon": "camera_action5",
+    "id": 21203,
+    "pre_anim": 21201,
+    "room": 21,
+    "ship_group": 79902,
+    "state": "IK_living01_idle01_fb02",
+    "staypoint": "Pos700310",
+    "unlock": "",
+    "zone": "21003"
+  },
+  "21204": {
+    "anim_time": 21.267,
+    "desc": "Relaxing",
+    "enter_extra_item": "",
+    "enter_scene_anim": [
+      [
+        3003,
+        "IK_living01_idle01_fb03_SF"
+      ]
+    ],
+    "finish_anim": 21201,
+    "furniture_id": 2103,
+    "hide_scene_item": "",
+    "icon": "camera_action18",
+    "id": 21204,
+    "pre_anim": 21201,
+    "room": 21,
+    "ship_group": 79902,
+    "state": "IK_living01_idle01_fb03",
+    "staypoint": "Pos700310",
+    "unlock": "",
+    "zone": "21003"
+  },
+  "21301": {
+    "anim_time": 0,
+    "desc": "Idle",
+    "enter_extra_item": "",
+    "enter_scene_anim": [
+      [
+        3001,
+        "IK_bed01_idle01_ZX"
+      ]
+    ],
+    "finish_anim": 21301,
+    "furniture_id": 2101,
+    "hide_scene_item": "",
+    "icon": "camera_action32",
+    "id": 21301,
+    "pre_anim": 0,
+    "room": 21,
+    "ship_group": 79902,
+    "state": "IK_bed01_idle01",
+    "staypoint": "Pos700110",
+    "unlock": "",
+    "zone": "21001"
+  },
+  "21302": {
+    "anim_time": 16.333,
+    "desc": "Relaxing",
+    "enter_extra_item": "",
+    "enter_scene_anim": [
+      [
+        3001,
+        "IK_bed01_idle01_fb01_ZX"
+      ]
+    ],
+    "finish_anim": 21301,
+    "furniture_id": 2101,
+    "hide_scene_item": "",
+    "icon": "camera_action25",
+    "id": 21302,
+    "pre_anim": 21301,
+    "room": 21,
+    "ship_group": 79902,
+    "state": "IK_bed01_idle01_fb01",
+    "staypoint": "Pos700110",
+    "unlock": "",
+    "zone": "21001"
+  },
+  "21303": {
+    "anim_time": 10,
+    "desc": "Inviting",
+    "enter_extra_item": "",
+    "enter_scene_anim": [
+      [
+        3001,
+        "IK_bed01_idle01_fb02_ZX"
+      ]
+    ],
+    "finish_anim": 21301,
+    "furniture_id": 2101,
+    "hide_scene_item": "",
+    "icon": "camera_action26",
+    "id": 21303,
+    "pre_anim": 21301,
+    "room": 21,
+    "ship_group": 79902,
+    "state": "IK_bed01_idle01_fb02",
+    "staypoint": "Pos700110",
+    "unlock": "",
+    "zone": "21001"
+  },
+  "21304": {
+    "anim_time": 22.1,
+    "desc": "Stretching",
+    "enter_extra_item": "",
+    "enter_scene_anim": [
+      [
+        3001,
+        "IK_bed01_idle01_fb03_ZX"
+      ]
+    ],
+    "finish_anim": 21301,
+    "furniture_id": 2101,
+    "hide_scene_item": "",
+    "icon": "camera_action27",
+    "id": 21304,
+    "pre_anim": 21301,
+    "room": 21,
+    "ship_group": 79902,
+    "state": "IK_bed01_idle01_fb03",
+    "staypoint": "Pos700110",
+    "unlock": "",
+    "zone": "21001"
+  },
+  "21401": {
+    "anim_time": 0,
+    "desc": "Idle",
+    "enter_extra_item": "",
+    "enter_scene_anim": [
+      [
+        3004,
+        "IK_desk02_idle01_MFJC"
+      ],
+      [
+        3005,
+        "vfx_desk02_idle01"
+      ]
+    ],
+    "finish_anim": 21401,
+    "furniture_id": 2161,
+    "hide_scene_item": "",
+    "icon": "camera_action1",
+    "id": 21401,
+    "pre_anim": 0,
+    "room": 21,
+    "ship_group": 79902,
+    "state": "IK_desk02_idle01",
+    "staypoint": "Pos700410",
+    "unlock": "",
+    "zone": "21001"
+  },
+  "21402": {
+    "anim_time": 24.1,
+    "desc": "Thinking",
+    "enter_extra_item": "",
+    "enter_scene_anim": [
+      [
+        3004,
+        "IK_desk02_idle01_fb02_MFJC"
+      ],
+      [
+        3005,
+        "vfx_desk02_idle01_fb02"
+      ]
+    ],
+    "finish_anim": 21401,
+    "furniture_id": 2161,
+    "hide_scene_item": "",
+    "icon": "camera_action3",
+    "id": 21402,
+    "pre_anim": 21401,
+    "room": 21,
+    "ship_group": 79902,
+    "state": "IK_desk02_idle01_fb02",
+    "staypoint": "Pos700410",
+    "unlock": "",
+    "zone": "21001"
+  },
+  "21403": {
+    "anim_time": 0,
+    "desc": "Idle",
+    "enter_extra_item": "",
+    "enter_scene_anim": [
+      [
+        3004,
+        "IK_desk02_idle02_MFJC"
+      ],
+      [
+        3005,
+        "vfx_desk02_idle02"
+      ]
+    ],
+    "finish_anim": 21403,
+    "furniture_id": 2161,
+    "hide_scene_item": "",
+    "icon": "camera_action1",
+    "id": 21403,
+    "pre_anim": 0,
+    "room": 21,
+    "ship_group": 79902,
+    "state": "IK_desk02_idle02",
+    "staypoint": "Pos700410",
+    "unlock": "",
+    "zone": "21001"
+  },
+  "21404": {
+    "anim_time": 13.033,
+    "desc": "Shocked",
+    "enter_extra_item": "",
+    "enter_scene_anim": [
+      [
+        3004,
+        "IK_desk02_idle02_fb02_MFJC"
+      ],
+      [
+        3005,
+        "vfx_desk02_idle02_fb02"
+      ]
+    ],
+    "finish_anim": 21403,
+    "furniture_id": 2161,
+    "hide_scene_item": "",
+    "icon": "camera_action14",
+    "id": 21404,
+    "pre_anim": 21403,
+    "room": 21,
+    "ship_group": 79902,
+    "state": "IK_desk02_idle02_fb02",
+    "staypoint": "Pos700410",
+    "unlock": "",
+    "zone": "21001"
+  },
+  "21405": {
+    "anim_time": 16.267,
+    "desc": "Happy",
+    "enter_extra_item": "",
+    "enter_scene_anim": [
+      [
+        3004,
+        "IK_desk02_idle02_fb03_MFJC"
+      ],
+      [
+        3005,
+        "vfx_desk02_idle02_fb03"
+      ]
+    ],
+    "finish_anim": 21403,
+    "furniture_id": 2161,
+    "hide_scene_item": "",
+    "icon": "camera_action6",
+    "id": 21405,
+    "pre_anim": 21403,
+    "room": 21,
+    "ship_group": 79902,
+    "state": "IK_desk02_idle02_fb03",
+    "staypoint": "Pos700410",
+    "unlock": "",
+    "zone": "21001"
+  },
+  "26001": {
+    "anim_time": 0,
+    "desc": "Idle",
+    "enter_extra_item": "",
+    "enter_scene_anim": "",
+    "finish_anim": 26001,
+    "furniture_id": 0,
+    "hide_scene_item": "",
+    "icon": "camera_action2",
+    "id": 26001,
+    "pre_anim": 0,
+    "room": 21,
+    "ship_group": 79902,
+    "state": "Idle",
+    "staypoint": "",
+    "unlock": "",
+    "zone": ""
+  },
+  "26002": {
+    "anim_time": 6.6,
+    "desc": "Happy",
+    "enter_extra_item": "",
+    "enter_scene_anim": "",
+    "finish_anim": 26001,
+    "furniture_id": 0,
+    "hide_scene_item": "",
+    "icon": "camera_action6",
+    "id": 26002,
+    "pre_anim": 26001,
+    "room": 21,
+    "ship_group": 79902,
+    "state": "GGX_enjoy_01-start",
+    "staypoint": "",
+    "unlock": "",
+    "zone": ""
+  },
+  "26003": {
+    "anim_time": 8.167,
+    "desc": "Inviting",
+    "enter_extra_item": "",
+    "enter_scene_anim": "",
+    "finish_anim": 26001,
+    "furniture_id": 0,
+    "hide_scene_item": "",
+    "icon": "camera_action9",
+    "id": 26003,
+    "pre_anim": 26001,
+    "room": 21,
+    "ship_group": 79902,
+    "state": "GGX_invite_01-start",
+    "staypoint": "",
+    "unlock": "",
+    "zone": ""
+  },
+  "26004": {
+    "anim_time": 6.9,
+    "desc": "Greeting",
+    "enter_extra_item": "",
+    "enter_scene_anim": "",
+    "finish_anim": 26001,
+    "furniture_id": 0,
+    "hide_scene_item": "",
+    "icon": "camera_action5",
+    "id": 26004,
+    "pre_anim": 26001,
+    "room": 21,
+    "ship_group": 79902,
+    "state": "GGX_hello_01-start",
+    "staypoint": "",
+    "unlock": "",
+    "zone": ""
+  },
+  "26005": {
+    "anim_time": 9.133,
+    "desc": "Shy ",
+    "enter_extra_item": "",
+    "enter_scene_anim": "",
+    "finish_anim": 26001,
+    "furniture_id": 0,
+    "hide_scene_item": "",
+    "icon": "camera_action11",
+    "id": 26005,
+    "pre_anim": 26001,
+    "room": 21,
+    "ship_group": 79902,
+    "state": "shy",
+    "staypoint": "",
+    "unlock": "",
+    "zone": ""
+  },
   "all": [
     1001,
     1002,
@@ -6732,7 +7503,44 @@
     16017,
     16018,
     16019,
-    16020
+    16020,
+    21001,
+    21002,
+    21003,
+    21004,
+    21005,
+    21006,
+    21007,
+    21008,
+    21009,
+    21010,
+    21011,
+    21012,
+    21013,
+    21014,
+    21015,
+    21101,
+    21102,
+    21103,
+    21104,
+    21201,
+    21202,
+    21203,
+    21204,
+    21301,
+    21302,
+    21303,
+    21304,
+    21401,
+    21402,
+    21403,
+    21404,
+    21405,
+    26001,
+    26002,
+    26003,
+    26004,
+    26005
   ],
   "get_id_list_by_furniture_id": {
     "0": [
@@ -6859,7 +7667,27 @@
       16017,
       16018,
       16019,
-      16020
+      16020,
+      21001,
+      21002,
+      21003,
+      21004,
+      21005,
+      21006,
+      21007,
+      21008,
+      21009,
+      21010,
+      21011,
+      21012,
+      21013,
+      21014,
+      21015,
+      26001,
+      26002,
+      26003,
+      26004,
+      26005
     ],
     "1": [
       1201,
@@ -7134,6 +7962,31 @@
       14505,
       14506,
       14507
+    ],
+    "2101": [
+      21301,
+      21302,
+      21303,
+      21304
+    ],
+    "2102": [
+      21101,
+      21102,
+      21103,
+      21104
+    ],
+    "2103": [
+      21201,
+      21202,
+      21203,
+      21204
+    ],
+    "2161": [
+      21401,
+      21402,
+      21403,
+      21404,
+      21405
     ]
   }
 }

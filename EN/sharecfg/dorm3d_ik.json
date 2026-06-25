@@ -46770,6 +46770,2928 @@
       1000
     ]
   },
+  "70011000": {
+    "action_back_time": 0,
+    "action_emote": "Face_shy_start",
+    "action_trigger": [
+      3
+    ],
+    "back_time": 0.4,
+    "char_id": 79902,
+    "controller": "NxBedButtIK",
+    "head_track": "",
+    "id": 70011000,
+    "plane_rotation": [
+      [
+        -0.05446094,
+        0.9963413,
+        0.06476028,
+        -0.01200428
+      ],
+      [
+        0.0365624,
+        -0.9979193,
+        -0.02681134,
+        0.04584184
+      ],
+      [
+        0.384562,
+        0.6208125,
+        0.597621,
+        -0.3309881
+      ]
+    ],
+    "plane_scale": [
+      [
+        0.5158758,
+        0.3048987,
+        0.3936299
+      ],
+      [
+        0.3471213,
+        0.05211236,
+        1
+      ],
+      [
+        0.1180465,
+        0.1432278,
+        1
+      ]
+    ],
+    "rect": [
+      -600,
+      -300,
+      1200,
+      800
+    ],
+    "sub_targets": [
+      [
+        "Pelvis"
+      ],
+      [
+        "RightThigh"
+      ],
+      [
+        "LeftThigh"
+      ]
+    ],
+    "timeline_action": "",
+    "tip_offset": "",
+    "tip_text": "",
+    "trigger_param": [
+      2,
+      "Butt"
+    ],
+    "trigger_rect": [
+      -650,
+      -400,
+      1300,
+      1000
+    ]
+  },
+  "70012000": {
+    "action_back_time": 0,
+    "action_emote": "Face_smile_start",
+    "action_trigger": [
+      3
+    ],
+    "back_time": 0.5,
+    "char_id": 79902,
+    "controller": "NxBedHeadIK",
+    "head_track": "",
+    "id": 70012000,
+    "plane_rotation": [
+      [
+        0.108287,
+        -0.8532434,
+        0.2645511,
+        -0.4361907
+      ],
+      [
+        0.6695746,
+        0.02865933,
+        0.04076818,
+        0.7410712
+      ],
+      [
+        -0.6522505,
+        0.2750113,
+        -0.2676717,
+        -0.6536741
+      ]
+    ],
+    "plane_scale": [
+      [
+        0.1591991,
+        0.1629937,
+        0.3936299
+      ],
+      [
+        0.1665905,
+        0.08352619,
+        1
+      ],
+      [
+        0.1180465,
+        0.1432278,
+        1
+      ]
+    ],
+    "rect": [
+      -600,
+      -300,
+      1200,
+      800
+    ],
+    "sub_targets": [
+      [
+        "Pelvis"
+      ],
+      [
+        "LeftUpperArm"
+      ],
+      [
+        "RightUpperArm"
+      ]
+    ],
+    "timeline_action": "",
+    "tip_offset": "",
+    "tip_text": "",
+    "trigger_param": [
+      2,
+      "Head"
+    ],
+    "trigger_rect": [
+      -615.6,
+      -350,
+      1500,
+      1000
+    ]
+  },
+  "70013000": {
+    "action_back_time": 0,
+    "action_emote": "Face_shy_start",
+    "action_trigger": [
+      3
+    ],
+    "back_time": 0.4,
+    "char_id": 79902,
+    "controller": "NxBedChestIK",
+    "head_track": "",
+    "id": 70013000,
+    "plane_rotation": [
+      [
+        0.01365788,
+        -0.994932,
+        0.03713229,
+        0.09243929
+      ],
+      [
+        -0.04533571,
+        0.7854667,
+        0.000571066,
+        -0.617241
+      ],
+      [
+        0.5956174,
+        -0.6010711,
+        -0.3793606,
+        0.374218
+      ]
+    ],
+    "plane_scale": [
+      [
+        0.2585227,
+        0.2379306,
+        0.3936299
+      ],
+      [
+        0.2163399,
+        0.05211236,
+        1
+      ],
+      [
+        0.07628826,
+        0.08270419,
+        1
+      ]
+    ],
+    "rect": [
+      -600,
+      -400,
+      1200,
+      700
+    ],
+    "sub_targets": [
+      [
+        "Pelvis"
+      ],
+      [
+        "LeftUpperArm"
+      ],
+      [
+        "RightUpperArm"
+      ]
+    ],
+    "timeline_action": "",
+    "tip_offset": "",
+    "tip_text": "",
+    "trigger_param": [
+      2,
+      "Chest"
+    ],
+    "trigger_rect": [
+      -650,
+      -500,
+      1300,
+      1000
+    ]
+  },
+  "70021000": {
+    "action_back_time": 0,
+    "action_emote": "Face_smile_start",
+    "action_trigger": [
+      3
+    ],
+    "back_time": 0.6,
+    "char_id": 79902,
+    "controller": "NxFrameRightThighIK",
+    "head_track": "",
+    "id": 70021000,
+    "plane_rotation": [
+      [
+        0.108287,
+        -0.8532434,
+        0.2645511,
+        -0.4361907
+      ],
+      [
+        0.03772205,
+        0.2301582,
+        0.1050624,
+        0.9667296
+      ]
+    ],
+    "plane_scale": [
+      [
+        0.1591991,
+        0.1629937,
+        0.3936299
+      ],
+      [
+        0.283272,
+        0.33396,
+        1
+      ]
+    ],
+    "rect": [
+      -550,
+      -30,
+      1200,
+      800
+    ],
+    "sub_targets": [
+      [
+        "RightThigh"
+      ],
+      [
+        "RightFoot"
+      ]
+    ],
+    "timeline_action": "",
+    "tip_offset": "",
+    "tip_text": "",
+    "trigger_param": [
+      2,
+      "RightThigh"
+    ],
+    "trigger_rect": [
+      -650,
+      -30,
+      1600,
+      1000
+    ]
+  },
+  "70022000": {
+    "action_back_time": 0,
+    "action_emote": "Face_smile_start",
+    "action_trigger": [
+      3
+    ],
+    "back_time": 0.6,
+    "char_id": 79902,
+    "controller": "NxFrameButtIK",
+    "head_track": "",
+    "id": 70022000,
+    "plane_rotation": [
+      [
+        -0.05446094,
+        0.9963413,
+        0.06476028,
+        -0.01200428
+      ],
+      [
+        0.0365624,
+        -0.9979193,
+        -0.02681134,
+        0.04584184
+      ],
+      [
+        0.384562,
+        0.6208125,
+        0.597621,
+        -0.3309881
+      ]
+    ],
+    "plane_scale": [
+      [
+        0.5158758,
+        0.3048987,
+        0.3936299
+      ],
+      [
+        0.3471213,
+        0.05211236,
+        1
+      ],
+      [
+        0.1180465,
+        0.1432278,
+        1
+      ]
+    ],
+    "rect": [
+      -600,
+      -300,
+      1200,
+      800
+    ],
+    "sub_targets": [
+      [
+        "Pelvis"
+      ],
+      [
+        "RightThigh"
+      ],
+      [
+        "LeftThigh"
+      ]
+    ],
+    "timeline_action": "",
+    "tip_offset": "",
+    "tip_text": "",
+    "trigger_param": [
+      2,
+      "Butt"
+    ],
+    "trigger_rect": [
+      -650,
+      -400,
+      1300,
+      1000
+    ]
+  },
+  "70023000": {
+    "action_back_time": 0,
+    "action_emote": "Face_happy_start",
+    "action_trigger": [
+      3
+    ],
+    "back_time": 0.5,
+    "char_id": 79902,
+    "controller": "NxFrameLeftHandIK",
+    "head_track": "",
+    "id": 70023000,
+    "plane_rotation": [
+      [
+        -0.1479942,
+        0.09011447,
+        0.03073922,
+        -0.9843944
+      ],
+      [
+        -0.02535084,
+        -0.08509991,
+        -0.03758971,
+        -0.9953404
+      ]
+    ],
+    "plane_scale": [
+      [
+        0.6985931,
+        0.4256923,
+        0.3936299
+      ],
+      [
+        0.1816312,
+        0.05211236,
+        1
+      ]
+    ],
+    "rect": [
+      -700,
+      -600,
+      1400,
+      800
+    ],
+    "sub_targets": [
+      [
+        "LeftHand"
+      ],
+      [
+        "LeftUpperArm"
+      ]
+    ],
+    "timeline_action": "",
+    "tip_offset": "",
+    "tip_text": "",
+    "trigger_param": [
+      2,
+      "LeftHand"
+    ],
+    "trigger_rect": [
+      -750,
+      -800,
+      1600,
+      1000
+    ]
+  },
+  "70023001": {
+    "action_back_time": 0,
+    "action_emote": "Face_shy_start",
+    "action_trigger": [
+      3
+    ],
+    "back_time": 0.4,
+    "char_id": 79902,
+    "controller": "NxFrameChestIK",
+    "head_track": "",
+    "id": 70023001,
+    "plane_rotation": [
+      [
+        0.01365788,
+        -0.994932,
+        0.03713229,
+        0.09243929
+      ],
+      [
+        -0.04533571,
+        0.7854667,
+        0.000571066,
+        -0.617241
+      ],
+      [
+        0.5956174,
+        -0.6010711,
+        -0.3793606,
+        0.374218
+      ]
+    ],
+    "plane_scale": [
+      [
+        0.2585227,
+        0.2379306,
+        0.3936299
+      ],
+      [
+        0.2163399,
+        0.05211236,
+        1
+      ],
+      [
+        0.07628826,
+        0.08270419,
+        1
+      ]
+    ],
+    "rect": [
+      -600,
+      -400,
+      1200,
+      700
+    ],
+    "sub_targets": [
+      [
+        "Pelvis"
+      ],
+      [
+        "LeftUpperArm"
+      ],
+      [
+        "RightUpperArm"
+      ]
+    ],
+    "timeline_action": "",
+    "tip_offset": "",
+    "tip_text": "",
+    "trigger_param": [
+      2,
+      "Chest"
+    ],
+    "trigger_rect": [
+      -650,
+      -500,
+      1300,
+      1000
+    ]
+  },
+  "70031000": {
+    "action_back_time": 0,
+    "action_emote": "Face_shy_start",
+    "action_trigger": [
+      3
+    ],
+    "back_time": 0.4,
+    "char_id": 79902,
+    "controller": "NxSofaChestIK",
+    "head_track": "",
+    "id": 70031000,
+    "plane_rotation": [
+      [
+        0.01365788,
+        -0.994932,
+        0.03713229,
+        0.09243929
+      ],
+      [
+        -0.04533571,
+        0.7854667,
+        0.000571066,
+        -0.617241
+      ],
+      [
+        0.5956174,
+        -0.6010711,
+        -0.3793606,
+        0.374218
+      ]
+    ],
+    "plane_scale": [
+      [
+        0.2585227,
+        0.2379306,
+        0.3936299
+      ],
+      [
+        0.2163399,
+        0.05211236,
+        1
+      ],
+      [
+        0.07628826,
+        0.08270419,
+        1
+      ]
+    ],
+    "rect": [
+      -600,
+      -400,
+      1200,
+      700
+    ],
+    "sub_targets": [
+      [
+        "Pelvis"
+      ],
+      [
+        "LeftUpperArm"
+      ],
+      [
+        "RightUpperArm"
+      ]
+    ],
+    "timeline_action": "",
+    "tip_offset": "",
+    "tip_text": "",
+    "trigger_param": [
+      2,
+      "Chest"
+    ],
+    "trigger_rect": [
+      -650,
+      -500,
+      1300,
+      1000
+    ]
+  },
+  "70032000": {
+    "action_back_time": 0,
+    "action_emote": "Face_smile_start",
+    "action_trigger": [
+      3
+    ],
+    "back_time": 0.6,
+    "char_id": 79902,
+    "controller": "NxSofaButtIK",
+    "head_track": "",
+    "id": 70032000,
+    "plane_rotation": [
+      [
+        -0.05446094,
+        0.9963413,
+        0.06476028,
+        -0.01200428
+      ],
+      [
+        0.0365624,
+        -0.9979193,
+        -0.02681134,
+        0.04584184
+      ],
+      [
+        0.384562,
+        0.6208125,
+        0.597621,
+        -0.3309881
+      ]
+    ],
+    "plane_scale": [
+      [
+        0.5158758,
+        0.3048987,
+        0.3936299
+      ],
+      [
+        0.3471213,
+        0.05211236,
+        1
+      ],
+      [
+        0.1180465,
+        0.1432278,
+        1
+      ]
+    ],
+    "rect": [
+      -600,
+      -300,
+      1200,
+      800
+    ],
+    "sub_targets": [
+      [
+        "Pelvis"
+      ],
+      [
+        "RightThigh"
+      ],
+      [
+        "LeftThigh"
+      ]
+    ],
+    "timeline_action": "",
+    "tip_offset": "",
+    "tip_text": "",
+    "trigger_param": [
+      2,
+      "Butt"
+    ],
+    "trigger_rect": [
+      -650,
+      -400,
+      1300,
+      1000
+    ]
+  },
+  "70032001": {
+    "action_back_time": 0,
+    "action_emote": "Face_smile_start",
+    "action_trigger": [
+      3
+    ],
+    "back_time": 1,
+    "char_id": 79902,
+    "controller": "NxSofaRightHandIK",
+    "head_track": "",
+    "id": 70032001,
+    "plane_rotation": [
+      [
+        0.02864581,
+        0.7067922,
+        -0.02573759,
+        0.7063723
+      ],
+      [
+        0.04230947,
+        -0.7567957,
+        0.6197464,
+        0.203432
+      ]
+    ],
+    "plane_scale": [
+      [
+        0.3785618,
+        0.2837557,
+        0.3936299
+      ],
+      [
+        0.1548994,
+        0.1196448,
+        1
+      ]
+    ],
+    "rect": [
+      -300,
+      -100,
+      1200,
+      800
+    ],
+    "sub_targets": [
+      [
+        "RightHand"
+      ],
+      [
+        "RightUpperArm"
+      ]
+    ],
+    "timeline_action": "",
+    "tip_offset": "",
+    "tip_text": "",
+    "trigger_param": [
+      2,
+      "RightHand"
+    ],
+    "trigger_rect": [
+      -400,
+      -100,
+      1600,
+      1000
+    ]
+  },
+  "70033000": {
+    "action_back_time": 0,
+    "action_emote": "Face_happy_start",
+    "action_trigger": [
+      3
+    ],
+    "back_time": 0.4,
+    "char_id": 79902,
+    "controller": "NxSofaHeadIK",
+    "head_track": "",
+    "id": 70033000,
+    "plane_rotation": [
+      [
+        0.108287,
+        -0.8532434,
+        0.2645511,
+        -0.4361907
+      ],
+      [
+        0.6695746,
+        0.02865933,
+        0.04076818,
+        0.7410712
+      ],
+      [
+        -0.6522505,
+        0.2750113,
+        -0.2676717,
+        -0.6536741
+      ]
+    ],
+    "plane_scale": [
+      [
+        0.1591991,
+        0.1629937,
+        0.3936299
+      ],
+      [
+        0.1665905,
+        0.08352619,
+        1
+      ],
+      [
+        0.1180465,
+        0.1432278,
+        1
+      ]
+    ],
+    "rect": [
+      -600,
+      -300,
+      1200,
+      800
+    ],
+    "sub_targets": [
+      [
+        "Pelvis"
+      ],
+      [
+        "LeftUpperArm"
+      ],
+      [
+        "RightUpperArm"
+      ]
+    ],
+    "timeline_action": "",
+    "tip_offset": "",
+    "tip_text": "",
+    "trigger_param": [
+      2,
+      "Head"
+    ],
+    "trigger_rect": [
+      -615.6,
+      -350,
+      1500,
+      1000
+    ]
+  },
+  "70041000": {
+    "action_back_time": 0,
+    "action_emote": "Face_shy_start",
+    "action_trigger": [
+      3
+    ],
+    "back_time": 0.4,
+    "char_id": 79902,
+    "controller": "NxPayFrameHeadIK",
+    "head_track": "",
+    "id": 70041000,
+    "plane_rotation": [
+      [
+        0.108287,
+        -0.8532434,
+        0.2645511,
+        -0.4361907
+      ],
+      [
+        0.6695746,
+        0.02865933,
+        0.04076818,
+        0.7410712
+      ],
+      [
+        -0.6522505,
+        0.2750113,
+        -0.2676717,
+        -0.6536741
+      ]
+    ],
+    "plane_scale": [
+      [
+        0.1591991,
+        0.1629937,
+        0.3936299
+      ],
+      [
+        0.1665905,
+        0.08352619,
+        1
+      ],
+      [
+        0.1180465,
+        0.1432278,
+        1
+      ]
+    ],
+    "rect": [
+      -600,
+      -300,
+      1200,
+      800
+    ],
+    "sub_targets": [
+      [
+        "Pelvis"
+      ],
+      [
+        "LeftUpperArm"
+      ],
+      [
+        "RightUpperArm"
+      ]
+    ],
+    "timeline_action": "",
+    "tip_offset": "",
+    "tip_text": "",
+    "trigger_param": [
+      2,
+      "Head"
+    ],
+    "trigger_rect": [
+      -615.6,
+      -350,
+      1500,
+      1000
+    ]
+  },
+  "70041001": {
+    "action_back_time": 0,
+    "action_emote": "Face_smile_start",
+    "action_trigger": [
+      3
+    ],
+    "back_time": 0.4,
+    "char_id": 79902,
+    "controller": "NxPayFrameChestIK",
+    "head_track": "",
+    "id": 70041001,
+    "plane_rotation": [
+      [
+        0.01365788,
+        -0.994932,
+        0.03713229,
+        0.09243929
+      ],
+      [
+        -0.04533571,
+        0.7854667,
+        0.000571066,
+        -0.617241
+      ],
+      [
+        0.5956174,
+        -0.6010711,
+        -0.3793606,
+        0.374218
+      ]
+    ],
+    "plane_scale": [
+      [
+        0.2585227,
+        0.2379306,
+        0.3936299
+      ],
+      [
+        0.2163399,
+        0.05211236,
+        1
+      ],
+      [
+        0.07628826,
+        0.08270419,
+        1
+      ]
+    ],
+    "rect": [
+      -600,
+      -400,
+      1200,
+      700
+    ],
+    "sub_targets": [
+      [
+        "Pelvis"
+      ],
+      [
+        "LeftUpperArm"
+      ],
+      [
+        "RightUpperArm"
+      ]
+    ],
+    "timeline_action": "",
+    "tip_offset": "",
+    "tip_text": "",
+    "trigger_param": [
+      2,
+      "Chest"
+    ],
+    "trigger_rect": [
+      -650,
+      -500,
+      1300,
+      1000
+    ]
+  },
+  "70042000": {
+    "action_back_time": 0,
+    "action_emote": "Face_think_start",
+    "action_trigger": [
+      3
+    ],
+    "back_time": 3,
+    "char_id": 79902,
+    "controller": "NxPayFrameLeftFootIK",
+    "head_track": "",
+    "id": 70042000,
+    "plane_rotation": [
+      [
+        0.108287,
+        -0.8532434,
+        0.2645511,
+        -0.4361907
+      ],
+      [
+        0.01900469,
+        0.6985257,
+        0.0298925,
+        -0.7147079
+      ]
+    ],
+    "plane_scale": [
+      [
+        0.1591991,
+        0.1629937,
+        0.3936299
+      ],
+      [
+        0.5486947,
+        0.1909494,
+        1
+      ]
+    ],
+    "rect": [
+      -400,
+      -350,
+      1000,
+      700
+    ],
+    "sub_targets": [
+      [
+        "LeftThigh"
+      ],
+      [
+        "LeftFoot"
+      ]
+    ],
+    "timeline_action": "",
+    "tip_offset": "",
+    "tip_text": "",
+    "trigger_param": [
+      2,
+      "LeftFoot"
+    ],
+    "trigger_rect": [
+      -550,
+      -400,
+      1600,
+      900
+    ]
+  },
+  "70042001": {
+    "action_back_time": 0,
+    "action_emote": "Face_think_start",
+    "action_trigger": [
+      3
+    ],
+    "back_time": 0.4,
+    "char_id": 79902,
+    "controller": "NxPayFrameButtIK",
+    "head_track": "",
+    "id": 70042001,
+    "plane_rotation": [
+      [
+        -0.05446094,
+        0.9963413,
+        0.06476028,
+        -0.01200428
+      ],
+      [
+        0.0365624,
+        -0.9979193,
+        -0.02681134,
+        0.04584184
+      ],
+      [
+        0.384562,
+        0.6208125,
+        0.597621,
+        -0.3309881
+      ]
+    ],
+    "plane_scale": [
+      [
+        0.5158758,
+        0.3048987,
+        0.3936299
+      ],
+      [
+        0.3471213,
+        0.05211236,
+        1
+      ],
+      [
+        0.1180465,
+        0.1432278,
+        1
+      ]
+    ],
+    "rect": [
+      -600,
+      -600,
+      1200,
+      800
+    ],
+    "sub_targets": [
+      [
+        "Pelvis"
+      ],
+      [
+        "RightThigh"
+      ],
+      [
+        "LeftThigh"
+      ]
+    ],
+    "timeline_action": "",
+    "tip_offset": "",
+    "tip_text": "",
+    "trigger_param": [
+      2,
+      "Butt"
+    ],
+    "trigger_rect": [
+      -650,
+      -700,
+      1300,
+      1000
+    ]
+  },
+  "70043000": {
+    "action_back_time": 0,
+    "action_emote": "Face_happy_start",
+    "action_trigger": [
+      3
+    ],
+    "back_time": 0.4,
+    "char_id": 79902,
+    "controller": "NxPayFrameRightThighIK",
+    "head_track": "",
+    "id": 70043000,
+    "plane_rotation": [
+      [
+        -1.213977e-7,
+        -0.99994,
+        1.540497e-7,
+        -0.01095444
+      ],
+      [
+        -0.1068547,
+        -0.977237,
+        0.03229859,
+        0.1804074
+      ]
+    ],
+    "plane_scale": [
+      [
+        0.1795288,
+        0.3200055,
+        0.3936299
+      ],
+      [
+        0.283272,
+        0.33396,
+        1
+      ]
+    ],
+    "rect": [
+      -550,
+      -30,
+      1200,
+      800
+    ],
+    "sub_targets": [
+      [
+        "RightThigh"
+      ],
+      [
+        "RightFoot"
+      ]
+    ],
+    "timeline_action": "",
+    "tip_offset": "",
+    "tip_text": "",
+    "trigger_param": [
+      2,
+      "RightThigh"
+    ],
+    "trigger_rect": [
+      -650,
+      -30,
+      1600,
+      1000
+    ]
+  },
+  "70044001": {
+    "action_back_time": 0,
+    "action_emote": "Face_shy_start",
+    "action_trigger": [
+      3
+    ],
+    "back_time": 0.5,
+    "char_id": 79902,
+    "controller": "NxPayFrameLeftHandIK",
+    "head_track": "",
+    "id": 70044001,
+    "plane_rotation": [
+      [
+        -0.1136566,
+        0.8401817,
+        -0.0996457,
+        -0.5208144
+      ],
+      [
+        -0.02535084,
+        -0.08509991,
+        -0.03758971,
+        -0.9953404
+      ]
+    ],
+    "plane_scale": [
+      [
+        0.6985931,
+        0.4256923,
+        0.3936299
+      ],
+      [
+        0.1816312,
+        0.05211236,
+        1
+      ]
+    ],
+    "rect": [
+      -700,
+      -400,
+      900,
+      800
+    ],
+    "sub_targets": [
+      [
+        "LeftHand"
+      ],
+      [
+        "LeftUpperArm"
+      ]
+    ],
+    "timeline_action": "",
+    "tip_offset": "",
+    "tip_text": "",
+    "trigger_param": [
+      2,
+      "LeftHand"
+    ],
+    "trigger_rect": [
+      -750,
+      -500,
+      1200,
+      1000
+    ]
+  },
+  "70044002": {
+    "action_back_time": 0,
+    "action_emote": "Face_amazed_start",
+    "action_trigger": [
+      3
+    ],
+    "back_time": 0.4,
+    "char_id": 79902,
+    "controller": "NxPayFrameButtIK",
+    "head_track": "",
+    "id": 70044002,
+    "plane_rotation": [
+      [
+        -0.05446094,
+        0.9963413,
+        0.06476028,
+        -0.01200428
+      ],
+      [
+        0.0365624,
+        -0.9979193,
+        -0.02681134,
+        0.04584184
+      ],
+      [
+        0.384562,
+        0.6208125,
+        0.597621,
+        -0.3309881
+      ]
+    ],
+    "plane_scale": [
+      [
+        0.5158758,
+        0.3048987,
+        0.3936299
+      ],
+      [
+        0.3471213,
+        0.05211236,
+        1
+      ],
+      [
+        0.1180465,
+        0.1432278,
+        1
+      ]
+    ],
+    "rect": [
+      -600,
+      -600,
+      1200,
+      800
+    ],
+    "sub_targets": [
+      [
+        "Pelvis"
+      ],
+      [
+        "RightThigh"
+      ],
+      [
+        "LeftThigh"
+      ]
+    ],
+    "timeline_action": "",
+    "tip_offset": "",
+    "tip_text": "",
+    "trigger_param": [
+      2,
+      "Butt"
+    ],
+    "trigger_rect": [
+      -650,
+      -700,
+      1300,
+      1000
+    ]
+  },
+  "70111000": {
+    "action_back_time": 0,
+    "action_emote": "Face_shy_start",
+    "action_trigger": [
+      3
+    ],
+    "back_time": 0.4,
+    "char_id": 79902,
+    "controller": "NxBedButtIK",
+    "head_track": "",
+    "id": 70111000,
+    "plane_rotation": [
+      [
+        -0.05446094,
+        0.9963413,
+        0.06476028,
+        -0.01200428
+      ],
+      [
+        0.0365624,
+        -0.9979193,
+        -0.02681134,
+        0.04584184
+      ],
+      [
+        0.384562,
+        0.6208125,
+        0.597621,
+        -0.3309881
+      ]
+    ],
+    "plane_scale": [
+      [
+        0.5158758,
+        0.3048987,
+        0.3936299
+      ],
+      [
+        0.3471213,
+        0.05211236,
+        1
+      ],
+      [
+        0.1180465,
+        0.1432278,
+        1
+      ]
+    ],
+    "rect": [
+      -600,
+      -300,
+      1200,
+      800
+    ],
+    "sub_targets": [
+      [
+        "Pelvis"
+      ],
+      [
+        "RightThigh"
+      ],
+      [
+        "LeftThigh"
+      ]
+    ],
+    "timeline_action": "",
+    "tip_offset": "",
+    "tip_text": "",
+    "trigger_param": [
+      2,
+      "Butt"
+    ],
+    "trigger_rect": [
+      -650,
+      -400,
+      1300,
+      1000
+    ]
+  },
+  "70112000": {
+    "action_back_time": 0,
+    "action_emote": "Face_smile_start",
+    "action_trigger": [
+      3
+    ],
+    "back_time": 0.5,
+    "char_id": 79902,
+    "controller": "NxBedHeadIK",
+    "head_track": "",
+    "id": 70112000,
+    "plane_rotation": [
+      [
+        0.108287,
+        -0.8532434,
+        0.2645511,
+        -0.4361907
+      ],
+      [
+        0.6695746,
+        0.02865933,
+        0.04076818,
+        0.7410712
+      ],
+      [
+        -0.6522505,
+        0.2750113,
+        -0.2676717,
+        -0.6536741
+      ]
+    ],
+    "plane_scale": [
+      [
+        0.1591991,
+        0.1629937,
+        0.3936299
+      ],
+      [
+        0.1665905,
+        0.08352619,
+        1
+      ],
+      [
+        0.1180465,
+        0.1432278,
+        1
+      ]
+    ],
+    "rect": [
+      -600,
+      -300,
+      1200,
+      800
+    ],
+    "sub_targets": [
+      [
+        "Pelvis"
+      ],
+      [
+        "LeftUpperArm"
+      ],
+      [
+        "RightUpperArm"
+      ]
+    ],
+    "timeline_action": "",
+    "tip_offset": "",
+    "tip_text": "",
+    "trigger_param": [
+      2,
+      "Head"
+    ],
+    "trigger_rect": [
+      -615.6,
+      -350,
+      1500,
+      1000
+    ]
+  },
+  "70113000": {
+    "action_back_time": 0,
+    "action_emote": "Face_shy_start",
+    "action_trigger": [
+      3
+    ],
+    "back_time": 0.4,
+    "char_id": 79902,
+    "controller": "NxBedChestIK",
+    "head_track": "",
+    "id": 70113000,
+    "plane_rotation": [
+      [
+        0.01365788,
+        -0.994932,
+        0.03713229,
+        0.09243929
+      ],
+      [
+        -0.04533571,
+        0.7854667,
+        0.000571066,
+        -0.617241
+      ],
+      [
+        0.5956174,
+        -0.6010711,
+        -0.3793606,
+        0.374218
+      ]
+    ],
+    "plane_scale": [
+      [
+        0.2585227,
+        0.2379306,
+        0.3936299
+      ],
+      [
+        0.2163399,
+        0.05211236,
+        1
+      ],
+      [
+        0.07628826,
+        0.08270419,
+        1
+      ]
+    ],
+    "rect": [
+      -600,
+      -400,
+      1200,
+      700
+    ],
+    "sub_targets": [
+      [
+        "Pelvis"
+      ],
+      [
+        "LeftUpperArm"
+      ],
+      [
+        "RightUpperArm"
+      ]
+    ],
+    "timeline_action": "",
+    "tip_offset": "",
+    "tip_text": "",
+    "trigger_param": [
+      2,
+      "Chest"
+    ],
+    "trigger_rect": [
+      -650,
+      -500,
+      1300,
+      1000
+    ]
+  },
+  "70121000": {
+    "action_back_time": 0,
+    "action_emote": "Face_smile_start",
+    "action_trigger": [
+      3
+    ],
+    "back_time": 0.6,
+    "char_id": 79902,
+    "controller": "NxFrameRightThighIK",
+    "head_track": "",
+    "id": 70121000,
+    "plane_rotation": [
+      [
+        0.108287,
+        -0.8532434,
+        0.2645511,
+        -0.4361907
+      ],
+      [
+        0.03772205,
+        0.2301582,
+        0.1050624,
+        0.9667296
+      ]
+    ],
+    "plane_scale": [
+      [
+        0.1591991,
+        0.1629937,
+        0.3936299
+      ],
+      [
+        0.283272,
+        0.33396,
+        1
+      ]
+    ],
+    "rect": [
+      -550,
+      -30,
+      1200,
+      800
+    ],
+    "sub_targets": [
+      [
+        "RightThigh"
+      ],
+      [
+        "RightFoot"
+      ]
+    ],
+    "timeline_action": "",
+    "tip_offset": "",
+    "tip_text": "",
+    "trigger_param": [
+      2,
+      "RightThigh"
+    ],
+    "trigger_rect": [
+      -650,
+      -30,
+      1600,
+      1000
+    ]
+  },
+  "70122000": {
+    "action_back_time": 0,
+    "action_emote": "Face_smile_start",
+    "action_trigger": [
+      3
+    ],
+    "back_time": 0.6,
+    "char_id": 79902,
+    "controller": "NxFrameButtIK",
+    "head_track": "",
+    "id": 70122000,
+    "plane_rotation": [
+      [
+        -0.05446094,
+        0.9963413,
+        0.06476028,
+        -0.01200428
+      ],
+      [
+        0.0365624,
+        -0.9979193,
+        -0.02681134,
+        0.04584184
+      ],
+      [
+        0.384562,
+        0.6208125,
+        0.597621,
+        -0.3309881
+      ]
+    ],
+    "plane_scale": [
+      [
+        0.5158758,
+        0.3048987,
+        0.3936299
+      ],
+      [
+        0.3471213,
+        0.05211236,
+        1
+      ],
+      [
+        0.1180465,
+        0.1432278,
+        1
+      ]
+    ],
+    "rect": [
+      -600,
+      -300,
+      1200,
+      800
+    ],
+    "sub_targets": [
+      [
+        "Pelvis"
+      ],
+      [
+        "RightThigh"
+      ],
+      [
+        "LeftThigh"
+      ]
+    ],
+    "timeline_action": "",
+    "tip_offset": "",
+    "tip_text": "",
+    "trigger_param": [
+      2,
+      "Butt"
+    ],
+    "trigger_rect": [
+      -650,
+      -400,
+      1300,
+      1000
+    ]
+  },
+  "70123000": {
+    "action_back_time": 0,
+    "action_emote": "Face_happy_start",
+    "action_trigger": [
+      3
+    ],
+    "back_time": 0.5,
+    "char_id": 79902,
+    "controller": "NxFrameLeftHandIK",
+    "head_track": "",
+    "id": 70123000,
+    "plane_rotation": [
+      [
+        -0.1479942,
+        0.09011447,
+        0.03073922,
+        -0.9843944
+      ],
+      [
+        -0.02535084,
+        -0.08509991,
+        -0.03758971,
+        -0.9953404
+      ]
+    ],
+    "plane_scale": [
+      [
+        0.6985931,
+        0.4256923,
+        0.3936299
+      ],
+      [
+        0.1816312,
+        0.05211236,
+        1
+      ]
+    ],
+    "rect": [
+      -700,
+      -600,
+      1400,
+      800
+    ],
+    "sub_targets": [
+      [
+        "LeftHand"
+      ],
+      [
+        "LeftUpperArm"
+      ]
+    ],
+    "timeline_action": "",
+    "tip_offset": "",
+    "tip_text": "",
+    "trigger_param": [
+      2,
+      "LeftHand"
+    ],
+    "trigger_rect": [
+      -750,
+      -800,
+      1600,
+      1000
+    ]
+  },
+  "70123001": {
+    "action_back_time": 0,
+    "action_emote": "Face_shy_start",
+    "action_trigger": [
+      3
+    ],
+    "back_time": 0.4,
+    "char_id": 79902,
+    "controller": "NxFrameChestIK",
+    "head_track": "",
+    "id": 70123001,
+    "plane_rotation": [
+      [
+        0.01365788,
+        -0.994932,
+        0.03713229,
+        0.09243929
+      ],
+      [
+        -0.04533571,
+        0.7854667,
+        0.000571066,
+        -0.617241
+      ],
+      [
+        0.5956174,
+        -0.6010711,
+        -0.3793606,
+        0.374218
+      ]
+    ],
+    "plane_scale": [
+      [
+        0.2585227,
+        0.2379306,
+        0.3936299
+      ],
+      [
+        0.2163399,
+        0.05211236,
+        1
+      ],
+      [
+        0.07628826,
+        0.08270419,
+        1
+      ]
+    ],
+    "rect": [
+      -600,
+      -400,
+      1200,
+      700
+    ],
+    "sub_targets": [
+      [
+        "Pelvis"
+      ],
+      [
+        "LeftUpperArm"
+      ],
+      [
+        "RightUpperArm"
+      ]
+    ],
+    "timeline_action": "",
+    "tip_offset": "",
+    "tip_text": "",
+    "trigger_param": [
+      2,
+      "Chest"
+    ],
+    "trigger_rect": [
+      -650,
+      -500,
+      1300,
+      1000
+    ]
+  },
+  "70131000": {
+    "action_back_time": 0,
+    "action_emote": "Face_shy_start",
+    "action_trigger": [
+      3
+    ],
+    "back_time": 0.4,
+    "char_id": 79902,
+    "controller": "NxSofaChestIK",
+    "head_track": "",
+    "id": 70131000,
+    "plane_rotation": [
+      [
+        0.01365788,
+        -0.994932,
+        0.03713229,
+        0.09243929
+      ],
+      [
+        -0.04533571,
+        0.7854667,
+        0.000571066,
+        -0.617241
+      ],
+      [
+        0.5956174,
+        -0.6010711,
+        -0.3793606,
+        0.374218
+      ]
+    ],
+    "plane_scale": [
+      [
+        0.2585227,
+        0.2379306,
+        0.3936299
+      ],
+      [
+        0.2163399,
+        0.05211236,
+        1
+      ],
+      [
+        0.07628826,
+        0.08270419,
+        1
+      ]
+    ],
+    "rect": [
+      -600,
+      -400,
+      1200,
+      700
+    ],
+    "sub_targets": [
+      [
+        "Pelvis"
+      ],
+      [
+        "LeftUpperArm"
+      ],
+      [
+        "RightUpperArm"
+      ]
+    ],
+    "timeline_action": "",
+    "tip_offset": "",
+    "tip_text": "",
+    "trigger_param": [
+      2,
+      "Chest"
+    ],
+    "trigger_rect": [
+      -650,
+      -500,
+      1300,
+      1000
+    ]
+  },
+  "70132000": {
+    "action_back_time": 0,
+    "action_emote": "Face_smile_start",
+    "action_trigger": [
+      3
+    ],
+    "back_time": 0.6,
+    "char_id": 79902,
+    "controller": "NxSofaButtIK",
+    "head_track": "",
+    "id": 70132000,
+    "plane_rotation": [
+      [
+        -0.05446094,
+        0.9963413,
+        0.06476028,
+        -0.01200428
+      ],
+      [
+        0.0365624,
+        -0.9979193,
+        -0.02681134,
+        0.04584184
+      ],
+      [
+        0.384562,
+        0.6208125,
+        0.597621,
+        -0.3309881
+      ]
+    ],
+    "plane_scale": [
+      [
+        0.5158758,
+        0.3048987,
+        0.3936299
+      ],
+      [
+        0.3471213,
+        0.05211236,
+        1
+      ],
+      [
+        0.1180465,
+        0.1432278,
+        1
+      ]
+    ],
+    "rect": [
+      -600,
+      -300,
+      1200,
+      800
+    ],
+    "sub_targets": [
+      [
+        "Pelvis"
+      ],
+      [
+        "RightThigh"
+      ],
+      [
+        "LeftThigh"
+      ]
+    ],
+    "timeline_action": "",
+    "tip_offset": "",
+    "tip_text": "",
+    "trigger_param": [
+      2,
+      "Butt"
+    ],
+    "trigger_rect": [
+      -650,
+      -400,
+      1300,
+      1000
+    ]
+  },
+  "70132001": {
+    "action_back_time": 0,
+    "action_emote": "Face_smile_start",
+    "action_trigger": [
+      3
+    ],
+    "back_time": 1,
+    "char_id": 79902,
+    "controller": "NxSofaRightHandIK",
+    "head_track": "",
+    "id": 70132001,
+    "plane_rotation": [
+      [
+        0.02864581,
+        0.7067922,
+        -0.02573759,
+        0.7063723
+      ],
+      [
+        0.04230947,
+        -0.7567957,
+        0.6197464,
+        0.203432
+      ]
+    ],
+    "plane_scale": [
+      [
+        0.3785618,
+        0.2837557,
+        0.3936299
+      ],
+      [
+        0.1548994,
+        0.1196448,
+        1
+      ]
+    ],
+    "rect": [
+      -300,
+      -100,
+      1200,
+      800
+    ],
+    "sub_targets": [
+      [
+        "RightHand"
+      ],
+      [
+        "RightUpperArm"
+      ]
+    ],
+    "timeline_action": "",
+    "tip_offset": "",
+    "tip_text": "",
+    "trigger_param": [
+      2,
+      "RightHand"
+    ],
+    "trigger_rect": [
+      -400,
+      -100,
+      1600,
+      1000
+    ]
+  },
+  "70133000": {
+    "action_back_time": 0,
+    "action_emote": "Face_happy_start",
+    "action_trigger": [
+      3
+    ],
+    "back_time": 0.4,
+    "char_id": 79902,
+    "controller": "NxSofaHeadIK",
+    "head_track": "",
+    "id": 70133000,
+    "plane_rotation": [
+      [
+        0.108287,
+        -0.8532434,
+        0.2645511,
+        -0.4361907
+      ],
+      [
+        0.6695746,
+        0.02865933,
+        0.04076818,
+        0.7410712
+      ],
+      [
+        -0.6522505,
+        0.2750113,
+        -0.2676717,
+        -0.6536741
+      ]
+    ],
+    "plane_scale": [
+      [
+        0.1591991,
+        0.1629937,
+        0.3936299
+      ],
+      [
+        0.1665905,
+        0.08352619,
+        1
+      ],
+      [
+        0.1180465,
+        0.1432278,
+        1
+      ]
+    ],
+    "rect": [
+      -600,
+      -300,
+      1200,
+      800
+    ],
+    "sub_targets": [
+      [
+        "Pelvis"
+      ],
+      [
+        "LeftUpperArm"
+      ],
+      [
+        "RightUpperArm"
+      ]
+    ],
+    "timeline_action": "",
+    "tip_offset": "",
+    "tip_text": "",
+    "trigger_param": [
+      2,
+      "Head"
+    ],
+    "trigger_rect": [
+      -615.6,
+      -350,
+      1500,
+      1000
+    ]
+  },
+  "71041000": {
+    "action_back_time": 0,
+    "action_emote": "Face_shy_start",
+    "action_trigger": [
+      3
+    ],
+    "back_time": 0.4,
+    "char_id": 79902,
+    "controller": "NxPayFrameHeadIK",
+    "head_track": "",
+    "id": 71041000,
+    "plane_rotation": [
+      [
+        0.108287,
+        -0.8532434,
+        0.2645511,
+        -0.4361907
+      ],
+      [
+        0.6695746,
+        0.02865933,
+        0.04076818,
+        0.7410712
+      ],
+      [
+        -0.6522505,
+        0.2750113,
+        -0.2676717,
+        -0.6536741
+      ]
+    ],
+    "plane_scale": [
+      [
+        0.1591991,
+        0.1629937,
+        0.3936299
+      ],
+      [
+        0.1665905,
+        0.08352619,
+        1
+      ],
+      [
+        0.1180465,
+        0.1432278,
+        1
+      ]
+    ],
+    "rect": [
+      -600,
+      -300,
+      1200,
+      800
+    ],
+    "sub_targets": [
+      [
+        "Pelvis"
+      ],
+      [
+        "LeftUpperArm"
+      ],
+      [
+        "RightUpperArm"
+      ]
+    ],
+    "timeline_action": "",
+    "tip_offset": "",
+    "tip_text": "",
+    "trigger_param": [
+      2,
+      "Head"
+    ],
+    "trigger_rect": [
+      -615.6,
+      -350,
+      1500,
+      1000
+    ]
+  },
+  "71041001": {
+    "action_back_time": 0,
+    "action_emote": "Face_smile_start",
+    "action_trigger": [
+      3
+    ],
+    "back_time": 0.4,
+    "char_id": 79902,
+    "controller": "NxPayFrameChestIK",
+    "head_track": "",
+    "id": 71041001,
+    "plane_rotation": [
+      [
+        0.01365788,
+        -0.994932,
+        0.03713229,
+        0.09243929
+      ],
+      [
+        -0.04533571,
+        0.7854667,
+        0.000571066,
+        -0.617241
+      ],
+      [
+        0.5956174,
+        -0.6010711,
+        -0.3793606,
+        0.374218
+      ]
+    ],
+    "plane_scale": [
+      [
+        0.2585227,
+        0.2379306,
+        0.3936299
+      ],
+      [
+        0.2163399,
+        0.05211236,
+        1
+      ],
+      [
+        0.07628826,
+        0.08270419,
+        1
+      ]
+    ],
+    "rect": [
+      -600,
+      -400,
+      1200,
+      700
+    ],
+    "sub_targets": [
+      [
+        "Pelvis"
+      ],
+      [
+        "LeftUpperArm"
+      ],
+      [
+        "RightUpperArm"
+      ]
+    ],
+    "timeline_action": "",
+    "tip_offset": "",
+    "tip_text": "",
+    "trigger_param": [
+      2,
+      "Chest"
+    ],
+    "trigger_rect": [
+      -650,
+      -500,
+      1300,
+      1000
+    ]
+  },
+  "71042000": {
+    "action_back_time": 0,
+    "action_emote": "Face_think_start",
+    "action_trigger": [
+      3
+    ],
+    "back_time": 3,
+    "char_id": 79902,
+    "controller": "NxPayFrameLeftFootIK",
+    "head_track": "",
+    "id": 71042000,
+    "plane_rotation": [
+      [
+        0.108287,
+        -0.8532434,
+        0.2645511,
+        -0.4361907
+      ],
+      [
+        0.01900469,
+        0.6985257,
+        0.0298925,
+        -0.7147079
+      ]
+    ],
+    "plane_scale": [
+      [
+        0.1591991,
+        0.1629937,
+        0.3936299
+      ],
+      [
+        0.5486947,
+        0.1909494,
+        1
+      ]
+    ],
+    "rect": [
+      -400,
+      -350,
+      1000,
+      700
+    ],
+    "sub_targets": [
+      [
+        "LeftThigh"
+      ],
+      [
+        "LeftFoot"
+      ]
+    ],
+    "timeline_action": "",
+    "tip_offset": "",
+    "tip_text": "",
+    "trigger_param": [
+      2,
+      "LeftFoot"
+    ],
+    "trigger_rect": [
+      -550,
+      -400,
+      1600,
+      900
+    ]
+  },
+  "71042001": {
+    "action_back_time": 0,
+    "action_emote": "Face_think_start",
+    "action_trigger": [
+      3
+    ],
+    "back_time": 0.4,
+    "char_id": 79902,
+    "controller": "NxPayFrameButtIK",
+    "head_track": "",
+    "id": 71042001,
+    "plane_rotation": [
+      [
+        -0.05446094,
+        0.9963413,
+        0.06476028,
+        -0.01200428
+      ],
+      [
+        0.0365624,
+        -0.9979193,
+        -0.02681134,
+        0.04584184
+      ],
+      [
+        0.384562,
+        0.6208125,
+        0.597621,
+        -0.3309881
+      ]
+    ],
+    "plane_scale": [
+      [
+        0.5158758,
+        0.3048987,
+        0.3936299
+      ],
+      [
+        0.3471213,
+        0.05211236,
+        1
+      ],
+      [
+        0.1180465,
+        0.1432278,
+        1
+      ]
+    ],
+    "rect": [
+      -600,
+      -600,
+      1200,
+      800
+    ],
+    "sub_targets": [
+      [
+        "Pelvis"
+      ],
+      [
+        "RightThigh"
+      ],
+      [
+        "LeftThigh"
+      ]
+    ],
+    "timeline_action": "",
+    "tip_offset": "",
+    "tip_text": "",
+    "trigger_param": [
+      2,
+      "Butt"
+    ],
+    "trigger_rect": [
+      -650,
+      -700,
+      1300,
+      1000
+    ]
+  },
+  "71043000": {
+    "action_back_time": 0,
+    "action_emote": "Face_happy_start",
+    "action_trigger": [
+      3
+    ],
+    "back_time": 0.4,
+    "char_id": 79902,
+    "controller": "NxPayFrameRightThighIK",
+    "head_track": "",
+    "id": 71043000,
+    "plane_rotation": [
+      [
+        -1.213977e-7,
+        -0.99994,
+        1.540497e-7,
+        -0.01095444
+      ],
+      [
+        -0.1068547,
+        -0.977237,
+        0.03229859,
+        0.1804074
+      ]
+    ],
+    "plane_scale": [
+      [
+        0.1795288,
+        0.3200055,
+        0.3936299
+      ],
+      [
+        0.283272,
+        0.33396,
+        1
+      ]
+    ],
+    "rect": [
+      -550,
+      -30,
+      1200,
+      800
+    ],
+    "sub_targets": [
+      [
+        "RightThigh"
+      ],
+      [
+        "RightFoot"
+      ]
+    ],
+    "timeline_action": "",
+    "tip_offset": "",
+    "tip_text": "",
+    "trigger_param": [
+      2,
+      "RightThigh"
+    ],
+    "trigger_rect": [
+      -650,
+      -30,
+      1600,
+      1000
+    ]
+  },
+  "71044001": {
+    "action_back_time": 0,
+    "action_emote": "Face_shy_start",
+    "action_trigger": [
+      3
+    ],
+    "back_time": 0.5,
+    "char_id": 79902,
+    "controller": "NxPayFrameLeftHandIK",
+    "head_track": "",
+    "id": 71044001,
+    "plane_rotation": [
+      [
+        -0.1136566,
+        0.8401817,
+        -0.0996457,
+        -0.5208144
+      ],
+      [
+        -0.02535084,
+        -0.08509991,
+        -0.03758971,
+        -0.9953404
+      ]
+    ],
+    "plane_scale": [
+      [
+        0.6985931,
+        0.4256923,
+        0.3936299
+      ],
+      [
+        0.1816312,
+        0.05211236,
+        1
+      ]
+    ],
+    "rect": [
+      -700,
+      -400,
+      900,
+      800
+    ],
+    "sub_targets": [
+      [
+        "LeftHand"
+      ],
+      [
+        "LeftUpperArm"
+      ]
+    ],
+    "timeline_action": "",
+    "tip_offset": "",
+    "tip_text": "",
+    "trigger_param": [
+      2,
+      "LeftHand"
+    ],
+    "trigger_rect": [
+      -750,
+      -500,
+      1200,
+      1000
+    ]
+  },
+  "71044002": {
+    "action_back_time": 0,
+    "action_emote": "Face_amazed_start",
+    "action_trigger": [
+      3
+    ],
+    "back_time": 0.4,
+    "char_id": 79902,
+    "controller": "NxPayFrameButtIK",
+    "head_track": "",
+    "id": 71044002,
+    "plane_rotation": [
+      [
+        -0.05446094,
+        0.9963413,
+        0.06476028,
+        -0.01200428
+      ],
+      [
+        0.0365624,
+        -0.9979193,
+        -0.02681134,
+        0.04584184
+      ],
+      [
+        0.384562,
+        0.6208125,
+        0.597621,
+        -0.3309881
+      ]
+    ],
+    "plane_scale": [
+      [
+        0.5158758,
+        0.3048987,
+        0.3936299
+      ],
+      [
+        0.3471213,
+        0.05211236,
+        1
+      ],
+      [
+        0.1180465,
+        0.1432278,
+        1
+      ]
+    ],
+    "rect": [
+      -600,
+      -600,
+      1200,
+      800
+    ],
+    "sub_targets": [
+      [
+        "Pelvis"
+      ],
+      [
+        "RightThigh"
+      ],
+      [
+        "LeftThigh"
+      ]
+    ],
+    "timeline_action": "",
+    "tip_offset": "",
+    "tip_text": "",
+    "trigger_param": [
+      2,
+      "Butt"
+    ],
+    "trigger_rect": [
+      -650,
+      -700,
+      1300,
+      1000
+    ]
+  },
+  "79999901": {
+    "action_back_time": 0,
+    "action_emote": "Face_smile_start",
+    "action_trigger": [
+      3
+    ],
+    "back_time": 0.4,
+    "char_id": 79902,
+    "controller": "NxPayFrameHeadIK",
+    "head_track": "",
+    "id": 79999901,
+    "plane_rotation": [
+      [
+        0.108287,
+        -0.8532434,
+        0.2645511,
+        -0.4361907
+      ],
+      [
+        0.6695746,
+        0.02865933,
+        0.04076818,
+        0.7410712
+      ],
+      [
+        -0.6522505,
+        0.2750113,
+        -0.2676717,
+        -0.6536741
+      ]
+    ],
+    "plane_scale": [
+      [
+        0.1591991,
+        0.1629937,
+        0.3936299
+      ],
+      [
+        0.1665905,
+        0.08352619,
+        1
+      ],
+      [
+        0.1180465,
+        0.1432278,
+        1
+      ]
+    ],
+    "rect": [
+      -600,
+      -300,
+      1200,
+      800
+    ],
+    "sub_targets": [
+      [
+        "Pelvis"
+      ],
+      [
+        "LeftUpperArm"
+      ],
+      [
+        "RightUpperArm"
+      ]
+    ],
+    "timeline_action": [
+      "TimelineSelect",
+      777
+    ],
+    "tip_offset": "",
+    "tip_text": "",
+    "trigger_param": [
+      2,
+      "Head"
+    ],
+    "trigger_rect": [
+      -615.6,
+      -350,
+      1500,
+      1000
+    ]
+  },
+  "79999902": {
+    "action_back_time": 0,
+    "action_emote": "Face_happy_start",
+    "action_trigger": [
+      3
+    ],
+    "back_time": 0.4,
+    "char_id": 79902,
+    "controller": "NxPayFrameChestIK",
+    "head_track": "",
+    "id": 79999902,
+    "plane_rotation": [
+      [
+        0.01365788,
+        -0.9949319,
+        0.03713228,
+        0.09243929
+      ],
+      [
+        -0.04533571,
+        0.7854667,
+        0.000571066,
+        -0.617241
+      ],
+      [
+        0.5956174,
+        -0.6010711,
+        -0.3793606,
+        0.374218
+      ]
+    ],
+    "plane_scale": [
+      [
+        0.2585227,
+        0.2379306,
+        0.3936299
+      ],
+      [
+        0.2163399,
+        0.05211236,
+        1
+      ],
+      [
+        0.07628826,
+        0.08270419,
+        1
+      ]
+    ],
+    "rect": [
+      -600,
+      -400,
+      1200,
+      700
+    ],
+    "sub_targets": [
+      [
+        "Pelvis"
+      ],
+      [
+        "LeftUpperArm"
+      ],
+      [
+        "RightUpperArm"
+      ]
+    ],
+    "timeline_action": [
+      "TimelineSelect",
+      777
+    ],
+    "tip_offset": "",
+    "tip_text": "",
+    "trigger_param": [
+      2,
+      "Chest"
+    ],
+    "trigger_rect": [
+      -650,
+      -500,
+      1300,
+      1000
+    ]
+  },
+  "79999903": {
+    "action_back_time": 0,
+    "action_emote": "Face_smile_start",
+    "action_trigger": [
+      3
+    ],
+    "back_time": 0.4,
+    "char_id": 79902,
+    "controller": "NxPayFrameHeadIK",
+    "head_track": "",
+    "id": 79999903,
+    "plane_rotation": [
+      [
+        0.108287,
+        -0.8532434,
+        0.2645511,
+        -0.4361907
+      ],
+      [
+        0.6695746,
+        0.02865933,
+        0.04076818,
+        0.7410712
+      ],
+      [
+        -0.6522505,
+        0.2750113,
+        -0.2676717,
+        -0.6536741
+      ]
+    ],
+    "plane_scale": [
+      [
+        0.1591991,
+        0.1629937,
+        0.3936299
+      ],
+      [
+        0.1665905,
+        0.08352619,
+        1
+      ],
+      [
+        0.1180465,
+        0.1432278,
+        1
+      ]
+    ],
+    "rect": [
+      -600,
+      -300,
+      1200,
+      800
+    ],
+    "sub_targets": [
+      [
+        "Pelvis"
+      ],
+      [
+        "LeftUpperArm"
+      ],
+      [
+        "RightUpperArm"
+      ]
+    ],
+    "timeline_action": [
+      "TimelineSelect",
+      777
+    ],
+    "tip_offset": "",
+    "tip_text": "",
+    "trigger_param": [
+      2,
+      "Head"
+    ],
+    "trigger_rect": [
+      -615.6,
+      -350,
+      1500,
+      1000
+    ]
+  },
   "all": [
     1001,
     1002,
@@ -47423,6 +50345,45 @@
     61092001,
     69999901,
     69999902,
-    69999903
+    69999903,
+    70011000,
+    70012000,
+    70013000,
+    70021000,
+    70022000,
+    70023000,
+    70023001,
+    70031000,
+    70032000,
+    70032001,
+    70033000,
+    70041000,
+    70041001,
+    70042000,
+    70042001,
+    70043000,
+    70044001,
+    70044002,
+    79999901,
+    79999902,
+    79999903,
+    70111000,
+    70112000,
+    70113000,
+    70121000,
+    70122000,
+    70123000,
+    70123001,
+    70131000,
+    70132000,
+    70132001,
+    70133000,
+    71041000,
+    71041001,
+    71042000,
+    71042001,
+    71043000,
+    71044001,
+    71044002
   ]
 }

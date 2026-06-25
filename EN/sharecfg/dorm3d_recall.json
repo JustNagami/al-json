@@ -435,6 +435,61 @@
     ],
     "unlock_text": "Purchase \"Tulip Glass\""
   },
+  "211": {
+    "desc": "The secret to sweetness lies in the method.",
+    "id": 211,
+    "image": "recall_211",
+    "name": "High-Efficiency Plan",
+    "story_id": 210510,
+    "type": 1,
+    "unlock": [
+      1,
+      79902,
+      4
+    ],
+    "unlock_text": "Reach Nakhimov Intimacy Lv. 4"
+  },
+  "212": {
+    "desc": "Your warm embrace is the most relaxing thing.",
+    "id": 212,
+    "image": "recall_212",
+    "name": "Morning Warmth",
+    "story_id": 210520,
+    "type": 1,
+    "unlock": [
+      1,
+      79902,
+      8
+    ],
+    "unlock_text": "Reach Nakhimov Intimacy Lv. 8"
+  },
+  "213": {
+    "desc": "Commander... It looks like you need repairs, meow~",
+    "id": 213,
+    "image": "recall_213",
+    "name": "Maintenance Expert",
+    "story_id": 210530,
+    "type": 1,
+    "unlock": [
+      1,
+      79902,
+      12
+    ],
+    "unlock_text": "Reach Nakhimov Intimacy Lv. 12"
+  },
+  "214": {
+    "desc": "In front of a cat toy, instincts trump data.",
+    "id": 214,
+    "image": "recall_214",
+    "name": "Hidden Instinct",
+    "story_id": 210541,
+    "type": 1,
+    "unlock": [
+      3,
+      7990201
+    ],
+    "unlock_text": "Unlocked after gifting Instinct Instructor."
+  },
   "all": [
     1,
     2,
@@ -467,7 +522,11 @@
     141,
     142,
     143,
-    144
+    144,
+    211,
+    212,
+    213,
+    214
   ],
   "get_id_list_by_story_id": {
     "10010": [
@@ -565,6 +624,18 @@
     ],
     "140541": [
       144
+    ],
+    "210510": [
+      211
+    ],
+    "210520": [
+      212
+    ],
+    "210530": [
+      213
+    ],
+    "210541": [
+      214
     ]
   }
 }
