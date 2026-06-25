@@ -143,7 +143,7 @@
     "group_id": 1,
     "id": 49905201,
     "message": "aijier_1",
-    "name": "Ägir ",
+    "name": "Ägir",
     "npc_discuss": "",
     "picture": "Ins_499051",
     "sculpture": "aijier",
@@ -158,11 +158,41 @@
     "group_id": 1,
     "id": 49905202,
     "message": "aijier_2",
-    "name": "Ägir ",
+    "name": "Ägir",
     "npc_discuss": "",
     "picture": "Ins_499052",
     "sculpture": "aijier",
     "ship_group": 49905
+  },
+  "79902201": {
+    "background": "ins_199032_bg",
+    "discuss": [
+      23,
+      24
+    ],
+    "group_id": 1,
+    "id": 79902201,
+    "message": "naximofu_1",
+    "name": "Admiral Nakhimov",
+    "npc_discuss": "",
+    "picture": "Ins_799021",
+    "sculpture": "naximofu",
+    "ship_group": 79902
+  },
+  "79902202": {
+    "background": "ins_199032_bg",
+    "discuss": [
+      25,
+      26
+    ],
+    "group_id": 1,
+    "id": 79902202,
+    "message": "naximofu_2",
+    "name": "Admiral Nakhimov",
+    "npc_discuss": "",
+    "picture": "Ins_799022",
+    "sculpture": "naximofu",
+    "ship_group": 79902
   },
   "all": [
     20220201,
@@ -175,7 +205,9 @@
     30707201,
     30707202,
     49905201,
-    49905202
+    49905202,
+    79902201,
+    79902202
   ],
   "get_id_list_by_ship_group": {
     "10517": [
@@ -200,6 +232,10 @@
     "49905": [
       49905201,
       49905202
+    ],
+    "79902": [
+      79902201,
+      79902202
     ]
   }
 }

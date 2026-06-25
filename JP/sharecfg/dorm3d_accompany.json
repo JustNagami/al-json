@@ -287,6 +287,50 @@
       49905
     ]
   },
+  "211": {
+    "favor": [
+      300,
+      [
+        1015,
+        1016,
+        1017
+      ]
+    ],
+    "id": 211,
+    "image": "naximofu_accompany_room",
+    "jump_trigger": [],
+    "name": "ビーチ",
+    "performance_time": 20,
+    "resource_room": 21,
+    "sceneInfo": "map_naximofu_01|Naximofu_DB/Naximofuhostel",
+    "ship_id": 79902,
+    "timeline": "Xiangban_personal_79902",
+    "unlock": []
+  },
+  "212": {
+    "favor": [
+      300,
+      [
+        1015,
+        1016,
+        1017
+      ]
+    ],
+    "id": 212,
+    "image": "carwash_accompany",
+    "jump_trigger": [],
+    "name": "寝室",
+    "performance_time": 20,
+    "resource_room": 26,
+    "sceneInfo": "map_carwash_01|Carwash",
+    "ship_id": 79902,
+    "timeline": "Xiangban_carwash_79902",
+    "unlock": [
+      5,
+      21,
+      79902
+    ]
+  },
   "all": [
     1,
     2,
@@ -300,7 +344,9 @@
     121,
     122,
     141,
-    142
+    142,
+    211,
+    212
   ],
   "get_id_list_by_ship_id": {
     "10517": [
@@ -327,6 +373,10 @@
     "49905": [
       141,
       142
+    ],
+    "79902": [
+      211,
+      212
     ]
   }
 }

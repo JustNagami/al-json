@@ -259,6 +259,46 @@
       0
     ]
   },
+  "1014": {
+    "desc": "入手するとカメラ機能でフレームを適用可能",
+    "farme_path": "photo_frame_tv",
+    "farme_small_path": "photo_frame_tv_small",
+    "frameTfName": "TVFrame",
+    "icon": "Props/drom3d_camera1002",
+    "id": 1014,
+    "name": "レトロ現像",
+    "rarity": 3,
+    "unlock": [
+      1,
+      79902,
+      5
+    ],
+    "unlock_text": "アドミラル・ナヒーモフ親密度Lv5で解放",
+    "watermark_location": [
+      0,
+      0
+    ]
+  },
+  "1015": {
+    "desc": "入手するとカメラ機能でフレームを適用可能",
+    "farme_path": "photo_frame_projection",
+    "farme_small_path": "photo_frame_projection_small",
+    "frameTfName": "TVFrame",
+    "icon": "Props/drom3d_camera1002",
+    "id": 1015,
+    "name": "ホロフィルム",
+    "rarity": 3,
+    "unlock": [
+      1,
+      79902,
+      13
+    ],
+    "unlock_text": "アドミラル・ナヒーモフ親密度Lv13で解放",
+    "watermark_location": [
+      0,
+      0
+    ]
+  },
   "all": [
     1001,
     1002,
@@ -272,6 +312,8 @@
     1010,
     1011,
     1012,
-    1013
+    1013,
+    1014,
+    1015
   ]
 }

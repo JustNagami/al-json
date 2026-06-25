@@ -227,6 +227,42 @@
     "rarity": 3,
     "unlock_text": "エーギル宿舎親愛度Lv10で開放"
   },
+  "102101": {
+    "daytime_res": "102101_bg_day",
+    "desc": "入手すると「母港」の壁紙を「寄り添う温度」にすることが可能",
+    "get_tips": "親愛度壁紙を入手しました",
+    "icon": "Props/drom3d_camera1003",
+    "icon_res": "102101_icon",
+    "id": 102101,
+    "name": "寄り添う温度",
+    "nighttime_res": "102101_bg_night",
+    "rarity": 3,
+    "unlock_text": "アドミラル・ナヒーモフ宿舎親愛度Lv2で開放"
+  },
+  "102102": {
+    "daytime_res": "102102_bg_day",
+    "desc": "入手すると「母港」の壁紙を「添い遂げ安眠」にすることが可能",
+    "get_tips": "親愛度壁紙を入手しました",
+    "icon": "Props/drom3d_camera1003",
+    "icon_res": "102102_icon",
+    "id": 102102,
+    "name": "添い遂げ安眠",
+    "nighttime_res": "102102_bg_night",
+    "rarity": 3,
+    "unlock_text": "アドミラル・ナヒーモフ宿舎親愛度Lv7で開放"
+  },
+  "102103": {
+    "daytime_res": "102103_bg_day",
+    "desc": "入手すると「母港」の壁紙を「付き添い作業」にすることが可能",
+    "get_tips": "親愛度壁紙を入手しました",
+    "icon": "Props/drom3d_camera1003",
+    "icon_res": "102103_icon",
+    "id": 102103,
+    "name": "付き添い作業",
+    "nighttime_res": "102103_bg_night",
+    "rarity": 3,
+    "unlock_text": "アドミラル・ナヒーモフ宿舎親愛度Lv10で開放"
+  },
   "all": [
     0,
     100101,
@@ -246,6 +282,9 @@
     101203,
     101401,
     101402,
-    101403
+    101403,
+    102101,
+    102102,
+    102103
   ]
 }

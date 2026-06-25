@@ -113005,6 +113005,53 @@
       61183
     ]
   },
+  "61191": {
+    "ammo": 10,
+    "ammo_icon": [],
+    "ammo_info": [],
+    "descrip": "航母空袭展示用",
+    "equip_info": [],
+    "equip_parameters": [],
+    "hidden_skill_id": [],
+    "icon": "1",
+    "id": 61191,
+    "label": [],
+    "name": "航空攻击展示-阿罗芒什I",
+    "nationality": 0,
+    "part_main": [],
+    "part_sub": [],
+    "property_rate": [],
+    "rarity": 1,
+    "skill_id": [],
+    "speciality": "<[NA]>",
+    "tech": 1,
+    "torpedo_ammo": 0,
+    "type": 99,
+    "value_1": "0",
+    "value_2": 0,
+    "value_3": 0,
+    "weapon_id": [
+      61191
+    ]
+  },
+  "61192": {
+    "base": 61191,
+    "hidden_skill_id": [],
+    "id": 61192,
+    "name": "航空攻击展示-阿罗芒什II",
+    "weapon_id": [
+      61192
+    ]
+  },
+  "61193": {
+    "base": 61191,
+    "hidden_skill_id": [],
+    "id": 61193,
+    "name": "航空攻击展示-阿罗芒什III",
+    "weapon_id": [
+      61193
+    ]
+  },
   "61501": {
     "ammo": 10,
     "ammo_icon": [],
@@ -162494,6 +162541,111 @@
     "value_1": "50",
     "value_2": 142
   },
+  "151180": {
+    "ammo": 10,
+    "ammo_icon": [],
+    "ammo_info": [],
+    "attribute_1": "durability",
+    "descrip": "帽子をかぶって皆をハッピーに！",
+    "equip_info": [
+      6
+    ],
+    "equip_parameters": [],
+    "hidden_skill_id": [],
+    "icon": "151180",
+    "id": 151180,
+    "label": [
+      "FFNF",
+      "DEV"
+    ],
+    "name": "笑わせ担当",
+    "nationality": 10,
+    "part_main": [],
+    "part_sub": [],
+    "property_rate": [],
+    "rarity": 4,
+    "skill_id": [
+      [
+        61110,
+        1
+      ]
+    ],
+    "speciality": "<[NA]>",
+    "tech": 0,
+    "torpedo_ammo": 0,
+    "type": 10,
+    "value_1": "200",
+    "value_2": 0,
+    "value_3": 0,
+    "weapon_id": []
+  },
+  "151181": {
+    "base": 151180,
+    "hidden_skill_id": [],
+    "id": 151181,
+    "value_1": "230"
+  },
+  "151182": {
+    "base": 151180,
+    "hidden_skill_id": [],
+    "id": 151182,
+    "value_1": "260"
+  },
+  "151183": {
+    "base": 151180,
+    "hidden_skill_id": [],
+    "id": 151183,
+    "value_1": "290"
+  },
+  "151184": {
+    "base": 151180,
+    "hidden_skill_id": [],
+    "id": 151184,
+    "value_1": "320"
+  },
+  "151185": {
+    "base": 151180,
+    "hidden_skill_id": [],
+    "id": 151185,
+    "value_1": "350"
+  },
+  "151186": {
+    "base": 151180,
+    "hidden_skill_id": [],
+    "id": 151186,
+    "value_1": "380"
+  },
+  "151187": {
+    "base": 151180,
+    "hidden_skill_id": [],
+    "id": 151187,
+    "value_1": "410"
+  },
+  "151188": {
+    "base": 151180,
+    "hidden_skill_id": [],
+    "id": 151188,
+    "value_1": "440"
+  },
+  "151189": {
+    "base": 151180,
+    "hidden_skill_id": [],
+    "id": 151189,
+    "value_1": "470"
+  },
+  "151190": {
+    "base": 151180,
+    "hidden_skill_id": [],
+    "id": 151190,
+    "value_1": "500"
+  },
+  "151191": {
+    "anti_siren": 100,
+    "base": 151180,
+    "hidden_skill_id": [],
+    "id": 151191,
+    "value_1": "530"
+  },
   "170001": {
     "ammo": 10,
     "ammo_icon": [],
@@ -164167,6 +164319,57 @@
     "name": "专属弹幕-皇家詹姆斯",
     "weapon_id": [
       170882
+    ]
+  },
+  "171041": {
+    "ammo": 10,
+    "ammo_icon": [],
+    "ammo_info": [],
+    "descrip": "技能弹幕",
+    "equip_info": [],
+    "equip_parameters": [],
+    "hidden_skill_id": [],
+    "icon": "1",
+    "id": 171041,
+    "label": [],
+    "name": "专属弹幕-瑟堡I",
+    "nationality": 0,
+    "part_main": [
+      1,
+      19,
+      20,
+      21
+    ],
+    "part_sub": [
+      2,
+      3,
+      4,
+      5,
+      8,
+      13,
+      18
+    ],
+    "property_rate": [],
+    "rarity": 1,
+    "skill_id": [],
+    "speciality": "<[NA]>",
+    "tech": 1,
+    "torpedo_ammo": 0,
+    "type": 1,
+    "value_1": "0",
+    "value_2": 0,
+    "value_3": 0,
+    "weapon_id": [
+      171041
+    ]
+  },
+  "171042": {
+    "base": 171041,
+    "hidden_skill_id": [],
+    "id": 171042,
+    "name": "专属弹幕-瑟堡II",
+    "weapon_id": [
+      171042
     ]
   },
   "180000": {
@@ -175546,6 +175749,9 @@
     61181,
     61182,
     61183,
+    61191,
+    61192,
+    61193,
     61501,
     61503,
     61504,
@@ -178848,6 +179054,18 @@
     151171,
     151172,
     151173,
+    151180,
+    151181,
+    151182,
+    151183,
+    151184,
+    151185,
+    151186,
+    151187,
+    151188,
+    151189,
+    151190,
+    151191,
     170001,
     170002,
     170011,
@@ -178913,6 +179131,8 @@
     170872,
     170881,
     170882,
+    171041,
+    171042,
     180000,
     180001,
     180025,
