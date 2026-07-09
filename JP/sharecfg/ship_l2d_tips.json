@@ -1574,6 +1574,55 @@
       }
     ]
   },
+  "703021": {
+    "anim_white_list": [
+      {
+        "drawable": [
+          "TouchDrag99"
+        ],
+        "white_list": [
+          "touch_drag1"
+        ]
+      }
+    ],
+    "id": 703021,
+    "idle_black_list": [
+      {
+        "drawable": [],
+        "idle": [
+          0
+        ]
+      }
+    ],
+    "tips_icon": [
+      {
+        "drawable": [
+          "TouchDrag1",
+          "TouchDrag2"
+        ],
+        "icon": "l2dui"
+      }
+    ],
+    "tips_offset": [
+      {
+        "drawable": [],
+        "offset": [
+          0,
+          0
+        ]
+      }
+    ],
+    "tips_scale": [
+      {
+        "drawable": [],
+        "scale": [
+          1,
+          1,
+          1
+        ]
+      }
+    ]
+  },
   "805031": {
     "anim_white_list": [
       {
@@ -2351,6 +2400,7 @@
     904021,
     907013,
     405032,
-    818011
+    818011,
+    703021
   ]
 }

@@ -6201,6 +6201,116 @@
     "type": 1,
     "velocity": 22
   },
+  "1012": {
+    "DMG_font": [
+      [
+        3,
+        1.2
+      ],
+      [
+        4,
+        0.8
+      ],
+      [
+        3,
+        0.8
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "",
+    "ammo_type": 3,
+    "antisub_enhancement": 0,
+    "attach_buff": [
+      {
+        "buff_id": 311,
+        "group_level": 1,
+        "rant": 100
+      }
+    ],
+    "cld_box": [
+      6,
+      2,
+      2
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      1.2,
+      0.6,
+      0.6
+    ],
+    "effect_type": 1,
+    "extra_param": [],
+    "hit_fx": "pofang",
+    "hit_sfx": "battle/hit",
+    "hit_type": [],
+    "id": 1012,
+    "miss_fx": "ShellMiss",
+    "miss_sfx": "battle/sink",
+    "modle_ID": "BulletJP",
+    "out_bound": 0,
+    "pierce_count": 1,
+    "random_damage_rate": 0,
+    "range": 70,
+    "range_offset": 10,
+    "type": 1,
+    "velocity": 18
+  },
+  "1013": {
+    "DMG_font": [
+      [
+        1,
+        1
+      ],
+      [
+        4,
+        0.8
+      ],
+      [
+        4,
+        0.6
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "",
+    "ammo_type": 1,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      6,
+      2,
+      2
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      1,
+      0.55,
+      0.25
+    ],
+    "effect_type": 1,
+    "extra_param": [],
+    "hit_fx": "ShellMiss",
+    "hit_sfx": "battle/hit",
+    "hit_type": [],
+    "id": 1013,
+    "miss_fx": "ShellMiss",
+    "miss_sfx": "battle/sink",
+    "modle_ID": "BulletUK",
+    "out_bound": 0,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 60,
+    "range_offset": 10,
+    "type": 1,
+    "velocity": 18
+  },
   "1100": {
     "DMG_font": [
       [
@@ -11131,6 +11241,75 @@
     "range_offset": 20,
     "type": 2,
     "velocity": 12
+  },
+  "1517": {
+    "DMG_font": [
+      [
+        3,
+        1.4
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        3,
+        0.8
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "AlertArea",
+    "ammo_type": 3,
+    "antisub_enhancement": 0,
+    "attach_buff": [
+      {
+        "buff_id": 311,
+        "group_level": 4,
+        "rant": 7500
+      }
+    ],
+    "cld_box": [
+      5,
+      2,
+      2
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      1.4,
+      1.1,
+      0.9
+    ],
+    "effect_type": 1,
+    "extra_param": {
+      "accuracy": "chargeBulletAccuracy",
+      "diveFilter": [
+        2
+      ],
+      "gravity": -0.05,
+      "randomOffsetX": 19,
+      "randomOffsetZ": 19
+    },
+    "hit_fx": "ShellHit",
+    "hit_sfx": "battle/torpedo-hit",
+    "hit_type": {
+      "range": 16,
+      "time": -1
+    },
+    "id": 1517,
+    "miss_fx": "ShellMissBig",
+    "miss_sfx": "battle/sink",
+    "modle_ID": "kuasheHE",
+    "out_bound": 0,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 80,
+    "range_offset": 20,
+    "type": 2,
+    "velocity": 11
   },
   "1520": {
     "DMG_font": [
@@ -17375,6 +17554,129 @@
     "type": 3,
     "velocity": 2
   },
+  "1844": {
+    "DMG_font": [
+      [
+        3,
+        0.8
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        3,
+        1.3
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "TorAlert",
+    "ammo_type": 4,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      1.8,
+      1,
+      1
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      0.8,
+      1,
+      1.3
+    ],
+    "effect_type": 1,
+    "extra_param": {
+      "diveFilter": [
+        2
+      ]
+    },
+    "hit_fx": "TorpedoHit3",
+    "hit_sfx": "battle/torpedo-hit",
+    "hit_type": {
+      "range": 3,
+      "time": -1
+    },
+    "id": 1844,
+    "miss_fx": "",
+    "miss_sfx": "",
+    "modle_ID": "Torpedo01",
+    "out_bound": 0,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 100,
+    "range_offset": 20,
+    "type": 3,
+    "velocity": 3
+  },
+  "1845": {
+    "DMG_font": [
+      [
+        3,
+        1.3
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        3,
+        0.8
+      ]
+    ],
+    "acceleration": {
+      "tracker": {
+        "angular": 1.6,
+        "range": 14
+      }
+    },
+    "alert_fx": "TorAlert",
+    "ammo_type": 4,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      1.8,
+      1,
+      1
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      1.3,
+      1,
+      0.8
+    ],
+    "effect_type": 1,
+    "extra_param": {
+      "diveFilter": [
+        2
+      ]
+    },
+    "hit_fx": "TorpedoHit3",
+    "hit_sfx": "battle/torpedo-hit",
+    "hit_type": {
+      "range": 3,
+      "time": -1
+    },
+    "id": 1845,
+    "miss_fx": "",
+    "miss_sfx": "",
+    "modle_ID": "Torpedo01",
+    "out_bound": 0,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 90,
+    "range_offset": 20,
+    "type": 3,
+    "velocity": 3
+  },
   "1900": {
     "DMG_font": [
       [
@@ -20568,6 +20870,65 @@
     "range_offset": 20,
     "type": 2,
     "velocity": 15
+  },
+  "2149": {
+    "DMG_font": [
+      [
+        3,
+        0.8
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        3,
+        1.2
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "AlertArea",
+    "ammo_type": 6,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      1.8,
+      1,
+      1
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      0.8,
+      1.1,
+      1.3
+    ],
+    "effect_type": 1,
+    "extra_param": {
+      "diveFilter": [
+        2
+      ]
+    },
+    "hit_fx": "ShellHit",
+    "hit_sfx": "battle/hit",
+    "hit_type": {
+      "range": 10,
+      "time": -1
+    },
+    "id": 2149,
+    "miss_fx": "ShellHit",
+    "miss_sfx": "",
+    "modle_ID": "Torpedoairjp_tantiao",
+    "out_bound": 0,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 60,
+    "range_offset": 0,
+    "type": 3,
+    "velocity": 7
   },
   "2200": {
     "DMG_font": [
@@ -189804,6 +190165,2676 @@
     "type": 1,
     "velocity": 15
   },
+  "168309": {
+    "DMG_font": [
+      [
+        3,
+        0.8
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        3,
+        1.3
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "TorAlert",
+    "ammo_type": 4,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      1.8,
+      1,
+      1
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      0.8,
+      1,
+      1.3
+    ],
+    "effect_type": 1,
+    "extra_param": {
+      "diveFilter": [
+        2
+      ]
+    },
+    "hit_fx": "TorpedoHit3",
+    "hit_sfx": "battle/torpedo-hit",
+    "hit_type": {
+      "range": 3,
+      "time": -1
+    },
+    "id": 168309,
+    "miss_fx": "",
+    "miss_sfx": "",
+    "modle_ID": "Torpedo01",
+    "out_bound": 0,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 150,
+    "range_offset": 20,
+    "type": 3,
+    "velocity": 5
+  },
+  "168310": {
+    "DMG_font": [
+      [
+        2,
+        0.8
+      ],
+      [
+        2,
+        1.2
+      ],
+      [
+        2,
+        1
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "",
+    "ammo_type": 2,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      5,
+      2,
+      2
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      0.75,
+      1.1,
+      0.75
+    ],
+    "effect_type": 1,
+    "extra_param": [],
+    "hit_fx": "Clhit",
+    "hit_sfx": "battle/hit",
+    "hit_type": [],
+    "id": 168310,
+    "miss_fx": "ShellMissBig",
+    "miss_sfx": "battle/sink",
+    "modle_ID": "kuasheAP",
+    "out_bound": 0,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 60,
+    "range_offset": 10,
+    "type": 1,
+    "velocity": 18
+  },
+  "168311": {
+    "DMG_font": [
+      [
+        3,
+        0.8
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        3,
+        1.3
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "TorAlert",
+    "ammo_type": 4,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      1.8,
+      1,
+      1
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      0.8,
+      1,
+      1.3
+    ],
+    "effect_type": 1,
+    "extra_param": {
+      "diveFilter": [
+        2
+      ]
+    },
+    "hit_fx": "TorpedoHit3",
+    "hit_sfx": "battle/torpedo-hit",
+    "hit_type": {
+      "range": 3,
+      "time": -1
+    },
+    "id": 168311,
+    "miss_fx": "",
+    "miss_sfx": "",
+    "modle_ID": "Torpedo01",
+    "out_bound": 0,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 150,
+    "range_offset": 20,
+    "type": 3,
+    "velocity": 5
+  },
+  "168312": {
+    "DMG_font": [
+      [
+        3,
+        1.4
+      ],
+      [
+        3,
+        1.2
+      ],
+      [
+        3,
+        1
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "AlertArea",
+    "ammo_type": 3,
+    "antisub_enhancement": 0,
+    "attach_buff": [
+      {
+        "buff_id": 190089,
+        "group_level": 1,
+        "rant": 10000
+      }
+    ],
+    "cld_box": [
+      6,
+      2,
+      2
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      1.4,
+      1.2,
+      1
+    ],
+    "effect_type": 1,
+    "extra_param": [],
+    "hit_fx": "ShellHit",
+    "hit_sfx": "battle/hit",
+    "hit_type": {
+      "range": 14,
+      "time": -1
+    },
+    "id": 168312,
+    "miss_fx": "ShellMissBig",
+    "miss_sfx": "battle/sink",
+    "modle_ID": "BulletUSA6_big",
+    "out_bound": 0,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 200,
+    "range_offset": 15,
+    "type": 2,
+    "velocity": 15
+  },
+  "168313": {
+    "DMG_font": [
+      [
+        3,
+        1.4
+      ],
+      [
+        3,
+        1.2
+      ],
+      [
+        3,
+        1
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "",
+    "ammo_type": 3,
+    "antisub_enhancement": 0,
+    "attach_buff": [
+      {
+        "buff_id": 190089,
+        "group_level": 1,
+        "rant": 10000
+      }
+    ],
+    "cld_box": [
+      6,
+      2,
+      2
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      1.4,
+      1.2,
+      1
+    ],
+    "effect_type": 1,
+    "extra_param": [],
+    "hit_fx": "ShellHit",
+    "hit_sfx": "battle/hit",
+    "hit_type": [],
+    "id": 168313,
+    "miss_fx": "ShellMissBig",
+    "miss_sfx": "battle/sink",
+    "modle_ID": "BulletUSA2_big",
+    "out_bound": 0,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 200,
+    "range_offset": 10,
+    "type": 1,
+    "velocity": 16
+  },
+  "168314": {
+    "DMG_font": [
+      [
+        3,
+        0.8
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        3,
+        1.3
+      ]
+    ],
+    "acceleration": {
+      "tracker": {
+        "angular": 1.6,
+        "range": 15
+      }
+    },
+    "alert_fx": "TorAlert",
+    "ammo_type": 4,
+    "antisub_enhancement": 0,
+    "attach_buff": [
+      {
+        "buff_id": 190099,
+        "group_level": 1,
+        "rant": 10000
+      }
+    ],
+    "cld_box": [
+      1.8,
+      1,
+      1
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      0.8,
+      1.1,
+      1.3
+    ],
+    "effect_type": 1,
+    "extra_param": {
+      "diveFilter": [
+        2
+      ]
+    },
+    "hit_fx": "TorpedoHit3",
+    "hit_sfx": "battle/torpedo-hit",
+    "hit_type": {
+      "range": 3,
+      "time": -1
+    },
+    "id": 168314,
+    "miss_fx": "",
+    "miss_sfx": "",
+    "modle_ID": "Torpedo01",
+    "out_bound": 0,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 200,
+    "range_offset": 20,
+    "type": 3,
+    "velocity": 10
+  },
+  "168315": {
+    "DMG_font": [
+      [
+        3,
+        1.2
+      ],
+      [
+        4,
+        0.8
+      ],
+      [
+        3,
+        0.8
+      ]
+    ],
+    "acceleration": [
+      {
+        "flip": false,
+        "t": 0.6,
+        "u": 0.4,
+        "v": 0
+      },
+      {
+        "flip": false,
+        "t": 1.2,
+        "u": 0.1,
+        "v": 0
+      }
+    ],
+    "alert_fx": "",
+    "ammo_type": 3,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      3,
+      2,
+      2
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      1.2,
+      0.6,
+      0.6
+    ],
+    "effect_type": 1,
+    "extra_param": [],
+    "hit_fx": "pofang",
+    "hit_sfx": "battle/hit",
+    "hit_type": [],
+    "id": 168315,
+    "miss_fx": "ShellMiss",
+    "miss_sfx": "battle/sink",
+    "modle_ID": "BulletJP",
+    "out_bound": 0,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 80,
+    "range_offset": 10,
+    "type": 1,
+    "velocity": 4
+  },
+  "168316": {
+    "DMG_font": [
+      [
+        3,
+        1.2
+      ],
+      [
+        4,
+        0.8
+      ],
+      [
+        3,
+        0.8
+      ]
+    ],
+    "acceleration": [
+      {
+        "flip": false,
+        "t": 0.6,
+        "u": 0.4,
+        "v": 0
+      },
+      {
+        "flip": false,
+        "t": 1.4,
+        "u": 0.1,
+        "v": 0
+      }
+    ],
+    "alert_fx": "",
+    "ammo_type": 3,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      3,
+      2,
+      2
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      1.2,
+      0.6,
+      0.6
+    ],
+    "effect_type": 1,
+    "extra_param": [],
+    "hit_fx": "pofang",
+    "hit_sfx": "battle/hit",
+    "hit_type": [],
+    "id": 168316,
+    "miss_fx": "ShellMiss",
+    "miss_sfx": "battle/sink",
+    "modle_ID": "BulletJP",
+    "out_bound": 0,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 80,
+    "range_offset": 10,
+    "type": 1,
+    "velocity": 0.1
+  },
+  "168317": {
+    "DMG_font": [
+      [
+        3,
+        0.8
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        3,
+        1.3
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "TorAlert",
+    "ammo_type": 4,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      1.8,
+      1,
+      1
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      0.8,
+      1,
+      1.3
+    ],
+    "effect_type": 1,
+    "extra_param": {
+      "diveFilter": [
+        2
+      ]
+    },
+    "hit_fx": "TorpedoHit3",
+    "hit_sfx": "battle/torpedo-hit",
+    "hit_type": {
+      "range": 3,
+      "time": -1
+    },
+    "id": 168317,
+    "miss_fx": "",
+    "miss_sfx": "",
+    "modle_ID": "Torpedo01",
+    "out_bound": 0,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 150,
+    "range_offset": 20,
+    "type": 3,
+    "velocity": 2.3
+  },
+  "168318": {
+    "DMG_font": [
+      [
+        3,
+        0.8
+      ],
+      [
+        3,
+        0.8
+      ],
+      [
+        3,
+        0.8
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "AlertArea",
+    "ammo_type": 3,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      6,
+      2,
+      2
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      1.2,
+      1.2,
+      1.2
+    ],
+    "effect_type": 1,
+    "extra_param": {
+      "diveFilter": [
+        2
+      ],
+      "gravity": -0.05,
+      "randomOffsetX": 16,
+      "randomOffsetZ": 16
+    },
+    "hit_fx": "ShellHit",
+    "hit_sfx": "battle/hit",
+    "hit_type": {
+      "range": 15,
+      "time": -1
+    },
+    "id": 168318,
+    "miss_fx": "ShellMissBig",
+    "miss_sfx": "battle/sink",
+    "modle_ID": "val_bullet1",
+    "out_bound": 0,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 105,
+    "range_offset": 20,
+    "type": 2,
+    "velocity": 18
+  },
+  "168319": {
+    "DMG_font": [
+      [
+        3,
+        0.8
+      ],
+      [
+        3,
+        0.8
+      ],
+      [
+        3,
+        0.8
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "",
+    "ammo_type": 3,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      6,
+      2,
+      2
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      1.2,
+      1,
+      0.9
+    ],
+    "effect_type": 1,
+    "extra_param": {
+      "ignoreShield": true
+    },
+    "hit_fx": "pofang",
+    "hit_sfx": "battle/hit",
+    "hit_type": [],
+    "id": 168319,
+    "miss_fx": "ShellMiss",
+    "miss_sfx": "battle/sink",
+    "modle_ID": "val_bullet2",
+    "out_bound": 0,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 105,
+    "range_offset": 10,
+    "type": 1,
+    "velocity": 22
+  },
+  "168321": {
+    "DMG_font": [
+      [
+        3,
+        0.8
+      ],
+      [
+        3,
+        0.8
+      ],
+      [
+        3,
+        0.8
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "",
+    "ammo_type": 3,
+    "antisub_enhancement": 0,
+    "attach_buff": [
+      {
+        "buff_id": 311,
+        "group_level": 1,
+        "rant": 100
+      }
+    ],
+    "cld_box": [
+      6,
+      2,
+      2
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      1.2,
+      0.8,
+      0.7
+    ],
+    "effect_type": 1,
+    "extra_param": {
+      "ignoreShield": true
+    },
+    "hit_fx": "pofang",
+    "hit_sfx": "battle/hit",
+    "hit_type": [],
+    "id": 168321,
+    "miss_fx": "ShellMiss",
+    "miss_sfx": "battle/sink",
+    "modle_ID": "val_bullet2",
+    "out_bound": 0,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 105,
+    "range_offset": 10,
+    "type": 1,
+    "velocity": 22
+  },
+  "168322": {
+    "DMG_font": [
+      [
+        3,
+        0.8
+      ],
+      [
+        3,
+        0.8
+      ],
+      [
+        3,
+        0.8
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "",
+    "ammo_type": 3,
+    "antisub_enhancement": 0,
+    "attach_buff": [
+      {
+        "buff_id": 311,
+        "group_level": 1,
+        "rant": 100
+      }
+    ],
+    "cld_box": [
+      6,
+      2,
+      2
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      1.2,
+      0.82,
+      0.7
+    ],
+    "effect_type": 1,
+    "extra_param": {
+      "ignoreShield": true
+    },
+    "hit_fx": "pofang",
+    "hit_sfx": "battle/hit",
+    "hit_type": [],
+    "id": 168322,
+    "miss_fx": "ShellMiss",
+    "miss_sfx": "battle/sink",
+    "modle_ID": "val_bullet2",
+    "out_bound": 0,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 105,
+    "range_offset": 10,
+    "type": 1,
+    "velocity": 22
+  },
+  "168323": {
+    "DMG_font": [
+      [
+        3,
+        0.8
+      ],
+      [
+        3,
+        0.8
+      ],
+      [
+        3,
+        0.8
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "",
+    "ammo_type": 3,
+    "antisub_enhancement": 0,
+    "attach_buff": [
+      {
+        "buff_id": 311,
+        "group_level": 1,
+        "rant": 100
+      }
+    ],
+    "cld_box": [
+      6,
+      2,
+      2
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      1.2,
+      0.82,
+      0.72
+    ],
+    "effect_type": 1,
+    "extra_param": {
+      "ignoreShield": true
+    },
+    "hit_fx": "pofang",
+    "hit_sfx": "battle/hit",
+    "hit_type": [],
+    "id": 168323,
+    "miss_fx": "ShellMiss",
+    "miss_sfx": "battle/sink",
+    "modle_ID": "val_bullet2",
+    "out_bound": 0,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 105,
+    "range_offset": 10,
+    "type": 1,
+    "velocity": 22
+  },
+  "168324": {
+    "DMG_font": [
+      [
+        3,
+        0.8
+      ],
+      [
+        3,
+        0.8
+      ],
+      [
+        3,
+        0.8
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "",
+    "ammo_type": 3,
+    "antisub_enhancement": 0,
+    "attach_buff": [
+      {
+        "buff_id": 311,
+        "group_level": 1,
+        "rant": 100
+      }
+    ],
+    "cld_box": [
+      6,
+      2,
+      2
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      1.2,
+      0.85,
+      0.72
+    ],
+    "effect_type": 1,
+    "extra_param": {
+      "ignoreShield": true
+    },
+    "hit_fx": "pofang",
+    "hit_sfx": "battle/hit",
+    "hit_type": [],
+    "id": 168324,
+    "miss_fx": "ShellMiss",
+    "miss_sfx": "battle/sink",
+    "modle_ID": "val_bullet2",
+    "out_bound": 0,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 105,
+    "range_offset": 10,
+    "type": 1,
+    "velocity": 22
+  },
+  "168325": {
+    "DMG_font": [
+      [
+        3,
+        0.8
+      ],
+      [
+        3,
+        0.8
+      ],
+      [
+        3,
+        0.8
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "",
+    "ammo_type": 3,
+    "antisub_enhancement": 0,
+    "attach_buff": [
+      {
+        "buff_id": 311,
+        "group_level": 1,
+        "rant": 100
+      }
+    ],
+    "cld_box": [
+      6,
+      2,
+      2
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      1.2,
+      0.85,
+      0.75
+    ],
+    "effect_type": 1,
+    "extra_param": {
+      "ignoreShield": true
+    },
+    "hit_fx": "pofang",
+    "hit_sfx": "battle/hit",
+    "hit_type": [],
+    "id": 168325,
+    "miss_fx": "ShellMiss",
+    "miss_sfx": "battle/sink",
+    "modle_ID": "val_bullet2",
+    "out_bound": 0,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 105,
+    "range_offset": 10,
+    "type": 1,
+    "velocity": 22
+  },
+  "168326": {
+    "DMG_font": [
+      [
+        3,
+        0.8
+      ],
+      [
+        3,
+        0.8
+      ],
+      [
+        3,
+        0.8
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "",
+    "ammo_type": 3,
+    "antisub_enhancement": 0,
+    "attach_buff": [
+      {
+        "buff_id": 311,
+        "group_level": 1,
+        "rant": 100
+      }
+    ],
+    "cld_box": [
+      6,
+      2,
+      2
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      1.2,
+      0.9,
+      0.75
+    ],
+    "effect_type": 1,
+    "extra_param": {
+      "ignoreShield": true
+    },
+    "hit_fx": "pofang",
+    "hit_sfx": "battle/hit",
+    "hit_type": [],
+    "id": 168326,
+    "miss_fx": "ShellMiss",
+    "miss_sfx": "battle/sink",
+    "modle_ID": "val_bullet2",
+    "out_bound": 0,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 105,
+    "range_offset": 10,
+    "type": 1,
+    "velocity": 22
+  },
+  "168327": {
+    "DMG_font": [
+      [
+        3,
+        0.8
+      ],
+      [
+        3,
+        0.8
+      ],
+      [
+        3,
+        0.8
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "",
+    "ammo_type": 3,
+    "antisub_enhancement": 0,
+    "attach_buff": [
+      {
+        "buff_id": 311,
+        "group_level": 1,
+        "rant": 100
+      }
+    ],
+    "cld_box": [
+      6,
+      2,
+      2
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      1.2,
+      0.9,
+      0.8
+    ],
+    "effect_type": 1,
+    "extra_param": {
+      "ignoreShield": true
+    },
+    "hit_fx": "pofang",
+    "hit_sfx": "battle/hit",
+    "hit_type": [],
+    "id": 168327,
+    "miss_fx": "ShellMiss",
+    "miss_sfx": "battle/sink",
+    "modle_ID": "val_bullet2",
+    "out_bound": 0,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 105,
+    "range_offset": 10,
+    "type": 1,
+    "velocity": 22
+  },
+  "168328": {
+    "DMG_font": [
+      [
+        3,
+        0.8
+      ],
+      [
+        3,
+        0.8
+      ],
+      [
+        3,
+        0.8
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "",
+    "ammo_type": 3,
+    "antisub_enhancement": 0,
+    "attach_buff": [
+      {
+        "buff_id": 311,
+        "group_level": 1,
+        "rant": 100
+      }
+    ],
+    "cld_box": [
+      6,
+      2,
+      2
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      1.2,
+      0.95,
+      0.8
+    ],
+    "effect_type": 1,
+    "extra_param": {
+      "ignoreShield": true
+    },
+    "hit_fx": "pofang",
+    "hit_sfx": "battle/hit",
+    "hit_type": [],
+    "id": 168328,
+    "miss_fx": "ShellMiss",
+    "miss_sfx": "battle/sink",
+    "modle_ID": "val_bullet2",
+    "out_bound": 0,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 105,
+    "range_offset": 10,
+    "type": 1,
+    "velocity": 22
+  },
+  "168329": {
+    "DMG_font": [
+      [
+        3,
+        0.8
+      ],
+      [
+        3,
+        0.8
+      ],
+      [
+        3,
+        0.8
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "",
+    "ammo_type": 3,
+    "antisub_enhancement": 0,
+    "attach_buff": [
+      {
+        "buff_id": 311,
+        "group_level": 1,
+        "rant": 100
+      }
+    ],
+    "cld_box": [
+      6,
+      2,
+      2
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      1.2,
+      0.95,
+      0.85
+    ],
+    "effect_type": 1,
+    "extra_param": {
+      "ignoreShield": true
+    },
+    "hit_fx": "pofang",
+    "hit_sfx": "battle/hit",
+    "hit_type": [],
+    "id": 168329,
+    "miss_fx": "ShellMiss",
+    "miss_sfx": "battle/sink",
+    "modle_ID": "val_bullet2",
+    "out_bound": 0,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 105,
+    "range_offset": 10,
+    "type": 1,
+    "velocity": 22
+  },
+  "168330": {
+    "DMG_font": [
+      [
+        3,
+        0.8
+      ],
+      [
+        3,
+        0.8
+      ],
+      [
+        3,
+        0.8
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "",
+    "ammo_type": 3,
+    "antisub_enhancement": 0,
+    "attach_buff": [
+      {
+        "buff_id": 311,
+        "group_level": 1,
+        "rant": 100
+      }
+    ],
+    "cld_box": [
+      6,
+      2,
+      2
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      1.2,
+      1,
+      0.9
+    ],
+    "effect_type": 1,
+    "extra_param": {
+      "ignoreShield": true
+    },
+    "hit_fx": "pofang",
+    "hit_sfx": "battle/hit",
+    "hit_type": [],
+    "id": 168330,
+    "miss_fx": "ShellMiss",
+    "miss_sfx": "battle/sink",
+    "modle_ID": "val_bullet2",
+    "out_bound": 0,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 105,
+    "range_offset": 10,
+    "type": 1,
+    "velocity": 22
+  },
+  "168333": {
+    "DMG_font": [
+      [
+        2,
+        1.2
+      ],
+      [
+        2,
+        1.2
+      ],
+      [
+        2,
+        1.2
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "",
+    "ammo_type": 1,
+    "antisub_enhancement": 0,
+    "attach_buff": [
+      {
+        "buff_id": 190079,
+        "group_level": 1,
+        "rant": 10000
+      }
+    ],
+    "cld_box": [
+      6,
+      2,
+      2
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      1,
+      1,
+      1
+    ],
+    "effect_type": 1,
+    "extra_param": [],
+    "hit_fx": "None",
+    "hit_sfx": "",
+    "hit_type": {
+      "range": 15,
+      "time": 0.2
+    },
+    "id": 168333,
+    "miss_fx": "None",
+    "miss_sfx": "",
+    "modle_ID": "None",
+    "out_bound": 0,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 0.1,
+    "range_offset": 0,
+    "type": 9,
+    "velocity": 12
+  },
+  "168334": {
+    "DMG_font": [
+      [
+        2,
+        1.2
+      ],
+      [
+        2,
+        1.2
+      ],
+      [
+        2,
+        1.2
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "",
+    "ammo_type": 1,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      3,
+      2,
+      2
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      1,
+      1,
+      1
+    ],
+    "effect_type": 1,
+    "extra_param": {
+      "diveFilter": [
+        1,
+        2
+      ],
+      "ignoreB": true,
+      "ignoreShield": true,
+      "lastTime": 0.1,
+      "shrapnel": {
+        "1": {
+          "barrage_ID": 82365,
+          "bullet_ID": 168333,
+          "emitterType": "BattleBulletEmitter",
+          "inheritAngle": 0,
+          "initialSplit": true
+        },
+        "FXID": ""
+      }
+    },
+    "hit_fx": "None",
+    "hit_sfx": "",
+    "hit_type": [],
+    "id": 168334,
+    "miss_fx": "None",
+    "miss_sfx": "",
+    "modle_ID": "baofengyu_leiyun",
+    "out_bound": 0,
+    "pierce_count": 99,
+    "random_damage_rate": 0,
+    "range": 200,
+    "range_offset": 0,
+    "type": 5,
+    "velocity": 2
+  },
+  "168336": {
+    "DMG_font": [
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "",
+    "ammo_type": 6,
+    "antisub_enhancement": 0,
+    "attach_buff": [
+      {
+        "buff_id": 190136,
+        "group_level": 1,
+        "rant": 10000
+      }
+    ],
+    "cld_box": [
+      1.8,
+      1,
+      1
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      1,
+      1,
+      1
+    ],
+    "effect_type": 1,
+    "extra_param": {
+      "airdrop": true,
+      "diveFilter": [
+        1,
+        2
+      ],
+      "gravity": 0,
+      "offsetY": 1,
+      "timeToExplode": 1.01
+    },
+    "hit_fx": "None",
+    "hit_sfx": "battle/hit",
+    "hit_type": {
+      "range": 35,
+      "time": -1
+    },
+    "id": 168336,
+    "miss_fx": "None",
+    "miss_sfx": "",
+    "modle_ID": "gaoliang_zhizhuwang",
+    "out_bound": 0,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 100,
+    "range_offset": 20,
+    "type": 2,
+    "velocity": 0
+  },
+  "168337": {
+    "DMG_font": [
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "AlertArea",
+    "ammo_type": 6,
+    "antisub_enhancement": 0,
+    "attach_buff": [
+      {
+        "buff_id": 190136,
+        "group_level": 1,
+        "rant": 10000
+      }
+    ],
+    "cld_box": [
+      1.8,
+      1,
+      1
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      1,
+      1,
+      1
+    ],
+    "effect_type": 1,
+    "extra_param": {
+      "airdrop": true,
+      "diveFilter": [
+        2
+      ],
+      "gravity": 0,
+      "offsetY": 1,
+      "timeToExplode": 0.01
+    },
+    "hit_fx": "ShellHit",
+    "hit_sfx": "battle/hit",
+    "hit_type": {
+      "range": 35,
+      "time": -1
+    },
+    "id": 168337,
+    "miss_fx": "ShellMiss",
+    "miss_sfx": "",
+    "modle_ID": "None",
+    "out_bound": 0,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 100,
+    "range_offset": 20,
+    "type": 2,
+    "velocity": 0
+  },
+  "168338": {
+    "DMG_font": [
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "",
+    "ammo_type": 6,
+    "antisub_enhancement": 0,
+    "attach_buff": [
+      {
+        "buff_id": 190136,
+        "group_level": 1,
+        "rant": 10000
+      }
+    ],
+    "cld_box": [
+      1.8,
+      1,
+      1
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      1,
+      1,
+      1
+    ],
+    "effect_type": 1,
+    "extra_param": {
+      "airdrop": true,
+      "diveFilter": [
+        1,
+        2
+      ],
+      "gravity": 0,
+      "offsetY": 1,
+      "targetOffsetX": 12.99,
+      "targetOffsetZ": 7.55,
+      "timeToExplode": 1.01
+    },
+    "hit_fx": "None",
+    "hit_sfx": "battle/hit",
+    "hit_type": {
+      "range": 30,
+      "time": -1
+    },
+    "id": 168338,
+    "miss_fx": "None",
+    "miss_sfx": "",
+    "modle_ID": "gaoliang_zhizhuwang",
+    "out_bound": 0,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 100,
+    "range_offset": 20,
+    "type": 2,
+    "velocity": 0
+  },
+  "168339": {
+    "DMG_font": [
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "AlertArea",
+    "ammo_type": 6,
+    "antisub_enhancement": 0,
+    "attach_buff": [
+      {
+        "buff_id": 190136,
+        "group_level": 1,
+        "rant": 10000
+      }
+    ],
+    "cld_box": [
+      1.8,
+      1,
+      1
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      1,
+      1,
+      1
+    ],
+    "effect_type": 1,
+    "extra_param": {
+      "airdrop": true,
+      "diveFilter": [
+        2
+      ],
+      "gravity": 0,
+      "offsetY": 1,
+      "targetOffsetX": 8.66,
+      "targetOffsetZ": 5,
+      "timeToExplode": 0.01
+    },
+    "hit_fx": "None",
+    "hit_sfx": "battle/hit",
+    "hit_type": {
+      "range": 30,
+      "time": -1
+    },
+    "id": 168339,
+    "miss_fx": "ShellMiss",
+    "miss_sfx": "",
+    "modle_ID": "None",
+    "out_bound": 0,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 100,
+    "range_offset": 20,
+    "type": 2,
+    "velocity": 0
+  },
+  "168340": {
+    "DMG_font": [
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "",
+    "ammo_type": 6,
+    "antisub_enhancement": 0,
+    "attach_buff": [
+      {
+        "buff_id": 190136,
+        "group_level": 1,
+        "rant": 10000
+      }
+    ],
+    "cld_box": [
+      1.8,
+      1,
+      1
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      1,
+      1,
+      1
+    ],
+    "effect_type": 1,
+    "extra_param": {
+      "airdrop": true,
+      "diveFilter": [
+        1,
+        2
+      ],
+      "gravity": 0,
+      "offsetY": 1,
+      "targetOffsetX": 12.99,
+      "targetOffsetZ": -7.55,
+      "timeToExplode": 1.01
+    },
+    "hit_fx": "None",
+    "hit_sfx": "battle/hit",
+    "hit_type": {
+      "range": 30,
+      "time": -1
+    },
+    "id": 168340,
+    "miss_fx": "None",
+    "miss_sfx": "",
+    "modle_ID": "gaoliang_zhizhuwang",
+    "out_bound": 0,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 100,
+    "range_offset": 20,
+    "type": 2,
+    "velocity": 0
+  },
+  "168341": {
+    "DMG_font": [
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "AlertArea",
+    "ammo_type": 6,
+    "antisub_enhancement": 0,
+    "attach_buff": [
+      {
+        "buff_id": 190136,
+        "group_level": 1,
+        "rant": 10000
+      }
+    ],
+    "cld_box": [
+      1.8,
+      1,
+      1
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      1,
+      1,
+      1
+    ],
+    "effect_type": 1,
+    "extra_param": {
+      "airdrop": true,
+      "diveFilter": [
+        2
+      ],
+      "gravity": 0,
+      "offsetY": 1,
+      "targetOffsetX": 8.66,
+      "targetOffsetZ": -5,
+      "timeToExplode": 0.01
+    },
+    "hit_fx": "None",
+    "hit_sfx": "battle/hit",
+    "hit_type": {
+      "range": 30,
+      "time": -1
+    },
+    "id": 168341,
+    "miss_fx": "ShellMiss",
+    "miss_sfx": "",
+    "modle_ID": "None",
+    "out_bound": 0,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 100,
+    "range_offset": 20,
+    "type": 2,
+    "velocity": 0
+  },
+  "168342": {
+    "DMG_font": [
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "",
+    "ammo_type": 6,
+    "antisub_enhancement": 0,
+    "attach_buff": [
+      {
+        "buff_id": 190136,
+        "group_level": 1,
+        "rant": 10000
+      }
+    ],
+    "cld_box": [
+      1.8,
+      1,
+      1
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      1,
+      1,
+      1
+    ],
+    "effect_type": 1,
+    "extra_param": {
+      "airdrop": true,
+      "diveFilter": [
+        1,
+        2
+      ],
+      "gravity": 0,
+      "offsetY": 1,
+      "targetOffsetX": 0,
+      "targetOffsetZ": 15,
+      "timeToExplode": 1.01
+    },
+    "hit_fx": "None",
+    "hit_sfx": "battle/hit",
+    "hit_type": {
+      "range": 30,
+      "time": -1
+    },
+    "id": 168342,
+    "miss_fx": "None",
+    "miss_sfx": "",
+    "modle_ID": "gaoliang_zhizhuwang",
+    "out_bound": 0,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 100,
+    "range_offset": 20,
+    "type": 2,
+    "velocity": 0
+  },
+  "168343": {
+    "DMG_font": [
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "AlertArea",
+    "ammo_type": 6,
+    "antisub_enhancement": 0,
+    "attach_buff": [
+      {
+        "buff_id": 190136,
+        "group_level": 1,
+        "rant": 10000
+      }
+    ],
+    "cld_box": [
+      1.8,
+      1,
+      1
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      1,
+      1,
+      1
+    ],
+    "effect_type": 1,
+    "extra_param": {
+      "airdrop": true,
+      "diveFilter": [
+        2
+      ],
+      "gravity": 0,
+      "offsetY": 1,
+      "targetOffsetX": 0,
+      "targetOffsetZ": 10,
+      "timeToExplode": 0.01
+    },
+    "hit_fx": "None",
+    "hit_sfx": "battle/hit",
+    "hit_type": {
+      "range": 30,
+      "time": -1
+    },
+    "id": 168343,
+    "miss_fx": "ShellMiss",
+    "miss_sfx": "",
+    "modle_ID": "None",
+    "out_bound": 0,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 100,
+    "range_offset": 20,
+    "type": 2,
+    "velocity": 0
+  },
+  "168344": {
+    "DMG_font": [
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "",
+    "ammo_type": 6,
+    "antisub_enhancement": 0,
+    "attach_buff": [
+      {
+        "buff_id": 190136,
+        "group_level": 1,
+        "rant": 10000
+      }
+    ],
+    "cld_box": [
+      1.8,
+      1,
+      1
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      1,
+      1,
+      1
+    ],
+    "effect_type": 1,
+    "extra_param": {
+      "airdrop": true,
+      "diveFilter": [
+        1,
+        2
+      ],
+      "gravity": 0,
+      "offsetY": 1,
+      "targetOffsetX": 0,
+      "targetOffsetZ": -15,
+      "timeToExplode": 1.01
+    },
+    "hit_fx": "None",
+    "hit_sfx": "battle/hit",
+    "hit_type": {
+      "range": 30,
+      "time": -1
+    },
+    "id": 168344,
+    "miss_fx": "None",
+    "miss_sfx": "",
+    "modle_ID": "gaoliang_zhizhuwang",
+    "out_bound": 0,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 100,
+    "range_offset": 20,
+    "type": 2,
+    "velocity": 0
+  },
+  "168345": {
+    "DMG_font": [
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "AlertArea",
+    "ammo_type": 6,
+    "antisub_enhancement": 0,
+    "attach_buff": [
+      {
+        "buff_id": 190136,
+        "group_level": 1,
+        "rant": 10000
+      }
+    ],
+    "cld_box": [
+      1.8,
+      1,
+      1
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      1,
+      1,
+      1
+    ],
+    "effect_type": 1,
+    "extra_param": {
+      "airdrop": true,
+      "diveFilter": [
+        2
+      ],
+      "gravity": 0,
+      "offsetY": 1,
+      "targetOffsetX": 0,
+      "targetOffsetZ": -10,
+      "timeToExplode": 0.01
+    },
+    "hit_fx": "None",
+    "hit_sfx": "battle/hit",
+    "hit_type": {
+      "range": 30,
+      "time": -1
+    },
+    "id": 168345,
+    "miss_fx": "ShellMiss",
+    "miss_sfx": "",
+    "modle_ID": "None",
+    "out_bound": 0,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 100,
+    "range_offset": 20,
+    "type": 2,
+    "velocity": 0
+  },
+  "168346": {
+    "DMG_font": [
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "",
+    "ammo_type": 6,
+    "antisub_enhancement": 0,
+    "attach_buff": [
+      {
+        "buff_id": 190136,
+        "group_level": 1,
+        "rant": 10000
+      }
+    ],
+    "cld_box": [
+      1.8,
+      1,
+      1
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      1,
+      1,
+      1
+    ],
+    "effect_type": 1,
+    "extra_param": {
+      "airdrop": true,
+      "diveFilter": [
+        1,
+        2
+      ],
+      "gravity": 0,
+      "offsetY": 1,
+      "targetOffsetX": -12.99,
+      "targetOffsetZ": 7.55,
+      "timeToExplode": 1.01
+    },
+    "hit_fx": "None",
+    "hit_sfx": "battle/hit",
+    "hit_type": {
+      "range": 30,
+      "time": -1
+    },
+    "id": 168346,
+    "miss_fx": "None",
+    "miss_sfx": "",
+    "modle_ID": "gaoliang_zhizhuwang",
+    "out_bound": 0,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 100,
+    "range_offset": 20,
+    "type": 2,
+    "velocity": 0
+  },
+  "168347": {
+    "DMG_font": [
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "AlertArea",
+    "ammo_type": 6,
+    "antisub_enhancement": 0,
+    "attach_buff": [
+      {
+        "buff_id": 190136,
+        "group_level": 1,
+        "rant": 10000
+      }
+    ],
+    "cld_box": [
+      1.8,
+      1,
+      1
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      1,
+      1,
+      1
+    ],
+    "effect_type": 1,
+    "extra_param": {
+      "airdrop": true,
+      "diveFilter": [
+        2
+      ],
+      "gravity": 0,
+      "offsetY": 1,
+      "targetOffsetX": -8.66,
+      "targetOffsetZ": 5,
+      "timeToExplode": 0.01
+    },
+    "hit_fx": "None",
+    "hit_sfx": "battle/hit",
+    "hit_type": {
+      "range": 30,
+      "time": -1
+    },
+    "id": 168347,
+    "miss_fx": "ShellMiss",
+    "miss_sfx": "",
+    "modle_ID": "None",
+    "out_bound": 0,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 100,
+    "range_offset": 20,
+    "type": 2,
+    "velocity": 0
+  },
+  "168348": {
+    "DMG_font": [
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "",
+    "ammo_type": 6,
+    "antisub_enhancement": 0,
+    "attach_buff": [
+      {
+        "buff_id": 190136,
+        "group_level": 1,
+        "rant": 10000
+      }
+    ],
+    "cld_box": [
+      1.8,
+      1,
+      1
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      1,
+      1,
+      1
+    ],
+    "effect_type": 1,
+    "extra_param": {
+      "airdrop": true,
+      "diveFilter": [
+        1,
+        2
+      ],
+      "gravity": 0,
+      "offsetY": 1,
+      "targetOffsetX": -12.99,
+      "targetOffsetZ": -7.55,
+      "timeToExplode": 1.01
+    },
+    "hit_fx": "None",
+    "hit_sfx": "battle/hit",
+    "hit_type": {
+      "range": 30,
+      "time": -1
+    },
+    "id": 168348,
+    "miss_fx": "None",
+    "miss_sfx": "",
+    "modle_ID": "gaoliang_zhizhuwang",
+    "out_bound": 0,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 100,
+    "range_offset": 20,
+    "type": 2,
+    "velocity": 0
+  },
+  "168349": {
+    "DMG_font": [
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "AlertArea",
+    "ammo_type": 6,
+    "antisub_enhancement": 0,
+    "attach_buff": [
+      {
+        "buff_id": 190136,
+        "group_level": 1,
+        "rant": 10000
+      }
+    ],
+    "cld_box": [
+      1.8,
+      1,
+      1
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      1,
+      1,
+      1
+    ],
+    "effect_type": 1,
+    "extra_param": {
+      "airdrop": true,
+      "diveFilter": [
+        2
+      ],
+      "gravity": 0,
+      "offsetY": 1,
+      "targetOffsetX": -8.66,
+      "targetOffsetZ": -5,
+      "timeToExplode": 0.01
+    },
+    "hit_fx": "None",
+    "hit_sfx": "battle/hit",
+    "hit_type": {
+      "range": 30,
+      "time": -1
+    },
+    "id": 168349,
+    "miss_fx": "ShellMiss",
+    "miss_sfx": "",
+    "modle_ID": "None",
+    "out_bound": 0,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 100,
+    "range_offset": 20,
+    "type": 2,
+    "velocity": 0
+  },
+  "168350": {
+    "DMG_font": [
+      [
+        3,
+        1.2
+      ],
+      [
+        3,
+        0.9
+      ],
+      [
+        3,
+        0.7
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "",
+    "ammo_type": 1,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      6,
+      2,
+      2
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      1,
+      1,
+      1
+    ],
+    "effect_type": 1,
+    "extra_param": [],
+    "hit_fx": "pofang",
+    "hit_sfx": "battle/hit",
+    "hit_type": [],
+    "id": 168350,
+    "miss_fx": "ShellMiss",
+    "miss_sfx": "battle/sink",
+    "modle_ID": "gaoliang_hudiezidan",
+    "out_bound": 0,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 80,
+    "range_offset": 10,
+    "type": 1,
+    "velocity": 15
+  },
+  "168352": {
+    "DMG_font": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "acceleration": [
+      {
+        "flip": false,
+        "t": 0,
+        "u": -0.05,
+        "v": 0
+      }
+    ],
+    "alert_fx": "",
+    "ammo_type": 1,
+    "antisub_enhancement": 0,
+    "attach_buff": [
+      {
+        "buff_id": 190137,
+        "group_level": 1,
+        "rant": 10000
+      }
+    ],
+    "cld_box": [
+      6,
+      2,
+      2
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      1.35,
+      0.95,
+      0.7
+    ],
+    "effect_type": 1,
+    "extra_param": {
+      "lastTime": 0.3,
+      "mirror": true,
+      "shrapnel": {
+        "1": {
+          "barrage_ID": 82375,
+          "bullet_ID": 168353,
+          "emitterType": "BattleBulletEmitter",
+          "inheritAngle": 1
+        },
+        "2": {
+          "barrage_ID": 82376,
+          "bullet_ID": 168353,
+          "emitterType": "BattleBulletEmitter",
+          "inheritAngle": 1
+        },
+        "3": {
+          "barrage_ID": 82377,
+          "bullet_ID": 168353,
+          "emitterType": "BattleBulletEmitter",
+          "inheritAngle": 1
+        },
+        "4": {
+          "barrage_ID": 82378,
+          "bullet_ID": 168353,
+          "emitterType": "BattleBulletEmitter",
+          "inheritAngle": 1
+        },
+        "5": {
+          "barrage_ID": 82379,
+          "bullet_ID": 168353,
+          "emitterType": "BattleBulletEmitter",
+          "inheritAngle": 1
+        },
+        "6": {
+          "barrage_ID": 82380,
+          "bullet_ID": 168353,
+          "emitterType": "BattleBulletEmitter",
+          "inheritAngle": 1
+        },
+        "FXID": "huoqiubaozha2"
+      }
+    },
+    "hit_fx": "None",
+    "hit_sfx": "battle/hit",
+    "hit_type": [],
+    "id": 168352,
+    "miss_fx": "",
+    "miss_sfx": "",
+    "modle_ID": "gaoliang_hudiezidan",
+    "out_bound": 0,
+    "pierce_count": 99,
+    "random_damage_rate": 0,
+    "range": 5,
+    "range_offset": 0,
+    "type": 5,
+    "velocity": 0
+  },
+  "168353": {
+    "DMG_font": [
+      [
+        3,
+        1.2
+      ],
+      [
+        3,
+        0.9
+      ],
+      [
+        3,
+        0.7
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "",
+    "ammo_type": 1,
+    "antisub_enhancement": 0,
+    "attach_buff": [
+      {
+        "buff_id": 190137,
+        "group_level": 1,
+        "rant": 10000
+      }
+    ],
+    "cld_box": [
+      6,
+      2,
+      2
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      1.35,
+      0.95,
+      0.7
+    ],
+    "effect_type": 1,
+    "extra_param": {
+      "mirror": true
+    },
+    "hit_fx": "ShellMiss",
+    "hit_sfx": "battle/hit",
+    "hit_type": [],
+    "id": 168353,
+    "miss_fx": "ShellMiss",
+    "miss_sfx": "battle/sink",
+    "modle_ID": "gaoliang_hudiezidan",
+    "out_bound": 0,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 100,
+    "range_offset": 10,
+    "type": 1,
+    "velocity": 8
+  },
+  "168357": {
+    "DMG_font": [
+      [
+        3,
+        0.8
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        3,
+        1.3
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "TorAlert",
+    "ammo_type": 4,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      2.8,
+      2,
+      2
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      0.8,
+      1,
+      1.3
+    ],
+    "effect_type": 1,
+    "extra_param": {
+      "diveFilter": [
+        2
+      ]
+    },
+    "hit_fx": "TorpedoHit3",
+    "hit_sfx": "battle/torpedo-hit",
+    "hit_type": {
+      "range": 3,
+      "time": -1
+    },
+    "id": 168357,
+    "miss_fx": "",
+    "miss_sfx": "",
+    "modle_ID": "Torpedo01",
+    "out_bound": 0,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 150,
+    "range_offset": 20,
+    "type": 3,
+    "velocity": 4
+  },
   "168481": {
     "DMG_font": [
       [
@@ -205788,7 +208819,7 @@
     "out_bound": 0,
     "pierce_count": 0,
     "random_damage_rate": 0,
-    "range": 200,
+    "range": 100,
     "range_offset": 20,
     "type": 2,
     "velocity": 1.5
@@ -208711,6 +211742,120 @@
     "type": 1,
     "velocity": 12
   },
+  "183953": {
+    "DMG_font": [
+      [
+        2,
+        0.7
+      ],
+      [
+        2,
+        1.3
+      ],
+      [
+        2,
+        0.9
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "",
+    "ammo_type": 7,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      5,
+      2,
+      2
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      0.65,
+      1.25,
+      0.65
+    ],
+    "effect_type": 1,
+    "extra_param": [],
+    "hit_fx": "Clhit",
+    "hit_sfx": "battle/hit",
+    "hit_type": [],
+    "id": 183953,
+    "miss_fx": "ShellMissBig",
+    "miss_sfx": "battle/sink",
+    "modle_ID": "kuasheSAP",
+    "out_bound": 0,
+    "pierce_count": 1,
+    "random_damage_rate": 0,
+    "range": 80,
+    "range_offset": 10,
+    "type": 1,
+    "velocity": 22
+  },
+  "183954": {
+    "DMG_font": [
+      [
+        3,
+        1.2
+      ],
+      [
+        3,
+        0.9
+      ],
+      [
+        3,
+        0.7
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "AlertArea",
+    "ammo_type": 3,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      5,
+      2,
+      2
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      1.35,
+      0.95,
+      0.7
+    ],
+    "effect_type": 1,
+    "extra_param": {
+      "diveFilter": [
+        2
+      ],
+      "gravity": -0.05,
+      "randomOffsetX": 6,
+      "randomOffsetZ": 6
+    },
+    "hit_fx": "ShellHit",
+    "hit_sfx": "battle/hit",
+    "hit_type": {
+      "range": 16,
+      "time": -1
+    },
+    "id": 183954,
+    "miss_fx": "ShellMissBig",
+    "miss_sfx": "battle/sink",
+    "modle_ID": "kuasheHE",
+    "out_bound": 0,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 120,
+    "range_offset": 15,
+    "type": 2,
+    "velocity": 12
+  },
   "184011": {
     "DMG_font": [
       [
@@ -208830,6 +211975,124 @@
     "range_offset": 20,
     "type": 3,
     "velocity": 4
+  },
+  "184301": {
+    "DMG_font": [
+      [
+        3,
+        0.8
+      ],
+      [
+        3,
+        1.3
+      ],
+      [
+        3,
+        1
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "AlertArea",
+    "ammo_type": 6,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      1.8,
+      1,
+      1
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      0.8,
+      1.3,
+      1
+    ],
+    "effect_type": 1,
+    "extra_param": {
+      "diveFilter": [
+        2
+      ]
+    },
+    "hit_fx": "ShellHit",
+    "hit_sfx": "battle/hit",
+    "hit_type": {
+      "range": 10,
+      "time": -1
+    },
+    "id": 184301,
+    "miss_fx": "ShellHit",
+    "miss_sfx": "",
+    "modle_ID": "Torpedoairjp_tantiao",
+    "out_bound": 0,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 60,
+    "range_offset": 0,
+    "type": 3,
+    "velocity": 7
+  },
+  "184351": {
+    "DMG_font": [
+      [
+        3,
+        0.8
+      ],
+      [
+        3,
+        1.3
+      ],
+      [
+        3,
+        1
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "TorAlert",
+    "ammo_type": 4,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      1.8,
+      1,
+      1
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      0.8,
+      1.3,
+      1
+    ],
+    "effect_type": 1,
+    "extra_param": {
+      "diveFilter": [
+        2
+      ]
+    },
+    "hit_fx": "TorpedoHit3",
+    "hit_sfx": "battle/torpedo-hit",
+    "hit_type": {
+      "range": 3,
+      "time": -1
+    },
+    "id": 184351,
+    "miss_fx": "",
+    "miss_sfx": "",
+    "modle_ID": "Torpedoairjp",
+    "out_bound": 0,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 100,
+    "range_offset": 20,
+    "type": 3,
+    "velocity": 3
   },
   "194099": {
     "DMG_font": [
@@ -1255264,6 +1258527,8 @@
     "1009",
     "1010",
     "1011",
+    "1012",
+    "1013",
     "1100",
     "1101",
     "1102",
@@ -1255349,6 +1258614,7 @@
     "1514",
     "1515",
     "1516",
+    "1517",
     "1520",
     "1521",
     "1522",
@@ -1255451,6 +1258717,8 @@
     "1841",
     "1842",
     "1843",
+    "1844",
+    "1845",
     "1900",
     "1901",
     "2000",
@@ -1255502,6 +1258770,7 @@
     "2146",
     "2147",
     "2148",
+    "2149",
     "2200",
     "2201",
     "2202",
@@ -1258271,6 +1261540,47 @@
     "168301",
     "168302",
     "168303",
+    "168309",
+    "168310",
+    "168311",
+    "168312",
+    "168313",
+    "168314",
+    "168315",
+    "168316",
+    "168317",
+    "168318",
+    "168319",
+    "168321",
+    "168322",
+    "168323",
+    "168324",
+    "168325",
+    "168326",
+    "168327",
+    "168328",
+    "168329",
+    "168330",
+    "168333",
+    "168334",
+    "168336",
+    "168337",
+    "168338",
+    "168339",
+    "168340",
+    "168341",
+    "168342",
+    "168343",
+    "168344",
+    "168345",
+    "168346",
+    "168347",
+    "168348",
+    "168349",
+    "168350",
+    "168352",
+    "168353",
+    "168357",
     "168481",
     "168482",
     "168491",
@@ -1258575,8 +1261885,12 @@
     "183941",
     "183951",
     "183952",
+    "183953",
+    "183954",
     "184011",
     "184021",
+    "184301",
+    "184351",
     "194099",
     "233333",
     "300001",

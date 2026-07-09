@@ -17933,6 +17933,69 @@
     "use_item": [],
     "weapon_ids": []
   },
+  "299061": {
+    "breakout_id": 299062,
+    "breakout_view": "主砲砲座+1",
+    "icon": "10001",
+    "id": 299061,
+    "level": 10,
+    "pre_id": 0,
+    "use_char": 29906,
+    "use_char_num": 1,
+    "use_gold": 0,
+    "use_item": [],
+    "weapon_ids": [
+      44100,
+      44100
+    ]
+  },
+  "299062": {
+    "breakout_id": 299063,
+    "breakout_view": "副砲砲座+1/主砲補正+10%",
+    "icon": "10001",
+    "id": 299062,
+    "level": 30,
+    "pre_id": 299061,
+    "use_char": 29906,
+    "use_char_num": 1,
+    "use_gold": 0,
+    "use_item": [],
+    "weapon_ids": [
+      101,
+      101,
+      101
+    ]
+  },
+  "299063": {
+    "breakout_id": 299064,
+    "breakout_view": "主砲砲座+1/主砲補正+15%",
+    "icon": "10001",
+    "id": 299063,
+    "level": 70,
+    "pre_id": 299062,
+    "use_char": 29906,
+    "use_char_num": 2,
+    "use_gold": 0,
+    "use_item": [],
+    "weapon_ids": [
+      44100,
+      44100,
+      44100
+    ]
+  },
+  "299064": {
+    "breakout_id": 0,
+    "breakout_view": "なし",
+    "icon": "10001",
+    "id": 299064,
+    "level": 0,
+    "pre_id": 299063,
+    "use_char": 29906,
+    "use_char_num": 0,
+    "use_gold": 0,
+    "use_item": [],
+    "weapon_ids": []
+  },
   "301011": {
     "breakout_id": 301012,
     "breakout_view": "全弾発射スキル習得/魚雷補正+5%",
@@ -28544,6 +28607,69 @@
     "use_item": [],
     "weapon_ids": []
   },
+  "399081": {
+    "breakout_id": 399082,
+    "breakout_view": "特殊弾幕スキル習得/魚雷補正+5%/魚雷同時装填可能",
+    "icon": "10001",
+    "id": 399081,
+    "level": 10,
+    "pre_id": 0,
+    "use_char": 39908,
+    "use_char_num": 1,
+    "use_gold": 0,
+    "use_item": [],
+    "weapon_ids": [
+      80661,
+      107
+    ]
+  },
+  "399082": {
+    "breakout_id": 399083,
+    "breakout_view": "魚雷補正+10%/主砲砲座+1/主砲補正+10%",
+    "icon": "10001",
+    "id": 399082,
+    "level": 30,
+    "pre_id": 399081,
+    "use_char": 39908,
+    "use_char_num": 1,
+    "use_gold": 0,
+    "use_item": [],
+    "weapon_ids": [
+      101,
+      101,
+      107,
+      107
+    ]
+  },
+  "399083": {
+    "breakout_id": 399084,
+    "breakout_view": "特殊弾幕スキル強化/開始時魚雷+1/魚雷補正+15%",
+    "icon": "10001",
+    "id": 399083,
+    "level": 70,
+    "pre_id": 399082,
+    "use_char": 39908,
+    "use_char_num": 2,
+    "use_gold": 0,
+    "use_item": [],
+    "weapon_ids": [
+      80662,
+      107
+    ]
+  },
+  "399084": {
+    "breakout_id": 0,
+    "breakout_view": "なし",
+    "icon": "10001",
+    "id": 399084,
+    "level": 0,
+    "pre_id": 399083,
+    "use_char": 39908,
+    "use_char_num": 0,
+    "use_gold": 0,
+    "use_item": [],
+    "weapon_ids": []
+  },
   "401011": {
     "breakout_id": 401012,
     "breakout_view": "特殊弾幕スキル習得/魚雷補正+5%",
@@ -34471,6 +34597,71 @@
     "level": 0,
     "pre_id": 499103,
     "use_char": 49910,
+    "use_char_num": 0,
+    "use_gold": 0,
+    "use_item": [],
+    "weapon_ids": []
+  },
+  "499111": {
+    "breakout_id": 499112,
+    "breakout_view": "爆撃機補正+5%/攻撃機補正+5%",
+    "icon": "10001",
+    "id": 499111,
+    "level": 10,
+    "pre_id": 0,
+    "use_char": 49911,
+    "use_char_num": 1,
+    "use_gold": 0,
+    "use_item": [],
+    "weapon_ids": [
+      61201,
+      54014
+    ]
+  },
+  "499112": {
+    "breakout_id": 499113,
+    "breakout_view": "攻撃隊上限+1/戦闘機補正+10%/爆撃機装備枠に攻撃機装備可能",
+    "icon": "10001",
+    "id": 499112,
+    "level": 30,
+    "pre_id": 499111,
+    "use_char": 49911,
+    "use_char_num": 1,
+    "use_gold": 0,
+    "use_item": [],
+    "weapon_ids": [
+      61202,
+      54014,
+      61202,
+      54014
+    ]
+  },
+  "499113": {
+    "breakout_id": 499114,
+    "breakout_view": "艦載機補正+5%/攻撃機装備枠に戦闘機装備可能",
+    "icon": "10001",
+    "id": 499113,
+    "level": 70,
+    "pre_id": 499112,
+    "use_char": 49911,
+    "use_char_num": 2,
+    "use_gold": 0,
+    "use_item": [],
+    "weapon_ids": [
+      61203,
+      54015,
+      61203,
+      54015
+    ]
+  },
+  "499114": {
+    "breakout_id": 0,
+    "breakout_view": "なし",
+    "icon": "10001",
+    "id": 499114,
+    "level": 0,
+    "pre_id": 499113,
+    "use_char": 49911,
     "use_char_num": 0,
     "use_gold": 0,
     "use_item": [],
@@ -43196,6 +43387,64 @@
     "use_item": [],
     "weapon_ids": []
   },
+  "899051": {
+    "breakout_id": 899052,
+    "breakout_view": "特殊弾幕スキル習得/主砲補正+5％",
+    "icon": "10001",
+    "id": 899051,
+    "level": 10,
+    "pre_id": 0,
+    "use_char": 89905,
+    "use_char_num": 1,
+    "use_gold": 0,
+    "use_item": [],
+    "weapon_ids": [
+      80651
+    ]
+  },
+  "899052": {
+    "breakout_id": 899053,
+    "breakout_view": "対空兵装補正+10％",
+    "icon": "10001",
+    "id": 899052,
+    "level": 30,
+    "pre_id": 899051,
+    "use_char": 89905,
+    "use_char_num": 1,
+    "use_gold": 0,
+    "use_item": [],
+    "weapon_ids": [
+      100
+    ]
+  },
+  "899053": {
+    "breakout_id": 899054,
+    "breakout_view": "特殊弾幕スキル強化/武器補正+5％",
+    "icon": "10001",
+    "id": 899053,
+    "level": 70,
+    "pre_id": 899052,
+    "use_char": 89905,
+    "use_char_num": 2,
+    "use_gold": 0,
+    "use_item": [],
+    "weapon_ids": [
+      80652
+    ]
+  },
+  "899054": {
+    "breakout_id": 0,
+    "breakout_view": "なし",
+    "icon": "10001",
+    "id": 899054,
+    "level": 0,
+    "pre_id": 899053,
+    "use_char": 89905,
+    "use_char_num": 0,
+    "use_gold": 0,
+    "use_item": [],
+    "weapon_ids": []
+  },
   "901011": {
     "breakout_id": 901012,
     "breakout_view": "全弾発射スキル習得/魚雷補正+5%",
@@ -44807,6 +45056,68 @@
     "level": 0,
     "pre_id": 1199013,
     "use_char": 119901,
+    "use_char_num": 0,
+    "use_gold": 0,
+    "use_item": [],
+    "weapon_ids": []
+  },
+  "1299011": {
+    "breakout_id": 1299012,
+    "breakout_view": "主砲砲座+1/主砲補正+5%",
+    "icon": "10001",
+    "id": 1299011,
+    "level": 10,
+    "pre_id": 0,
+    "use_char": 129901,
+    "use_char_num": 1,
+    "use_gold": 0,
+    "use_item": [],
+    "weapon_ids": [
+      24100,
+      24100
+    ]
+  },
+  "1299012": {
+    "breakout_id": 1299013,
+    "breakout_view": "副砲砲座+1/主砲装填上限+1/主砲補正+10%",
+    "icon": "10001",
+    "id": 1299012,
+    "level": 30,
+    "pre_id": 1299011,
+    "use_char": 129901,
+    "use_char_num": 1,
+    "use_gold": 0,
+    "use_item": [],
+    "weapon_ids": [
+      11200,
+      11200
+    ]
+  },
+  "1299013": {
+    "breakout_id": 1299014,
+    "breakout_view": "主砲砲座+1/主砲補正+15%",
+    "icon": "10001",
+    "id": 1299013,
+    "level": 70,
+    "pre_id": 1299012,
+    "use_char": 129901,
+    "use_char_num": 2,
+    "use_gold": 0,
+    "use_item": [],
+    "weapon_ids": [
+      24100,
+      24100,
+      24100
+    ]
+  },
+  "1299014": {
+    "breakout_id": 0,
+    "breakout_view": "なし",
+    "icon": "10001",
+    "id": 1299014,
+    "level": 0,
+    "pre_id": 1299013,
+    "use_char": 129901,
     "use_char_num": 0,
     "use_gold": 0,
     "use_item": [],
@@ -54650,6 +54961,26 @@
     1199011,
     1199012,
     1199013,
-    1199014
+    1199014,
+    1299011,
+    1299012,
+    1299013,
+    1299014,
+    899051,
+    899052,
+    899053,
+    899054,
+    499111,
+    499112,
+    499113,
+    499114,
+    299061,
+    299062,
+    299063,
+    299064,
+    399081,
+    399082,
+    399083,
+    399084
   ]
 }

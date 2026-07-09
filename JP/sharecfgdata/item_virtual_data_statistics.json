@@ -2052,6 +2052,136 @@
     "type": 99,
     "virtual_type": 0
   },
+  "52101": {
+    "album_config": "",
+    "combination_display": [],
+    "display": "ランダムで下記の強化ユニットを入手できます。",
+    "display_icon": [
+      [
+        2,
+        42085,
+        1
+      ],
+      [
+        2,
+        42083,
+        1
+      ],
+      [
+        2,
+        42081,
+        1
+      ],
+      [
+        2,
+        42082,
+        1
+      ],
+      [
+        2,
+        42084,
+        1
+      ]
+    ],
+    "drop_gold_max": 0,
+    "drop_oil_max": 0,
+    "icon": "Props/52001",
+    "id": 52101,
+    "index": [],
+    "is_world": 0,
+    "link_id": 0,
+    "max_num": 0,
+    "name": "強化ユニット(ランダム)",
+    "order": 0,
+    "price": [],
+    "rarity": 4,
+    "replace_item": 0,
+    "shiptrans_id": [],
+    "shop_id": -1,
+    "time_limit": 0,
+    "type": 99,
+    "virtual_type": 0
+  },
+  "52102": {
+    "album_config": "",
+    "combination_display": [],
+    "display": "ランダムで下記の設計図を入手できます。",
+    "display_icon": [
+      [
+        2,
+        13061,
+        1
+      ],
+      [
+        2,
+        13057,
+        1
+      ],
+      [
+        2,
+        13056,
+        1
+      ],
+      [
+        2,
+        13058,
+        1
+      ],
+      [
+        2,
+        13059,
+        1
+      ],
+      [
+        2,
+        13060,
+        1
+      ],
+      [
+        2,
+        13024,
+        1
+      ],
+      [
+        2,
+        13007,
+        1
+      ],
+      [
+        2,
+        13010,
+        1
+      ],
+      [
+        2,
+        13009,
+        1
+      ],
+      [
+        2,
+        13011,
+        1
+      ]
+    ],
+    "drop_gold_max": 0,
+    "drop_oil_max": 0,
+    "icon": "Props/55000",
+    "id": 52102,
+    "index": [],
+    "is_world": 0,
+    "link_id": 0,
+    "max_num": 0,
+    "name": "兵装設計図(ランダム)",
+    "order": 0,
+    "price": [],
+    "rarity": 4,
+    "replace_item": 0,
+    "shiptrans_id": [],
+    "shop_id": -1,
+    "time_limit": 0,
+    "type": 99,
+    "virtual_type": 0
+  },
   "53000": {
     "album_config": "",
     "combination_display": [],
@@ -251009,6 +251139,8 @@
     52082,
     52091,
     52092,
+    52101,
+    52102,
     53000,
     53010,
     53011,
@@ -256819,6 +256951,8 @@
       52082,
       52091,
       52092,
+      52101,
+      52102,
       53000,
       53010,
       53011,

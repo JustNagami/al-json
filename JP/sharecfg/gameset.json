@@ -1929,7 +1929,9 @@
       42060,
       42066,
       42070,
-      42076
+      42076,
+      42080,
+      42086
     ],
     "key_value": 0
   },
@@ -2537,11 +2539,11 @@
   },
   "reactivity_ticket_daily": {
     "description": "",
-    "key_value": 4
+    "key_value": 20
   },
   "reactivity_ticket_max": {
     "description": "",
-    "key_value": 60
+    "key_value": 300
   },
   "reactivity_time": {
     "description": "",
@@ -2742,6 +2744,14 @@
       ],
       [
         20107,
+        10000
+      ],
+      [
+        20108,
+        10000
+      ],
+      [
+        20109,
         10000
       ]
     ],
