@@ -23985,6 +23985,196 @@
       5673
     ]
   },
+  "5680": {
+    "ammo": 4,
+    "ammo_icon": [],
+    "ammo_info": [
+      [
+        3,
+        1845
+      ]
+    ],
+    "attribute_2": "torpedo",
+    "damage": "82 x 3",
+    "descrip": "说明未填写",
+    "equip_info": [
+      1,
+      2,
+      [
+        3,
+        1845
+      ],
+      [
+        4,
+        1402
+      ],
+      6,
+      10,
+      11,
+      12
+    ],
+    "equip_parameters": [],
+    "hidden_skill_id": [],
+    "icon": "5680",
+    "id": 5680,
+    "label": [
+      "FFNF",
+      "ST",
+      "TP",
+      "TRI",
+      "FTP"
+    ],
+    "name": "试作型三联装550mm鱼雷改（弹药调整）",
+    "nationality": 8,
+    "part_main": [
+      1,
+      2,
+      3,
+      18,
+      20,
+      21
+    ],
+    "part_sub": [
+      1,
+      2,
+      3,
+      18,
+      20,
+      21
+    ],
+    "property_rate": [],
+    "rarity": 5,
+    "skill_id": [],
+    "speciality": "<[TRP]>",
+    "tech": 0,
+    "torpedo_ammo": 0,
+    "type": 5,
+    "value_2": 45,
+    "value_3": 0,
+    "weapon_id": [
+      5680
+    ]
+  },
+  "5681": {
+    "base": 5680,
+    "damage": "92 x 3",
+    "hidden_skill_id": [],
+    "id": 5681,
+    "weapon_id": [
+      5681
+    ]
+  },
+  "5682": {
+    "base": 5680,
+    "damage": "102 x 3",
+    "hidden_skill_id": [],
+    "id": 5682,
+    "weapon_id": [
+      5682
+    ]
+  },
+  "5683": {
+    "base": 5680,
+    "damage": "112 x 3",
+    "hidden_skill_id": [],
+    "id": 5683,
+    "weapon_id": [
+      5683
+    ]
+  },
+  "5684": {
+    "base": 5680,
+    "damage": "122 x 3",
+    "hidden_skill_id": [],
+    "id": 5684,
+    "weapon_id": [
+      5684
+    ]
+  },
+  "5685": {
+    "base": 5680,
+    "damage": "132 x 3",
+    "hidden_skill_id": [],
+    "id": 5685,
+    "weapon_id": [
+      5685
+    ]
+  },
+  "5686": {
+    "base": 5680,
+    "damage": "142 x 3",
+    "hidden_skill_id": [],
+    "id": 5686,
+    "weapon_id": [
+      5686
+    ]
+  },
+  "5687": {
+    "base": 5680,
+    "damage": "152 x 3",
+    "hidden_skill_id": [],
+    "id": 5687,
+    "weapon_id": [
+      5687
+    ]
+  },
+  "5688": {
+    "base": 5680,
+    "damage": "162 x 3",
+    "hidden_skill_id": [],
+    "id": 5688,
+    "weapon_id": [
+      5688
+    ]
+  },
+  "5689": {
+    "base": 5680,
+    "damage": "172 x 3",
+    "hidden_skill_id": [],
+    "id": 5689,
+    "weapon_id": [
+      5689
+    ]
+  },
+  "5690": {
+    "base": 5680,
+    "damage": "182 x 3",
+    "hidden_skill_id": [],
+    "id": 5690,
+    "weapon_id": [
+      5690
+    ]
+  },
+  "5691": {
+    "anti_siren": 100,
+    "base": 5680,
+    "damage": "182 x 3",
+    "hidden_skill_id": [],
+    "id": 5691,
+    "weapon_id": [
+      5691
+    ]
+  },
+  "5692": {
+    "anti_siren": 200,
+    "base": 5680,
+    "damage": "182 x 3",
+    "hidden_skill_id": [],
+    "id": 5692,
+    "weapon_id": [
+      5692
+    ]
+  },
+  "5693": {
+    "anti_siren": 300,
+    "base": 5680,
+    "damage": "182 x 3",
+    "hidden_skill_id": [],
+    "id": 5693,
+    "weapon_id": [
+      5693
+    ]
+  },
   "6000": {
     "ammo": 5,
     "ammo_icon": [],
@@ -27569,7 +27759,7 @@
       "USS",
       "DD",
       "MG",
-      "HE"
+      "AP"
     ],
     "name": "试作型双联装137mm高平两用炮Mk1",
     "nationality": 1,
@@ -27710,6 +27900,187 @@
     "id": 11273,
     "weapon_id": [
       11273
+    ]
+  },
+  "11280": {
+    "ammo": 2,
+    "ammo_icon": [
+      3
+    ],
+    "ammo_info": [
+      [
+        1,
+        1012
+      ]
+    ],
+    "attribute_2": "cannon",
+    "attribute_3": "antiaircraft",
+    "damage": "5 x 6",
+    "descrip": "说明未填写",
+    "equip_info": [
+      1,
+      2,
+      [
+        3,
+        1012
+      ],
+      [
+        4,
+        1024
+      ],
+      6,
+      10,
+      11,
+      12
+    ],
+    "equip_parameters": [],
+    "hidden_skill_id": [],
+    "icon": "11280",
+    "id": 11280,
+    "label": [
+      "USS",
+      "DD",
+      "MG",
+      "HE"
+    ],
+    "name": "试作型双联装127mm高平两用炮Mk16",
+    "nationality": 1,
+    "part_main": [],
+    "part_sub": [
+      4,
+      5,
+      13
+    ],
+    "property_rate": [],
+    "rarity": 5,
+    "skill_id": [],
+    "speciality": "<[LOCK]>",
+    "tech": 0,
+    "torpedo_ammo": 0,
+    "type": 1,
+    "value_2": 35,
+    "value_3": 10,
+    "weapon_id": [
+      11280
+    ]
+  },
+  "11281": {
+    "base": 11280,
+    "hidden_skill_id": [],
+    "id": 11281,
+    "weapon_id": [
+      11281
+    ]
+  },
+  "11282": {
+    "base": 11280,
+    "damage": "8 x 6",
+    "hidden_skill_id": [],
+    "id": 11282,
+    "weapon_id": [
+      11282
+    ]
+  },
+  "11283": {
+    "base": 11280,
+    "damage": "9 x 6",
+    "hidden_skill_id": [],
+    "id": 11283,
+    "weapon_id": [
+      11283
+    ]
+  },
+  "11284": {
+    "base": 11280,
+    "damage": "10 x 6",
+    "hidden_skill_id": [],
+    "id": 11284,
+    "weapon_id": [
+      11284
+    ]
+  },
+  "11285": {
+    "base": 11280,
+    "damage": "11 x 6",
+    "hidden_skill_id": [],
+    "id": 11285,
+    "weapon_id": [
+      11285
+    ]
+  },
+  "11286": {
+    "base": 11280,
+    "damage": "12 x 6",
+    "hidden_skill_id": [],
+    "id": 11286,
+    "weapon_id": [
+      11286
+    ]
+  },
+  "11287": {
+    "base": 11280,
+    "damage": "13 x 6",
+    "hidden_skill_id": [],
+    "id": 11287,
+    "weapon_id": [
+      11287
+    ]
+  },
+  "11288": {
+    "base": 11280,
+    "damage": "14 x 6",
+    "hidden_skill_id": [],
+    "id": 11288,
+    "weapon_id": [
+      11288
+    ]
+  },
+  "11289": {
+    "base": 11280,
+    "damage": "15 x 6",
+    "hidden_skill_id": [],
+    "id": 11289,
+    "weapon_id": [
+      11289
+    ]
+  },
+  "11290": {
+    "base": 11280,
+    "damage": "16 x 6",
+    "hidden_skill_id": [],
+    "id": 11290,
+    "weapon_id": [
+      11290
+    ]
+  },
+  "11291": {
+    "anti_siren": 100,
+    "base": 11280,
+    "damage": "16 x 6",
+    "hidden_skill_id": [],
+    "id": 11291,
+    "weapon_id": [
+      11291
+    ]
+  },
+  "11292": {
+    "anti_siren": 200,
+    "base": 11280,
+    "damage": "16 x 6",
+    "hidden_skill_id": [],
+    "id": 11292,
+    "weapon_id": [
+      11292
+    ]
+  },
+  "11293": {
+    "anti_siren": 300,
+    "base": 11280,
+    "damage": "16 x 6",
+    "hidden_skill_id": [],
+    "id": 11293,
+    "weapon_id": [
+      11293
     ]
   },
   "12000": {
@@ -55923,6 +56294,180 @@
       24413
     ]
   },
+  "24420": {
+    "ammo": 2,
+    "ammo_icon": [
+      3
+    ],
+    "ammo_info": [
+      [
+        2,
+        1517
+      ]
+    ],
+    "attribute_2": "cannon",
+    "damage": "66 x 3",
+    "descrip": "说明未填写",
+    "equip_info": [
+      1,
+      2,
+      6,
+      10,
+      11,
+      12
+    ],
+    "equip_parameters": [],
+    "hidden_skill_id": [],
+    "icon": "24420",
+    "id": 24420,
+    "label": [
+      "HMS",
+      "BB",
+      "MG",
+      "HE"
+    ],
+    "name": "试作型三联装419mm主炮MK.I",
+    "nationality": 2,
+    "part_main": [
+      4,
+      5,
+      10,
+      13
+    ],
+    "part_sub": [],
+    "property_rate": [],
+    "rarity": 5,
+    "skill_id": [],
+    "speciality": "<[VOL]>",
+    "tech": 0,
+    "torpedo_ammo": 0,
+    "type": 4,
+    "value_2": 45,
+    "value_3": 0,
+    "weapon_id": [
+      24420
+    ]
+  },
+  "24421": {
+    "base": 24420,
+    "damage": "74 x 3",
+    "hidden_skill_id": [],
+    "id": 24421,
+    "weapon_id": [
+      24421
+    ]
+  },
+  "24422": {
+    "base": 24420,
+    "damage": "82 x 3",
+    "hidden_skill_id": [],
+    "id": 24422,
+    "weapon_id": [
+      24422
+    ]
+  },
+  "24423": {
+    "base": 24420,
+    "damage": "90 x 3",
+    "hidden_skill_id": [],
+    "id": 24423,
+    "weapon_id": [
+      24423
+    ]
+  },
+  "24424": {
+    "base": 24420,
+    "damage": "98 x 3",
+    "hidden_skill_id": [],
+    "id": 24424,
+    "weapon_id": [
+      24424
+    ]
+  },
+  "24425": {
+    "base": 24420,
+    "damage": "107 x 3",
+    "hidden_skill_id": [],
+    "id": 24425,
+    "weapon_id": [
+      24425
+    ]
+  },
+  "24426": {
+    "base": 24420,
+    "damage": "116 x 3",
+    "hidden_skill_id": [],
+    "id": 24426,
+    "weapon_id": [
+      24426
+    ]
+  },
+  "24427": {
+    "base": 24420,
+    "damage": "125 x 3",
+    "hidden_skill_id": [],
+    "id": 24427,
+    "weapon_id": [
+      24427
+    ]
+  },
+  "24428": {
+    "base": 24420,
+    "damage": "134 x 3",
+    "hidden_skill_id": [],
+    "id": 24428,
+    "weapon_id": [
+      24428
+    ]
+  },
+  "24429": {
+    "base": 24420,
+    "damage": "143 x 3",
+    "hidden_skill_id": [],
+    "id": 24429,
+    "weapon_id": [
+      24429
+    ]
+  },
+  "24430": {
+    "base": 24420,
+    "damage": "152 x 3",
+    "hidden_skill_id": [],
+    "id": 24430,
+    "weapon_id": [
+      24430
+    ]
+  },
+  "24431": {
+    "anti_siren": 100,
+    "base": 24420,
+    "damage": "152 x 3",
+    "hidden_skill_id": [],
+    "id": 24431,
+    "weapon_id": [
+      24431
+    ]
+  },
+  "24432": {
+    "anti_siren": 200,
+    "base": 24420,
+    "damage": "152 x 3",
+    "hidden_skill_id": [],
+    "id": 24432,
+    "weapon_id": [
+      24432
+    ]
+  },
+  "24433": {
+    "anti_siren": 300,
+    "base": 24420,
+    "damage": "152 x 3",
+    "hidden_skill_id": [],
+    "id": 24433,
+    "weapon_id": [
+      24433
+    ]
+  },
   "25000": {
     "ammo": 5,
     "ammo_icon": [],
@@ -78379,6 +78924,189 @@
     "id": 35273,
     "weapon_id": [
       35273
+    ]
+  },
+  "35280": {
+    "ammo": 5,
+    "ammo_icon": [],
+    "ammo_info": [
+      [
+        3,
+        1844
+      ]
+    ],
+    "attribute_2": "torpedo",
+    "damage": "95 x 4",
+    "descrip": "说明未填写",
+    "equip_info": [
+      1,
+      2,
+      [
+        3,
+        1844
+      ],
+      [
+        4,
+        1403
+      ],
+      6,
+      10,
+      11,
+      12
+    ],
+    "equip_parameters": [],
+    "hidden_skill_id": [],
+    "icon": "35280",
+    "id": 35280,
+    "label": [
+      "IJN",
+      "ST",
+      "TP",
+      "QUAD"
+    ],
+    "name": "试作型四联装610mm鱼雷（巡洋用）",
+    "nationality": 3,
+    "part_main": [
+      2,
+      3,
+      18
+    ],
+    "part_sub": [
+      2,
+      3,
+      18
+    ],
+    "property_rate": [],
+    "rarity": 5,
+    "skill_id": [],
+    "speciality": "<[TRP]>",
+    "tech": 0,
+    "torpedo_ammo": 0,
+    "type": 5,
+    "value_2": 45,
+    "value_3": 0,
+    "weapon_id": [
+      35280
+    ]
+  },
+  "35281": {
+    "base": 35280,
+    "damage": "109 x 4",
+    "hidden_skill_id": [],
+    "id": 35281,
+    "weapon_id": [
+      35281
+    ]
+  },
+  "35282": {
+    "base": 35280,
+    "damage": "123 x 4",
+    "hidden_skill_id": [],
+    "id": 35282,
+    "weapon_id": [
+      35282
+    ]
+  },
+  "35283": {
+    "base": 35280,
+    "damage": "137 x 4",
+    "hidden_skill_id": [],
+    "id": 35283,
+    "weapon_id": [
+      35283
+    ]
+  },
+  "35284": {
+    "base": 35280,
+    "damage": "151 x 4",
+    "hidden_skill_id": [],
+    "id": 35284,
+    "weapon_id": [
+      35284
+    ]
+  },
+  "35285": {
+    "base": 35280,
+    "damage": "165 x 4",
+    "hidden_skill_id": [],
+    "id": 35285,
+    "weapon_id": [
+      35285
+    ]
+  },
+  "35286": {
+    "base": 35280,
+    "damage": "179 x 4",
+    "hidden_skill_id": [],
+    "id": 35286,
+    "weapon_id": [
+      35286
+    ]
+  },
+  "35287": {
+    "base": 35280,
+    "damage": "193 x 4",
+    "hidden_skill_id": [],
+    "id": 35287,
+    "weapon_id": [
+      35287
+    ]
+  },
+  "35288": {
+    "base": 35280,
+    "damage": "207 x 4",
+    "hidden_skill_id": [],
+    "id": 35288,
+    "weapon_id": [
+      35288
+    ]
+  },
+  "35289": {
+    "base": 35280,
+    "damage": "221 x 4",
+    "hidden_skill_id": [],
+    "id": 35289,
+    "weapon_id": [
+      35289
+    ]
+  },
+  "35290": {
+    "base": 35280,
+    "damage": "235 x 4",
+    "hidden_skill_id": [],
+    "id": 35290,
+    "weapon_id": [
+      35290
+    ]
+  },
+  "35291": {
+    "anti_siren": 100,
+    "base": 35280,
+    "damage": "235 x 4",
+    "hidden_skill_id": [],
+    "id": 35291,
+    "weapon_id": [
+      35291
+    ]
+  },
+  "35292": {
+    "anti_siren": 200,
+    "base": 35280,
+    "damage": "235 x 4",
+    "hidden_skill_id": [],
+    "id": 35292,
+    "weapon_id": [
+      35292
+    ]
+  },
+  "35293": {
+    "anti_siren": 300,
+    "base": 35280,
+    "damage": "235 x 4",
+    "hidden_skill_id": [],
+    "id": 35293,
+    "weapon_id": [
+      35293
     ]
   },
   "35300": {
@@ -110471,6 +111199,240 @@
       49067
     ]
   },
+  "49080": {
+    "ammo": 5,
+    "ammo_icon": [],
+    "ammo_info": [
+      [
+        5,
+        53500
+      ]
+    ],
+    "attribute_2": "air",
+    "descrip": "说明未填写",
+    "equip_info": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "equip_parameters": [],
+    "hidden_skill_id": [],
+    "icon": "49080",
+    "id": 49080,
+    "label": [
+      "KMS",
+      "CV",
+      "DB"
+    ],
+    "name": "试作舰载型Ta 152C-1/R14",
+    "nationality": 4,
+    "part_main": [
+      6,
+      7
+    ],
+    "part_sub": [
+      6,
+      7
+    ],
+    "property_rate": [],
+    "rarity": 6,
+    "skill_id": [],
+    "speciality": "<[BOMB]>",
+    "tech": 0,
+    "torpedo_ammo": 0,
+    "type": 9,
+    "value_2": 65,
+    "value_3": 0,
+    "weapon_id": [
+      49080
+    ]
+  },
+  "49081": {
+    "ammo_info": [
+      [
+        5,
+        53501
+      ]
+    ],
+    "base": 49080,
+    "hidden_skill_id": [],
+    "id": 49081,
+    "weapon_id": [
+      49081
+    ]
+  },
+  "49082": {
+    "ammo_info": [
+      [
+        5,
+        53502
+      ]
+    ],
+    "base": 49080,
+    "hidden_skill_id": [],
+    "id": 49082,
+    "weapon_id": [
+      49082
+    ]
+  },
+  "49083": {
+    "ammo_info": [
+      [
+        5,
+        53503
+      ]
+    ],
+    "base": 49080,
+    "hidden_skill_id": [],
+    "id": 49083,
+    "weapon_id": [
+      49083
+    ]
+  },
+  "49084": {
+    "ammo_info": [
+      [
+        5,
+        53504
+      ]
+    ],
+    "base": 49080,
+    "hidden_skill_id": [],
+    "id": 49084,
+    "weapon_id": [
+      49084
+    ]
+  },
+  "49085": {
+    "ammo_info": [
+      [
+        5,
+        53505
+      ]
+    ],
+    "base": 49080,
+    "hidden_skill_id": [],
+    "id": 49085,
+    "weapon_id": [
+      49085
+    ]
+  },
+  "49086": {
+    "ammo_info": [
+      [
+        5,
+        53506
+      ]
+    ],
+    "base": 49080,
+    "hidden_skill_id": [],
+    "id": 49086,
+    "weapon_id": [
+      49086
+    ]
+  },
+  "49087": {
+    "ammo_info": [
+      [
+        5,
+        53507
+      ]
+    ],
+    "base": 49080,
+    "hidden_skill_id": [],
+    "id": 49087,
+    "weapon_id": [
+      49087
+    ]
+  },
+  "49088": {
+    "ammo_info": [
+      [
+        5,
+        53508
+      ]
+    ],
+    "base": 49080,
+    "hidden_skill_id": [],
+    "id": 49088,
+    "weapon_id": [
+      49088
+    ]
+  },
+  "49089": {
+    "ammo_info": [
+      [
+        5,
+        53509
+      ]
+    ],
+    "base": 49080,
+    "hidden_skill_id": [],
+    "id": 49089,
+    "weapon_id": [
+      49089
+    ]
+  },
+  "49090": {
+    "ammo_info": [
+      [
+        5,
+        53510
+      ]
+    ],
+    "base": 49080,
+    "hidden_skill_id": [],
+    "id": 49090,
+    "weapon_id": [
+      49090
+    ]
+  },
+  "49091": {
+    "ammo_info": [
+      [
+        5,
+        53511
+      ]
+    ],
+    "anti_siren": 100,
+    "base": 49080,
+    "hidden_skill_id": [],
+    "id": 49091,
+    "weapon_id": [
+      49091
+    ]
+  },
+  "49092": {
+    "ammo_info": [
+      [
+        5,
+        53512
+      ]
+    ],
+    "anti_siren": 200,
+    "base": 49080,
+    "hidden_skill_id": [],
+    "id": 49092,
+    "weapon_id": [
+      49092
+    ]
+  },
+  "49093": {
+    "ammo_info": [
+      [
+        5,
+        53513
+      ]
+    ],
+    "anti_siren": 300,
+    "base": 49080,
+    "hidden_skill_id": [],
+    "id": 49093,
+    "weapon_id": [
+      49093
+    ]
+  },
   "54010": {
     "ammo": 10,
     "ammo_icon": [],
@@ -115090,6 +116052,53 @@
     "name": "航空攻击展示-阿罗芒什III",
     "weapon_id": [
       61193
+    ]
+  },
+  "61201": {
+    "ammo": 10,
+    "ammo_icon": [],
+    "ammo_info": [],
+    "descrip": "航母空袭展示用",
+    "equip_info": [],
+    "equip_parameters": [],
+    "hidden_skill_id": [],
+    "icon": "1",
+    "id": 61201,
+    "label": [],
+    "name": "航空攻击展示-马克斯·殷麦曼I",
+    "nationality": 0,
+    "part_main": [],
+    "part_sub": [],
+    "property_rate": [],
+    "rarity": 1,
+    "skill_id": [],
+    "speciality": "<[NA]>",
+    "tech": 1,
+    "torpedo_ammo": 0,
+    "type": 99,
+    "value_1": "0",
+    "value_2": 0,
+    "value_3": 0,
+    "weapon_id": [
+      61201
+    ]
+  },
+  "61202": {
+    "base": 61201,
+    "hidden_skill_id": [],
+    "id": 61202,
+    "name": "航空攻击展示-马克斯·殷麦曼II",
+    "weapon_id": [
+      61202
+    ]
+  },
+  "61203": {
+    "base": 61201,
+    "hidden_skill_id": [],
+    "id": 61203,
+    "name": "航空攻击展示-马克斯·殷麦曼III",
+    "weapon_id": [
+      61203
     ]
   },
   "61501": {
@@ -129834,6 +130843,109 @@
     "name": "专属弹幕-布里斯托尔METAII",
     "weapon_id": [
       61842
+    ]
+  },
+  "80651": {
+    "ammo": 10,
+    "ammo_icon": [],
+    "ammo_info": [],
+    "descrip": "技能弹幕",
+    "equip_info": [],
+    "equip_parameters": [],
+    "hidden_skill_id": [],
+    "icon": "1",
+    "id": 80651,
+    "label": [],
+    "name": "专属弹幕-暴风雨I",
+    "nationality": 0,
+    "part_main": [
+      1,
+      19,
+      20,
+      21
+    ],
+    "part_sub": [
+      2,
+      3,
+      4,
+      5,
+      8,
+      13,
+      18
+    ],
+    "property_rate": [],
+    "rarity": 1,
+    "skill_id": [],
+    "speciality": "<[NA]>",
+    "tech": 1,
+    "torpedo_ammo": 0,
+    "type": 1,
+    "value_1": "0",
+    "value_2": 0,
+    "value_3": 0,
+    "weapon_id": [
+      171051
+    ]
+  },
+  "80652": {
+    "base": 80651,
+    "hidden_skill_id": [],
+    "id": 80652,
+    "name": "专属弹幕-暴风雨II",
+    "weapon_id": [
+      171052,
+      171053
+    ]
+  },
+  "80661": {
+    "ammo": 10,
+    "ammo_icon": [],
+    "ammo_info": [],
+    "descrip": "技能弹幕",
+    "equip_info": [],
+    "equip_parameters": [],
+    "hidden_skill_id": [],
+    "icon": "1",
+    "id": 80661,
+    "label": [],
+    "name": "专属弹幕-高梁I",
+    "nationality": 0,
+    "part_main": [
+      1,
+      19,
+      20,
+      21
+    ],
+    "part_sub": [
+      2,
+      3,
+      4,
+      5,
+      8,
+      13,
+      18
+    ],
+    "property_rate": [],
+    "rarity": 1,
+    "skill_id": [],
+    "speciality": "<[NA]>",
+    "tech": 1,
+    "torpedo_ammo": 0,
+    "type": 1,
+    "value_1": "0",
+    "value_2": 0,
+    "value_3": 0,
+    "weapon_id": [
+      171061
+    ]
+  },
+  "80662": {
+    "base": 80661,
+    "hidden_skill_id": [],
+    "id": 80662,
+    "name": "专属弹幕-高梁II",
+    "weapon_id": [
+      171062
     ]
   },
   "85000": {
@@ -150449,6 +151561,197 @@
     "weapon_id": [
       91387,
       88027
+    ]
+  },
+  "91400": {
+    "ammo": 3,
+    "ammo_icon": [
+      1
+    ],
+    "ammo_info": [
+      [
+        1,
+        1013
+      ]
+    ],
+    "attribute_2": "cannon",
+    "attribute_3": "antiaircraft",
+    "damage": "6 x 4",
+    "descrip": "说明未填写",
+    "equip_info": [
+      1,
+      2,
+      [
+        3,
+        1013
+      ],
+      [
+        4,
+        1001
+      ],
+      6,
+      10,
+      11,
+      12
+    ],
+    "equip_parameters": [],
+    "hidden_skill_id": [],
+    "icon": "51400",
+    "id": 91400,
+    "label": [
+      "FFNF",
+      "DD",
+      "MG",
+      "CM"
+    ],
+    "name": "试作型双联装127mm主炮Mle1948",
+    "nationality": 8,
+    "part_main": [
+      1,
+      19,
+      20,
+      21
+    ],
+    "part_sub": [
+      2,
+      3,
+      4,
+      5,
+      8,
+      13,
+      18
+    ],
+    "property_rate": [],
+    "rarity": 5,
+    "skill_id": [],
+    "speciality": "<[LOCK]>",
+    "tech": 0,
+    "torpedo_ammo": 0,
+    "type": 1,
+    "value_2": 35,
+    "value_3": 10,
+    "weapon_id": [
+      91400
+    ]
+  },
+  "91401": {
+    "base": 91400,
+    "damage": "7 x 4",
+    "hidden_skill_id": [],
+    "id": 91401,
+    "weapon_id": [
+      91401
+    ]
+  },
+  "91402": {
+    "base": 91400,
+    "damage": "8 x 4",
+    "hidden_skill_id": [],
+    "id": 91402,
+    "weapon_id": [
+      91402
+    ]
+  },
+  "91403": {
+    "base": 91400,
+    "damage": "9 x 4",
+    "hidden_skill_id": [],
+    "id": 91403,
+    "weapon_id": [
+      91403
+    ]
+  },
+  "91404": {
+    "base": 91400,
+    "damage": "10 x 4",
+    "hidden_skill_id": [],
+    "id": 91404,
+    "weapon_id": [
+      91404
+    ]
+  },
+  "91405": {
+    "base": 91400,
+    "damage": "11 x 4",
+    "hidden_skill_id": [],
+    "id": 91405,
+    "weapon_id": [
+      91405
+    ]
+  },
+  "91406": {
+    "base": 91400,
+    "damage": "12 x 4",
+    "hidden_skill_id": [],
+    "id": 91406,
+    "weapon_id": [
+      91406
+    ]
+  },
+  "91407": {
+    "base": 91400,
+    "damage": "13 x 4",
+    "hidden_skill_id": [],
+    "id": 91407,
+    "weapon_id": [
+      91407
+    ]
+  },
+  "91408": {
+    "base": 91400,
+    "damage": "14 x 4",
+    "hidden_skill_id": [],
+    "id": 91408,
+    "weapon_id": [
+      91408
+    ]
+  },
+  "91409": {
+    "base": 91400,
+    "damage": "15 x 4",
+    "hidden_skill_id": [],
+    "id": 91409,
+    "weapon_id": [
+      91409
+    ]
+  },
+  "91410": {
+    "base": 91400,
+    "damage": "16 x 4",
+    "hidden_skill_id": [],
+    "id": 91410,
+    "weapon_id": [
+      91410
+    ]
+  },
+  "91411": {
+    "anti_siren": 100,
+    "base": 91400,
+    "damage": "16 x 4",
+    "hidden_skill_id": [],
+    "id": 91411,
+    "weapon_id": [
+      91411
+    ]
+  },
+  "91412": {
+    "anti_siren": 200,
+    "base": 91400,
+    "damage": "16 x 4",
+    "hidden_skill_id": [],
+    "id": 91412,
+    "weapon_id": [
+      91412
+    ]
+  },
+  "91413": {
+    "anti_siren": 300,
+    "base": 91400,
+    "damage": "16 x 4",
+    "hidden_skill_id": [],
+    "id": 91413,
+    "weapon_id": [
+      91413
     ]
   },
   "95000": {
@@ -172893,6 +174196,20 @@
     5671,
     5672,
     5673,
+    5680,
+    5681,
+    5682,
+    5683,
+    5684,
+    5685,
+    5686,
+    5687,
+    5688,
+    5689,
+    5690,
+    5691,
+    5692,
+    5693,
     6000,
     6001,
     6002,
@@ -173115,6 +174432,20 @@
     11271,
     11272,
     11273,
+    11280,
+    11281,
+    11282,
+    11283,
+    11284,
+    11285,
+    11286,
+    11287,
+    11288,
+    11289,
+    11290,
+    11291,
+    11292,
+    11293,
     12000,
     12001,
     12002,
@@ -174786,6 +176117,20 @@
     24411,
     24412,
     24413,
+    24420,
+    24421,
+    24422,
+    24423,
+    24424,
+    24425,
+    24426,
+    24427,
+    24428,
+    24429,
+    24430,
+    24431,
+    24432,
+    24433,
     25000,
     25001,
     25002,
@@ -176116,6 +177461,20 @@
     35271,
     35272,
     35273,
+    35280,
+    35281,
+    35282,
+    35283,
+    35284,
+    35285,
+    35286,
+    35287,
+    35288,
+    35289,
+    35290,
+    35291,
+    35292,
+    35293,
     35300,
     35301,
     35302,
@@ -177891,6 +179250,20 @@
     49065,
     49066,
     49067,
+    49080,
+    49081,
+    49082,
+    49083,
+    49084,
+    49085,
+    49086,
+    49087,
+    49088,
+    49089,
+    49090,
+    49091,
+    49092,
+    49093,
     54010,
     54011,
     54012,
@@ -178167,6 +179540,9 @@
     61191,
     61192,
     61193,
+    61201,
+    61202,
+    61203,
     61501,
     61503,
     61504,
@@ -178741,6 +180117,10 @@
     80632,
     80641,
     80642,
+    80651,
+    80652,
+    80661,
+    80662,
     85000,
     85001,
     85002,
@@ -180263,6 +181643,20 @@
     91385,
     91386,
     91387,
+    91400,
+    91401,
+    91402,
+    91403,
+    91404,
+    91405,
+    91406,
+    91407,
+    91408,
+    91409,
+    91410,
+    91411,
+    91412,
+    91413,
     95000,
     95001,
     95002,
