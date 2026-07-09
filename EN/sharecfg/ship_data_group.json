@@ -24587,6 +24587,17 @@
           ""
         ],
         0
+      ],
+      [
+        "Heavy Construction",
+        [
+          "GETBOAT",
+          {
+            "page": 1,
+            "projectName": "heavy"
+          }
+        ],
+        0
       ]
     ],
     "group_type": 70302,
@@ -24619,6 +24630,17 @@
           ""
         ],
         0
+      ],
+      [
+        "Heavy Construction",
+        [
+          "GETBOAT",
+          {
+            "page": 1,
+            "projectName": "heavy"
+          }
+        ],
+        0
       ]
     ],
     "group_type": 70507,
@@ -24649,6 +24671,17 @@
         "Event: Frostfall",
         [
           ""
+        ],
+        0
+      ],
+      [
+        "Light Construction",
+        [
+          "GETBOAT",
+          {
+            "page": 1,
+            "projectName": "light"
+          }
         ],
         0
       ]
@@ -24931,6 +24964,17 @@
           ""
         ],
         0
+      ],
+      [
+        "Heavy Ship Construction",
+        [
+          "GETBOAT",
+          {
+            "page": 1,
+            "projectName": "heavy"
+          }
+        ],
+        0
       ]
     ],
     "group_type": 60507,
@@ -24963,6 +25007,17 @@
           ""
         ],
         0
+      ],
+      [
+        "Light Ship Construction",
+        [
+          "GETBOAT",
+          {
+            "page": 1,
+            "projectName": "light"
+          }
+        ],
+        0
       ]
     ],
     "group_type": 60110,
@@ -24993,6 +25048,17 @@
         "Event: Reflections of the Oasis",
         [
           ""
+        ],
+        0
+      ],
+      [
+        "Heavy Ship Construction",
+        [
+          "GETBOAT",
+          {
+            "page": 1,
+            "projectName": "heavy"
+          }
         ],
         0
       ]
@@ -33847,6 +33913,181 @@
     "trans_type": 0,
     "type": 3
   },
+  "20043": {
+    "code": 20043,
+    "description": [
+      [
+        "Research and Development",
+        [
+          "SHIPBLUEPRINT",
+          {
+            "shipGroupId": 29906
+          }
+        ],
+        0
+      ]
+    ],
+    "group_type": 29906,
+    "handbook_type": 2,
+    "hide": 0,
+    "index_id": 20043,
+    "nationality": 2,
+    "property_hexagon": [
+      "A",
+      "C",
+      "E",
+      "D",
+      "C",
+      "S"
+    ],
+    "redirect_id": 101,
+    "share_group_id": [],
+    "trans_radar_chart": [],
+    "trans_skill": [],
+    "trans_skin": 0,
+    "trans_type": 0,
+    "type": 4
+  },
+  "20044": {
+    "code": 20044,
+    "description": [
+      [
+        "Research and Development",
+        [
+          "SHIPBLUEPRINT",
+          {
+            "shipGroupId": 39908
+          }
+        ],
+        0
+      ]
+    ],
+    "group_type": 39908,
+    "handbook_type": 2,
+    "hide": 0,
+    "index_id": 20044,
+    "nationality": 3,
+    "property_hexagon": [
+      "B",
+      "A",
+      "E",
+      "C",
+      "A",
+      "A"
+    ],
+    "redirect_id": 101,
+    "share_group_id": [],
+    "trans_radar_chart": [],
+    "trans_skill": [],
+    "trans_skin": 0,
+    "trans_type": 0,
+    "type": 2
+  },
+  "20045": {
+    "code": 20045,
+    "description": [
+      [
+        "Research and Development",
+        [
+          "SHIPBLUEPRINT",
+          {
+            "shipGroupId": 49911
+          }
+        ],
+        0
+      ]
+    ],
+    "group_type": 49911,
+    "handbook_type": 2,
+    "hide": 0,
+    "index_id": 20045,
+    "nationality": 4,
+    "property_hexagon": [
+      "E",
+      "E",
+      "S",
+      "C",
+      "B",
+      "S"
+    ],
+    "redirect_id": 101,
+    "share_group_id": [],
+    "trans_radar_chart": [],
+    "trans_skill": [],
+    "trans_skin": 0,
+    "trans_type": 0,
+    "type": 7
+  },
+  "20046": {
+    "code": 20046,
+    "description": [
+      [
+        "Research and Development",
+        [
+          "SHIPBLUEPRINT",
+          {
+            "shipGroupId": 89905
+          }
+        ],
+        0
+      ]
+    ],
+    "group_type": 89905,
+    "handbook_type": 2,
+    "hide": 0,
+    "index_id": 20046,
+    "nationality": 8,
+    "property_hexagon": [
+      "B",
+      "A",
+      "E",
+      "A",
+      "C",
+      "C"
+    ],
+    "redirect_id": 101,
+    "share_group_id": [],
+    "trans_radar_chart": [],
+    "trans_skill": [],
+    "trans_skin": 0,
+    "trans_type": 0,
+    "type": 1
+  },
+  "20047": {
+    "code": 20047,
+    "description": [
+      [
+        "Research and Development",
+        [
+          "SHIPBLUEPRINT",
+          {
+            "shipGroupId": 129901
+          }
+        ],
+        0
+      ]
+    ],
+    "group_type": 129901,
+    "handbook_type": 2,
+    "hide": 0,
+    "index_id": 20047,
+    "nationality": 12,
+    "property_hexagon": [
+      "S",
+      "E",
+      "E",
+      "D",
+      "A",
+      "S"
+    ],
+    "redirect_id": 101,
+    "share_group_id": [],
+    "trans_radar_chart": [],
+    "trans_skill": [],
+    "trans_skin": 0,
+    "trans_type": 0,
+    "type": 5
+  },
   "30001": {
     "code": 30001,
     "description": [
@@ -36801,6 +37042,11 @@
     20040,
     20041,
     20042,
+    20043,
+    20044,
+    20045,
+    20046,
+    20047,
     30001,
     30002,
     30003,
@@ -37711,6 +37957,9 @@
     "29905": [
       20023
     ],
+    "29906": [
+      20043
+    ],
     "30101": [
       151
     ],
@@ -38212,6 +38461,9 @@
     "39907": [
       20034
     ],
+    "39908": [
+      20044
+    ],
     "40101": [
       233
     ],
@@ -38499,6 +38751,9 @@
     ],
     "49910": [
       20039
+    ],
+    "49911": [
+      20045
     ],
     "50101": [
       253
@@ -38893,6 +39148,9 @@
     "89904": [
       20037
     ],
+    "89905": [
+      20046
+    ],
     "90101": [
       351
     ],
@@ -38973,6 +39231,9 @@
     ],
     "119901": [
       20042
+    ],
+    "129901": [
+      20047
     ],
     "960001": [
       571
@@ -40265,7 +40526,12 @@
       20038,
       20040,
       20041,
-      20042
+      20042,
+      20043,
+      20044,
+      20045,
+      20046,
+      20047
     ],
     "3": [
       30001,

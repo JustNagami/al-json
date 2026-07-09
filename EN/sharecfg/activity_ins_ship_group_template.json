@@ -92,7 +92,7 @@
   "200": {
     "background": "200",
     "name": "General Chat",
-    "nationality": 12,
+    "nationality": 13,
     "sculpture": "200",
     "sculpture_ii": "",
     "ship_group": 200,
@@ -101,7 +101,7 @@
   "201": {
     "background": "200",
     "name": "Afternoon Teatime",
-    "nationality": 12,
+    "nationality": 13,
     "sculpture": "201",
     "sculpture_ii": "",
     "ship_group": 201,
@@ -110,7 +110,7 @@
   "202": {
     "background": "200",
     "name": "Event Prep Team",
-    "nationality": 12,
+    "nationality": 13,
     "sculpture": "202",
     "sculpture_ii": "",
     "ship_group": 202,
@@ -213,6 +213,15 @@
     "sculpture": "aolike",
     "sculpture_ii": "",
     "ship_group": 10113,
+    "type": 1
+  },
+  "10114": {
+    "background": "",
+    "name": "Foote",
+    "nationality": 1,
+    "sculpture": "fute",
+    "sculpture_ii": "",
+    "ship_group": 10114,
     "type": 1
   },
   "10115": {
@@ -384,6 +393,15 @@
     "sculpture": "sitanli",
     "sculpture_ii": "",
     "ship_group": 10141,
+    "type": 1
+  },
+  "10143": {
+    "background": "",
+    "name": "Halsey Powell",
+    "nationality": 1,
+    "sculpture": "haerxibaoweier",
+    "sculpture_ii": "",
+    "ship_group": 10143,
     "type": 1
   },
   "10144": {
@@ -6759,6 +6777,8 @@
     81801,
     80602,
     80106,
-    60505
+    60505,
+    10114,
+    10143
   ]
 }

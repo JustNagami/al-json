@@ -2344,6 +2344,169 @@
     ],
     "whether_singlefight": 0
   },
+  "1001001": {
+    "additional_awards_display": "",
+    "boss_icon": [
+      [
+        "qinraozhe",
+        2
+      ]
+    ],
+    "chapter_name": "TC1",
+    "collection_group_id": 104,
+    "count": 0,
+    "defeat_story": [],
+    "defeat_story_count": [],
+    "ex_count": "",
+    "expedition_id": [
+      1719101
+    ],
+    "id": 1001001,
+    "limitation": [],
+    "name": "EASY: Jamming Breakthrough",
+    "oil": 0,
+    "pass_awards_display": [
+      [
+        2,
+        58839
+      ],
+      [
+        2,
+        59001
+      ],
+      [
+        2,
+        54012
+      ]
+    ],
+    "pos_x": "0.10703125",
+    "pos_y": "0.157291667",
+    "pre_chapter": 0,
+    "profiles": "Objectives: Suppress the Greenland Siren stronghold, destroy the jamming device, and restore the main communication line.",
+    "type": 1,
+    "use_oil_limit": [
+      0,
+      0
+    ],
+    "whether_singlefight": 0
+  },
+  "1001002": {
+    "additional_awards_display": [
+      [
+        1,
+        1
+      ]
+    ],
+    "boss_icon": [
+      [
+        "qinraozhe",
+        2
+      ],
+      [
+        "qingchuzhe",
+        5
+      ]
+    ],
+    "chapter_name": "TC2",
+    "collection_group_id": 105,
+    "count": 0,
+    "defeat_story": [],
+    "defeat_story_count": [],
+    "ex_count": "",
+    "expedition_id": [
+      1719201,
+      1719202
+    ],
+    "id": 1001002,
+    "limitation": [],
+    "name": "NORMAL: Anomaly Disruption",
+    "oil": 0,
+    "pass_awards_display": [
+      [
+        2,
+        58838
+      ],
+      [
+        2,
+        59001
+      ],
+      [
+        2,
+        54017
+      ]
+    ],
+    "pos_x": "0.34609375",
+    "pos_y": "0.347916667",
+    "pre_chapter": 1001001,
+    "profiles": "Objectives: Break through the Siren defensive line in the Chukchi Sea, and remove the source of the anomalous weather.",
+    "type": 1,
+    "use_oil_limit": [
+      0,
+      0
+    ],
+    "whether_singlefight": 1
+  },
+  "1001003": {
+    "additional_awards_display": [
+      [
+        1,
+        1
+      ]
+    ],
+    "boss_icon": [
+      [
+        "qinraozhe_IV",
+        2
+      ],
+      [
+        "kuersike",
+        3
+      ],
+      [
+        "qingchuzhe",
+        5
+      ]
+    ],
+    "chapter_name": "TC3",
+    "collection_group_id": 106,
+    "count": 0,
+    "defeat_story": [],
+    "defeat_story_count": [],
+    "ex_count": "",
+    "expedition_id": [
+      1719301,
+      1719302,
+      1719303
+    ],
+    "id": 1001003,
+    "limitation": [],
+    "name": "HARD: Research Base Recapture",
+    "oil": 0,
+    "pass_awards_display": [
+      [
+        2,
+        58837
+      ],
+      [
+        2,
+        59001
+      ],
+      [
+        2,
+        54017
+      ]
+    ],
+    "pos_x": "0.50546875",
+    "pos_y": "0.080208333",
+    "pre_chapter": 1001002,
+    "profiles": "Objectives: Recapture the research base in the Northern Islands, destroy the nearby Siren factory, and prevent the enemy from gaining more reinforcements.",
+    "type": 1,
+    "use_oil_limit": [
+      25,
+      16
+    ],
+    "whether_singlefight": 1
+  },
   "all": [
     1001,
     1002,
@@ -2376,6 +2539,9 @@
     5002,
     5003,
     5004,
-    5005
+    5005,
+    1001001,
+    1001002,
+    1001003
   ]
 }
