@@ -1056,6 +1056,30 @@
       600510
     ]
   },
+  "4990560": {
+    "default_favor": 1001,
+    "finish_action": "Idle",
+    "heartbeat_enable": 0,
+    "heartbeat_enter_anim": "",
+    "heartbeat_favor": [
+      [
+        0,
+        1011
+      ],
+      [
+        50,
+        1012
+      ],
+      [
+        100,
+        1013
+      ]
+    ],
+    "id": 4990560,
+    "ik_status": [
+      600610
+    ]
+  },
   "4990590": {
     "default_favor": 1001,
     "finish_action": "Idle",
@@ -1397,6 +1421,7 @@
     4990530,
     4990540,
     4990550,
+    4990560,
     4990590,
     7990210,
     7990220,

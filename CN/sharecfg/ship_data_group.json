@@ -32166,6 +32166,70 @@
     "trans_type": 0,
     "type": 2
   },
+  "10171": {
+    "code": 10171,
+    "description": [
+      [
+        "限时活动：自动步兵人形之旅",
+        [
+          ""
+        ],
+        0
+      ]
+    ],
+    "group_type": 1170001,
+    "handbook_type": 1,
+    "hide": 0,
+    "index_id": 10171,
+    "nationality": 117,
+    "property_hexagon": [
+      "B",
+      "E",
+      "E",
+      "B",
+      "B",
+      "A"
+    ],
+    "redirect_id": 101,
+    "share_group_id": [],
+    "trans_radar_chart": [],
+    "trans_skill": [],
+    "trans_skin": 0,
+    "trans_type": 0,
+    "type": 3
+  },
+  "10172": {
+    "code": 10172,
+    "description": [
+      [
+        "限时活动：自动步兵人形之旅",
+        [
+          ""
+        ],
+        0
+      ]
+    ],
+    "group_type": 1170002,
+    "handbook_type": 1,
+    "hide": 0,
+    "index_id": 10172,
+    "nationality": 117,
+    "property_hexagon": [
+      "B",
+      "E",
+      "E",
+      "B",
+      "B",
+      "A"
+    ],
+    "redirect_id": 101,
+    "share_group_id": [],
+    "trans_radar_chart": [],
+    "trans_skill": [],
+    "trans_skin": 0,
+    "trans_type": 0,
+    "type": 2
+  },
   "10990": {
     "code": 10990,
     "description": [
@@ -36916,6 +36980,8 @@
     10154,
     10155,
     10156,
+    10171,
+    10172,
     20001,
     20002,
     20003,
@@ -39657,6 +39723,12 @@
     ],
     "1150006": [
       10156
+    ],
+    "1170001": [
+      10171
+    ],
+    "1170002": [
+      10172
     ]
   },
   "get_id_list_by_handbook_type": {
@@ -40430,7 +40502,9 @@
       10153,
       10154,
       10155,
-      10156
+      10156,
+      10171,
+      10172
     ],
     "2": [
       20001,

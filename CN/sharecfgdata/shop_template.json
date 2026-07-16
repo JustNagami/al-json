@@ -107901,6 +107901,122 @@
     "type": 6,
     "type_order": 0
   },
+  "71379": {
+    "akashi_pick": 0,
+    "collaboration_skin_time": "",
+    "desc": "购买皮肤:260716A2SINE",
+    "discount": 0,
+    "discount_time": [],
+    "effect_args": [
+      11700011
+    ],
+    "first_icon": "",
+    "first_text": "",
+    "genre": "skin_shop",
+    "group": 0,
+    "group_buy_count": 0,
+    "group_limit": 0,
+    "group_type": 0,
+    "id": 71379,
+    "limit_args": [],
+    "limit_args2": "",
+    "num": 1,
+    "order": 6,
+    "package_sort_id": 0,
+    "package_tag": "",
+    "package_tag_open": 0,
+    "resource_num": 1000,
+    "resource_type": 14,
+    "second_text": "",
+    "tag": 2,
+    "time": [
+      [
+        [
+          2026,
+          7,
+          16
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2026,
+          7,
+          29
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
+    "time_second": 0,
+    "type": 6,
+    "type_order": 0
+  },
+  "71380": {
+    "akashi_pick": 0,
+    "collaboration_skin_time": "",
+    "desc": "购买皮肤:2607162BSINE",
+    "discount": 0,
+    "discount_time": [],
+    "effect_args": [
+      11700021
+    ],
+    "first_icon": "",
+    "first_text": "",
+    "genre": "skin_shop",
+    "group": 0,
+    "group_buy_count": 0,
+    "group_limit": 0,
+    "group_type": 0,
+    "id": 71380,
+    "limit_args": [],
+    "limit_args2": "",
+    "num": 1,
+    "order": 5,
+    "package_sort_id": 0,
+    "package_tag": "",
+    "package_tag_open": 0,
+    "resource_num": 1000,
+    "resource_type": 14,
+    "second_text": "",
+    "tag": 2,
+    "time": [
+      [
+        [
+          2026,
+          7,
+          16
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2026,
+          7,
+          29
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
+    "time_second": 0,
+    "type": 6,
+    "type_order": 0
+  },
   "90001": {
     "akashi_pick": 0,
     "collaboration_skin_time": "",
@@ -133216,6 +133332,45 @@
     "type": 26,
     "type_order": 0
   },
+  "270603": {
+    "akashi_pick": 0,
+    "collaboration_skin_time": "",
+    "desc": "宿舍480钻石购买深红逸趣",
+    "discount": 0,
+    "discount_time": [],
+    "effect_args": [
+      1463
+    ],
+    "first_icon": "",
+    "first_text": "",
+    "genre": "dorm3d_gift",
+    "group": 0,
+    "group_buy_count": 0,
+    "group_limit": 0,
+    "group_type": 0,
+    "id": 270603,
+    "limit_args": [
+      [
+        "count",
+        0,
+        1
+      ]
+    ],
+    "limit_args2": "",
+    "num": 1,
+    "order": 1,
+    "package_sort_id": 0,
+    "package_tag": "",
+    "package_tag_open": 0,
+    "resource_num": 480,
+    "resource_type": 14,
+    "second_text": "",
+    "tag": 0,
+    "time": "always",
+    "time_second": 0,
+    "type": 26,
+    "type_order": 0
+  },
   "270701": {
     "akashi_pick": 0,
     "collaboration_skin_time": "",
@@ -135581,6 +135736,8 @@
     71376,
     71377,
     71378,
+    71379,
+    71380,
     90001,
     90002,
     90003,
@@ -136057,6 +136214,7 @@
     270205,
     270601,
     270602,
+    270603,
     270206,
     270701
   ],
@@ -136313,6 +136471,7 @@
       270205,
       270601,
       270602,
+      270603,
       270206,
       270701
     ],
@@ -138246,7 +138405,9 @@
       71375,
       71376,
       71377,
-      71378
+      71378,
+      71379,
+      71380
     ],
     "skin_shop_timelimit": [
       90001,

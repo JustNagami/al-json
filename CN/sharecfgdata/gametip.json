@@ -583,6 +583,21 @@
       }
     }
   },
+  "NieRAutomataCoreActivityUI_subtitle_1": {
+    "tip": "自动步兵人形之旅"
+  },
+  "NieRAutomataCoreActivityUI_subtitle_2": {
+    "tip": "旅程：A2"
+  },
+  "NieRAutomataCoreActivityUI_subtitle_3": {
+    "tip": "旅程：2B"
+  },
+  "NieRAutomataCoreActivityUI_subtitle_4": {
+    "tip": "挑战关"
+  },
+  "NieRAutomataCoreActivityUI_subtitle_5": {
+    "tip": "奖励汇总"
+  },
   "Normalbuild_URexchange_confirm": {
     "tip": "是否消耗400累计点数，兑换角色$1？"
   },
@@ -1639,6 +1654,313 @@
   },
   "attrset_save_success": {
     "tip": "保存成功"
+  },
+  "auction_activity_closed": {
+    "tip": "活动结束"
+  },
+  "auction_activity_closed_tip": {
+    "tip": "活动已结束"
+  },
+  "auction_assistant": {
+    "tip": "形象展示"
+  },
+  "auction_bid_keyboard_clear": {
+    "tip": "归零"
+  },
+  "auction_block_emoji": {
+    "tip": "屏蔽表情"
+  },
+  "auction_cancel": {
+    "tip": "取 消"
+  },
+  "auction_collect_unlock": {
+    "tip": "已解锁："
+  },
+  "auction_collection_price_title": {
+    "tip": "藏品总价值"
+  },
+  "auction_collection_title": {
+    "tip": "藏品图鉴"
+  },
+  "auction_collection_type_title": {
+    "tip": "藏品种类"
+  },
+  "auction_confirm": {
+    "tip": "确 定"
+  },
+  "auction_currency_noenough": {
+    "tip": "虚拟币不足 "
+  },
+  "auction_currency_title": {
+    "tip": "持有虚拟币"
+  },
+  "auction_forbidden_tip": {
+    "tip": "检测到多次消极行为，需等待$1秒"
+  },
+  "auction_game_bid_confirm": {
+    "tip": "当前出价为：$1，是否确认出价?"
+  },
+  "auction_game_bid_phase": {
+    "tip": "开始出价"
+  },
+  "auction_game_cannot_forfeit": {
+    "tip": "已经出价，无法弃权"
+  },
+  "auction_game_exceeds_max_value": {
+    "tip": "持有虚拟币已达上限"
+  },
+  "auction_game_forfeit_tip": {
+    "tip": "放弃后，本轮及后续所有轮次将不可出价，是否确认?"
+  },
+  "auction_game_kick": {
+    "tip": "检测到竞拍者多次未操作，已被请离拍卖场"
+  },
+  "auction_game_match_forbidden": {
+    "tip": "禁止匹配"
+  },
+  "auction_game_match_warning": {
+    "tip": "提前退出对局，不参与当局收益结算，仅扣除门票 "
+  },
+  "auction_game_min_bid": {
+    "tip": "出价需大于$1"
+  },
+  "auction_game_nobid_tip": {
+    "tip": "当前无有效出价，本局竞拍流局"
+  },
+  "auction_game_prepare": {
+    "tip": "拍卖场准备中……"
+  },
+  "auction_game_punishment": {
+    "tip": "每累计3次消极行为将禁止匹配30分钟。\n请指挥官认真对待竞拍对局。\n\n今日累计消极行为:$1次"
+  },
+  "auction_game_rarity_0": {
+    "tip": "全部"
+  },
+  "auction_game_rarity_1": {
+    "tip": "白"
+  },
+  "auction_game_rarity_2": {
+    "tip": "蓝"
+  },
+  "auction_game_rarity_3": {
+    "tip": "紫"
+  },
+  "auction_game_rarity_4": {
+    "tip": "金"
+  },
+  "auction_game_rarity_5": {
+    "tip": "彩"
+  },
+  "auction_game_wait_bid_phase": {
+    "tip": "未到出价阶段"
+  },
+  "auction_help": {
+    "tip": {
+      "1": {
+        "icon": {
+          "atlas": "helpbg/auction_help_1",
+          "path": ""
+        }
+      },
+      "2": {
+        "icon": {
+          "atlas": "helpbg/auction_help_2",
+          "path": ""
+        }
+      },
+      "3": {
+        "icon": {
+          "atlas": "helpbg/auction_help_3",
+          "path": ""
+        }
+      },
+      "4": {
+        "icon": {
+          "atlas": "helpbg/auction_help_4",
+          "path": ""
+        }
+      },
+      "5": {
+        "icon": {
+          "atlas": "helpbg/auction_help_5",
+          "path": ""
+        }
+      },
+      "6": {
+        "icon": {
+          "atlas": "helpbg/auction_help_6",
+          "path": ""
+        }
+      },
+      "7": {
+        "icon": {
+          "atlas": "helpbg/auction_help_7",
+          "path": ""
+        }
+      },
+      "8": {
+        "icon": {
+          "atlas": "helpbg/auction_help_8",
+          "path": ""
+        }
+      },
+      "ImageMode": true,
+      "defaultpage": 1,
+      "disableScroll": true,
+      "helpSize": {
+        "x": 1176,
+        "y": 1024
+      },
+      "pageMode": true,
+      "windowPos": {
+        "y": -70
+      },
+      "windowSize": {
+        "x": 1263,
+        "y": 873
+      }
+    }
+  },
+  "auction_highest_profit_title": {
+    "tip": "单局最高收益"
+  },
+  "auction_main_bid_price": {
+    "tip": "已出价："
+  },
+  "auction_main_doing": {
+    "tip": "操作中"
+  },
+  "auction_main_done": {
+    "tip": "已完成"
+  },
+  "auction_main_fail": {
+    "tip": "流拍"
+  },
+  "auction_main_handbook": {
+    "tip": "藏品图鉴"
+  },
+  "auction_main_match_exit": {
+    "tip": "是否确认取消匹配"
+  },
+  "auction_main_personal_event": {
+    "tip": "个人事件"
+  },
+  "auction_main_pt": {
+    "tip": "持有"
+  },
+  "auction_main_public_event": {
+    "tip": "公共事件"
+  },
+  "auction_main_public_notice": {
+    "tip": "公示栏"
+  },
+  "auction_main_select_event": {
+    "tip": "选择本轮个人事件"
+  },
+  "auction_main_win": {
+    "tip": "中标"
+  },
+  "auction_matches_title": {
+    "tip": "参与局数"
+  },
+  "auction_matching": {
+    "tip": "匹配中"
+  },
+  "auction_not_enough_assets": {
+    "tip": "虚拟币要求：$1"
+  },
+  "auction_preorder_tips": {
+    "tip": "是否花费虚拟币*$1进行藏品预购?"
+  },
+  "auction_preorder_tips_1": {
+    "tip": "预购藏品将在倒计时结束后可查看"
+  },
+  "auction_pt_collected": {
+    "tip": "前往竞拍"
+  },
+  "auction_pt_info": {
+    "tip": "※奖励领取时间于8月12日24时截止"
+  },
+  "auction_pt_tip": {
+    "tip": "已获得："
+  },
+  "auction_ready": {
+    "tip": "对局准备中，请稍等"
+  },
+  "auction_relief_tip": {
+    "tip": "竞拍补给准备就绪，\n请指挥官注意查收。"
+  },
+  "auction_relief_tip_2": {
+    "tip": "当前虚拟币少于500000，可领取竞拍补给：虚拟币*500000\n 今日可领取次数$1/$2"
+  },
+  "auction_round_instant_buy": {
+    "tip": "当前轮次中标倍率：$1"
+  },
+  "auction_settlement_dividend": {
+    "tip": "分红"
+  },
+  "auction_settlement_name": {
+    "tip": "中标人"
+  },
+  "auction_settlement_price": {
+    "tip": "中标价"
+  },
+  "auction_settlement_quick": {
+    "tip": "一键跳过"
+  },
+  "auction_settlement_revenue": {
+    "tip": "收益"
+  },
+  "auction_settlement_session": {
+    "tip": "场次"
+  },
+  "auction_settlement_value": {
+    "tip": "藏品总价值"
+  },
+  "auction_show_common_event": {
+    "tip": "显示公共事件"
+  },
+  "auction_show_personal_event": {
+    "tip": "显示个人事件"
+  },
+  "auction_signin_collect": {
+    "tip": "全部领取"
+  },
+  "auction_signin_goto": {
+    "tip": "前往竞拍"
+  },
+  "auction_signin_task": {
+    "tip": "任务"
+  },
+  "auction_store_estimate": {
+    "tip": "仓库显示区价值预估:$1-$2"
+  },
+  "auction_success_cnt_title": {
+    "tip": "中标局数"
+  },
+  "auction_success_rate_title": {
+    "tip": "盈亏比"
+  },
+  "auction_tab_text_1": {
+    "tip": "竞拍时刻"
+  },
+  "auction_tab_text_2": {
+    "tip": "藏品登记处"
+  },
+  "auction_task_challenge": {
+    "tip": "挑战"
+  },
+  "auction_task_daily": {
+    "tip": "日常"
+  },
+  "auction_ticket": {
+    "tip": "门票"
+  },
+  "auction_total_profit_title": {
+    "tip": "总盈利"
+  },
+  "auction_value": {
+    "tip": "藏品价值"
   },
   "auto_battle_limit_tip": {
     "tip": "通关1-3后开放自律战斗"
@@ -20834,6 +21156,202 @@
       }
     ]
   },
+  "nier_2b_text_block_day1": {
+    "tip": [
+      {
+        "info": "不知是何时开始，2B发现自己来到了一片滨海沙滩上。近在咫尺的海水与天空呈现出一种病态的灰蓝色，仿佛彰显着其中蕴含的危险。"
+      },
+      {
+        "info": "//:区域识别：NODE-B-1\n//:阶段识别：1-7\n//:通行密码：MIRRORSEA\n<b>2B</b>：辅助机不见了，这里是……大海？"
+      }
+    ]
+  },
+  "nier_2b_text_block_day2": {
+    "tip": [
+      {
+        "info": "果然，敌人如预期般蜂拥而至。一场并不艰难但仍需谨慎应对的战斗后，2B调查起这些从未见过的新型敌人来。"
+      },
+      {
+        "info": "//:区域识别：NODE-B-2\n//:阶段识别：2-7\n//:通行密码：EXECUTOR\n<b>2B</b>：刚才的敌人不像是机械生命体呢……"
+      }
+    ]
+  },
+  "nier_2b_text_block_day3": {
+    "tip": [
+      {
+        "info": "海滩的尽头突兀的矗立着一扇大门。2B穿过门扉，发现自己进入了一处封闭的房间，房间的中央静静陈列着一套型号未知的装备。"
+      },
+      {
+        "info": "//:区域识别：NODE-B-3\n//:阶段识别：3-7\n//:通行密码：▇▇▇▇\n//:通行密码更新：UPGRADE\n<b>2B</b>：“舰装”？这装备…似乎是海战特化型。使用起来的话应该没什么危险。"
+      }
+    ]
+  },
+  "nier_2b_text_block_day4": {
+    "tip": [
+      {
+        "info": "2B穿戴好装备后，一面书架出现在房间中，随之一起出现的还有一扇虚掩的门。"
+      },
+      {
+        "info": "//:区域识别：NODE-B-4\n//:阶段识别：4-7\n//:通行密码：▇▇▇▇\n//:通行密码更新：SKILLBOOK\n<b>2B</b>：攻击教材，防御教材，辅助教材……原来如此，配合那些装备一同使用的么。"
+      }
+    ]
+  },
+  "nier_2b_text_block_day5": {
+    "tip": [
+      {
+        "info": "2B走出房间后，看到的是一条通向下一个房间的走廊。而后，是更多的走廊和更多的房间。整条路如此漫长，仿佛永无尽头。"
+      },
+      {
+        "info": "//:区域识别：NODE-B-5\n//:阶段识别：5-7\n//:通行密码：VITUALTOWER\n<b>2B</b>：……或许，这里是某个超巨型设施的内部。"
+      }
+    ]
+  },
+  "nier_2b_text_block_day6": {
+    "tip": [
+      {
+        "info": "终于，在推开某扇和上一扇别无二致的门后，2B看到了似曾相识的灰蓝色天空与大海。"
+      },
+      {
+        "info": "//:区域识别：NODE-B-6\n//:阶段识别：6-7\n//:通行密码：EXPERIMENTERSYSTEM\n<b>2B</b>：又来到了海面上……也就是说，敌人又要出现了。"
+      }
+    ]
+  },
+  "nier_2b_text_block_day7": {
+    "tip": [
+      {
+        "info": "这一次的战斗结束后，2B穿过门扉来到了一个放满补给品的房间。房间中还有一扇敞开的门，门外的惊涛巨浪清晰可见。"
+      },
+      {
+        "info": "//:区域识别：NODE-B-2\n//:阶段识别：7-7\n//:通行密码：▇▇▇▇\n//:通行密码更新：EXIT\n<b>2B</b>：出口……或许是陷阱，但还是优先离开这里。"
+      }
+    ]
+  },
+  "nier_2b_text_block_day_fin": {
+    "tip": [
+      {
+        "info": ""
+      },
+      {
+        "info": "//:HAPPEENDING"
+      }
+    ]
+  },
+  "nier_a2_item_got": {
+    "tip": "已领取"
+  },
+  "nier_a2_mission_day": {
+    "tip": "DAY$1"
+  },
+  "nier_a2_mission_detail": {
+    "tip": "查看详情"
+  },
+  "nier_a2_mission_progress": {
+    "tip": "当前进度"
+  },
+  "nier_a2_mission_unlock_desc": {
+    "tip": "$1月$2日解锁"
+  },
+  "nier_a2_text_block_day1": {
+    "tip": [
+      {
+        "info": "不知是何时开始，A2发现自己正行走在一条金属走廊中。走廊的窗外高楼林立，走廊的前方似乎永无尽头。"
+      },
+      {
+        "info": "//:区域识别：NODE-A-1\n//:阶段识别：1-7\n//:通行密码：D.O.S\n<b>A2</b>：进入陷阱了？在什么时候……"
+      }
+    ]
+  },
+  "nier_a2_text_block_day2": {
+    "tip": [
+      {
+        "info": "不过，A2还是设法抵达了走廊的尽头。她调查了紧闭的大门，在数据库中寻找起继续前进的“钥匙”。"
+      },
+      {
+        "info": "//:区域识别：NODE-A-2\n//:阶段识别：2-7\n//:通行密码：▇▇▇▇\n//:通行密码更新：HELLO\n<b>A2</b>：这种门直接破坏掉更方便……嗯？通行密码正在被修改……"
+      }
+    ]
+  },
+  "nier_a2_text_block_day3": {
+    "tip": [
+      {
+        "info": "大门打开后，走廊的结构在A2的眼前发生了改变。在一处凭空出现的房间中，A2找到了一份地图。"
+      },
+      {
+        "info": "//:区域识别：NODE-A-3\n//:阶段识别：3-7\n//:通行密码：▇▇▇▇\n//:通行密码更新：REVISEDMAP\n<b>A2</b>：地图似乎没有问题……肯定有人在外部帮忙。可会是谁呢？"
+      }
+    ]
+  },
+  "nier_a2_text_block_day4": {
+    "tip": [
+      {
+        "info": "有了地图的帮助，A2顺利穿过了如同血管般复杂的走廊。在一处标记为重要物资点的房间中，A2发现了一身从未见过的装备。"
+      },
+      {
+        "info": "//:区域识别：NODE-A-4\n//:阶段识别：4-7\n//:通行密码：▇▇▇▇\n//:通行密码更新：UPGRADE\n<b>A2</b>：这身装备……是定制的啊。"
+      }
+    ]
+  },
+  "nier_a2_text_block_day5": {
+    "tip": [
+      {
+        "info": "A2注意到，每当自己抵达某类特殊区域后，地图就会进行一次更新。而这类特殊区域的判定标准就是——通行密码是否具有含义。"
+      },
+      {
+        "info": "//:区域识别：NODE-A-5\n//:阶段识别：5-7\n//:通行密码：DREAMWEAVER\n<b>A2</b>：……人造人是不会做梦的。"
+      }
+    ]
+  },
+  "nier_a2_text_block_day6": {
+    "tip": [
+      {
+        "info": "走廊连接着房间，房间又连着新一条走廊，整座设施仿佛是一个无穷无尽的循环。唯一有明确变化的，只有特殊区域的通行密码。"
+      },
+      {
+        "info": "//:区域识别：NODE-A-6\n//:阶段识别：6-7\n//:通行密码：UNKNOWN_UNDEFINED\n<b>A2</b>：……这次算是什么密码。"
+      }
+    ]
+  },
+  "nier_a2_text_block_day7": {
+    "tip": [
+      {
+        "info": "终于，在A2的耐心即将彻底耗尽，打算抛开地图，使用某些更加直接的手段创造捷径的时候，地图上出现了代表出口的房间。"
+      },
+      {
+        "info": "//:区域识别：NODE-A-7\n//:阶段识别：7-7\n//:通行密码：▇▇▇▇\n//:通行密码更新：EXIT\n<b>A2</b>：这就意味着能出去了吧？多谢帮忙。那么，外面的世界现在变成了什么样呢……"
+      }
+    ]
+  },
+  "nier_a2_text_block_day_fin": {
+    "tip": [
+      {
+        "info": ""
+      },
+      {
+        "info": "//:HAPPEENDING"
+      }
+    ]
+  },
+  "nier_award_char": {
+    "tip": "角色"
+  },
+  "nier_award_equip_skin": {
+    "tip": "外观装备"
+  },
+  "nier_award_furniture": {
+    "tip": "家具"
+  },
+  "nier_award_sp_equip": {
+    "tip": "特殊兵装"
+  },
+  "nier_core_award_check": {
+    "tip": "查看奖励"
+  },
+  "nier_core_countdown": {
+    "tip": "活动时间剩余：$1天$2小时"
+  },
+  "nier_core_task_desc": {
+    "tip": "击沉任意敌人"
+  },
   "nine_choose_one": {
     "tip": "指挥官只能邀请一人参加舞会，\n是否确认邀请<color=#92fc63>$1</color>？\n邀请后会获得对应角色和回礼"
   },
@@ -27958,6 +28476,9 @@
   },
   "word_shipNation_mot": {
     "tip": "飓风"
+  },
+  "word_shipNation_nierautomata": {
+    "tip": "NieR Automata"
   },
   "word_shipNation_np": {
     "tip": "海王星"
