@@ -32254,6 +32254,50 @@
     "title_res_tag": "",
     "type": 13
   },
+  "30896": {
+    "config_client": "",
+    "config_data": [
+      1,
+      2,
+      3
+    ],
+    "config_id": 0,
+    "id": 30896,
+    "is_show": 0,
+    "login_pop": 0,
+    "mark": 20260701,
+    "page_core": "",
+    "page_info": "",
+    "time": [
+      "timer",
+      [
+        [
+          2026,
+          7,
+          16
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2026,
+          7,
+          22
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
+    "title_res_tag": "",
+    "type": 55
+  },
   "50000": {
     "config_client": {
       "story": [
@@ -37945,7 +37989,7 @@
           13
         ],
         [
-          12,
+          16,
           0,
           0
         ]
@@ -38026,7 +38070,7 @@
           13
         ],
         [
-          12,
+          16,
           0,
           0
         ]
@@ -38077,7 +38121,7 @@
           13
         ],
         [
-          12,
+          16,
           0,
           0
         ]
@@ -39521,7 +39565,7 @@
           8
         ],
         [
-          12,
+          16,
           0,
           0
         ]
@@ -50271,6 +50315,443 @@
     "title_res_tag": "",
     "type": 13
   },
+  "50840": {
+    "config_client": {
+      "story": [
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+          "ZIDONGBUBINGRENXINGZHILV3"
+        ]
+      ],
+      "text_block": [
+        [
+          "nier_2b_text_block_day1"
+        ],
+        [
+          "nier_2b_text_block_day2"
+        ],
+        [
+          "nier_2b_text_block_day3"
+        ],
+        [
+          "nier_2b_text_block_day4"
+        ],
+        [
+          "nier_2b_text_block_day5"
+        ],
+        [
+          "nier_2b_text_block_day6"
+        ],
+        [
+          "nier_2b_text_block_day7"
+        ],
+        [
+          "nier_2b_text_block_day_fin"
+        ]
+      ],
+      "typewriterSpeed": 0.03
+    },
+    "config_data": [],
+    "config_id": 50840,
+    "id": 50840,
+    "is_show": 3,
+    "login_pop": 0,
+    "mark": 20260716,
+    "page_core": "NieRAutomataCoreActivityUI",
+    "page_info": {
+      "class_name": "NieRAutomataKillPage",
+      "ui_name": "NieRAutomataKillPage"
+    },
+    "time": [
+      "timer",
+      [
+        [
+          2026,
+          7,
+          16
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2026,
+          7,
+          30
+        ],
+        [
+          16,
+          0,
+          0
+        ]
+      ]
+    ],
+    "title_res_tag": "NieRAutomataCoreActivityUI_subtitle_3",
+    "type": 74
+  },
+  "50841": {
+    "config_client": {
+      "intro_story": [
+        "ZIDONGBUBINGRENXINGZHILV1"
+      ]
+    },
+    "config_data": [],
+    "config_id": 0,
+    "id": 50841,
+    "is_show": 1,
+    "login_pop": 0,
+    "mark": 20260716,
+    "page_core": "NieRAutomataCoreActivityUI",
+    "page_info": {
+      "class_name": "NieRAutomataMainPage",
+      "ui_name": "NieRAutomataMainPage"
+    },
+    "time": [
+      "timer",
+      [
+        [
+          2026,
+          7,
+          16
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2026,
+          7,
+          30
+        ],
+        [
+          16,
+          0,
+          0
+        ]
+      ]
+    ],
+    "title_res_tag": "NieRAutomataCoreActivityUI_subtitle_1",
+    "type": 13
+  },
+  "50844": {
+    "config_client": {
+      "equipskin_box_link": {
+        "drop_id": 30362,
+        "drop_type": 2,
+        "list": [
+          [
+            2,
+            [
+              "scene shop",
+              {
+                "warp": "shopstreet"
+              }
+            ],
+            "军需商店兑换"
+          ],
+          [
+            2,
+            [
+              "scene level",
+              []
+            ],
+            "活动关卡掉落"
+          ]
+        ]
+      },
+      "furniture_theme_link": [
+        2,
+        [
+          "scene court yard",
+          []
+        ]
+      ],
+      "medal_link": [
+        2,
+        [
+          "TOLOVE_COLLAB_BACKHILL"
+        ]
+      ]
+    },
+    "config_data": [],
+    "config_id": 0,
+    "id": 50844,
+    "is_show": 5,
+    "login_pop": 0,
+    "mark": 20260716,
+    "page_core": "NieRAutomataCoreActivityUI",
+    "page_info": {
+      "class_name": "NieRAutomataAwardPage",
+      "ui_name": "NieRAutomataAwardPage"
+    },
+    "time": [
+      "timer",
+      [
+        [
+          2026,
+          7,
+          16
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2026,
+          7,
+          30
+        ],
+        [
+          16,
+          0,
+          0
+        ]
+      ]
+    ],
+    "title_res_tag": "NieRAutomataCoreActivityUI_subtitle_5",
+    "type": 103
+  },
+  "50845": {
+    "config_client": {
+      "task": [
+        27320,
+        27321,
+        27322
+      ]
+    },
+    "config_data": [
+      4001,
+      4002,
+      4003
+    ],
+    "config_id": 0,
+    "id": 50845,
+    "is_show": 4,
+    "login_pop": 0,
+    "mark": 20260716,
+    "page_core": "NieRAutomataCoreActivityUI",
+    "page_info": {
+      "class_name": "NieRAutomataStagePage",
+      "ui_name": "NieRAutomataStagePage"
+    },
+    "time": [
+      "timer",
+      [
+        [
+          2026,
+          7,
+          16
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2026,
+          7,
+          30
+        ],
+        [
+          16,
+          0,
+          0
+        ]
+      ]
+    ],
+    "title_res_tag": "NieRAutomataCoreActivityUI_subtitle_4",
+    "type": 111
+  },
+  "50846": {
+    "config_client": {
+      "story": [
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+          "ZIDONGBUBINGRENXINGZHILV2"
+        ]
+      ],
+      "subType": 1,
+      "text_block": [
+        [
+          "nier_a2_text_block_day1"
+        ],
+        [
+          "nier_a2_text_block_day2"
+        ],
+        [
+          "nier_a2_text_block_day3"
+        ],
+        [
+          "nier_a2_text_block_day4"
+        ],
+        [
+          "nier_a2_text_block_day5"
+        ],
+        [
+          "nier_a2_text_block_day6"
+        ],
+        [
+          "nier_a2_text_block_day7"
+        ],
+        [
+          "nier_a2_text_block_day_fin"
+        ]
+      ],
+      "typewriterSpeed": 0.03,
+      "unlock_task": [
+        [
+          27306,
+          27307
+        ],
+        [
+          27308,
+          27309
+        ],
+        [
+          27310,
+          27311
+        ],
+        [
+          27312,
+          27313
+        ],
+        [
+          27314,
+          27315
+        ],
+        [
+          27316,
+          27317
+        ],
+        [
+          27318,
+          27319
+        ]
+      ]
+    },
+    "config_data": [
+      [
+        27306,
+        27307,
+        27308,
+        27309,
+        27310,
+        27311,
+        27312,
+        27313,
+        27314,
+        27315,
+        27316,
+        27317,
+        27318,
+        27319
+      ]
+    ],
+    "config_id": 3,
+    "id": 50846,
+    "is_show": 2,
+    "login_pop": 0,
+    "mark": 20260716,
+    "page_core": "NieRAutomataCoreActivityUI",
+    "page_info": {
+      "class_name": "NieRAutomataOmenPage",
+      "ui_name": "NieRAutomataOmenPage"
+    },
+    "time": [
+      "timer",
+      [
+        [
+          2026,
+          7,
+          16
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2026,
+          7,
+          30
+        ],
+        [
+          16,
+          0,
+          0
+        ]
+      ]
+    ],
+    "title_res_tag": "NieRAutomataCoreActivityUI_subtitle_2",
+    "type": 18
+  },
+  "50847": {
+    "config_client": "",
+    "config_data": [
+      27320,
+      27321,
+      27322
+    ],
+    "config_id": 0,
+    "id": 50847,
+    "is_show": 0,
+    "login_pop": 0,
+    "mark": 20260716,
+    "page_core": "",
+    "page_info": "",
+    "time": [
+      "timer",
+      [
+        [
+          2026,
+          7,
+          16
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2026,
+          7,
+          30
+        ],
+        [
+          16,
+          0,
+          0
+        ]
+      ]
+    ],
+    "title_res_tag": "",
+    "type": 13
+  },
   "51001": {
     "config_client": {
       "story": [
@@ -52215,6 +52696,237 @@
     "title_res_tag": "jizoupolaris",
     "type": 57
   },
+  "970000": {
+    "config_client": {
+      "itemID": 970001,
+      "taskActID": 970001
+    },
+    "config_data": "",
+    "config_id": 0,
+    "id": 970000,
+    "is_show": 4,
+    "login_pop": 0,
+    "mark": 20260716,
+    "page_core": "AuctionGameCoreActivityUI",
+    "page_info": "",
+    "time": [
+      "timer",
+      [
+        [
+          2026,
+          7,
+          16
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2026,
+          8,
+          6
+        ],
+        [
+          16,
+          0,
+          0
+        ]
+      ]
+    ],
+    "title_res_tag": "",
+    "type": 136
+  },
+  "970001": {
+    "config_client": "",
+    "config_data": [
+      100000,
+      100001,
+      100002,
+      100003,
+      100004,
+      100005,
+      100006,
+      100007,
+      100008,
+      100009,
+      100010,
+      100011,
+      100012,
+      100013,
+      100014,
+      100015,
+      100016,
+      100017,
+      100018,
+      100019,
+      100020,
+      100021,
+      100022,
+      100023,
+      100024,
+      100025,
+      100026,
+      100027,
+      100028,
+      100029,
+      100030,
+      100031,
+      100032,
+      100033,
+      100034,
+      100035,
+      100036,
+      100037,
+      100038,
+      100039,
+      100040,
+      100041,
+      100042,
+      100043,
+      100044
+    ],
+    "config_id": 0,
+    "id": 970001,
+    "is_show": 3,
+    "login_pop": 0,
+    "mark": 20260716,
+    "page_core": "AuctionGameCoreActivityUI",
+    "page_info": "",
+    "time": [
+      "timer",
+      [
+        [
+          2026,
+          7,
+          16
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2026,
+          8,
+          6
+        ],
+        [
+          16,
+          0,
+          0
+        ]
+      ]
+    ],
+    "title_res_tag": "",
+    "type": 13
+  },
+  "970002": {
+    "config_client": "",
+    "config_data": [
+      [
+        100101,
+        100102,
+        100103,
+        100104,
+        100105,
+        100106,
+        100107
+      ]
+    ],
+    "config_id": 3,
+    "id": 970002,
+    "is_show": 1,
+    "login_pop": 0,
+    "mark": 20260716,
+    "page_core": "AuctionGameCoreActivityUI",
+    "page_info": {
+      "class_name": "AuctionGameLoginPage",
+      "ui_name": "AuctionGameLoginPage"
+    },
+    "time": [
+      "timer",
+      [
+        [
+          2026,
+          7,
+          16
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2026,
+          8,
+          12
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
+    "title_res_tag": "auction_tab_text_1",
+    "type": 18
+  },
+  "970003": {
+    "config_client": {
+      "highValueItemSort": [
+        7,
+        12,
+        13
+      ]
+    },
+    "config_data": [],
+    "config_id": 970003,
+    "id": 970003,
+    "is_show": 2,
+    "login_pop": 0,
+    "mark": 20260716,
+    "page_core": "AuctionGameCoreActivityUI",
+    "page_info": {
+      "class_name": "AuctionGamePtPage",
+      "ui_name": "AuctionGamePtPage"
+    },
+    "time": [
+      "timer",
+      [
+        [
+          2026,
+          7,
+          16
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2026,
+          8,
+          12
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
+    "title_res_tag": "auction_tab_text_2",
+    "type": 74
+  },
   "980001": {
     "config_client": "",
     "config_data": [
@@ -54058,6 +54770,12 @@
     50833,
     50834,
     50835,
+    50840,
+    50841,
+    50844,
+    50845,
+    50846,
+    50847,
     50838,
     50598,
     50599,
@@ -54176,6 +54894,11 @@
     10129,
     10130,
     10138,
+    30896,
+    970000,
+    970001,
+    970002,
+    970003,
     50000,
     50001,
     50002,
@@ -54947,6 +55670,8 @@
       50831,
       50834,
       50835,
+      50841,
+      50847,
       50838,
       50598,
       50603,
@@ -54967,6 +55692,7 @@
       51048,
       51049,
       10138,
+      970001,
       50005,
       50011,
       50017,
@@ -55308,6 +56034,7 @@
       6020,
       6021,
       6023,
+      50846,
       50610,
       50630,
       51001,
@@ -55315,6 +56042,7 @@
       51011,
       51041,
       7506,
+      970002,
       50000,
       50032,
       50033,
@@ -55575,6 +56303,7 @@
       5579,
       5957,
       50618,
+      30896,
       50113
     ],
     "56": [
@@ -55821,12 +56550,14 @@
       50806,
       50821,
       50833,
+      50840,
       50604,
       50621,
       50652,
       51021,
       51013,
       51031,
+      970003,
       50006,
       50015,
       50049,
@@ -55991,6 +56722,7 @@
       5690,
       5988,
       6032,
+      50844,
       50064,
       50066,
       50155,
@@ -56028,6 +56760,7 @@
     "111": [
       5260,
       5989,
+      50845,
       50371
     ],
     "112": [
@@ -56109,6 +56842,9 @@
     ],
     "135": [
       50434
+    ],
+    "136": [
+      970000
     ],
     "140": [
       50602

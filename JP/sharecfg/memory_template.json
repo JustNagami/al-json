@@ -75261,6 +75261,60 @@
     ],
     "year": 0
   },
+  "5261": {
+    "condition": "イベントを開始する",
+    "icon": "memory_zidongbubingrenxingzhilv",
+    "id": 5261,
+    "is_open": 0,
+    "mask": "bg/bg_memory",
+    "number": 0,
+    "ship_group": 0,
+    "story": "ZIDONGBUBINGRENXINGZHILV1",
+    "subtitle": "",
+    "task": 0,
+    "title": "プロローグ",
+    "type": 1,
+    "unlock_pre": [
+      "ZIDONGBUBINGRENXINGZHILV1"
+    ],
+    "year": 0
+  },
+  "5262": {
+    "condition": "「A2の旅」をクリア",
+    "icon": "memory_zidongbubingrenxingzhilv",
+    "id": 5262,
+    "is_open": 0,
+    "mask": "bg/bg_memory",
+    "number": 0,
+    "ship_group": 0,
+    "story": "ZIDONGBUBINGRENXINGZHILV2",
+    "subtitle": "",
+    "task": 0,
+    "title": "NODE-A",
+    "type": 1,
+    "unlock_pre": [
+      "ZIDONGBUBINGRENXINGZHILV2"
+    ],
+    "year": 0
+  },
+  "5263": {
+    "condition": "「2Bの旅」をクリア",
+    "icon": "memory_zidongbubingrenxingzhilv",
+    "id": 5263,
+    "is_open": 0,
+    "mask": "bg/bg_memory",
+    "number": 0,
+    "ship_group": 0,
+    "story": "ZIDONGBUBINGRENXINGZHILV3",
+    "subtitle": "",
+    "task": 0,
+    "title": "NODE-B",
+    "type": 1,
+    "unlock_pre": [
+      "ZIDONGBUBINGRENXINGZHILV3"
+    ],
+    "year": 0
+  },
   "10000": {
     "condition": "「努力、希望と計画」開始",
     "icon": "activity",
@@ -84773,6 +84827,9 @@
     5235,
     5236,
     5237,
+    5261,
+    5262,
+    5263,
     5251,
     5252,
     5253,
