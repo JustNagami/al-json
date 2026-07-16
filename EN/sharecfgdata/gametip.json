@@ -570,6 +570,21 @@
       }
     }
   },
+  "NieRAutomataCoreActivityUI_subtitle_1": {
+    "tip": "An Android's Journey"
+  },
+  "NieRAutomataCoreActivityUI_subtitle_2": {
+    "tip": "A2's Journey"
+  },
+  "NieRAutomataCoreActivityUI_subtitle_3": {
+    "tip": "2B's Journey"
+  },
+  "NieRAutomataCoreActivityUI_subtitle_4": {
+    "tip": "Event Stages"
+  },
+  "NieRAutomataCoreActivityUI_subtitle_5": {
+    "tip": "Rewards"
+  },
   "Normalbuild_URexchange_confirm": {
     "tip": "Exchange 400 points for $1?"
   },
@@ -1650,6 +1665,313 @@
   },
   "attrset_save_success": {
     "tip": "Successfully saved."
+  },
+  "auction_activity_closed": {
+    "tip": "Event Concluded"
+  },
+  "auction_activity_closed_tip": {
+    "tip": "The event has ended."
+  },
+  "auction_assistant": {
+    "tip": "Character"
+  },
+  "auction_bid_keyboard_clear": {
+    "tip": "Clear"
+  },
+  "auction_block_emoji": {
+    "tip": "Hide Emojis"
+  },
+  "auction_cancel": {
+    "tip": "Cancel"
+  },
+  "auction_collect_unlock": {
+    "tip": "Unlocked:"
+  },
+  "auction_collection_price_title": {
+    "tip": "Total Value:"
+  },
+  "auction_collection_title": {
+    "tip": "Item Logbook"
+  },
+  "auction_collection_type_title": {
+    "tip": "Item Types:"
+  },
+  "auction_confirm": {
+    "tip": "Confirm"
+  },
+  "auction_currency_noenough": {
+    "tip": "Insufficient Bid Coins."
+  },
+  "auction_currency_title": {
+    "tip": "Coins Held:"
+  },
+  "auction_forbidden_tip": {
+    "tip": "Matchmaking available in $1."
+  },
+  "auction_game_bid_confirm": {
+    "tip": "Would you like to place a bid of $1?"
+  },
+  "auction_game_bid_phase": {
+    "tip": "Begin Bidding"
+  },
+  "auction_game_cannot_forfeit": {
+    "tip": "You have already placed your bid and are unable to withdraw."
+  },
+  "auction_game_exceeds_max_value": {
+    "tip": "You cannot hold any more Bid Coins."
+  },
+  "auction_game_forfeit_tip": {
+    "tip": "If you withdraw, you will not be able to bid again for the duration of this auction. Proceed?"
+  },
+  "auction_game_kick": {
+    "tip": "The auction has ended due to extended inactivity."
+  },
+  "auction_game_match_forbidden": {
+    "tip": "Matchmaking currently unavailable."
+  },
+  "auction_game_match_warning": {
+    "tip": "If you quit the game while an auction is in progress, you will forfeit your entry fee and potential earnings."
+  },
+  "auction_game_min_bid": {
+    "tip": "You must bid a minimum amount of $1."
+  },
+  "auction_game_nobid_tip": {
+    "tip": "Bidding unsuccessful: no bids met the minimum price."
+  },
+  "auction_game_prepare": {
+    "tip": "Setting up auction..."
+  },
+  "auction_game_punishment": {
+    "tip": "Repeated instances of unsportsmanlike conduct will make you ineligible for matchmaking."
+  },
+  "auction_game_rarity_0": {
+    "tip": "All"
+  },
+  "auction_game_rarity_1": {
+    "tip": "N"
+  },
+  "auction_game_rarity_2": {
+    "tip": "R"
+  },
+  "auction_game_rarity_3": {
+    "tip": "E"
+  },
+  "auction_game_rarity_4": {
+    "tip": "SR"
+  },
+  "auction_game_rarity_5": {
+    "tip": "UR"
+  },
+  "auction_game_wait_bid_phase": {
+    "tip": "Please wait before placing your bid."
+  },
+  "auction_help": {
+    "tip": {
+      "1": {
+        "icon": {
+          "atlas": "helpbg/auction_help_1",
+          "path": ""
+        }
+      },
+      "2": {
+        "icon": {
+          "atlas": "helpbg/auction_help_2",
+          "path": ""
+        }
+      },
+      "3": {
+        "icon": {
+          "atlas": "helpbg/auction_help_3",
+          "path": ""
+        }
+      },
+      "4": {
+        "icon": {
+          "atlas": "helpbg/auction_help_4",
+          "path": ""
+        }
+      },
+      "5": {
+        "icon": {
+          "atlas": "helpbg/auction_help_5",
+          "path": ""
+        }
+      },
+      "6": {
+        "icon": {
+          "atlas": "helpbg/auction_help_6",
+          "path": ""
+        }
+      },
+      "7": {
+        "icon": {
+          "atlas": "helpbg/auction_help_7",
+          "path": ""
+        }
+      },
+      "8": {
+        "icon": {
+          "atlas": "helpbg/auction_help_8",
+          "path": ""
+        }
+      },
+      "ImageMode": true,
+      "defaultpage": 1,
+      "disableScroll": true,
+      "helpSize": {
+        "x": 1176,
+        "y": 1024
+      },
+      "pageMode": true,
+      "windowPos": {
+        "y": -70
+      },
+      "windowSize": {
+        "x": 1263,
+        "y": 873
+      }
+    }
+  },
+  "auction_highest_profit_title": {
+    "tip": "Highest Earnings:"
+  },
+  "auction_main_bid_price": {
+    "tip": "Bids Placed:"
+  },
+  "auction_main_doing": {
+    "tip": "Thinking"
+  },
+  "auction_main_done": {
+    "tip": "Done"
+  },
+  "auction_main_fail": {
+    "tip": "Failed"
+  },
+  "auction_main_handbook": {
+    "tip": "Item Logbook"
+  },
+  "auction_main_match_exit": {
+    "tip": "Would you like to cancel matchmaking?"
+  },
+  "auction_main_personal_event": {
+    "tip": "Individual Event"
+  },
+  "auction_main_pt": {
+    "tip": "Held"
+  },
+  "auction_main_public_event": {
+    "tip": "Group Event"
+  },
+  "auction_main_public_notice": {
+    "tip": "Bulletin Board"
+  },
+  "auction_main_select_event": {
+    "tip": "Choose Individual Event"
+  },
+  "auction_main_win": {
+    "tip": "Success"
+  },
+  "auction_matches_title": {
+    "tip": "Auctions Attended:"
+  },
+  "auction_matching": {
+    "tip": "Matching..."
+  },
+  "auction_not_enough_assets": {
+    "tip": "Coins Needed: $1"
+  },
+  "auction_preorder_tips": {
+    "tip": "Are you sure you'd like to place $1 coins to order items?"
+  },
+  "auction_preorder_tips_1": {
+    "tip": "Come back later to check on the order results."
+  },
+  "auction_pt_collected": {
+    "tip": "Go"
+  },
+  "auction_pt_info": {
+    "tip": "*Rewards must be collected before 8/12 23:59."
+  },
+  "auction_pt_tip": {
+    "tip": "Collected"
+  },
+  "auction_ready": {
+    "tip": "Setting up auction..."
+  },
+  "auction_relief_tip": {
+    "tip": "Your auction supplies have arrived.\nPlease make sure to collect them."
+  },
+  "auction_relief_tip_2": {
+    "tip": "When you have fewer than 500,000 Bid Coins, you are able to collect an additional 500,000 Bid Coins.\nClaims remaining today: $1/$2."
+  },
+  "auction_round_instant_buy": {
+    "tip": "Current Round Multiplier: $1"
+  },
+  "auction_settlement_dividend": {
+    "tip": "Earnings"
+  },
+  "auction_settlement_name": {
+    "tip": "Winner"
+  },
+  "auction_settlement_price": {
+    "tip": "Winning Bid"
+  },
+  "auction_settlement_quick": {
+    "tip": "Skip"
+  },
+  "auction_settlement_revenue": {
+    "tip": "Revenue"
+  },
+  "auction_settlement_session": {
+    "tip": "Auction"
+  },
+  "auction_settlement_value": {
+    "tip": "Total Value:"
+  },
+  "auction_show_common_event": {
+    "tip": "Display Group Events"
+  },
+  "auction_show_personal_event": {
+    "tip": "Display Individual Events"
+  },
+  "auction_signin_collect": {
+    "tip": "Collect All"
+  },
+  "auction_signin_goto": {
+    "tip": "Go"
+  },
+  "auction_signin_task": {
+    "tip": "Missions"
+  },
+  "auction_store_estimate": {
+    "tip": "Estimated Value Range: $1 - $2"
+  },
+  "auction_success_cnt_title": {
+    "tip": "Successful Bids:"
+  },
+  "auction_success_rate_title": {
+    "tip": "Success Rate:"
+  },
+  "auction_tab_text_1": {
+    "tip": "Top Bidder"
+  },
+  "auction_tab_text_2": {
+    "tip": "Registration"
+  },
+  "auction_task_challenge": {
+    "tip": "Challenge"
+  },
+  "auction_task_daily": {
+    "tip": "Daily"
+  },
+  "auction_ticket": {
+    "tip": "Participation Fee:"
+  },
+  "auction_total_profit_title": {
+    "tip": "Total Earnings:"
+  },
+  "auction_value": {
+    "tip": "Lot Value:"
   },
   "auto_battle_limit_tip": {
     "tip": "Clear Stage 1-3 to unlock auto combat."
@@ -17497,7 +17819,7 @@
         "info": "· You can store up to <color=#92fc63>300</color> Data Keys at a time. Any Data Keys you collect beyond this point will be <color=#92fc63>discarded</color>."
       },
       {
-        "info": "· Using 1 Data Key lets you do <color=#92fc63>1 run</color> on any archived event stage of your choosing."
+        "info": "· Use Data Keys to gain access to <color=#92fc63>1 run</color> on any archived event stage of your choosing."
       },
       {
         "info": "· You can play on any stage from a given archived event, except for EX Stages, if applicable."
@@ -20766,6 +21088,202 @@
         "info": "Event lasts between <color=#92fc63>December 21st, 2023 to January 3rd, 2023</color>.\n\n- Overview -\nThe New Year's Port campaign consists of the following:\n· New Year's Wishes\n· Operation: Patisserie II (minigame)\n· New Skins\n· Limited Construction\n\n- New Year's Wishes -\nYou receive 1 Ema every day during the campaign. You can have up to 7 of them at a time.\nYou can hang up Ema to receive fleet-wide buffs.\n\n- Operation: Patisserie II -\nYou gain 1 Minigame Point every day during the campaign. You can have up to 7 of them at a time.\nCompleting the minigame while in possession of a Minigame Point will subtract 1 point.\nRewards obtainable from this minigame include the furnitures Surprise Lights, Neon Spotlights, and Bunbun UR Vouchers that can be exchanged for the UR shipgirl Laffey II.\n\n- New Skins -\nThis takes you to the skins shop.\n\n- Limited Construction -\nThis takes you to the build screen.\n"
       }
     ]
+  },
+  "nier_2b_text_block_day1": {
+    "tip": [
+      {
+        "info": "2B finds herself standing at the water's edge. The sea and sky, close enough to touch, give off a sickly gray-blue hue, as if hinting at the dangers they conceal."
+      },
+      {
+        "info": "//:AREA IDENTIFICATION: NODE-B-1\n//:STAGE IDENTIFICATION: 1-7\n//:ACCESS CODE: MIRRORSEA\n<b>2B</b>: My pod's not here... Is this... the ocean?"
+      }
+    ]
+  },
+  "nier_2b_text_block_day2": {
+    "tip": [
+      {
+        "info": "As expected, enemies begin to swarm forth one after the next. 2B takes note of these unfamiliar new enemy types while carefully maneuvering and fending off their attacks."
+      },
+      {
+        "info": "//:AREA IDENTIFICATION: NODE-B-2\n//:STAGE IDENTIFICATION: 2-7\n//:ACCESS CODE: EXECUTOR\n<b>2B</b>: I don't think those enemies I just fought were machine lifeforms at all..."
+      }
+    ]
+  },
+  "nier_2b_text_block_day3": {
+    "tip": [
+      {
+        "info": "At the edge of a sandy beach looms a large door, materializing out of nowhere. Beyond the door is a sealed-off space. What appears to be combat gear of an unknown model number sits in the middle of the room, as if quietly waiting."
+      },
+      {
+        "info": "//:AREA IDENTIFICATION: NODE-B-3\n//:STAGE IDENTIFICATION: 3-7\n//:ACCESS CODE: ▇▇▇▇\n//ACCESS CODE CHANGED: UPGRADE\n<b>2B</b>: \"\"Rigging\"\"? This equipment... seems specialized for naval use. It does not appear to pose any danger to me."
+      }
+    ]
+  },
+  "nier_2b_text_block_day4": {
+    "tip": [
+      {
+        "info": "'As she dons her newly-acquired equipment, a bookshelf appears in the room as if in response, together with an imposing half-ajar doorway."
+      },
+      {
+        "info": "//:AREA IDENTIFICATION: NODE-B-4\n//:STAGE IDENTIFICATION: 4-7\n//:ACCESS CODE: ▇▇▇▇\n://ACCESS CODE CHANGED: SKILLBOOK\n<b>2B</b>: Offense, defense, and support... Skill books, huh? That makes sense. These must provide instructions for how to master this equipment."
+      }
+    ]
+  },
+  "nier_2b_text_block_day5": {
+    "tip": [
+      {
+        "info": "The room she just left stretches out into another corridor, which then leads to another room. Beyond that, there are more corridors, then more rooms, as if never ending."
+      },
+      {
+        "info": "//:AREA IDENTIFICATION: NODE-B-5\n//:STAGE IDENTIFICATION: 5-7\n//:ACCESS CODE: VIRTUALTOWER\n<b>2B</b>: ...I assume this is the interior of some megastructure."
+      }
+    ]
+  },
+  "nier_2b_text_block_day6": {
+    "tip": [
+      {
+        "info": "After pushing through set after set of visually-indistinguishable doors, the gray-blue sea and skies finally come into view again."
+      },
+      {
+        "info": "//:AREA IDENTIFICATION: NODE-B-6\n//:STAGE IDENTIFICATION: 6-7\n//:ACCESS CODE: EXPERIMENTERSYSTEM\n<b>2B</b>: The ocean again, huh... Extrapolating from previous trends, more enemies are likely to appear."
+      }
+    ]
+  },
+  "nier_2b_text_block_day7": {
+    "tip": [
+      {
+        "info": "After the battle ends, 2B steps through another doorway into a room full of supplies. Inside is another open door, leading straight to a place with raging, roiling waves."
+      },
+      {
+        "info": "//:AREA IDENTIFICATION: NODE-B-2\n//:STAGE IDENTIFICATION: 7-7\n//:ACCESS CODE: ▇▇▇▇\n//ACCESS CODE CHANGED: EXIT\n<b>2B</b>: The exit, huh... It might be a trap, but escaping from this place takes top priority."
+      }
+    ]
+  },
+  "nier_2b_text_block_day_fin": {
+    "tip": [
+      {
+        "info": ""
+      },
+      {
+        "info": "//:HAPPY ENDING"
+      }
+    ]
+  },
+  "nier_a2_item_got": {
+    "tip": "Collected"
+  },
+  "nier_a2_mission_day": {
+    "tip": "DAY $1"
+  },
+  "nier_a2_mission_detail": {
+    "tip": "Details"
+  },
+  "nier_a2_mission_progress": {
+    "tip": "Current Progress"
+  },
+  "nier_a2_mission_unlock_desc": {
+    "tip": "Unlocks $1/$2"
+  },
+  "nier_a2_text_block_day1": {
+    "tip": [
+      {
+        "info": "A2 suddenly finds herself walking alone down a metallic corridor. The corridor seems to stretch on endlessly, towering buildings lining the skies of the world through the windows."
+      },
+      {
+        "info": "//:AREA IDENTIFICATION: NODE-A-1\n//:STAGE IDENTIFICATION: 1-7\n//:ACCESS CODE: D.O.S.\n<b>A2</b>: A trap? When did this happen...?"
+      }
+    ]
+  },
+  "nier_a2_text_block_day2": {
+    "tip": [
+      {
+        "info": "Somehow, A2 manages to reach a door at the end of the corridor. She examines the tightly-shut door and begins to search in her database for the \"\"key\"\" needed to proceed."
+      },
+      {
+        "info": "//:AREA IDENTIFICATION: NODE-A-2\n//:STAGE IDENTIFICATION: 2-7\n//:ACCESS CODE: ▇▇▇▇\n//ACCESS CODE CHANGED: HELLO\n<b>A2</b>: Might be easier to just bust this door down... Hmm? The access code just changed...?"
+      }
+    ]
+  },
+  "nier_a2_text_block_day3": {
+    "tip": [
+      {
+        "info": "The moment the door opens, the entire structure of the corridor begins to shift. In a room that had not been there a moment ago, A2 finds a map."
+      },
+      {
+        "info": "//:AREA IDENTIFICATION: NODE-A-3\n//:STAGE IDENTIFICATION: 3-7\n//:ACCESS CODE: ▇▇▇▇\n//ACCESS CODE CHANGED: REVISEDMAP\n<b>A2</b>: At a glance, this map seems pretty accurate... Does that mean an external force is trying to assist me? But who?"
+      }
+    ]
+  },
+  "nier_a2_text_block_day4": {
+    "tip": [
+      {
+        "info": "Using the map as a guide, A2 effortlessly navigates her way through the intricate network of corridors sprawling like blood vessels. In a room marked as a storage area for important supplies, she finds equipment she's never seen before."
+      },
+      {
+        "info": "//:AREA IDENTIFICATION: NODE-A-4\n//:STAGE IDENTIFICATION: 4-7\n//:ACCESS CODE: ▇▇▇▇\n//ACCESS CODE CHANGED: UPGRADE\n<b>A2</b>: This gear... Is it custom-made?"
+      }
+    ]
+  },
+  "nier_a2_text_block_day5": {
+    "tip": [
+      {
+        "info": "A2 notices that the map would update each time she reaches a special area. She can tell that by something specific: whether the access code has a meaning."
+      },
+      {
+        "info": "//:AREA IDENTIFICATION: NODE-A-5\n//:STAGE IDENTIFICATION: 5-7\n//:ACCESS CODE: DREAMWEAVER\n<b>A2</b>: ...Androids don't dream."
+      }
+    ]
+  },
+  "nier_a2_text_block_day6": {
+    "tip": [
+      {
+        "info": "Corridors lead to rooms, and rooms lead to more corridors. In this seemingly endless loop, only the changing access codes show that she's reached another area."
+      },
+      {
+        "info": "//:AREA IDENTIFICATION: NODE-A-6\n//:STAGE IDENTIFICATION: 6-7\n//:ACCESS CODE: UNKNOWN_UNDEFINED\n<b>A2</b>: ...Looks like even the access code is giving up on me."
+      }
+    ]
+  },
+  "nier_a2_text_block_day7": {
+    "tip": [
+      {
+        "info": "Just as A2 is beginning to lose patience with the map and considering abandoning the thing altogether, the room indicating an exit finally appears before her."
+      },
+      {
+        "info": "//:AREA IDENTIFICATION: NODE-A-7\n//:STAGE IDENTIFICATION: 7-7\n//:ACCESS CODE: ▇▇▇▇\n//ACCESS CODE CHANGED: EXIT\n<b>A2</b>: Am I finally out of this place? Appreciate the help. Now then, let's see what's happened to the outside world."
+      }
+    ]
+  },
+  "nier_a2_text_block_day_fin": {
+    "tip": [
+      {
+        "info": ""
+      },
+      {
+        "info": "//:HAPPY ENDING"
+      }
+    ]
+  },
+  "nier_award_char": {
+    "tip": "Characters"
+  },
+  "nier_award_equip_skin": {
+    "tip": "Gear Skins"
+  },
+  "nier_award_furniture": {
+    "tip": "Furniture"
+  },
+  "nier_award_sp_equip": {
+    "tip": "Augments"
+  },
+  "nier_core_award_check": {
+    "tip": "Check Rewards"
+  },
+  "nier_core_countdown": {
+    "tip": "Time Remaining: $1 d $2 hr"
+  },
+  "nier_core_task_desc": {
+    "tip": "Defeat an enemy"
   },
   "nine_choose_one": {
     "tip": "Your Invitation can only be used once.\nWould you like to invite <color=#92fc63>$1</color>?\nIf so, <color=#92fc63>$1</color> will join your fleet and you will receive a commemorative item. "
@@ -27874,6 +28392,9 @@
   },
   "word_shipNation_mot": {
     "tip": "Tempesta"
+  },
+  "word_shipNation_nierautomata": {
+    "tip": "NieR:Automata"
   },
   "word_shipNation_np": {
     "tip": "Neptune"

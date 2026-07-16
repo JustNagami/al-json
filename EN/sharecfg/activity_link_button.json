@@ -461,6 +461,34 @@
     ],
     "type": 0
   },
+  "122": {
+    "group_id": 1,
+    "id": 122,
+    "name": "event_core",
+    "order": 1,
+    "param": "NieRAutomataCoreActivityUI",
+    "pic": "event_core3",
+    "text_pic": "text_event_core3",
+    "time": [
+      "default",
+      50841
+    ],
+    "type": 16
+  },
+  "131": {
+    "group_id": 1,
+    "id": 131,
+    "name": "event_core_2",
+    "order": 1,
+    "param": "AuctionGameCoreActivityUI",
+    "pic": "event_auction",
+    "text_pic": "text_event_auction",
+    "time": [
+      "default",
+      970002
+    ],
+    "type": 16
+  },
   "all": [
     1,
     2,
@@ -494,7 +522,9 @@
     115,
     117,
     116,
-    121
+    121,
+    122,
+    131
   ],
   "get_id_list_by_name": {
     "event_Atelier": [
@@ -524,12 +554,14 @@
       109,
       114,
       117,
-      116
+      116,
+      122
     ],
     "event_core_2": [
       110,
       113,
-      115
+      115,
+      131
     ],
     "event_dreamland": [
       103
