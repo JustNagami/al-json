@@ -10174,6 +10174,54 @@
     "themeId": 0,
     "type": 7
   },
+  "342": {
+    "advice": 0,
+    "belong": 1,
+    "can_rotate": 0,
+    "can_trigger": [
+      1
+    ],
+    "canputon": 0,
+    "canputonGrid": [],
+    "comfortable": 0,
+    "count": 1,
+    "deblocking": 1,
+    "describe": "さあ早く横になって！次のホラー映画の主役は君だ！",
+    "dir": 0,
+    "dorm_id": 0,
+    "effect": "",
+    "gain_by": "怪談実録白夜ヴィラより脱出せよ！",
+    "icon": "shoushutaixunzhangicon",
+    "id": 342,
+    "interAction_group": [],
+    "is_3d_obj": 0,
+    "is_get_time_note": 1,
+    "level": 1,
+    "name": "白夜ヴィラ手術台",
+    "offset": [],
+    "picture": "",
+    "rarity": 5,
+    "size": [
+      3,
+      3
+    ],
+    "spine": [
+      [
+        "shoushutaixunzhang",
+        "normal",
+        [
+          "action",
+          false
+        ]
+      ]
+    ],
+    "spine_action_replace": "",
+    "spine_combine_action_replace": "",
+    "spine_extra": "",
+    "tag": 8,
+    "themeId": 0,
+    "type": 7
+  },
   "1001": {
     "advice": 0,
     "belong": 0,
@@ -164703,6 +164751,1144 @@
     "themeId": 140,
     "type": 2
   },
+  "341001": {
+    "advice": 0,
+    "belong": 0,
+    "can_rotate": 0,
+    "can_trigger": [
+      0
+    ],
+    "canputon": 0,
+    "canputonGrid": [],
+    "comfortable": 4,
+    "count": 1,
+    "deblocking": 1,
+    "describe": "ここはアバドン・ホスタイル。寂れた病室と古びた廊下を探索しよう",
+    "dir": 0,
+    "dorm_id": 0,
+    "effect": "",
+    "gain_by": "",
+    "icon": "dibanyi3icon",
+    "id": 341001,
+    "interAction_group": [],
+    "is_3d_obj": 0,
+    "is_get_time_note": 0,
+    "level": 1,
+    "name": "廃病院の床",
+    "offset": [],
+    "picture": "yi3/dibanyi3",
+    "rarity": 4,
+    "size": "",
+    "spine_action_replace": "",
+    "spine_combine_action_replace": "",
+    "spine_extra": "",
+    "tag": 4,
+    "themeId": 141,
+    "type": 4
+  },
+  "341002": {
+    "advice": 0,
+    "belong": 0,
+    "can_rotate": 0,
+    "can_trigger": [
+      0
+    ],
+    "canputon": 0,
+    "canputonGrid": [],
+    "comfortable": 4,
+    "count": 1,
+    "deblocking": 1,
+    "describe": "ここはアバドン・ホスタイル。寂れた病室と古びた廊下を探索しよう",
+    "dir": 0,
+    "dorm_id": 0,
+    "effect": "",
+    "gain_by": "",
+    "icon": "qiangbiyi3icon",
+    "id": 341002,
+    "interAction_group": [],
+    "is_3d_obj": 0,
+    "is_get_time_note": 0,
+    "level": 5,
+    "name": "廃病院の壁",
+    "offset": [],
+    "picture": "yi3/qiangbiyi3",
+    "rarity": 4,
+    "size": "",
+    "spine_action_replace": "",
+    "spine_combine_action_replace": "",
+    "spine_extra": "",
+    "tag": 3,
+    "themeId": 141,
+    "type": 1
+  },
+  "341101": {
+    "advice": 0,
+    "belong": 1,
+    "can_rotate": 0,
+    "can_trigger": [
+      0
+    ],
+    "canputon": 0,
+    "canputonGrid": [],
+    "comfortable": 3,
+    "count": 1,
+    "deblocking": 1,
+    "describe": "一度寝ましょう。目が覚めた後は何もかもうまくいくから",
+    "dir": 0,
+    "dorm_id": 0,
+    "effect": "",
+    "gain_by": "",
+    "icon": "bingchuangyi3icon",
+    "id": 341101,
+    "interAction": [
+      [
+        "sleep",
+        [
+          18.1,
+          27.5
+        ],
+        [
+          1,
+          1
+        ]
+      ]
+    ],
+    "interAction_group": [],
+    "is_3d_obj": 0,
+    "is_get_time_note": 0,
+    "level": 1,
+    "name": "廃病院の病床",
+    "offset": [],
+    "picture": "yi3/bingchuangyi3",
+    "rarity": 3,
+    "size": [
+      5,
+      3
+    ],
+    "spine_action_replace": "",
+    "spine_combine_action_replace": "",
+    "spine_extra": "",
+    "tag": 1,
+    "themeId": 141,
+    "type": 2
+  },
+  "341102": {
+    "advice": 0,
+    "belong": 1,
+    "can_rotate": 0,
+    "can_trigger": [
+      0
+    ],
+    "canputon": 0,
+    "canputonGrid": [],
+    "comfortable": 2,
+    "count": 1,
+    "deblocking": 1,
+    "describe": "割れたガラスで怪我しないようにね",
+    "dir": 0,
+    "dorm_id": 0,
+    "effect": "",
+    "gain_by": "",
+    "icon": "boliguiyi3icon",
+    "id": 341102,
+    "interAction_group": [],
+    "is_3d_obj": 0,
+    "is_get_time_note": 0,
+    "level": 1,
+    "name": "廃病院のガラス棚",
+    "offset": [],
+    "picture": "",
+    "rarity": 2,
+    "size": [
+      2,
+      3
+    ],
+    "spine": [
+      [
+        "boliguiyi3",
+        "normal",
+        [
+          "action",
+          false
+        ]
+      ]
+    ],
+    "spine_action_replace": "",
+    "spine_combine_action_replace": "",
+    "spine_extra": "",
+    "tag": 1,
+    "themeId": 141,
+    "type": 2
+  },
+  "341103": {
+    "advice": 0,
+    "belong": 1,
+    "can_rotate": 0,
+    "can_trigger": [
+      0
+    ],
+    "canputon": 0,
+    "canputonGrid": [],
+    "comfortable": 2,
+    "count": 1,
+    "deblocking": 1,
+    "describe": "隔離保管されている水槽。開けると何やらまずいことが起きるかも…",
+    "dir": 0,
+    "dorm_id": 0,
+    "effect": "",
+    "gain_by": "",
+    "icon": "bolishuigangyi3icon",
+    "id": 341103,
+    "interAction_group": [],
+    "is_3d_obj": 0,
+    "is_get_time_note": 0,
+    "level": 1,
+    "name": "廃病院の水槽",
+    "offset": [],
+    "picture": "",
+    "rarity": 2,
+    "size": [
+      3,
+      2
+    ],
+    "spine": [
+      [
+        "bolishuigangyi3",
+        "normal"
+      ]
+    ],
+    "spine_action_replace": "",
+    "spine_combine_action_replace": "",
+    "spine_extra": "",
+    "tag": 1,
+    "themeId": 141,
+    "type": 2
+  },
+  "341104": {
+    "advice": 0,
+    "belong": 1,
+    "can_rotate": 0,
+    "can_trigger": [
+      0
+    ],
+    "canputon": 0,
+    "canputonGrid": [],
+    "comfortable": 3,
+    "count": 1,
+    "deblocking": 1,
+    "describe": "古びた壁が、無人の廊下に静寂な雰囲気を醸し出す",
+    "dir": 0,
+    "dorm_id": 0,
+    "effect": "",
+    "gain_by": "",
+    "icon": "changqiangyi3icon",
+    "id": 341104,
+    "interAction_group": [],
+    "is_3d_obj": 0,
+    "is_get_time_note": 0,
+    "level": 1,
+    "name": "廃病院の廊下",
+    "offset": [],
+    "picture": "",
+    "rarity": 3,
+    "size": [
+      1,
+      24
+    ],
+    "spine": [
+      [
+        "changqiangyi3",
+        "normal",
+        [
+          "action",
+          false
+        ]
+      ]
+    ],
+    "spine_action_replace": "",
+    "spine_combine_action_replace": "",
+    "spine_extra": "",
+    "tag": 1,
+    "themeId": 141,
+    "type": 2
+  },
+  "341105": {
+    "advice": 0,
+    "belong": 1,
+    "can_rotate": 0,
+    "can_trigger": [
+      0
+    ],
+    "canputon": 0,
+    "canputonGrid": [],
+    "comfortable": 2,
+    "count": 1,
+    "deblocking": 1,
+    "describe": "座る時に力をかけすぎないように",
+    "dir": 0,
+    "dorm_id": 0,
+    "effect": "",
+    "gain_by": "",
+    "icon": "changyiyi3icon",
+    "id": 341105,
+    "interAction": [
+      [
+        "sit",
+        [
+          -21.8,
+          14.3
+        ],
+        [
+          -1,
+          1
+        ]
+      ]
+    ],
+    "interAction_group": [],
+    "is_3d_obj": 0,
+    "is_get_time_note": 0,
+    "level": 1,
+    "name": "廃病院のベンチ",
+    "offset": [],
+    "picture": "yi3/changyiyi3",
+    "rarity": 2,
+    "size": [
+      2,
+      3
+    ],
+    "spine_action_replace": "",
+    "spine_combine_action_replace": "",
+    "spine_extra": "",
+    "tag": 1,
+    "themeId": 141,
+    "type": 2
+  },
+  "341106": {
+    "advice": 0,
+    "belong": 1,
+    "can_rotate": 0,
+    "can_trigger": [
+      0
+    ],
+    "canputon": 0,
+    "canputonGrid": [],
+    "comfortable": 1,
+    "count": 1,
+    "deblocking": 1,
+    "describe": "病室の標準インテリア。手元の小物を収納するのにちょうどいい",
+    "dir": 0,
+    "dorm_id": 0,
+    "effect": "",
+    "gain_by": "",
+    "icon": "chuangtouguiyi3icon",
+    "id": 341106,
+    "interAction_group": [],
+    "is_3d_obj": 0,
+    "is_get_time_note": 0,
+    "level": 1,
+    "name": "廃病院のベッド収納",
+    "offset": [],
+    "picture": "yi3/chuangtouguiyi3",
+    "rarity": 1,
+    "size": [
+      2,
+      2
+    ],
+    "spine_action_replace": "",
+    "spine_combine_action_replace": "",
+    "spine_extra": "",
+    "tag": 1,
+    "themeId": 141,
+    "type": 2
+  },
+  "341107": {
+    "advice": 0,
+    "belong": 1,
+    "can_rotate": 0,
+    "can_trigger": [
+      0
+    ],
+    "canputon": 0,
+    "canputonGrid": [],
+    "comfortable": 3,
+    "count": 1,
+    "deblocking": 1,
+    "describe": "多少酷使しても問題ない頑丈な作り。安心して運んで！",
+    "dir": 0,
+    "dorm_id": 0,
+    "effect": "",
+    "gain_by": "",
+    "icon": "danjiayi3icon",
+    "id": 341107,
+    "interAction_group": [],
+    "is_3d_obj": 0,
+    "is_get_time_note": 0,
+    "level": 1,
+    "name": "廃病院の担架",
+    "offset": [],
+    "picture": "",
+    "rarity": 3,
+    "size": [
+      3,
+      4
+    ],
+    "spine": [
+      [
+        "danjiayi3",
+        "normal"
+      ]
+    ],
+    "spine_action_replace": "",
+    "spine_combine_action_replace": "",
+    "spine_extra": "",
+    "tag": 1,
+    "themeId": 141,
+    "type": 2
+  },
+  "341108": {
+    "advice": 0,
+    "belong": 1,
+    "can_rotate": 0,
+    "can_trigger": [
+      0
+    ],
+    "canputon": 0,
+    "canputonGrid": [],
+    "comfortable": 2,
+    "count": 2,
+    "deblocking": 1,
+    "describe": "破れたカーテンでもかろうじて視線を遮られる",
+    "dir": 0,
+    "dorm_id": 0,
+    "effect": "",
+    "gain_by": "",
+    "icon": "gelianyi3icon",
+    "id": 341108,
+    "interAction_group": [],
+    "is_3d_obj": 0,
+    "is_get_time_note": 0,
+    "level": 1,
+    "name": "廃病院のカーテン",
+    "offset": [],
+    "picture": "yi3/gelianyi3",
+    "rarity": 2,
+    "size": [
+      4,
+      2
+    ],
+    "spine_action_replace": "",
+    "spine_combine_action_replace": "",
+    "spine_extra": "",
+    "tag": 1,
+    "themeId": 141,
+    "type": 2
+  },
+  "341109": {
+    "advice": 0,
+    "belong": 1,
+    "can_rotate": 0,
+    "can_trigger": [
+      0
+    ],
+    "canputon": 0,
+    "canputonGrid": [],
+    "comfortable": 2,
+    "count": 1,
+    "deblocking": 1,
+    "describe": "仕事にストイックなヘルパー饅頭。介護する相手がいなくてもすっと現れる",
+    "dir": 0,
+    "dorm_id": 0,
+    "effect": "",
+    "gain_by": "",
+    "icon": "hugongjiuyi3icon",
+    "id": 341109,
+    "interAction_group": [],
+    "is_3d_obj": 0,
+    "is_get_time_note": 0,
+    "level": 1,
+    "name": "廃病院ヘルパー饅頭",
+    "offset": [],
+    "picture": "",
+    "rarity": 2,
+    "size": [
+      2,
+      2
+    ],
+    "spine": [
+      [
+        "hugongjiuyi3",
+        "normal"
+      ]
+    ],
+    "spine_action_replace": "",
+    "spine_combine_action_replace": "",
+    "spine_extra": "",
+    "tag": 1,
+    "themeId": 141,
+    "type": 2
+  },
+  "341110": {
+    "advice": 0,
+    "belong": 1,
+    "can_rotate": 0,
+    "can_trigger": [
+      0
+    ],
+    "canputon": 0,
+    "canputonGrid": [],
+    "comfortable": 2,
+    "count": 1,
+    "deblocking": 1,
+    "describe": "いい子にしてないとお注射するピョ！",
+    "dir": 0,
+    "dorm_id": 0,
+    "effect": "",
+    "gain_by": "",
+    "icon": "hushijiuyi3icon",
+    "id": 341110,
+    "interAction_group": [],
+    "is_3d_obj": 0,
+    "is_get_time_note": 0,
+    "level": 1,
+    "name": "廃病院ナース饅頭",
+    "offset": [],
+    "picture": "",
+    "rarity": 2,
+    "size": [
+      2,
+      2
+    ],
+    "spine": [
+      [
+        "hushijiuyi3",
+        "normal",
+        [
+          "action",
+          false
+        ]
+      ]
+    ],
+    "spine_action_replace": "",
+    "spine_combine_action_replace": "",
+    "spine_extra": "",
+    "tag": 1,
+    "themeId": 141,
+    "type": 2
+  },
+  "341111": {
+    "advice": 0,
+    "belong": 1,
+    "can_rotate": 0,
+    "can_trigger": [
+      0
+    ],
+    "canputon": 0,
+    "canputonGrid": [],
+    "comfortable": 1,
+    "count": 1,
+    "deblocking": 1,
+    "describe": "20年もの年月ずっと医療廃棄物の処理に追われ、その道を極めたゴミ箱",
+    "dir": 0,
+    "dorm_id": 0,
+    "effect": "",
+    "gain_by": "",
+    "icon": "lajitongyi3icon",
+    "id": 341111,
+    "interAction_group": [],
+    "is_3d_obj": 0,
+    "is_get_time_note": 0,
+    "level": 1,
+    "name": "廃病院のゴミ箱",
+    "offset": [],
+    "picture": "yi3/lajitongyi3",
+    "rarity": 1,
+    "size": [
+      1,
+      1
+    ],
+    "spine_action_replace": "",
+    "spine_combine_action_replace": "",
+    "spine_extra": "",
+    "tag": 1,
+    "themeId": 141,
+    "type": 2
+  },
+  "341112": {
+    "advice": 0,
+    "belong": 1,
+    "can_rotate": 0,
+    "can_trigger": [
+      0
+    ],
+    "canputon": 0,
+    "canputonGrid": [],
+    "comfortable": 3,
+    "count": 1,
+    "deblocking": 1,
+    "describe": "割れた実験サンプル入りのカプセル。うっかり触れないほうがよさそうだ…",
+    "dir": 0,
+    "dorm_id": 0,
+    "effect": "",
+    "followBone": [
+      "char",
+      1
+    ],
+    "gain_by": "",
+    "icon": "peiyangminyi3icon",
+    "id": 341112,
+    "interAction_group": [],
+    "is_3d_obj": 0,
+    "is_get_time_note": 0,
+    "level": 1,
+    "name": "廃病院のカプセル",
+    "offset": [],
+    "picture": "",
+    "rarity": 3,
+    "size": [
+      4,
+      3
+    ],
+    "spine": [
+      [
+        "peiyangminyi3B",
+        "normal"
+      ],
+      [
+        "peiyangminyi3T"
+      ],
+      [
+        [
+          0,
+          0
+        ],
+        [
+          [
+            "wash"
+          ]
+        ],
+        [
+          null,
+          1
+        ],
+        [
+          1
+        ]
+      ],
+      [
+        [
+          2.4,
+          66.9
+        ],
+        [
+          154,
+          332.36
+        ],
+        "yi3/peiyangminyi3_mask"
+      ],
+      [
+        -2.3,
+        -74.3
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "spine_action_replace": "",
+    "spine_combine_action_replace": "",
+    "spine_extra": "",
+    "tag": 1,
+    "themeId": 141,
+    "type": 2
+  },
+  "341113": {
+    "advice": 0,
+    "belong": 1,
+    "can_rotate": 0,
+    "can_trigger": [
+      0
+    ],
+    "canputon": 0,
+    "canputonGrid": [],
+    "comfortable": 2,
+    "count": 1,
+    "deblocking": 1,
+    "describe": "体が沈む感触を味わってみたくない？",
+    "dir": 0,
+    "dorm_id": 0,
+    "effect": "",
+    "gain_by": "",
+    "icon": "shafayi3icon",
+    "id": 341113,
+    "interAction": [
+      [
+        "sit",
+        [
+          -27.4,
+          10
+        ],
+        [
+          -1,
+          1
+        ]
+      ]
+    ],
+    "interAction_group": [],
+    "is_3d_obj": 0,
+    "is_get_time_note": 0,
+    "level": 1,
+    "name": "廃病院のソファ",
+    "offset": [],
+    "picture": "yi3/shafayi3",
+    "rarity": 2,
+    "size": [
+      2,
+      2
+    ],
+    "spine_action_replace": "",
+    "spine_combine_action_replace": "",
+    "spine_extra": "",
+    "tag": 1,
+    "themeId": 141,
+    "type": 2
+  },
+  "341114": {
+    "advice": 0,
+    "belong": 1,
+    "can_rotate": 0,
+    "can_trigger": [
+      0
+    ],
+    "canputon": 0,
+    "canputonGrid": [],
+    "comfortable": 2,
+    "count": 1,
+    "deblocking": 1,
+    "describe": "もう「先客」がいるピョ……",
+    "dir": 0,
+    "dorm_id": 0,
+    "effect": "",
+    "gain_by": "",
+    "icon": "shounagui2yi3icon",
+    "id": 341114,
+    "interAction_group": [],
+    "is_3d_obj": 0,
+    "is_get_time_note": 0,
+    "level": 1,
+    "name": "廃病院の収納2",
+    "offset": [],
+    "picture": "yi3/shounagui2yi3",
+    "rarity": 2,
+    "size": [
+      2,
+      4
+    ],
+    "spine_action_replace": "",
+    "spine_combine_action_replace": "",
+    "spine_extra": "",
+    "tag": 1,
+    "themeId": 141,
+    "type": 2
+  },
+  "341115": {
+    "advice": 0,
+    "belong": 1,
+    "can_rotate": 0,
+    "can_trigger": [
+      0
+    ],
+    "canputon": 0,
+    "canputonGrid": [],
+    "comfortable": 1,
+    "count": 1,
+    "deblocking": 1,
+    "describe": "危ないことがあっても慌てず真っ先に収納に身を隠せ！",
+    "dir": 0,
+    "dorm_id": 0,
+    "effect": "",
+    "gain_by": "",
+    "icon": "shounaguiyi3icon",
+    "id": 341115,
+    "interAction_group": [],
+    "is_3d_obj": 0,
+    "is_get_time_note": 0,
+    "level": 1,
+    "name": "廃病院の収納1",
+    "offset": [],
+    "picture": "yi3/shounaguiyi3",
+    "rarity": 1,
+    "size": [
+      2,
+      2
+    ],
+    "spine_action_replace": "",
+    "spine_combine_action_replace": "",
+    "spine_extra": "",
+    "tag": 1,
+    "themeId": 141,
+    "type": 2
+  },
+  "341116": {
+    "advice": 0,
+    "belong": 1,
+    "can_rotate": 0,
+    "can_trigger": [
+      0
+    ],
+    "canputon": 0,
+    "canputonGrid": [],
+    "comfortable": 2,
+    "count": 1,
+    "deblocking": 1,
+    "describe": "武器にしてブンブン振り回すことも可能",
+    "dir": 0,
+    "dorm_id": 0,
+    "effect": "",
+    "gain_by": "",
+    "icon": "shuyejiayi3icon",
+    "id": 341116,
+    "interAction_group": [],
+    "is_3d_obj": 0,
+    "is_get_time_note": 0,
+    "level": 1,
+    "name": "廃病院の点滴スタンド",
+    "offset": [],
+    "picture": "yi3/shuyejiayi3",
+    "rarity": 2,
+    "size": [
+      2,
+      2
+    ],
+    "spine_action_replace": "",
+    "spine_combine_action_replace": "",
+    "spine_extra": "",
+    "tag": 1,
+    "themeId": 141,
+    "type": 2
+  },
+  "341117": {
+    "advice": 0,
+    "belong": 1,
+    "can_rotate": 0,
+    "can_trigger": [
+      0
+    ],
+    "canputon": 0,
+    "canputonGrid": [],
+    "comfortable": 2,
+    "count": 1,
+    "deblocking": 1,
+    "describe": "かるーく押せばどデカい音が響く",
+    "dir": 0,
+    "dorm_id": 0,
+    "effect": "",
+    "gain_by": "",
+    "icon": "tuicheyi3icon",
+    "id": 341117,
+    "interAction_group": [],
+    "is_3d_obj": 0,
+    "is_get_time_note": 0,
+    "level": 1,
+    "name": "廃病院のカート",
+    "offset": [],
+    "picture": "yi3/tuicheyi3",
+    "rarity": 2,
+    "size": [
+      1,
+      2
+    ],
+    "spine_action_replace": "",
+    "spine_combine_action_replace": "",
+    "spine_extra": "",
+    "tag": 1,
+    "themeId": 141,
+    "type": 2
+  },
+  "341118": {
+    "advice": 0,
+    "belong": 1,
+    "can_rotate": 0,
+    "can_trigger": [
+      0
+    ],
+    "canputon": 0,
+    "canputonGrid": [],
+    "comfortable": 2,
+    "count": 1,
+    "deblocking": 1,
+    "describe": "手を洗っといて損はない！",
+    "dir": 0,
+    "dorm_id": 0,
+    "effect": "",
+    "gain_by": "",
+    "icon": "xishouchiyi3icon",
+    "id": 341118,
+    "interAction_group": [],
+    "is_3d_obj": 0,
+    "is_get_time_note": 0,
+    "level": 1,
+    "name": "廃病院の洗面台",
+    "offset": [],
+    "picture": "",
+    "rarity": 2,
+    "size": [
+      2,
+      2
+    ],
+    "spine": [
+      [
+        "xishouchiyi3",
+        "normal",
+        [
+          "action",
+          false
+        ]
+      ]
+    ],
+    "spine_action_replace": "",
+    "spine_combine_action_replace": "",
+    "spine_extra": "",
+    "tag": 1,
+    "themeId": 141,
+    "type": 2
+  },
+  "341119": {
+    "advice": 0,
+    "belong": 1,
+    "can_rotate": 0,
+    "can_trigger": [
+      0
+    ],
+    "canputon": 0,
+    "canputonGrid": [],
+    "comfortable": 4,
+    "count": 1,
+    "deblocking": 1,
+    "describe": "しーっ、声を出さないで。しゃがめばヤツには見つからないよ",
+    "dir": 0,
+    "dorm_id": 0,
+    "effect": "",
+    "followBone": [
+      "char",
+      1
+    ],
+    "gain_by": "",
+    "icon": "qiantaiyi3icon",
+    "id": 341119,
+    "interAction_group": [],
+    "is_3d_obj": 0,
+    "is_get_time_note": 0,
+    "level": 1,
+    "name": "廃病院のカウンター",
+    "offset": [],
+    "picture": "",
+    "rarity": 4,
+    "size": [
+      6,
+      3
+    ],
+    "spine": [
+      [
+        "qiantaiyi3B",
+        "normal"
+      ],
+      [
+        "qiantaiyi3T"
+      ],
+      [
+        [
+          0,
+          0
+        ],
+        [
+          [
+            "yun"
+          ]
+        ],
+        [
+          null,
+          1
+        ],
+        [
+          1
+        ]
+      ],
+      [],
+      [
+        0,
+        0
+      ]
+    ],
+    "spine_action_replace": "",
+    "spine_combine_action_replace": "",
+    "spine_extra": "",
+    "tag": 7,
+    "themeId": 141,
+    "type": 2
+  },
+  "341301": {
+    "advice": 0,
+    "belong": 2,
+    "can_rotate": 0,
+    "can_trigger": [
+      0
+    ],
+    "canputon": 0,
+    "canputonGrid": [],
+    "comfortable": 3,
+    "count": 1,
+    "deblocking": 1,
+    "describe": "文字がよく読めないから、かえってじっくり観察したくなる……",
+    "dir": 0,
+    "dorm_id": 0,
+    "effect": "",
+    "gain_by": "",
+    "icon": "baibanyi3icon",
+    "id": 341301,
+    "interAction_group": [],
+    "is_3d_obj": 0,
+    "is_get_time_note": 0,
+    "level": 5,
+    "name": "廃病院のホワイトボード",
+    "offset": [],
+    "picture": "yi3/baibanyi3",
+    "rarity": 3,
+    "size": [
+      6,
+      0
+    ],
+    "spine_action_replace": "",
+    "spine_combine_action_replace": "",
+    "spine_extra": "",
+    "tag": 5,
+    "themeId": 141,
+    "type": 6
+  },
+  "341302": {
+    "advice": 0,
+    "belong": 2,
+    "can_rotate": 0,
+    "can_trigger": [
+      0
+    ],
+    "canputon": 0,
+    "canputonGrid": [],
+    "comfortable": 2,
+    "count": 1,
+    "deblocking": 1,
+    "describe": "怪しい光を放つウォールライト。あまり気にしないほうがよさそうだ…",
+    "dir": 0,
+    "dorm_id": 0,
+    "effect": "",
+    "gain_by": "",
+    "icon": "bidengyi3icon",
+    "id": 341302,
+    "interAction_group": [],
+    "is_3d_obj": 0,
+    "is_get_time_note": 0,
+    "level": 5,
+    "name": "廃病院のウォールライト",
+    "offset": [],
+    "picture": "",
+    "rarity": 2,
+    "size": [
+      2,
+      0
+    ],
+    "spine": [
+      [
+        "bidengyi3",
+        "normal",
+        [
+          "action",
+          true
+        ]
+      ]
+    ],
+    "spine_action_replace": "",
+    "spine_combine_action_replace": "",
+    "spine_extra": "",
+    "tag": 5,
+    "themeId": 141,
+    "type": 6
+  },
+  "341303": {
+    "advice": 0,
+    "belong": 2,
+    "can_rotate": 0,
+    "can_trigger": [
+      0
+    ],
+    "canputon": 0,
+    "canputonGrid": [],
+    "comfortable": 3,
+    "count": 2,
+    "deblocking": 1,
+    "describe": "窓を開けなくても換気できるけど、風が強いのは玉に瑕",
+    "dir": 0,
+    "dorm_id": 0,
+    "effect": "",
+    "gain_by": "",
+    "icon": "chuanghuyi3icon",
+    "id": 341303,
+    "interAction_group": [],
+    "is_3d_obj": 0,
+    "is_get_time_note": 0,
+    "level": 5,
+    "name": "廃病院の割れた窓",
+    "offset": [],
+    "picture": "yi3/chuanghuyi3",
+    "rarity": 3,
+    "size": [
+      8,
+      0
+    ],
+    "spine_action_replace": "",
+    "spine_combine_action_replace": "",
+    "spine_extra": "",
+    "tag": 5,
+    "themeId": 141,
+    "type": 6
+  },
+  "341304": {
+    "advice": 0,
+    "belong": 2,
+    "can_rotate": 0,
+    "can_trigger": [
+      0
+    ],
+    "canputon": 0,
+    "canputonGrid": [],
+    "comfortable": 3,
+    "count": 1,
+    "deblocking": 1,
+    "describe": "消しては書き直した痕跡が重なり、かつての忙しさと今の静けさが同時に存在している",
+    "dir": 0,
+    "dorm_id": 0,
+    "effect": "",
+    "followBone": "",
+    "gain_by": "",
+    "icon": "heibanyi3icon",
+    "id": 341304,
+    "interAction_group": [],
+    "is_3d_obj": 0,
+    "is_get_time_note": 0,
+    "level": 5,
+    "name": "廃病院のブラックボード",
+    "offset": [],
+    "picture": "yi3/heibanyi3",
+    "rarity": 3,
+    "size": [
+      6,
+      0
+    ],
+    "spine_action_replace": "",
+    "spine_combine_action_replace": "",
+    "spine_extra": "",
+    "tag": 5,
+    "themeId": 141,
+    "type": 6
+  },
   "all": [
     1,
     2,
@@ -164906,6 +166092,7 @@
     338,
     339,
     341,
+    342,
     100002,
     100003,
     100004,
@@ -168271,7 +169458,32 @@
     340102,
     340103,
     340104,
-    340105
+    340105,
+    341001,
+    341002,
+    341101,
+    341102,
+    341103,
+    341104,
+    341105,
+    341106,
+    341107,
+    341108,
+    341109,
+    341110,
+    341111,
+    341112,
+    341113,
+    341114,
+    341115,
+    341116,
+    341117,
+    341118,
+    341119,
+    341301,
+    341302,
+    341303,
+    341304
   ],
   "get_id_list_by_tag": [
     [
@@ -170544,7 +171756,25 @@
       340101,
       340102,
       340103,
-      340104
+      340104,
+      341101,
+      341102,
+      341103,
+      341104,
+      341105,
+      341106,
+      341107,
+      341108,
+      341109,
+      341110,
+      341111,
+      341112,
+      341113,
+      341114,
+      341115,
+      341116,
+      341117,
+      341118
     ],
     [
       1108,
@@ -170830,7 +172060,8 @@
       337002,
       338002,
       339002,
-      340002
+      340002,
+      341002
     ],
     [
       1001,
@@ -170957,7 +172188,8 @@
       337001,
       338001,
       339001,
-      340001
+      340001,
+      341001
     ],
     [
       1301,
@@ -171348,7 +172580,11 @@
       335301,
       335302,
       336301,
-      336302
+      336302,
+      341301,
+      341302,
+      341303,
+      341304
     ],
     [
       1,
@@ -171774,7 +173010,8 @@
       336115,
       338116,
       339115,
-      340105
+      340105,
+      341119
     ],
     [
       101,
@@ -171856,7 +173093,8 @@
       335,
       338,
       339,
-      341
+      341,
+      342
     ]
   ],
   "get_id_list_by_themeId": {
@@ -172061,6 +173299,7 @@
       338,
       339,
       341,
+      342,
       100002,
       100003,
       100004,
@@ -175679,6 +176918,33 @@
       340103,
       340104,
       340105
+    ],
+    "141": [
+      341001,
+      341002,
+      341101,
+      341102,
+      341103,
+      341104,
+      341105,
+      341106,
+      341107,
+      341108,
+      341109,
+      341110,
+      341111,
+      341112,
+      341113,
+      341114,
+      341115,
+      341116,
+      341117,
+      341118,
+      341119,
+      341301,
+      341302,
+      341303,
+      341304
     ]
   },
   "get_id_list_by_type": [
@@ -175808,7 +177074,8 @@
       337002,
       338002,
       339002,
-      340002
+      340002,
+      341002
     ],
     [
       120,
@@ -178070,7 +179337,26 @@
       340101,
       340103,
       340104,
-      340105
+      340105,
+      341101,
+      341102,
+      341103,
+      341104,
+      341105,
+      341106,
+      341107,
+      341108,
+      341109,
+      341110,
+      341111,
+      341112,
+      341113,
+      341114,
+      341115,
+      341116,
+      341117,
+      341118,
+      341119
     ],
     [
       1108,
@@ -178356,7 +179642,8 @@
       337001,
       338001,
       339001,
-      340001
+      340001,
+      341001
     ],
     [
       1101,
@@ -178906,7 +180193,11 @@
       335301,
       335302,
       336301,
-      336302
+      336302,
+      341301,
+      341302,
+      341303,
+      341304
     ],
     [
       1,
@@ -179084,6 +180375,7 @@
       338,
       339,
       341,
+      342,
       100002,
       100004,
       100005,

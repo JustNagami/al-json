@@ -45,7 +45,7 @@
     "text_pic": "text_event_map",
     "time": [
       "default",
-      50651
+      51071
     ],
     "type": 0
   },
@@ -435,12 +435,12 @@
     "id": 117,
     "name": "event_core",
     "order": 1,
-    "param": "GeZiURCoreActivityUI",
+    "param": "EscapeManorCoreActivityUI",
     "pic": "event_core3",
     "text_pic": "text_event_core3",
     "time": [
       "default",
-      50608
+      51071
     ],
     "type": 16
   },
@@ -461,10 +461,10 @@
   "122": {
     "group_id": 1,
     "id": 122,
-    "name": "event_core",
+    "name": "event_minigame",
     "order": 1,
     "param": "NieRAutomataCoreActivityUI",
-    "pic": "event_core3",
+    "pic": "event_minigame",
     "text_pic": "text_event_core3",
     "time": [
       "default",
@@ -550,8 +550,7 @@
     "event_core": [
       109,
       117,
-      116,
-      122
+      116
     ],
     "event_core_2": [
       110,
@@ -587,7 +586,8 @@
     ],
     "event_minigame": [
       20,
-      108
+      108,
+      122
     ],
     "event_old_act": [
       13

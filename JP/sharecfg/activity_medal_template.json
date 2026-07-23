@@ -1799,6 +1799,102 @@
     "remake_task_id": 0,
     "task_id": 21983
   },
+  "5107801": {
+    "activity_medal_desc": "キーヒヒヒ！これぞ時代を越えて語り継がれる怪談スポット！超スリル！超怖い！",
+    "activity_medal_name": "ステッカー：白夜ヴィラ",
+    "group": 51078,
+    "id": 5107801,
+    "item": 66053,
+    "medal_asset": "ActivityMedal/5107801",
+    "next_medal": 0,
+    "prefab_node": "1",
+    "remake_task_id": 0,
+    "task_id": 21989
+  },
+  "5107802": {
+    "activity_medal_desc": "今日巡回する病室の番号はどれピョ…？",
+    "activity_medal_name": "ステッカー：夜回り饅頭",
+    "group": 51078,
+    "id": 5107802,
+    "item": 66054,
+    "medal_asset": "ActivityMedal/5107802",
+    "next_medal": 0,
+    "prefab_node": "2",
+    "remake_task_id": 0,
+    "task_id": 21990
+  },
+  "5107803": {
+    "activity_medal_desc": "ここに書いてあるルールの厳守をお願い……",
+    "activity_medal_name": "ステッカー：怪談メモ",
+    "group": 51078,
+    "id": 5107803,
+    "item": 66055,
+    "medal_asset": "ActivityMedal/5107803",
+    "next_medal": 0,
+    "prefab_node": "3",
+    "remake_task_id": 0,
+    "task_id": 21991
+  },
+  "5107804": {
+    "activity_medal_desc": "病院でよく見かける医療器具……か？",
+    "activity_medal_name": "ステッカー：医療用ポールアックス",
+    "group": 51078,
+    "id": 5107804,
+    "item": 66056,
+    "medal_asset": "ActivityMedal/5107804",
+    "next_medal": 0,
+    "prefab_node": "4",
+    "remake_task_id": 0,
+    "task_id": 21992
+  },
+  "5107805": {
+    "activity_medal_desc": "一本で長生き、二本で怖いものなし！",
+    "activity_medal_name": "ステッカー：二倍お注射",
+    "group": 51078,
+    "id": 5107805,
+    "item": 66057,
+    "medal_asset": "ActivityMedal/5107805",
+    "next_medal": 0,
+    "prefab_node": "5",
+    "remake_task_id": 0,
+    "task_id": 21993
+  },
+  "5107806": {
+    "activity_medal_desc": "注意！奴らが来る！",
+    "activity_medal_name": "ステッカー：心拍感応",
+    "group": 51078,
+    "id": 5107806,
+    "item": 66058,
+    "medal_asset": "ActivityMedal/5107806",
+    "next_medal": 0,
+    "prefab_node": "6",
+    "remake_task_id": 0,
+    "task_id": 21994
+  },
+  "5107807": {
+    "activity_medal_desc": "はーい、あーんしてください。あーん",
+    "activity_medal_name": "ステッカー：デンタルライト",
+    "group": 51078,
+    "id": 5107807,
+    "item": 66059,
+    "medal_asset": "ActivityMedal/5107807",
+    "next_medal": 0,
+    "prefab_node": "7",
+    "remake_task_id": 0,
+    "task_id": 21995
+  },
+  "5107808": {
+    "activity_medal_desc": "感染者が出るまであと10、9……",
+    "activity_medal_name": "ステッカー：封鎖エリア",
+    "group": 51078,
+    "id": 5107808,
+    "item": 66060,
+    "medal_asset": "ActivityMedal/5107808",
+    "next_medal": 0,
+    "prefab_node": "8",
+    "remake_task_id": 0,
+    "task_id": 21996
+  },
   "all": [
     571101,
     571102,
@@ -1949,7 +2045,15 @@
     5065905,
     5065906,
     5065907,
-    5065908
+    5065908,
+    5107801,
+    5107802,
+    5107803,
+    5107804,
+    5107805,
+    5107806,
+    5107807,
+    5107808
   ],
   "get_id_list_by_group": {
     "5711": [
@@ -2139,6 +2243,16 @@
       5065906,
       5065907,
       5065908
+    ],
+    "51078": [
+      5107801,
+      5107802,
+      5107803,
+      5107804,
+      5107805,
+      5107806,
+      5107807,
+      5107808
     ]
   }
 }

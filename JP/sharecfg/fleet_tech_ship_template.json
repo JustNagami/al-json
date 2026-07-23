@@ -3365,6 +3365,28 @@
     "pt_level": 8,
     "pt_upgrage": 11
   },
+  "20115": {
+    "add_get_attr": 1,
+    "add_get_shiptype": [
+      1,
+      20,
+      21
+    ],
+    "add_get_value": 1,
+    "add_level_attr": 9,
+    "add_level_shiptype": [
+      1,
+      20,
+      21
+    ],
+    "add_level_value": 1,
+    "class": 20105,
+    "id": 20115,
+    "max_star": 5,
+    "pt_get": 5,
+    "pt_level": 8,
+    "pt_upgrage": 11
+  },
   "20116": {
     "add_get_attr": 1,
     "add_get_shiptype": [
@@ -4319,6 +4341,24 @@
     "pt_level": 15,
     "pt_upgrage": 20
   },
+  "20237": {
+    "add_get_attr": 4,
+    "add_get_shiptype": [
+      2
+    ],
+    "add_get_value": 1,
+    "add_level_attr": 8,
+    "add_level_shiptype": [
+      2
+    ],
+    "add_level_value": 1,
+    "class": 20209,
+    "id": 20237,
+    "max_star": 6,
+    "pt_get": 12,
+    "pt_level": 18,
+    "pt_upgrage": 24
+  },
   "20301": {
     "add_get_attr": 1,
     "add_get_shiptype": [
@@ -4538,6 +4578,28 @@
     "pt_get": 8,
     "pt_level": 12,
     "pt_upgrage": 16
+  },
+  "20314": {
+    "add_get_attr": 1,
+    "add_get_shiptype": [
+      3,
+      13,
+      18
+    ],
+    "add_get_value": 1,
+    "add_level_attr": 6,
+    "add_level_shiptype": [
+      3,
+      13,
+      18
+    ],
+    "add_level_value": 1,
+    "class": 20307,
+    "id": 20314,
+    "max_star": 6,
+    "pt_get": 14,
+    "pt_level": 21,
+    "pt_upgrage": 28
   },
   "20401": {
     "add_get_attr": 1,
@@ -15540,6 +15602,7 @@
     20112,
     20113,
     20114,
+    20115,
     20116,
     20120,
     20121,
@@ -15589,6 +15652,7 @@
     20233,
     20234,
     20235,
+    20237,
     20301,
     20302,
     20303,
@@ -15599,6 +15663,7 @@
     20308,
     20309,
     20313,
+    20314,
     20401,
     20402,
     20403,
