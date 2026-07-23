@@ -2344,6 +2344,333 @@
     ],
     "whether_singlefight": 0
   },
+  "6001": {
+    "additional_awards_display": "",
+    "boss_icon": [
+      [
+        "sali_2",
+        3
+      ]
+    ],
+    "chapter_name": "简单",
+    "collection_group_id": 104,
+    "count": 0,
+    "defeat_story": [],
+    "defeat_story_count": [],
+    "ex_count": "",
+    "expedition_id": [
+      2049101
+    ],
+    "id": 6001,
+    "limitation": [],
+    "name": "单人病房",
+    "oil": 0,
+    "pass_awards_display": [
+      [
+        1,
+        736,
+        40
+      ],
+      [
+        2,
+        200821,
+        0
+      ],
+      [
+        2,
+        59001,
+        0
+      ],
+      [
+        2,
+        54012,
+        0
+      ]
+    ],
+    "pos_x": "0",
+    "pos_y": "0",
+    "pre_chapter": 0,
+    "profiles": "最普通不过的单人病房，配有柔和的灯光与整洁的床铺，但门锁始终紧闭。",
+    "type": 1,
+    "use_oil_limit": [
+      0,
+      0
+    ],
+    "whether_singlefight": 0
+  },
+  "6002": {
+    "additional_awards_display": [
+      [
+        1,
+        736,
+        25
+      ],
+      [
+        1,
+        1,
+        0
+      ]
+    ],
+    "boss_icon": [
+      [
+        "sali_2",
+        3
+      ],
+      [
+        "gelifen_2",
+        1
+      ]
+    ],
+    "chapter_name": "普通",
+    "collection_group_id": 105,
+    "count": 0,
+    "defeat_story": [],
+    "defeat_story_count": [],
+    "ex_count": "",
+    "expedition_id": [
+      2049201,
+      2049202
+    ],
+    "id": 6002,
+    "limitation": [],
+    "name": "ICU病房",
+    "oil": 0,
+    "pass_awards_display": [
+      [
+        1,
+        736,
+        140
+      ],
+      [
+        2,
+        200822,
+        0
+      ],
+      [
+        2,
+        59001,
+        0
+      ],
+      [
+        2,
+        54017,
+        0
+      ]
+    ],
+    "pos_x": "0",
+    "pos_y": "0",
+    "pre_chapter": 6001,
+    "profiles": "重症患者专用的ICU病房，闲人止步。",
+    "type": 1,
+    "use_oil_limit": [
+      0,
+      0
+    ],
+    "whether_singlefight": 1
+  },
+  "6003": {
+    "additional_awards_display": [
+      [
+        1,
+        736,
+        60
+      ],
+      [
+        1,
+        1,
+        0
+      ]
+    ],
+    "boss_icon": [
+      [
+        "gelifen_2",
+        1
+      ],
+      [
+        "z11_3",
+        1
+      ],
+      [
+        "pulimaosi_3",
+        2
+      ]
+    ],
+    "chapter_name": "困难",
+    "collection_group_id": 106,
+    "count": 0,
+    "defeat_story": [],
+    "defeat_story_count": [],
+    "ex_count": "",
+    "expedition_id": [
+      2049301,
+      2049302,
+      2049303
+    ],
+    "id": 6003,
+    "limitation": [],
+    "name": "护士办公室",
+    "oil": 0,
+    "pass_awards_display": [
+      [
+        1,
+        736,
+        360
+      ],
+      [
+        2,
+        200823,
+        0
+      ],
+      [
+        2,
+        59001,
+        0
+      ],
+      [
+        2,
+        54017,
+        0
+      ]
+    ],
+    "pos_x": "0",
+    "pos_y": "0",
+    "pre_chapter": 6002,
+    "profiles": "护士们日常起居的地方，高度危险。",
+    "type": 1,
+    "use_oil_limit": [
+      25,
+      16
+    ],
+    "whether_singlefight": 1
+  },
+  "6004": {
+    "additional_awards_display": "",
+    "boss_icon": [
+      [
+        "z11_3",
+        1
+      ],
+      [
+        "pulimaosi_3",
+        2
+      ],
+      [
+        "gelifen_2",
+        1
+      ],
+      [
+        "gangyishawa_3",
+        24
+      ]
+    ],
+    "chapter_name": "S.P",
+    "collection_group_id": 107,
+    "count": 1,
+    "defeat_story": [],
+    "defeat_story_count": [],
+    "ex_count": "",
+    "expedition_id": [
+      2049401,
+      2049402,
+      2049403,
+      2049404
+    ],
+    "id": 6004,
+    "limitation": [],
+    "name": "地下室",
+    "oil": 0,
+    "pass_awards_display": [
+      [
+        1,
+        736,
+        800
+      ],
+      [
+        2,
+        200824,
+        0
+      ],
+      [
+        2,
+        59001,
+        0
+      ],
+      [
+        2,
+        54016,
+        0
+      ]
+    ],
+    "pos_x": "0",
+    "pos_y": "0",
+    "pre_chapter": 6003,
+    "profiles": "白夜山庄的地下区域，隐没在主建筑之下，埋藏着许多无人知晓的秘密。",
+    "type": 2,
+    "use_oil_limit": [
+      40,
+      16
+    ],
+    "whether_singlefight": 0
+  },
+  "6005": {
+    "additional_awards_display": "",
+    "boss_icon": [
+      [
+        "z11_3",
+        1
+      ],
+      [
+        "pulimaosi_3",
+        2
+      ],
+      [
+        "z11_3",
+        1
+      ],
+      [
+        "gangyishawa_3",
+        24
+      ],
+      [
+        "huali_2",
+        2
+      ]
+    ],
+    "chapter_name": "E.X",
+    "collection_group_id": 0,
+    "count": 0,
+    "defeat_story": [],
+    "defeat_story_count": [],
+    "ex_count": [
+      8000,
+      20,
+      0.2,
+      1000,
+      0.8
+    ],
+    "expedition_id": [
+      2049501,
+      2049502,
+      2049503,
+      2049504,
+      2049505
+    ],
+    "id": 6005,
+    "limitation": [],
+    "name": "停机坪",
+    "oil": 0,
+    "pass_awards_display": "",
+    "pos_x": "0",
+    "pos_y": "0",
+    "pre_chapter": 6004,
+    "profiles": "白夜山庄地处偏僻，交通闭塞，直升机成了少数能快速出入此地的方式。",
+    "type": 3,
+    "use_oil_limit": [
+      0,
+      0
+    ],
+    "whether_singlefight": 0
+  },
   "1001001": {
     "additional_awards_display": "",
     "boss_icon": [
@@ -2540,6 +2867,11 @@
     5003,
     5004,
     5005,
+    6001,
+    6002,
+    6003,
+    6004,
+    6005,
     1001001,
     1001002,
     1001003

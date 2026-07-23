@@ -28899,6 +28899,129 @@
     "usage_arg": "30382",
     "virtual_type": 0
   },
+  "30386": {
+    "combination_display": [],
+    "compose_number": 0,
+    "display": "可以获得一件随机的怪谈病区风格外观装备",
+    "display_effect": "",
+    "display_icon": [
+      [
+        9,
+        4402,
+        1
+      ],
+      [
+        9,
+        4403,
+        1
+      ],
+      [
+        9,
+        4404,
+        1
+      ],
+      [
+        9,
+        4405,
+        1
+      ],
+      [
+        9,
+        4406,
+        1
+      ],
+      [
+        9,
+        4407,
+        1
+      ],
+      [
+        9,
+        4408,
+        1
+      ],
+      [
+        9,
+        4409,
+        1
+      ],
+      [
+        9,
+        4410,
+        1
+      ],
+      [
+        9,
+        4411,
+        1
+      ],
+      [
+        9,
+        4412,
+        1
+      ],
+      [
+        9,
+        4413,
+        1
+      ],
+      [
+        9,
+        4414,
+        1
+      ],
+      [
+        9,
+        4415,
+        1
+      ],
+      [
+        9,
+        4416,
+        1
+      ],
+      [
+        9,
+        4417,
+        1
+      ],
+      [
+        9,
+        4418,
+        1
+      ],
+      [
+        9,
+        4419,
+        1
+      ]
+    ],
+    "icon": "Props/appearanceboxguaitanbingqu",
+    "id": 30386,
+    "index": [],
+    "is_world": 0,
+    "limit": [],
+    "link_id": 0,
+    "max_num": 0,
+    "name": "外观装备箱(怪谈病区)",
+    "open_directly": 1,
+    "order": 0,
+    "other_item_cost": "[]",
+    "other_resource_cost": "[]",
+    "price": [
+      1,
+      7000
+    ],
+    "rarity": 4,
+    "replace_item": 0,
+    "shiptrans_id": [],
+    "target_id": 0,
+    "time_limit": 0,
+    "type": 11,
+    "usage": "usage_drop",
+    "usage_arg": "30383",
+    "virtual_type": 0
+  },
   "30401": {
     "combination_display": [],
     "compose_number": 0,
@@ -45209,6 +45332,217 @@
       [
         9,
         4401,
+        1
+      ]
+    ],
+    "virtual_type": 0
+  },
+  "30570": {
+    "combination_display": [],
+    "compose_number": 0,
+    "display": "使用后可从「怪谈病区」主题外观装备中任意选择一种获得1个",
+    "display_effect": "",
+    "display_icon": [
+      [
+        9,
+        4402,
+        1
+      ],
+      [
+        9,
+        4403,
+        1
+      ],
+      [
+        9,
+        4404,
+        1
+      ],
+      [
+        9,
+        4405,
+        1
+      ],
+      [
+        9,
+        4406,
+        1
+      ],
+      [
+        9,
+        4407,
+        1
+      ],
+      [
+        9,
+        4408,
+        1
+      ],
+      [
+        9,
+        4409,
+        1
+      ],
+      [
+        9,
+        4410,
+        1
+      ],
+      [
+        9,
+        4411,
+        1
+      ],
+      [
+        9,
+        4412,
+        1
+      ],
+      [
+        9,
+        4413,
+        1
+      ],
+      [
+        9,
+        4414,
+        1
+      ],
+      [
+        9,
+        4415,
+        1
+      ],
+      [
+        9,
+        4416,
+        1
+      ],
+      [
+        9,
+        4417,
+        1
+      ],
+      [
+        9,
+        4418,
+        1
+      ],
+      [
+        9,
+        4419,
+        1
+      ]
+    ],
+    "icon": "Props/appearanceboxguaitanbingquzixuan",
+    "id": 30570,
+    "index": [],
+    "is_world": 0,
+    "limit": [],
+    "link_id": 0,
+    "max_num": 0,
+    "name": "定向外观装备箱(怪谈病区)",
+    "open_directly": 0,
+    "order": 0,
+    "other_item_cost": "[]",
+    "other_resource_cost": "[]",
+    "price": [],
+    "rarity": 4,
+    "replace_item": 0,
+    "shiptrans_id": [],
+    "target_id": 0,
+    "time_limit": 0,
+    "type": 13,
+    "usage": "usage_drop_appointed",
+    "usage_arg": [
+      [
+        9,
+        4402,
+        1
+      ],
+      [
+        9,
+        4403,
+        1
+      ],
+      [
+        9,
+        4404,
+        1
+      ],
+      [
+        9,
+        4405,
+        1
+      ],
+      [
+        9,
+        4406,
+        1
+      ],
+      [
+        9,
+        4407,
+        1
+      ],
+      [
+        9,
+        4408,
+        1
+      ],
+      [
+        9,
+        4409,
+        1
+      ],
+      [
+        9,
+        4410,
+        1
+      ],
+      [
+        9,
+        4411,
+        1
+      ],
+      [
+        9,
+        4412,
+        1
+      ],
+      [
+        9,
+        4413,
+        1
+      ],
+      [
+        9,
+        4414,
+        1
+      ],
+      [
+        9,
+        4415,
+        1
+      ],
+      [
+        9,
+        4416,
+        1
+      ],
+      [
+        9,
+        4417,
+        1
+      ],
+      [
+        9,
+        4418,
+        1
+      ],
+      [
+        9,
+        4419,
         1
       ]
     ],
@@ -88895,7 +89229,7 @@
   "42082": {
     "combination_display": [],
     "compose_number": 0,
-    "display": "重樱驱逐「{namecode:313}」的设计蓝图。\n<color=#92fc63>获得「{namecode:313}」后，可在「开发船坞」中用于增强「{namecode:313}」的能力。</color>",
+    "display": "重樱轻巡「{namecode:313}」的设计蓝图。\n<color=#92fc63>获得「{namecode:313}」后，可在「开发船坞」中用于增强「{namecode:313}」的能力。</color>",
     "display_effect": "",
     "display_icon": [],
     "icon": "Props/42082",
@@ -129075,6 +129409,339 @@
     ],
     "virtual_type": 0
   },
+  "68324": {
+    "combination_display": [],
+    "compose_number": 0,
+    "display": "购买后可获得<color=#92fc63FF>华丽</color>换装<color=#92fc63FF>唇齿之间</color>的钻石抵扣券等道具",
+    "display_effect": "",
+    "display_icon": [
+      [
+        2,
+        68327,
+        1
+      ],
+      [
+        2,
+        68330,
+        1
+      ]
+    ],
+    "icon": "ChargeIcon/skin_ticket_package",
+    "id": 68324,
+    "index": [],
+    "is_world": 0,
+    "limit": [],
+    "link_id": 0,
+    "max_num": 0,
+    "name": "换装抵扣礼包(唇齿之间)",
+    "open_directly": 1,
+    "order": 0,
+    "other_item_cost": "[]",
+    "other_resource_cost": "[]",
+    "price": [],
+    "rarity": 4,
+    "replace_item": 0,
+    "shiptrans_id": [],
+    "target_id": 0,
+    "time_limit": 0,
+    "type": 17,
+    "usage": "usage_drop",
+    "usage_arg": "88150",
+    "virtual_type": 0
+  },
+  "68325": {
+    "combination_display": [],
+    "compose_number": 0,
+    "display": "购买后可获得<color=#92fc63FF>普利茅斯</color>换装<color=#92fc63FF>白衣天使的全身检查</color>的钻石抵扣券等道具",
+    "display_effect": "",
+    "display_icon": [
+      [
+        2,
+        68328,
+        1
+      ],
+      [
+        2,
+        68331,
+        1
+      ]
+    ],
+    "icon": "ChargeIcon/skin_ticket_package",
+    "id": 68325,
+    "index": [],
+    "is_world": 0,
+    "limit": [],
+    "link_id": 0,
+    "max_num": 0,
+    "name": "换装抵扣礼包(白衣天使的全身检查)",
+    "open_directly": 1,
+    "order": 0,
+    "other_item_cost": "[]",
+    "other_resource_cost": "[]",
+    "price": [],
+    "rarity": 4,
+    "replace_item": 0,
+    "shiptrans_id": [],
+    "target_id": 0,
+    "time_limit": 0,
+    "type": 17,
+    "usage": "usage_drop",
+    "usage_arg": "88151",
+    "virtual_type": 0
+  },
+  "68326": {
+    "combination_display": [],
+    "compose_number": 0,
+    "display": "购买后可获得<color=#92fc63FF>冈依沙瓦</color>换装<color=#92fc63FF>真我的显影</color>的钻石抵扣券等道具",
+    "display_effect": "",
+    "display_icon": [
+      [
+        2,
+        68329,
+        1
+      ],
+      [
+        2,
+        68332,
+        1
+      ]
+    ],
+    "icon": "ChargeIcon/skin_ticket_package",
+    "id": 68326,
+    "index": [],
+    "is_world": 0,
+    "limit": [],
+    "link_id": 0,
+    "max_num": 0,
+    "name": "换装抵扣礼包(真我的显影)",
+    "open_directly": 1,
+    "order": 0,
+    "other_item_cost": "[]",
+    "other_resource_cost": "[]",
+    "price": [],
+    "rarity": 4,
+    "replace_item": 0,
+    "shiptrans_id": [],
+    "target_id": 0,
+    "time_limit": 0,
+    "type": 17,
+    "usage": "usage_drop",
+    "usage_arg": "88152",
+    "virtual_type": 0
+  },
+  "68327": {
+    "combination_display": [],
+    "compose_number": 0,
+    "display": "持有此道具时，购买<color=#92fc63FF>华丽</color>换装<color=#92fc63FF>唇齿之间</color>时可消耗此道具，并抵扣300钻石\n<color=#ff5c5c>道具有效期：自获得后～2026年7月29日 23:59，过期后此道具将消失，并自动转化为300钻石</color>",
+    "display_effect": "",
+    "display_icon": [],
+    "icon": "Props/limit_skin_300",
+    "id": 68327,
+    "index": [],
+    "is_world": 0,
+    "limit": [],
+    "link_id": 0,
+    "max_num": 0,
+    "name": "换装抵扣券(唇齿之间)",
+    "open_directly": 0,
+    "order": 1,
+    "other_item_cost": "[]",
+    "other_resource_cost": "[]",
+    "price": [
+      14,
+      300
+    ],
+    "rarity": 4,
+    "replace_item": 0,
+    "shiptrans_id": [],
+    "target_id": 0,
+    "time_limit": 1,
+    "type": 1,
+    "usage": "usage_shop_discount",
+    "usage_arg": [
+      [
+        71381
+      ],
+      300
+    ],
+    "virtual_type": 0
+  },
+  "68328": {
+    "combination_display": [],
+    "compose_number": 0,
+    "display": "持有此道具时，购买<color=#92fc63FF>普利茅斯</color>换装<color=#92fc63FF>白衣天使的全身检查</color>时可消耗此道具，并抵扣300钻石\n<color=#ff5c5c>道具有效期：自获得后～2026年7月29日 23:59，过期后此道具将消失，并自动转化为300钻石</color>",
+    "display_effect": "",
+    "display_icon": [],
+    "icon": "Props/limit_skin_300",
+    "id": 68328,
+    "index": [],
+    "is_world": 0,
+    "limit": [],
+    "link_id": 0,
+    "max_num": 0,
+    "name": "换装抵扣券(白衣天使的全身检查)",
+    "open_directly": 0,
+    "order": 1,
+    "other_item_cost": "[]",
+    "other_resource_cost": "[]",
+    "price": [
+      14,
+      300
+    ],
+    "rarity": 4,
+    "replace_item": 0,
+    "shiptrans_id": [],
+    "target_id": 0,
+    "time_limit": 1,
+    "type": 1,
+    "usage": "usage_shop_discount",
+    "usage_arg": [
+      [
+        71384
+      ],
+      300
+    ],
+    "virtual_type": 0
+  },
+  "68329": {
+    "combination_display": [],
+    "compose_number": 0,
+    "display": "持有此道具时，购买<color=#92fc63FF>冈依沙瓦</color>换装<color=#92fc63FF>真我的显影</color>时可消耗此道具，并抵扣300钻石\n<color=#ff5c5c>道具有效期：自获得后～2026年7月29日 23:59，过期后此道具将消失，并自动转化为300钻石</color>",
+    "display_effect": "",
+    "display_icon": [],
+    "icon": "Props/limit_skin_300",
+    "id": 68329,
+    "index": [],
+    "is_world": 0,
+    "limit": [],
+    "link_id": 0,
+    "max_num": 0,
+    "name": "换装抵扣券(真我的显影)",
+    "open_directly": 0,
+    "order": 1,
+    "other_item_cost": "[]",
+    "other_resource_cost": "[]",
+    "price": [
+      14,
+      300
+    ],
+    "rarity": 4,
+    "replace_item": 0,
+    "shiptrans_id": [],
+    "target_id": 0,
+    "time_limit": 1,
+    "type": 1,
+    "usage": "usage_shop_discount",
+    "usage_arg": [
+      [
+        71386
+      ],
+      300
+    ],
+    "virtual_type": 0
+  },
+  "68330": {
+    "combination_display": [],
+    "compose_number": 0,
+    "display": "使用后可前往换装体验兑换界面，界面内可以选择兑换<color=#92fc63FF>华丽</color>换装<color=#92fc63FF>唇齿之间</color>的2天换装体验资格\n<color=#ff5c5c>道具有效期：自获得后～2026年7月29日 23:59，过期后此道具将消失</color>",
+    "display_effect": "",
+    "display_icon": [],
+    "icon": "Props/limit_skinticket",
+    "id": 68330,
+    "index": [],
+    "is_world": 0,
+    "limit": [],
+    "link_id": 0,
+    "max_num": 0,
+    "name": "换装体验券(唇齿之间)",
+    "open_directly": 0,
+    "order": 1,
+    "other_item_cost": "[]",
+    "other_resource_cost": "[]",
+    "price": [
+      1,
+      0
+    ],
+    "rarity": 4,
+    "replace_item": 0,
+    "shiptrans_id": [],
+    "target_id": 0,
+    "time_limit": 1,
+    "type": 1,
+    "usage": "usage_skin_exp",
+    "usage_arg": [
+      90512
+    ],
+    "virtual_type": 0
+  },
+  "68331": {
+    "combination_display": [],
+    "compose_number": 0,
+    "display": "使用后可前往换装体验兑换界面，界面内可以选择兑换<color=#92fc63FF>普利茅斯</color>换装<color=#92fc63FF>白衣天使的全身检查</color>的2天换装体验资格\n<color=#ff5c5c>道具有效期：自获得后～2026年7月29日 23:59，过期后此道具将消失</color>",
+    "display_effect": "",
+    "display_icon": [],
+    "icon": "Props/limit_skinticket",
+    "id": 68331,
+    "index": [],
+    "is_world": 0,
+    "limit": [],
+    "link_id": 0,
+    "max_num": 0,
+    "name": "换装体验券(白衣天使的全身检查)",
+    "open_directly": 0,
+    "order": 1,
+    "other_item_cost": "[]",
+    "other_resource_cost": "[]",
+    "price": [
+      1,
+      0
+    ],
+    "rarity": 4,
+    "replace_item": 0,
+    "shiptrans_id": [],
+    "target_id": 0,
+    "time_limit": 1,
+    "type": 1,
+    "usage": "usage_skin_exp",
+    "usage_arg": [
+      90513
+    ],
+    "virtual_type": 0
+  },
+  "68332": {
+    "combination_display": [],
+    "compose_number": 0,
+    "display": "使用后可前往换装体验兑换界面，界面内可以选择兑换<color=#92fc63FF>冈依沙瓦</color>换装<color=#92fc63FF>真我的显影</color>的2天换装体验资格\n<color=#ff5c5c>道具有效期：自获得后～2026年7月29日 23:59，过期后此道具将消失</color>",
+    "display_effect": "",
+    "display_icon": [],
+    "icon": "Props/limit_skinticket",
+    "id": 68332,
+    "index": [],
+    "is_world": 0,
+    "limit": [],
+    "link_id": 0,
+    "max_num": 0,
+    "name": "换装体验券(真我的显影)",
+    "open_directly": 0,
+    "order": 1,
+    "other_item_cost": "[]",
+    "other_resource_cost": "[]",
+    "price": [
+      1,
+      0
+    ],
+    "rarity": 4,
+    "replace_item": 0,
+    "shiptrans_id": [],
+    "target_id": 0,
+    "time_limit": 1,
+    "type": 1,
+    "usage": "usage_skin_exp",
+    "usage_arg": [
+      90514
+    ],
+    "virtual_type": 0
+  },
   "69975": {
     "combination_display": [],
     "compose_number": 0,
@@ -134513,6 +135180,7 @@
     30383,
     30384,
     30385,
+    30386,
     30401,
     30402,
     30403,
@@ -134617,6 +135285,7 @@
     30567,
     30568,
     30569,
+    30570,
     30900,
     30911,
     30912,
@@ -136861,6 +137530,15 @@
     68321,
     68322,
     68323,
+    68324,
+    68325,
+    68326,
+    68327,
+    68328,
+    68329,
+    68330,
+    68331,
+    68332,
     68306,
     68307,
     68308,
@@ -138522,6 +139200,12 @@
       68321,
       68322,
       68323,
+      68327,
+      68328,
+      68329,
+      68330,
+      68331,
+      68332,
       68309,
       68310,
       68311,
@@ -139191,6 +139875,7 @@
       30383,
       30384,
       30385,
+      30386,
       30401,
       30402,
       30403,
@@ -139441,6 +140126,7 @@
       30567,
       30568,
       30569,
+      30570,
       30900,
       30911,
       30912,
@@ -139988,6 +140674,9 @@
       68315,
       68316,
       68317,
+      68324,
+      68325,
+      68326,
       68306,
       68307,
       68308,

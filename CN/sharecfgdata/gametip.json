@@ -361,6 +361,15 @@
   "DreamTourCoreActivity_subtitle_2": {
     "tip": "美梦补给站"
   },
+  "EscapeManorCoreActivity_subtitle_1": {
+    "tip": "逃离白夜山庄"
+  },
+  "EscapeManorCoreActivity_subtitle_2": {
+    "tip": "逃生补给站"
+  },
+  "EscapeManorCoreActivity_subtitle_3": {
+    "tip": "奖励汇总"
+  },
   "GeZiURCoreActivityUI_subtitle_1": {
     "tip": "圣印前的同盟"
   },
@@ -3893,7 +3902,7 @@
     "tip": "伏罗希洛夫 建造追加！"
   },
   "buildship_new_tip": {
-    "tip": "每累计建造200次可获得海上传奇舰船 阿尔萨斯(最多4次)"
+    "tip": "华丽、萨里 建造概率UP!"
   },
   "buildship_special_tip": {
     "tip": "{namecode:514}、{namecode:515} 建造追加！"
@@ -8757,6 +8766,25 @@
   "error_pray_select_ship_max": {
     "tip": "可选角色已满"
   },
+  "escape_manor_series_help": {
+    "tip": [
+      {
+        "info": "<b>活动时间：</b>\n·<color=#92fc63>7.23-8.6维护；</color>\n·活动期间开启限时活动「怪谈纪实：逃离白夜山庄！」。\n\n<b>活动说明：</b>\n·本次作战分为<color=#92fc63>【作战模式】</color>和<color=#92fc63>【剧情模式】</color>。\n·在【作战模式】中，指挥官可上阵多只队伍按照顺序分别挑战各个关卡，完成关卡内全部挑战后视为关卡通关并获得奖励。\n·同时，部分关卡可切换<color=#92fc63>「单队连战」</color>、<color=#92fc63>「多队出击」</color>两种模式：\n--「单队连战」为单只队伍挑战各个关卡。选择「单队连战」模式时，每个关卡开始前角色耐久值及各类状态均将重置。\n--「多队出击」为不同队伍挑战各个关卡。选择「多队出击」模式时，可获得额外奖励。\n\n·指挥官可以通过作战模式获取「白夜山庄纪实」，累计收集「怪谈纪实」可获得角色<color=#92fc63>「格里芬」</color>、装备<color=#92fc63>「试作型双联装234mm主炮」</color>在内的大量奖励。\n\n·完成【剧情模式】的全部内容后，可获得限定纪念外观<color=#92fc63>「假牙炮弹」</color>。"
+      }
+    ]
+  },
+  "escape_series_pt": {
+    "tip": "累计：$1"
+  },
+  "escape_series_rank": {
+    "tip": "排行榜"
+  },
+  "escape_series_task": {
+    "tip": "活动任务"
+  },
+  "escape_story_reward_count": {
+    "tip": "通关全部剧情后可以获得限定纪念外观"
+  },
   "escort_less_count_to_combat": {
     "tip": "今日挑战次数不足，无法进入"
   },
@@ -13505,7 +13533,7 @@
         "info": "纪念手册："
       },
       {
-        "info": "1. 回忆页面内新增「纪念手册」系统入口。\n2. 活动期间，指挥官可通过完成活动任务收集对应<color=#92fc63>「纪念贴纸」</color>兑换获得活动勋章。\n ※ 活动进行时，指挥官可在<color=#92fc63>活动页面或回忆界面</color>通过指定入口进入「纪念贴纸」收集页面；\n ※ 活动结束后指挥官将只能通过<color=#92fc63>回忆界面</color>指定入口进入「纪念贴纸」收集页面；\n ※ 「纪念贴纸」可以通过完成对应活动任务获取；\n ※ 奖励领取界面将延长至7月15日24时；"
+        "info": "1. 回忆页面内新增「纪念手册」系统入口。\n2. 活动期间，指挥官可通过完成活动任务收集对应<color=#92fc63>「纪念贴纸」</color>兑换获得活动勋章。\n ※ 活动进行时，指挥官可在<color=#92fc63>活动页面或回忆界面</color>通过指定入口进入「纪念贴纸」收集页面；\n ※ 活动结束后指挥官将只能通过<color=#92fc63>回忆界面</color>指定入口进入「纪念贴纸」收集页面；\n ※ 「纪念贴纸」可以通过完成对应活动任务获取；\n ※ 奖励领取界面将延长至8月12日24时；"
       }
     ]
   },
@@ -20790,6 +20818,9 @@
   },
   "msgbox_repair_cipher": {
     "tip": "修复密语"
+  },
+  "msgbox_repair_cv": {
+    "tip": "修复语音"
   },
   "msgbox_repair_l2d": {
     "tip": "修复L2D"

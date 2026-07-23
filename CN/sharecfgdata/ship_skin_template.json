@@ -63510,6 +63510,283 @@
     "voice_actor_2": -1,
     "voice_lang": ""
   },
+  "201150": {
+    "bg": "",
+    "bg_sp": "",
+    "bgm": "",
+    "bound_bone": {
+      "antiaircraft": [
+        [
+          0.801,
+          2.345,
+          0
+        ]
+      ],
+      "cannon": [
+        [
+          0.885,
+          0.764,
+          0
+        ]
+      ],
+      "torpedo": [
+        [
+          0,
+          0,
+          0
+        ]
+      ]
+    },
+    "change_skin": "",
+    "desc": "G级驱逐舰一一格里芬",
+    "double_char": 0,
+    "fx_container": [
+      [
+        0,
+        1.99185,
+        1.15
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0.75,
+        -1.299
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "get_showing": "",
+    "group_index": 0,
+    "gyro": 0,
+    "hand_id": 13,
+    "id": 201150,
+    "illustrator": -1,
+    "illustrator2": -1,
+    "l2d_animations": "",
+    "l2d_drag_rate": "",
+    "l2d_ignore_drag": 0,
+    "l2d_para_range": "",
+    "l2d_se": "",
+    "l2d_voice_calibrate": "",
+    "lip_smoothing": 0,
+    "lip_sync_gain": 0,
+    "live2d_offset": [
+      0,
+      0,
+      0
+    ],
+    "live2d_offset_profile": "",
+    "lover_hand": "hand_3_02",
+    "lover_kiss": "lip01",
+    "main_UI_FX": "",
+    "name": "格里芬",
+    "painting": "gelifen",
+    "part_scale": "",
+    "prefab": "gelifen",
+    "purchase_offset": "",
+    "rarity_bg": "",
+    "ship_group": 20115,
+    "ship_l2d_id": "",
+    "shop_dynamic_hx": 0,
+    "shop_id": 0,
+    "shop_offset": "",
+    "shop_type_id": 0,
+    "show_skin": "stand",
+    "skeleton_default_skin": "",
+    "skin_type": -1,
+    "smoke": [
+      [
+        70,
+        [
+          [
+            "smoke",
+            [
+              -0.586,
+              2.56,
+              0
+            ]
+          ]
+        ]
+      ],
+      [
+        30,
+        [
+          [
+            "smoke",
+            [
+              -0.601,
+              2.528,
+              0
+            ]
+          ]
+        ]
+      ]
+    ],
+    "special_effects": "",
+    "spine_action_offset": false,
+    "spine_offset": "",
+    "spine_offset_profile": "",
+    "spine_use_live2d": 0,
+    "tag": [],
+    "time": "",
+    "voice_actor": 515,
+    "voice_actor_2": -1,
+    "voice_lang": ""
+  },
+  "201151": {
+    "bg": "308",
+    "bg_sp": "",
+    "bgm": "",
+    "bound_bone": {
+      "antiaircraft": [
+        [
+          0.618,
+          2.351,
+          0
+        ]
+      ],
+      "cannon": [
+        [
+          0.968,
+          0.733,
+          0
+        ]
+      ],
+      "torpedo": [
+        [
+          0,
+          0.007,
+          0
+        ]
+      ]
+    },
+    "change_skin": "",
+    "desc": "马上就要帮指挥官放松疗愈了，但这幅样子……要怎么见人啦！呜，有没有什么应急办法……",
+    "double_char": 0,
+    "fx_container": [
+      [
+        0,
+        1.99185,
+        1.15
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0.75,
+        -1.299
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "get_showing": {
+      "data": [
+        [
+          -1718,
+          -742,
+          2,
+          0,
+          120,
+          2
+        ],
+        [
+          -308,
+          525,
+          2,
+          125,
+          0,
+          2
+        ],
+        [
+          -258,
+          -362,
+          2,
+          0,
+          -112,
+          2
+        ]
+      ],
+      "show": 1
+    },
+    "group_index": 1,
+    "gyro": 0,
+    "hand_id": 13,
+    "id": 201151,
+    "illustrator": -1,
+    "illustrator2": -1,
+    "l2d_animations": "",
+    "l2d_drag_rate": "",
+    "l2d_ignore_drag": 0,
+    "l2d_para_range": "",
+    "l2d_se": "",
+    "l2d_voice_calibrate": "",
+    "lip_smoothing": 0,
+    "lip_sync_gain": 0,
+    "live2d_offset": [
+      0,
+      0,
+      0
+    ],
+    "live2d_offset_profile": "",
+    "lover_hand": "hand_3_02",
+    "lover_kiss": "lip01",
+    "main_UI_FX": "",
+    "name": "紧张的放松疗愈",
+    "painting": "gelifen_2",
+    "part_scale": "",
+    "prefab": "gelifen_2",
+    "purchase_offset": "",
+    "rarity_bg": "",
+    "ship_group": 20115,
+    "ship_l2d_id": "",
+    "shop_dynamic_hx": 0,
+    "shop_id": 71383,
+    "shop_offset": "",
+    "shop_type_id": 15,
+    "show_skin": "stand",
+    "skeleton_default_skin": "",
+    "skin_type": 4,
+    "smoke": [
+      [
+        50,
+        [
+          [
+            "smoke",
+            [
+              -0.52,
+              2.524,
+              0
+            ]
+          ]
+        ]
+      ]
+    ],
+    "special_effects": "",
+    "spine_action_offset": false,
+    "spine_offset": "",
+    "spine_offset_profile": "",
+    "spine_use_live2d": 0,
+    "tag": [
+      2
+    ],
+    "time": "",
+    "voice_actor": 515,
+    "voice_actor_2": -1,
+    "voice_lang": ""
+  },
   "201160": {
     "bg": "",
     "bg_sp": "",
@@ -84014,6 +84291,300 @@
     "voice_actor_2": -1,
     "voice_lang": ""
   },
+  "202370": {
+    "bg": "",
+    "bg_sp": "",
+    "bgm": "",
+    "bound_bone": {
+      "antiaircraft": [
+        [
+          0.844,
+          2.229,
+          0
+        ]
+      ],
+      "cannon": [
+        [
+          1.32,
+          1.62,
+          0
+        ]
+      ],
+      "torpedo": [
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      "vicegun": [
+        [
+          1.779,
+          1.811,
+          0
+        ]
+      ]
+    },
+    "change_skin": "",
+    "desc": "确捷级轻巡洋舰第二批次一一华丽",
+    "double_char": 0,
+    "fx_container": [
+      [
+        0,
+        1.99185,
+        1.15
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0.75,
+        -1.299
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "get_showing": "",
+    "group_index": 0,
+    "gyro": 0,
+    "hand_id": 1,
+    "id": 202370,
+    "illustrator": -1,
+    "illustrator2": -1,
+    "l2d_animations": "",
+    "l2d_drag_rate": "",
+    "l2d_ignore_drag": 0,
+    "l2d_para_range": "",
+    "l2d_se": "",
+    "l2d_voice_calibrate": "",
+    "lip_smoothing": 0,
+    "lip_sync_gain": 0,
+    "live2d_offset": [
+      0,
+      0,
+      0
+    ],
+    "live2d_offset_profile": "",
+    "lover_hand": "hand_1_02",
+    "lover_kiss": "lip03",
+    "main_UI_FX": "",
+    "name": "华丽",
+    "painting": "huali",
+    "part_scale": "",
+    "prefab": "huali",
+    "purchase_offset": "",
+    "rarity_bg": "",
+    "ship_group": 20237,
+    "ship_l2d_id": "",
+    "shop_dynamic_hx": 0,
+    "shop_id": 0,
+    "shop_offset": "",
+    "shop_type_id": 0,
+    "show_skin": "stand",
+    "skeleton_default_skin": "",
+    "skin_type": -1,
+    "smoke": [
+      [
+        50,
+        [
+          [
+            "smoke",
+            [
+              -0.648,
+              2.296,
+              -0.568
+            ]
+          ]
+        ]
+      ]
+    ],
+    "special_effects": "",
+    "spine_action_offset": false,
+    "spine_offset": "",
+    "spine_offset_profile": "",
+    "spine_use_live2d": 0,
+    "tag": [],
+    "time": "",
+    "voice_actor": 188,
+    "voice_actor_2": -1,
+    "voice_lang": ""
+  },
+  "202371": {
+    "bg": "138",
+    "bg_sp": "",
+    "bgm": "",
+    "bound_bone": {
+      "antiaircraft": [
+        [
+          0.857,
+          2.225,
+          0
+        ]
+      ],
+      "cannon": [
+        [
+          1.343,
+          1.634,
+          0
+        ]
+      ],
+      "torpedo": [
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      "vicegun": [
+        [
+          1.812,
+          1.799,
+          0
+        ]
+      ]
+    },
+    "change_skin": "",
+    "desc": "指挥官，欢迎来到我的诊室。来，请躺在椅子上……放轻松~诊查的流程我已经很熟练了。现在请跟我一起念，啊——",
+    "double_char": 0,
+    "fx_container": [
+      [
+        0,
+        1.99185,
+        1.15
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0.75,
+        -1.299
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "get_showing": {
+      "data": [
+        [
+          -1397,
+          693,
+          2,
+          0,
+          -156,
+          2
+        ],
+        [
+          -707,
+          231,
+          2,
+          173,
+          0,
+          2
+        ],
+        [
+          524,
+          -405,
+          2,
+          0,
+          -151,
+          2
+        ]
+      ],
+      "show": 1
+    },
+    "group_index": 1,
+    "gyro": 0,
+    "hand_id": 1,
+    "id": 202371,
+    "illustrator": -1,
+    "illustrator2": -1,
+    "l2d_animations": "",
+    "l2d_drag_rate": "",
+    "l2d_ignore_drag": 0,
+    "l2d_para_range": "",
+    "l2d_se": "",
+    "l2d_voice_calibrate": "",
+    "lip_smoothing": 0,
+    "lip_sync_gain": 0,
+    "live2d_offset": [
+      0,
+      0,
+      0
+    ],
+    "live2d_offset_profile": "",
+    "lover_hand": "hand_1_02",
+    "lover_kiss": "lip03",
+    "main_UI_FX": "",
+    "name": "唇齿之间",
+    "painting": "huali_2",
+    "part_scale": "",
+    "prefab": "huali_2",
+    "purchase_offset": "",
+    "rarity_bg": "",
+    "ship_group": 20237,
+    "ship_l2d_id": "",
+    "shop_dynamic_hx": 0,
+    "shop_id": 71381,
+    "shop_offset": [
+      0,
+      -520,
+      0,
+      0.49
+    ],
+    "shop_type_id": 15,
+    "show_skin": "stand",
+    "skeleton_default_skin": "",
+    "skin_type": 4,
+    "smoke": [
+      [
+        50,
+        [
+          [
+            "smoke",
+            [
+              -0.683,
+              2.382,
+              0
+            ]
+          ]
+        ]
+      ]
+    ],
+    "special_effects": "",
+    "spine_action_offset": false,
+    "spine_offset": [
+      -139,
+      -827,
+      0,
+      0.7
+    ],
+    "spine_offset_profile": [
+      63,
+      -515,
+      0,
+      0.48
+    ],
+    "spine_use_live2d": 0,
+    "tag": [
+      6,
+      2
+    ],
+    "time": "",
+    "voice_actor": 188,
+    "voice_actor_2": -1,
+    "voice_lang": ""
+  },
   "203010": {
     "bg": "",
     "bg_sp": "",
@@ -87309,6 +87880,284 @@
     ],
     "time": "",
     "voice_actor": 404,
+    "voice_actor_2": -1,
+    "voice_lang": ""
+  },
+  "203140": {
+    "bg": "",
+    "bg_sp": "",
+    "bgm": "",
+    "bound_bone": {
+      "antiaircraft": [
+        [
+          0.592,
+          2.391,
+          0
+        ]
+      ],
+      "cannon": [
+        [
+          1.483,
+          0.817,
+          0
+        ]
+      ],
+      "torpedo": [
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      "vicegun": [
+        [
+          1.164,
+          1.165,
+          0
+        ]
+      ]
+    },
+    "change_skin": "",
+    "desc": "萨里级重巡洋舰一一萨里",
+    "double_char": 0,
+    "fx_container": [
+      [
+        0,
+        1.99185,
+        1.15
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0.75,
+        -1.299
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "get_showing": "",
+    "group_index": 0,
+    "gyro": 0,
+    "hand_id": 13,
+    "id": 203140,
+    "illustrator": -1,
+    "illustrator2": -1,
+    "l2d_animations": "",
+    "l2d_drag_rate": "",
+    "l2d_ignore_drag": 0,
+    "l2d_para_range": "",
+    "l2d_se": "",
+    "l2d_voice_calibrate": "",
+    "lip_smoothing": 0,
+    "lip_sync_gain": 0,
+    "live2d_offset": [
+      0,
+      0,
+      0
+    ],
+    "live2d_offset_profile": "",
+    "lover_hand": "hand_1_02",
+    "lover_kiss": "lip03",
+    "main_UI_FX": "",
+    "name": "萨里",
+    "painting": "sali",
+    "part_scale": "",
+    "prefab": "sali",
+    "purchase_offset": "",
+    "rarity_bg": "",
+    "ship_group": 20314,
+    "ship_l2d_id": "",
+    "shop_dynamic_hx": 0,
+    "shop_id": 0,
+    "shop_offset": "",
+    "shop_type_id": 0,
+    "show_skin": "stand",
+    "skeleton_default_skin": "",
+    "skin_type": -1,
+    "smoke": [
+      [
+        50,
+        [
+          [
+            "smoke",
+            [
+              -0.543,
+              2.326,
+              0
+            ]
+          ]
+        ]
+      ]
+    ],
+    "special_effects": "",
+    "spine_action_offset": false,
+    "spine_offset": "",
+    "spine_offset_profile": "",
+    "spine_use_live2d": 0,
+    "tag": [],
+    "time": "",
+    "voice_actor": 516,
+    "voice_actor_2": -1,
+    "voice_lang": ""
+  },
+  "203141": {
+    "bg": "109",
+    "bg_sp": "",
+    "bgm": "",
+    "bound_bone": {
+      "antiaircraft": [
+        [
+          0.636,
+          2.224,
+          0
+        ]
+      ],
+      "cannon": [
+        [
+          1.425,
+          0.77,
+          0
+        ]
+      ],
+      "torpedo": [
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      "vicegun": [
+        [
+          1.169,
+          1.125,
+          0
+        ]
+      ]
+    },
+    "change_skin": "",
+    "desc": "衣服被汗弄湿了要换掉……体温不对劲得量一下……欸 ？那我应该先执行您的哪个命令？是继续脱衣服，还是……？",
+    "double_char": 0,
+    "fx_container": [
+      [
+        0,
+        1.99185,
+        1.15
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0.75,
+        -1.299
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "get_showing": {
+      "data": [
+        [
+          -1593,
+          178,
+          2,
+          0,
+          -163,
+          2
+        ],
+        [
+          -1313,
+          -444,
+          2,
+          163,
+          0,
+          2
+        ],
+        [
+          83,
+          -208,
+          2,
+          0,
+          152,
+          2
+        ]
+      ],
+      "show": 1
+    },
+    "group_index": 1,
+    "gyro": 0,
+    "hand_id": 13,
+    "id": 203141,
+    "illustrator": -1,
+    "illustrator2": -1,
+    "l2d_animations": "",
+    "l2d_drag_rate": "",
+    "l2d_ignore_drag": 0,
+    "l2d_para_range": "",
+    "l2d_se": "",
+    "l2d_voice_calibrate": "",
+    "lip_smoothing": 0,
+    "lip_sync_gain": 0,
+    "live2d_offset": [
+      0,
+      0,
+      0
+    ],
+    "live2d_offset_profile": "",
+    "lover_hand": "hand_1_02",
+    "lover_kiss": "lip03",
+    "main_UI_FX": "",
+    "name": "失序的迷糊时刻",
+    "painting": "sali_2",
+    "part_scale": "",
+    "prefab": "sali_2",
+    "purchase_offset": "",
+    "rarity_bg": "",
+    "ship_group": 20314,
+    "ship_l2d_id": "",
+    "shop_dynamic_hx": 0,
+    "shop_id": 71382,
+    "shop_offset": "",
+    "shop_type_id": 15,
+    "show_skin": "stand",
+    "skeleton_default_skin": "",
+    "skin_type": 4,
+    "smoke": [
+      [
+        50,
+        [
+          [
+            "smoke",
+            [
+              -0.784,
+              2.28,
+              0
+            ]
+          ]
+        ]
+      ]
+    ],
+    "special_effects": "",
+    "spine_action_offset": false,
+    "spine_offset": "",
+    "spine_offset_profile": "",
+    "spine_use_live2d": 0,
+    "tag": [
+      2
+    ],
+    "time": "",
+    "voice_actor": 516,
     "voice_actor_2": -1,
     "voice_lang": ""
   },
@@ -108535,6 +109384,277 @@
     "spine_offset_profile": "",
     "spine_use_live2d": 0,
     "tag": [
+      2
+    ],
+    "time": "",
+    "voice_actor": 327,
+    "voice_actor_2": -1,
+    "voice_lang": ""
+  },
+  "299052": {
+    "bg": "308",
+    "bg_sp": "",
+    "bgm": "",
+    "bound_bone": {
+      "antiaircraft": [
+        [
+          0.707,
+          2.337,
+          0
+        ]
+      ],
+      "cannon": [
+        [
+          0.797,
+          0.709,
+          0
+        ]
+      ],
+      "torpedo": [
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      "vicegun": [
+        [
+          0.97,
+          0.961,
+          0
+        ]
+      ]
+    },
+    "change_skin": "",
+    "desc": "欢迎光临，指挥官大人，接下来由普利茅斯来陪伴您完成全面体检。不管是哪里感到不舒服，都请尽管告诉我吧。",
+    "double_char": 0,
+    "fx_container": [
+      [
+        0,
+        1.99185,
+        1.15
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0.75,
+        -1.299
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "get_showing": {
+      "data": [
+        [
+          1077,
+          -533,
+          2,
+          0,
+          118,
+          2
+        ],
+        [
+          548,
+          398,
+          2,
+          -131,
+          0,
+          2
+        ],
+        [
+          69,
+          -252,
+          2,
+          0,
+          -138,
+          2
+        ]
+      ],
+      "show": 1
+    },
+    "group_index": 2,
+    "gyro": 0,
+    "hand_id": 1,
+    "id": 299052,
+    "illustrator": -1,
+    "illustrator2": -1,
+    "l2d_animations": [
+      "idle",
+      "main_1",
+      "main_2",
+      "main_3",
+      "mission",
+      "mission_complete",
+      "complete",
+      "login",
+      "home",
+      "mail",
+      "touch_body",
+      "touch_head"
+    ],
+    "l2d_drag_rate": "",
+    "l2d_ignore_drag": 0,
+    "l2d_para_range": {
+      "ParamAngleX": [
+        -15,
+        15
+      ],
+      "ParamAngleY": [
+        -15,
+        15
+      ]
+    },
+    "l2d_se": "",
+    "l2d_voice_calibrate": {
+      "use_event": true
+    },
+    "lip_smoothing": 0,
+    "lip_sync_gain": 0,
+    "live2d_offset": [
+      41,
+      -5,
+      0,
+      58
+    ],
+    "live2d_offset_profile": [
+      41,
+      -5,
+      0,
+      58
+    ],
+    "lover_hand": "hand_1_02",
+    "lover_kiss": "lip03",
+    "main_UI_FX": "",
+    "name": "纯白天使的全身检查",
+    "painting": "pulimaosi_3",
+    "part_scale": "",
+    "prefab": "pulimaosi_3",
+    "purchase_offset": [
+      41,
+      -5,
+      0,
+      58
+    ],
+    "rarity_bg": "",
+    "ship_group": 29905,
+    "ship_l2d_id": [
+      29905201,
+      29905202,
+      29905203,
+      29905204,
+      29905205,
+      29905206,
+      29905207,
+      29905208,
+      29905209,
+      29905210,
+      29905211,
+      29905212,
+      29905213,
+      29905214,
+      29905215,
+      29905216,
+      29905217,
+      29905218,
+      29905219,
+      29905220,
+      29905221,
+      29905222,
+      29905223,
+      29905224,
+      29905225,
+      29905226,
+      29905227,
+      29905228,
+      29905229,
+      29905230,
+      29905231,
+      29905232,
+      29905233,
+      29905234,
+      29905235,
+      29905236,
+      29905237,
+      29905238,
+      29905239,
+      29905240,
+      29905241,
+      29905242,
+      29905243,
+      29905244,
+      29905245,
+      29905246,
+      29905247,
+      29905248,
+      29905249,
+      29905250,
+      29905251,
+      29905252,
+      29905253,
+      29905254,
+      29905255,
+      29905256,
+      29905257,
+      29905258,
+      29905259,
+      29905260,
+      29905261,
+      29905262,
+      29905263,
+      29905264,
+      29905265,
+      29905266,
+      29905267,
+      29905268,
+      29905269,
+      29905270
+    ],
+    "shop_dynamic_hx": 0,
+    "shop_id": 71384,
+    "shop_offset": [
+      41,
+      -5,
+      0,
+      58
+    ],
+    "shop_type_id": 15,
+    "show_skin": "stand",
+    "skeleton_default_skin": "",
+    "skin_type": 4,
+    "smoke": [
+      [
+        50,
+        [
+          [
+            "smoke",
+            [
+              -0.8,
+              2.412,
+              -0.16
+            ]
+          ]
+        ]
+      ]
+    ],
+    "special_effects": "",
+    "spine_action_offset": false,
+    "spine_offset": "",
+    "spine_offset_profile": [
+      41,
+      -5,
+      0,
+      58
+    ],
+    "spine_use_live2d": 0,
+    "tag": [
+      9,
       2
     ],
     "time": "",
@@ -179834,6 +180954,153 @@
     "spine_use_live2d": 0,
     "tag": [
       2
+    ],
+    "time": "",
+    "voice_actor": 438,
+    "voice_actor_2": -1,
+    "voice_lang": ""
+  },
+  "401112": {
+    "bg": "670",
+    "bg_sp": "",
+    "bgm": "",
+    "bound_bone": {
+      "antiaircraft": [
+        [
+          0.798,
+          2.207,
+          0
+        ]
+      ],
+      "cannon": [
+        [
+          1.066,
+          0.904,
+          0
+        ]
+      ],
+      "torpedo": [
+        [
+          0,
+          0,
+          0
+        ]
+      ]
+    },
+    "change_skin": "",
+    "desc": "停、停下！擅闯护士站的指挥官……我看到你想要拿走那串钥匙了哦。请、请不要反抗……接受我的检查……呜啊啊，这样就可以随便摸指挥官了嘛……？！",
+    "double_char": 0,
+    "fx_container": [
+      [
+        0,
+        1.99185,
+        1.15
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0.75,
+        -1.299
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "get_showing": {
+      "data": [
+        [
+          1381,
+          -34,
+          2,
+          0,
+          176,
+          2
+        ],
+        [
+          248,
+          1387,
+          2,
+          -168,
+          0,
+          2
+        ],
+        [
+          -281,
+          -309,
+          2,
+          0,
+          -130,
+          2
+        ]
+      ],
+      "show": 1
+    },
+    "group_index": 2,
+    "gyro": 0,
+    "hand_id": 1,
+    "id": 401112,
+    "illustrator": -1,
+    "illustrator2": -1,
+    "l2d_animations": "",
+    "l2d_drag_rate": "",
+    "l2d_ignore_drag": 0,
+    "l2d_para_range": "",
+    "l2d_se": "",
+    "l2d_voice_calibrate": "",
+    "lip_smoothing": 0,
+    "lip_sync_gain": 0,
+    "live2d_offset": [
+      0,
+      0,
+      0
+    ],
+    "live2d_offset_profile": "",
+    "lover_hand": "hand_1_02",
+    "lover_kiss": "lip03",
+    "main_UI_FX": "",
+    "name": "鼓起勇气的诊断时间",
+    "painting": "z11_3",
+    "part_scale": "",
+    "prefab": "z11_3",
+    "purchase_offset": "",
+    "rarity_bg": "",
+    "ship_group": 40111,
+    "ship_l2d_id": "",
+    "shop_dynamic_hx": 0,
+    "shop_id": 71385,
+    "shop_offset": "",
+    "shop_type_id": 15,
+    "show_skin": "stand",
+    "skeleton_default_skin": "",
+    "skin_type": 4,
+    "smoke": [
+      [
+        50,
+        [
+          [
+            "smoke",
+            [
+              -0.646,
+              2.357,
+              0
+            ]
+          ]
+        ]
+      ]
+    ],
+    "special_effects": "",
+    "spine_action_offset": false,
+    "spine_offset": "",
+    "spine_offset_profile": "",
+    "spine_use_live2d": 0,
+    "tag": [
+      4
     ],
     "time": "",
     "voice_actor": 438,
@@ -268361,7 +269628,7 @@
     "spine_use_live2d": 0,
     "tag": [],
     "time": "",
-    "voice_actor": 418,
+    "voice_actor": 514,
     "voice_actor_2": -1,
     "voice_lang": ""
   },
@@ -312739,6 +314006,123 @@
     "voice_actor_2": -1,
     "voice_lang": ""
   },
+  "900547": {
+    "bg": "",
+    "bg_sp": "",
+    "bgm": "",
+    "bound_bone": {
+      "cannon": [
+        [
+          1.17,
+          5,
+          0
+        ]
+      ],
+      "plane": [
+        [
+          -1.02,
+          3.05,
+          0
+        ]
+      ],
+      "torpedo": [
+        [
+          0.04,
+          0.89,
+          0
+        ]
+      ]
+    },
+    "change_skin": "",
+    "desc": "无描述",
+    "double_char": 0,
+    "fx_container": [
+      [
+        0,
+        1.99185,
+        1.15
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0.75,
+        -1.299
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "get_showing": "",
+    "group_index": 0,
+    "gyro": 0,
+    "hand_id": 1,
+    "id": 900547,
+    "illustrator": -1,
+    "illustrator2": -1,
+    "l2d_animations": "",
+    "l2d_drag_rate": "",
+    "l2d_ignore_drag": 0,
+    "l2d_para_range": "",
+    "l2d_se": "",
+    "l2d_voice_calibrate": "",
+    "lip_smoothing": 0,
+    "lip_sync_gain": 0,
+    "live2d_offset": [
+      0,
+      0,
+      0
+    ],
+    "live2d_offset_profile": "",
+    "lover_hand": "hand_1_02",
+    "lover_kiss": "lip03",
+    "main_UI_FX": "",
+    "name": "萨里",
+    "painting": "npcsali_2",
+    "part_scale": "",
+    "prefab": "npcsali_2",
+    "purchase_offset": "",
+    "rarity_bg": "",
+    "ship_group": 900547,
+    "ship_l2d_id": "",
+    "shop_dynamic_hx": 0,
+    "shop_id": 0,
+    "shop_offset": "",
+    "shop_type_id": 0,
+    "show_skin": "stand",
+    "skeleton_default_skin": "",
+    "skin_type": -1,
+    "smoke": [
+      [
+        70,
+        [
+          [
+            "smokebig",
+            [
+              -0.62,
+              2.54,
+              0
+            ]
+          ]
+        ]
+      ]
+    ],
+    "special_effects": "",
+    "spine_action_offset": false,
+    "spine_offset": "",
+    "spine_offset_profile": "",
+    "spine_use_live2d": 0,
+    "tag": [],
+    "time": "",
+    "voice_actor": -1,
+    "voice_actor_2": -1,
+    "voice_lang": ""
+  },
   "901010": {
     "bg": "",
     "bg_sp": "",
@@ -325203,6 +326587,243 @@
     "tag": [
       6,
       2
+    ],
+    "time": "",
+    "voice_actor": 428,
+    "voice_actor_2": -1,
+    "voice_lang": ""
+  },
+  "9600072": {
+    "bg": "670",
+    "bg_sp": "",
+    "bgm": "",
+    "bound_bone": {
+      "antiaircraft": [
+        [
+          0.807,
+          2.238,
+          0
+        ]
+      ],
+      "cannon": [
+        [
+          1.686,
+          1.555,
+          0
+        ]
+      ],
+      "torpedo": [
+        [
+          0.006,
+          0,
+          0
+        ]
+      ],
+      "vicegun": [
+        [
+          0.904,
+          0.742,
+          0
+        ]
+      ]
+    },
+    "change_skin": "",
+    "desc": "与我同病相怜之人啊，你来了~这台仪器，好像能照出事物最真实的模样呢……那就让我们来分享秘密吧？关于我的一切，还有我心心念念的……你的一切~",
+    "double_char": 0,
+    "fx_container": [
+      [
+        0,
+        1.99185,
+        1.15
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0.75,
+        -1.299
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "get_showing": {
+      "data": [
+        [
+          690,
+          -764,
+          2.5,
+          0,
+          167,
+          2
+        ],
+        [
+          -242,
+          307,
+          2,
+          -86,
+          0,
+          2
+        ],
+        [
+          -536,
+          -644,
+          3,
+          0,
+          -91,
+          2
+        ]
+      ],
+      "show": 1
+    },
+    "group_index": 2,
+    "gyro": 0,
+    "hand_id": 1,
+    "id": 9600072,
+    "illustrator": -1,
+    "illustrator2": -1,
+    "l2d_animations": [
+      "idle",
+      "main_1",
+      "main_2",
+      "main_3",
+      "mission",
+      "mission_complete",
+      "complete",
+      "login",
+      "home",
+      "mail",
+      "touch_body",
+      "touch_head"
+    ],
+    "l2d_drag_rate": "",
+    "l2d_ignore_drag": 0,
+    "l2d_para_range": "",
+    "l2d_se": "",
+    "l2d_voice_calibrate": {
+      "use_event": true
+    },
+    "lip_smoothing": 0,
+    "lip_sync_gain": 0,
+    "live2d_offset": [
+      -60,
+      -30,
+      0,
+      65
+    ],
+    "live2d_offset_profile": [
+      -160,
+      -42,
+      0,
+      65
+    ],
+    "lover_hand": "hand_1_02",
+    "lover_kiss": "lip03",
+    "main_UI_FX": "",
+    "name": "真我的显影",
+    "painting": "gangyishawa_3",
+    "part_scale": "",
+    "prefab": "gangyishawa_3",
+    "purchase_offset": [
+      -192,
+      -42,
+      0,
+      67
+    ],
+    "rarity_bg": "",
+    "ship_group": 960007,
+    "ship_l2d_id": [
+      960007201,
+      960007202,
+      960007203,
+      960007204,
+      960007205,
+      960007206,
+      960007207,
+      960007208,
+      960007209,
+      960007210,
+      960007211,
+      960007212,
+      960007213,
+      960007214,
+      960007215,
+      960007216,
+      960007217,
+      960007218,
+      960007219,
+      960007220,
+      960007221,
+      960007222,
+      960007223,
+      960007224,
+      960007225,
+      960007226,
+      960007227,
+      960007228,
+      960007229,
+      960007230,
+      960007231,
+      960007232,
+      960007233,
+      960007234,
+      960007235,
+      960007236,
+      960007237,
+      960007238,
+      960007239,
+      960007240,
+      960007241,
+      960007242,
+      960007243,
+      960007244,
+      960007245,
+      960007246,
+      960007247,
+      960007248,
+      960007249,
+      960007250
+    ],
+    "shop_dynamic_hx": 0,
+    "shop_id": 71386,
+    "shop_offset": [
+      -192,
+      -42,
+      0,
+      67
+    ],
+    "shop_type_id": 15,
+    "show_skin": "stand",
+    "skeleton_default_skin": "",
+    "skin_type": 4,
+    "smoke": [
+      [
+        50,
+        [
+          [
+            "smoke",
+            [
+              -0.705,
+              2.318,
+              0
+            ]
+          ]
+        ]
+      ]
+    ],
+    "special_effects": "",
+    "spine_action_offset": false,
+    "spine_offset": "",
+    "spine_offset_profile": "",
+    "spine_use_live2d": 0,
+    "tag": [
+      1,
+      4
     ],
     "time": "",
     "voice_actor": 428,
@@ -359926,6 +361547,8 @@
     201140,
     201141,
     201149,
+    201150,
+    201151,
     201160,
     201200,
     201210,
@@ -360085,6 +361708,8 @@
     202351,
     202360,
     202361,
+    202370,
+    202371,
     203010,
     203011,
     203018,
@@ -360110,6 +361735,8 @@
     203100,
     203130,
     203131,
+    203140,
+    203141,
     204010,
     204011,
     204020,
@@ -360780,6 +362407,7 @@
     401091,
     401110,
     401111,
+    401112,
     401130,
     401131,
     401140,
@@ -361795,13 +363423,14 @@
     900536,
     900538,
     900539,
+    900540,
+    900541,
     900542,
     900543,
     900544,
     900545,
     900546,
-    900540,
-    900541,
+    900547,
     1101010,
     1101011,
     1101012,
@@ -361824,6 +363453,7 @@
     9600061,
     9600070,
     9600071,
+    9600072,
     9600080,
     9600081,
     9600090,
@@ -362190,6 +363820,7 @@
     699031,
     299050,
     299051,
+    299052,
     499070,
     499071,
     499072,
@@ -363087,6 +364718,10 @@
       201141,
       201149
     ],
+    "20115": [
+      201150,
+      201151
+    ],
     "20116": [
       201160
     ],
@@ -363351,6 +364986,10 @@
       202360,
       202361
     ],
+    "20237": [
+      202370,
+      202371
+    ],
     "20301": [
       203010,
       203011,
@@ -363397,6 +365036,10 @@
     "20313": [
       203130,
       203131
+    ],
+    "20314": [
+      203140,
+      203141
     ],
     "20401": [
       204010,
@@ -363648,7 +365291,8 @@
     ],
     "29905": [
       299050,
-      299051
+      299051,
+      299052
     ],
     "29906": [
       299060
@@ -364549,7 +366193,8 @@
     ],
     "40111": [
       401110,
-      401111
+      401111,
+      401112
     ],
     "40113": [
       401130,
@@ -366865,6 +368510,9 @@
     "900546": [
       900546
     ],
+    "900547": [
+      900547
+    ],
     "960001": [
       9600010,
       9600011,
@@ -366892,7 +368540,8 @@
     ],
     "960007": [
       9600070,
-      9600071
+      9600071,
+      9600072
     ],
     "960008": [
       9600080,
@@ -367676,6 +369325,7 @@
       201120,
       201130,
       201140,
+      201150,
       201160,
       201200,
       201210,
@@ -367728,6 +369378,7 @@
       202340,
       202350,
       202360,
+      202370,
       203010,
       203020,
       203030,
@@ -367739,6 +369390,7 @@
       203090,
       203100,
       203130,
+      203140,
       204010,
       204020,
       204030,
@@ -368522,13 +370174,14 @@
       900536,
       900538,
       900539,
+      900540,
+      900541,
       900542,
       900543,
       900544,
       900545,
       900546,
-      900540,
-      900541,
+      900547,
       1101010,
       1102010,
       1199010,
@@ -369701,18 +371354,24 @@
       102341,
       105132,
       107131,
+      201151,
       201232,
       201331,
       202271,
+      202371,
+      203141,
       205101,
       206037,
       206061,
       207011,
       303172,
       304012,
+      401112,
       701062,
       702072,
-      901072
+      901072,
+      9600072,
+      299052
     ],
     "16": [
       101451,
