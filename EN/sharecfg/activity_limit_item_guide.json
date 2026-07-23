@@ -3313,6 +3313,74 @@
     "order": 0,
     "type": 5
   },
+  "211": {
+    "activity": 51079,
+    "count": 1,
+    "count_storage": 0,
+    "drop_id": 342,
+    "id": 211,
+    "is_new": 1,
+    "link_params": [
+      [
+        3,
+        51073,
+        "Authentic Horror Story: Escape from White Night Manor! - Escape Room Supply Station event reward."
+      ]
+    ],
+    "order": 0,
+    "type": 5
+  },
+  "212": {
+    "activity": 51079,
+    "count": 1,
+    "count_storage": 0,
+    "drop_id": 3084,
+    "id": 212,
+    "is_new": 1,
+    "link_params": [
+      [
+        3,
+        51073,
+        "Authentic Horror Story: Escape from White Night Manor! - Clear story mode."
+      ]
+    ],
+    "order": 0,
+    "type": 9
+  },
+  "213": {
+    "activity": 51079,
+    "count": 4,
+    "count_storage": 0,
+    "drop_id": 201151,
+    "id": 213,
+    "is_new": 1,
+    "link_params": [
+      [
+        3,
+        51073,
+        "Authentic Horror Story: Escape from White Night Manor! - Escape Room Supply Station event reward."
+      ]
+    ],
+    "order": 0,
+    "type": 4
+  },
+  "214": {
+    "activity": 51079,
+    "count": 1,
+    "count_storage": 0,
+    "drop_id": 735,
+    "id": 214,
+    "is_new": 1,
+    "link_params": [
+      [
+        3,
+        51073,
+        "Authentic Horror Story: Escape from White Night Manor! - Complete the medal set (via the top-right corner of the event page)."
+      ]
+    ],
+    "order": 0,
+    "type": 1
+  },
   "all": [
     1,
     2,
@@ -3492,7 +3560,11 @@
     207,
     208,
     209,
-    210
+    210,
+    211,
+    212,
+    213,
+    214
   ],
   "get_id_list_by_activity": {
     "4937": [
@@ -3691,6 +3763,12 @@
       208,
       209,
       210
+    ],
+    "51079": [
+      211,
+      212,
+      213,
+      214
     ]
   }
 }
