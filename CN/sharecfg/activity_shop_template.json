@@ -45502,6 +45502,21 @@
     "resource_num": 1200,
     "resource_type": 59900
   },
+  "10101": {
+    "activity": 0,
+    "commodity_id": 3220,
+    "commodity_id_list": "",
+    "commodity_id_list_show": 0,
+    "commodity_type": 3,
+    "id": 10101,
+    "limit_args": "",
+    "num": 1,
+    "num_limit": 1,
+    "order": 5,
+    "resource_category": 2,
+    "resource_num": 500,
+    "resource_type": 59900
+  },
   "10500": {
     "activity": 0,
     "commodity_id": 640,
@@ -48157,6 +48172,77 @@
     "order": 4,
     "resource_category": 2,
     "resource_num": 80,
+    "resource_type": 21000
+  },
+  "12049": {
+    "activity": 7104,
+    "commodity_id": 9713011,
+    "commodity_id_list": "",
+    "commodity_id_list_show": 0,
+    "commodity_type": 4,
+    "id": 12049,
+    "limit_args": [
+      [
+        "uniqueship",
+        971301
+      ],
+      [
+        2,
+        [
+          [
+            2026,
+            8,
+            1
+          ],
+          [
+            0,
+            0,
+            0
+          ]
+        ]
+      ]
+    ],
+    "num": 1,
+    "num_limit": 1,
+    "order": 3,
+    "resource_category": 2,
+    "resource_num": 60,
+    "resource_type": 21000
+  },
+  "12050": {
+    "activity": 7104,
+    "commodity_id": 21027,
+    "commodity_id_list": "",
+    "commodity_id_list_show": 0,
+    "commodity_type": 2,
+    "id": 12050,
+    "limit_args": [
+      [
+        1,
+        971301,
+        1
+      ],
+      [
+        2,
+        [
+          [
+            2026,
+            8,
+            1
+          ],
+          [
+            0,
+            0,
+            0
+          ]
+        ]
+      ]
+    ],
+    "num": 1,
+    "num_limit": 4,
+    "order": 4,
+    "resource_category": 2,
+    "resource_num": 30,
     "resource_type": 21000
   },
   "all": [
@@ -51176,6 +51262,7 @@
     10098,
     10099,
     10100,
+    10101,
     10500,
     10501,
     10502,
@@ -51287,7 +51374,9 @@
     12045,
     12046,
     12047,
-    12048
+    12048,
+    12049,
+    12050
   ],
   "get_id_list_by_commodity_type": {
     "1": [
@@ -53835,7 +53924,8 @@
       12043,
       12045,
       12047,
-      12048
+      12048,
+      12050
     ],
     "3": [
       105,
@@ -54003,6 +54093,7 @@
       10095,
       10096,
       10097,
+      10101,
       10500,
       10501,
       10502,
@@ -54222,7 +54313,8 @@
       12038,
       12041,
       12044,
-      12046
+      12046,
+      12049
     ],
     "5": [
       5,

@@ -132518,6 +132518,94 @@
     "themeId": 0,
     "type": 11
   },
+  "100088": {
+    "advice": 0,
+    "belong": 1,
+    "can_rotate": 1,
+    "can_trigger": [
+      0
+    ],
+    "canputon": 0,
+    "canputonGrid": [],
+    "comfortable": 0,
+    "count": 1,
+    "deblocking": 1,
+    "describe": "油门焊死，全速前进！",
+    "dir": 0,
+    "dorm_id": 0,
+    "effect": "",
+    "followBone": [
+      "char",
+      -1
+    ],
+    "gain_by": "",
+    "icon": "f1caricon",
+    "id": 100088,
+    "interAction_group": [],
+    "is_3d_obj": 0,
+    "is_get_time_note": 0,
+    "level": 1,
+    "name": "赤焰冲刺号",
+    "offset": [],
+    "picture": "",
+    "rarity": 4,
+    "size": [
+      7,
+      7
+    ],
+    "spine": [
+      [
+        "f1carB",
+        "normal"
+      ],
+      [
+        "f1carT"
+      ],
+      [
+        [
+          0,
+          0
+        ],
+        [
+          [
+            "sit"
+          ]
+        ],
+        [
+          null,
+          1
+        ],
+        [
+          0
+        ]
+      ],
+      [
+        [
+          17.88,
+          74.14
+        ],
+        [
+          251,
+          231
+        ],
+        "chuanmo/f1car_mask"
+      ],
+      [
+        -13.5,
+        -80.8
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "spine_action_replace": "",
+    "spine_combine_action_replace": "",
+    "spine_extra": "",
+    "tag": 6,
+    "themeId": 0,
+    "type": 7
+  },
   "200001": {
     "advice": 0,
     "belong": 1,
@@ -174903,6 +174991,7 @@
     100085,
     100086,
     100087,
+    100088,
     200001,
     200002,
     200003,
@@ -181857,6 +181946,7 @@
       100085,
       100086,
       100087,
+      100088,
       31101,
       54101,
       54102,
@@ -182486,6 +182576,7 @@
       100085,
       100086,
       100087,
+      100088,
       200001,
       200002,
       200003,
@@ -189886,7 +189977,8 @@
       100081,
       100082,
       100084,
-      100085
+      100085,
+      100088
     ],
     [
       17121

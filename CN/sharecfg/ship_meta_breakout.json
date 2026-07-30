@@ -1511,6 +1511,69 @@
     "repair": 0,
     "weapon_ids": []
   },
+  "9702131": {
+    "breakout_id": 9702132,
+    "breakout_view": "习得技能【逐光之焰·{namecode:446}】/全武器效率提高2%",
+    "gold": 500,
+    "id": 9702131,
+    "item1": 21063,
+    "item1_num": 1,
+    "item2": 21060,
+    "item2_num": 0,
+    "level": 10,
+    "pre_id": 0,
+    "repair": 0,
+    "weapon_ids": [
+      80671
+    ]
+  },
+  "9702132": {
+    "breakout_id": 9702133,
+    "breakout_view": "鱼雷底座+1/鱼雷预装填+1/全武器效率提高3%",
+    "gold": 1500,
+    "id": 9702132,
+    "item1": 21063,
+    "item1_num": 1,
+    "item2": 21060,
+    "item2_num": 0,
+    "level": 30,
+    "pre_id": 9702131,
+    "repair": 0,
+    "weapon_ids": [
+      106,
+      106
+    ]
+  },
+  "9702133": {
+    "breakout_id": 9702134,
+    "breakout_view": "【逐光之焰·{namecode:446}】升级/全武器效率提高5%",
+    "gold": 2500,
+    "id": 9702133,
+    "item1": 21063,
+    "item1_num": 2,
+    "item2": 21060,
+    "item2_num": 0,
+    "level": 70,
+    "pre_id": 9702132,
+    "repair": 0,
+    "weapon_ids": [
+      80672
+    ]
+  },
+  "9702134": {
+    "breakout_id": 0,
+    "breakout_view": "无",
+    "gold": 0,
+    "id": 9702134,
+    "item1": 21063,
+    "item1_num": 0,
+    "item2": 21060,
+    "item2_num": 0,
+    "level": 0,
+    "pre_id": 9702133,
+    "repair": 0,
+    "weapon_ids": []
+  },
   "9703011": {
     "breakout_id": 9703012,
     "breakout_view": "习得技能【摇曳之火·特伦托】/主炮效率提高5%",
@@ -4135,6 +4198,10 @@
     9702122,
     9702123,
     9702124,
+    9702131,
+    9702132,
+    9702133,
+    9702134,
     9703011,
     9703012,
     9703013,
