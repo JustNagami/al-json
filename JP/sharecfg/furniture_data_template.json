@@ -123826,6 +123826,85 @@
     "themeId": 0,
     "type": 11
   },
+  "100087": {
+    "advice": 0,
+    "belong": 1,
+    "can_rotate": 0,
+    "can_trigger": [
+      0
+    ],
+    "canputon": 0,
+    "canputonGrid": [],
+    "comfortable": 0,
+    "count": 1,
+    "deblocking": 1,
+    "describe": "バランスを保たないとぐるぐる回っちゃうよ～",
+    "dir": 0,
+    "dorm_id": 0,
+    "effect": "",
+    "followBone": [
+      "char",
+      1
+    ],
+    "gain_by": "",
+    "icon": "shuishangbuxingqiuicon",
+    "id": 100087,
+    "interAction_group": [],
+    "is_3d_obj": 0,
+    "is_get_time_note": 0,
+    "level": 1,
+    "name": "ぐるぐるボール",
+    "offset": [],
+    "picture": "",
+    "rarity": 4,
+    "size": [
+      3,
+      3
+    ],
+    "spine": [
+      [
+        "shuishangbuxingqiuB",
+        "normal"
+      ],
+      [
+        "shuishangbuxingqiuT"
+      ],
+      [
+        [
+          0,
+          0
+        ],
+        [
+          [
+            "dance"
+          ]
+        ],
+        [
+          null,
+          1
+        ],
+        [
+          1
+        ]
+      ],
+      [],
+      [
+        0,
+        0
+      ],
+      [
+        1,
+        1
+      ],
+      0.5
+    ],
+    "spine_action_replace": "",
+    "spine_combine_action_replace": "",
+    "spine_extra": "",
+    "tag": 6,
+    "themeId": 0,
+    "type": 11
+  },
   "200001": {
     "advice": 0,
     "belong": 1,
@@ -166178,6 +166257,7 @@
     100084,
     100085,
     100086,
+    100087,
     200001,
     200002,
     200003,
@@ -172790,6 +172870,7 @@
       100084,
       100085,
       100086,
+      100087,
       31101,
       54104,
       54105
@@ -173385,6 +173466,7 @@
       100084,
       100085,
       100086,
+      100087,
       200001,
       200002,
       200003,
@@ -180505,6 +180587,7 @@
       100077,
       100083,
       100086,
+      100087,
       30123,
       35128,
       36125,

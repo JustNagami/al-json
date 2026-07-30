@@ -35370,11 +35370,11 @@
     "code": 30027,
     "description": [
       [
-        "メタラボ・シーズン任務",
+        "METAショップ交換",
         [
-          "METACHARACTER",
+          "SHOP",
           {
-            "autoOpenShipConfigID": 9713011
+            "warp": "meta"
           }
         ],
         0
@@ -36599,6 +36599,41 @@
     "trans_type": 0,
     "type": 1
   },
+  "30063": {
+    "code": 30063,
+    "description": [
+      [
+        "メタラボ・シーズン任務",
+        [
+          "METACHARACTER",
+          {
+            "autoOpenShipConfigID": 9702131
+          }
+        ],
+        0
+      ]
+    ],
+    "group_type": 970213,
+    "handbook_type": 3,
+    "hide": 0,
+    "index_id": 30063,
+    "nationality": 97,
+    "property_hexagon": [
+      "C",
+      "B",
+      "E",
+      "B",
+      "C",
+      "C"
+    ],
+    "redirect_id": 101,
+    "share_group_id": [],
+    "trans_radar_chart": [],
+    "trans_skill": [],
+    "trans_skin": 0,
+    "trans_type": 0,
+    "type": 2
+  },
   "all": [
     1,
     2,
@@ -37479,7 +37514,8 @@
     30058,
     30060,
     30061,
-    30062
+    30062,
+    30063
   ],
   "get_id_list_by_group_type": {
     "10000": [
@@ -39735,6 +39771,9 @@
     "970212": [
       30060
     ],
+    "970213": [
+      30063
+    ],
     "970301": [
       30013
     ],
@@ -41010,7 +41049,8 @@
       30058,
       30060,
       30061,
-      30062
+      30062,
+      30063
     ]
   }
 }
