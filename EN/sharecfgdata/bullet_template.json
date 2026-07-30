@@ -143976,6 +143976,182 @@
     "type": 9,
     "velocity": 10
   },
+  "161077": {
+    "DMG_font": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "acceleration": [
+      {
+        "flip": false,
+        "t": 0,
+        "u": 0.1,
+        "v": 0
+      }
+    ],
+    "alert_fx": "",
+    "ammo_type": 1,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      6,
+      2,
+      2
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      1,
+      1,
+      1
+    ],
+    "effect_type": 1,
+    "extra_param": [],
+    "hit_fx": "pofang",
+    "hit_sfx": "battle/hit",
+    "hit_type": [],
+    "id": 161077,
+    "miss_fx": "ShellMiss",
+    "miss_sfx": "battle/sink",
+    "modle_ID": "shenyuanbullet14",
+    "out_bound": 0,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 80,
+    "range_offset": 10,
+    "type": 1,
+    "velocity": 3
+  },
+  "161078": {
+    "DMG_font": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "",
+    "ammo_type": 1,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      6,
+      2,
+      2
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      1,
+      1,
+      1
+    ],
+    "effect_type": 1,
+    "extra_param": {
+      "ignoreB": true,
+      "ignoreShield": true,
+      "lastTime": 0.5,
+      "shrapnel": {
+        "1": {
+          "barrage_ID": 81111,
+          "bullet_ID": 161079,
+          "emitterType": "BattleBulletEmitter",
+          "reaim": true
+        },
+        "FXID": ""
+      }
+    },
+    "hit_fx": "Clhit",
+    "hit_sfx": "",
+    "hit_type": [],
+    "id": 161078,
+    "miss_fx": "None",
+    "miss_sfx": "",
+    "modle_ID": "shenyuanbullet14",
+    "out_bound": 0,
+    "pierce_count": 99,
+    "random_damage_rate": 0,
+    "range": 10,
+    "range_offset": 0,
+    "type": 5,
+    "velocity": 15
+  },
+  "161079": {
+    "DMG_font": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "",
+    "ammo_type": 1,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      6,
+      2,
+      2
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      1,
+      1,
+      1
+    ],
+    "effect_type": 1,
+    "extra_param": [],
+    "hit_fx": "Clhit",
+    "hit_sfx": "battle/hit",
+    "hit_type": [],
+    "id": 161079,
+    "miss_fx": "None",
+    "miss_sfx": "",
+    "modle_ID": "shenyuanbullet14",
+    "out_bound": 0,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 100,
+    "range_offset": 0,
+    "type": 1,
+    "velocity": 15
+  },
   "161081": {
     "DMG_font": [
       [
@@ -1276615,6 +1276791,9 @@
     "161074",
     "161075",
     "161076",
+    "161077",
+    "161078",
+    "161079",
     "161081",
     "161082",
     "161090",
