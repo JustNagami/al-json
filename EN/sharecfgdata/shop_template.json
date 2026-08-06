@@ -108740,6 +108740,39 @@
     "type": 8,
     "type_order": 0
   },
+  "500003": {
+    "akashi_pick": 0,
+    "collaboration_skin_time": "",
+    "desc": "一番赏抽卡券钻石购买",
+    "discount": 0,
+    "discount_time": [],
+    "effect_args": [
+      170007
+    ],
+    "first_icon": "",
+    "first_text": "",
+    "genre": "",
+    "group": 0,
+    "group_buy_count": 0,
+    "group_limit": 0,
+    "group_type": 0,
+    "id": 500003,
+    "limit_args": [],
+    "limit_args2": "",
+    "num": 1,
+    "order": 1,
+    "package_sort_id": 0,
+    "package_tag": "",
+    "package_tag_open": 0,
+    "resource_num": 30,
+    "resource_type": 14,
+    "second_text": "",
+    "tag": 0,
+    "time": "always",
+    "time_second": 0,
+    "type": 8,
+    "type_order": 0
+  },
   "999000": {
     "akashi_pick": 0,
     "collaboration_skin_time": "",
@@ -114093,6 +114126,7 @@
     500000,
     500001,
     500002,
+    500003,
     270204,
     270303,
     270304,
@@ -114149,7 +114183,8 @@
       270121,
       500000,
       500001,
-      500002
+      500002,
+      500003
     ],
     "arena_shop": [
       23001,

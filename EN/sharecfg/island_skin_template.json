@@ -69,6 +69,20 @@
     "tag": "",
     "tech_id": 0
   },
+  "1990301": {
+    "desc": "Her red ribbon tie bounces with each step. Her youthful heart is filled with anticipation – for the relaxing day she is about to spend with you~♪",
+    "icon": "skin_1990301",
+    "icon_normal": "",
+    "id": 1990301,
+    "jump_page": "",
+    "model": 1990301,
+    "name": "Rendezvous Between Classes",
+    "ship_group": 19903,
+    "shop_goods_id": 0,
+    "shop_id": 0,
+    "tag": "",
+    "tech_id": 0
+  },
   "2012101": {
     "desc": "A breezy, sleeveless top adorned with purple-and-white stripes. Aim for pillow fight supremacy with lithe and limber moves!",
     "icon": "skin_2012101",
@@ -78,6 +92,20 @@
     "model": 2012101,
     "name": "Operation: Pillow Fight",
     "ship_group": 20121,
+    "shop_goods_id": 0,
+    "shop_id": 0,
+    "tag": "",
+    "tech_id": 0
+  },
+  "2021201": {
+    "desc": "Folded into her uniform is the gentle scent of books. Even with her long hair neatly tied up, her reassuringly elegant smile remains unchanged.",
+    "icon": "skin_2021201",
+    "icon_normal": "",
+    "id": 2021201,
+    "jump_page": "",
+    "model": 2021201,
+    "name": "One Afternoon's Page",
+    "ship_group": 20212,
     "shop_goods_id": 0,
     "shop_id": 0,
     "tag": "",
@@ -223,6 +251,20 @@
     "tag": "",
     "tech_id": 0
   },
+  "5010801": {
+    "desc": "Her tied-up hair bobs with each light, airy step she takes. With her at your side, even the walk back home becomes breezy and light.",
+    "icon": "skin_5010801",
+    "icon_normal": "",
+    "id": 5010801,
+    "jump_page": "",
+    "model": 5010801,
+    "name": "A Cozy Walk Home",
+    "ship_group": 50108,
+    "shop_goods_id": 0,
+    "shop_id": 0,
+    "tag": "",
+    "tech_id": 0
+  },
   "5020101": {
     "desc": "A white camisole coupled with a light beige coat. As elegant as a camellia beneath the moonlight, even the night seems warmer in her presence.",
     "icon": "skin_5020101",
@@ -246,6 +288,34 @@
     "model": 5060101,
     "name": "Planning Comes Later",
     "ship_group": 50601,
+    "shop_goods_id": 0,
+    "shop_id": 0,
+    "tag": "",
+    "tech_id": 0
+  },
+  "9010701": {
+    "desc": "A bowtie hangs casually from her loosened collar. A hint of danger, a passion that cannot be contained – a perfect cocktail that makes your heart race.",
+    "icon": "skin_9010701",
+    "icon_normal": "",
+    "id": 9010701,
+    "jump_page": "",
+    "model": 9010701,
+    "name": "Heart-Pounding Bell's Chime",
+    "ship_group": 90107,
+    "shop_goods_id": 0,
+    "shop_id": 0,
+    "tag": "",
+    "tech_id": 0
+  },
+  "96000101": {
+    "desc": "Her neat, stylish uniform exudes both seriousness and elegance. Even the simple act of stepping through the school gates seems to carry an air of ceremony.",
+    "icon": "skin_96000101",
+    "icon_normal": "",
+    "id": 96000101,
+    "jump_page": "",
+    "model": 96000101,
+    "name": "Prologue to School",
+    "ship_group": 960001,
     "shop_goods_id": 0,
     "shop_id": 0,
     "tag": "",
@@ -341,7 +411,9 @@
     1020501,
     1051701,
     1070301,
+    1990301,
     2012101,
+    2021201,
     2060301,
     2990301,
     3031101,
@@ -352,8 +424,11 @@
     4990201,
     4990601,
     5010701,
+    5010801,
     5020101,
     5060101,
+    9010701,
+    96000101,
     99000201,
     99000202,
     99000101,
@@ -377,8 +452,14 @@
     "10703": [
       1070301
     ],
+    "19903": [
+      1990301
+    ],
     "20121": [
       2012101
+    ],
+    "20212": [
+      2021201
     ],
     "20603": [
       2060301
@@ -410,11 +491,20 @@
     "50107": [
       5010701
     ],
+    "50108": [
+      5010801
+    ],
     "50201": [
       5020101
     ],
     "50601": [
       5060101
+    ],
+    "90107": [
+      9010701
+    ],
+    "960001": [
+      96000101
     ],
     "990001": [
       99000101,

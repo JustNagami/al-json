@@ -6093,6 +6093,80 @@
     "vfx_offset": "",
     "workload": 288000
   },
+  "7100309": {
+    "affected_vfx": "",
+    "affected_vfx_offset": "",
+    "attribute": 6,
+    "collectable_vfx": 0,
+    "commission_cost": [
+      [
+        1,
+        360000
+      ]
+    ],
+    "commission_product": [],
+    "cost": [
+      [
+        1,
+        360000
+      ]
+    ],
+    "drop_display": [],
+    "harvest_vfx": 0,
+    "hitpoint": 0,
+    "id": 7100309,
+    "is_condition": 0,
+    "item_id": 0,
+    "name": "Warehouse Capacity+ IX",
+    "production_limit": 1,
+    "pt_award": 0,
+    "second_product": [],
+    "second_product_display": [],
+    "ship_exp": 600,
+    "stamina_cost": 120,
+    "task_filiter": "",
+    "unitid": "",
+    "unlock_type": 37100309,
+    "vfx_offset": "",
+    "workload": 360000
+  },
+  "7100310": {
+    "affected_vfx": "",
+    "affected_vfx_offset": "",
+    "attribute": 6,
+    "collectable_vfx": 0,
+    "commission_cost": [
+      [
+        1,
+        500000
+      ]
+    ],
+    "commission_product": [],
+    "cost": [
+      [
+        1,
+        500000
+      ]
+    ],
+    "drop_display": [],
+    "harvest_vfx": 0,
+    "hitpoint": 0,
+    "id": 7100310,
+    "is_condition": 0,
+    "item_id": 0,
+    "name": "Warehouse Capacity+ X",
+    "production_limit": 1,
+    "pt_award": 0,
+    "second_product": [],
+    "second_product_display": [],
+    "ship_exp": 720,
+    "stamina_cost": 144,
+    "task_filiter": "",
+    "unitid": "",
+    "unlock_type": 37100310,
+    "vfx_offset": "",
+    "workload": 432000
+  },
   "7110001": {
     "affected_vfx": "",
     "affected_vfx_offset": "",
@@ -15593,6 +15667,8 @@
     7100306,
     7100307,
     7100308,
+    7100309,
+    7100310,
     7130301,
     7130302,
     7140101,

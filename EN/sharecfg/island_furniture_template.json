@@ -557,9 +557,40 @@
     "icon": "furniture_102",
     "id": 102,
     "interact_point": "",
-    "jump_page": [],
+    "jump_page": [
+      [
+        "夏季特产经营",
+        []
+      ]
+    ],
     "model": "island/item/05/50283/prefab/pre_item_05_50283",
     "name": "Summer Development Trophy",
+    "prosperity": 0,
+    "rarity": 4,
+    "setNum": 1,
+    "size": [
+      2,
+      2
+    ],
+    "tech_id": 0,
+    "type": 7
+  },
+  "103": {
+    "bt": "",
+    "capacityCost": 20,
+    "describe": "Ears of wheat flank this giant maple leaf. You can faintly smell the comforting aroma of maple syrup from it.",
+    "hierarchy": 5,
+    "icon": "furniture_103",
+    "id": 103,
+    "interact_point": "",
+    "jump_page": [
+      [
+        "Autumn Specialties",
+        []
+      ]
+    ],
+    "model": "island/item/05/50004/prefab/pre_item_05_50004",
+    "name": "Autumnal Development Trophy II",
     "prosperity": 0,
     "rarity": 4,
     "setNum": 1,
@@ -3161,8 +3192,8 @@
     "rarity": 4,
     "setNum": 1,
     "size": [
-      20,
-      20
+      23,
+      19
     ],
     "tech_id": 0,
     "type": 2
@@ -3860,6 +3891,807 @@
     "tech_id": 0,
     "type": 8
   },
+  "50173": {
+    "bt": "",
+    "capacityCost": 60,
+    "describe": "A pristine metal fence. Perfect for leaning, photo shoots, and photo shoots where you lean.",
+    "hierarchy": 5,
+    "icon": "furniture_50173",
+    "id": 50173,
+    "interact_point": "",
+    "jump_page": [
+      [
+        "Milestone Rewards",
+        []
+      ]
+    ],
+    "model": "island/item/05/50173/prefab/pre_item_05_50173",
+    "name": "White Iron Fence",
+    "prosperity": 0,
+    "rarity": 2,
+    "setNum": 999,
+    "size": [
+      3,
+      1
+    ],
+    "tech_id": 0,
+    "type": 4
+  },
+  "50176": {
+    "bt": "",
+    "capacityCost": 20,
+    "describe": "A pony on a spring base. You, too, can be a Wild West cowboy!",
+    "hierarchy": 5,
+    "icon": "furniture_50176",
+    "id": 50176,
+    "interact_point": "",
+    "jump_page": [
+      [
+        "Milestone Rewards",
+        []
+      ]
+    ],
+    "model": "island/item/05/50176/prefab/pre_item_05_50176",
+    "name": "My Little Spring Rider",
+    "prosperity": 0,
+    "rarity": 2,
+    "setNum": 999,
+    "size": [
+      2,
+      1
+    ],
+    "tech_id": 0,
+    "type": 4
+  },
+  "50179": {
+    "bt": "",
+    "capacityCost": 150,
+    "describe": "Its canopy is like a pink cloud. When the wind blows, petals scatter for drama.",
+    "hierarchy": 5,
+    "icon": "furniture_50179",
+    "id": 50179,
+    "interact_point": "",
+    "jump_page": [
+      [
+        "Milestone Rewards",
+        []
+      ]
+    ],
+    "model": "island/item/05/50179/prefab/pre_item_05_50179",
+    "name": "Sakura Tree",
+    "prosperity": 0,
+    "rarity": 2,
+    "setNum": 999,
+    "size": [
+      1,
+      1
+    ],
+    "tech_id": 0,
+    "type": 4
+  },
+  "50203": {
+    "bt": "",
+    "capacityCost": 60,
+    "describe": "An unfinished game of Go sits atop the table, awaiting your next move.",
+    "hierarchy": 5,
+    "icon": "furniture_50203",
+    "id": 50203,
+    "interact_point": "",
+    "jump_page": [
+      [
+        "Milestone Rewards",
+        []
+      ]
+    ],
+    "model": "island/item/05/50203/prefab/pre_item_05_50203",
+    "name": "Stone Go Table",
+    "prosperity": 0,
+    "rarity": 2,
+    "setNum": 999,
+    "size": [
+      4,
+      2
+    ],
+    "tech_id": 0,
+    "type": 4
+  },
+  "50207": {
+    "bt": "",
+    "capacityCost": 60,
+    "describe": "A wooden table laden with flower pots and gardening tools. The ultimate workbench for any gardener.",
+    "hierarchy": 5,
+    "icon": "furniture_50207",
+    "id": 50207,
+    "interact_point": "",
+    "jump_page": [
+      [
+        "Milestone Rewards",
+        []
+      ]
+    ],
+    "model": "island/item/05/50207/prefab/pre_item_05_50207",
+    "name": "Garden Table",
+    "prosperity": 0,
+    "rarity": 2,
+    "setNum": 999,
+    "size": [
+      2,
+      1
+    ],
+    "tech_id": 0,
+    "type": 3
+  },
+  "50234": {
+    "bt": "",
+    "capacityCost": 20,
+    "describe": "This simple fence oozes rural charm.",
+    "hierarchy": 5,
+    "icon": "furniture_50234",
+    "id": 50234,
+    "interact_point": "",
+    "jump_page": [
+      [
+        "Stellar Prize Draw",
+        []
+      ]
+    ],
+    "model": "island/item/05/50234/prefab/pre_item_05_50234",
+    "name": "Bamboo Fence",
+    "prosperity": 0,
+    "rarity": 4,
+    "setNum": 999,
+    "size": [
+      1,
+      1
+    ],
+    "tech_id": 0,
+    "type": 4
+  },
+  "50300": {
+    "bt": "",
+    "capacityCost": 0,
+    "describe": "A boathouse fashioned from a grounded ship. It's a real eye-catcher in the middle of town.",
+    "hierarchy": 5,
+    "icon": "furniture_50300",
+    "id": 50300,
+    "interact_point": "",
+    "jump_page": [
+      [
+        "Stellar Prize Draw",
+        []
+      ]
+    ],
+    "model": "island/item/05/50300/prefab/pre_item_05_50300",
+    "name": "Boathouse",
+    "prosperity": 0,
+    "rarity": 4,
+    "setNum": 999,
+    "size": [
+      13,
+      17
+    ],
+    "tech_id": 0,
+    "type": 1
+  },
+  "50301": {
+    "bt": "",
+    "capacityCost": 0,
+    "describe": "A makeshift shooting range where cowgirl hopefuls can practice and show off their skills.",
+    "hierarchy": 5,
+    "icon": "furniture_50301",
+    "id": 50301,
+    "interact_point": [
+      24
+    ],
+    "jump_page": [
+      [
+        "Stellar Prize Draw",
+        []
+      ]
+    ],
+    "model": "island/item/05/50301/prefab/pre_item_05_50301",
+    "name": "Simple Shooting Range",
+    "prosperity": 0,
+    "rarity": 4,
+    "setNum": 999,
+    "size": [
+      22,
+      26
+    ],
+    "tech_id": 0,
+    "type": 2
+  },
+  "50302": {
+    "bt": "",
+    "capacityCost": 60,
+    "describe": "Barely big enough for one person. Scare them straight early!",
+    "hierarchy": 5,
+    "icon": "furniture_50302",
+    "id": 50302,
+    "interact_point": [
+      25
+    ],
+    "jump_page": [
+      [
+        "Stellar Prize Draw",
+        []
+      ]
+    ],
+    "model": "island/item/05/50302/prefab/pre_item_05_50302",
+    "name": "Toy Jail",
+    "prosperity": 0,
+    "rarity": 3,
+    "setNum": 999,
+    "size": [
+      4,
+      4
+    ],
+    "tech_id": 0,
+    "type": 4
+  },
+  "50304": {
+    "bt": "",
+    "capacityCost": 20,
+    "describe": "The manifestation of a cozy life, perfect for daydreaming or napping.",
+    "hierarchy": 5,
+    "icon": "furniture_50304",
+    "id": 50304,
+    "interact_point": [
+      26
+    ],
+    "jump_page": [
+      [
+        "Stellar Prize Draw",
+        []
+      ]
+    ],
+    "model": "island/item/05/50304/prefab/pre_item_05_50304",
+    "name": "Cozy Rocking Chair",
+    "prosperity": 0,
+    "rarity": 3,
+    "setNum": 999,
+    "size": [
+      1,
+      1
+    ],
+    "tech_id": 0,
+    "type": 3
+  },
+  "50305": {
+    "bt": "",
+    "capacityCost": 50,
+    "describe": "A cart that travels the wilderness, supporting Wild Western towns.",
+    "hierarchy": 5,
+    "icon": "furniture_50305",
+    "id": 50305,
+    "interact_point": "",
+    "jump_page": [
+      [
+        "Stellar Prize Draw",
+        []
+      ]
+    ],
+    "model": "island/item/05/50305/prefab/pre_item_05_50305",
+    "name": "General Goods Cart",
+    "prosperity": 0,
+    "rarity": 2,
+    "setNum": 999,
+    "size": [
+      4,
+      4
+    ],
+    "tech_id": 0,
+    "type": 4
+  },
+  "50306": {
+    "bt": "",
+    "capacityCost": 50,
+    "describe": "A place where songs and stories warm the soul.",
+    "hierarchy": 5,
+    "icon": "furniture_50306",
+    "id": 50306,
+    "interact_point": [
+      27
+    ],
+    "jump_page": [
+      [
+        "Stellar Prize Draw",
+        []
+      ]
+    ],
+    "model": "island/item/05/50306/prefab/pre_item_05_50306",
+    "name": "Campfire Chat",
+    "prosperity": 0,
+    "rarity": 2,
+    "setNum": 999,
+    "size": [
+      9,
+      9
+    ],
+    "tech_id": 0,
+    "type": 4
+  },
+  "50307": {
+    "bt": "",
+    "capacityCost": 20,
+    "describe": "Baskets of produce and other items are piled up. Look long enough, and you might find a surprise... or a spider.",
+    "hierarchy": 5,
+    "icon": "furniture_50307",
+    "id": 50307,
+    "interact_point": "",
+    "jump_page": [
+      [
+        "Stellar Prize Draw",
+        []
+      ]
+    ],
+    "model": "island/item/05/50307/prefab/pre_item_05_50307",
+    "name": "Fruits and Veggies Stall",
+    "prosperity": 0,
+    "rarity": 2,
+    "setNum": 999,
+    "size": [
+      5,
+      4
+    ],
+    "tech_id": 0,
+    "type": 4
+  },
+  "50308": {
+    "bt": "",
+    "capacityCost": 20,
+    "describe": "Common in taverns, reeking of malt.",
+    "hierarchy": 5,
+    "icon": "furniture_50308",
+    "id": 50308,
+    "interact_point": "",
+    "jump_page": [
+      [
+        "Stellar Prize Draw",
+        []
+      ]
+    ],
+    "model": "island/item/05/50308/prefab/pre_item_05_50308",
+    "name": "Oak Barrel",
+    "prosperity": 0,
+    "rarity": 2,
+    "setNum": 999,
+    "size": [
+      1,
+      1
+    ],
+    "tech_id": 0,
+    "type": 4
+  },
+  "50309": {
+    "bt": "",
+    "capacityCost": 20,
+    "describe": "A gentle glow lights the weary traveler's way.",
+    "hierarchy": 5,
+    "icon": "furniture_50309",
+    "id": 50309,
+    "interact_point": "",
+    "jump_page": [
+      [
+        "Stellar Prize Draw",
+        []
+      ]
+    ],
+    "model": "island/item/05/50309/prefab/pre_item_05_50309",
+    "name": "Corner Streetlight",
+    "prosperity": 0,
+    "rarity": 2,
+    "setNum": 999,
+    "size": [
+      1,
+      1
+    ],
+    "tech_id": 0,
+    "type": 4
+  },
+  "50310": {
+    "bt": "",
+    "capacityCost": 20,
+    "describe": "A coal-burning stove, and a reliable partner in the dead of winter.",
+    "hierarchy": 5,
+    "icon": "furniture_50310",
+    "id": 50310,
+    "interact_point": "",
+    "jump_page": [
+      [
+        "Stellar Prize Draw",
+        []
+      ]
+    ],
+    "model": "island/item/05/50310/prefab/pre_item_05_50310",
+    "name": "Warm Stove",
+    "prosperity": 0,
+    "rarity": 2,
+    "setNum": 999,
+    "size": [
+      4,
+      4
+    ],
+    "tech_id": 0,
+    "type": 3
+  },
+  "50311": {
+    "bt": "",
+    "capacityCost": 20,
+    "describe": "Hammer and anvil unite to create a symphony of flame and metal.",
+    "hierarchy": 5,
+    "icon": "furniture_50311",
+    "id": 50311,
+    "interact_point": "",
+    "jump_page": [
+      [
+        "Stellar Prize Draw",
+        []
+      ]
+    ],
+    "model": "island/item/05/50311/prefab/pre_item_05_50311",
+    "name": "Hammer and Anvil",
+    "prosperity": 0,
+    "rarity": 2,
+    "setNum": 999,
+    "size": [
+      1,
+      1
+    ],
+    "tech_id": 0,
+    "type": 4
+  },
+  "50312": {
+    "bt": "",
+    "capacityCost": 20,
+    "describe": "Indispensable in any town's major hub, covered in wanted posters, information, and questionable ads.",
+    "hierarchy": 5,
+    "icon": "furniture_50312",
+    "id": 50312,
+    "interact_point": "",
+    "jump_page": [
+      [
+        "Stellar Prize Draw",
+        []
+      ]
+    ],
+    "model": "island/item/05/50312/prefab/pre_item_05_50312",
+    "name": "Town Notice Board",
+    "prosperity": 0,
+    "rarity": 2,
+    "setNum": 999,
+    "size": [
+      4,
+      1
+    ],
+    "tech_id": 0,
+    "type": 4
+  },
+  "50313": {
+    "bt": "",
+    "capacityCost": 20,
+    "describe": "A large gate bearing the town's emblem, welcoming all travelers.",
+    "hierarchy": 5,
+    "icon": "furniture_50313",
+    "id": 50313,
+    "interact_point": "",
+    "jump_page": [
+      [
+        "Stellar Prize Draw",
+        []
+      ]
+    ],
+    "model": "island/item/05/50313/prefab/pre_item_05_50313",
+    "name": "Town Gate",
+    "prosperity": 0,
+    "rarity": 2,
+    "setNum": 999,
+    "size": [
+      5,
+      1
+    ],
+    "tech_id": 0,
+    "type": 4
+  },
+  "50314": {
+    "bt": "",
+    "capacityCost": 60,
+    "describe": "Use the lever to raise or lower the hanging cage. The little rat seems to enjoy the gentle ride.",
+    "hierarchy": 5,
+    "icon": "furniture_50314",
+    "id": 50314,
+    "interact_point": [
+      28
+    ],
+    "jump_page": [
+      [
+        "Stellar Prize Draw",
+        []
+      ]
+    ],
+    "model": "island/item/05/50314/prefab/pre_item_05_50314",
+    "name": "Hanging Rat Cage",
+    "prosperity": 0,
+    "rarity": 3,
+    "setNum": 999,
+    "size": [
+      4,
+      2
+    ],
+    "tech_id": 0,
+    "type": 4
+  },
+  "50315": {
+    "bt": "",
+    "capacityCost": 20,
+    "describe": "Having been used long past its service life, the windmill creaks with every turn.",
+    "hierarchy": 5,
+    "icon": "furniture_50315",
+    "id": 50315,
+    "interact_point": "",
+    "jump_page": [
+      [
+        "Stellar Prize Draw",
+        []
+      ]
+    ],
+    "model": "island/item/05/50315/prefab/pre_item_05_50315",
+    "name": "Creaky Windmill",
+    "prosperity": 0,
+    "rarity": 2,
+    "setNum": 999,
+    "size": [
+      3,
+      3
+    ],
+    "tech_id": 0,
+    "type": 4
+  },
+  "50316": {
+    "bt": "",
+    "capacityCost": 20,
+    "describe": "A fence crafted from logs. As simple as it is, it gets the job done.",
+    "hierarchy": 5,
+    "icon": "furniture_50316",
+    "id": 50316,
+    "interact_point": "",
+    "jump_page": [
+      [
+        "Stellar Prize Draw",
+        []
+      ]
+    ],
+    "model": "island/item/05/50316/prefab/pre_item_05_50316",
+    "name": "Log Fence",
+    "prosperity": 0,
+    "rarity": 2,
+    "setNum": 999,
+    "size": [
+      1,
+      1
+    ],
+    "tech_id": 0,
+    "type": 4
+  },
+  "50318": {
+    "bt": "",
+    "capacityCost": 20,
+    "describe": "Tracks that once hauled ore are now little more than rust and memories of the good old days.",
+    "hierarchy": 5,
+    "icon": "furniture_50318",
+    "id": 50318,
+    "interact_point": "",
+    "jump_page": [
+      [
+        "Stellar Prize Draw",
+        []
+      ]
+    ],
+    "model": "island/item/05/50318/prefab/pre_item_05_50318",
+    "name": "Abandoned Railway",
+    "prosperity": 0,
+    "rarity": 2,
+    "setNum": 999,
+    "size": [
+      1,
+      2
+    ],
+    "tech_id": 0,
+    "type": 4
+  },
+  "50319": {
+    "bt": "",
+    "capacityCost": 20,
+    "describe": "This wooden horse statue can be used as a shop's signboard or other decoration.",
+    "hierarchy": 5,
+    "icon": "furniture_50319",
+    "id": 50319,
+    "interact_point": "",
+    "jump_page": [
+      [
+        "Stellar Prize Draw",
+        []
+      ]
+    ],
+    "model": "island/item/05/50319/prefab/pre_item_05_50319",
+    "name": "Wooden Horse Statue",
+    "prosperity": 0,
+    "rarity": 2,
+    "setNum": 999,
+    "size": [
+      2,
+      1
+    ],
+    "tech_id": 0,
+    "type": 4
+  },
+  "50320": {
+    "bt": "",
+    "capacityCost": 20,
+    "describe": "A stack of hay. You won't find any needles here.",
+    "hierarchy": 5,
+    "icon": "furniture_50320",
+    "id": 50320,
+    "interact_point": "",
+    "jump_page": [
+      [
+        "Stellar Prize Draw",
+        []
+      ]
+    ],
+    "model": "island/item/05/50320/prefab/pre_item_05_50320",
+    "name": "Haystack",
+    "prosperity": 0,
+    "rarity": 2,
+    "setNum": 999,
+    "size": [
+      2,
+      1
+    ],
+    "tech_id": 0,
+    "type": 4
+  },
+  "50321": {
+    "bt": "",
+    "capacityCost": 20,
+    "describe": "A rolling clump of weeds. The Wild West's equivalent of crickets chirping.",
+    "hierarchy": 5,
+    "icon": "furniture_50321",
+    "id": 50321,
+    "interact_point": "",
+    "jump_page": [
+      [
+        "Stellar Prize Draw",
+        []
+      ]
+    ],
+    "model": "island/item/05/50321/prefab/pre_item_05_50321",
+    "name": "Tumbleweed",
+    "prosperity": 0,
+    "rarity": 2,
+    "setNum": 999,
+    "size": [
+      1,
+      1
+    ],
+    "tech_id": 0,
+    "type": 4
+  },
+  "50322": {
+    "bt": "",
+    "capacityCost": 20,
+    "describe": "Just about the most common plant in the desert. Lonesome, but hardy... just like a cowboy.",
+    "hierarchy": 5,
+    "icon": "furniture_50322",
+    "id": 50322,
+    "interact_point": "",
+    "jump_page": [
+      [
+        "Stellar Prize Draw",
+        []
+      ]
+    ],
+    "model": "island/item/05/50322/prefab/pre_item_05_50322",
+    "name": "Desert Cactus",
+    "prosperity": 0,
+    "rarity": 2,
+    "setNum": 999,
+    "size": [
+      2,
+      2
+    ],
+    "tech_id": 0,
+    "type": 4
+  },
+  "50325": {
+    "bt": "",
+    "capacityCost": 150,
+    "describe": "A fir standing tall even through sandstorms, guiding the traveler's way.",
+    "hierarchy": 5,
+    "icon": "furniture_50325",
+    "id": 50325,
+    "interact_point": "",
+    "jump_page": [
+      [
+        "Stellar Prize Draw",
+        []
+      ]
+    ],
+    "model": "island/item/05/50325/prefab/pre_item_05_50325",
+    "name": "Towering Fir Tree",
+    "prosperity": 0,
+    "rarity": 2,
+    "setNum": 999,
+    "size": [
+      1,
+      1
+    ],
+    "tech_id": 0,
+    "type": 4
+  },
+  "50347": {
+    "bt": "",
+    "capacityCost": 0,
+    "describe": "Rugged tiles set atop desert ground. Turn your life into a Western.",
+    "hierarchy": 6,
+    "icon": "furniture_50347",
+    "id": 50347,
+    "interact_point": "",
+    "jump_page": [],
+    "model": "island/item/05/50347/prefab/pre_item_05_50347",
+    "name": "Desert Tile (Small)",
+    "prosperity": 0,
+    "rarity": 2,
+    "setNum": 999,
+    "size": [
+      2,
+      2
+    ],
+    "tech_id": 0,
+    "type": 8
+  },
+  "50348": {
+    "bt": "",
+    "capacityCost": 0,
+    "describe": "Rugged tiles set atop desert ground. Turn your life into a Western.",
+    "hierarchy": 6,
+    "icon": "furniture_50348",
+    "id": 50348,
+    "interact_point": "",
+    "jump_page": [],
+    "model": "island/item/05/50348/prefab/pre_item_05_50348",
+    "name": "Desert Tile (Medium)",
+    "prosperity": 0,
+    "rarity": 2,
+    "setNum": 999,
+    "size": [
+      3,
+      3
+    ],
+    "tech_id": 0,
+    "type": 8
+  },
+  "50349": {
+    "bt": "",
+    "capacityCost": 0,
+    "describe": "Rugged tiles set atop desert ground. Turn your life into a Western.",
+    "hierarchy": 6,
+    "icon": "furniture_50349",
+    "id": 50349,
+    "interact_point": "",
+    "jump_page": [],
+    "model": "island/item/05/50349/prefab/pre_item_05_50349",
+    "name": "Desert Tile (Large)",
+    "prosperity": 0,
+    "rarity": 2,
+    "setNum": 999,
+    "size": [
+      5,
+      5
+    ],
+    "tech_id": 0,
+    "type": 8
+  },
   "all": [
     1,
     2,
@@ -3887,6 +4719,7 @@
     100,
     101,
     102,
+    103,
     10101,
     10201,
     10301,
@@ -4014,6 +4847,37 @@
     40420,
     40801,
     40802,
-    40803
+    40803,
+    50173,
+    50176,
+    50179,
+    50203,
+    50207,
+    50234,
+    50300,
+    50301,
+    50302,
+    50304,
+    50305,
+    50306,
+    50307,
+    50308,
+    50309,
+    50310,
+    50311,
+    50312,
+    50313,
+    50314,
+    50315,
+    50316,
+    50318,
+    50319,
+    50320,
+    50321,
+    50322,
+    50325,
+    50347,
+    50348,
+    50349
   ]
 }

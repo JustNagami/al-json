@@ -2456,12 +2456,39 @@
     "world_id": ""
   },
   "96": {
+    "bgm": "story-richang-light",
+    "chapter": 5,
+    "column": 60,
+    "description": "If some encounters are fated to be, then so too must the tribulations that follow. Nevertheless, you are still a guest here. As for those who were not invited – please state your purpose.",
+    "icon": "InterludeOne_3",
+    "id": 96,
+    "link_event": [
+      97
+    ],
+    "memory_id": [
+      1,
+      372
+    ],
+    "memory_lock": 0,
+    "name": "Fateful Encounter",
+    "row": 0,
+    "shipnation": [
+      7,
+      1,
+      2,
+      4,
+      5
+    ],
+    "sort": 1,
+    "world_id": ""
+  },
+  "97": {
     "bgm": "",
     "chapter": 0,
-    "column": 60,
+    "column": 61,
     "description": "Stay Tuned",
     "icon": "",
-    "id": 96,
+    "id": 97,
     "link_event": "",
     "memory_id": "",
     "memory_lock": 1,
@@ -2567,6 +2594,7 @@
     93,
     94,
     95,
-    96
+    96,
+    97
   ]
 }
