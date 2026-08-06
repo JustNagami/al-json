@@ -1030048,6 +1030048,62 @@
     "time_limit": 300,
     "type": 99
   },
+  "2056000": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 0,
+    "ai_mov": 0,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [],
+    "bgm": "battle-deepecho",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2056000,
+    "effect_prefab": "",
+    "exp": 0,
+    "exp_commander": 0,
+    "exp_commander_ratio": 0,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "bossicon",
+    "icon_type": 1,
+    "id": 2056000,
+    "level": 120,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50154,
+        1
+      ]
+    ],
+    "name": "エリート艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 300,
+    "type": 99
+  },
   "3000001": {
     "SLG_destroy_FX": "",
     "add_icon": "",
@@ -1164091,6 +1164147,7 @@
     2044013,
     2044301,
     2044302,
+    2056000,
     2049101,
     2049201,
     2049202,

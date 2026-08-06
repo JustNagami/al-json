@@ -3219,6 +3219,59 @@
     "type": 2,
     "view_name": "VolleyballGameView"
   },
+  "88": {
+    "config_csv": "",
+    "config_csv_key": "",
+    "config_data": "",
+    "game_room": 0,
+    "hub_id": 77,
+    "id": 88,
+    "is_ranking": 1,
+    "mediator_name": "MiniHubMediator",
+    "name": "节奏游戏复刻",
+    "request_data": 0,
+    "simple_config_data": {
+      "drop_ids": [
+        [
+          2,
+          54006,
+          1
+        ],
+        [
+          2,
+          50004,
+          5
+        ],
+        [
+          1,
+          2,
+          300
+        ],
+        [
+          2,
+          54034,
+          2
+        ],
+        [
+          2,
+          20013,
+          1
+        ],
+        [
+          2,
+          54051,
+          1
+        ],
+        [
+          2,
+          59856,
+          1
+        ]
+      ]
+    },
+    "type": 2,
+    "view_name": "MusicBeatGameView"
+  },
   "1001": {
     "config_csv": "",
     "config_csv_key": "",
@@ -3947,6 +4000,7 @@
     86,
     87,
     84,
+    88,
     1001,
     1002,
     1003,
