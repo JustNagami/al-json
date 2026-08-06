@@ -8814,6 +8814,223 @@
     "story_type": 1,
     "unlock_conditions": "完成EPS-8"
   },
+  "471": {
+    "change_background": "star_level_bg_147",
+    "change_bgm": "story-darkplan",
+    "change_prefab": "",
+    "id": 471,
+    "label_key": "",
+    "lock": [
+      [
+        6,
+        27351
+      ],
+      [
+        6,
+        27352
+      ]
+    ],
+    "name": "EP-1 冬日曙光",
+    "pre_event": "",
+    "story": "2056000",
+    "story_type": 2,
+    "unlock_conditions": [
+      "完成DAY1任务",
+      "完成DAY1任务"
+    ]
+  },
+  "472": {
+    "change_background": "bg_port_chongdong",
+    "change_bgm": "main-arbitrationsystem-theme",
+    "change_prefab": "",
+    "id": 472,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        471
+      ],
+      [
+        6,
+        27353
+      ],
+      [
+        6,
+        27354
+      ]
+    ],
+    "name": "EP-2 “她”的到来",
+    "pre_event": [
+      471
+    ],
+    "story": "YOUKEZILAI2",
+    "story_type": 1,
+    "unlock_conditions": [
+      "完成EP-1",
+      "完成DAY2任务",
+      "完成DAY2任务"
+    ]
+  },
+  "473": {
+    "change_background": "star_level_bg_322",
+    "change_bgm": "story-richang-light",
+    "change_prefab": "",
+    "id": 473,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        472
+      ],
+      [
+        6,
+        27355
+      ],
+      [
+        6,
+        27356
+      ]
+    ],
+    "name": "EP-3 新焦点",
+    "pre_event": [
+      472
+    ],
+    "story": "YOUKEZILAI3",
+    "story_type": 1,
+    "unlock_conditions": [
+      "完成EP-2",
+      "完成DAY3任务",
+      "完成DAY3任务"
+    ]
+  },
+  "474": {
+    "change_background": "star_level_bg_328",
+    "change_bgm": "theme-antarctica",
+    "change_prefab": "",
+    "id": 474,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        473
+      ],
+      [
+        6,
+        27357
+      ],
+      [
+        6,
+        27358
+      ]
+    ],
+    "name": "EP-4 而后发生的事",
+    "pre_event": [
+      473
+    ],
+    "story": "YOUKEZILAI4",
+    "story_type": 1,
+    "unlock_conditions": [
+      "完成EP-3",
+      "完成DAY4任务",
+      "完成DAY4任务"
+    ]
+  },
+  "475": {
+    "change_background": "star_level_bg_603",
+    "change_bgm": "story-wanderingcity-future",
+    "change_prefab": "",
+    "id": 475,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        474
+      ],
+      [
+        6,
+        27359
+      ],
+      [
+        6,
+        27360
+      ]
+    ],
+    "name": "EP-5 凛冬高墙",
+    "pre_event": [
+      474
+    ],
+    "story": "YOUKEZILAI5",
+    "story_type": 1,
+    "unlock_conditions": [
+      "完成EP-4",
+      "完成DAY5任务",
+      "完成DAY5任务"
+    ]
+  },
+  "476": {
+    "change_background": "star_level_bg_154",
+    "change_bgm": "story-darkplan",
+    "change_prefab": "",
+    "id": 476,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        475
+      ],
+      [
+        6,
+        27361
+      ],
+      [
+        6,
+        27362
+      ]
+    ],
+    "name": "EP-6 浅层调查",
+    "pre_event": [
+      475
+    ],
+    "story": "YOUKEZILAI6",
+    "story_type": 1,
+    "unlock_conditions": [
+      "完成EP-5",
+      "完成DAY6任务",
+      "完成DAY6任务"
+    ]
+  },
+  "477": {
+    "change_background": "star_level_bg_147",
+    "change_bgm": "story-richang-light",
+    "change_prefab": "",
+    "id": 477,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        476
+      ],
+      [
+        6,
+        27363
+      ],
+      [
+        6,
+        27364
+      ]
+    ],
+    "name": "EP-7 迷城",
+    "pre_event": [
+      476
+    ],
+    "story": "YOUKEZILAI7",
+    "story_type": 1,
+    "unlock_conditions": [
+      "完成EP-6",
+      "完成DAY7任务",
+      "完成DAY7任务"
+    ]
+  },
   "all": [
     1,
     2,
@@ -9241,6 +9458,13 @@
     466,
     467,
     468,
-    469
+    469,
+    471,
+    472,
+    473,
+    474,
+    475,
+    476,
+    477
   ]
 }

@@ -202,6 +202,30 @@
       "data": [],
       "isShow": "function()\n\t\t\tlocal var_38_0 = getProxy(ActivityProxy):getActivityById(ActivityConst.CULTIVATING_PLANT_ID)\n\n\t\t\treturn var_38_0 and not var_38_0:isEnd()\n\t\tend",
       "isTip": "function()\n\t\t\treturn CultivatingPlantTools.NeedShowRedPoint()\n\t\tend"
+    },
+    {
+      "banner": "activity_escapemanor",
+      "event": "ActivityMediator.EVENT_GO_SCENE",
+      "data": [
+        "SCENE.ACTIVITY",
+        {
+          "id": 51073
+        }
+      ],
+      "isShow": "function()\n\t\t\tlocal var_40_0 = getProxy(ActivityProxy):getActivityById(51073)\n\n\t\t\treturn var_40_0 and not var_40_0:isEnd()\n\t\tend",
+      "isTip": "function()\n\t\t\tlocal var_41_0 = getProxy(ActivityProxy):getActivityById(51073)\n\n\t\t\treturn Activity.IsActivityReady(var_41_0)\n\t\tend"
+    },
+    {
+      "banner": "activity_auction",
+      "event": "ActivityMediator.EVENT_GO_SCENE",
+      "data": [
+        "SCENE.ACTIVITY",
+        {
+          "id": 970002
+        }
+      ],
+      "isShow": "function()\n\t\t\tlocal var_42_0 = getProxy(ActivityProxy):getActivityById(970002)\n\n\t\t\treturn var_42_0 and not var_42_0:isEnd()\n\t\tend",
+      "isTip": "function()\n\t\t\tlocal var_43_0 = getProxy(ActivityProxy):getActivityById(970002)\n\t\t\tlocal var_43_1 = getProxy(ActivityProxy):getActivityById(970003)\n\n\t\t\treturn Activity.IsActivityReady(var_43_0) or Activity.IsActivityReady(var_43_1)\n\t\tend"
     }
   ],
   "mainuivirtualicondata": {

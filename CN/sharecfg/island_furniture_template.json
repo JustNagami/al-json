@@ -557,9 +557,40 @@
     "icon": "furniture_102",
     "id": 102,
     "interact_point": "",
-    "jump_page": [],
+    "jump_page": [
+      [
+        "夏季特产经营",
+        []
+      ]
+    ],
     "model": "island/item/05/50283/prefab/pre_item_05_50283",
     "name": "夏季开发奖杯",
+    "prosperity": 0,
+    "rarity": 4,
+    "setNum": 1,
+    "size": [
+      2,
+      2
+    ],
+    "tech_id": 0,
+    "type": 7
+  },
+  "103": {
+    "bt": "",
+    "capacityCost": 20,
+    "describe": "奖杯上，一片巨大的枫叶被丰收的麦穗环抱，能隐隐闻到一股令人安心的枫糖香气。",
+    "hierarchy": 5,
+    "icon": "furniture_103",
+    "id": 103,
+    "interact_point": "",
+    "jump_page": [
+      [
+        "秋季特产经营",
+        []
+      ]
+    ],
+    "model": "island/item/05/50004/prefab/pre_item_05_50004",
+    "name": "秋季开发奖杯II",
     "prosperity": 0,
     "rarity": 4,
     "setNum": 1,
@@ -3161,8 +3192,8 @@
     "rarity": 4,
     "setNum": 1,
     "size": [
-      20,
-      20
+      23,
+      19
     ],
     "tech_id": 0,
     "type": 2
@@ -3860,6 +3891,807 @@
     "tech_id": 0,
     "type": 8
   },
+  "50173": {
+    "bt": "",
+    "capacityCost": 60,
+    "describe": "洁白干净的金属栏杆，适合倚靠或拍照。",
+    "hierarchy": 5,
+    "icon": "furniture_50173",
+    "id": 50173,
+    "interact_point": "",
+    "jump_page": [
+      [
+        "开发季IV-累积PT",
+        []
+      ]
+    ],
+    "model": "island/item/05/50173/prefab/pre_item_05_50173",
+    "name": "白漆铁栏",
+    "prosperity": 0,
+    "rarity": 2,
+    "setNum": 999,
+    "size": [
+      3,
+      1
+    ],
+    "tech_id": 0,
+    "type": 4
+  },
+  "50176": {
+    "bt": "",
+    "capacityCost": 20,
+    "describe": "木头小马配弹簧底座，骑上去就化身西部牛仔~",
+    "hierarchy": 5,
+    "icon": "furniture_50176",
+    "id": 50176,
+    "interact_point": "",
+    "jump_page": [
+      [
+        "开发季IV-累积PT",
+        []
+      ]
+    ],
+    "model": "island/item/05/50176/prefab/pre_item_05_50176",
+    "name": "欢乐小马",
+    "prosperity": 0,
+    "rarity": 2,
+    "setNum": 999,
+    "size": [
+      2,
+      1
+    ],
+    "tech_id": 0,
+    "type": 4
+  },
+  "50179": {
+    "bt": "",
+    "capacityCost": 150,
+    "describe": "树冠如粉色云朵，风来时花瓣飘落显得异常浪漫。",
+    "hierarchy": 5,
+    "icon": "furniture_50179",
+    "id": 50179,
+    "interact_point": "",
+    "jump_page": [
+      [
+        "开发季IV-累积PT",
+        []
+      ]
+    ],
+    "model": "island/item/05/50179/prefab/pre_item_05_50179",
+    "name": "樱花树",
+    "prosperity": 0,
+    "rarity": 2,
+    "setNum": 999,
+    "size": [
+      1,
+      1
+    ],
+    "tech_id": 0,
+    "type": 4
+  },
+  "50203": {
+    "bt": "",
+    "capacityCost": 60,
+    "describe": "石桌上摆放着未完成的棋局，似乎在等某个有缘人完成它。",
+    "hierarchy": 5,
+    "icon": "furniture_50203",
+    "id": 50203,
+    "interact_point": "",
+    "jump_page": [
+      [
+        "开发季IV-累积PT",
+        []
+      ]
+    ],
+    "model": "island/item/05/50203/prefab/pre_item_05_50203",
+    "name": "围棋石座",
+    "prosperity": 0,
+    "rarity": 2,
+    "setNum": 999,
+    "size": [
+      4,
+      2
+    ],
+    "tech_id": 0,
+    "type": 4
+  },
+  "50207": {
+    "bt": "",
+    "capacityCost": 60,
+    "describe": "摆满花盆和园艺工具的小木桌，是园丁最顺手的操作台。",
+    "hierarchy": 5,
+    "icon": "furniture_50207",
+    "id": 50207,
+    "interact_point": "",
+    "jump_page": [
+      [
+        "开发季IV-累积PT",
+        []
+      ]
+    ],
+    "model": "island/item/05/50207/prefab/pre_item_05_50207",
+    "name": "园艺木桌",
+    "prosperity": 0,
+    "rarity": 2,
+    "setNum": 999,
+    "size": [
+      2,
+      1
+    ],
+    "tech_id": 0,
+    "type": 3
+  },
+  "50234": {
+    "bt": "",
+    "capacityCost": 20,
+    "describe": "简朴的竹篱笆，透着一股田园气息。",
+    "hierarchy": 5,
+    "icon": "furniture_50234",
+    "id": 50234,
+    "interact_point": "",
+    "jump_page": [
+      [
+        "星彩奖",
+        []
+      ]
+    ],
+    "model": "island/item/05/50234/prefab/pre_item_05_50234",
+    "name": "竹篱笆",
+    "prosperity": 0,
+    "rarity": 4,
+    "setNum": 999,
+    "size": [
+      1,
+      1
+    ],
+    "tech_id": 0,
+    "type": 4
+  },
+  "50300": {
+    "bt": "",
+    "capacityCost": 0,
+    "describe": "由搁浅的木船改造而成的驿站小屋，在小镇中相当引人注目。",
+    "hierarchy": 5,
+    "icon": "furniture_50300",
+    "id": 50300,
+    "interact_point": "",
+    "jump_page": [
+      [
+        "星彩奖",
+        []
+      ]
+    ],
+    "model": "island/item/05/50300/prefab/pre_item_05_50300",
+    "name": "船屋驿站",
+    "prosperity": 0,
+    "rarity": 4,
+    "setNum": 999,
+    "size": [
+      13,
+      17
+    ],
+    "tech_id": 0,
+    "type": 1
+  },
+  "50301": {
+    "bt": "",
+    "capacityCost": 0,
+    "describe": "用杂物堆砌而成的简易靶场，是“预备牛仔”测试弹弓准度的地方。",
+    "hierarchy": 5,
+    "icon": "furniture_50301",
+    "id": 50301,
+    "interact_point": [
+      24
+    ],
+    "jump_page": [
+      [
+        "星彩奖",
+        []
+      ]
+    ],
+    "model": "island/item/05/50301/prefab/pre_item_05_50301",
+    "name": "简易靶场",
+    "prosperity": 0,
+    "rarity": 4,
+    "setNum": 999,
+    "size": [
+      22,
+      26
+    ],
+    "tech_id": 0,
+    "type": 2
+  },
+  "50302": {
+    "bt": "",
+    "capacityCost": 60,
+    "describe": "粗木条钉成的单人牢笼，勉强能塞一个人进去。",
+    "hierarchy": 5,
+    "icon": "furniture_50302",
+    "id": 50302,
+    "interact_point": [
+      25
+    ],
+    "jump_page": [
+      [
+        "星彩奖",
+        []
+      ]
+    ],
+    "model": "island/item/05/50302/prefab/pre_item_05_50302",
+    "name": "单人牢笼",
+    "prosperity": 0,
+    "rarity": 3,
+    "setNum": 999,
+    "size": [
+      4,
+      4
+    ],
+    "tech_id": 0,
+    "type": 4
+  },
+  "50304": {
+    "bt": "",
+    "capacityCost": 20,
+    "describe": "慢节奏生活的标志，适合发呆或小憩。",
+    "hierarchy": 5,
+    "icon": "furniture_50304",
+    "id": 50304,
+    "interact_point": [
+      26
+    ],
+    "jump_page": [
+      [
+        "星彩奖",
+        []
+      ]
+    ],
+    "model": "island/item/05/50304/prefab/pre_item_05_50304",
+    "name": "悠闲摇摇椅",
+    "prosperity": 0,
+    "rarity": 3,
+    "setNum": 999,
+    "size": [
+      1,
+      1
+    ],
+    "tech_id": 0,
+    "type": 3
+  },
+  "50305": {
+    "bt": "",
+    "capacityCost": 50,
+    "describe": "穿梭于荒野的运输车，支撑着整个小镇的运转。",
+    "hierarchy": 5,
+    "icon": "furniture_50305",
+    "id": 50305,
+    "interact_point": "",
+    "jump_page": [
+      [
+        "星彩奖",
+        []
+      ]
+    ],
+    "model": "island/item/05/50305/prefab/pre_item_05_50305",
+    "name": "流动杂货车",
+    "prosperity": 0,
+    "rarity": 2,
+    "setNum": 999,
+    "size": [
+      4,
+      4
+    ],
+    "tech_id": 0,
+    "type": 4
+  },
+  "50306": {
+    "bt": "",
+    "capacityCost": 50,
+    "describe": "夜晚最温暖的地方，故事和歌声在此交织。",
+    "hierarchy": 5,
+    "icon": "furniture_50306",
+    "id": 50306,
+    "interact_point": [
+      27
+    ],
+    "jump_page": [
+      [
+        "星彩奖",
+        []
+      ]
+    ],
+    "model": "island/item/05/50306/prefab/pre_item_05_50306",
+    "name": "夜话篝火堆",
+    "prosperity": 0,
+    "rarity": 2,
+    "setNum": 999,
+    "size": [
+      9,
+      9
+    ],
+    "tech_id": 0,
+    "type": 4
+  },
+  "50307": {
+    "bt": "",
+    "capacityCost": 20,
+    "describe": "蔬菜筐和杂物堆在一起，翻一翻说不定能找到惊喜。",
+    "hierarchy": 5,
+    "icon": "furniture_50307",
+    "id": 50307,
+    "interact_point": "",
+    "jump_page": [
+      [
+        "星彩奖",
+        []
+      ]
+    ],
+    "model": "island/item/05/50307/prefab/pre_item_05_50307",
+    "name": "果蔬杂货堆",
+    "prosperity": 0,
+    "rarity": 2,
+    "setNum": 999,
+    "size": [
+      5,
+      4
+    ],
+    "tech_id": 0,
+    "type": 4
+  },
+  "50308": {
+    "bt": "",
+    "capacityCost": 20,
+    "describe": "酒馆里最常见的摆设，飘散着麦芽的香气。",
+    "hierarchy": 5,
+    "icon": "furniture_50308",
+    "id": 50308,
+    "interact_point": "",
+    "jump_page": [
+      [
+        "星彩奖",
+        []
+      ]
+    ],
+    "model": "island/item/05/50308/prefab/pre_item_05_50308",
+    "name": "橡木酒桶",
+    "prosperity": 0,
+    "rarity": 2,
+    "setNum": 999,
+    "size": [
+      1,
+      1
+    ],
+    "tech_id": 0,
+    "type": 4
+  },
+  "50309": {
+    "bt": "",
+    "capacityCost": 20,
+    "describe": "昏黄的灯光，为夜归的人指引方向。",
+    "hierarchy": 5,
+    "icon": "furniture_50309",
+    "id": 50309,
+    "interact_point": "",
+    "jump_page": [
+      [
+        "星彩奖",
+        []
+      ]
+    ],
+    "model": "island/item/05/50309/prefab/pre_item_05_50309",
+    "name": "街角路灯",
+    "prosperity": 0,
+    "rarity": 2,
+    "setNum": 999,
+    "size": [
+      1,
+      1
+    ],
+    "tech_id": 0,
+    "type": 4
+  },
+  "50310": {
+    "bt": "",
+    "capacityCost": 20,
+    "describe": "可以加炭的火炉，是寒冬里的温暖依靠。",
+    "hierarchy": 5,
+    "icon": "furniture_50310",
+    "id": 50310,
+    "interact_point": "",
+    "jump_page": [
+      [
+        "星彩奖",
+        []
+      ]
+    ],
+    "model": "island/item/05/50310/prefab/pre_item_05_50310",
+    "name": "温暖火炉",
+    "prosperity": 0,
+    "rarity": 2,
+    "setNum": 999,
+    "size": [
+      4,
+      4
+    ],
+    "tech_id": 0,
+    "type": 3
+  },
+  "50311": {
+    "bt": "",
+    "capacityCost": 20,
+    "describe": "铁锤与铁砧的碰撞，火焰与金属的交响。",
+    "hierarchy": 5,
+    "icon": "furniture_50311",
+    "id": 50311,
+    "interact_point": "",
+    "jump_page": [
+      [
+        "星彩奖",
+        []
+      ]
+    ],
+    "model": "island/item/05/50311/prefab/pre_item_05_50311",
+    "name": "铁砧与锤",
+    "prosperity": 0,
+    "rarity": 2,
+    "setNum": 999,
+    "size": [
+      1,
+      1
+    ],
+    "tech_id": 0,
+    "type": 4
+  },
+  "50312": {
+    "bt": "",
+    "capacityCost": 20,
+    "describe": "贴满通缉令和告示的木牌，是小镇的信息中心。",
+    "hierarchy": 5,
+    "icon": "furniture_50312",
+    "id": 50312,
+    "interact_point": "",
+    "jump_page": [
+      [
+        "星彩奖",
+        []
+      ]
+    ],
+    "model": "island/item/05/50312/prefab/pre_item_05_50312",
+    "name": "小镇公告栏",
+    "prosperity": 0,
+    "rarity": 2,
+    "setNum": 999,
+    "size": [
+      4,
+      1
+    ],
+    "tech_id": 0,
+    "type": 4
+  },
+  "50313": {
+    "bt": "",
+    "capacityCost": 20,
+    "describe": "印着小镇标志的木制大门，欢迎每一位来客。",
+    "hierarchy": 5,
+    "icon": "furniture_50313",
+    "id": 50313,
+    "interact_point": "",
+    "jump_page": [
+      [
+        "星彩奖",
+        []
+      ]
+    ],
+    "model": "island/item/05/50313/prefab/pre_item_05_50313",
+    "name": "小镇大门",
+    "prosperity": 0,
+    "rarity": 2,
+    "setNum": 999,
+    "size": [
+      5,
+      1
+    ],
+    "tech_id": 0,
+    "type": 4
+  },
+  "50314": {
+    "bt": "",
+    "capacityCost": 60,
+    "describe": "用摇杆控制小鼠的升降，是小镇中最滑稽的娱乐设施。",
+    "hierarchy": 5,
+    "icon": "furniture_50314",
+    "id": 50314,
+    "interact_point": [
+      28
+    ],
+    "jump_page": [
+      [
+        "星彩奖",
+        []
+      ]
+    ],
+    "model": "island/item/05/50314/prefab/pre_item_05_50314",
+    "name": "鼠鼠吊笼",
+    "prosperity": 0,
+    "rarity": 3,
+    "setNum": 999,
+    "size": [
+      4,
+      2
+    ],
+    "tech_id": 0,
+    "type": 4
+  },
+  "50315": {
+    "bt": "",
+    "capacityCost": 20,
+    "describe": "已超过使用年限的风车塔，每次转动都会响起吱呀吱呀的声音。",
+    "hierarchy": 5,
+    "icon": "furniture_50315",
+    "id": 50315,
+    "interact_point": "",
+    "jump_page": [
+      [
+        "星彩奖",
+        []
+      ]
+    ],
+    "model": "island/item/05/50315/prefab/pre_item_05_50315",
+    "name": "吱呀风车塔",
+    "prosperity": 0,
+    "rarity": 2,
+    "setNum": 999,
+    "size": [
+      3,
+      3
+    ],
+    "tech_id": 0,
+    "type": 4
+  },
+  "50316": {
+    "bt": "",
+    "capacityCost": 20,
+    "describe": "由原木打磨而成的栏杆，简单实用地划分着区域。",
+    "hierarchy": 5,
+    "icon": "furniture_50316",
+    "id": 50316,
+    "interact_point": "",
+    "jump_page": [
+      [
+        "星彩奖",
+        []
+      ]
+    ],
+    "model": "island/item/05/50316/prefab/pre_item_05_50316",
+    "name": "原木栏杆",
+    "prosperity": 0,
+    "rarity": 2,
+    "setNum": 999,
+    "size": [
+      1,
+      1
+    ],
+    "tech_id": 0,
+    "type": 4
+  },
+  "50318": {
+    "bt": "",
+    "capacityCost": 20,
+    "describe": "曾经运送矿石的铁轨，如今只余锈迹和回忆。",
+    "hierarchy": 5,
+    "icon": "furniture_50318",
+    "id": 50318,
+    "interact_point": "",
+    "jump_page": [
+      [
+        "星彩奖",
+        []
+      ]
+    ],
+    "model": "island/item/05/50318/prefab/pre_item_05_50318",
+    "name": "废弃铁轨",
+    "prosperity": 0,
+    "rarity": 2,
+    "setNum": 999,
+    "size": [
+      1,
+      2
+    ],
+    "tech_id": 0,
+    "type": 4
+  },
+  "50319": {
+    "bt": "",
+    "capacityCost": 20,
+    "describe": "木制的马匹雕像，用作店铺招牌或纯粹装饰。",
+    "hierarchy": 5,
+    "icon": "furniture_50319",
+    "id": 50319,
+    "interact_point": "",
+    "jump_page": [
+      [
+        "星彩奖",
+        []
+      ]
+    ],
+    "model": "island/item/05/50319/prefab/pre_item_05_50319",
+    "name": "木马雕像",
+    "prosperity": 0,
+    "rarity": 2,
+    "setNum": 999,
+    "size": [
+      2,
+      1
+    ],
+    "tech_id": 0,
+    "type": 4
+  },
+  "50320": {
+    "bt": "",
+    "capacityCost": 20,
+    "describe": "圆滚滚的干草垛，散发着田野的清香。",
+    "hierarchy": 5,
+    "icon": "furniture_50320",
+    "id": 50320,
+    "interact_point": "",
+    "jump_page": [
+      [
+        "星彩奖",
+        []
+      ]
+    ],
+    "model": "island/item/05/50320/prefab/pre_item_05_50320",
+    "name": "干草垛",
+    "prosperity": 0,
+    "rarity": 2,
+    "setNum": 999,
+    "size": [
+      2,
+      1
+    ],
+    "tech_id": 0,
+    "type": 4
+  },
+  "50321": {
+    "bt": "",
+    "capacityCost": 20,
+    "describe": "被风吹着到处翻滚的干草团，是西部独有的风景。",
+    "hierarchy": 5,
+    "icon": "furniture_50321",
+    "id": 50321,
+    "interact_point": "",
+    "jump_page": [
+      [
+        "星彩奖",
+        []
+      ]
+    ],
+    "model": "island/item/05/50321/prefab/pre_item_05_50321",
+    "name": "风滚草",
+    "prosperity": 0,
+    "rarity": 2,
+    "setNum": 999,
+    "size": [
+      1,
+      1
+    ],
+    "tech_id": 0,
+    "type": 4
+  },
+  "50322": {
+    "bt": "",
+    "capacityCost": 20,
+    "describe": "西部荒原最常见的植物，顽强而孤独。",
+    "hierarchy": 5,
+    "icon": "furniture_50322",
+    "id": 50322,
+    "interact_point": "",
+    "jump_page": [
+      [
+        "星彩奖",
+        []
+      ]
+    ],
+    "model": "island/item/05/50322/prefab/pre_item_05_50322",
+    "name": "荒原仙人掌",
+    "prosperity": 0,
+    "rarity": 2,
+    "setNum": 999,
+    "size": [
+      2,
+      2
+    ],
+    "tech_id": 0,
+    "type": 4
+  },
+  "50325": {
+    "bt": "",
+    "capacityCost": 150,
+    "describe": "风沙中依然高耸挺立的杉树，是旅人辨认方向的标志。",
+    "hierarchy": 5,
+    "icon": "furniture_50325",
+    "id": 50325,
+    "interact_point": "",
+    "jump_page": [
+      [
+        "星彩奖",
+        []
+      ]
+    ],
+    "model": "island/item/05/50325/prefab/pre_item_05_50325",
+    "name": "高耸冷杉",
+    "prosperity": 0,
+    "rarity": 2,
+    "setNum": 999,
+    "size": [
+      1,
+      1
+    ],
+    "tech_id": 0,
+    "type": 4
+  },
+  "50347": {
+    "bt": "",
+    "capacityCost": 0,
+    "describe": "粗犷风格的地砖铺陈在沙地上，像是把西部片里的街道搬到了脚下~",
+    "hierarchy": 6,
+    "icon": "furniture_50347",
+    "id": 50347,
+    "interact_point": "",
+    "jump_page": [],
+    "model": "island/item/05/50347/prefab/pre_item_05_50347",
+    "name": "荒野地砖（小）",
+    "prosperity": 0,
+    "rarity": 2,
+    "setNum": 999,
+    "size": [
+      2,
+      2
+    ],
+    "tech_id": 0,
+    "type": 8
+  },
+  "50348": {
+    "bt": "",
+    "capacityCost": 0,
+    "describe": "粗犷风格的地砖铺陈在沙地上，像是把西部片里的街道搬到了脚下~",
+    "hierarchy": 6,
+    "icon": "furniture_50348",
+    "id": 50348,
+    "interact_point": "",
+    "jump_page": [],
+    "model": "island/item/05/50348/prefab/pre_item_05_50348",
+    "name": "荒野地砖（中）",
+    "prosperity": 0,
+    "rarity": 2,
+    "setNum": 999,
+    "size": [
+      3,
+      3
+    ],
+    "tech_id": 0,
+    "type": 8
+  },
+  "50349": {
+    "bt": "",
+    "capacityCost": 0,
+    "describe": "粗犷风格的地砖铺陈在沙地上，像是把西部片里的街道搬到了脚下~",
+    "hierarchy": 6,
+    "icon": "furniture_50349",
+    "id": 50349,
+    "interact_point": "",
+    "jump_page": [],
+    "model": "island/item/05/50349/prefab/pre_item_05_50349",
+    "name": "荒野地砖（大）",
+    "prosperity": 0,
+    "rarity": 2,
+    "setNum": 999,
+    "size": [
+      5,
+      5
+    ],
+    "tech_id": 0,
+    "type": 8
+  },
   "all": [
     1,
     2,
@@ -3887,6 +4719,7 @@
     100,
     101,
     102,
+    103,
     10101,
     10201,
     10301,
@@ -4014,6 +4847,37 @@
     40420,
     40801,
     40802,
-    40803
+    40803,
+    50173,
+    50176,
+    50179,
+    50203,
+    50207,
+    50234,
+    50300,
+    50301,
+    50302,
+    50304,
+    50305,
+    50306,
+    50307,
+    50308,
+    50309,
+    50310,
+    50311,
+    50312,
+    50313,
+    50314,
+    50315,
+    50316,
+    50318,
+    50319,
+    50320,
+    50321,
+    50322,
+    50325,
+    50347,
+    50348,
+    50349
   ]
 }

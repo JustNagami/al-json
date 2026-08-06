@@ -342,26 +342,26 @@
     "id": 109,
     "name": "event_core",
     "order": 1,
-    "param": "DreamTourCoreActivityUI",
+    "param": "StarsCityCoreActivityUI",
     "pic": "event_core",
     "text_pic": "text_event_core",
     "time": [
       "default",
-      50652
+      51086
     ],
     "type": 16
   },
   "110": {
     "group_id": 2,
     "id": 110,
-    "name": "event_core_2",
+    "name": "event_minigame",
     "order": 2,
-    "param": "AnniversaryNineCoreActivityUI",
+    "param": "RapidSeasideCoreActivityUI",
     "pic": "event_core3",
     "text_pic": "text_event_core3",
     "time": [
       "default",
-      50611
+      51090
     ],
     "type": 16
   },
@@ -449,20 +449,6 @@
     ],
     "type": 16
   },
-  "117": {
-    "group_id": 1,
-    "id": 117,
-    "name": "event_core",
-    "order": 1,
-    "param": "EscapeManorCoreActivityUI",
-    "pic": "event_core3",
-    "text_pic": "text_event_core3",
-    "time": [
-      "default",
-      51071
-    ],
-    "type": 16
-  },
   "121": {
     "group_id": 2,
     "id": 121,
@@ -488,20 +474,6 @@
     "time": [
       "default",
       50841
-    ],
-    "type": 16
-  },
-  "131": {
-    "group_id": 1,
-    "id": 131,
-    "name": "event_core_2",
-    "order": 1,
-    "param": "AuctionGameCoreActivityUI",
-    "pic": "event_auction",
-    "text_pic": "text_event_auction",
-    "time": [
-      "default",
-      970002
     ],
     "type": 16
   },
@@ -537,11 +509,9 @@
     113,
     114,
     115,
-    117,
     116,
     121,
-    122,
-    131
+    122
   ],
   "get_id_list_by_name": {
     "event_Atelier": [
@@ -573,14 +543,11 @@
     "event_core": [
       109,
       114,
-      117,
       116
     ],
     "event_core_2": [
-      110,
       113,
-      115,
-      131
+      115
     ],
     "event_dreamland": [
       103
@@ -610,6 +577,7 @@
     "event_minigame": [
       20,
       108,
+      110,
       122
     ],
     "event_old_act": [

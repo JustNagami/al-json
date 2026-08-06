@@ -56263,33 +56263,7 @@
     "mark": 20260723,
     "page_core": "",
     "page_info": "",
-    "time": [
-      "timer",
-      [
-        [
-          2026,
-          7,
-          23
-        ],
-        [
-          0,
-          0,
-          0
-        ]
-      ],
-      [
-        [
-          2026,
-          8,
-          6
-        ],
-        [
-          23,
-          59,
-          59
-        ]
-      ]
-    ],
+    "time": "stop",
     "title_res_tag": "",
     "type": 1
   },
@@ -56344,33 +56318,7 @@
       "class_name": "EscapeManorMainPage",
       "ui_name": "EscapeManorMainPage"
     },
-    "time": [
-      "timer",
-      [
-        [
-          2026,
-          7,
-          23
-        ],
-        [
-          0,
-          0,
-          0
-        ]
-      ],
-      [
-        [
-          2026,
-          8,
-          6
-        ],
-        [
-          23,
-          59,
-          59
-        ]
-      ]
-    ],
+    "time": "stop",
     "title_res_tag": "EscapeManorCoreActivity_subtitle_1",
     "type": 93
   },
@@ -56384,33 +56332,7 @@
     "mark": 20260723,
     "page_core": "",
     "page_info": "",
-    "time": [
-      "timer",
-      [
-        [
-          2026,
-          7,
-          23
-        ],
-        [
-          0,
-          0,
-          0
-        ]
-      ],
-      [
-        [
-          2026,
-          8,
-          6
-        ],
-        [
-          23,
-          59,
-          59
-        ]
-      ]
-    ],
+    "time": "stop",
     "title_res_tag": "",
     "type": 94
   },
@@ -56488,33 +56410,7 @@
     "mark": 20260723,
     "page_core": "",
     "page_info": "",
-    "time": [
-      "timer",
-      [
-        [
-          2026,
-          7,
-          23
-        ],
-        [
-          0,
-          0,
-          0
-        ]
-      ],
-      [
-        [
-          2026,
-          8,
-          6
-        ],
-        [
-          23,
-          59,
-          59
-        ]
-      ]
-    ],
+    "time": "stop",
     "title_res_tag": "",
     "type": 13
   },
@@ -56573,33 +56469,7 @@
     "mark": 20260723,
     "page_core": "",
     "page_info": "",
-    "time": [
-      "timer",
-      [
-        [
-          2026,
-          7,
-          23
-        ],
-        [
-          0,
-          0,
-          0
-        ]
-      ],
-      [
-        [
-          2026,
-          8,
-          5
-        ],
-        [
-          23,
-          59,
-          59
-        ]
-      ]
-    ],
+    "time": "stop",
     "title_res_tag": "",
     "type": 27
   },
@@ -56693,13 +56563,115 @@
       ],
       "ui_name": "EscapeManorCollectPage"
     },
+    "time": "stop",
+    "title_res_tag": "EscapeManorCoreActivity_subtitle_3",
+    "type": 103
+  },
+  "51085": {
+    "config_client": {
+      "itemid": 42062
+    },
+    "config_data": [],
+    "config_id": 36,
+    "id": 51085,
+    "is_show": 45,
+    "login_pop": 0,
+    "mark": 20260806,
+    "page_core": "",
+    "page_info": {
+      "class_name": "EelTecCatchupPage",
+      "ui_name": "EelTecCatchupPage"
+    },
     "time": [
       "timer",
       [
         [
           2026,
-          7,
-          23
+          8,
+          6
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2026,
+          9,
+          3
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
+    "title_res_tag": "Georgia_catchup",
+    "type": 69
+  },
+  "51086": {
+    "config_client": "",
+    "config_data": [],
+    "config_id": 40,
+    "id": 51086,
+    "is_show": 4,
+    "login_pop": 0,
+    "mark": 20260806,
+    "page_core": "StarsCityCoreActivityUI",
+    "page_info": {
+      "class_name": "EssexFramePage",
+      "ui_name": "EssexFramePage"
+    },
+    "time": [
+      "timer",
+      [
+        [
+          2026,
+          8,
+          6
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2026,
+          9,
+          3
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
+    "title_res_tag": "StarsCityCoreActivityUI_subtitle_1",
+    "type": 87
+  },
+  "51087": {
+    "config_client": "",
+    "config_data": [],
+    "config_id": 42,
+    "id": 51087,
+    "is_show": 0,
+    "login_pop": 0,
+    "mark": 20260806,
+    "page_core": "",
+    "page_info": "",
+    "time": [
+      "timer",
+      [
+        [
+          2026,
+          8,
+          6
         ],
         [
           0,
@@ -56711,17 +56683,211 @@
         [
           2026,
           8,
-          6
+          13
         ],
         [
-          23,
-          59,
-          59
+          12,
+          0,
+          0
         ]
       ]
     ],
-    "title_res_tag": "EscapeManorCoreActivity_subtitle_3",
-    "type": 103
+    "title_res_tag": "",
+    "type": 58
+  },
+  "51088": {
+    "config_client": {
+      "default_background": "star_level_bg_581",
+      "default_bgm": "battle-deepecho",
+      "storys": [
+        471,
+        472,
+        473,
+        474,
+        475,
+        476,
+        477
+      ],
+      "subType": 1,
+      "task_id": 27365,
+      "unlock_task": [
+        [
+          27351,
+          27352
+        ],
+        [
+          27353,
+          27354
+        ],
+        [
+          27355,
+          27356
+        ],
+        [
+          27357,
+          27358
+        ],
+        [
+          27359,
+          27360
+        ],
+        [
+          27361,
+          27362
+        ],
+        [
+          27363,
+          27364
+        ]
+      ]
+    },
+    "config_data": [
+      [
+        27351,
+        27352,
+        27353,
+        27354,
+        27355,
+        27356,
+        27357,
+        27358,
+        27359,
+        27360,
+        27361,
+        27362,
+        27363,
+        27364
+      ]
+    ],
+    "config_id": 3,
+    "id": 51088,
+    "is_show": 5,
+    "login_pop": 0,
+    "mark": 20260806,
+    "page_core": "StarsCityCoreActivityUI",
+    "page_info": {
+      "class_name": "StarsCityOmenPage",
+      "sub_ui": [
+        "StarsCityOmenTaskWindow"
+      ],
+      "ui_name": "StarsCityOmenPage"
+    },
+    "time": [
+      "timer",
+      [
+        [
+          2026,
+          8,
+          6
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2026,
+          8,
+          27
+        ],
+        [
+          12,
+          0,
+          0
+        ]
+      ]
+    ],
+    "title_res_tag": "StarsCityCoreActivityUI_subtitle_2",
+    "type": 18
+  },
+  "51089": {
+    "config_client": "",
+    "config_data": [
+      27365
+    ],
+    "config_id": 0,
+    "id": 51089,
+    "is_show": 0,
+    "login_pop": 0,
+    "mark": 20260806,
+    "page_core": "",
+    "page_info": "",
+    "time": [
+      "timer",
+      [
+        [
+          2026,
+          8,
+          6
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2026,
+          8,
+          27
+        ],
+        [
+          12,
+          0,
+          0
+        ]
+      ]
+    ],
+    "title_res_tag": "",
+    "type": 13
+  },
+  "51090": {
+    "config_client": {
+      "first_sfx": "qiyuanxiademimi"
+    },
+    "config_data": "0",
+    "config_id": 77,
+    "id": 51090,
+    "is_show": 6,
+    "login_pop": 0,
+    "mark": 20260806,
+    "page_core": "RapidSeasideCoreActivityUI",
+    "page_info": {
+      "class_name": "RapidSeasideMusicGamePage",
+      "ui_name": "RapidSeasideMusicGamePage"
+    },
+    "time": [
+      "timer",
+      [
+        [
+          2026,
+          8,
+          6
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2026,
+          8,
+          27
+        ],
+        [
+          12,
+          0,
+          0
+        ]
+      ]
+    ],
+    "title_res_tag": "RapidSeasideCoreActivityUI_subtitle_1",
+    "type": 57
   },
   "100001": {
     "config_client": "",
@@ -57886,6 +58052,242 @@
     ],
     "title_res_tag": "",
     "type": 18
+  },
+  "990022": {
+    "config_client": "",
+    "config_data": [
+      5
+    ],
+    "config_id": 0,
+    "id": 990022,
+    "is_show": 0,
+    "login_pop": 0,
+    "mark": 20260806,
+    "page_core": "",
+    "page_info": "",
+    "time": [
+      "timer",
+      [
+        [
+          2026,
+          8,
+          6
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2026,
+          11,
+          5
+        ],
+        [
+          12,
+          0,
+          0
+        ]
+      ]
+    ],
+    "title_res_tag": "",
+    "type": 5001
+  },
+  "990023": {
+    "config_client": "",
+    "config_data": [
+      100046,
+      100047,
+      100048,
+      100049,
+      100050,
+      100051,
+      100052,
+      100053,
+      100054,
+      100055,
+      100056,
+      100057,
+      100058,
+      100059,
+      100060
+    ],
+    "config_id": 0,
+    "id": 990023,
+    "is_show": 0,
+    "login_pop": 0,
+    "mark": 20260806,
+    "page_core": "",
+    "page_info": "",
+    "time": [
+      "timer",
+      [
+        [
+          2026,
+          8,
+          6
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2026,
+          11,
+          5
+        ],
+        [
+          12,
+          0,
+          0
+        ]
+      ]
+    ],
+    "title_res_tag": "",
+    "type": 5002
+  },
+  "990024": {
+    "config_client": "",
+    "config_data": [
+      1001,
+      1002,
+      1003,
+      1004,
+      1005,
+      1006,
+      1007,
+      1008
+    ],
+    "config_id": 0,
+    "id": 990024,
+    "is_show": 0,
+    "login_pop": 0,
+    "mark": 20260806,
+    "page_core": "",
+    "page_info": "",
+    "time": [
+      "timer",
+      [
+        [
+          2026,
+          8,
+          6
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2026,
+          11,
+          5
+        ],
+        [
+          12,
+          0,
+          0
+        ]
+      ]
+    ],
+    "title_res_tag": "",
+    "type": 5003
+  },
+  "990025": {
+    "config_client": "",
+    "config_data": [
+      9900001,
+      9900002,
+      9900003,
+      9900004,
+      9900005,
+      9900006,
+      9900007,
+      9900008
+    ],
+    "config_id": 0,
+    "id": 990025,
+    "is_show": 0,
+    "login_pop": 0,
+    "mark": 20260806,
+    "page_core": "",
+    "page_info": "",
+    "time": [
+      "timer",
+      [
+        [
+          2026,
+          8,
+          6
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2026,
+          11,
+          5
+        ],
+        [
+          12,
+          0,
+          0
+        ]
+      ]
+    ],
+    "title_res_tag": "",
+    "type": 5004
+  },
+  "990026": {
+    "config_client": "",
+    "config_data": [],
+    "config_id": 0,
+    "id": 990026,
+    "is_show": 0,
+    "login_pop": 0,
+    "mark": 20260806,
+    "page_core": "",
+    "page_info": "",
+    "time": [
+      "timer",
+      [
+        [
+          2026,
+          8,
+          6
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2026,
+          11,
+          5
+        ],
+        [
+          12,
+          0,
+          0
+        ]
+      ]
+    ],
+    "title_res_tag": "",
+    "type": 800
   },
   "998001": {
     "config_client": "",
@@ -59155,6 +59557,12 @@
     51046,
     51047,
     51050,
+    51085,
+    51086,
+    51087,
+    51088,
+    51089,
+    51090,
     51061,
     51062,
     51063,
@@ -59393,6 +59801,11 @@
     990019,
     990020,
     990021,
+    990022,
+    990023,
+    990024,
+    990025,
+    990026,
     999901
   ],
   "get_id_list_by_type": {
@@ -59839,6 +60252,7 @@
       51015,
       51035,
       51046,
+      51089,
       51074,
       51078,
       1103,
@@ -60126,6 +60540,7 @@
       51005,
       51011,
       51041,
+      51088,
       51063,
       7506,
       6000,
@@ -60442,6 +60857,7 @@
       50811,
       50812,
       50617,
+      51090,
       100002
     ],
     "58": [
@@ -60476,7 +60892,8 @@
       50322,
       50472,
       51004,
-      51042
+      51042,
+      51087
     ],
     "59": [
       368
@@ -60555,7 +60972,8 @@
       50069,
       50101,
       50263,
-      51002
+      51002,
+      51085
     ],
     "70": [
       5246,
@@ -60811,7 +61229,8 @@
       50321,
       50470,
       51003,
-      51040
+      51040,
+      51086
     ],
     "88": [
       50043
@@ -61014,6 +61433,7 @@
     "800": [
       990009,
       990020,
+      990026,
       999901
     ],
     "801": [
@@ -61029,22 +61449,26 @@
       990001,
       990005,
       990011,
-      990016
+      990016,
+      990022
     ],
     "5002": [
       990002,
       990006,
-      990017
+      990017,
+      990023
     ],
     "5003": [
       990003,
       990007,
-      990018
+      990018,
+      990024
     ],
     "5004": [
       990004,
       990008,
-      990019
+      990019,
+      990025
     ]
   }
 }

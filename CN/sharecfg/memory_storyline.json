@@ -2456,12 +2456,39 @@
     "world_id": ""
   },
   "96": {
+    "bgm": "story-richang-light",
+    "chapter": 5,
+    "column": 60,
+    "description": "有些人总是要来，有些事总要面对。不管怎么说，上门即是客。不请自来的客人——表明你的来意吧。",
+    "icon": "InterludeOne_3",
+    "id": 96,
+    "link_event": [
+      97
+    ],
+    "memory_id": [
+      1,
+      372
+    ],
+    "memory_lock": 0,
+    "name": "有客自来 ",
+    "row": 0,
+    "shipnation": [
+      7,
+      1,
+      2,
+      4,
+      5
+    ],
+    "sort": 1,
+    "world_id": ""
+  },
+  "97": {
     "bgm": "",
     "chapter": 0,
-    "column": 60,
+    "column": 61,
     "description": "敬请期待",
     "icon": "",
-    "id": 96,
+    "id": 97,
     "link_event": "",
     "memory_id": "",
     "memory_lock": 1,
@@ -2567,6 +2594,7 @@
     93,
     94,
     95,
-    96
+    96,
+    97
   ]
 }

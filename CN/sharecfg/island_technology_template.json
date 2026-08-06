@@ -374,6 +374,66 @@
       0
     ]
   },
+  "100309": {
+    "auto_finish": 1,
+    "axis": [
+      28,
+      9.5
+    ],
+    "complete_character_id": "",
+    "complete_map_id": 0,
+    "complete_tips": "可前往<color=#1E8FFE>管理界面</color>点击<color=#1E8FFE>仓库</color>查看",
+    "complete_title": "可前往<color=#1E8FFE>管理界面</color>点击<color=#1E8FFE>仓库</color>查看",
+    "formula_id": 7100309,
+    "id": 100309,
+    "island_level": 42,
+    "sys_unlock": [
+      [
+        3,
+        100308
+      ]
+    ],
+    "tech_belong": 1,
+    "tech_chara": 1,
+    "tech_desc": "仓库容量增加，可以放下更多东西啦！",
+    "tech_icon": "tech_100301",
+    "tech_level": "9",
+    "tech_name": "仓库扩建IX",
+    "tech_repeat": [
+      0,
+      0
+    ]
+  },
+  "100310": {
+    "auto_finish": 1,
+    "axis": [
+      28,
+      10
+    ],
+    "complete_character_id": "",
+    "complete_map_id": 0,
+    "complete_tips": "可前往<color=#1E8FFE>管理界面</color>点击<color=#1E8FFE>仓库</color>查看",
+    "complete_title": "可前往<color=#1E8FFE>管理界面</color>点击<color=#1E8FFE>仓库</color>查看",
+    "formula_id": 7100310,
+    "id": 100310,
+    "island_level": 52,
+    "sys_unlock": [
+      [
+        3,
+        100309
+      ]
+    ],
+    "tech_belong": 1,
+    "tech_chara": 1,
+    "tech_desc": "仓库容量增加，可以放下更多东西啦！",
+    "tech_icon": "tech_100301",
+    "tech_level": "10",
+    "tech_name": "仓库扩建X",
+    "tech_repeat": [
+      0,
+      0
+    ]
+  },
   "110001": {
     "auto_finish": 1,
     "axis": [
@@ -6531,6 +6591,8 @@
     110308,
     100307,
     100308,
+    100309,
+    100310,
     110309,
     120005,
     110310,
@@ -6735,6 +6797,8 @@
       110308,
       100307,
       100308,
+      100309,
+      100310,
       110309,
       120005,
       110310,

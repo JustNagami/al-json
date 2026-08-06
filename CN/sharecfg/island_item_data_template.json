@@ -9305,7 +9305,12 @@
     "icon": "IslandProps/item_200004",
     "icon_normal": "",
     "id": 200004,
-    "jump_page": [],
+    "jump_page": [
+      [
+        "计划",
+        []
+      ]
+    ],
     "manage_influence": 0,
     "name": "{namecode:97:大凤}岛屿权限认证函",
     "order_price": 0,
@@ -10094,6 +10099,161 @@
     "usage": "usage_undefined",
     "usage_arg": "[]"
   },
+  "200030": {
+    "convert": 0,
+    "desc": "安克雷奇的岛屿权限认证函。通过岛屿权限认证装置，可获得角色奇异点岛屿出入权限。",
+    "drop_after_use": 0,
+    "filter": [
+      10213
+    ],
+    "group_max": 0,
+    "have_max": 0,
+    "icon": "IslandProps/item_200030",
+    "icon_normal": "",
+    "id": 200030,
+    "jump_page": [
+      [
+        "星彩奖",
+        []
+      ]
+    ],
+    "manage_influence": 0,
+    "name": "安克雷奇岛屿权限认证函",
+    "order_price": 0,
+    "price": 0,
+    "pt_num": 0,
+    "rarity": 4,
+    "resource_type": 0,
+    "sub_attribute": [],
+    "tech_id": 0,
+    "type": 2,
+    "usage": "usage_undefined",
+    "usage_arg": "[]"
+  },
+  "200031": {
+    "convert": 0,
+    "desc": "莫加多尔的岛屿权限认证函。通过岛屿权限认证装置，可获得角色奇异点岛屿出入权限。",
+    "drop_after_use": 0,
+    "filter": [
+      10213
+    ],
+    "group_max": 0,
+    "have_max": 0,
+    "icon": "IslandProps/item_200031",
+    "icon_normal": "",
+    "id": 200031,
+    "jump_page": [
+      [
+        "星彩奖",
+        []
+      ]
+    ],
+    "manage_influence": 0,
+    "name": "莫加多尔岛屿权限认证函",
+    "order_price": 0,
+    "price": 0,
+    "pt_num": 0,
+    "rarity": 4,
+    "resource_type": 0,
+    "sub_attribute": [],
+    "tech_id": 0,
+    "type": 2,
+    "usage": "usage_undefined",
+    "usage_arg": "[]"
+  },
+  "200032": {
+    "convert": 0,
+    "desc": "长风的岛屿权限认证函。通过岛屿权限认证装置，可获得角色奇异点岛屿出入权限。",
+    "drop_after_use": 0,
+    "filter": [
+      10213
+    ],
+    "group_max": 0,
+    "have_max": 0,
+    "icon": "IslandProps/item_200032",
+    "icon_normal": "",
+    "id": 200032,
+    "jump_page": [
+      [
+        "星彩奖",
+        []
+      ]
+    ],
+    "manage_influence": 0,
+    "name": "长风岛屿权限认证函",
+    "order_price": 0,
+    "price": 0,
+    "pt_num": 0,
+    "rarity": 4,
+    "resource_type": 0,
+    "sub_attribute": [],
+    "tech_id": 0,
+    "type": 2,
+    "usage": "usage_undefined",
+    "usage_arg": "[]"
+  },
+  "200033": {
+    "convert": 0,
+    "desc": "皇家财富号的岛屿权限认证函。通过岛屿权限认证装置，可获得角色奇异点岛屿出入权限。",
+    "drop_after_use": 0,
+    "filter": [
+      10213
+    ],
+    "group_max": 0,
+    "have_max": 0,
+    "icon": "IslandProps/item_200033",
+    "icon_normal": "",
+    "id": 200033,
+    "jump_page": [
+      [
+        "商店",
+        []
+      ]
+    ],
+    "manage_influence": 0,
+    "name": "皇家财富号岛屿权限认证函",
+    "order_price": 0,
+    "price": 0,
+    "pt_num": 0,
+    "rarity": 4,
+    "resource_type": 0,
+    "sub_attribute": [],
+    "tech_id": 0,
+    "type": 2,
+    "usage": "usage_undefined",
+    "usage_arg": "[]"
+  },
+  "200034": {
+    "convert": 0,
+    "desc": "贝尔法斯特的岛屿权限认证函。通过岛屿权限认证装置，可获得角色奇异点岛屿出入权限。",
+    "drop_after_use": 0,
+    "filter": [
+      10213
+    ],
+    "group_max": 0,
+    "have_max": 0,
+    "icon": "IslandProps/item_200034",
+    "icon_normal": "",
+    "id": 200034,
+    "jump_page": [
+      [
+        "开发季IV-开发商店",
+        []
+      ]
+    ],
+    "manage_influence": 0,
+    "name": "贝尔法斯特岛屿权限认证函",
+    "order_price": 0,
+    "price": 0,
+    "pt_num": 0,
+    "rarity": 4,
+    "resource_type": 0,
+    "sub_attribute": [],
+    "tech_id": 0,
+    "type": 2,
+    "usage": "usage_undefined",
+    "usage_arg": "[]"
+  },
   "300001": {
     "convert": 0,
     "desc": "获得后，丰壤农田委派效率提高 4%",
@@ -10560,6 +10720,11 @@
     200027,
     200028,
     200029,
+    200030,
+    200031,
+    200032,
+    200033,
+    200034,
     300001,
     300002,
     300003,
@@ -10845,6 +11010,11 @@
       200027,
       200028,
       200029,
+      200030,
+      200031,
+      200032,
+      200033,
+      200034,
       300001,
       300002,
       300003,
@@ -11173,6 +11343,11 @@
       200027,
       200028,
       200029,
+      200030,
+      200031,
+      200032,
+      200033,
+      200034,
       300001,
       300002,
       300003,
