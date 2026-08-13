@@ -9031,6 +9031,921 @@
       "限定任務DAY7をクリア"
     ]
   },
+  "481": {
+    "change_background": "star_level_bg_154",
+    "change_bgm": "story-whiterichard-chasing",
+    "change_prefab": "",
+    "id": 481,
+    "label_key": "",
+    "lock": "",
+    "name": "EP1-1 初夢",
+    "pre_event": "",
+    "story": "CHENNIYUXINGGUANGZHICHENG1",
+    "story_type": 1,
+    "unlock_conditions": ""
+  },
+  "482": {
+    "change_background": "star_level_bg_154",
+    "change_bgm": "story-thinking-philosophy",
+    "change_prefab": "",
+    "id": 482,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        481
+      ]
+    ],
+    "name": "EP1-2 路地裏の異変",
+    "pre_event": [
+      481
+    ],
+    "story": "CHENNIYUXINGGUANGZHICHENG2",
+    "story_type": 1,
+    "unlock_conditions": "EP1-1をクリア"
+  },
+  "483": {
+    "change_background": "star_level_bg_149",
+    "change_bgm": "story-wanderingcity-future",
+    "change_prefab": "",
+    "id": 483,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        482
+      ]
+    ],
+    "name": "EP1-3 第二の名探偵",
+    "pre_event": [
+      482
+    ],
+    "story": "CHENNIYUXINGGUANGZHICHENG3",
+    "story_type": 1,
+    "unlock_conditions": "EP1-2をクリア"
+  },
+  "484": {
+    "change_background": "star_level_bg_603",
+    "change_bgm": "login_us_0401",
+    "change_prefab": "",
+    "id": 484,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        483
+      ]
+    ],
+    "name": "EP1-4 下層エリア",
+    "pre_event": [
+      483
+    ],
+    "story": "CHENNIYUXINGGUANGZHICHENG4",
+    "story_type": 1,
+    "unlock_conditions": "EP1-3をクリア"
+  },
+  "485": {
+    "change_background": "star_level_bg_520",
+    "change_bgm": "idol-BlueSpirit-inst",
+    "change_prefab": "",
+    "id": 485,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        484
+      ]
+    ],
+    "name": "EP1-5 メトロスターライトのルール",
+    "pre_event": [
+      484
+    ],
+    "story": "CHENNIYUXINGGUANGZHICHENG5",
+    "story_type": 1,
+    "unlock_conditions": "EP1-4をクリア"
+  },
+  "486": {
+    "change_background": "star_level_bg_520",
+    "change_bgm": "story-dailyfuture-soft",
+    "change_prefab": "",
+    "id": 486,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        485
+      ]
+    ],
+    "name": "EP2-1 指摘",
+    "pre_event": [
+      485
+    ],
+    "story": "CHENNIYUXINGGUANGZHICHENG6",
+    "story_type": 1,
+    "unlock_conditions": "EP1-5をクリア"
+  },
+  "487": {
+    "change_background": "star_level_bg_529",
+    "change_bgm": "theme-richard-white",
+    "change_prefab": "",
+    "id": 487,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        486
+      ]
+    ],
+    "name": "EP2-2 アイドルとファンクラブ",
+    "pre_event": [
+      486
+    ],
+    "story": "CHENNIYUXINGGUANGZHICHENG7",
+    "story_type": 1,
+    "unlock_conditions": "EP2-1をクリア"
+  },
+  "488": {
+    "change_background": "star_level_bg_313",
+    "change_bgm": "story-whiterichard-chasing",
+    "change_prefab": "",
+    "id": 488,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        487
+      ]
+    ],
+    "name": "EP2-3 感情フラグメント",
+    "pre_event": [
+      486
+    ],
+    "story": "CHENNIYUXINGGUANGZHICHENG8",
+    "story_type": 1,
+    "unlock_conditions": "EP2-2をクリア"
+  },
+  "489": {
+    "change_background": "star_level_bg_313",
+    "change_bgm": "theme-richard-white",
+    "change_prefab": "",
+    "id": 489,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        488
+      ]
+    ],
+    "name": "EP2-4 事件現場調査",
+    "pre_event": [
+      487,
+      488
+    ],
+    "story": "CHENNIYUXINGGUANGZHICHENG9",
+    "story_type": 1,
+    "unlock_conditions": "EP2-3をクリア"
+  },
+  "490": {
+    "change_background": "star_level_bg_160",
+    "change_bgm": "story-dailyfuture-soft",
+    "change_prefab": "",
+    "id": 490,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        489
+      ]
+    ],
+    "name": "EP2-5 等価交換",
+    "pre_event": [
+      489
+    ],
+    "story": "CHENNIYUXINGGUANGZHICHENG10",
+    "story_type": 1,
+    "unlock_conditions": "EP2-4をクリア"
+  },
+  "491": {
+    "change_background": "star_level_bg_306",
+    "change_bgm": "story-whiterichard-chasing",
+    "change_prefab": "",
+    "id": 491,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        490
+      ]
+    ],
+    "name": "EP3-1 調査拡大",
+    "pre_event": [
+      490
+    ],
+    "story": "CHENNIYUXINGGUANGZHICHENG11",
+    "story_type": 1,
+    "unlock_conditions": "EP2-5をクリア"
+  },
+  "492": {
+    "change_background": "star_level_bg_313",
+    "change_bgm": "login_us_0401",
+    "change_prefab": "",
+    "id": 492,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        491
+      ]
+    ],
+    "name": "EP3-2 EP3-2",
+    "pre_event": [
+      491
+    ],
+    "story": "CHENNIYUXINGGUANGZHICHENG12",
+    "story_type": 1,
+    "unlock_conditions": "EP3-1をクリア"
+  },
+  "493": {
+    "change_background": "bg_xingguangcheng_cg1",
+    "change_bgm": "theme-richard-white",
+    "change_prefab": "",
+    "id": 493,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        492
+      ]
+    ],
+    "name": "EP3-3 泥棒の情報",
+    "pre_event": [
+      492
+    ],
+    "story": "CHENNIYUXINGGUANGZHICHENG13",
+    "story_type": 1,
+    "unlock_conditions": "EP3-2をクリア"
+  },
+  "494": {
+    "change_background": "star_level_bg_603",
+    "change_bgm": "login_us_0401",
+    "change_prefab": "",
+    "id": 494,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        493
+      ]
+    ],
+    "name": "EP3-4 メトロポリスエリアへ",
+    "pre_event": [
+      493
+    ],
+    "story": "CHENNIYUXINGGUANGZHICHENG14",
+    "story_type": 1,
+    "unlock_conditions": "EP3-3をクリア"
+  },
+  "495": {
+    "change_background": "star_level_bg_169",
+    "change_bgm": "story-dailyfuture-soft",
+    "change_prefab": "",
+    "id": 495,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        494
+      ]
+    ],
+    "name": "EP4-1 スターライトタワーへの行き方",
+    "pre_event": [
+      494
+    ],
+    "story": "CHENNIYUXINGGUANGZHICHENG15",
+    "story_type": 1,
+    "unlock_conditions": "EP3-4をクリア"
+  },
+  "496": {
+    "change_background": "star_level_bg_603",
+    "change_bgm": "story-dailyfuture-soft",
+    "change_prefab": "",
+    "id": 496,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        495
+      ]
+    ],
+    "name": "EP4-2 公演開催許可証",
+    "pre_event": [
+      495
+    ],
+    "story": "CHENNIYUXINGGUANGZHICHENG16",
+    "story_type": 1,
+    "unlock_conditions": "EP4-1をクリア"
+  },
+  "497": {
+    "change_background": "star_level_bg_169",
+    "change_bgm": "theme-richard-white",
+    "change_prefab": "",
+    "id": 497,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        496
+      ]
+    ],
+    "name": "EP4-3 退勤不可能",
+    "pre_event": [
+      496
+    ],
+    "story": "CHENNIYUXINGGUANGZHICHENG17",
+    "story_type": 1,
+    "unlock_conditions": "EP4-2をクリア"
+  },
+  "498": {
+    "change_background": "star_level_bg_306",
+    "change_bgm": "story-whiterichard-chasing",
+    "change_prefab": "",
+    "id": 498,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        497
+      ]
+    ],
+    "name": "EP4-4 もっともっと許可証",
+    "pre_event": [
+      497
+    ],
+    "story": "CHENNIYUXINGGUANGZHICHENG18",
+    "story_type": 1,
+    "unlock_conditions": "EP4-3をクリア"
+  },
+  "499": {
+    "change_background": "star_level_bg_194",
+    "change_bgm": "doa-az-story-1",
+    "change_prefab": "",
+    "id": 499,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        498
+      ]
+    ],
+    "name": "EP4-5 情報整理",
+    "pre_event": [
+      498
+    ],
+    "story": "CHENNIYUXINGGUANGZHICHENG19",
+    "story_type": 1,
+    "unlock_conditions": "EP4-4をクリア"
+  },
+  "500": {
+    "change_background": "star_level_bg_603",
+    "change_bgm": "login_us_0401",
+    "change_prefab": "",
+    "id": 500,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        499
+      ]
+    ],
+    "name": "EP5-1 会場使用許可証",
+    "pre_event": [
+      499
+    ],
+    "story": "CHENNIYUXINGGUANGZHICHENG20",
+    "story_type": 1,
+    "unlock_conditions": "EP4-5をクリア"
+  },
+  "501": {
+    "change_background": "star_level_bg_529",
+    "change_bgm": "story-dailyfuture-soft",
+    "change_prefab": "",
+    "id": 501,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        500
+      ]
+    ],
+    "name": "EP5-2 次の計画は",
+    "pre_event": [
+      500
+    ],
+    "story": "CHENNIYUXINGGUANGZHICHENG21",
+    "story_type": 1,
+    "unlock_conditions": "EP5-1をクリア"
+  },
+  "502": {
+    "change_background": "star_level_bg_325",
+    "change_bgm": "idol-WISHNESS-inst",
+    "change_prefab": "",
+    "id": 502,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        501
+      ]
+    ],
+    "name": "EP5-3 バンド組もう",
+    "pre_event": [
+      501
+    ],
+    "story": "CHENNIYUXINGGUANGZHICHENG22",
+    "story_type": 1,
+    "unlock_conditions": "EP5-2をクリア"
+  },
+  "503": {
+    "change_background": "star_level_bg_150",
+    "change_bgm": "story-dailyfuture-soft",
+    "change_prefab": "",
+    "id": 503,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        502
+      ]
+    ],
+    "name": "EP5-4 Shining☆Forever",
+    "pre_event": [
+      502
+    ],
+    "story": "CHENNIYUXINGGUANGZHICHENG23",
+    "story_type": 1,
+    "unlock_conditions": "EP5-3をクリア"
+  },
+  "504": {
+    "change_background": "star_level_bg_660",
+    "change_bgm": "theme-richard-white",
+    "change_prefab": "",
+    "id": 504,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        503
+      ]
+    ],
+    "name": "EP5-5 舞台設備許可証",
+    "pre_event": [
+      503
+    ],
+    "story": "CHENNIYUXINGGUANGZHICHENG24",
+    "story_type": 1,
+    "unlock_conditions": "EP5-4をクリア"
+  },
+  "505": {
+    "change_background": "star_level_bg_529",
+    "change_bgm": "theme-richard-white",
+    "change_prefab": "",
+    "id": 505,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        504
+      ]
+    ],
+    "name": "EP5-6 P.M広場",
+    "pre_event": [
+      504
+    ],
+    "story": "CHENNIYUXINGGUANGZHICHENG25",
+    "story_type": 1,
+    "unlock_conditions": "EP5-5をクリア"
+  },
+  "506": {
+    "change_background": "star_level_bg_301",
+    "change_bgm": "story-whiterichard-chasing",
+    "change_prefab": "",
+    "id": 506,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        505
+      ]
+    ],
+    "name": "EP5-7 公演衣装許可証",
+    "pre_event": [
+      505
+    ],
+    "story": "CHENNIYUXINGGUANGZHICHENG26",
+    "story_type": 1,
+    "unlock_conditions": "EP5-6をクリア"
+  },
+  "507": {
+    "change_background": "star_level_bg_301",
+    "change_bgm": "battle-starcity-rhythm",
+    "change_prefab": "",
+    "id": 507,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        506
+      ]
+    ],
+    "name": "EP5-8 呪われた広告カード",
+    "pre_event": [
+      506
+    ],
+    "story": "CHENNIYUXINGGUANGZHICHENG27",
+    "story_type": 1,
+    "unlock_conditions": "EP5-7をクリア"
+  },
+  "508": {
+    "change_background": "star_level_bg_306",
+    "change_bgm": "theme-richang-fashion",
+    "change_prefab": "",
+    "id": 508,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        507
+      ]
+    ],
+    "name": "EP5-9 広告宣伝許可証",
+    "pre_event": [
+      507
+    ],
+    "story": "CHENNIYUXINGGUANGZHICHENG28",
+    "story_type": 1,
+    "unlock_conditions": "EP5-8をクリア"
+  },
+  "509": {
+    "change_background": "star_level_bg_660",
+    "change_bgm": "story-dailyfuture-soft",
+    "change_prefab": "",
+    "id": 509,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        508
+      ]
+    ],
+    "name": "EP6-1 ビッグイズビューティ",
+    "pre_event": [
+      508
+    ],
+    "story": "CHENNIYUXINGGUANGZHICHENG29",
+    "story_type": 1,
+    "unlock_conditions": "EP5-9をクリア"
+  },
+  "510": {
+    "change_background": "star_level_bg_326",
+    "change_bgm": "story-cardrive-stand",
+    "change_prefab": "",
+    "id": 510,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        509
+      ]
+    ],
+    "name": "EP6-2 リシャールの計画",
+    "pre_event": [
+      509
+    ],
+    "story": "CHENNIYUXINGGUANGZHICHENG30",
+    "story_type": 1,
+    "unlock_conditions": "EP6-1をクリア"
+  },
+  "511": {
+    "change_background": "star_level_bg_326",
+    "change_bgm": "story-cardrive-racing",
+    "change_prefab": "",
+    "id": 511,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        510
+      ]
+    ],
+    "name": "EP6-3 ハイスピードレース",
+    "pre_event": [
+      510
+    ],
+    "story": "CHENNIYUXINGGUANGZHICHENG31",
+    "story_type": 1,
+    "unlock_conditions": "EP6-2をクリア"
+  },
+  "512": {
+    "change_background": "star_level_bg_503",
+    "change_bgm": "story-whiterichard-chasing",
+    "change_prefab": "",
+    "id": 512,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        511
+      ]
+    ],
+    "name": "EP6-4 警備チーム許可証",
+    "pre_event": [
+      511
+    ],
+    "story": "CHENNIYUXINGGUANGZHICHENG32",
+    "story_type": 1,
+    "unlock_conditions": "EP6-3をクリア"
+  },
+  "513": {
+    "change_background": "star_level_bg_327",
+    "change_bgm": "theme-undead",
+    "change_prefab": "",
+    "id": 513,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        512
+      ]
+    ],
+    "name": "EP7-1 2つ目の夢",
+    "pre_event": [
+      512
+    ],
+    "story": "CHENNIYUXINGGUANGZHICHENG33",
+    "story_type": 1,
+    "unlock_conditions": "EP6-4をクリア"
+  },
+  "514": {
+    "change_background": "star_level_bg_325",
+    "change_bgm": "theme-commander-ally",
+    "change_prefab": "",
+    "id": 514,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        513
+      ]
+    ],
+    "name": "EP7-2 目覚め",
+    "pre_event": [
+      513
+    ],
+    "story": "CHENNIYUXINGGUANGZHICHENG34",
+    "story_type": 1,
+    "unlock_conditions": "EP7-1をクリア"
+  },
+  "515": {
+    "change_background": "bg_xingguangcheng_2",
+    "change_bgm": "battle-starcity-rhythm",
+    "change_prefab": "",
+    "id": 515,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        514
+      ]
+    ],
+    "name": "EP7-3 蛾の蛍火",
+    "pre_event": [
+      513
+    ],
+    "story": "CHENNIYUXINGGUANGZHICHENG35",
+    "story_type": 1,
+    "unlock_conditions": "EP7-2をクリア"
+  },
+  "516": {
+    "change_background": "bg_xingguangcheng_cg2",
+    "change_bgm": "votefes-up",
+    "change_prefab": "",
+    "id": 516,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        515
+      ]
+    ],
+    "name": "EP7-4 回遊",
+    "pre_event": [
+      515
+    ],
+    "story": "2056001",
+    "story_type": 2,
+    "unlock_conditions": "EP7-3をクリア"
+  },
+  "517": {
+    "change_background": "bg_xingguangcheng_2",
+    "change_bgm": "theme-richard",
+    "change_prefab": "",
+    "id": 517,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        516
+      ]
+    ],
+    "name": "EP7-5 フェイスオフ",
+    "pre_event": [
+      514,
+      516
+    ],
+    "story": "CHENNIYUXINGGUANGZHICHENG37",
+    "story_type": 1,
+    "unlock_conditions": "EP7-4をクリア"
+  },
+  "518": {
+    "change_background": "bg_xingguangcheng_2",
+    "change_bgm": "theme-commander-ally",
+    "change_prefab": "",
+    "id": 518,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        517
+      ]
+    ],
+    "name": "EP8-1 メトロスターライトの戦い",
+    "pre_event": [
+      517
+    ],
+    "story": "2056002",
+    "story_type": 2,
+    "unlock_conditions": "EP7-5をクリア"
+  },
+  "519": {
+    "change_background": "bg_xingguangcheng_3",
+    "change_bgm": "battle-thehierophantV",
+    "change_prefab": "",
+    "id": 519,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        518
+      ]
+    ],
+    "name": "EP8-2 スターライトの外",
+    "pre_event": [
+      518
+    ],
+    "story": "CHENNIYUXINGGUANGZHICHENG39",
+    "story_type": 1,
+    "unlock_conditions": "EP8-1をクリア"
+  },
+  "520": {
+    "change_background": "bg_xingguangcheng_3",
+    "change_bgm": "theme-shallowoftheworld",
+    "change_prefab": "",
+    "id": 520,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        519
+      ]
+    ],
+    "name": "EP8-3 メトロスターライトの戦いⅡ",
+    "pre_event": [
+      519
+    ],
+    "story": "2056003",
+    "story_type": 2,
+    "unlock_conditions": "EP8-2をクリア"
+  },
+  "521": {
+    "change_background": "star_level_bg_592",
+    "change_bgm": "battle-starcity-rhythm",
+    "change_prefab": "",
+    "id": 521,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        520
+      ]
+    ],
+    "name": "EP8-4 メトロスターライトの戦いⅢ",
+    "pre_event": [
+      520
+    ],
+    "story": "2056004",
+    "story_type": 2,
+    "unlock_conditions": "EP8-3をクリア"
+  },
+  "522": {
+    "change_background": "bg_xingguangcheng_cg3",
+    "change_bgm": "theme-lightheven",
+    "change_prefab": "",
+    "id": 522,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        521
+      ]
+    ],
+    "name": "EP8-5 混乱",
+    "pre_event": [
+      521
+    ],
+    "story": "CHENNIYUXINGGUANGZHICHENG42",
+    "story_type": 1,
+    "unlock_conditions": "EP8-4をクリア"
+  },
+  "523": {
+    "change_background": "star_level_bg_543",
+    "change_bgm": "battle-starcity-rhythm",
+    "change_prefab": "",
+    "id": 523,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        522
+      ]
+    ],
+    "name": "EX-1 パンドラの願い",
+    "pre_event": [
+      522
+    ],
+    "story": "CHENNIYUXINGGUANGZHICHENG43",
+    "story_type": 1,
+    "unlock_conditions": "EP8-5をクリア"
+  },
+  "524": {
+    "change_background": "star_level_bg_307",
+    "change_bgm": "theme-donghuang",
+    "change_prefab": "",
+    "id": 524,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        523
+      ]
+    ],
+    "name": "EX-2 探索者の秘密",
+    "pre_event": [
+      523
+    ],
+    "story": "CHENNIYUXINGGUANGZHICHENG44",
+    "story_type": 1,
+    "unlock_conditions": "EX-1をクリア"
+  },
+  "525": {
+    "change_background": "star_level_bg_324",
+    "change_bgm": "theme-suihuoproject",
+    "change_prefab": "",
+    "id": 525,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        524
+      ]
+    ],
+    "name": "EX-3 連合遠征",
+    "pre_event": [
+      524
+    ],
+    "story": "CHENNIYUXINGGUANGZHICHENG45",
+    "story_type": 1,
+    "unlock_conditions": "EX-2をクリア"
+  },
+  "526": {
+    "change_background": "bg_xingguangcheng_1",
+    "change_bgm": "theme-richard-white",
+    "change_prefab": "Map_2050001",
+    "id": 526,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        525
+      ]
+    ],
+    "name": "EX-4 toTheAfter",
+    "pre_event": [
+      525
+    ],
+    "story": "CHENNIYUXINGGUANGZHICHENG46",
+    "story_type": 1,
+    "unlock_conditions": "EX-3をクリア"
+  },
   "all": [
     1,
     2,
@@ -9465,6 +10380,52 @@
     474,
     475,
     476,
-    477
+    477,
+    481,
+    482,
+    483,
+    484,
+    485,
+    486,
+    487,
+    488,
+    489,
+    490,
+    491,
+    492,
+    493,
+    494,
+    495,
+    496,
+    497,
+    498,
+    499,
+    500,
+    501,
+    502,
+    503,
+    504,
+    505,
+    506,
+    507,
+    508,
+    509,
+    510,
+    511,
+    512,
+    513,
+    514,
+    515,
+    516,
+    517,
+    518,
+    519,
+    520,
+    521,
+    522,
+    523,
+    524,
+    525,
+    526
   ]
 }
