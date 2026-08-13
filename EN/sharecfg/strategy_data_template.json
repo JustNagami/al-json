@@ -4134,6 +4134,61 @@
     "name": "Challenge Mode",
     "type": 10
   },
+  "201820": {
+    "arg": [],
+    "buff_id": 0,
+    "buff_type": 0,
+    "desc": "Fragments of emotion spread throughout Astrarium.\nDuring battle, enemies called Glimpses of Emotion will appear. When defeated, they may spawn more Glimpses of Emotion.",
+    "icon": "201820",
+    "iconSize": "",
+    "id": 201820,
+    "name": "Depths of the Astrarium",
+    "type": 10
+  },
+  "201821": {
+    "arg": [],
+    "buff_id": 201821,
+    "buff_type": 0,
+    "desc": "During battle, Yorktown META will provide supporting barrages.",
+    "icon": "201821",
+    "iconSize": "",
+    "id": 201821,
+    "name": "Rain Upon Flowery Seas",
+    "type": 10
+  },
+  "201826": {
+    "arg": [],
+    "buff_id": 201826,
+    "buff_type": 0,
+    "desc": "During battle, Hierophant will provide support.",
+    "icon": "201826",
+    "iconSize": "",
+    "id": 201826,
+    "name": "Corrosive Aberration",
+    "type": 10
+  },
+  "201831": {
+    "arg": [],
+    "buff_id": 0,
+    "buff_type": 0,
+    "desc": "During battle, Bon Homme Richard will be engulfed in a dark tornado that pulls nearby ships closer. Ships pulled into the vortex will <color=#92fc63>sustain continuous damage</color>.\nAt certain points, the wind's direction will shift westward (left of Richard) or eastward (right of Richard). Allies caught in the wind will be afflicted with Corrosion, <color=#92fc63>losing 0.5% Max HP every 1s and taking 20.0% increased DMG</color>.",
+    "icon": "200908",
+    "iconSize": "",
+    "id": 201831,
+    "name": "Challenge Mode",
+    "type": 10
+  },
+  "201832": {
+    "arg": [],
+    "buff_id": 0,
+    "buff_type": 0,
+    "desc": "During battle, Bon Homme Richard will be engulfed in a black tornado that pulls nearby ships closer. Ships pulled into the vortex will <color=#ee0000>be instantly Devoured</color>.\nAt certain points, the wind's direction will shift westward (left of Richard) or eastward (right of Richard). <color=#92fc63>If the Flagship is caught in the wind</color>, the entire Vanguard fleet will <color=#92fc63>gradually accumulate stacks of Corrosion</color>. Corrosion can stack up to 10 times, but leaving the affected area will allow ships to gradually recover.\nAllies afflicted with Corrosion will have the following effects applied:\nNon-META ships will be instantly Devoured when they reach 10 stacks.\nMETA ships will have <color=#92fc63>DMG dealt AND received increased by 10%</color> for each stack, but at 10 stacks, they will <color=#92fc63>lose 2.0% Max HP every 1s</color>.\n\n- Hard Mode Details -\nEnemy DMG dealt is <color=#ffc038>significantly increased</color>. Large enemy shells cannot be nullified by airstrikes or shields.\nThe hitbox of your Vanguard fleet is <color=#92fc63>limited to only the frontmost ship, and the size of the hitbox is also significantly reduced</color>.\nWhen your ship is hit, it will become invulnerable for a short period of time.\n\nThe following gear or skills are rendered ineffective:\n[Fiercer When Cornered], [Operation Rainbow], [Eleventh Hour], [I Will Not Yield!]",
+    "icon": "200908",
+    "iconSize": "",
+    "id": 201832,
+    "name": "Challenge Mode",
+    "type": 10
+  },
   "205001": {
     "arg": [],
     "buff_id": 205001,
@@ -4804,6 +4859,11 @@
     201763,
     201764,
     201765,
+    201820,
+    201821,
+    201826,
+    201831,
+    201832,
     205001,
     205002,
     205003,

@@ -130764,6 +130764,59 @@
       61852
     ]
   },
+  "80681": {
+    "ammo": 10,
+    "ammo_icon": [],
+    "ammo_info": [],
+    "descrip": "Barrage",
+    "equip_info": [],
+    "equip_parameters": [],
+    "hidden_skill_id": [],
+    "icon": "1",
+    "id": 80681,
+    "label": [],
+    "name": "All Out Assault I",
+    "nationality": 0,
+    "part_main": [
+      1,
+      19,
+      20,
+      21
+    ],
+    "part_sub": [
+      2,
+      3,
+      4,
+      5,
+      8,
+      13,
+      18
+    ],
+    "property_rate": [],
+    "rarity": 1,
+    "skill_id": [],
+    "speciality": "<[NA]>",
+    "tech": 1,
+    "torpedo_ammo": 0,
+    "type": 1,
+    "value_1": "0",
+    "value_2": 0,
+    "value_3": 0,
+    "weapon_id": [
+      171111,
+      171113
+    ]
+  },
+  "80682": {
+    "base": 80681,
+    "hidden_skill_id": [],
+    "id": 80682,
+    "name": "专属弹幕-柯莱特II",
+    "weapon_id": [
+      171112,
+      171113
+    ]
+  },
   "85000": {
     "ammo": 3,
     "ammo_icon": [
@@ -166397,6 +166450,125 @@
     "id": 151211,
     "value_1": "65"
   },
+  "151220": {
+    "ammo": 10,
+    "ammo_icon": [],
+    "ammo_info": [],
+    "attribute_1": "durability",
+    "descrip": "Collett's favorite digital pet. She's on her thirteenth one by now, so hopefully she'll feed it this time.",
+    "equip_info": [
+      6
+    ],
+    "equip_parameters": [],
+    "hidden_skill_id": [],
+    "icon": "151220",
+    "id": 151220,
+    "label": [
+      "USS",
+      "DEV"
+    ],
+    "name": "Error XIII",
+    "nationality": 1,
+    "part_main": [],
+    "part_sub": [],
+    "property_rate": [],
+    "rarity": 5,
+    "skill_id": [
+      [
+        61130,
+        1
+      ]
+    ],
+    "speciality": "<[NA]>",
+    "tech": 0,
+    "torpedo_ammo": 0,
+    "type": 10,
+    "value_1": "250",
+    "value_2": 0,
+    "value_3": 0,
+    "weapon_id": []
+  },
+  "151221": {
+    "base": 151220,
+    "hidden_skill_id": [],
+    "id": 151221,
+    "value_1": "280"
+  },
+  "151222": {
+    "base": 151220,
+    "hidden_skill_id": [],
+    "id": 151222,
+    "value_1": "310"
+  },
+  "151223": {
+    "base": 151220,
+    "hidden_skill_id": [],
+    "id": 151223,
+    "value_1": "340"
+  },
+  "151224": {
+    "base": 151220,
+    "hidden_skill_id": [],
+    "id": 151224,
+    "value_1": "370"
+  },
+  "151225": {
+    "base": 151220,
+    "hidden_skill_id": [],
+    "id": 151225,
+    "value_1": "400"
+  },
+  "151226": {
+    "base": 151220,
+    "hidden_skill_id": [],
+    "id": 151226,
+    "value_1": "430"
+  },
+  "151227": {
+    "base": 151220,
+    "hidden_skill_id": [],
+    "id": 151227,
+    "value_1": "460"
+  },
+  "151228": {
+    "base": 151220,
+    "hidden_skill_id": [],
+    "id": 151228,
+    "value_1": "490"
+  },
+  "151229": {
+    "base": 151220,
+    "hidden_skill_id": [],
+    "id": 151229,
+    "value_1": "520"
+  },
+  "151230": {
+    "base": 151220,
+    "hidden_skill_id": [],
+    "id": 151230,
+    "value_1": "550"
+  },
+  "151231": {
+    "anti_siren": 100,
+    "base": 151220,
+    "hidden_skill_id": [],
+    "id": 151231,
+    "value_1": "580"
+  },
+  "151232": {
+    "anti_siren": 200,
+    "base": 151220,
+    "hidden_skill_id": [],
+    "id": 151232,
+    "value_1": "610"
+  },
+  "151233": {
+    "anti_siren": 300,
+    "base": 151220,
+    "hidden_skill_id": [],
+    "id": 151233,
+    "value_1": "640"
+  },
   "170001": {
     "ammo": 10,
     "ammo_icon": [],
@@ -168223,6 +168395,57 @@
     "name": "专属弹幕-萨里II",
     "weapon_id": [
       171082
+    ]
+  },
+  "171091": {
+    "ammo": 10,
+    "ammo_icon": [],
+    "ammo_info": [],
+    "descrip": "Barrage",
+    "equip_info": [],
+    "equip_parameters": [],
+    "hidden_skill_id": [],
+    "icon": "1",
+    "id": 171091,
+    "label": [],
+    "name": "All Out Assault I",
+    "nationality": 0,
+    "part_main": [
+      1,
+      19,
+      20,
+      21
+    ],
+    "part_sub": [
+      2,
+      3,
+      4,
+      5,
+      8,
+      13,
+      18
+    ],
+    "property_rate": [],
+    "rarity": 1,
+    "skill_id": [],
+    "speciality": "<[NA]>",
+    "tech": 1,
+    "torpedo_ammo": 0,
+    "type": 1,
+    "value_1": "0",
+    "value_2": 0,
+    "value_3": 0,
+    "weapon_id": [
+      171091
+    ]
+  },
+  "171092": {
+    "base": 171091,
+    "hidden_skill_id": [],
+    "id": 171092,
+    "name": "专属弹幕-维克斯堡II",
+    "weapon_id": [
+      171092
     ]
   },
   "180000": {
@@ -180410,6 +180633,8 @@
     80672,
     80661,
     80662,
+    80681,
+    80682,
     85000,
     85001,
     85002,
@@ -183198,6 +183423,20 @@
     151209,
     151210,
     151211,
+    151220,
+    151221,
+    151222,
+    151223,
+    151224,
+    151225,
+    151226,
+    151227,
+    151228,
+    151229,
+    151230,
+    151231,
+    151232,
+    151233,
     170001,
     170002,
     170011,
@@ -183269,6 +183508,8 @@
     171072,
     171081,
     171082,
+    171091,
+    171092,
     180000,
     180001,
     180025,

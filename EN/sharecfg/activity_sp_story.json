@@ -9031,6 +9031,921 @@
       "Complete day 7 event missions"
     ]
   },
+  "481": {
+    "change_background": "star_level_bg_154",
+    "change_bgm": "story-whiterichard-chasing",
+    "change_prefab": "",
+    "id": 481,
+    "label_key": "",
+    "lock": "",
+    "name": "EP1-1 The First Dream",
+    "pre_event": "",
+    "story": "CHENNIYUXINGGUANGZHICHENG1",
+    "story_type": 1,
+    "unlock_conditions": ""
+  },
+  "482": {
+    "change_background": "star_level_bg_154",
+    "change_bgm": "story-thinking-philosophy",
+    "change_prefab": "",
+    "id": 482,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        481
+      ]
+    ],
+    "name": "EP1-2 An Alley Anomaly",
+    "pre_event": [
+      481
+    ],
+    "story": "CHENNIYUXINGGUANGZHICHENG2",
+    "story_type": 1,
+    "unlock_conditions": "Clear EP1-1"
+  },
+  "483": {
+    "change_background": "star_level_bg_149",
+    "change_bgm": "story-wanderingcity-future",
+    "change_prefab": "",
+    "id": 483,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        482
+      ]
+    ],
+    "name": "EP1-3 The Pupil Becomes the Master",
+    "pre_event": [
+      482
+    ],
+    "story": "CHENNIYUXINGGUANGZHICHENG3",
+    "story_type": 1,
+    "unlock_conditions": "Clear EP1-2"
+  },
+  "484": {
+    "change_background": "star_level_bg_603",
+    "change_bgm": "login_us_0401",
+    "change_prefab": "",
+    "id": 484,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        483
+      ]
+    ],
+    "name": "EP1-4 The Lower City",
+    "pre_event": [
+      483
+    ],
+    "story": "CHENNIYUXINGGUANGZHICHENG4",
+    "story_type": 1,
+    "unlock_conditions": "Clear EP1-3"
+  },
+  "485": {
+    "change_background": "star_level_bg_520",
+    "change_bgm": "idol-BlueSpirit-inst",
+    "change_prefab": "",
+    "id": 485,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        484
+      ]
+    ],
+    "name": "EP1-5 The Rules of Astrarium",
+    "pre_event": [
+      484
+    ],
+    "story": "CHENNIYUXINGGUANGZHICHENG5",
+    "story_type": 1,
+    "unlock_conditions": "Clear EP1-4."
+  },
+  "486": {
+    "change_background": "star_level_bg_520",
+    "change_bgm": "story-dailyfuture-soft",
+    "change_prefab": "",
+    "id": 486,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        485
+      ]
+    ],
+    "name": "EP2-1 Instruction",
+    "pre_event": [
+      485
+    ],
+    "story": "CHENNIYUXINGGUANGZHICHENG6",
+    "story_type": 1,
+    "unlock_conditions": "Clear EP1-5."
+  },
+  "487": {
+    "change_background": "star_level_bg_529",
+    "change_bgm": "theme-richard-white",
+    "change_prefab": "",
+    "id": 487,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        486
+      ]
+    ],
+    "name": "EP2-2 An Idol's Fan Club",
+    "pre_event": [
+      486
+    ],
+    "story": "CHENNIYUXINGGUANGZHICHENG7",
+    "story_type": 1,
+    "unlock_conditions": "Clear EP2-1"
+  },
+  "488": {
+    "change_background": "star_level_bg_313",
+    "change_bgm": "story-whiterichard-chasing",
+    "change_prefab": "",
+    "id": 488,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        487
+      ]
+    ],
+    "name": "EP2-3 Fragments of Emotion",
+    "pre_event": [
+      486
+    ],
+    "story": "CHENNIYUXINGGUANGZHICHENG8",
+    "story_type": 1,
+    "unlock_conditions": "Clear EP2-2"
+  },
+  "489": {
+    "change_background": "star_level_bg_313",
+    "change_bgm": "theme-richard-white",
+    "change_prefab": "",
+    "id": 489,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        488
+      ]
+    ],
+    "name": "EP2-4 Crime Scene Investigation",
+    "pre_event": [
+      487,
+      488
+    ],
+    "story": "CHENNIYUXINGGUANGZHICHENG9",
+    "story_type": 1,
+    "unlock_conditions": "Clear EP2-3"
+  },
+  "490": {
+    "change_background": "star_level_bg_160",
+    "change_bgm": "story-dailyfuture-soft",
+    "change_prefab": "",
+    "id": 490,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        489
+      ]
+    ],
+    "name": "EP2-5 Equivalent Exchange",
+    "pre_event": [
+      489
+    ],
+    "story": "CHENNIYUXINGGUANGZHICHENG10",
+    "story_type": 1,
+    "unlock_conditions": "Clear EP2-4"
+  },
+  "491": {
+    "change_background": "star_level_bg_306",
+    "change_bgm": "story-whiterichard-chasing",
+    "change_prefab": "",
+    "id": 491,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        490
+      ]
+    ],
+    "name": "EP3-1 The Investigation Grows",
+    "pre_event": [
+      490
+    ],
+    "story": "CHENNIYUXINGGUANGZHICHENG11",
+    "story_type": 1,
+    "unlock_conditions": "Clear EP2-5"
+  },
+  "492": {
+    "change_background": "star_level_bg_313",
+    "change_bgm": "login_us_0401",
+    "change_prefab": "",
+    "id": 492,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        491
+      ]
+    ],
+    "name": "EP3-2 Security Specialist",
+    "pre_event": [
+      491
+    ],
+    "story": "CHENNIYUXINGGUANGZHICHENG12",
+    "story_type": 1,
+    "unlock_conditions": "Clear EP3-1"
+  },
+  "493": {
+    "change_background": "bg_xingguangcheng_cg1",
+    "change_bgm": "theme-richard-white",
+    "change_prefab": "",
+    "id": 493,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        492
+      ]
+    ],
+    "name": "EP3-3 The Thief's Whereabouts",
+    "pre_event": [
+      492
+    ],
+    "story": "CHENNIYUXINGGUANGZHICHENG13",
+    "story_type": 1,
+    "unlock_conditions": "Clear EP3-2"
+  },
+  "494": {
+    "change_background": "star_level_bg_603",
+    "change_bgm": "login_us_0401",
+    "change_prefab": "",
+    "id": 494,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        493
+      ]
+    ],
+    "name": "EP3-4 To the Metropolis",
+    "pre_event": [
+      493
+    ],
+    "story": "CHENNIYUXINGGUANGZHICHENG14",
+    "story_type": 1,
+    "unlock_conditions": "Clear EP3-3"
+  },
+  "495": {
+    "change_background": "star_level_bg_169",
+    "change_bgm": "story-dailyfuture-soft",
+    "change_prefab": "",
+    "id": 495,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        494
+      ]
+    ],
+    "name": "EP4-1 Reaching Astral Tower",
+    "pre_event": [
+      494
+    ],
+    "story": "CHENNIYUXINGGUANGZHICHENG15",
+    "story_type": 1,
+    "unlock_conditions": "Clear EP3-4"
+  },
+  "496": {
+    "change_background": "star_level_bg_603",
+    "change_bgm": "story-dailyfuture-soft",
+    "change_prefab": "",
+    "id": 496,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        495
+      ]
+    ],
+    "name": "EP4-2 Performance Permit",
+    "pre_event": [
+      495
+    ],
+    "story": "CHENNIYUXINGGUANGZHICHENG16",
+    "story_type": 1,
+    "unlock_conditions": "Clear EP4-1"
+  },
+  "497": {
+    "change_background": "star_level_bg_169",
+    "change_bgm": "theme-richard-white",
+    "change_prefab": "",
+    "id": 497,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        496
+      ]
+    ],
+    "name": "EP4-3 Eternal Overtime",
+    "pre_event": [
+      496
+    ],
+    "story": "CHENNIYUXINGGUANGZHICHENG17",
+    "story_type": 1,
+    "unlock_conditions": "Clear EP4-2"
+  },
+  "498": {
+    "change_background": "star_level_bg_306",
+    "change_bgm": "story-whiterichard-chasing",
+    "change_prefab": "",
+    "id": 498,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        497
+      ]
+    ],
+    "name": "EP4-4 Permits Abound",
+    "pre_event": [
+      497
+    ],
+    "story": "CHENNIYUXINGGUANGZHICHENG18",
+    "story_type": 1,
+    "unlock_conditions": "Clear EP4-3"
+  },
+  "499": {
+    "change_background": "star_level_bg_194",
+    "change_bgm": "doa-az-story-1",
+    "change_prefab": "",
+    "id": 499,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        498
+      ]
+    ],
+    "name": "EP4-5 Information Management",
+    "pre_event": [
+      498
+    ],
+    "story": "CHENNIYUXINGGUANGZHICHENG19",
+    "story_type": 1,
+    "unlock_conditions": "Clear EP4-4"
+  },
+  "500": {
+    "change_background": "star_level_bg_603",
+    "change_bgm": "login_us_0401",
+    "change_prefab": "",
+    "id": 500,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        499
+      ]
+    ],
+    "name": "EP5-1 Venue Usage Permit",
+    "pre_event": [
+      499
+    ],
+    "story": "CHENNIYUXINGGUANGZHICHENG20",
+    "story_type": 1,
+    "unlock_conditions": "Clear EP4-5"
+  },
+  "501": {
+    "change_background": "star_level_bg_529",
+    "change_bgm": "story-dailyfuture-soft",
+    "change_prefab": "",
+    "id": 501,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        500
+      ]
+    ],
+    "name": "EP5-2 Next Steps",
+    "pre_event": [
+      500
+    ],
+    "story": "CHENNIYUXINGGUANGZHICHENG21",
+    "story_type": 1,
+    "unlock_conditions": "Clear EP5-1"
+  },
+  "502": {
+    "change_background": "star_level_bg_325",
+    "change_bgm": "idol-WISHNESS-inst",
+    "change_prefab": "",
+    "id": 502,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        501
+      ]
+    ],
+    "name": "EP5-3 Let's Start a Band!",
+    "pre_event": [
+      501
+    ],
+    "story": "CHENNIYUXINGGUANGZHICHENG22",
+    "story_type": 1,
+    "unlock_conditions": "Clear EP5-2"
+  },
+  "503": {
+    "change_background": "star_level_bg_150",
+    "change_bgm": "story-dailyfuture-soft",
+    "change_prefab": "",
+    "id": 503,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        502
+      ]
+    ],
+    "name": "EP5-4 Shining☆Forever",
+    "pre_event": [
+      502
+    ],
+    "story": "CHENNIYUXINGGUANGZHICHENG23",
+    "story_type": 1,
+    "unlock_conditions": "Clear EP5-3"
+  },
+  "504": {
+    "change_background": "star_level_bg_660",
+    "change_bgm": "theme-richard-white",
+    "change_prefab": "",
+    "id": 504,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        503
+      ]
+    ],
+    "name": "EP5-5 Stage Equipment Permit",
+    "pre_event": [
+      503
+    ],
+    "story": "CHENNIYUXINGGUANGZHICHENG24",
+    "story_type": 1,
+    "unlock_conditions": "Clear EP5-4"
+  },
+  "505": {
+    "change_background": "star_level_bg_529",
+    "change_bgm": "theme-richard-white",
+    "change_prefab": "",
+    "id": 505,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        504
+      ]
+    ],
+    "name": "EP5-6 PM Plaza",
+    "pre_event": [
+      504
+    ],
+    "story": "CHENNIYUXINGGUANGZHICHENG25",
+    "story_type": 1,
+    "unlock_conditions": "Clear EP5-5"
+  },
+  "506": {
+    "change_background": "star_level_bg_301",
+    "change_bgm": "story-whiterichard-chasing",
+    "change_prefab": "",
+    "id": 506,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        505
+      ]
+    ],
+    "name": "EP5-7 Costume Permit",
+    "pre_event": [
+      505
+    ],
+    "story": "CHENNIYUXINGGUANGZHICHENG26",
+    "story_type": 1,
+    "unlock_conditions": "Clear EP5-6."
+  },
+  "507": {
+    "change_background": "star_level_bg_301",
+    "change_bgm": "battle-starcity-rhythm",
+    "change_prefab": "",
+    "id": 507,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        506
+      ]
+    ],
+    "name": "EP5-8 The Cursed Business Cards",
+    "pre_event": [
+      506
+    ],
+    "story": "CHENNIYUXINGGUANGZHICHENG27",
+    "story_type": 1,
+    "unlock_conditions": "Clear EP5-7"
+  },
+  "508": {
+    "change_background": "star_level_bg_306",
+    "change_bgm": "theme-richang-fashion",
+    "change_prefab": "",
+    "id": 508,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        507
+      ]
+    ],
+    "name": "EP5-9 Advertising Permit",
+    "pre_event": [
+      507
+    ],
+    "story": "CHENNIYUXINGGUANGZHICHENG28",
+    "story_type": 1,
+    "unlock_conditions": "Clear EP5-8"
+  },
+  "509": {
+    "change_background": "star_level_bg_660",
+    "change_bgm": "story-dailyfuture-soft",
+    "change_prefab": "",
+    "id": 509,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        508
+      ]
+    ],
+    "name": "EP6-1 Bigger Is Better",
+    "pre_event": [
+      508
+    ],
+    "story": "CHENNIYUXINGGUANGZHICHENG29",
+    "story_type": 1,
+    "unlock_conditions": "Clear EP5-9"
+  },
+  "510": {
+    "change_background": "star_level_bg_326",
+    "change_bgm": "story-cardrive-stand",
+    "change_prefab": "",
+    "id": 510,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        509
+      ]
+    ],
+    "name": "EP6-2 Richard's Plan",
+    "pre_event": [
+      509
+    ],
+    "story": "CHENNIYUXINGGUANGZHICHENG30",
+    "story_type": 1,
+    "unlock_conditions": "Clear EP6-1"
+  },
+  "511": {
+    "change_background": "star_level_bg_326",
+    "change_bgm": "story-cardrive-racing",
+    "change_prefab": "",
+    "id": 511,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        510
+      ]
+    ],
+    "name": "EP6-3 High-Octane Racing",
+    "pre_event": [
+      510
+    ],
+    "story": "CHENNIYUXINGGUANGZHICHENG31",
+    "story_type": 1,
+    "unlock_conditions": "Clear EP6-2"
+  },
+  "512": {
+    "change_background": "star_level_bg_503",
+    "change_bgm": "story-whiterichard-chasing",
+    "change_prefab": "",
+    "id": 512,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        511
+      ]
+    ],
+    "name": "EP6-4 Security Permit",
+    "pre_event": [
+      511
+    ],
+    "story": "CHENNIYUXINGGUANGZHICHENG32",
+    "story_type": 1,
+    "unlock_conditions": "Clear EP6-3"
+  },
+  "513": {
+    "change_background": "star_level_bg_327",
+    "change_bgm": "theme-undead",
+    "change_prefab": "",
+    "id": 513,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        512
+      ]
+    ],
+    "name": "EP7-1 The Second Dream",
+    "pre_event": [
+      512
+    ],
+    "story": "CHENNIYUXINGGUANGZHICHENG33",
+    "story_type": 1,
+    "unlock_conditions": "Clear EP6-4"
+  },
+  "514": {
+    "change_background": "star_level_bg_325",
+    "change_bgm": "theme-commander-ally",
+    "change_prefab": "",
+    "id": 514,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        513
+      ]
+    ],
+    "name": "EP7-2 Awakening",
+    "pre_event": [
+      513
+    ],
+    "story": "CHENNIYUXINGGUANGZHICHENG34",
+    "story_type": 1,
+    "unlock_conditions": "Clear EP7-1"
+  },
+  "515": {
+    "change_background": "bg_xingguangcheng_2",
+    "change_bgm": "battle-starcity-rhythm",
+    "change_prefab": "",
+    "id": 515,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        514
+      ]
+    ],
+    "name": "EP7-3 Of Moths and Flames",
+    "pre_event": [
+      513
+    ],
+    "story": "CHENNIYUXINGGUANGZHICHENG35",
+    "story_type": 1,
+    "unlock_conditions": "Clear EP7-2"
+  },
+  "516": {
+    "change_background": "bg_xingguangcheng_cg2",
+    "change_bgm": "votefes-up",
+    "change_prefab": "",
+    "id": 516,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        515
+      ]
+    ],
+    "name": "EP7-4 Long Way Home",
+    "pre_event": [
+      515
+    ],
+    "story": "2056001",
+    "story_type": 2,
+    "unlock_conditions": "Clear EP7-3"
+  },
+  "517": {
+    "change_background": "bg_xingguangcheng_2",
+    "change_bgm": "theme-richard",
+    "change_prefab": "",
+    "id": 517,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        516
+      ]
+    ],
+    "name": "EP7-5 Face-Off",
+    "pre_event": [
+      514,
+      516
+    ],
+    "story": "CHENNIYUXINGGUANGZHICHENG37",
+    "story_type": 1,
+    "unlock_conditions": "Clear EP7-4"
+  },
+  "518": {
+    "change_background": "bg_xingguangcheng_2",
+    "change_bgm": "theme-commander-ally",
+    "change_prefab": "",
+    "id": 518,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        517
+      ]
+    ],
+    "name": "EP8-1 The Battle of Astrarium",
+    "pre_event": [
+      517
+    ],
+    "story": "2056002",
+    "story_type": 2,
+    "unlock_conditions": "Clear EP7-5"
+  },
+  "519": {
+    "change_background": "bg_xingguangcheng_3",
+    "change_bgm": "battle-thehierophantV",
+    "change_prefab": "",
+    "id": 519,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        518
+      ]
+    ],
+    "name": "EP8-2 Beyond the Starlight",
+    "pre_event": [
+      518
+    ],
+    "story": "CHENNIYUXINGGUANGZHICHENG39",
+    "story_type": 1,
+    "unlock_conditions": "Clear EP8-1"
+  },
+  "520": {
+    "change_background": "bg_xingguangcheng_3",
+    "change_bgm": "theme-shallowoftheworld",
+    "change_prefab": "",
+    "id": 520,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        519
+      ]
+    ],
+    "name": "EP8-3 The Battle of Astrarium II",
+    "pre_event": [
+      519
+    ],
+    "story": "2056003",
+    "story_type": 2,
+    "unlock_conditions": "Clear EP8-2"
+  },
+  "521": {
+    "change_background": "star_level_bg_592",
+    "change_bgm": "battle-starcity-rhythm",
+    "change_prefab": "",
+    "id": 521,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        520
+      ]
+    ],
+    "name": "EP8-4 The Battle of Astrarium III",
+    "pre_event": [
+      520
+    ],
+    "story": "2056004",
+    "story_type": 2,
+    "unlock_conditions": "Clear EP8-3"
+  },
+  "522": {
+    "change_background": "bg_xingguangcheng_cg3",
+    "change_bgm": "theme-lightheven",
+    "change_prefab": "",
+    "id": 522,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        521
+      ]
+    ],
+    "name": "EP8-5 Confusion",
+    "pre_event": [
+      521
+    ],
+    "story": "CHENNIYUXINGGUANGZHICHENG42",
+    "story_type": 1,
+    "unlock_conditions": "Clear EP8-4."
+  },
+  "523": {
+    "change_background": "star_level_bg_543",
+    "change_bgm": "battle-starcity-rhythm",
+    "change_prefab": "",
+    "id": 523,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        522
+      ]
+    ],
+    "name": "EX-1 Pandora's Wish",
+    "pre_event": [
+      522
+    ],
+    "story": "CHENNIYUXINGGUANGZHICHENG43",
+    "story_type": 1,
+    "unlock_conditions": "Clear EP8-5"
+  },
+  "524": {
+    "change_background": "star_level_bg_307",
+    "change_bgm": "theme-donghuang",
+    "change_prefab": "",
+    "id": 524,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        523
+      ]
+    ],
+    "name": "EX-2 An Investigator's Secrets",
+    "pre_event": [
+      523
+    ],
+    "story": "CHENNIYUXINGGUANGZHICHENG44",
+    "story_type": 1,
+    "unlock_conditions": "Clear EX-1"
+  },
+  "525": {
+    "change_background": "star_level_bg_324",
+    "change_bgm": "theme-suihuoproject",
+    "change_prefab": "",
+    "id": 525,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        524
+      ]
+    ],
+    "name": "EX-3 Joint Expedition",
+    "pre_event": [
+      524
+    ],
+    "story": "CHENNIYUXINGGUANGZHICHENG45",
+    "story_type": 1,
+    "unlock_conditions": "Clear EX-2"
+  },
+  "526": {
+    "change_background": "bg_xingguangcheng_1",
+    "change_bgm": "theme-richard-white",
+    "change_prefab": "Map_2050001",
+    "id": 526,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        525
+      ]
+    ],
+    "name": "EX-4 toTheAfter",
+    "pre_event": [
+      525
+    ],
+    "story": "CHENNIYUXINGGUANGZHICHENG46",
+    "story_type": 1,
+    "unlock_conditions": "Clear EX-3"
+  },
   "all": [
     1,
     2,
@@ -9465,6 +10380,52 @@
     474,
     475,
     476,
-    477
+    477,
+    481,
+    482,
+    483,
+    484,
+    485,
+    486,
+    487,
+    488,
+    489,
+    490,
+    491,
+    492,
+    493,
+    494,
+    495,
+    496,
+    497,
+    498,
+    499,
+    500,
+    501,
+    502,
+    503,
+    504,
+    505,
+    506,
+    507,
+    508,
+    509,
+    510,
+    511,
+    512,
+    513,
+    514,
+    515,
+    516,
+    517,
+    518,
+    519,
+    520,
+    521,
+    522,
+    523,
+    524,
+    525,
+    526
   ]
 }

@@ -2483,16 +2483,39 @@
     "world_id": ""
   },
   "97": {
+    "bgm": "theme-richard-white",
+    "chapter": 5,
+    "column": 61,
+    "description": "\"A thousand words, a thousand faces. A deceptive visage, a bewitched heart. O travelers, gather here. O dreams, ascend here. To all those who've wandered astray, we welcome you to Astrarium.\"",
+    "icon": "InterludeOne_4",
+    "id": 97,
+    "link_event": [
+      98
+    ],
+    "memory_id": [
+      1,
+      374
+    ],
+    "memory_lock": 0,
+    "name": "Depths of the Astrarium",
+    "row": 0,
+    "shipnation": [
+      1
+    ],
+    "sort": 1,
+    "world_id": ""
+  },
+  "98": {
     "bgm": "",
     "chapter": 0,
-    "column": 61,
-    "description": "Stay Tuned",
+    "column": 62,
+    "description": "敬请期待",
     "icon": "",
-    "id": 97,
+    "id": 98,
     "link_event": "",
     "memory_id": "",
     "memory_lock": 1,
-    "name": "Stay Tuned",
+    "name": "敬请期待",
     "row": 0,
     "shipnation": 0,
     "sort": 0,
@@ -2595,6 +2618,7 @@
     94,
     95,
     96,
-    97
+    97,
+    98
   ]
 }
