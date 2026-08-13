@@ -2841,6 +2841,48 @@
     "target_type": 131,
     "type": 0
   },
+  "200201": {
+    "condition": "收集8个「沉溺于星光之城」纪念贴纸。",
+    "count_inherit": 0,
+    "desc": "迷途的旅人，你见证了星光城的美梦，然后踏碎了它。",
+    "explain1": "「沉溺于星光之城」",
+    "explain2": "活动纪念",
+    "hide": 0,
+    "icon": "9201",
+    "id": 200201,
+    "is_out_of_print": 0,
+    "label": "l_9201",
+    "name": "星光城纪念勋章",
+    "next": 0,
+    "page": 2,
+    "rank": 1,
+    "start": 0,
+    "target_id": "51110",
+    "target_num": 8,
+    "target_type": 131,
+    "type": 0
+  },
+  "200211": {
+    "condition": "收集7个「滨海极速」纪念贴纸。",
+    "count_inherit": 0,
+    "desc": "引擎轰鸣，轮胎飞转，海风与热浪共同铺开这条闪耀的竞速之路。向着冠军全速前进吧！",
+    "explain1": "「滨海极速」",
+    "explain2": "活动纪念",
+    "hide": 0,
+    "icon": "9211",
+    "id": 200211,
+    "is_out_of_print": 0,
+    "label": "l_9211",
+    "name": "滨海极速纪念勋章",
+    "next": 0,
+    "page": 2,
+    "rank": 1,
+    "start": 0,
+    "target_id": "51113",
+    "target_num": 7,
+    "target_type": 131,
+    "type": 0
+  },
   "all": [
     10011,
     10012,
@@ -2971,6 +3013,8 @@
     200161,
     200171,
     200181,
-    200191
+    200191,
+    200201,
+    200211
   ]
 }

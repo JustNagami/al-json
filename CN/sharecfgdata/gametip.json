@@ -418,6 +418,12 @@
   "LanternRiddle_wait_time_tip": {
     "tip": "再次答题时间:"
   },
+  "LeMarsReSkinPage_reward_target": {
+    "tip": "当前消耗石油："
+  },
+  "LeMarsReSkinPage_reward_title": {
+    "tip": "目标消耗石油"
+  },
   "LinkLinkGame_BestTime": {
     "tip": "最佳纪录:"
   },
@@ -693,6 +699,21 @@
       }
     ]
   },
+  "RapidSeasideMonopolyPage_award_loop1": {
+    "tip": "3LAP"
+  },
+  "RapidSeasideMonopolyPage_award_loop2": {
+    "tip": "6LAP"
+  },
+  "RapidSeasideMonopolyPage_award_loop3": {
+    "tip": "9LAP"
+  },
+  "RapidSeasideMonopolyPage_progress_tip": {
+    "tip": "当前圈进度："
+  },
+  "RapidSeasideMonopolyPage_turn_cnt_tip": {
+    "tip": "当前圈数："
+  },
   "SardiniaSPCoreActivityUI_fleetconfirm": {
     "tip": "当前编队为空，是否导入上一关编队？"
   },
@@ -837,6 +858,18 @@
   },
   "StarsCityCoreActivityUI_subtitle_3": {
     "tip": "律动储物间"
+  },
+  "StarsCityCoreActivityUI_subtitle_4": {
+    "tip": "沉溺于星光之城"
+  },
+  "StarsCityCoreActivityUI_subtitle_5": {
+    "tip": "星光城补给站"
+  },
+  "StarsCityMainPage_no_time": {
+    "tip": "即将结束"
+  },
+  "StarsCityMainPage_res_day_time": {
+    "tip": "剩余$1天$2时"
   },
   "SuperBulin2_help": {
     "tip": [
@@ -2900,6 +2933,12 @@
   "battle_result_victory": {
     "tip": "取得战斗胜利"
   },
+  "battle_text_benningdun_1": {
+    "tip": "风往<color=#ffaa2b>西边</color>吹……"
+  },
+  "battle_text_benningdun_2": {
+    "tip": "风往<color=#2baaff>东边</color>吹……"
+  },
   "battle_text_bisimaiz_1": {
     "tip": "当前空间侵蚀等级为<color=#92fc63>0</color>"
   },
@@ -3930,7 +3969,7 @@
     "tip": "伏罗希洛夫 建造追加！"
   },
   "buildship_new_tip": {
-    "tip": "华丽、萨里 建造概率UP!"
+    "tip": "本宁顿、维克斯堡 等角色建造概率UP!"
   },
   "buildship_special_tip": {
     "tip": "{namecode:514}、{namecode:515} 建造追加！"
@@ -6507,6 +6546,43 @@
   },
   "create_player_success": {
     "tip": "创建角色成功"
+  },
+  "crossroad_minigame_help": {
+    "tip": {
+      "1": {
+        "icon": {
+          "atlas": "helpbg/crossroad_help1",
+          "path": ""
+        }
+      },
+      "2": {
+        "icon": {
+          "atlas": "helpbg/crossroad_help2",
+          "path": ""
+        }
+      },
+      "3": {
+        "icon": {
+          "atlas": "helpbg/crossroad_help3",
+          "path": ""
+        }
+      },
+      "ImageMode": true,
+      "defaultpage": 1,
+      "disableScroll": true,
+      "helpSize": {
+        "x": 1176,
+        "y": 1024
+      },
+      "pageMode": true,
+      "windowPos": {
+        "y": -70
+      },
+      "windowSize": {
+        "x": 1263,
+        "y": 873
+      }
+    }
   },
   "cruise_btn_all": {
     "tip": "全部领取"
@@ -12735,60 +12811,62 @@
         "info": "3. 玩家在投出特定点数、抵达指定格子时将触发协助者的不同台词；"
       },
       {
-        "info": "4. 活动期间，玩家完成 3 圈比赛即可获得限定家具奖励；玩家每次与不同的协助者一同比赛时将获得物资 * 2000 奖励 "
+        "info": "4. 活动期间，玩家完成 9 圈比赛即可获得限定家具奖励；玩家首次与不同的协助者一同比赛时将获得物资 * 2000 奖励 "
       },
       {
-        "info": "5. 游戏中，根据玩家停留的格子可获得不同奖励 "
+        "info": "5. 游戏中，根据玩家所处位置可获得不同奖励 "
       },
       {
-        "icon": {
-          "atlas": "attricon",
-          "path": "jinbi",
-          "posX": 0,
-          "posY": 0,
-          "scale": 0.19
-        },
-        "info": "    ：获得一定数量物资；"
+        "info": " 5km&11km ：获得一定数量物资；"
       },
       {
-        "icon": {
-          "atlas": "attricon",
-          "path": "shiyou",
-          "posX": 0,
-          "posY": 0,
-          "scale": 0.19
-        },
-        "info": "    ：获得一定数量石油；"
+        "info": " 4km&9km ：获得一定数量石油；"
       },
       {
-        "icon": {
-          "atlas": "attricon",
-          "path": "minyun",
-          "posX": 0,
-          "posY": 0,
-          "scale": 0.19
-        },
-        "info": "    ：触发随机事件；"
+        "info": " 3km&7km ：触发随机事件；"
       },
       {
-        "icon": {
-          "atlas": "attricon",
-          "path": "daoju",
-          "posX": 0,
-          "posY": 0,
-          "scale": 0.19
-        },
-        "info": "    ：触发随机奖励；"
+        "info": " 2km&6km：触发随机奖励；"
       },
       {
-        "icon": {
-          "atlas": "attricon",
-          "path": "jiasu",
-          "posX": 0,
-          "posY": 0,
-          "scale": 0.19
-        },
-        "info": "    ：触发随机移动事件；"
+        "info": " 10km ：触发随机移动事件；"
+      }
+    ]
+  },
+  "help_monopoly_car2026": {
+    "tip": [
+      {
+        "info": " 活动说明："
+      },
+      {
+        "info": "1. 活动期间，玩家每日登录可获得 3 次加速机会，完成活动每日任务可额外获得 2 次加速机会；"
+      },
+      {
+        "info": "2. 玩家每次经过终点，可选择指定角色的其中一人作为协助者；"
+      },
+      {
+        "info": "3. 玩家在投出特定点数、抵达指定格子时将触发协助者的不同台词；"
+      },
+      {
+        "info": "4. 活动期间，玩家完成 9 圈比赛即可获得限定家具奖励；玩家首次与不同的协助者一同比赛时将获得物资 * 1000 奖励 "
+      },
+      {
+        "info": "5. 游戏中，根据玩家所处位置可获得不同奖励 "
+      },
+      {
+        "info": " 5km&11km ：获得一定数量物资；"
+      },
+      {
+        "info": " 4km&9km ：获得一定数量石油；"
+      },
+      {
+        "info": " 3km&7km ：触发随机事件；"
+      },
+      {
+        "info": " 2km&6km：触发随机奖励；"
+      },
+      {
+        "info": " 10km ：触发随机移动事件；"
       }
     ]
   },
@@ -13571,7 +13649,7 @@
         "info": "纪念手册："
       },
       {
-        "info": "1. 回忆页面内新增「纪念手册」系统入口。\n2. 活动期间，指挥官可通过完成活动任务收集对应<color=#92fc63>「纪念贴纸」</color>兑换获得活动勋章。\n ※ 活动进行时，指挥官可在<color=#92fc63>活动页面或回忆界面</color>通过指定入口进入「纪念贴纸」收集页面；\n ※ 活动结束后指挥官将只能通过<color=#92fc63>回忆界面</color>指定入口进入「纪念贴纸」收集页面；\n ※ 「纪念贴纸」可以通过完成对应活动任务获取；\n ※ 奖励领取界面将延长至8月12日24时；"
+        "info": "1. 回忆页面内新增「纪念手册」系统入口。\n2. 活动期间，指挥官可通过完成活动任务收集对应<color=#92fc63>「纪念贴纸」</color>兑换获得活动勋章。\n ※ 活动进行时，指挥官可在<color=#92fc63>活动页面或回忆界面</color>通过指定入口进入「纪念贴纸」收集页面；\n ※ 活动结束后指挥官将只能通过<color=#92fc63>回忆界面</color>指定入口进入「纪念贴纸」收集页面；\n ※ 「纪念贴纸」可以通过完成对应活动任务获取；\n ※ 奖励领取界面将延长至9月3日24时；"
       }
     ]
   },
@@ -20767,6 +20845,12 @@
   "mini_game_continue": {
     "tip": "继续"
   },
+  "mini_game_crossroad_cnt": {
+    "tip": "已通过角色："
+  },
+  "mini_game_crossroad_score": {
+    "tip": "分数："
+  },
   "mini_game_cur_score": {
     "tip": "本次得分:"
   },
@@ -20824,11 +20908,23 @@
   "mktea_5": {
     "tip": "最后是辉锅，将茶叶的香气和形态炒至最理想的状态，使其色泽绿润，叶片扁平光滑。"
   },
+  "mono_car_2026_toggle_main": {
+    "tip": "比赛模式"
+  },
+  "mono_car_2026_toggle_story": {
+    "tip": "剧情模式"
+  },
   "monoply_drop_ship_step": {
     "tip": "在经过$1圈，可获得角色换装【东煌之风】"
   },
   "monopoly3thre_tip": {
     "tip": "※重复获得限定换装会自动折算为物资"
+  },
+  "monopoly2026_left_cnt": {
+    "tip": "剩余$1次"
+  },
+  "monopoly2026_story_award": {
+    "tip": "阅读全部剧情($1/$2)"
   },
   "monopoly_left_count": {
     "tip": "剩余次数:"
@@ -24810,6 +24906,9 @@
   "ship_remould_warning_201524": {
     "tip": "此次改造操作后<color=#92fc63>【主炮底座+1】</color>\n是否确认继续操作？"
   },
+  "ship_remould_warning_202994": {
+    "tip": "此次改造操作将消耗<color=#92fc63>女仆长的坚守</color>\n是否确认？改造后武器效率调整为130%/155%/120%\n <color=#92fc63>【主炮底座+1】【鱼雷预装填+1】【防空炮底座+1】</color>\n技能<color=#92fc63>【烟雾弹·轻巡】</color>将升级为<color=#92fc63>【烟雾弹·贝尔法斯特】</color>\n技能<color=#92fc63>【专属弹幕-贝尔法斯特II】</color>\n将升级为<color=#92fc63>【专属弹幕-贝尔法斯特III】</color>\n"
+  },
   "ship_remould_warning_203114": {
     "tip": "此次改造操作将导致<color=#92fc63>【鱼雷】栏位</color>变更为<color=#92fc63>【副武器】栏位</color><color=#92fc63>\n<material=underline c=#92fc63 event=clickDetail>查看详情</material></color>\n是否确认继续操作？"
   },
@@ -25612,6 +25711,30 @@
   },
   "skin_shop_nonuse_label": {
     "tip": "不使用优惠"
+  },
+  "skin_shop_tag": {
+    "tip": "标签"
+  },
+  "skin_shop_tag_0": {
+    "tip": "全部"
+  },
+  "skin_shop_tag_1": {
+    "tip": "热销"
+  },
+  "skin_shop_tag_2": {
+    "tip": "新品"
+  },
+  "skin_shop_tag_3": {
+    "tip": "推荐"
+  },
+  "skin_shop_tag_4": {
+    "tip": "活动"
+  },
+  "skin_shop_tag_5": {
+    "tip": "活动"
+  },
+  "skin_shop_tag_6": {
+    "tip": "返场"
   },
   "skin_shop_use_label": {
     "tip": "使用优惠"

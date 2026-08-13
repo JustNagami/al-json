@@ -860,6 +860,92 @@
       "scene": "EscapeManorMedalAlbumView"
     }
   },
+  "51110": {
+    "activity_link": [
+      [
+        1,
+        51110,
+        [
+          25701,
+          25702,
+          25703,
+          25704,
+          25705,
+          25706,
+          25707,
+          25708,
+          25709,
+          25710
+        ]
+      ]
+    ],
+    "entrance_picture": "medalAlbum/51110",
+    "group_name": "沉溺于星光之城",
+    "id": 51110,
+    "is_out_of_print": 0,
+    "item_show": [
+      [
+        5,
+        343,
+        1
+      ],
+      [
+        8,
+        66065,
+        1
+      ]
+    ],
+    "task_show": [
+      25710,
+      25701
+    ],
+    "ui_prefab": {
+      "mediator": "MedalAlbumTemplateMediator",
+      "scene": "StarsCityMedalAlbumView"
+    }
+  },
+  "51113": {
+    "activity_link": [
+      [
+        1,
+        51113,
+        [
+          25711,
+          25712,
+          25713,
+          25714,
+          25715,
+          25716,
+          25717,
+          25718
+        ]
+      ]
+    ],
+    "entrance_picture": "medalAlbum/51113",
+    "group_name": "滨海极速",
+    "id": 51113,
+    "is_out_of_print": 0,
+    "item_show": [
+      [
+        5,
+        344,
+        1
+      ],
+      [
+        8,
+        66074,
+        1
+      ]
+    ],
+    "task_show": [
+      -1,
+      25711
+    ],
+    "ui_prefab": {
+      "mediator": "MedalAlbumTemplateMediator",
+      "scene": "RapidSeasideMedalAlbumView"
+    }
+  },
   "all": [
     5711,
     5769,
@@ -880,6 +966,8 @@
     50607,
     50616,
     50659,
-    51078
+    51078,
+    51110,
+    51113
   ]
 }

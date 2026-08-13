@@ -2483,12 +2483,35 @@
     "world_id": ""
   },
   "97": {
+    "bgm": "theme-richard-white",
+    "chapter": 5,
+    "column": 61,
+    "description": "「千语千相，惑面迷心。游者在此团聚，美梦在此升腾。误入歧路的旅人，欢迎来到——星光城」",
+    "icon": "InterludeOne_4",
+    "id": 97,
+    "link_event": [
+      98
+    ],
+    "memory_id": [
+      1,
+      374
+    ],
+    "memory_lock": 0,
+    "name": "沉溺于星光之城 ",
+    "row": 0,
+    "shipnation": [
+      1
+    ],
+    "sort": 1,
+    "world_id": ""
+  },
+  "98": {
     "bgm": "",
     "chapter": 0,
-    "column": 61,
+    "column": 62,
     "description": "敬请期待",
     "icon": "",
-    "id": 97,
+    "id": 98,
     "link_event": "",
     "memory_id": "",
     "memory_lock": 1,
@@ -2595,6 +2618,7 @@
     94,
     95,
     96,
-    97
+    97,
+    98
   ]
 }
