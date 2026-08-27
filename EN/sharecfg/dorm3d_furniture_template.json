@@ -1724,7 +1724,7 @@
     "desc": "A secret space for privacy and romance. The red velvet bedding and pull-out curtains make it easy to enjoy tranquility and warmth at night.",
     "icon": "dorm3dIcon/3Ddrom_aijier_PremiumFurniture1",
     "id": 1461,
-    "is_exclusive": 0,
+    "is_exclusive": 1,
     "is_special": 0,
     "model": "Pay_Aijierhostel/pre_db_aijier_bed01",
     "name": "Crimson Tranquility",
@@ -1758,7 +1758,7 @@
     "desc": "A desk with a classic design and smooth surface. Its sturdy frame provides plenty of storage space, making it ideal for study and work.",
     "icon": "dorm3dIcon/3Ddrom_aijier_PremiumFurniture2",
     "id": 1462,
-    "is_exclusive": 0,
+    "is_exclusive": 1,
     "is_special": 0,
     "model": "Pay_Aijierhostel/pre_db_aijier_study01",
     "name": "Quiet Contemplation",
@@ -1792,7 +1792,7 @@
     "desc": "This sofa, crafted from genuine leather, exudes a luxurious yet understated elegance. Paired with an exquisite coffee table, it truly embodies the passion for life and comfort.",
     "icon": "dorm3dIcon/3Ddrom_aijier_PremiumFurniture3",
     "id": 1463,
-    "is_exclusive": 0,
+    "is_exclusive": 1,
     "is_special": 0,
     "model": "Pay_Aijierhostel/pre_db_aijier_living01",
     "name": "Burgundy Leisure",
@@ -1816,6 +1816,40 @@
     "type": 5,
     "unlock_banners": [
       "banner_furniture1463"
+    ],
+    "unlock_tips": [
+      3
+    ]
+  },
+  "1468": {
+    "acesses": "",
+    "desc": "Seduction, passion, and romance. Feel your emotions quicken beneath the surging waves.",
+    "icon": "dorm3dIcon/3Ddrom_aijier_PremiumFurniture4",
+    "id": 1468,
+    "is_exclusive": 1,
+    "is_special": 1,
+    "model": "Pay_Aijierhostel/pre_db_aijier_special01",
+    "name": "Melting Affections",
+    "rarity": 5,
+    "room_id": 14,
+    "scene_hides": [
+      "no_bake_pay_prop/entertainment"
+    ],
+    "shop_id": [
+      270604
+    ],
+    "target_slots": [
+      1140104
+    ],
+    "touch_id": [
+      [
+        49905,
+        4990570
+      ]
+    ],
+    "type": 99,
+    "unlock_banners": [
+      "banner_furniture1468"
     ],
     "unlock_tips": [
       3
@@ -2108,6 +2142,7 @@
     1461,
     1462,
     1463,
+    1468,
     2101,
     2102,
     2103,
@@ -2200,7 +2235,8 @@
       1415,
       1461,
       1462,
-      1463
+      1463,
+      1468
     ],
     "21": [
       2101,

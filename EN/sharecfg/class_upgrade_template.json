@@ -172,12 +172,57 @@
     "proficency_to_exp_rant": 100,
     "stock": 66,
     "store": 220000,
-    "time": 0,
+    "time": 7200,
     "use": [
       1,
       22500
     ],
     "user_level": 110
+  },
+  "13": {
+    "item_id": 16501,
+    "level": 13,
+    "proficency_cost_per_min": 115,
+    "proficency_get_percent": 23,
+    "proficency_to_exp_rant": 100,
+    "stock": 69,
+    "store": 230000,
+    "time": 7200,
+    "use": [
+      1,
+      25000
+    ],
+    "user_level": 115
+  },
+  "14": {
+    "item_id": 16501,
+    "level": 14,
+    "proficency_cost_per_min": 120,
+    "proficency_get_percent": 24,
+    "proficency_to_exp_rant": 100,
+    "stock": 72,
+    "store": 240000,
+    "time": 7200,
+    "use": [
+      1,
+      27500
+    ],
+    "user_level": 120
+  },
+  "15": {
+    "item_id": 16501,
+    "level": 15,
+    "proficency_cost_per_min": 125,
+    "proficency_get_percent": 25,
+    "proficency_to_exp_rant": 100,
+    "stock": 75,
+    "store": 250000,
+    "time": 0,
+    "use": [
+      1,
+      30000
+    ],
+    "user_level": 125
   },
   "all": [
     1,
@@ -191,6 +236,9 @@
     9,
     10,
     11,
-    12
+    12,
+    13,
+    14,
+    15
   ]
 }

@@ -111837,7 +111837,7 @@
     ]
   },
   "30341": {
-    "desc": "Activates All Out Assault I: Watarase once every 12 times the Main Guns are fired.",
+    "desc": "Activates All Out Assault I: Amatsukaze once every 12 times the Main Guns are fired.",
     "desc_add": [],
     "desc_get": "",
     "desc_get_add": [],
@@ -111851,7 +111851,7 @@
     ]
   },
   "30342": {
-    "desc": "Activates All Out Assault II: Watarase once every 8 times the Main Guns are fired.",
+    "desc": "Activates All Out Assault II: Amatsukaze once every 8 times the Main Guns are fired.",
     "desc_add": [],
     "desc_get": "",
     "desc_get_add": [],
@@ -112816,6 +112816,34 @@
     "desc_get": "",
     "desc_get_add": [],
     "id": 30682,
+    "max_level": 1,
+    "name": "All Out Assault II",
+    "system_transform": [],
+    "type": 1,
+    "world_death_mark": [
+      1
+    ]
+  },
+  "30701": {
+    "desc": "Activates All Out Assault I: Amatsukaze once every 15 times the Main Guns are fired.",
+    "desc_add": [],
+    "desc_get": "",
+    "desc_get_add": [],
+    "id": 30701,
+    "max_level": 1,
+    "name": "All Out Assault I",
+    "system_transform": [],
+    "type": 1,
+    "world_death_mark": [
+      1
+    ]
+  },
+  "30702": {
+    "desc": "Activates All Out Assault II: Amatsukaze once every 10 times the Main Guns are fired.",
+    "desc_add": [],
+    "desc_get": "",
+    "desc_get_add": [],
+    "id": 30702,
     "max_level": 1,
     "name": "All Out Assault II",
     "system_transform": [],
@@ -114386,6 +114414,20 @@
     "id": 61130,
     "max_level": 0,
     "name": "Error XIII",
+    "system_transform": [],
+    "type": 0,
+    "world_death_mark": [
+      1
+    ]
+  },
+  "61140": {
+    "desc": "When equipped by Amatsukaze: for 60s after the battle starts, increases this ship's Evasion Rate by 2.0%.",
+    "desc_add": [],
+    "desc_get": "",
+    "desc_get_add": [],
+    "id": 61140,
+    "max_level": 0,
+    "name": "Bag of Sky Winds",
     "system_transform": [],
     "type": 0,
     "world_death_mark": [
@@ -171934,6 +171976,344 @@
       1
     ]
   },
+  "152750": {
+    "desc": "Increases this ship's TRP by $1; if there is another Sakura Empire ship in the same fleet, additionally increases the Crit Rate of this ship's equipped torpedoes by $2. When this ship fires her torpedoes: fires a $3 special barrage (DMG is based on the skill's level; 10s cooldown between activations), with a $4 chance to fire another wave of torpedoes. Enemies hit by this barrage have their SPD reduced to 0 for 1s, before returning to normal over 0.5s. Enemies with their SPD reduced to 0 in this way are inflicted with a special Flooding debuff, receiving DMG over time for 6s (DMG is based on Amatsukaze's TRP stat).",
+    "desc_add": [
+      [
+        [
+          "5.0%",
+          "+1.1%"
+        ],
+        [
+          "6.1%",
+          "+1.1%"
+        ],
+        [
+          "7.2%",
+          "+1.1%"
+        ],
+        [
+          "8.3%",
+          "+1.1%"
+        ],
+        [
+          "9.4%",
+          "+1.1%"
+        ],
+        [
+          "10.5%",
+          "+1.1%"
+        ],
+        [
+          "11.6%",
+          "+1.1%"
+        ],
+        [
+          "12.7%",
+          "+1.1%"
+        ],
+        [
+          "13.8%",
+          "+1.2%"
+        ],
+        [
+          "15.0%"
+        ]
+      ],
+      [
+        [
+          "15.0%",
+          "+1.6%"
+        ],
+        [
+          "16.6%",
+          "+1.6%"
+        ],
+        [
+          "18.2%",
+          "+1.6%"
+        ],
+        [
+          "19.8%",
+          "+1.6%"
+        ],
+        [
+          "21.4%",
+          "+1.6%"
+        ],
+        [
+          "23.0%",
+          "+1.6%"
+        ],
+        [
+          "24.6%",
+          "+1.8%"
+        ],
+        [
+          "26.4%",
+          "+1.8%"
+        ],
+        [
+          "28.2%",
+          "+1.8%"
+        ],
+        [
+          "30.0%"
+        ]
+      ],
+      [
+        [
+          "Lv.1"
+        ],
+        [
+          "Lv.2"
+        ],
+        [
+          "Lv.3"
+        ],
+        [
+          "Lv.4"
+        ],
+        [
+          "Lv.5"
+        ],
+        [
+          "Lv.6"
+        ],
+        [
+          "Lv.7"
+        ],
+        [
+          "Lv.8"
+        ],
+        [
+          "Lv.9"
+        ],
+        [
+          "Lv.10"
+        ]
+      ],
+      [
+        [
+          "50.0%",
+          "+5.0%"
+        ],
+        [
+          "55.0%",
+          "+5.0%"
+        ],
+        [
+          "60.0%",
+          "+5.0%"
+        ],
+        [
+          "65.0%",
+          "+5.0%"
+        ],
+        [
+          "70.0%",
+          "+5.0%"
+        ],
+        [
+          "75.0%",
+          "+5.0%"
+        ],
+        [
+          "80.0%",
+          "+5.0%"
+        ],
+        [
+          "85.0%",
+          "+5.0%"
+        ],
+        [
+          "90.0%",
+          "+10.0%"
+        ],
+        [
+          "100%"
+        ]
+      ]
+    ],
+    "desc_get": "",
+    "desc_get_add": [
+      [
+        "5.0%",
+        "15.0%"
+      ],
+      [
+        "15.0%",
+        "30.0%"
+      ],
+      [
+        "Lv.1",
+        "Lv.10"
+      ],
+      [
+        "50.0%",
+        "100.0%"
+      ]
+    ],
+    "id": 152750,
+    "max_level": 10,
+    "name": "The Girl Who Pierces the Clouds",
+    "system_transform": [],
+    "type": 1,
+    "world_death_mark": [
+      1
+    ]
+  },
+  "152760": {
+    "desc": "Increases this ship's EVA by $1.\nOnce per battle, when this ship falls below 30.0% Max HP as a result of DMG taken: this ship evades all attacks for 4s and restores 15.0% of her Max HP, but deals 10.0% reduced DMG until the battle ends.\nWhen this ship takes damage, there is a $2 chance to gain the following effect once per battle: until the end of battle, reduces this ship's DMG taken by $3; upon taking DMG, $1 chance to reduce that instance of DMG to 1.",
+    "desc_add": [
+      [
+        [
+          "5.0%",
+          "+1.1%"
+        ],
+        [
+          "6.1%",
+          "+1.1%"
+        ],
+        [
+          "7.2%",
+          "+1.1%"
+        ],
+        [
+          "8.3%",
+          "+1.1%"
+        ],
+        [
+          "9.4%",
+          "+1.1%"
+        ],
+        [
+          "10.5%",
+          "+1.1%"
+        ],
+        [
+          "11.6%",
+          "+1.1%"
+        ],
+        [
+          "12.7%",
+          "+1.1%"
+        ],
+        [
+          "13.8%",
+          "+1.2%"
+        ],
+        [
+          "15.0%"
+        ]
+      ],
+      [
+        [
+          "40.0%",
+          "+3.3%"
+        ],
+        [
+          "43.3%",
+          "+3.3%"
+        ],
+        [
+          "46.6%",
+          "+3.3%"
+        ],
+        [
+          "49.9%",
+          "+3.3%"
+        ],
+        [
+          "53.2%",
+          "+3.3%"
+        ],
+        [
+          "56.5%",
+          "+3.3%"
+        ],
+        [
+          "59.8%",
+          "+3.3%"
+        ],
+        [
+          "63.1%",
+          "+3.3%"
+        ],
+        [
+          "66.4%",
+          "+3.6%"
+        ],
+        [
+          "70.0%"
+        ]
+      ],
+      [
+        [
+          "1.0%",
+          "+1.0%"
+        ],
+        [
+          "2.0%",
+          "+1.0%"
+        ],
+        [
+          "3.0%",
+          "+1.0%"
+        ],
+        [
+          "4.0%",
+          "+1.0%"
+        ],
+        [
+          "5.0%",
+          "+1.0%"
+        ],
+        [
+          "6.0%",
+          "+1.0%"
+        ],
+        [
+          "7.0%",
+          "+1.0%"
+        ],
+        [
+          "8.0%",
+          "+1.0%"
+        ],
+        [
+          "9.0%",
+          "+1.0%"
+        ],
+        [
+          "10.0%"
+        ]
+      ]
+    ],
+    "desc_get": "",
+    "desc_get_add": [
+      [
+        "5.0%",
+        "15.0%"
+      ],
+      [
+        "40.0%",
+        "70.0%"
+      ],
+      [
+        "1.0%",
+        "10.0%"
+      ]
+    ],
+    "id": 152760,
+    "max_level": 10,
+    "name": "The Big Shot's Majesty",
+    "system_transform": [],
+    "type": 2,
+    "world_death_mark": [
+      1
+    ]
+  },
   "180000": {
     "desc": "When the battle starts, if this ship has a Main Gun equipped that fires AP ammo: increases this ship's Crit Rate and Crit DMG by $1 and Main Gun efficiency by $2. When the battle starts: selects the BB or BC in your fleet with the highest FP and gives her the Concerted Strike status; when the ship with this status fires her Main Guns, Dmitri Donskoi fires a $3 AP barrage (DMG is based on the skill's level) and inflicts the Pierced Mark status (lasting 5s; increases AP DMG taken by 5.0%) on all enemies on the battlefield (does not stack). Increases this ship's DMG dealt against enemies with the Pierced Mark status by $4.",
     "desc_add": [
@@ -205846,6 +206226,112 @@
       1
     ]
   },
+  "1012580": {
+    "desc": "When this ship launches an Airstrike: $1 chance to set the Speed of all enemies to 0 for $2s. After that, this effect will fade for 2.5s before completely ending. This skill will always activate on the ship's first Airstrike launch of each battle.",
+    "desc_add": [
+      [
+        [
+          "50.0%",
+          "+3.3%"
+        ],
+        [
+          "53.3%",
+          "+3.3%"
+        ],
+        [
+          "56.6%",
+          "+3.3%"
+        ],
+        [
+          "59.9%",
+          "+3.3%"
+        ],
+        [
+          "63.2%",
+          "+3.3%"
+        ],
+        [
+          "66.5%",
+          "+3.3%"
+        ],
+        [
+          "69.8%",
+          "+3.3%"
+        ],
+        [
+          "73.1%",
+          "+3.3%"
+        ],
+        [
+          "76.4%",
+          "+3.6%"
+        ],
+        [
+          "80%"
+        ]
+      ],
+      [
+        [
+          "0.5",
+          "+0.1"
+        ],
+        [
+          "0.6",
+          "+0.1"
+        ],
+        [
+          "0.7",
+          "+0.1"
+        ],
+        [
+          "0.8",
+          "+0.1"
+        ],
+        [
+          "0.9",
+          "+0.1"
+        ],
+        [
+          "1.0",
+          "+0.1"
+        ],
+        [
+          "1.1",
+          "+0.1"
+        ],
+        [
+          "1.2",
+          "+0.1"
+        ],
+        [
+          "1.3",
+          "+0.2"
+        ],
+        [
+          "1.5"
+        ]
+      ]
+    ],
+    "desc_get": "",
+    "desc_get_add": [
+      [
+        "50.0%",
+        "80.0%"
+      ],
+      [
+        "0.5",
+        "1.5"
+      ]
+    ],
+    "id": 1012580,
+    "max_level": 10,
+    "name": "Don't Move An Inch!",
+    "system_transform": [],
+    "type": 3,
+    "world_death_mark": [
+      1
+    ]
+  },
   "1012600": {
     "desc": "When this ship fires her Main Guns: $1 chance to fire a special barrage (DMG is based on the skill's level).",
     "desc_add": [
@@ -219454,6 +219940,7 @@
     61110,
     61120,
     61130,
+    61140,
     7000,
     9010,
     9020,
@@ -220515,6 +221002,8 @@
     152530,
     152540,
     152550,
+    152750,
+    152760,
     152560,
     152570,
     152580,
@@ -221265,6 +221754,8 @@
     30642,
     30661,
     30662,
+    30701,
+    30702,
     30671,
     30672,
     30681,
@@ -222156,6 +222647,7 @@
     1012570,
     1013470,
     1014660,
+    1012580,
     1019160,
     1014990,
     1013140,

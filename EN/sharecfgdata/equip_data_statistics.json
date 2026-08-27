@@ -130817,6 +130817,108 @@
       171113
     ]
   },
+  "80701": {
+    "ammo": 10,
+    "ammo_icon": [],
+    "ammo_info": [],
+    "descrip": "技能弹幕",
+    "equip_info": [],
+    "equip_parameters": [],
+    "hidden_skill_id": [],
+    "icon": "1",
+    "id": 80701,
+    "label": [],
+    "name": "专属弹幕-天津风I",
+    "nationality": 0,
+    "part_main": [
+      1,
+      19,
+      20,
+      21
+    ],
+    "part_sub": [
+      2,
+      3,
+      4,
+      5,
+      8,
+      13,
+      18
+    ],
+    "property_rate": [],
+    "rarity": 1,
+    "skill_id": [],
+    "speciality": "<[NA]>",
+    "tech": 1,
+    "torpedo_ammo": 0,
+    "type": 1,
+    "value_1": "0",
+    "value_2": 0,
+    "value_3": 0,
+    "weapon_id": [
+      171121
+    ]
+  },
+  "80702": {
+    "base": 80701,
+    "hidden_skill_id": [],
+    "id": 80702,
+    "name": "专属弹幕-天津风II",
+    "weapon_id": [
+      171122
+    ]
+  },
+  "80703": {
+    "ammo": 10,
+    "ammo_icon": [],
+    "ammo_info": [],
+    "descrip": "技能弹幕",
+    "equip_info": [],
+    "equip_parameters": [],
+    "hidden_skill_id": [],
+    "icon": "1",
+    "id": 80703,
+    "label": [],
+    "name": "专属弹幕-天津风I",
+    "nationality": 0,
+    "part_main": [
+      1,
+      19,
+      20,
+      21
+    ],
+    "part_sub": [
+      2,
+      3,
+      4,
+      5,
+      8,
+      13,
+      18
+    ],
+    "property_rate": [],
+    "rarity": 1,
+    "skill_id": [],
+    "speciality": "<[NA]>",
+    "tech": 1,
+    "torpedo_ammo": 0,
+    "type": 5,
+    "value_1": "0",
+    "value_2": 0,
+    "value_3": 0,
+    "weapon_id": [
+      171123
+    ]
+  },
+  "80704": {
+    "base": 80703,
+    "hidden_skill_id": [],
+    "id": 80704,
+    "name": "专属弹幕-天津风II",
+    "weapon_id": [
+      171124
+    ]
+  },
   "85000": {
     "ammo": 3,
     "ammo_icon": [
@@ -166569,6 +166671,124 @@
     "id": 151233,
     "value_1": "640"
   },
+  "151240": {
+    "ammo": 10,
+    "ammo_icon": [],
+    "ammo_info": [],
+    "attribute_1": "durability",
+    "attribute_2": "luck",
+    "descrip": "That's right! Even the wind is at my beck and call!",
+    "equip_info": [
+      6
+    ],
+    "equip_parameters": [],
+    "hidden_skill_id": [],
+    "icon": "151240",
+    "id": 151240,
+    "label": [
+      "IJN",
+      "DEV"
+    ],
+    "name": "Bag of Sky Winds",
+    "nationality": 3,
+    "part_main": [
+      1
+    ],
+    "part_sub": [
+      1
+    ],
+    "property_rate": [],
+    "rarity": 5,
+    "skill_id": [
+      [
+        61140,
+        1
+      ]
+    ],
+    "speciality": "<[NA]>",
+    "tech": 0,
+    "torpedo_ammo": 0,
+    "type": 10,
+    "value_1": "140",
+    "value_2": 1,
+    "value_3": 0,
+    "weapon_id": []
+  },
+  "151241": {
+    "base": 151240,
+    "id": 151241,
+    "value_1": "161"
+  },
+  "151242": {
+    "base": 151240,
+    "id": 151242,
+    "value_1": "182"
+  },
+  "151243": {
+    "base": 151240,
+    "id": 151243,
+    "value_1": "203"
+  },
+  "151244": {
+    "base": 151240,
+    "id": 151244,
+    "value_1": "224"
+  },
+  "151245": {
+    "base": 151240,
+    "id": 151245,
+    "value_1": "245"
+  },
+  "151246": {
+    "base": 151240,
+    "id": 151246,
+    "value_1": "266"
+  },
+  "151247": {
+    "base": 151240,
+    "id": 151247,
+    "value_1": "287",
+    "value_2": 2
+  },
+  "151248": {
+    "base": 151240,
+    "id": 151248,
+    "value_1": "308",
+    "value_2": 2
+  },
+  "151249": {
+    "base": 151240,
+    "id": 151249,
+    "value_1": "329",
+    "value_2": 2
+  },
+  "151250": {
+    "base": 151240,
+    "id": 151250,
+    "value_1": "350",
+    "value_2": 2
+  },
+  "151251": {
+    "anti_siren": 100,
+    "base": 151240,
+    "id": 151251,
+    "value_1": "370",
+    "value_2": 3
+  },
+  "151252": {
+    "anti_siren": 200,
+    "base": 151240,
+    "id": 151252,
+    "value_1": "390",
+    "value_2": 3
+  },
+  "151253": {
+    "anti_siren": 300,
+    "base": 151240,
+    "id": 151253,
+    "value_1": "410",
+    "value_2": 3
+  },
   "170001": {
     "ammo": 10,
     "ammo_icon": [],
@@ -180633,6 +180853,10 @@
     80672,
     80661,
     80662,
+    80701,
+    80702,
+    80703,
+    80704,
     80681,
     80682,
     85000,
@@ -183437,6 +183661,20 @@
     151231,
     151232,
     151233,
+    151240,
+    151241,
+    151242,
+    151243,
+    151244,
+    151245,
+    151246,
+    151247,
+    151248,
+    151249,
+    151250,
+    151251,
+    151252,
+    151253,
     170001,
     170002,
     170011,

@@ -551,7 +551,7 @@
     "id": 26,
     "item_id": 323,
     "name": "Dream in the Clouds",
-    "order": "9",
+    "order": "10",
     "panel": [
       1,
       2,
@@ -574,7 +574,7 @@
     "id": 27,
     "item_id": 1221,
     "name": "Love Nest",
-    "order": "9",
+    "order": "10",
     "panel": [
       1,
       2,
@@ -597,7 +597,7 @@
     "id": 28,
     "item_id": 3070701,
     "name": "Love Enshackled",
-    "order": "9",
+    "order": "10",
     "panel": [
       2,
       3,
@@ -619,7 +619,7 @@
     "id": 29,
     "item_id": 16,
     "name": "Taihou's Café Invitation",
-    "order": "8",
+    "order": "10",
     "panel": [
       2
     ],
@@ -639,7 +639,7 @@
     "id": 30,
     "item_id": 1153,
     "name": "Sanctuary Beyond Heavens",
-    "order": "8",
+    "order": "10",
     "panel": [
       1,
       2,
@@ -662,7 +662,7 @@
     "id": 31,
     "item_id": 1222,
     "name": "Floralized Rhythm",
-    "order": "8",
+    "order": "10",
     "panel": [
       1,
       2,
@@ -685,7 +685,7 @@
     "id": 32,
     "item_id": 2022003,
     "name": "The Perfect Maid's Guidebook",
-    "order": "8",
+    "order": "10",
     "panel": [
       2,
       3,
@@ -707,7 +707,7 @@
     "id": 33,
     "item_id": 1461,
     "name": "Crimson Tranquility",
-    "order": "7",
+    "order": "9",
     "panel": [
       1,
       2,
@@ -730,7 +730,7 @@
     "id": 34,
     "item_id": 4990501,
     "name": "Tulip Glass",
-    "order": "7",
+    "order": "9",
     "panel": [
       2,
       3,
@@ -752,7 +752,7 @@
     "id": 35,
     "item_id": 16,
     "name": "Ägir's Café Invitation",
-    "order": "7",
+    "order": "2",
     "panel": [
       2
     ],
@@ -772,7 +772,7 @@
     "id": 36,
     "item_id": 16,
     "name": "Sirius's Café Invitation",
-    "order": "6",
+    "order": "9",
     "panel": [
       2
     ],
@@ -792,7 +792,7 @@
     "id": 37,
     "item_id": 1154,
     "name": "IB-7 Smart Refrigerator",
-    "order": "6",
+    "order": "9",
     "panel": [
       1,
       2,
@@ -815,7 +815,7 @@
     "id": 38,
     "item_id": 1223,
     "name": "Elegant Cherry Blossom Seating",
-    "order": "6",
+    "order": "8",
     "panel": [
       1,
       2,
@@ -838,7 +838,7 @@
     "id": 39,
     "item_id": 324,
     "name": "Haven of Innocence",
-    "order": "6",
+    "order": "8",
     "panel": [
       1,
       2,
@@ -861,7 +861,7 @@
     "id": 40,
     "item_id": 1462,
     "name": "Quiet Contemplation",
-    "order": "6",
+    "order": "8",
     "panel": [
       1,
       2,
@@ -884,7 +884,7 @@
     "id": 41,
     "item_id": 1051702,
     "name": "Gamepad",
-    "order": "6",
+    "order": "8",
     "panel": [
       2,
       3,
@@ -906,7 +906,7 @@
     "id": 42,
     "item_id": 3070702,
     "name": "Scarlet Invite",
-    "order": "6",
+    "order": "7",
     "panel": [
       2,
       3,
@@ -928,7 +928,7 @@
     "id": 43,
     "item_id": 2161,
     "name": "Revolving Data Inspector",
-    "order": "3",
+    "order": "7",
     "panel": [
       1,
       2,
@@ -951,7 +951,7 @@
     "id": 44,
     "item_id": 7990201,
     "name": "Instinct Instructor",
-    "order": "3",
+    "order": "7",
     "panel": [
       2,
       3,
@@ -973,7 +973,7 @@
     "id": 45,
     "item_id": 26,
     "name": "Garage Invitation: Admiral Nakhimov",
-    "order": "3",
+    "order": "6",
     "panel": [
       2
     ],
@@ -993,7 +993,7 @@
     "id": 46,
     "item_id": 1463,
     "name": "Burgundy Leisure",
-    "order": "3",
+    "order": "6",
     "panel": [
       1,
       2,
@@ -1005,6 +1005,29 @@
     "room_id": 49905,
     "shop_id": [
       270603
+    ],
+    "type": 1,
+    "unlock": ""
+  },
+  "47": {
+    "banners": [
+      "banner_furniture1468"
+    ],
+    "id": 47,
+    "item_id": 1468,
+    "name": "Melting Affections",
+    "order": "2",
+    "panel": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "rarity": 5,
+    "realroom_id": 0,
+    "room_id": 49905,
+    "shop_id": [
+      270604
     ],
     "type": 1,
     "unlock": ""
@@ -1055,6 +1078,7 @@
     43,
     44,
     45,
-    46
+    46,
+    47
   ]
 }
