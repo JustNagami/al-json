@@ -2025,8 +2025,180 @@
   "auction_value": {
     "tip": "藏品价值"
   },
+  "auto_battle_add_time": {
+    "tip": "兑换可用时间"
+  },
+  "auto_battle_base_exp_warning": {
+    "tip": "预期产出的大讲堂熟练度将会溢出，是否继续？"
+  },
+  "auto_battle_base_loot": {
+    "tip": "委托产出"
+  },
+  "auto_battle_book_day": {
+    "tip": "$1天"
+  },
+  "auto_battle_book_expire_warning": {
+    "tip": "x$1 即将过期"
+  },
+  "auto_battle_book_hour": {
+    "tip": "$1时"
+  },
+  "auto_battle_book_max_reached": {
+    "tip": "委托书数量不足"
+  },
+  "auto_battle_book_times_reached": {
+    "tip": "已达作战次数限制"
+  },
+  "auto_battle_class_exp_head": {
+    "tip": "大讲堂熟练度"
+  },
+  "auto_battle_cnt": {
+    "tip": "作战次数"
+  },
+  "auto_battle_cnt_book": {
+    "tip": "使用委托书"
+  },
+  "auto_battle_confirm_button": {
+    "tip": "开始"
+  },
+  "auto_battle_cost_book": {
+    "tip": "<color=#92fc63><icon name=weituo w=0.7 h=0.7/>$1作战全权委托书</color>"
+  },
+  "auto_battle_cost_extra": {
+    "tip": "预计额外消耗"
+  },
+  "auto_battle_cost_oil": {
+    "tip": "<color=#92fc63><icon name=oil w=0.7 h=0.7/>$1石油</color>"
+  },
+  "auto_battle_cost_time": {
+    "tip": "剩余可用时间"
+  },
+  "auto_battle_dec_en": {
+    "tip": "HANDOVER."
+  },
+  "auto_battle_drop_bookEXP_overflow": {
+    "tip": "将有$1本舰艇演习数据T1因溢出而无法获取，是否确定领取？"
+  },
+  "auto_battle_drop_book_expired": {
+    "tip": "返还的作战委托书将过期，确定终止作战委托吗？"
+  },
+  "auto_battle_drop_classEXP_overflow": {
+    "tip": "大讲堂熟练度因溢出无法全部获取，是否确定领取？"
+  },
+  "auto_battle_end_exp": {
+    "tip": "获得大讲堂熟练度<color=#92fc63>$1</color>点"
+  },
+  "auto_battle_end_status": {
+    "tip": "计划作战<color=#92fc63>$1</color>次，实际完成作战<color=#92fc63>$2</color>次。"
+  },
+  "auto_battle_extra_loot": {
+    "tip": "委托书额外产出"
+  },
+  "auto_battle_extra_loot_lock": {
+    "tip": "使用委托书后可获得额外产出"
+  },
+  "auto_battle_finish": {
+    "tip": "作战委托已完成。"
+  },
+  "auto_battle_headline": {
+    "tip": "作战委托"
+  },
+  "auto_battle_headline_en": {
+    "tip": "Operational Handover"
+  },
+  "auto_battle_help": {
+    "tip": [
+      {
+        "info": "<color=#92fc63>作战委托</color>说明:\n\n作战委托系统是通过自动委托的方式通关已攻略关卡的系统，对目标关卡执行作战委托后，等待倒计时结束，即可收获委托奖励。作战委托倒计时在玩家离线时<color=#92fc63>不会暂停</color>，将继续保持计时。\n1 作战委托系统仅能委托完成过一次<color=#92fc63>未中断且全程自律的连续作战</color>的关卡。\n2 单次作战委托所需等待时间为目标关卡一次<color=#92fc63>未中断且全程自律的连续作战</color>通关的最短时间（<color=#92fc63>舰队跨射不会影响时间统计</color>，仅记录功能上线后的通关时间）。\n3 每日可获得<color=#92fc63>8小时作战委托可用时间</color>，委托可用时间耗尽后，将无法进行作战委托。每次进行作战委托时，将<color=#92fc63>消耗与等待时间相同</color>的委托可用时间，剩余时间<color=#92fc63>不足1次委托所需时间时，仍可完成最后一次委托</color>。委托可用时间会在<color=#92fc63>每天0时</color>重置。\n4 作战委托<color=#92fc63>期间无法出击主线关卡、活动关卡以及活动档案</color>。\n5 作战委托产出大讲堂熟练度，使用<color=#92fc63>作战全权委托书可以为一次作战委托追加额外产出</color>。\n\n<color=#92fc63>作战全权委托书</color>介绍：\n\n1 作战全权委托书是用于<color=#92fc63>增加作战委托产出</color>的物品，使用后可为<color=#92fc63>一次作战委托</color>追加额外产出。可通过<color=#92fc63>每日任务</color>等途径获取\n2 在使用作战全权委托书追加产出的同时，还需要支付一定数量的<color=#92fc63>石油资源</color>。\n3 作战全权委托书追加的额外产出将<color=#92fc63>基于关卡通关奖励</color>，不同关卡会有不同的通关奖励，包括<color=#92fc63>角色、物资、材料、活动掉落</color>等。\n4 使用作战全权委托书的作战委托会为<color=#92fc63>部分任务增加任务进度</color>。\n5 使用作战全权委托书的作战委托将有概率出现<color=#92fc63>紧急委托</color>，一次作战委托最多出现一个。\n6 作战全权委托书还可在“兑换可用时间”界面中用于<color=#92fc63>增加当日的作战委托可用时间</color>，每本作战全权委托书可增加<color=#92fc63>1小时</color>的委托可用时间。"
+      }
+    ]
+  },
+  "auto_battle_info_tips": {
+    "tip": "※作战委托将产出大讲堂熟练度，使用一本作战全权委托书可为一次作战委托追加额外产出\n※单次时间为目标关卡一次未中断且全程自律的连续作战通关的最短时间，舰队跨射不影响计算"
+  },
+  "auto_battle_ing_base_loot": {
+    "tip": "单次产出"
+  },
+  "auto_battle_ing_cnt": {
+    "tip": "完成次数  <color=#92fc63>$1/$2</color>"
+  },
+  "auto_battle_ing_finish": {
+    "tip": "领取奖励"
+  },
+  "auto_battle_ing_headline": {
+    "tip": "委托作战中"
+  },
+  "auto_battle_ing_stop": {
+    "tip": "终止作战"
+  },
+  "auto_battle_ing_stop_tips": {
+    "tip": "是否终止作战委托？将领取已完成次数的委托奖励，未完成的委托将返还材料，返还的石油将被储存在作战委托中仅供下次委托使用"
+  },
+  "auto_battle_ing_time": {
+    "tip": "剩余时间  <color=#92fc63>$1</color>"
+  },
   "auto_battle_limit_tip": {
     "tip": "通关1-3后开放自律战斗"
+  },
+  "auto_battle_not_enough_resource": {
+    "tip": "资源不足，无法开始"
+  },
+  "auto_battle_oil_store_tip": {
+    "tip": "已储存退回石油<color=#92fc63><icon name=oil w=0.7 h=0.7/>$1</color>"
+  },
+  "auto_battle_start_tips": {
+    "tip": "开始作战委托"
+  },
+  "auto_battle_stop": {
+    "tip": "作战委托已终止。"
+  },
+  "auto_battle_time_add_cancel": {
+    "tip": "取消"
+  },
+  "auto_battle_time_add_confirm": {
+    "tip": "确认"
+  },
+  "auto_battle_time_add_headline": {
+    "tip": "信息"
+  },
+  "auto_battle_time_add_headline_en": {
+    "tip": "INFORM"
+  },
+  "auto_battle_time_add_info": {
+    "tip": "剩余可用时间：<color=#ffffff>$1</color>   +   <color=#92fc63>$2</color>"
+  },
+  "auto_battle_time_add_item_lack": {
+    "tip": "物品数量不足"
+  },
+  "auto_battle_time_add_success": {
+    "tip": "成功兑换可用时间"
+  },
+  "auto_battle_time_add_zero_item": {
+    "tip": "请选择消耗物品"
+  },
+  "auto_battle_time_left": {
+    "tip": "委托所需时间"
+  },
+  "auto_battle_time_limit_reached": {
+    "tip": "剩余可用时间不足"
+  },
+  "auto_battle_times_zero": {
+    "tip": "请设置作战次数"
+  },
+  "auto_battle_unlock_tip": {
+    "tip": "通关主线1-3后开放"
+  },
+  "auto_chapter_unlock_tip": {
+    "tip": "完成一次未中断且全程自律的连续作战后开启"
+  },
+  "auto_drop_is_activation": {
+    "tip": "正在进行关卡<color=#92fc63>$1</color>的作战委托，请等待作战委托完成"
+  },
+  "auto_drop_is_activation_cancle": {
+    "tip": "取消"
+  },
+  "auto_drop_is_activation_go": {
+    "tip": "查看委托"
   },
   "autofight": {
     "tip": "自律寻敌"
@@ -3963,16 +4135,16 @@
     "tip": "是否升级？升级会消耗对应材料"
   },
   "buildship_heavy_tip": {
-    "tip": "库尔斯克、塞瓦斯托波尔 建造追加！"
+    "tip": "亚尔薇特 建造追加！"
   },
   "buildship_light_tip": {
-    "tip": "伏罗希洛夫 建造追加！"
+    "tip": "{namecode:494} 建造追加！"
   },
   "buildship_new_tip": {
     "tip": "本宁顿、维克斯堡 等角色建造概率UP!"
   },
   "buildship_special_tip": {
-    "tip": "{namecode:514}、{namecode:515} 建造追加！"
+    "tip": "{namecode:536} 建造追加！"
   },
   "buleprint_need_level_tip": {
     "tip": "需角色到达$1级"
@@ -6049,11 +6221,14 @@
   "commission_label_go_mellow": {
     "tip": "前往"
   },
+  "commission_label_unlock_auto_tip": {
+    "tip": "通关主线1-3后开放"
+  },
   "commission_label_unlock_event_tip": {
-    "tip": "指挥官等级达到Lv.12后开发"
+    "tip": "指挥官等级达到Lv.12后开放"
   },
   "commission_label_unlock_tech_tip": {
-    "tip": "指挥官等级达到Lv.30后开发"
+    "tip": "指挥官等级达到Lv.30后开放"
   },
   "commission_no_open": {
     "tip": "未开启"
@@ -9015,6 +9190,12 @@
   },
   "event_ui_start": {
     "tip": "开始"
+  },
+  "event_worldboss_0827_title": {
+    "tip": "特别演习"
+  },
+  "event_worldboss_0827_title_en": {
+    "tip": "JOINT OPERATION"
   },
   "eventshop_time_hint": {
     "tip": "兑换时间截止至$1维护"
@@ -18224,6 +18405,9 @@
   "levelScene_activate_remaster_1": {
     "tip": "进入所选关卡需要消耗<color=#ffde38>档案秘钥x$1</color>，\n是否进入？"
   },
+  "levelScene_activate_remaster_auto": {
+    "tip": "进入所选关卡需要消耗<color=#ffde38>档案秘钥x$1</color>，\n是否进入？"
+  },
   "levelScene_bomb_help_tip": {
     "tip": {
       "1": {
@@ -18380,7 +18564,7 @@
   "levelScene_loop_help_tip": {
     "tip": [
       {
-        "info": "海域达成<color=#92fc63>100%</color>后可开启<color=#92fc63>周回模式</color>\n\n启用周回模式后，海域将有以下变化：\n\n1 部分通常海域中将会开启<color=#92fc63>消耗上限</color>，在该状态下，舰队作战所需石油<color=#92fc63>超出上限的部分</color>将会得到减免\n2 通常海域困难模式中<color=#92fc63>不会出现</color>敌人护卫舰队\n3 活动关卡的敌人设置将会出现一部分变化\n4 活动关卡中我方的移动格数<color=#92fc63>不会受到移动力限制</color>，可自由移动\n5 通常海域关卡中<color=#92fc63>取消伏击与空袭</color>\n6 关卡内会开启<color=#92fc63>阵容锁定</color>模式\n7 关卡内会开启<color=#92fc63>自律寻敌</color>模式\n\n <color=#92fc63>自律寻敌</color>模式介绍：\n1.<color=#92fc63>自律寻敌</color>只会在周回模式下开启，当关卡首次进入周回模式时，自律寻敌会自动开启\n2.自律寻敌开启的同时，会自动开启<color=#92fc63>自律战斗</color><color=#92fc63>和阵容锁定</color>功能。自动呼叫潜艇功能会根据指挥官的设置，不会自动开启\n3.开启自律寻敌后，指挥官可以在舰队选择界面设置舰队职能，舰队职能一共分为四种：\n①<color=#92fc63>道中战斗</color>：该舰队只会进行道中战斗（<color=#92fc63>指与非敌方旗舰进行战斗</color>），选择该队为道中战斗后，另一队默认为旗舰战斗\n②<color=#92fc63>旗舰战斗</color>：敌方旗舰出现后会切换到该舰队与敌方旗舰进行战斗，选择该队为旗舰战斗后，另一队默认为道中战斗\n③<color=#92fc63>全部战斗</color>：该舰队会与道中敌人和敌方旗舰进行战斗，选择该队为全部战斗后，另一队默认为待机\n④<color=#92fc63>待机</color>：该舰队不参与战斗，原地待机，选择该队为待机后，另一队默认为全部战斗\n4.自律寻敌模式中，场上有精英舰队时，优先攻击<color=#92fc63>精英舰队</color>，场上没有精英舰队时，就近攻击离我方<color=#92fc63>最近的敌人</color>，当场上出现敌方旗舰时，最优先攻击<color=#92fc63>敌方旗舰</color>"
+        "info": "海域达成<color=#92fc63>100%</color>后可开启<color=#92fc63>周回模式</color>\n\n启用周回模式后，海域将有以下变化：\n\n1 部分通常海域中将会开启<color=#92fc63>消耗上限</color>，在该状态下，舰队作战所需石油<color=#92fc63>超出上限的部分</color>将会得到减免\n2 通常海域困难模式中<color=#92fc63>不会出现</color>敌人护卫舰队\n3 活动关卡的敌人设置将会出现一部分变化\n4 活动关卡中我方的移动格数<color=#92fc63>不会受到移动力限制</color>，可自由移动\n5 通常海域关卡中<color=#92fc63>取消伏击与空袭</color>\n6 关卡内会开启<color=#92fc63>阵容锁定</color>模式\n7 关卡内会开启<color=#92fc63>自律寻敌</color>模式\n\n <color=#92fc63>自律寻敌</color>模式介绍：\n1.<color=#92fc63>自律寻敌</color>只会在周回模式下开启，当关卡首次进入周回模式时，自律寻敌会自动开启\n2.自律寻敌开启的同时，会自动开启<color=#92fc63>自律战斗</color><color=#92fc63>和阵容锁定</color>功能。自动呼叫潜艇功能会根据指挥官的设置，不会自动开启\n3.开启自律寻敌后，指挥官可以在舰队选择界面设置舰队职能，舰队职能一共分为四种：\n①<color=#92fc63>道中战斗</color>：该舰队只会进行道中战斗（<color=#92fc63>指与非敌方旗舰进行战斗</color>），选择该队为道中战斗后，另一队默认为旗舰战斗\n②<color=#92fc63>旗舰战斗</color>：敌方旗舰出现后会切换到该舰队与敌方旗舰进行战斗，选择该队为旗舰战斗后，另一队默认为道中战斗\n③<color=#92fc63>全部战斗</color>：该舰队会与道中敌人和敌方旗舰进行战斗，选择该队为全部战斗后，另一队默认为待机\n④<color=#92fc63>待机</color>：该舰队不参与战斗，原地待机，选择该队为待机后，另一队默认为全部战斗\n4.自律寻敌模式中，场上有精英舰队时，优先攻击<color=#92fc63>精英舰队</color>，场上没有精英舰队时，就近攻击离我方<color=#92fc63>最近的敌人</color>，当场上出现敌方旗舰时，最优先攻击<color=#92fc63>敌方旗舰</color>\n\n<color=#92fc63>作战委托</color>说明:\n\n作战委托系统是通过自动委托的方式通关已攻略关卡的系统，对目标关卡执行作战委托后，等待倒计时结束，即可收获委托奖励。作战委托倒计时在玩家离线时<color=#92fc63>不会暂停</color>，将继续保持计时。\n1 作战委托系统仅能委托完成过一次<color=#92fc63>未中断且全程自律的连续作战</color>的关卡。\n2 单次作战委托所需等待时间为目标关卡一次<color=#92fc63>未中断且全程自律的连续作战</color>通关的最短时间（<color=#92fc63>舰队跨射不会影响时间统计</color>，仅记录功能上线后的通关时间）。\n3 每日可获得<color=#92fc63>8小时作战委托可用时间</color>，委托可用时间耗尽后，将无法进行作战委托。每次进行作战委托时，将<color=#92fc63>消耗与等待时间相同</color>的委托可用时间，剩余时间<color=#92fc63>不足1次委托所需时间时，仍可完成最后一次委托</color>。委托可用时间会在<color=#92fc63>每天0时</color>重置。\n4 作战委托<color=#92fc63>期间无法出击主线关卡、活动关卡以及活动档案</color>。\n5 作战委托产出大讲堂熟练度，使用<color=#92fc63>作战全权委托书可以为一次作战委托追加额外产出</color>。\n\n<color=#92fc63>作战全权委托书</color>介绍：\n\n1 作战全权委托书是用于<color=#92fc63>增加作战委托产出</color>的物品，使用后可为<color=#92fc63>一次作战委托</color>追加额外产出。可通过<color=#92fc63>每日任务</color>等途径获取\n2 在使用作战全权委托书追加产出的同时，还需要支付一定数量的<color=#92fc63>石油资源</color>。\n3 作战全权委托书追加的额外产出将<color=#92fc63>基于关卡通关奖励</color>，不同关卡会有不同的通关奖励，包括<color=#92fc63>角色、物资、材料、活动掉落</color>等。\n4 使用作战全权委托书的作战委托会为<color=#92fc63>部分任务增加任务进度</color>。\n5 使用作战全权委托书的作战委托将有概率出现<color=#92fc63>紧急委托</color>，一次作战委托最多出现一个。\n6 作战全权委托书还可在“兑换可用时间”界面中用于<color=#92fc63>增加当日的作战委托可用时间</color>，每本作战全权委托书可增加<color=#92fc63>1小时</color>的委托可用时间。"
       }
     ]
   },
@@ -20013,6 +20197,9 @@
   },
   "main_silent_tip_6": {
     "tip": "个岗位空缺中"
+  },
+  "main_silent_tip_7": {
+    "tip": "作战委托已完成"
   },
   "maintenance_message_stop_text": {
     "tip": "服务器正在关闭中"
@@ -26459,6 +26646,12 @@
   "tactics_skill_level_up": {
     "tip": "(技能等级提升:$1→$2）！"
   },
+  "tag_level_auto_finish": {
+    "tip": "已完成"
+  },
+  "tag_level_autoing": {
+    "tip": "委托中"
+  },
   "tag_level_bomb": {
     "tip": "英系轰炸"
   },
@@ -29410,7 +29603,7 @@
         "info": "1.「EX」演习战斗具有一定难度，可以在「EX」演习的舰队选择界面点击<color=#92fc63>「模拟战」</color>按钮进行尝试，「模拟战」不消耗石油、心情、「特别挑战券」\n2.进行「EX」演习战斗时，中途掉线或者主动退出等中止战斗的情况都会扣除「特别挑战券」且<color=#ff5c5c>不会获得任何奖励</color><color=#ff5c5c>请在网络状态良好的情况下进行「EX」演习战斗</color>\n3.进行「简单」、「普通」、「困难」演习战斗时，中途掉线或者主动退出等中止战斗的情况会保留「额外收益次数」且不会获得任何奖励\n4.在所有难度的演习战斗中，舰船被击破不会消耗心情值，其余情况的心情值正常增减\n5.所有难度的演习战斗都会正常消耗石油，正常获得指挥官、出战角色和指挥喵经验\n"
       },
       {
-        "info": "<color=#92fc63>活动说明</color>：\n1.在活动期间，参与演习战斗获取<color=#92fc63>「贡献值」</color>,和本服玩家协力攻略演习据点，获取据点阶段奖励和个人贡献奖励\n2.本次活动分为「简单」、「普通」、「困难」、「EX」4个难度的演习\n3.「简单」、「普通」、「困难」演习会获得固定「贡献值」,「EX」演习会根据<color=#92fc63>战斗中造成的伤害总量</color>获得「贡献值」和奖励，造成伤害越多「贡献值」越多，获得奖励越丰厚\n4.「简单」、「普通」、「困难」演习每次通关时可以获得额外收益， 额外收益每日有获得次数上限，每日「额外收益次数」上限3个难度各为<color=#92fc63>15次</color>\n5.「简单」、「普通」、「困难」演习每日挑战次数无限制，「EX」演习需要消耗<color=#92fc63>1个「特别挑战券」</color>才可以挑战\n6.演习战斗的出击队伍可以通过点击不同难度的按钮进行编成，允许携带潜艇和指挥喵\n7.活动期间，根据本服所有玩家获得的「贡献值」，消耗「演习据点」的耐久\n8.当「演习据点」耐久下降至<color=#92fc63>75%</color>、<color=#92fc63>50%</color>、<color=#92fc63>25%</color>以及<color=#92fc63>完全耗尽</color>后，会记录本服达成的里程碑时间，同时，在演习中获得过「贡献值」的玩家可以获得相应奖励\n9.奖励将在「演习据点」完全耗尽后，通过邮件发放，如果活动结束时耐久未被耗尽，则会根据据点推进进度，为在演习中获得过「贡献值」的玩家发放对应进度的奖励\n10.活动期间，可以领取个人贡献奖励，个人贡献奖励需要当据点攻略进度和拥有的「贡献值」达到指定要求后才能领取\n11.2月12日维护后-2月26日维护前可以参与演习战斗，奖励领取的截止时间为3月4日24时"
+        "info": "<color=#92fc63>活动说明</color>：\n1.在活动期间，参与演习战斗获取<color=#92fc63>「贡献值」</color>,和本服玩家协力攻略演习据点，获取据点阶段奖励和个人贡献奖励\n2.本次活动分为「简单」、「普通」、「困难」、「EX」4个难度的演习\n3.「简单」、「普通」、「困难」演习会获得固定「贡献值」,「EX」演习会根据<color=#92fc63>战斗中造成的伤害总量</color>获得「贡献值」和奖励，造成伤害越多「贡献值」越多，获得奖励越丰厚\n4.「简单」、「普通」、「困难」演习每次通关时可以获得额外收益， 额外收益每日有获得次数上限，每日「额外收益次数」上限3个难度各为<color=#92fc63>15次</color>\n5.「简单」、「普通」、「困难」演习每日挑战次数无限制，「EX」演习需要消耗<color=#92fc63>1个「特别挑战券」</color>才可以挑战\n6.演习战斗的出击队伍可以通过点击不同难度的按钮进行编成，允许携带潜艇和指挥喵\n7.活动期间，根据本服所有玩家获得的「贡献值」，消耗「演习据点」的耐久\n8.当「演习据点」耐久下降至<color=#92fc63>75%</color>、<color=#92fc63>50%</color>、<color=#92fc63>25%</color>以及<color=#92fc63>完全耗尽</color>后，会记录本服达成的里程碑时间，同时，在演习中获得过「贡献值」的玩家可以获得相应奖励\n9.奖励将在「演习据点」完全耗尽后，通过邮件发放，如果活动结束时耐久未被耗尽，则会根据据点推进进度，为在演习中获得过「贡献值」的玩家发放对应进度的奖励\n10.活动期间，可以领取个人贡献奖励，个人贡献奖励需要当据点攻略进度和拥有的「贡献值」达到指定要求后才能领取\n11.8月27日维护后-9月10日维护前可以参与演习战斗，奖励领取的截止时间为9月16日24时"
       },
       {
         "info": "<color=#92fc63>特别挑战券说明</color>：\n1.特别挑战券可以通过活动期间的特殊每日任务获得，数量可以累积，活动结束后会被清空\n2.「简单」、「普通」、「困难」演习的「额外收益次数」为<color=#92fc63>0</color>的情况下，进行演习战斗时可以消耗<color=#92fc63>1个</color>「特别挑战券」增加1次对应难度演习的「额外收益次数」\n3.「EX」演习需要消耗<color=#92fc63>1个</color>「特别挑战券」"
