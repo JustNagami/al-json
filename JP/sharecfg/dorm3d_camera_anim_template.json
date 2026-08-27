@@ -6323,6 +6323,325 @@
     "unlock": "",
     "zone": "14003"
   },
+  "14701": {
+    "anim_time": 0,
+    "desc": "立つ",
+    "enter_extra_item": [
+      [
+        "furniture/Item/Aje_Cup_01/pre_db_aje_cup_02",
+        "",
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0
+        ],
+        "IK_sp01_idle01_item"
+      ]
+    ],
+    "enter_scene_anim": [
+      [
+        2027,
+        "IK_sp01_idle01_YG"
+      ],
+      [
+        2029,
+        "IK_sp01_idle01_vfx"
+      ]
+    ],
+    "finish_anim": 0,
+    "furniture_id": 1468,
+    "hide_scene_item": "",
+    "icon": "camera_action13",
+    "id": 14701,
+    "pre_anim": 0,
+    "room": 14,
+    "ship_group": 49905,
+    "state": "IK_sp01_idle01",
+    "staypoint": "Pos600710",
+    "unlock": "",
+    "zone": "14001"
+  },
+  "14702": {
+    "anim_time": 18.667,
+    "desc": "のんびり",
+    "enter_extra_item": [
+      [
+        "furniture/Item/Aje_Cup_01/pre_db_aje_cup_02",
+        "",
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0
+        ],
+        "IK_sp01_idle01_fb01_item"
+      ]
+    ],
+    "enter_scene_anim": [
+      [
+        2027,
+        "IK_sp01_idle01_fb01_YG"
+      ]
+    ],
+    "finish_anim": 14701,
+    "furniture_id": 1468,
+    "hide_scene_item": "",
+    "icon": "camera_action14",
+    "id": 14702,
+    "pre_anim": 14701,
+    "room": 14,
+    "ship_group": 49905,
+    "state": "IK_sp01_idle01_fb01",
+    "staypoint": "Pos600710",
+    "unlock": "",
+    "zone": "14001"
+  },
+  "14703": {
+    "anim_time": 17.333,
+    "desc": "注目",
+    "enter_extra_item": [
+      [
+        "furniture/Item/Aje_Cup_01/pre_db_aje_cup_02",
+        "",
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0
+        ],
+        "IK_sp01_idle01_fb02_item"
+      ]
+    ],
+    "enter_scene_anim": [
+      [
+        2027,
+        "IK_sp01_idle01_fb02_YG"
+      ],
+      [
+        2029,
+        "IK_sp01_idle01_fb02_vfx"
+      ]
+    ],
+    "finish_anim": 14701,
+    "furniture_id": 1468,
+    "hide_scene_item": "",
+    "icon": "camera_action15",
+    "id": 14703,
+    "pre_anim": 14701,
+    "room": 14,
+    "ship_group": 49905,
+    "state": "IK_sp01_idle01_fb02",
+    "staypoint": "Pos600710",
+    "unlock": "",
+    "zone": "14001"
+  },
+  "14704": {
+    "anim_time": 0,
+    "desc": "アヒル座り",
+    "enter_extra_item": [
+      [
+        "furniture/Item/Aje_Cup_01/pre_db_aje_cup_02",
+        "",
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0
+        ],
+        "IK_sp01_idle02_item"
+      ]
+    ],
+    "enter_scene_anim": [
+      [
+        2027,
+        "IK_sp01_idle02_YG"
+      ]
+    ],
+    "finish_anim": 0,
+    "furniture_id": 1468,
+    "hide_scene_item": "",
+    "icon": "camera_action16",
+    "id": 14704,
+    "pre_anim": 0,
+    "room": 14,
+    "ship_group": 49905,
+    "state": "IK_sp01_idle02",
+    "staypoint": "Pos600720",
+    "unlock": "",
+    "zone": "14001"
+  },
+  "14705": {
+    "anim_time": 15.333,
+    "desc": "甘える",
+    "enter_extra_item": [
+      [
+        "furniture/Item/Aje_Cup_01/pre_db_aje_cup_02",
+        "",
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0
+        ],
+        "IK_sp01_idle02_fb02_item"
+      ]
+    ],
+    "enter_scene_anim": "",
+    "finish_anim": 14704,
+    "furniture_id": 1468,
+    "hide_scene_item": "",
+    "icon": "camera_action18",
+    "id": 14705,
+    "pre_anim": 14704,
+    "room": 14,
+    "ship_group": 49905,
+    "state": "IK_sp01_idle02_fb02",
+    "staypoint": "Pos600720",
+    "unlock": "",
+    "zone": "14001"
+  },
+  "14706": {
+    "anim_time": 0,
+    "desc": "招待",
+    "enter_extra_item": [
+      [
+        "furniture/Item/Aje_Cup_01/pre_db_aje_cup_02",
+        "",
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0
+        ],
+        "IK_sp01_idle03_item"
+      ]
+    ],
+    "enter_scene_anim": [
+      [
+        2027,
+        "IK_sp01_idle03_YG"
+      ],
+      [
+        2028,
+        "IK_sp01_idle03_vfx"
+      ]
+    ],
+    "finish_anim": 0,
+    "furniture_id": 1468,
+    "hide_scene_item": "",
+    "icon": "camera_action32",
+    "id": 14706,
+    "pre_anim": 0,
+    "room": 14,
+    "ship_group": 49905,
+    "state": "IK_sp01_idle03",
+    "staypoint": "Pos600730",
+    "unlock": "",
+    "zone": "14001"
+  },
+  "14707": {
+    "anim_time": 18,
+    "desc": "のんびり",
+    "enter_extra_item": [
+      [
+        "furniture/Item/Aje_Cup_01/pre_db_aje_cup_02",
+        "",
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0
+        ],
+        "IK_sp01_idle03_fb01_item"
+      ]
+    ],
+    "enter_scene_anim": [
+      [
+        2027,
+        "IK_sp01_idle03_fb01_YG"
+      ]
+    ],
+    "finish_anim": 14706,
+    "furniture_id": 1468,
+    "hide_scene_item": "",
+    "icon": "camera_action34",
+    "id": 14707,
+    "pre_anim": 14706,
+    "room": 14,
+    "ship_group": 49905,
+    "state": "IK_sp01_idle03_fb01",
+    "staypoint": "Pos600730",
+    "unlock": "",
+    "zone": "14001"
+  },
+  "14708": {
+    "anim_time": 0,
+    "desc": "足上げ",
+    "enter_extra_item": [
+      [
+        "furniture/Item/Aje_Cup_01/pre_db_aje_cup_02",
+        "",
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0
+        ],
+        "IK_sp01_idle03_fb02_item-loop"
+      ]
+    ],
+    "enter_scene_anim": [
+      [
+        2027,
+        "IK_sp01_idle03_fb02_YG-loop"
+      ]
+    ],
+    "finish_anim": 0,
+    "furniture_id": 1468,
+    "hide_scene_item": "",
+    "icon": "camera_action36",
+    "id": 14708,
+    "pre_anim": 0,
+    "room": 14,
+    "ship_group": 49905,
+    "state": "IK_sp01_idle03_fb02-loop",
+    "staypoint": "Pos600730",
+    "unlock": "",
+    "zone": "14001"
+  },
   "16001": {
     "anim_time": 0,
     "desc": "待機",
@@ -7764,6 +8083,14 @@
     14605,
     14606,
     14607,
+    14701,
+    14702,
+    14703,
+    14704,
+    14705,
+    14706,
+    14707,
+    14708,
     16001,
     16002,
     16003,
@@ -8251,6 +8578,16 @@
       14605,
       14606,
       14607
+    ],
+    "1468": [
+      14701,
+      14702,
+      14703,
+      14704,
+      14705,
+      14706,
+      14707,
+      14708
     ],
     "2101": [
       21301,

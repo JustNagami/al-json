@@ -119775,6 +119775,435 @@
     "voice_actor_2": -1,
     "voice_lang": ""
   },
+  "301190": {
+    "bg": "",
+    "bg_sp": "",
+    "bgm": "",
+    "bound_bone": {
+      "antiaircraft": [
+        [
+          0.724,
+          2.399,
+          0
+        ]
+      ],
+      "cannon": [
+        [
+          1.388,
+          0.9,
+          0
+        ]
+      ],
+      "torpedo": [
+        [
+          -0.102,
+          0.023,
+          0
+        ]
+      ]
+    },
+    "change_skin": "",
+    "desc": "陽炎型駆逐艦-天津風",
+    "double_char": 0,
+    "fx_container": [
+      [
+        0,
+        1.99185,
+        1.15
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0.75,
+        -1.299
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "get_showing": "",
+    "group_index": 0,
+    "gyro": 0,
+    "hand_id": 14,
+    "id": 301190,
+    "illustrator": -1,
+    "illustrator2": -1,
+    "l2d_animations": "",
+    "l2d_drag_rate": "",
+    "l2d_ignore_drag": 0,
+    "l2d_para_range": "",
+    "l2d_se": "",
+    "l2d_voice_calibrate": "",
+    "lip_smoothing": 0,
+    "lip_sync_gain": 0,
+    "live2d_offset": [
+      0,
+      0,
+      0
+    ],
+    "live2d_offset_profile": "",
+    "lover_hand": "",
+    "lover_kiss": "",
+    "main_UI_FX": "",
+    "name": "天津風",
+    "painting": "tianjinfeng",
+    "part_scale": "",
+    "prefab": "tianjinfeng",
+    "purchase_offset": "",
+    "rarity_bg": "",
+    "ship_group": 30119,
+    "ship_l2d_id": "",
+    "shop_dynamic_hx": 0,
+    "shop_id": 0,
+    "shop_offset": "",
+    "shop_type_id": 0,
+    "show_skin": "stand",
+    "skeleton_default_skin": "",
+    "skin_type": -1,
+    "smoke": [
+      [
+        50,
+        [
+          [
+            "smoke",
+            [
+              -0.64,
+              2.45,
+              0
+            ]
+          ]
+        ]
+      ]
+    ],
+    "special_effects": "",
+    "spine_action_offset": false,
+    "spine_offset": "",
+    "spine_offset_profile": "",
+    "spine_use_live2d": 0,
+    "tag": [],
+    "time": "",
+    "voice_actor": 521,
+    "voice_actor_2": -1,
+    "voice_lang": ""
+  },
+  "301191": {
+    "bg": "602",
+    "bg_sp": "",
+    "bgm": "",
+    "bound_bone": {
+      "antiaircraft": [
+        [
+          0.785,
+          2.427,
+          0
+        ]
+      ],
+      "cannon": [
+        [
+          1.422,
+          0.883,
+          0
+        ]
+      ],
+      "torpedo": [
+        [
+          -0.191,
+          -0.021,
+          0
+        ]
+      ]
+    },
+    "change_skin": {
+      "action": "changeBlack",
+      "group": 30119,
+      "index": 1,
+      "next": 301192,
+      "state": 4
+    },
+    "desc": "……こうすれば、どんな問いにも答えてくれるコックリ……さん……を……おぉっ！…………ふぁ～。我を勝手に呼び覚ました者は……人間、あなたなの？",
+    "double_char": 0,
+    "fx_container": [
+      [
+        0,
+        1.99185,
+        1.15
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0.75,
+        -1.299
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "get_showing": {
+      "data": [
+        [
+          -467,
+          1365,
+          2,
+          -164,
+          0,
+          2
+        ],
+        [
+          -852,
+          302,
+          1.8,
+          0,
+          -145,
+          2
+        ],
+        [
+          -598,
+          -381,
+          2,
+          118,
+          0,
+          2
+        ]
+      ],
+      "show": 1
+    },
+    "group_index": 1,
+    "gyro": 0,
+    "hand_id": 14,
+    "id": 301191,
+    "illustrator": -1,
+    "illustrator2": -1,
+    "l2d_animations": "",
+    "l2d_drag_rate": "",
+    "l2d_ignore_drag": 0,
+    "l2d_para_range": "",
+    "l2d_se": "",
+    "l2d_voice_calibrate": "",
+    "lip_smoothing": 0,
+    "lip_sync_gain": 0,
+    "live2d_offset": [
+      0,
+      0,
+      0
+    ],
+    "live2d_offset_profile": "",
+    "lover_hand": "hand_1_02",
+    "lover_kiss": "lip03",
+    "main_UI_FX": "",
+    "name": "コックリと吹けば天津風",
+    "painting": "tianjinfeng_2",
+    "part_scale": "",
+    "prefab": "tianjinfeng_2",
+    "purchase_offset": "",
+    "rarity_bg": "",
+    "ship_group": 30119,
+    "ship_l2d_id": "",
+    "shop_dynamic_hx": 0,
+    "shop_id": 71396,
+    "shop_offset": [
+      -543.3,
+      -487,
+      0,
+      0.79
+    ],
+    "shop_type_id": 29,
+    "show_skin": "stand",
+    "skeleton_default_skin": "",
+    "skin_type": 0,
+    "smoke": [
+      [
+        50,
+        [
+          [
+            "smoke",
+            [
+              -0.64,
+              2.45,
+              0
+            ]
+          ]
+        ]
+      ]
+    ],
+    "special_effects": "",
+    "spine_action_offset": false,
+    "spine_offset": [
+      -485,
+      -640,
+      0,
+      0.91
+    ],
+    "spine_offset_profile": [
+      -465.7,
+      -477,
+      0,
+      0.79
+    ],
+    "spine_use_live2d": 0,
+    "tag": [
+      10,
+      7,
+      2
+    ],
+    "time": "",
+    "voice_actor": 521,
+    "voice_actor_2": -1,
+    "voice_lang": ""
+  },
+  "301192": {
+    "bg": "602",
+    "bg_sp": "",
+    "bgm": "",
+    "bound_bone": {
+      "antiaircraft": [
+        [
+          0.18,
+          3.26,
+          0
+        ]
+      ],
+      "cannon": [
+        [
+          -0.27,
+          0.57,
+          0
+        ]
+      ],
+      "torpedo": [
+        [
+          0.17,
+          0.09,
+          0
+        ]
+      ]
+    },
+    "change_skin": {
+      "action": "changeBlack",
+      "group": 30119,
+      "index": 2,
+      "next": 301191,
+      "state": 4
+    },
+    "desc": "……こうすれば、どんな問いにも答えてくれるコックリ……さん……を……おぉっ！…………ふぁ～。我を勝手に呼び覚ました者は……人間、あなたなの？",
+    "double_char": 0,
+    "fx_container": [
+      [
+        0,
+        1.99185,
+        1.15
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0.75,
+        -1.299
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "get_showing": "",
+    "group_index": 2,
+    "gyro": 0,
+    "hand_id": 14,
+    "id": 301192,
+    "illustrator": -1,
+    "illustrator2": -1,
+    "l2d_animations": "",
+    "l2d_drag_rate": "",
+    "l2d_ignore_drag": 0,
+    "l2d_para_range": "",
+    "l2d_se": "",
+    "l2d_voice_calibrate": "",
+    "lip_smoothing": 0,
+    "lip_sync_gain": 0,
+    "live2d_offset": [
+      0,
+      0,
+      0
+    ],
+    "live2d_offset_profile": "",
+    "lover_hand": "hand_1_02",
+    "lover_kiss": "lip03",
+    "main_UI_FX": "",
+    "name": "コックリと吹けば天津風",
+    "painting": "tianjinfeng_3",
+    "part_scale": "",
+    "prefab": "tianjinfeng_2",
+    "purchase_offset": "",
+    "rarity_bg": "",
+    "ship_group": 30119,
+    "ship_l2d_id": "",
+    "shop_dynamic_hx": 0,
+    "shop_id": 0,
+    "shop_offset": [
+      -22,
+      -1087,
+      0,
+      0.85
+    ],
+    "shop_type_id": 29,
+    "show_skin": "stand",
+    "skeleton_default_skin": "",
+    "skin_type": 0,
+    "smoke": [
+      [
+        50,
+        [
+          [
+            "smoke",
+            [
+              -0.64,
+              2.45,
+              0
+            ]
+          ]
+        ]
+      ]
+    ],
+    "special_effects": "",
+    "spine_action_offset": false,
+    "spine_offset": [
+      33,
+      -1267.5,
+      0,
+      0.94
+    ],
+    "spine_offset_profile": [
+      43.5,
+      -1094.7,
+      0,
+      0.85
+    ],
+    "spine_use_live2d": 0,
+    "tag": [
+      10,
+      7,
+      2
+    ],
+    "time": "",
+    "voice_actor": 521,
+    "voice_actor_2": -1,
+    "voice_lang": ""
+  },
   "301200": {
     "bg": "",
     "bg_sp": "",
@@ -291315,7 +291744,7 @@
     "prefab": "tbniang",
     "purchase_offset": "",
     "rarity_bg": "",
-    "ship_group": 90284,
+    "ship_group": 900284,
     "ship_l2d_id": "",
     "shop_dynamic_hx": 0,
     "shop_id": 0,
@@ -291452,7 +291881,7 @@
     "prefab": "strength",
     "purchase_offset": "",
     "rarity_bg": "",
-    "ship_group": 90285,
+    "ship_group": 900285,
     "ship_l2d_id": "",
     "shop_dynamic_hx": 0,
     "shop_id": 0,
@@ -291589,7 +292018,7 @@
     "prefab": "temperance",
     "purchase_offset": "",
     "rarity_bg": "",
-    "ship_group": 90286,
+    "ship_group": 900286,
     "ship_l2d_id": "",
     "shop_dynamic_hx": 0,
     "shop_id": 0,
@@ -291726,7 +292155,7 @@
     "prefab": "hermit",
     "purchase_offset": "",
     "rarity_bg": "",
-    "ship_group": 90287,
+    "ship_group": 900287,
     "ship_l2d_id": "",
     "shop_dynamic_hx": 0,
     "shop_id": 0,
@@ -291854,7 +292283,7 @@
     "prefab": "yuekecheng",
     "purchase_offset": "",
     "rarity_bg": "",
-    "ship_group": 90295,
+    "ship_group": 900295,
     "ship_l2d_id": "",
     "shop_dynamic_hx": 0,
     "shop_id": 0,
@@ -291977,7 +292406,7 @@
     "prefab": "qiye",
     "purchase_offset": "",
     "rarity_bg": "",
-    "ship_group": 90296,
+    "ship_group": 900296,
     "ship_l2d_id": "",
     "shop_dynamic_hx": 0,
     "shop_id": 0,
@@ -292100,7 +292529,7 @@
     "prefab": "dahuangfeng",
     "purchase_offset": "",
     "rarity_bg": "",
-    "ship_group": 90297,
+    "ship_group": 900297,
     "ship_l2d_id": "",
     "shop_dynamic_hx": 0,
     "shop_id": 0,
@@ -292237,7 +292666,7 @@
     "prefab": "tiancheng",
     "purchase_offset": "",
     "rarity_bg": "",
-    "ship_group": 90298,
+    "ship_group": 900298,
     "ship_l2d_id": "",
     "shop_dynamic_hx": 0,
     "shop_id": 0,
@@ -364413,6 +364842,9 @@
     301180,
     301181,
     301189,
+    301190,
+    301191,
+    301192,
     301200,
     301210,
     301211,
@@ -367887,6 +368319,11 @@
       301181,
       301189
     ],
+    "30119": [
+      301190,
+      301191,
+      301192
+    ],
     "30120": [
       301200
     ],
@@ -369873,30 +370310,6 @@
       902020,
       902021
     ],
-    "90284": [
-      900284
-    ],
-    "90285": [
-      900285
-    ],
-    "90286": [
-      900286
-    ],
-    "90287": [
-      900287
-    ],
-    "90295": [
-      900295
-    ],
-    "90296": [
-      900296
-    ],
-    "90297": [
-      900297
-    ],
-    "90298": [
-      900298
-    ],
     "90301": [
       903010,
       903011,
@@ -370421,6 +370834,30 @@
     ],
     "900282": [
       900282
+    ],
+    "900284": [
+      900284
+    ],
+    "900285": [
+      900285
+    ],
+    "900286": [
+      900286
+    ],
+    "900287": [
+      900287
+    ],
+    "900295": [
+      900295
+    ],
+    "900296": [
+      900296
+    ],
+    "900297": [
+      900297
+    ],
+    "900298": [
+      900298
     ],
     "900300": [
       900300
@@ -371946,6 +372383,7 @@
       301160,
       301170,
       301180,
+      301190,
       301200,
       301210,
       301230,
@@ -374273,6 +374711,10 @@
       705022,
       705023,
       805032
+    ],
+    "29": [
+      301191,
+      301192
     ],
     "9997": [
       101039,

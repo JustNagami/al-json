@@ -2834,6 +2834,169 @@
     ],
     "whether_singlefight": 1
   },
+  "1002001": {
+    "additional_awards_display": "",
+    "boss_icon": [
+      [
+        "youeryuan_boss05",
+        5
+      ]
+    ],
+    "chapter_name": "簡単",
+    "collection_group_id": 104,
+    "count": 0,
+    "defeat_story": [],
+    "defeat_story_count": [],
+    "ex_count": "",
+    "expedition_id": [
+      1819101
+    ],
+    "id": 1002001,
+    "limitation": [],
+    "name": "事務棟",
+    "oil": 0,
+    "pass_awards_display": [
+      [
+        2,
+        200174
+      ],
+      [
+        2,
+        59001
+      ],
+      [
+        2,
+        54012
+      ]
+    ],
+    "pos_x": "0.10703125",
+    "pos_y": "0.157291667",
+    "pre_chapter": 0,
+    "profiles": "「事務棟へようこそ」\n「プログレッシブな毎日を過ごせるように」\n「限られた時間に困らないように」\n「童心を永遠に忘れないように」",
+    "type": 1,
+    "use_oil_limit": [
+      0,
+      0
+    ],
+    "whether_singlefight": 0
+  },
+  "1002002": {
+    "additional_awards_display": [
+      [
+        1,
+        1
+      ]
+    ],
+    "boss_icon": [
+      [
+        "youeryuan_boss05",
+        5
+      ],
+      [
+        "youeryuan_boss03",
+        7
+      ]
+    ],
+    "chapter_name": "普通",
+    "collection_group_id": 105,
+    "count": 0,
+    "defeat_story": [],
+    "defeat_story_count": [],
+    "ex_count": "",
+    "expedition_id": [
+      1819201,
+      1819202
+    ],
+    "id": 1002002,
+    "limitation": [],
+    "name": "教室棟",
+    "oil": 0,
+    "pass_awards_display": [
+      [
+        2,
+        200175
+      ],
+      [
+        2,
+        59001
+      ],
+      [
+        2,
+        54017
+      ]
+    ],
+    "pos_x": "0.34609375",
+    "pos_y": "0.347916667",
+    "pre_chapter": 1002001,
+    "profiles": "「教室棟へようこそ」\n「ストレスレスな毎日を過ごせるように」\n「知識の海を思いっきり楽しめるように」\n「童心を永遠に忘れないように」",
+    "type": 1,
+    "use_oil_limit": [
+      0,
+      0
+    ],
+    "whether_singlefight": 1
+  },
+  "1002003": {
+    "additional_awards_display": [
+      [
+        1,
+        1
+      ]
+    ],
+    "boss_icon": [
+      [
+        "youeryuan_boss05",
+        5
+      ],
+      [
+        "youeryuan_boss03",
+        7
+      ],
+      [
+        "youeryuan_boss04",
+        3
+      ]
+    ],
+    "chapter_name": "難しい",
+    "collection_group_id": 106,
+    "count": 0,
+    "defeat_story": [],
+    "defeat_story_count": [],
+    "ex_count": "",
+    "expedition_id": [
+      1819301,
+      1819302,
+      1819303
+    ],
+    "id": 1002003,
+    "limitation": [],
+    "name": "芸術棟",
+    "oil": 0,
+    "pass_awards_display": [
+      [
+        2,
+        200176
+      ],
+      [
+        2,
+        59001
+      ],
+      [
+        2,
+        54017
+      ]
+    ],
+    "pos_x": "0.50546875",
+    "pos_y": "0.080208333",
+    "pre_chapter": 1002002,
+    "profiles": "「芸術棟へようこそ」\n「カラフルな毎日を過ごせるように」\n「初心のままでいられるように」\n「童心を永遠に忘れないように」",
+    "type": 1,
+    "use_oil_limit": [
+      25,
+      16
+    ],
+    "whether_singlefight": 1
+  },
   "all": [
     1001,
     1002,
@@ -2874,6 +3037,9 @@
     6005,
     1001001,
     1001002,
-    1001003
+    1001003,
+    1002001,
+    1002002,
+    1002003
   ]
 }

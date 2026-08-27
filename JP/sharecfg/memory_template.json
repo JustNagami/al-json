@@ -77079,6 +77079,96 @@
     ],
     "year": 0
   },
+  "5411": {
+    "condition": "イベントページに移動する",
+    "icon": "memory_darenwudeyugaoxin",
+    "id": 5411,
+    "is_open": 0,
+    "mask": "bg/bg_memory",
+    "number": 0,
+    "ship_group": 0,
+    "story": "DARENWUDEYUGAOXIN1",
+    "subtitle": "",
+    "task": 0,
+    "title": "華麗なる予告状",
+    "type": 1,
+    "unlock_pre": [
+      "DARENWUDEYUGAOXIN1"
+    ],
+    "year": 0
+  },
+  "5412": {
+    "condition": "「偉いやつの予告状」作戦進捗25%",
+    "icon": "memory_darenwudeyugaoxin",
+    "id": 5412,
+    "is_open": 0,
+    "mask": "bg/bg_memory",
+    "number": 0,
+    "ship_group": 0,
+    "story": "DARENWUDEYUGAOXIN2",
+    "subtitle": "",
+    "task": 0,
+    "title": "第一の門番",
+    "type": 1,
+    "unlock_pre": [
+      "DARENWUDEYUGAOXIN2"
+    ],
+    "year": 0
+  },
+  "5413": {
+    "condition": "「偉いやつの予告状」作戦進捗50%",
+    "icon": "memory_darenwudeyugaoxin",
+    "id": 5413,
+    "is_open": 0,
+    "mask": "bg/bg_memory",
+    "number": 0,
+    "ship_group": 0,
+    "story": "DARENWUDEYUGAOXIN3",
+    "subtitle": "",
+    "task": 0,
+    "title": "第二の門番",
+    "type": 1,
+    "unlock_pre": [
+      "DARENWUDEYUGAOXIN3"
+    ],
+    "year": 0
+  },
+  "5414": {
+    "condition": "「偉いやつの予告状」作戦進捗75%",
+    "icon": "memory_darenwudeyugaoxin",
+    "id": 5414,
+    "is_open": 0,
+    "mask": "bg/bg_memory",
+    "number": 0,
+    "ship_group": 0,
+    "story": "DARENWUDEYUGAOXIN4",
+    "subtitle": "",
+    "task": 0,
+    "title": "偉いやつの正体",
+    "type": 1,
+    "unlock_pre": [
+      "DARENWUDEYUGAOXIN4"
+    ],
+    "year": 0
+  },
+  "5415": {
+    "condition": "「偉いやつの予告状」作戦進捗100%",
+    "icon": "memory_darenwudeyugaoxin",
+    "id": 5415,
+    "is_open": 0,
+    "mask": "bg/bg_memory",
+    "number": 0,
+    "ship_group": 0,
+    "story": "DARENWUDEYUGAOXIN5",
+    "subtitle": "",
+    "task": 0,
+    "title": "傍らに在るを知らず",
+    "type": 1,
+    "unlock_pre": [
+      "DARENWUDEYUGAOXIN5"
+    ],
+    "year": 0
+  },
   "10000": {
     "condition": "「努力、希望と計画」開始",
     "icon": "activity",
@@ -86708,6 +86798,11 @@
     5400,
     5401,
     5402,
+    5411,
+    5412,
+    5413,
+    5414,
+    5415,
     10000,
     10001,
     10002,

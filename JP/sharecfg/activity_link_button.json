@@ -129,7 +129,9 @@
     "param": "0",
     "pic": "event_boss",
     "text_pic": "text_event_boss",
-    "time": "stop",
+    "time": [
+      "default"
+    ],
     "type": 0
   },
   "40": {
@@ -331,7 +333,7 @@
     "text_pic": "text_event_core",
     "time": [
       "default",
-      51101
+      51109
     ],
     "type": 16
   },

@@ -256176,7 +256176,7 @@
     "id": 3119501,
     "max_hp": 400,
     "model_ID": "feiji_hunianxianhe_small",
-    "name": "【2023闪乱联动】战忍型航空母舰 战斗机Lv1",
+    "name": "【2024春节共斗 EX难度】关卡仙鹤飞机空袭 战斗机",
     "nationality": 3,
     "position_offset": [
       0,
@@ -256251,7 +256251,7 @@
     "id": 3119502,
     "max_hp": 400,
     "model_ID": "feiji_hunianxianhe_small",
-    "name": "【2023闪乱联动】战忍型航空母舰 轰炸机Lv1",
+    "name": "【2024春节共斗 EX难度】关卡仙鹤飞机空袭 轰炸机",
     "nationality": 3,
     "position_offset": [
       0,
@@ -290675,6 +290675,156 @@
       3427109
     ]
   },
+  "3429501": {
+    "ACC_growth": 0,
+    "AP_growth": 2000,
+    "accuracy": 23,
+    "attack_power": 2,
+    "bound_bone": {
+      "weapon": [
+        [
+          0.56,
+          -0.76,
+          0
+        ],
+        [
+          0.48,
+          0.99,
+          0
+        ]
+      ]
+    },
+    "cld_box": [
+      1,
+      1,
+      1
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "crash_DMG": 65,
+    "dodge": 1,
+    "dodge_limit": 0,
+    "funnel_behavior": "",
+    "fx_container": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "hp_growth": 2280,
+    "icon": "feiji_diezhan",
+    "id": 3429501,
+    "max_hp": 400,
+    "model_ID": "feiji_diezhan",
+    "name": "【2026天津风共斗 EX难度】词条飞机空袭 战斗机",
+    "nationality": 3,
+    "position_offset": [
+      0,
+      5,
+      0
+    ],
+    "scale": 0.75,
+    "spawn_brownian": 1,
+    "speed": 30,
+    "type": 1,
+    "weapon_ID": [
+      3429503
+    ]
+  },
+  "3429502": {
+    "ACC_growth": 0,
+    "AP_growth": 2000,
+    "accuracy": 23,
+    "attack_power": 2,
+    "bound_bone": {
+      "weapon": [
+        [
+          0.56,
+          -0.76,
+          0
+        ],
+        [
+          0.48,
+          0.99,
+          0
+        ]
+      ]
+    },
+    "cld_box": [
+      1,
+      1,
+      1
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "crash_DMG": 36,
+    "dodge": 1,
+    "dodge_limit": 0,
+    "funnel_behavior": "",
+    "fx_container": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "hp_growth": 1680,
+    "icon": "feiji_diezhan",
+    "id": 3429502,
+    "max_hp": 400,
+    "model_ID": "feiji_diezhan",
+    "name": "【2026天津风共斗 EX难度】词条飞机空袭 轰炸机",
+    "nationality": 3,
+    "position_offset": [
+      0,
+      5,
+      0
+    ],
+    "scale": 0.75,
+    "spawn_brownian": 1,
+    "speed": 33,
+    "type": 3,
+    "weapon_ID": [
+      3429504
+    ]
+  },
   "all": [
     109,
     110,
@@ -298130,6 +298280,8 @@
     3427041,
     3427051,
     3427103,
-    3427108
+    3427108,
+    3429501,
+    3429502
   ]
 }
