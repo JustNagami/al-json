@@ -605,32 +605,7 @@
       0.9
     ],
     "painting": "dahuangfeng",
-    "state": [
-      [
-        [
-          2025,
-          3,
-          13
-        ],
-        [
-          0,
-          0,
-          0
-        ]
-      ],
-      [
-        [
-          2025,
-          6,
-          4
-        ],
-        [
-          23,
-          59,
-          59
-        ]
-      ]
-    ]
+    "state": "always"
   },
   "19": {
     "boss_level_id": 271,
@@ -932,6 +907,64 @@
       ]
     ]
   },
+  "24": {
+    "boss_level_id": 346,
+    "description": [
+      [
+        "Punishment★From Above",
+        3,
+        "During battle, orbital support weapons will appear:\n1) Large-scale long-range artillery bombardment;\n2) Large-scale fighter support;\n3) Target lock-on (<color=#92fc63>increases your Vanguard fleet's DMG taken by 100.0%</color> for 8s; 15s cooldown between activations)."
+      ],
+      [
+        "Change★Battle Music",
+        1,
+        "Every 25s, Saratoga META's Armor type <color=#92fc63>switches between Medium and Heavy</color> (starts with Medium armor; armor type can be seen in the top right-hand corner). Saratoga META will launch an airstrike each time she switches her Armor type."
+      ]
+    ],
+    "id": 24,
+    "item_id": 100000,
+    "meta_id": 970710,
+    "name": "Saratoga META",
+    "p_offset": [
+      -392,
+      483,
+      0.7,
+      0.7
+    ],
+    "p_offset_other": [
+      261,
+      523,
+      0.7,
+      0.7
+    ],
+    "painting": "salatuojia",
+    "state": [
+      [
+        [
+          2026,
+          9,
+          4
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2026,
+          12,
+          9
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ]
+  },
   "all": [
     1,
     2,
@@ -955,6 +988,7 @@
     20,
     21,
     22,
-    23
+    23,
+    24
   ]
 }
