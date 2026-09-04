@@ -36878,6 +36878,41 @@
     "trans_type": 0,
     "type": 2
   },
+  "30064": {
+    "code": 30064,
+    "description": [
+      [
+        "メタラボ・情報解析",
+        [
+          "METACHARACTER",
+          {
+            "autoOpenShipConfigID": 9707101
+          }
+        ],
+        0
+      ]
+    ],
+    "group_type": 970710,
+    "handbook_type": 3,
+    "hide": 0,
+    "index_id": 30066,
+    "nationality": 97,
+    "property_hexagon": [
+      "C",
+      "E",
+      "S",
+      "C",
+      "A",
+      "A"
+    ],
+    "redirect_id": 101,
+    "share_group_id": [],
+    "trans_radar_chart": [],
+    "trans_skill": [],
+    "trans_skin": 0,
+    "trans_type": 0,
+    "type": 7
+  },
   "all": [
     1,
     2,
@@ -37765,7 +37800,8 @@
     30060,
     30061,
     30062,
-    30063
+    30063,
+    30064
   ],
   "get_id_list_by_group_type": {
     "10000": [
@@ -40147,6 +40183,9 @@
     "970708": [
       30054
     ],
+    "970710": [
+      30064
+    ],
     "970801": [
       30021
     ],
@@ -41324,7 +41363,8 @@
       30060,
       30061,
       30062,
-      30063
+      30063,
+      30064
     ]
   }
 }
