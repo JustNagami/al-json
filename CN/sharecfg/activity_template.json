@@ -57500,6 +57500,97 @@
     "title_res_tag": "StarsCityCoreActivityUI_subtitle_6",
     "type": 103
   },
+  "51118": {
+    "config_client": "",
+    "config_data": [
+      12020,
+      12021,
+      12022,
+      12023,
+      12024
+    ],
+    "config_id": 0,
+    "id": 51118,
+    "is_show": 0,
+    "login_pop": 0,
+    "mark": 20260904,
+    "page_core": "",
+    "page_info": "",
+    "time": [
+      "timer",
+      [
+        [
+          2026,
+          9,
+          4
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2026,
+          9,
+          11
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
+    "title_res_tag": "",
+    "type": 13
+  },
+  "51119": {
+    "config_client": {
+      "itemid": 42063
+    },
+    "config_data": [],
+    "config_id": 37,
+    "id": 51119,
+    "is_show": 48,
+    "login_pop": 0,
+    "mark": 20260904,
+    "page_core": "",
+    "page_info": {
+      "class_name": "SimulationTecCatchupPage",
+      "ui_name": "SimulationTecCatchupPage"
+    },
+    "time": [
+      "timer",
+      [
+        [
+          2026,
+          9,
+          4
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2026,
+          9,
+          30
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
+    "title_res_tag": "Georgia_catchup",
+    "type": 69
+  },
   "51121": {
     "config_client": "",
     "config_data": [
@@ -57652,12 +57743,12 @@
         [
           2026,
           9,
-          8
+          16
         ],
         [
-          12,
-          0,
-          0
+          23,
+          59,
+          59
         ]
       ]
     ],
@@ -57703,6 +57794,252 @@
     ],
     "title_res_tag": "",
     "type": 74
+  },
+  "51126": {
+    "config_client": "",
+    "config_data": [],
+    "config_id": 41,
+    "id": 51126,
+    "is_show": 2,
+    "login_pop": 0,
+    "mark": 20260904,
+    "page_core": "ShadowCityCoreActivityUI",
+    "page_info": {
+      "class_name": "ShadowCityFramePage",
+      "ui_name": "ShadowCityFramePage"
+    },
+    "time": [
+      "timer",
+      [
+        [
+          2026,
+          9,
+          4
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2026,
+          10,
+          7
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
+    "title_res_tag": "ShadowCityCoreActivityUI_subtitle_1",
+    "type": 87
+  },
+  "51127": {
+    "config_client": {
+      "default_background": "star_level_bg_533",
+      "story": [
+        [
+          "DUSHIQIUZHIDAZUOZHAN1",
+          "DUSHIQIUZHIDAZUOZHAN2"
+        ],
+        [
+          "DUSHIQIUZHIDAZUOZHAN3"
+        ],
+        [
+          "DUSHIQIUZHIDAZUOZHAN4"
+        ],
+        [
+          "DUSHIQIUZHIDAZUOZHAN5"
+        ],
+        [
+          "DUSHIQIUZHIDAZUOZHAN6",
+          "DUSHIQIUZHIDAZUOZHAN7"
+        ]
+      ],
+      "subType": 1,
+      "task_id": 27025,
+      "unlock_task": [
+        [
+          27450,
+          27451
+        ],
+        [
+          27452,
+          27453
+        ],
+        [
+          27454,
+          27455
+        ],
+        [
+          27456,
+          27457
+        ],
+        [
+          27458,
+          27459
+        ]
+      ]
+    },
+    "config_data": [
+      [
+        27450,
+        27451,
+        27452,
+        27453,
+        27454,
+        27455,
+        27456,
+        27457,
+        27458,
+        27459
+      ]
+    ],
+    "config_id": 3,
+    "id": 51127,
+    "is_show": 1,
+    "login_pop": 0,
+    "mark": 20260904,
+    "page_core": "ShadowCityCoreActivityUI",
+    "page_info": {
+      "class_name": "ShadowCityOmenPage",
+      "sub_ui": [
+        "ShadowCityOmenTaskWindow"
+      ],
+      "ui_name": "ShadowCityOmenPage"
+    },
+    "time": [
+      "timer",
+      [
+        [
+          2026,
+          9,
+          4
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2026,
+          9,
+          30
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
+    "title_res_tag": "ShadowCityCoreActivityUI_subtitle_2",
+    "type": 18
+  },
+  "51128": {
+    "config_client": "",
+    "config_data": [],
+    "config_id": 43,
+    "id": 51128,
+    "is_show": 0,
+    "login_pop": 0,
+    "mark": 20260904,
+    "page_core": "",
+    "page_info": "",
+    "time": [
+      "timer",
+      [
+        [
+          2026,
+          9,
+          4
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2026,
+          9,
+          8
+        ],
+        [
+          12,
+          0,
+          0
+        ]
+      ]
+    ],
+    "title_res_tag": "",
+    "type": 58
+  },
+  "51129": {
+    "config_client": "",
+    "config_data": [
+      [
+        27460
+      ],
+      [
+        27461
+      ],
+      [
+        27462
+      ],
+      [
+        27463
+      ],
+      [
+        27464
+      ]
+    ],
+    "config_id": 0,
+    "id": 51129,
+    "is_show": 3,
+    "login_pop": 0,
+    "mark": 20260904,
+    "page_core": "ShiningMagicCoreActivityUI",
+    "page_info": {
+      "class_name": "ShiningMagicSignPage",
+      "ui_name": "ShiningMagicSignPage"
+    },
+    "time": [
+      "timer",
+      [
+        [
+          2026,
+          9,
+          4
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2026,
+          9,
+          30
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
+    "title_res_tag": "ShiningMagicCoreActivityUI_subtitle_1",
+    "type": 18
   },
   "51160": {
     "config_client": "",
@@ -60451,6 +60788,12 @@
     51122,
     51123,
     51124,
+    51118,
+    51119,
+    51126,
+    51127,
+    51128,
+    51129,
     51160,
     7011,
     7012,
@@ -61141,6 +61484,7 @@
       51112,
       51113,
       51121,
+      51118,
       1103,
       1104,
       1105,
@@ -61430,6 +61774,8 @@
       51041,
       51088,
       51063,
+      51127,
+      51129,
       7506,
       6000,
       6001,
@@ -61789,7 +62135,8 @@
       50472,
       51004,
       51042,
-      51087
+      51087,
+      51128
     ],
     "59": [
       368
@@ -61869,7 +62216,8 @@
       50101,
       50263,
       51002,
-      51085
+      51085,
+      51119
     ],
     "70": [
       5246,
@@ -62128,7 +62476,8 @@
       50470,
       51003,
       51040,
-      51086
+      51086,
+      51126
     ],
     "88": [
       50043
