@@ -35057,6 +35057,79 @@
     "type": 1,
     "weapon_ID": []
   },
+  "61034": {
+    "ACC_growth": 0,
+    "AP_growth": 2000,
+    "accuracy": 23,
+    "attack_power": 2,
+    "bound_bone": {
+      "weapon": [
+        [
+          0.71,
+          -1.73,
+          0
+        ],
+        [
+          0.82,
+          2.04,
+          0
+        ]
+      ]
+    },
+    "cld_box": [
+      1,
+      1,
+      1
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "crash_DMG": 208,
+    "dodge": 1,
+    "dodge_limit": 0,
+    "funnel_behavior": "",
+    "fx_container": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0.64,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "hp_growth": 1605,
+    "icon": "caiyun",
+    "id": 61034,
+    "max_hp": 42,
+    "model_ID": "caiyun",
+    "name": "伊14技能彩云",
+    "nationality": 3,
+    "position_offset": [
+      0,
+      5,
+      0
+    ],
+    "scale": 1,
+    "spawn_brownian": 1,
+    "speed": 66,
+    "type": 3,
+    "weapon_ID": []
+  },
   "62141": {
     "ACC_growth": 0,
     "AP_growth": 2000,
@@ -92375,6 +92448,501 @@
     "spawn_brownian": 1,
     "weapon_ID": [
       184530
+    ]
+  },
+  "184591": {
+    "ACC_growth": 0,
+    "AP_growth": 2000,
+    "accuracy": 24,
+    "attack_power": 2,
+    "bound_bone": {
+      "weapon": [
+        [
+          0.52,
+          -1.61,
+          0
+        ],
+        [
+          0.6,
+          1.5,
+          0
+        ]
+      ]
+    },
+    "cld_box": [
+      1,
+      1,
+      1
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "crash_DMG": 190,
+    "dodge": 0.3,
+    "dodge_limit": 10,
+    "funnel_behavior": "",
+    "fx_container": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0.86,
+        -0.12,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "hp_growth": 2189,
+    "icon": "haidahuangfeng",
+    "id": 184591,
+    "max_hp": 57,
+    "model_ID": "haidahuangfeng",
+    "name": "胜利meta海大黄蜂",
+    "nationality": 2,
+    "position_offset": [
+      0,
+      5,
+      0
+    ],
+    "scale": 1,
+    "spawn_brownian": 1,
+    "speed": 60,
+    "type": 1,
+    "weapon_ID": [
+      184601
+    ]
+  },
+  "184592": {
+    "base": 184591,
+    "hp_growth": 2474,
+    "id": 184592,
+    "max_hp": 64,
+    "spawn_brownian": 1,
+    "weapon_ID": [
+      184602
+    ]
+  },
+  "184593": {
+    "base": 184591,
+    "hp_growth": 2760,
+    "id": 184593,
+    "max_hp": 72,
+    "spawn_brownian": 1,
+    "weapon_ID": [
+      184603
+    ]
+  },
+  "184594": {
+    "base": 184591,
+    "hp_growth": 3045,
+    "id": 184594,
+    "max_hp": 79,
+    "spawn_brownian": 1,
+    "weapon_ID": [
+      184604
+    ]
+  },
+  "184595": {
+    "base": 184591,
+    "hp_growth": 3330,
+    "id": 184595,
+    "max_hp": 87,
+    "spawn_brownian": 1,
+    "weapon_ID": [
+      184605
+    ]
+  },
+  "184596": {
+    "base": 184591,
+    "hp_growth": 3616,
+    "id": 184596,
+    "max_hp": 94,
+    "spawn_brownian": 1,
+    "weapon_ID": [
+      184606
+    ]
+  },
+  "184597": {
+    "base": 184591,
+    "hp_growth": 3901,
+    "id": 184597,
+    "max_hp": 101,
+    "spawn_brownian": 1,
+    "weapon_ID": [
+      184607
+    ]
+  },
+  "184598": {
+    "base": 184591,
+    "hp_growth": 4187,
+    "id": 184598,
+    "max_hp": 109,
+    "spawn_brownian": 1,
+    "weapon_ID": [
+      184608
+    ]
+  },
+  "184599": {
+    "base": 184591,
+    "hp_growth": 4472,
+    "id": 184599,
+    "max_hp": 116,
+    "spawn_brownian": 1,
+    "weapon_ID": [
+      184609
+    ]
+  },
+  "184600": {
+    "base": 184591,
+    "hp_growth": 4758,
+    "id": 184600,
+    "max_hp": 124,
+    "spawn_brownian": 1,
+    "weapon_ID": [
+      184610
+    ]
+  },
+  "184611": {
+    "ACC_growth": 0,
+    "AP_growth": 2000,
+    "accuracy": 23,
+    "attack_power": 2,
+    "bound_bone": {
+      "weapon": [
+        [
+          0.68,
+          -0.667,
+          0
+        ],
+        [
+          0.97,
+          0.584,
+          0
+        ]
+      ]
+    },
+    "cld_box": [
+      1,
+      1,
+      1
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "crash_DMG": 480,
+    "dodge": 1.05,
+    "dodge_limit": 6,
+    "funnel_behavior": "",
+    "fx_container": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0.26,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "hp_growth": 1678,
+    "icon": "suoyu",
+    "id": 184611,
+    "max_hp": 44,
+    "model_ID": "suoyu",
+    "name": "胜利meta梭鱼1",
+    "nationality": 2,
+    "position_offset": [
+      0,
+      5,
+      0
+    ],
+    "scale": 1,
+    "spawn_brownian": 1,
+    "speed": 52,
+    "type": 2,
+    "weapon_ID": [
+      184621
+    ]
+  },
+  "184612": {
+    "base": 184611,
+    "hp_growth": 1897,
+    "id": 184612,
+    "max_hp": 49,
+    "spawn_brownian": 1,
+    "weapon_ID": [
+      184622
+    ]
+  },
+  "184613": {
+    "base": 184611,
+    "hp_growth": 2116,
+    "id": 184613,
+    "max_hp": 55,
+    "spawn_brownian": 1,
+    "weapon_ID": [
+      184623
+    ]
+  },
+  "184614": {
+    "base": 184611,
+    "hp_growth": 2335,
+    "id": 184614,
+    "max_hp": 61,
+    "spawn_brownian": 1,
+    "weapon_ID": [
+      184624
+    ]
+  },
+  "184615": {
+    "base": 184611,
+    "hp_growth": 2554,
+    "id": 184615,
+    "max_hp": 66,
+    "spawn_brownian": 1,
+    "weapon_ID": [
+      184625
+    ]
+  },
+  "184616": {
+    "base": 184611,
+    "hp_growth": 2772,
+    "id": 184616,
+    "max_hp": 72,
+    "spawn_brownian": 1,
+    "weapon_ID": [
+      184626
+    ]
+  },
+  "184617": {
+    "base": 184611,
+    "hp_growth": 2991,
+    "id": 184617,
+    "max_hp": 78,
+    "spawn_brownian": 1,
+    "weapon_ID": [
+      184627
+    ]
+  },
+  "184618": {
+    "base": 184611,
+    "hp_growth": 3210,
+    "id": 184618,
+    "max_hp": 83,
+    "spawn_brownian": 1,
+    "weapon_ID": [
+      184628
+    ]
+  },
+  "184619": {
+    "base": 184611,
+    "hp_growth": 3429,
+    "id": 184619,
+    "max_hp": 89,
+    "spawn_brownian": 1,
+    "weapon_ID": [
+      184629
+    ]
+  },
+  "184620": {
+    "base": 184611,
+    "hp_growth": 3648,
+    "id": 184620,
+    "max_hp": 95,
+    "spawn_brownian": 1,
+    "weapon_ID": [
+      184630
+    ]
+  },
+  "184631": {
+    "ACC_growth": 0,
+    "AP_growth": 2000,
+    "accuracy": 23,
+    "attack_power": 2,
+    "bound_bone": {
+      "weapon": [
+        [
+          0.68,
+          -0.667,
+          0
+        ],
+        [
+          0.97,
+          0.584,
+          0
+        ]
+      ]
+    },
+    "cld_box": [
+      1,
+      1,
+      1
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "crash_DMG": 480,
+    "dodge": 1.05,
+    "dodge_limit": 6,
+    "funnel_behavior": "",
+    "fx_container": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0.26,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "hp_growth": 1678,
+    "icon": "suoyu",
+    "id": 184631,
+    "max_hp": 44,
+    "model_ID": "suoyu",
+    "name": "胜利meta梭鱼2",
+    "nationality": 2,
+    "position_offset": [
+      0,
+      5,
+      0
+    ],
+    "scale": 1,
+    "spawn_brownian": 1,
+    "speed": 52,
+    "type": 2,
+    "weapon_ID": [
+      184641
+    ]
+  },
+  "184632": {
+    "base": 184631,
+    "hp_growth": 1897,
+    "id": 184632,
+    "max_hp": 49,
+    "spawn_brownian": 1,
+    "weapon_ID": [
+      184642
+    ]
+  },
+  "184633": {
+    "base": 184631,
+    "hp_growth": 2116,
+    "id": 184633,
+    "max_hp": 55,
+    "spawn_brownian": 1,
+    "weapon_ID": [
+      184643
+    ]
+  },
+  "184634": {
+    "base": 184631,
+    "hp_growth": 2335,
+    "id": 184634,
+    "max_hp": 61,
+    "spawn_brownian": 1,
+    "weapon_ID": [
+      184644
+    ]
+  },
+  "184635": {
+    "base": 184631,
+    "hp_growth": 2554,
+    "id": 184635,
+    "max_hp": 66,
+    "spawn_brownian": 1,
+    "weapon_ID": [
+      184645
+    ]
+  },
+  "184636": {
+    "base": 184631,
+    "hp_growth": 2772,
+    "id": 184636,
+    "max_hp": 72,
+    "spawn_brownian": 1,
+    "weapon_ID": [
+      184646
+    ]
+  },
+  "184637": {
+    "base": 184631,
+    "hp_growth": 2991,
+    "id": 184637,
+    "max_hp": 78,
+    "spawn_brownian": 1,
+    "weapon_ID": [
+      184647
+    ]
+  },
+  "184638": {
+    "base": 184631,
+    "hp_growth": 3210,
+    "id": 184638,
+    "max_hp": 83,
+    "spawn_brownian": 1,
+    "weapon_ID": [
+      184648
+    ]
+  },
+  "184639": {
+    "base": 184631,
+    "hp_growth": 3429,
+    "id": 184639,
+    "max_hp": 89,
+    "spawn_brownian": 1,
+    "weapon_ID": [
+      184649
+    ]
+  },
+  "184640": {
+    "base": 184631,
+    "hp_growth": 3648,
+    "id": 184640,
+    "max_hp": 95,
+    "spawn_brownian": 1,
+    "weapon_ID": [
+      184650
     ]
   },
   "184651": {
@@ -292301,6 +292869,1982 @@
       3429504
     ]
   },
+  "3431005": {
+    "ACC_growth": 0,
+    "AP_growth": 2000,
+    "accuracy": 23,
+    "attack_power": 2,
+    "bound_bone": {
+      "weapon": [
+        [
+          0.71,
+          -1.73,
+          0
+        ],
+        [
+          0.82,
+          2.04,
+          0
+        ]
+      ]
+    },
+    "cld_box": [
+      1,
+      1,
+      1
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "crash_DMG": 100,
+    "dodge": 1,
+    "dodge_limit": 0,
+    "funnel_behavior": "",
+    "fx_container": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "hp_growth": 1960,
+    "icon": "feiji_baifeng",
+    "id": 3431005,
+    "max_hp": 300,
+    "model_ID": "feiji_baifeng",
+    "name": "【2026虎UR活动B1】BOSS 白凤 第二波 轰炸机",
+    "nationality": 3,
+    "position_offset": [
+      0,
+      5,
+      0
+    ],
+    "scale": 0.75,
+    "spawn_brownian": 1,
+    "speed": 45,
+    "type": 3,
+    "weapon_ID": [
+      3431007
+    ]
+  },
+  "3431006": {
+    "ACC_growth": 0,
+    "AP_growth": 2000,
+    "accuracy": 23,
+    "attack_power": 2,
+    "bound_bone": {
+      "weapon": [
+        [
+          0.71,
+          -1.73,
+          0
+        ],
+        [
+          0.82,
+          2.04,
+          0
+        ]
+      ]
+    },
+    "cld_box": [
+      1,
+      1,
+      1
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "crash_DMG": 1,
+    "dodge": 1,
+    "dodge_limit": 0,
+    "funnel_behavior": "",
+    "fx_container": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "hp_growth": 1960,
+    "icon": "feiji_baifeng",
+    "id": 3431006,
+    "max_hp": 500,
+    "model_ID": "feiji_baifeng",
+    "name": "【2026虎UR活动B1】BOSS 白凤 第二波 战斗机",
+    "nationality": 3,
+    "position_offset": [
+      0,
+      5,
+      0
+    ],
+    "scale": 0.75,
+    "spawn_brownian": 1,
+    "speed": 45,
+    "type": 1,
+    "weapon_ID": [
+      3431008
+    ]
+  },
+  "3431103": {
+    "ACC_growth": 0,
+    "AP_growth": 2000,
+    "accuracy": 23,
+    "attack_power": 2,
+    "bound_bone": {
+      "weapon": [
+        [
+          0.56,
+          -0.76,
+          0
+        ],
+        [
+          0.48,
+          0.99,
+          0
+        ]
+      ]
+    },
+    "cld_box": [
+      1,
+      1,
+      1
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "crash_DMG": 65,
+    "dodge": 1,
+    "dodge_limit": 0,
+    "funnel_behavior": "",
+    "fx_container": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "hp_growth": 3680,
+    "icon": "feiji_youlingfashi",
+    "id": 3431103,
+    "max_hp": 198,
+    "model_ID": "feiji_youlingfashi",
+    "name": "【2026虎UR活动B2】BOSS 光辉 第二波 战斗机",
+    "nationality": 3,
+    "position_offset": [
+      0,
+      5,
+      0
+    ],
+    "scale": 0.75,
+    "spawn_brownian": 1,
+    "speed": 30,
+    "type": 1,
+    "weapon_ID": [
+      3431106
+    ]
+  },
+  "3431104": {
+    "ACC_growth": 0,
+    "AP_growth": 2000,
+    "accuracy": 23,
+    "attack_power": 2,
+    "bound_bone": {
+      "weapon": [
+        [
+          0.56,
+          -0.76,
+          0
+        ],
+        [
+          0.48,
+          0.99,
+          0
+        ]
+      ]
+    },
+    "cld_box": [
+      1,
+      1,
+      1
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "crash_DMG": 36,
+    "dodge": 1,
+    "dodge_limit": 0,
+    "funnel_behavior": "",
+    "fx_container": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "hp_growth": 3680,
+    "icon": "feiji_youlingjiu",
+    "id": 3431104,
+    "max_hp": 198,
+    "model_ID": "feiji_youlingjiu",
+    "name": "【2026虎UR活动B2】BOSS 光辉 第二波 轰炸机",
+    "nationality": 3,
+    "position_offset": [
+      0,
+      5,
+      0
+    ],
+    "scale": 0.75,
+    "spawn_brownian": 1,
+    "speed": 33,
+    "type": 3,
+    "weapon_ID": [
+      3431107,
+      3431108
+    ]
+  },
+  "3431105": {
+    "ACC_growth": 0,
+    "AP_growth": 2000,
+    "accuracy": 23,
+    "attack_power": 2,
+    "bound_bone": {
+      "weapon": [
+        [
+          0.56,
+          -0.76,
+          0
+        ],
+        [
+          0.48,
+          0.99,
+          0
+        ]
+      ]
+    },
+    "cld_box": [
+      1,
+      1,
+      1
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "crash_DMG": 36,
+    "dodge": 1,
+    "dodge_limit": 0,
+    "funnel_behavior": "",
+    "fx_container": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "hp_growth": 5000,
+    "icon": "feiji_youlingjiu",
+    "id": 3431105,
+    "max_hp": 198,
+    "model_ID": "feiji_youlingjiu",
+    "name": "【2026虎UR活动B2】BOSS 光辉 第二波 地毯式轰炸机",
+    "nationality": 3,
+    "position_offset": [
+      0,
+      5,
+      0
+    ],
+    "scale": 0.75,
+    "spawn_brownian": 1,
+    "speed": 33,
+    "type": 3,
+    "weapon_ID": [
+      3431109
+    ]
+  },
+  "3433005": {
+    "ACC_growth": 0,
+    "AP_growth": 2000,
+    "accuracy": 23,
+    "attack_power": 2,
+    "bound_bone": {
+      "weapon": [
+        [
+          0.71,
+          -1.73,
+          0
+        ],
+        [
+          0.82,
+          2.04,
+          0
+        ]
+      ]
+    },
+    "cld_box": [
+      1,
+      1,
+      1
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "crash_DMG": 100,
+    "dodge": 1,
+    "dodge_limit": 0,
+    "funnel_behavior": "",
+    "fx_container": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "hp_growth": 1960,
+    "icon": "feiji_baifeng",
+    "id": 3433005,
+    "max_hp": 300,
+    "model_ID": "feiji_baifeng",
+    "name": "【2026虎UR活动D1】BOSS 白凤 第二波 轰炸机",
+    "nationality": 3,
+    "position_offset": [
+      0,
+      5,
+      0
+    ],
+    "scale": 0.75,
+    "spawn_brownian": 1,
+    "speed": 45,
+    "type": 3,
+    "weapon_ID": [
+      3433007
+    ]
+  },
+  "3433006": {
+    "ACC_growth": 0,
+    "AP_growth": 2000,
+    "accuracy": 23,
+    "attack_power": 2,
+    "bound_bone": {
+      "weapon": [
+        [
+          0.71,
+          -1.73,
+          0
+        ],
+        [
+          0.82,
+          2.04,
+          0
+        ]
+      ]
+    },
+    "cld_box": [
+      1,
+      1,
+      1
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "crash_DMG": 1,
+    "dodge": 1,
+    "dodge_limit": 0,
+    "funnel_behavior": "",
+    "fx_container": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "hp_growth": 1960,
+    "icon": "feiji_baifeng",
+    "id": 3433006,
+    "max_hp": 500,
+    "model_ID": "feiji_baifeng",
+    "name": "【2026虎UR活动D1】BOSS 白凤 第二波 战斗机",
+    "nationality": 3,
+    "position_offset": [
+      0,
+      5,
+      0
+    ],
+    "scale": 0.75,
+    "spawn_brownian": 1,
+    "speed": 45,
+    "type": 1,
+    "weapon_ID": [
+      3433008
+    ]
+  },
+  "3433103": {
+    "ACC_growth": 0,
+    "AP_growth": 2000,
+    "accuracy": 23,
+    "attack_power": 2,
+    "bound_bone": {
+      "weapon": [
+        [
+          0.56,
+          -0.76,
+          0
+        ],
+        [
+          0.48,
+          0.99,
+          0
+        ]
+      ]
+    },
+    "cld_box": [
+      1,
+      1,
+      1
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "crash_DMG": 65,
+    "dodge": 1,
+    "dodge_limit": 0,
+    "funnel_behavior": "",
+    "fx_container": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "hp_growth": 3680,
+    "icon": "feiji_youlingfashi",
+    "id": 3433103,
+    "max_hp": 198,
+    "model_ID": "feiji_youlingfashi",
+    "name": "【2026虎UR活动B2】BOSS 光辉 第二波 战斗机",
+    "nationality": 3,
+    "position_offset": [
+      0,
+      5,
+      0
+    ],
+    "scale": 0.75,
+    "spawn_brownian": 1,
+    "speed": 30,
+    "type": 1,
+    "weapon_ID": [
+      3433106
+    ]
+  },
+  "3433104": {
+    "ACC_growth": 0,
+    "AP_growth": 2000,
+    "accuracy": 23,
+    "attack_power": 2,
+    "bound_bone": {
+      "weapon": [
+        [
+          0.56,
+          -0.76,
+          0
+        ],
+        [
+          0.48,
+          0.99,
+          0
+        ]
+      ]
+    },
+    "cld_box": [
+      1,
+      1,
+      1
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "crash_DMG": 36,
+    "dodge": 1,
+    "dodge_limit": 0,
+    "funnel_behavior": "",
+    "fx_container": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "hp_growth": 3680,
+    "icon": "feiji_youlingjiu",
+    "id": 3433104,
+    "max_hp": 198,
+    "model_ID": "feiji_youlingjiu",
+    "name": "【2026虎UR活动B2】BOSS 光辉 第二波 轰炸机",
+    "nationality": 3,
+    "position_offset": [
+      0,
+      5,
+      0
+    ],
+    "scale": 0.75,
+    "spawn_brownian": 1,
+    "speed": 33,
+    "type": 3,
+    "weapon_ID": [
+      3433107,
+      3433108
+    ]
+  },
+  "3433105": {
+    "ACC_growth": 0,
+    "AP_growth": 2000,
+    "accuracy": 23,
+    "attack_power": 2,
+    "bound_bone": {
+      "weapon": [
+        [
+          0.56,
+          -0.76,
+          0
+        ],
+        [
+          0.48,
+          0.99,
+          0
+        ]
+      ]
+    },
+    "cld_box": [
+      1,
+      1,
+      1
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "crash_DMG": 36,
+    "dodge": 1,
+    "dodge_limit": 0,
+    "funnel_behavior": "",
+    "fx_container": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "hp_growth": 5000,
+    "icon": "feiji_youlingjiu",
+    "id": 3433105,
+    "max_hp": 198,
+    "model_ID": "feiji_youlingjiu",
+    "name": "【2026虎UR活动B2】BOSS 光辉 第二波 地毯式轰炸机",
+    "nationality": 3,
+    "position_offset": [
+      0,
+      5,
+      0
+    ],
+    "scale": 0.75,
+    "spawn_brownian": 1,
+    "speed": 33,
+    "type": 3,
+    "weapon_ID": [
+      3433109
+    ]
+  },
+  "3436065": {
+    "ACC_growth": 0,
+    "AP_growth": 2000,
+    "accuracy": 23,
+    "attack_power": 2,
+    "base": 3086065,
+    "bound_bone": {
+      "weapon": [
+        [
+          0.56,
+          -0.76,
+          0
+        ],
+        [
+          0.48,
+          0.99,
+          0
+        ]
+      ]
+    },
+    "cld_box": [
+      1,
+      1,
+      1
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "crash_DMG": 36,
+    "dodge": 1,
+    "dodge_limit": 0,
+    "funnel_behavior": "",
+    "fx_container": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "hp_growth": 1680,
+    "icon": "ghostfeiji",
+    "id": 3436065,
+    "max_hp": 64,
+    "model_ID": "ghostfeiji",
+    "name": "【2026虎UR活动】幽影迷城 航母战斗机 Lv1",
+    "nationality": 3,
+    "position_offset": [
+      0,
+      5,
+      0
+    ],
+    "scale": 0.75,
+    "spawn_brownian": 1,
+    "speed": 33,
+    "type": 1,
+    "weapon_ID": [
+      3436075,
+      1100750
+    ]
+  },
+  "3436066": {
+    "ACC_growth": 0,
+    "AP_growth": 2000,
+    "accuracy": 23,
+    "attack_power": 2,
+    "base": 3086066,
+    "bound_bone": {
+      "weapon": [
+        [
+          0.56,
+          -0.76,
+          0
+        ],
+        [
+          0.48,
+          0.99,
+          0
+        ]
+      ]
+    },
+    "cld_box": [
+      1,
+      1,
+      1
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "crash_DMG": 48,
+    "dodge": 1,
+    "dodge_limit": 0,
+    "funnel_behavior": "",
+    "fx_container": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "hp_growth": 1960,
+    "icon": "ghostfeiji",
+    "id": 3436066,
+    "max_hp": 88,
+    "model_ID": "ghostfeiji",
+    "name": "【2026虎UR活动】幽影迷城 航母战斗机 Lv2",
+    "nationality": 3,
+    "position_offset": [
+      0,
+      5,
+      0
+    ],
+    "scale": 0.75,
+    "spawn_brownian": 1,
+    "speed": 33,
+    "type": 1,
+    "weapon_ID": [
+      3436076,
+      1100751
+    ]
+  },
+  "3436067": {
+    "ACC_growth": 0,
+    "AP_growth": 2000,
+    "accuracy": 23,
+    "attack_power": 2,
+    "base": 3086067,
+    "bound_bone": {
+      "weapon": [
+        [
+          0.56,
+          -0.76,
+          0
+        ],
+        [
+          0.48,
+          0.99,
+          0
+        ]
+      ]
+    },
+    "cld_box": [
+      1,
+      1,
+      1
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "crash_DMG": 62,
+    "dodge": 1,
+    "dodge_limit": 0,
+    "funnel_behavior": "",
+    "fx_container": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "hp_growth": 2240,
+    "icon": "ghostfeiji",
+    "id": 3436067,
+    "max_hp": 112,
+    "model_ID": "ghostfeiji",
+    "name": "【2026虎UR活动】幽影迷城 航母战斗机 Lv3",
+    "nationality": 3,
+    "position_offset": [
+      0,
+      5,
+      0
+    ],
+    "scale": 0.75,
+    "spawn_brownian": 1,
+    "speed": 33,
+    "type": 1,
+    "weapon_ID": [
+      3436077,
+      1100752
+    ]
+  },
+  "3436068": {
+    "ACC_growth": 0,
+    "AP_growth": 2000,
+    "accuracy": 23,
+    "attack_power": 2,
+    "base": 3086068,
+    "bound_bone": {
+      "weapon": [
+        [
+          0.56,
+          -0.76,
+          0
+        ],
+        [
+          0.48,
+          0.99,
+          0
+        ]
+      ]
+    },
+    "cld_box": [
+      1,
+      1,
+      1
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "crash_DMG": 78,
+    "dodge": 1,
+    "dodge_limit": 0,
+    "funnel_behavior": "",
+    "fx_container": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "hp_growth": 2520,
+    "icon": "ghostfeiji",
+    "id": 3436068,
+    "max_hp": 136,
+    "model_ID": "ghostfeiji",
+    "name": "【2026虎UR活动】幽影迷城 航母战斗机 Lv4",
+    "nationality": 3,
+    "position_offset": [
+      0,
+      5,
+      0
+    ],
+    "scale": 0.75,
+    "spawn_brownian": 1,
+    "speed": 33,
+    "type": 1,
+    "weapon_ID": [
+      3436078,
+      1100753
+    ]
+  },
+  "3436069": {
+    "ACC_growth": 0,
+    "AP_growth": 2000,
+    "accuracy": 23,
+    "attack_power": 2,
+    "base": 3086069,
+    "bound_bone": {
+      "weapon": [
+        [
+          0.56,
+          -0.76,
+          0
+        ],
+        [
+          0.48,
+          0.99,
+          0
+        ]
+      ]
+    },
+    "cld_box": [
+      1,
+      1,
+      1
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "crash_DMG": 98,
+    "dodge": 1,
+    "dodge_limit": 0,
+    "funnel_behavior": "",
+    "fx_container": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "hp_growth": 2800,
+    "icon": "ghostfeiji",
+    "id": 3436069,
+    "max_hp": 160,
+    "model_ID": "ghostfeiji",
+    "name": "【2026虎UR活动】幽影迷城 航母战斗机 Lv5",
+    "nationality": 3,
+    "position_offset": [
+      0,
+      5,
+      0
+    ],
+    "scale": 0.75,
+    "spawn_brownian": 1,
+    "speed": 33,
+    "type": 1,
+    "weapon_ID": [
+      3436079,
+      1100754
+    ]
+  },
+  "3436070": {
+    "ACC_growth": 0,
+    "AP_growth": 2000,
+    "accuracy": 23,
+    "attack_power": 2,
+    "base": 3086070,
+    "bound_bone": {
+      "weapon": [
+        [
+          0.56,
+          -0.76,
+          0
+        ],
+        [
+          0.48,
+          0.99,
+          0
+        ]
+      ]
+    },
+    "cld_box": [
+      1,
+      1,
+      1
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "crash_DMG": 65,
+    "dodge": 1,
+    "dodge_limit": 0,
+    "funnel_behavior": "",
+    "fx_container": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "hp_growth": 2280,
+    "icon": "ghostfeiji",
+    "id": 3436070,
+    "max_hp": 80,
+    "model_ID": "ghostfeiji",
+    "name": "【2026虎UR活动】幽影迷城 航母轰炸机 Lv1",
+    "nationality": 3,
+    "position_offset": [
+      0,
+      5,
+      0
+    ],
+    "scale": 0.75,
+    "spawn_brownian": 1,
+    "speed": 30,
+    "type": 3,
+    "weapon_ID": [
+      3436080
+    ]
+  },
+  "3436071": {
+    "ACC_growth": 0,
+    "AP_growth": 2000,
+    "accuracy": 23,
+    "attack_power": 2,
+    "base": 3086071,
+    "bound_bone": {
+      "weapon": [
+        [
+          0.56,
+          -0.76,
+          0
+        ],
+        [
+          0.48,
+          0.99,
+          0
+        ]
+      ]
+    },
+    "cld_box": [
+      1,
+      1,
+      1
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "crash_DMG": 85,
+    "dodge": 1,
+    "dodge_limit": 0,
+    "funnel_behavior": "",
+    "fx_container": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "hp_growth": 2660,
+    "icon": "ghostfeiji",
+    "id": 3436071,
+    "max_hp": 110,
+    "model_ID": "ghostfeiji",
+    "name": "【2026虎UR活动】幽影迷城 航母轰炸机 Lv2",
+    "nationality": 3,
+    "position_offset": [
+      0,
+      5,
+      0
+    ],
+    "scale": 0.75,
+    "spawn_brownian": 1,
+    "speed": 30,
+    "type": 3,
+    "weapon_ID": [
+      3436081
+    ]
+  },
+  "3436072": {
+    "ACC_growth": 0,
+    "AP_growth": 2000,
+    "accuracy": 23,
+    "attack_power": 2,
+    "base": 3086072,
+    "bound_bone": {
+      "weapon": [
+        [
+          0.56,
+          -0.76,
+          0
+        ],
+        [
+          0.48,
+          0.99,
+          0
+        ]
+      ]
+    },
+    "cld_box": [
+      1,
+      1,
+      1
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "crash_DMG": 110,
+    "dodge": 1,
+    "dodge_limit": 0,
+    "funnel_behavior": "",
+    "fx_container": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "hp_growth": 3040,
+    "icon": "ghostfeiji",
+    "id": 3436072,
+    "max_hp": 140,
+    "model_ID": "ghostfeiji",
+    "name": "【2026虎UR活动】幽影迷城 航母轰炸机 Lv3",
+    "nationality": 3,
+    "position_offset": [
+      0,
+      5,
+      0
+    ],
+    "scale": 0.75,
+    "spawn_brownian": 1,
+    "speed": 30,
+    "type": 3,
+    "weapon_ID": [
+      3436082
+    ]
+  },
+  "3436073": {
+    "ACC_growth": 0,
+    "AP_growth": 2000,
+    "accuracy": 23,
+    "attack_power": 2,
+    "base": 3086073,
+    "bound_bone": {
+      "weapon": [
+        [
+          0.56,
+          -0.76,
+          0
+        ],
+        [
+          0.48,
+          0.99,
+          0
+        ]
+      ]
+    },
+    "cld_box": [
+      1,
+      1,
+      1
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "crash_DMG": 140,
+    "dodge": 1,
+    "dodge_limit": 0,
+    "funnel_behavior": "",
+    "fx_container": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "hp_growth": 3420,
+    "icon": "ghostfeiji",
+    "id": 3436073,
+    "max_hp": 170,
+    "model_ID": "ghostfeiji",
+    "name": "【2026虎UR活动】幽影迷城 航母轰炸机 Lv4",
+    "nationality": 3,
+    "position_offset": [
+      0,
+      5,
+      0
+    ],
+    "scale": 0.75,
+    "spawn_brownian": 1,
+    "speed": 30,
+    "type": 3,
+    "weapon_ID": [
+      3436083
+    ]
+  },
+  "3436074": {
+    "ACC_growth": 0,
+    "AP_growth": 2000,
+    "accuracy": 23,
+    "attack_power": 2,
+    "base": 3086074,
+    "bound_bone": {
+      "weapon": [
+        [
+          0.56,
+          -0.76,
+          0
+        ],
+        [
+          0.48,
+          0.99,
+          0
+        ]
+      ]
+    },
+    "cld_box": [
+      1,
+      1,
+      1
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "crash_DMG": 175,
+    "dodge": 1,
+    "dodge_limit": 0,
+    "funnel_behavior": "",
+    "fx_container": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "hp_growth": 3800,
+    "icon": "ghostfeiji",
+    "id": 3436074,
+    "max_hp": 200,
+    "model_ID": "ghostfeiji",
+    "name": "【2026虎UR活动】幽影迷城 航母轰炸机 Lv5",
+    "nationality": 3,
+    "position_offset": [
+      0,
+      5,
+      0
+    ],
+    "scale": 0.75,
+    "spawn_brownian": 1,
+    "speed": 30,
+    "type": 3,
+    "weapon_ID": [
+      3436084
+    ]
+  },
+  "3436411": {
+    "ACC_growth": 0,
+    "AP_growth": 2000,
+    "accuracy": 23,
+    "attack_power": 2,
+    "base": 3087325,
+    "bound_bone": {
+      "weapon": [
+        [
+          0.56,
+          -0.76,
+          0
+        ],
+        [
+          0.48,
+          0.99,
+          0
+        ]
+      ]
+    },
+    "cld_box": [
+      1,
+      1,
+      1
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "crash_DMG": 48,
+    "dodge": 1,
+    "dodge_limit": 0,
+    "funnel_behavior": "",
+    "fx_container": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "hp_growth": 1960,
+    "icon": "ghostfeiji",
+    "id": 3436411,
+    "max_hp": 88,
+    "model_ID": "ghostfeiji",
+    "name": "【2026虎UR活动B】精英蛋船 幽影迷城航母 战斗机",
+    "nationality": 3,
+    "position_offset": [
+      0,
+      5,
+      0
+    ],
+    "scale": 0.75,
+    "spawn_brownian": 1,
+    "speed": 33,
+    "type": 1,
+    "weapon_ID": [
+      3436076,
+      1100751
+    ]
+  },
+  "3436412": {
+    "ACC_growth": 0,
+    "AP_growth": 2000,
+    "accuracy": 23,
+    "attack_power": 2,
+    "base": 3087326,
+    "bound_bone": {
+      "weapon": [
+        [
+          0.56,
+          -0.76,
+          0
+        ],
+        [
+          0.48,
+          0.99,
+          0
+        ]
+      ]
+    },
+    "cld_box": [
+      1,
+      1,
+      1
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "crash_DMG": 85,
+    "dodge": 1,
+    "dodge_limit": 0,
+    "funnel_behavior": "",
+    "fx_container": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "hp_growth": 2660,
+    "icon": "ghostfeiji",
+    "id": 3436412,
+    "max_hp": 110,
+    "model_ID": "ghostfeiji",
+    "name": "【2026虎UR活动B】精英蛋船 幽影迷城航母 轰炸机",
+    "nationality": 3,
+    "position_offset": [
+      0,
+      5,
+      0
+    ],
+    "scale": 0.75,
+    "spawn_brownian": 1,
+    "speed": 30,
+    "type": 3,
+    "weapon_ID": [
+      3436081
+    ]
+  },
+  "3436611": {
+    "ACC_growth": 0,
+    "AP_growth": 2000,
+    "accuracy": 23,
+    "attack_power": 2,
+    "base": 3087325,
+    "bound_bone": {
+      "weapon": [
+        [
+          0.56,
+          -0.76,
+          0
+        ],
+        [
+          0.48,
+          0.99,
+          0
+        ]
+      ]
+    },
+    "cld_box": [
+      1,
+      1,
+      1
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "crash_DMG": 78,
+    "dodge": 1,
+    "dodge_limit": 0,
+    "funnel_behavior": "",
+    "fx_container": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "hp_growth": 2520,
+    "icon": "ghostfeiji",
+    "id": 3436611,
+    "max_hp": 136,
+    "model_ID": "ghostfeiji",
+    "name": "【2026虎UR活动D】精英蛋船 幽影迷城航母 战斗机",
+    "nationality": 3,
+    "position_offset": [
+      0,
+      5,
+      0
+    ],
+    "scale": 0.75,
+    "spawn_brownian": 1,
+    "speed": 33,
+    "type": 1,
+    "weapon_ID": [
+      3436078,
+      1100753
+    ]
+  },
+  "3436612": {
+    "ACC_growth": 0,
+    "AP_growth": 2000,
+    "accuracy": 23,
+    "attack_power": 2,
+    "base": 3087326,
+    "bound_bone": {
+      "weapon": [
+        [
+          0.56,
+          -0.76,
+          0
+        ],
+        [
+          0.48,
+          0.99,
+          0
+        ]
+      ]
+    },
+    "cld_box": [
+      1,
+      1,
+      1
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "crash_DMG": 140,
+    "dodge": 1,
+    "dodge_limit": 0,
+    "funnel_behavior": "",
+    "fx_container": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "hp_growth": 3420,
+    "icon": "ghostfeiji",
+    "id": 3436612,
+    "max_hp": 170,
+    "model_ID": "ghostfeiji",
+    "name": "【2026虎UR活动D】精英蛋船 幽影迷城航母 轰炸机",
+    "nationality": 3,
+    "position_offset": [
+      0,
+      5,
+      0
+    ],
+    "scale": 0.75,
+    "spawn_brownian": 1,
+    "speed": 30,
+    "type": 3,
+    "weapon_ID": [
+      3436083
+    ]
+  },
+  "3436711": {
+    "ACC_growth": 0,
+    "AP_growth": 2000,
+    "accuracy": 23,
+    "attack_power": 2,
+    "base": 3087325,
+    "bound_bone": {
+      "weapon": [
+        [
+          0.56,
+          -0.76,
+          0
+        ],
+        [
+          0.48,
+          0.99,
+          0
+        ]
+      ]
+    },
+    "cld_box": [
+      1,
+      1,
+      1
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "crash_DMG": 98,
+    "dodge": 1,
+    "dodge_limit": 0,
+    "funnel_behavior": "",
+    "fx_container": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "hp_growth": 2800,
+    "icon": "ghostfeiji",
+    "id": 3436711,
+    "max_hp": 160,
+    "model_ID": "ghostfeiji",
+    "name": "【2026虎UR活动SP】精英蛋船 幽影迷城航母 战斗机",
+    "nationality": 3,
+    "position_offset": [
+      0,
+      5,
+      0
+    ],
+    "scale": 0.75,
+    "spawn_brownian": 1,
+    "speed": 33,
+    "type": 1,
+    "weapon_ID": [
+      3436079,
+      1100754
+    ]
+  },
+  "3436712": {
+    "ACC_growth": 0,
+    "AP_growth": 2000,
+    "accuracy": 23,
+    "attack_power": 2,
+    "base": 3087326,
+    "bound_bone": {
+      "weapon": [
+        [
+          0.56,
+          -0.76,
+          0
+        ],
+        [
+          0.48,
+          0.99,
+          0
+        ]
+      ]
+    },
+    "cld_box": [
+      1,
+      1,
+      1
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "crash_DMG": 175,
+    "dodge": 1,
+    "dodge_limit": 0,
+    "funnel_behavior": "",
+    "fx_container": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "hp_growth": 3800,
+    "icon": "ghostfeiji",
+    "id": 3436712,
+    "max_hp": 200,
+    "model_ID": "ghostfeiji",
+    "name": "【2026虎UR活动SP】精英蛋船 幽影迷城航母 轰炸机",
+    "nationality": 3,
+    "position_offset": [
+      0,
+      5,
+      0
+    ],
+    "scale": 0.75,
+    "spawn_brownian": 1,
+    "speed": 30,
+    "type": 3,
+    "weapon_ID": [
+      3436084
+    ]
+  },
   "all": [
     109,
     110,
@@ -293956,6 +296500,7 @@
     61030,
     61032,
     61033,
+    61034,
     62141,
     62142,
     62143,
@@ -296990,6 +299535,36 @@
     184518,
     184519,
     184520,
+    184591,
+    184592,
+    184593,
+    184594,
+    184595,
+    184596,
+    184597,
+    184598,
+    184599,
+    184600,
+    184611,
+    184612,
+    184613,
+    184614,
+    184615,
+    184616,
+    184617,
+    184618,
+    184619,
+    184620,
+    184631,
+    184632,
+    184633,
+    184634,
+    184635,
+    184636,
+    184637,
+    184638,
+    184639,
+    184640,
     184651,
     184652,
     184653,
@@ -299808,6 +302383,32 @@
     3427103,
     3427108,
     3429501,
-    3429502
+    3429502,
+    3431005,
+    3431006,
+    3431103,
+    3431104,
+    3431105,
+    3433005,
+    3433006,
+    3433103,
+    3433104,
+    3433105,
+    3436065,
+    3436066,
+    3436067,
+    3436068,
+    3436069,
+    3436070,
+    3436071,
+    3436072,
+    3436073,
+    3436074,
+    3436411,
+    3436412,
+    3436611,
+    3436612,
+    3436711,
+    3436712
   ]
 }

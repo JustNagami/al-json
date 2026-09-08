@@ -214,8 +214,55 @@
   "260806_story_title_en": {
     "tip": "fateful encounter"
   },
+  "260908activity_shop_title": {
+    "tip": "妖異奇譚"
+  },
   "20260514_story_unlock_tip": {
     "tip": "5/20メンテ後解放"
+  },
+  "20260908gameplay_hire": {
+    "tip": [
+      {
+        "info": "仲間詳細："
+      },
+      {
+        "info": "1. 「今日も異常な日常」では様々な仲間を解放でき、ミニゲームに配置できます。"
+      },
+      {
+        "info": "2. それぞれの仲間を解放するには、「妖異奇譚」海域画面のストーリーで対応のストーリーを読み進めて、さらに「今日も異常な日常」の「限定任務」にて任務報酬<color=#92fc63>「OPA招待状」</color>を入手する必要があります。/n 　「仲間開放」で「OPA招待状」を消費し、仲間を解放しましょう！"
+      },
+      {
+        "info": "3. 仲間それぞれに「基本速度」「妖異特性」「追跡習慣」があります。ミニゲームのマップに配置する際、マップの地形や敵との相性を見極めて配置しましょう。/n/n 　基本速度：キャラの通常移動速度。ただしマップの地形や効果強化に影響されます/n 　妖異特性：キャラの移動時の挙動。直線・曲がり角・交差点で加速/減速したり、動きを止めたりするなどの特性があります/n 　追跡挙動：キャラの追跡時の移動ロジック。「敵の現在位置に向けて追尾する」・「敵の移動経路を予測し先回りする」・「仲間と連携し退路を塞ぐ」の3種が存在します"
+      },
+      {
+        "info": "4. 追跡ルート選択時に特定のルートを積極的に選ぶ仲間が存在します"
+      },
+      {
+        "info": "5. 仲間を解放すると、専用の会話が再生されます。さらに「希望の旋律」を贈ることで仲を深めることができ、関係レベルが上昇すると専用の会話が開放されます。"
+      }
+    ]
+  },
+  "20260908gameplay_main_window": {
+    "tip": [
+      {
+        "info": "遊び方："
+      },
+      {
+        "info": "1. 「今日は異常な日常」とは、<color=#92fc63>「作戦開始」</color>で出現する各ステージのマップに仲間を配置し、出現する敵キャラを追跡した後に捕まえてステージを攻略していくミニゲームになります。/n 　ステージを攻略し、限定任務をクリアしていくと、様々な報酬を入手することができます。/n"
+      },
+      {
+        "info": "2. ミニゲームの各ステージには様々なマップや敵が出現します。仲間を配置すると、その仲間は自動で敵を追跡して捕獲を試みます。なお、ステージには味方キャラを最低1名配置する必要があります。/n 　制限時間内に敵をすべて捕獲するとステージクリアとなります。さらに、残り時間が多いほどステージ評価も上昇します。/n 　ステージは「簡単」「困難」の2種類があり、「困難」は「簡単」のステージを一度クリアすると開放されます。それぞれの難易度は9/14（月）まで毎日2ステージずつ開放され、初回クリア時にイベントPt「調査経費」を入手できます。"
+      },
+      {
+        "info": "3. ミニゲームで配置できる味方キャラは全13種存在し、それぞれ固有の性能・挙動を持ちます。/n 　味方キャラのミニゲーム配置を解放するには、下記の条件をすべて満たす必要があります：/n 　　①限定海域ステージのストーリーを進める/n 　　②限定任務をクリアし、アイテム<color=#92fc63>「OPA招待状」</color>を入手する（OPA招待状1枚につき味方キャラを1名解放できます）/n 　条件を満たすと、<color=#92fc63>「仲間開放」</color>→<color=#92fc63>「仲間開放」</color>でその仲間の配置を解放することができます。"
+      },
+      {
+        "info": "4. ミニゲームでは味方キャラを配置できるほか、画面下部<color=#92fc63>「現場調整スキル」</color>に編成したスキルを配置することができます。編成できるスキルは「簡単」で1種類、「困難」で2種類までとなります。/n 　プレイ中、これらの「現場調整スキル」を使い、味方を強化したりバリケードを設置して敵の移動を制限したりするなど、仲間を支援することができます。/n 　「現場調整スキル」は<color=#92fc63>「事務管理」</color>→<color=#92fc63>「強化購入」</color>でイベントPt「調査経費」を消費することで使用回数を増やすことができます。"
+      },
+      {
+        "info": "5. ミニゲームの味方キャラの性能や詳細情報は「事務管理」→<color=#92fc63>「詳細確認」</color>で確認することができます。また「希望の旋律」を贈ることでそのキャラとの仲を深めることができ、限定ストーリーを解放することができます。/n 　「希望の旋律」は「事務管理」→「強化購入」でイベントPt「調査経費」を消費することで購入できます。"
+      }
+    ]
   },
   "ANTTFFCoreActivityPtpage_title": {
     "tip": "天穹に響く音謡·F"
@@ -785,6 +832,12 @@
   },
   "ShiningMagicCoreActivityUI_subtitle_1": {
     "tip": "輝くmagique"
+  },
+  "ShiningMagicCoreActivityUI_subtitle_3": {
+    "tip": "ログインボーナス"
+  },
+  "ShiningMagicCoreActivityUI_subtitle_4": {
+    "tip": "カムバック"
   },
   "SkinDiscountHelp_Carnival": {
     "tip": [
@@ -4051,7 +4104,7 @@
     "tip": "「Z47」常設実装！"
   },
   "buildship_new_tip": {
-    "tip": "「ベニントン」「ヴィックスバーグ」など出現率アップ！"
+    "tip": "期間限定建造を累計200回行うと「安土」を確定で入手可能！（最大4隻まで）"
   },
   "buildship_special_tip": {
     "tip": "「U-31」常設実装！"
@@ -22387,13 +22440,13 @@
         "info": "1.「小型艦建造」「大型艦建造」「特型艦建造」から一つを選ぶことで、特別建造のベースになります。（UR艦船は「大型艦建造」「特型艦建造」にしか出現しません）"
       },
       {
-        "info": "2.同建造で出現する艦船から2種類を選び「ピックアップ状態」（出現率がUPする状態）にできます<color=#FF5C5C>（※2026年3月25日までに常設建造になった艦しか出現しません。また、UR艦船を選択した場合、選ばれなかったUR艦船は建造から出現しません）</color>"
+        "info": "2.同建造で出現する艦船から2種類を選び「ピックアップ状態」（出現率がUPする状態）にできます<color=#FF5C5C>（※2026年7月9日までに常設建造になった艦しか出現しません。また、UR艦船を選択した場合、選ばれなかったUR艦船は建造から出現しません）</color>"
       },
       {
-        "info": "3.「選べる特別建造」において「ピックアップ」に選ばれた艦船の出現率は、レアリティに応じて下記となります\n<color=#ff5e39>UR</color>：1.2% <color=#ffde38>SSR</color>...2%  <color=#d797ff>SR</color>...2.5%  <color=#3dc6ff>R...2.5%</color>  N...2.5%"
+        "info": "3.「選べる特別建造」において「ピックアップ」に選ばれた艦船の出現率は、レアリティに応じて下記となります\n<color=#ff5e39>UR</color>：1.2% <color=#ffde38>SSR</color>...2% <color=#、、d797ff>SR</color>...2.5% <color=#3dc6ff>R...2.5%</color> N...2.5%"
       },
       {
-        "info": "4.「選べる特別建造」の艦船のレアリティ別出現率は通常建造同様、下記となります：\n<color=#FF5C5C>小型艦建造</color> <color=#ffde38>SSR</color>..7%  <color=#d797ff>SR</color>..12% <color=#3dc6ff>R</color>..26%  N..55% \n<color=#FF5C5C>大型艦建造</color> <color=#ff5e39>UR</color>：1.2% <color=#ffde38>SSR</color>..7%  <color=#d797ff>SR</color>..12%  <color=#3dc6ff>R</color>..51%  N..28.8% \n<color=#FF5C5C>特型艦建造</color>  <color=#ff5e39>UR</color>：1.2% <color=#ffde38>SSR</color>..7%  <color=#d797ff>SR</color>..12%  <color=#3dc6ff>R</color>..51%  N..28.8%"
+        "info": "4.「選べる特別建造」の艦船のレアリティ別出現率は通常建造同様、下記となります：\n<color=#FF5C5C>小型艦建造</color> <color=#ffde38>SSR</color>..7% <color=#d797ff>SR</color>..12% <color=#3dc6ff>R</color>..26% N..55% \n<color=#FF5C5C>大型艦建造</color> <color=#ff5e39>UR</color>：1.2% <color=#ffde38>SSR</color>..7% <color=#d797ff>SR</color>..12% <color=#3dc6ff>R</color>..51% N..28.8% \n<color=#FF5C5C>特型艦建造</color> <color=#ff5e39>UR</color>：1.2% <color=#ffde38>SSR</color>..7% <color=#d797ff>SR</color>..12% <color=#3dc6ff>R</color>..51% N..28.8%"
       },
       {
         "info": "5.ベースとなる通常建造とピックアップ艦船を確定した後は「選べる特別建造」の内容の変更はできません"
@@ -23132,7 +23185,7 @@
   "returner_help": {
     "tip": [
       {
-        "info": "イベント紹介：\n\n「カムバックミッション」とは、指揮官のログイン状況に応じて「現役指揮官」「カムバック・新人指揮官」に分類され、それぞれ違う報酬を入手できるイベントとなります。\n■「現役指揮官」「カムバック・新人指揮官」について\n下記の条件を満たした指揮官は「現役指揮官」として分類され、「現役指揮官」専用の目標を達成することで報酬を入手できます。\n・2025年9月12日（金）～10月24日（金）23:59までに一度でもログインしたことがある上記の条件を満たしていない場合は「カムバック・新人指揮官」として、専用任務をクリアすることで報酬を入手することができます。\n自分が「現役指揮官」「カムバック指揮官」のどちらに属しているか不明な場合は、カムバックミッションのバナーに表示される内容をご確認ください。\n■現役指揮官の目標について\n現役指揮官は最大2人の友達に「カムバックミッション」に参加してもらうことができ、友達が専用任務をクリアすると、自分に「カムバックPt」が加算されます。\n「カムバックPt」は累計獲得数に応じて様々な報酬を入手することができます。\n友達に自分のUID（イベントバナーに表示されている数字）を、友達側のイベントバナーに入力してもらうことで、友達はカムバックミッションに参加可能になります。\nカムバックミッションに参加した友達のIDは、現役指揮官のバナーの右側に表示されます。\n現役指揮官が「カムバック召集」をタップすると、カムバック・新人指揮官の「現役指揮官検索」で自分のUIDを表示させることが可能です。\n■カムバック指揮官・新人の目標について\nカムバック・新人指揮官は、現役指揮官のUIDをイベントバナーに入力することで、「カムバックミッション」に参加可能になります。カムバックミッションに参加すると、毎日解禁される専用任務をクリアすることで、様々な報酬を入手できます。\n一つのUIDは最大2回まで入力できます。また、UIDは違うサーバーの友達のものでも入力可能です。"
+        "info": "イベント紹介：\n\n「カムバックミッション」とは、指揮官のログイン状況に応じて「現役指揮官」「カムバック・新人指揮官」に分類され、それぞれ違う報酬を入手できるイベントとなります。\n■「現役指揮官」「カムバック・新人指揮官」について\n下記の条件を満たした指揮官は「現役指揮官」として分類され、「現役指揮官」専用の目標を達成することで報酬を入手できます。\n・2026年8月26日（水）～9月8日（火）メンテナンスまでに一度でもログインしたことがある。上記の条件を満たしていない場合は「カムバック・新人指揮官」として、専用任務をクリアすることで報酬を入手することができます。\n自分が「現役指揮官」「カムバック指揮官」のどちらに属しているか不明な場合は、カムバックミッションのバナーに表示される内容をご確認ください。\n■現役指揮官の目標について\n現役指揮官は最大2人の友達に「カムバックミッション」に参加してもらうことができ、友達が専用任務をクリアすると、自分に「カムバックPt」が加算されます。\n「カムバックPt」は累計獲得数に応じて様々な報酬を入手することができます。\n友達に自分のUID（イベントバナーに表示されている数字）を、友達側のイベントバナーに入力してもらうことで、友達はカムバックミッションに参加可能になります。\nカムバックミッションに参加した友達のIDは、現役指揮官のバナーの右側に表示されます。\n現役指揮官が「カムバック召集」をタップすると、カムバック・新人指揮官の「現役指揮官検索」で自分のUIDを表示させることが可能です。\n■カムバック指揮官・新人の目標について\nカムバック・新人指揮官は、現役指揮官のUIDをイベントバナーに入力することで、「カムバックミッション」に参加可能になります。カムバックミッションに参加すると、毎日解禁される専用任務をクリアすることで、様々な報酬を入手できます。\n一つのUIDは最大2回まで入力できます。また、UIDは違うサーバーの友達のものでも入力可能です。"
       }
     ]
   },
@@ -23147,6 +23200,189 @@
   },
   "returner_push_tip": {
     "tip": "自動召集を設定すると、カムバック指揮官の自動検索で自分のUIDが自動入力されるようになります。自動召集を設定しますか？"
+  },
+  "reverse_pacman_archive": {
+    "tip": "仲間情報"
+  },
+  "reverse_pacman_buy": {
+    "tip": "購入"
+  },
+  "reverse_pacman_cast_block": {
+    "tip": "バリケード！"
+  },
+  "reverse_pacman_char_talk1": {
+    "tip": "目標に接近しました。これより収容を開始します"
+  },
+  "reverse_pacman_char_talk2": {
+    "tip": "目標を発見。これより収容を開始します"
+  },
+  "reverse_pacman_char_talk3": {
+    "tip": "報告。目標を付近のエリアで確認"
+  },
+  "reverse_pacman_char_talk4": {
+    "tip": "目標捕捉！"
+  },
+  "reverse_pacman_char_talk5": {
+    "tip": "目標の収容を確認！"
+  },
+  "reverse_pacman_char_talk6": {
+    "tip": "報告。目標は無事収容しました"
+  },
+  "reverse_pacman_char_talk7": {
+    "tip": "目標を見失いました……"
+  },
+  "reverse_pacman_char_talk8": {
+    "tip": "目標が視界から離れました"
+  },
+  "reverse_pacman_char_talk9": {
+    "tip": "報告。目標が追跡範囲から離れました"
+  },
+  "reverse_pacman_count": {
+    "tip": "$1個"
+  },
+  "reverse_pacman_deploy": {
+    "tip": "現場調整"
+  },
+  "reverse_pacman_deploy_empty": {
+    "tip": "味方を1名以上配置してください"
+  },
+  "reverse_pacman_deploy_tip": {
+    "tip": "位置を選択して味方を配置"
+  },
+  "reverse_pacman_favourite_increased": {
+    "tip": "$1の好感が上がりました！"
+  },
+  "reverse_pacman_game_speed_up_tip": {
+    "tip": "残り時間が30秒を切りました。作戦速度が上昇！"
+  },
+  "reverse_pacman_hire_tip": {
+    "tip": "仲間を開放しますか？"
+  },
+  "reverse_pacman_hired_role": {
+    "tip": "開放済み"
+  },
+  "reverse_pacman_level_type_1": {
+    "tip": "簡単"
+  },
+  "reverse_pacman_level_type_2": {
+    "tip": "困難"
+  },
+  "reverse_pacman_level_upgrade": {
+    "tip": "強化"
+  },
+  "reverse_pacman_no_char": {
+    "tip": "まずは「<color=#92fc63>限定任務</color>」で限定任務を解放し、「<color=#92fc63>仲間開放</color>」で仲間を解放しましょう！"
+  },
+  "reverse_pacman_ not_enough_gifts": {
+    "tip": "希望の旋律が不足しています"
+  },
+  "reverse_pacman_owned": {
+    "tip": "所持"
+  },
+  "reverse_pacman_pick_giant": {
+    "tip": "巨大化！"
+  },
+  "reverse_pacman_pick_speed": {
+    "tip": "速度上昇！"
+  },
+  "reverse_pacman_remaining_gifts": {
+    "tip": "希望の旋律残り：$1"
+  },
+  "reverse_pacman_resume_ai_desc": {
+    "tip": "妖異特性"
+  },
+  "reverse_pacman_resume_ai_type": {
+    "tip": "追跡習慣"
+  },
+  "reverse_pacman_resume_close": {
+    "tip": "Xか画面をタップして閉じる"
+  },
+  "reverse_pacman_resume_close_1": {
+    "tip": "閉じる"
+  },
+  "reverse_pacman_resume_speed": {
+    "tip": "移動速度"
+  },
+  "reverse_pacman_select_level_lock_tip": {
+    "tip": "「簡単」ステージをクリアすると「困難」ステージが開放"
+  },
+  "reverse_pacman_select_level_title": {
+    "tip": "ステージ選択"
+  },
+  "reverse_pacman_select_logistics_sys": {
+    "tip": "強化選択"
+  },
+  "reverse_pacman_select_role": {
+    "tip": "開放対象選択"
+  },
+  "reverse_pacman_select_ship_speed": {
+    "tip": "速度：$1"
+  },
+  "reverse_pacman_select_ship_title": {
+    "tip": "仲間を配置"
+  },
+  "reverse_pacman_send_gift": {
+    "tip": "贈る"
+  },
+  "reverse_pacman_settle_arrest": {
+    "tip": "仲間配置数：$1\n敵収容数：$2"
+  },
+  "reverse_pacman_settle_award_title": {
+    "tip": "初回クリア報酬"
+  },
+  "reverse_pacman_settle_escape": {
+    "tip": "敵が追跡範囲から離れました"
+  },
+  "reverse_pacman_settle_fail_tips": {
+    "tip": "TIPS：敵の移動特性に対応する長所を持っているか、敵より移動速度が速い仲間を配置してください"
+  },
+  "reverse_pacman_settle_statistics": {
+    "tip": "作戦集計"
+  },
+  "reverse_pacman_settle_time": {
+    "tip": "作戦時間：$1"
+  },
+  "reverse_pacman_settle_timeout": {
+    "tip": "時間切れ"
+  },
+  "reverse_pacman_ship_type_0": {
+    "tip": "全て"
+  },
+  "reverse_pacman_ship_type_1": {
+    "tip": "追跡"
+  },
+  "reverse_pacman_ship_type_2": {
+    "tip": "予測"
+  },
+  "reverse_pacman_ship_type_3": {
+    "tip": "機動"
+  },
+  "reverse_pacman_sold_out": {
+    "tip": "売り切れ"
+  },
+  "reverse_pacman_speed_level": {
+    "tip": "レベル<color=$1>$2</color>"
+  },
+  "reverse_pacman_support": {
+    "tip": "強化購入"
+  },
+  "reverse_pacman_type_ambusher_1": {
+    "tip": "予測型"
+  },
+  "reverse_pacman_type_chaser_1": {
+    "tip": "追跡型"
+  },
+  "reverse_pacman_type_planner_1": {
+    "tip": "起動型"
+  },
+  "reverse_pacman_unhire_role": {
+    "tip": "キャラを開放すると選択可能"
+  },
+  "reverse_pacman_unlock_date_tip": {
+    "tip": "$1月$2日開放"
+  },
+  "reverse_pacman_unlock_role": {
+    "tip": "「妖異奇譚」ストーリーを読むとこのキャラを開放可能"
   },
   "roll_attr_list": {
     "tip": [
@@ -24301,6 +24537,27 @@
   "shadow_unlock_tip": {
     "tip": "投影制作任務の達成で投影を制作できます"
   },
+  "shadowcitycollectpage_title_1": {
+    "tip": "記念章"
+  },
+  "shadowcitycollectpage_title_2": {
+    "tip": "家具テーマ"
+  },
+  "shadowcitycollectpage_title_3": {
+    "tip": "装備外装箱"
+  },
+  "shadowcitycollectpage_title_4": {
+    "tip": "イベント報酬"
+  },
+  "shadowcitycollectpage_toggle_1": {
+    "tip": "キャラ"
+  },
+  "shadowcitycollectpage_toggle_2": {
+    "tip": "その他"
+  },
+  "shadowcitycollectpage_toggle_3": {
+    "tip": "装備外装"
+  },
   "sham_battle_help_tip": {
     "tip": [
       {
@@ -24845,6 +25102,9 @@
   },
   "ship_remould_warning_201524": {
     "tip": "改造を行うと<color=#92fc63>【主砲砲座+1】</color>\n改造を行いますか？"
+  },
+  "ship_remould_warning_201534": {
+    "tip": "改造(近代化改修)を行うと<color=#92fc63>【主砲砲座+1】</color>\n続けますか？"
   },
   "ship_remould_warning_202994": {
     "tip": "<size=34>改造（近代化改修）を行うと、<color=#92fc63>メイド長のコダワリ</color>が消費されます。改造を続けますか？\n改造後兵装枠威力補正が130%/155%/120%になり\n<color=#92fc63>【主砲砲座+1】【開始時魚雷+1】【対空砲砲座+1】</color>\nスキル<color=#92fc63>【煙幕散布·軽巡】</color>は<color=#92fc63>【煙幕散布·ベルファスト】</color>に強化されます\nスキル<color=#92fc63>【全弾発射-ベルファストII】</color>は\n<color=#92fc63>【全弾発射-ベルファストIII】</color>に強化されます</size>"

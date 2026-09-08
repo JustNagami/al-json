@@ -8415,6 +8415,62 @@
     "time_limit": 120,
     "type": 99
   },
+  "9809": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 0,
+    "ai_mov": 0,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [],
+    "bgm": "battle-1",
+    "bufficon": [],
+    "difficulty": 1,
+    "dungeon_id": 9809,
+    "effect_prefab": "",
+    "exp": 0,
+    "exp_commander": 0,
+    "exp_commander_ratio": 0,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "bossicon",
+    "icon_type": 1,
+    "id": 9809,
+    "level": 100,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50183,
+        1
+      ]
+    ],
+    "name": "角色体验关卡",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 99
+  },
   "9907": {
     "SLG_destroy_FX": "",
     "add_icon": "",
@@ -1042990,6 +1043046,11952 @@
     "time_limit": 150,
     "type": 99
   },
+  "2060001": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 0,
+    "ai_mov": 0,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200884
+      ],
+      [
+        2,
+        17021
+      ],
+      [
+        2,
+        17031
+      ],
+      [
+        2,
+        17001
+      ]
+    ],
+    "bgm": "battle-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2060001,
+    "effect_prefab": "",
+    "exp": 105,
+    "exp_commander": 0,
+    "exp_commander_ratio": 30,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "ghostqz",
+    "icon_type": 1,
+    "id": 2060001,
+    "level": 21,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50230,
+        1
+      ]
+    ],
+    "name": "小型偵察艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 1
+  },
+  "2060002": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 0,
+    "ai_mov": 0,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200884
+      ],
+      [
+        2,
+        17021
+      ],
+      [
+        2,
+        17031
+      ],
+      [
+        2,
+        17001
+      ]
+    ],
+    "bgm": "battle-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2060002,
+    "effect_prefab": "",
+    "exp": 121,
+    "exp_commander": 0,
+    "exp_commander_ratio": 30,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "ghostqz",
+    "icon_type": 1,
+    "id": 2060002,
+    "level": 22,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50230,
+        1
+      ]
+    ],
+    "name": "中型偵察艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 2
+  },
+  "2060003": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 0,
+    "ai_mov": 0,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200884
+      ],
+      [
+        2,
+        17021
+      ],
+      [
+        2,
+        17031
+      ],
+      [
+        2,
+        17001
+      ]
+    ],
+    "bgm": "battle-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2060003,
+    "effect_prefab": "",
+    "exp": 138,
+    "exp_commander": 0,
+    "exp_commander_ratio": 30,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "ghostqz",
+    "icon_type": 1,
+    "id": 2060003,
+    "level": 23,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50230,
+        1
+      ]
+    ],
+    "name": "大型偵察艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 3
+  },
+  "2060004": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 0,
+    "ai_mov": 0,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200884
+      ],
+      [
+        2,
+        17011
+      ],
+      [
+        2,
+        17031
+      ],
+      [
+        2,
+        17001
+      ]
+    ],
+    "bgm": "battle-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2060004,
+    "effect_prefab": "",
+    "exp": 105,
+    "exp_commander": 0,
+    "exp_commander_ratio": 30,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "ghostzl",
+    "icon_type": 1,
+    "id": 2060004,
+    "level": 21,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50230,
+        1
+      ]
+    ],
+    "name": "小型主力艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 4
+  },
+  "2060005": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 0,
+    "ai_mov": 0,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200884
+      ],
+      [
+        2,
+        17011
+      ],
+      [
+        2,
+        17031
+      ],
+      [
+        2,
+        17001
+      ]
+    ],
+    "bgm": "battle-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2060005,
+    "effect_prefab": "",
+    "exp": 121,
+    "exp_commander": 0,
+    "exp_commander_ratio": 30,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "ghostzl",
+    "icon_type": 1,
+    "id": 2060005,
+    "level": 22,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50230,
+        1
+      ]
+    ],
+    "name": "中型主力艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 5
+  },
+  "2060006": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 0,
+    "ai_mov": 0,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200884
+      ],
+      [
+        2,
+        17011
+      ],
+      [
+        2,
+        17031
+      ],
+      [
+        2,
+        17001
+      ]
+    ],
+    "bgm": "battle-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2060006,
+    "effect_prefab": "",
+    "exp": 138,
+    "exp_commander": 0,
+    "exp_commander_ratio": 30,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "ghostzl",
+    "icon_type": 1,
+    "id": 2060006,
+    "level": 23,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50230,
+        1
+      ]
+    ],
+    "name": "大型主力艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 6
+  },
+  "2060007": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 0,
+    "ai_mov": 0,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200884
+      ],
+      [
+        2,
+        17041
+      ],
+      [
+        2,
+        17031
+      ],
+      [
+        2,
+        17001
+      ]
+    ],
+    "bgm": "battle-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2060007,
+    "effect_prefab": "",
+    "exp": 105,
+    "exp_commander": 0,
+    "exp_commander_ratio": 30,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "ghosthm",
+    "icon_type": 1,
+    "id": 2060007,
+    "level": 21,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50230,
+        1
+      ]
+    ],
+    "name": "小型航空艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 7
+  },
+  "2060008": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 0,
+    "ai_mov": 0,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200884
+      ],
+      [
+        2,
+        17041
+      ],
+      [
+        2,
+        17031
+      ],
+      [
+        2,
+        17001
+      ]
+    ],
+    "bgm": "battle-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2060008,
+    "effect_prefab": "",
+    "exp": 121,
+    "exp_commander": 0,
+    "exp_commander_ratio": 30,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "ghosthm",
+    "icon_type": 1,
+    "id": 2060008,
+    "level": 22,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50230,
+        1
+      ]
+    ],
+    "name": "中型航空艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 8
+  },
+  "2060009": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 0,
+    "ai_mov": 0,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200884
+      ],
+      [
+        2,
+        17041
+      ],
+      [
+        2,
+        17031
+      ],
+      [
+        2,
+        17001
+      ]
+    ],
+    "bgm": "battle-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2060009,
+    "effect_prefab": "",
+    "exp": 138,
+    "exp_commander": 0,
+    "exp_commander_ratio": 30,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "ghosthm",
+    "icon_type": 1,
+    "id": 2060009,
+    "level": 23,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50230,
+        1
+      ]
+    ],
+    "name": "大型航空艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 9
+  },
+  "2060013": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 0,
+    "ai_mov": 0,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200871
+      ],
+      [
+        2,
+        54022
+      ],
+      [
+        2,
+        54015
+      ]
+    ],
+    "bgm": "battle-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2060013,
+    "effect_prefab": "",
+    "exp": 181,
+    "exp_commander": 0,
+    "exp_commander_ratio": 50,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "feiteliekaer_4",
+    "icon_type": 2,
+    "id": 2060013,
+    "level": 25,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50230,
+        1
+      ]
+    ],
+    "name": "敵中枢艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 99
+  },
+  "2060101": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 0,
+    "ai_mov": 0,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200885
+      ],
+      [
+        2,
+        17022
+      ],
+      [
+        2,
+        17032
+      ],
+      [
+        2,
+        17002
+      ]
+    ],
+    "bgm": "battle-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2060001,
+    "effect_prefab": "",
+    "exp": 130,
+    "exp_commander": 0,
+    "exp_commander_ratio": 30,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "ghostqz",
+    "icon_type": 1,
+    "id": 2060101,
+    "level": 26,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50230,
+        1
+      ]
+    ],
+    "name": "小型偵察艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 1
+  },
+  "2060102": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 0,
+    "ai_mov": 0,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200885
+      ],
+      [
+        2,
+        17022
+      ],
+      [
+        2,
+        17032
+      ],
+      [
+        2,
+        17002
+      ]
+    ],
+    "bgm": "battle-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2060002,
+    "effect_prefab": "",
+    "exp": 148,
+    "exp_commander": 0,
+    "exp_commander_ratio": 30,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "ghostqz",
+    "icon_type": 1,
+    "id": 2060102,
+    "level": 27,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50230,
+        1
+      ]
+    ],
+    "name": "中型偵察艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 2
+  },
+  "2060103": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 0,
+    "ai_mov": 0,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200885
+      ],
+      [
+        2,
+        17022
+      ],
+      [
+        2,
+        17032
+      ],
+      [
+        2,
+        17002
+      ]
+    ],
+    "bgm": "battle-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2060003,
+    "effect_prefab": "",
+    "exp": 168,
+    "exp_commander": 0,
+    "exp_commander_ratio": 30,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "ghostqz",
+    "icon_type": 1,
+    "id": 2060103,
+    "level": 28,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50230,
+        1
+      ]
+    ],
+    "name": "大型偵察艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 3
+  },
+  "2060104": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 0,
+    "ai_mov": 0,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200885
+      ],
+      [
+        2,
+        17012
+      ],
+      [
+        2,
+        17032
+      ],
+      [
+        2,
+        17002
+      ]
+    ],
+    "bgm": "battle-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2060004,
+    "effect_prefab": "",
+    "exp": 130,
+    "exp_commander": 0,
+    "exp_commander_ratio": 30,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "ghostzl",
+    "icon_type": 1,
+    "id": 2060104,
+    "level": 26,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50230,
+        1
+      ]
+    ],
+    "name": "小型主力艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 4
+  },
+  "2060105": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 0,
+    "ai_mov": 0,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200885
+      ],
+      [
+        2,
+        17012
+      ],
+      [
+        2,
+        17032
+      ],
+      [
+        2,
+        17002
+      ]
+    ],
+    "bgm": "battle-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2060005,
+    "effect_prefab": "",
+    "exp": 148,
+    "exp_commander": 0,
+    "exp_commander_ratio": 30,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "ghostzl",
+    "icon_type": 1,
+    "id": 2060105,
+    "level": 27,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50230,
+        1
+      ]
+    ],
+    "name": "中型主力艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 5
+  },
+  "2060106": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 0,
+    "ai_mov": 0,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200885
+      ],
+      [
+        2,
+        17012
+      ],
+      [
+        2,
+        17032
+      ],
+      [
+        2,
+        17002
+      ]
+    ],
+    "bgm": "battle-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2060006,
+    "effect_prefab": "",
+    "exp": 168,
+    "exp_commander": 0,
+    "exp_commander_ratio": 30,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "ghostzl",
+    "icon_type": 1,
+    "id": 2060106,
+    "level": 28,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50230,
+        1
+      ]
+    ],
+    "name": "大型主力艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 6
+  },
+  "2060107": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 0,
+    "ai_mov": 0,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200885
+      ],
+      [
+        2,
+        17042
+      ],
+      [
+        2,
+        17032
+      ],
+      [
+        2,
+        17002
+      ]
+    ],
+    "bgm": "battle-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2060007,
+    "effect_prefab": "",
+    "exp": 130,
+    "exp_commander": 0,
+    "exp_commander_ratio": 30,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "ghosthm",
+    "icon_type": 1,
+    "id": 2060107,
+    "level": 26,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50230,
+        1
+      ]
+    ],
+    "name": "小型航空艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 7
+  },
+  "2060108": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 0,
+    "ai_mov": 0,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200885
+      ],
+      [
+        2,
+        17042
+      ],
+      [
+        2,
+        17032
+      ],
+      [
+        2,
+        17002
+      ]
+    ],
+    "bgm": "battle-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2060008,
+    "effect_prefab": "",
+    "exp": 148,
+    "exp_commander": 0,
+    "exp_commander_ratio": 30,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "ghosthm",
+    "icon_type": 1,
+    "id": 2060108,
+    "level": 27,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50230,
+        1
+      ]
+    ],
+    "name": "中型航空艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 8
+  },
+  "2060109": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 0,
+    "ai_mov": 0,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200885
+      ],
+      [
+        2,
+        17042
+      ],
+      [
+        2,
+        17032
+      ],
+      [
+        2,
+        17002
+      ]
+    ],
+    "bgm": "battle-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2060009,
+    "effect_prefab": "",
+    "exp": 168,
+    "exp_commander": 0,
+    "exp_commander_ratio": 30,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "ghosthm",
+    "icon_type": 1,
+    "id": 2060109,
+    "level": 28,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50230,
+        1
+      ]
+    ],
+    "name": "大型航空艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 9
+  },
+  "2060113": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 0,
+    "ai_mov": 0,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200872
+      ],
+      [
+        2,
+        54022
+      ],
+      [
+        2,
+        54015
+      ]
+    ],
+    "bgm": "battle-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2060113,
+    "effect_prefab": "",
+    "exp": 217,
+    "exp_commander": 0,
+    "exp_commander_ratio": 50,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "yueke_ger_4",
+    "icon_type": 2,
+    "id": 2060113,
+    "level": 30,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50230,
+        1
+      ]
+    ],
+    "name": "敵中枢艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 99
+  },
+  "2060201": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 0,
+    "ai_mov": 0,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200886
+      ],
+      [
+        2,
+        17022
+      ],
+      [
+        2,
+        17032
+      ],
+      [
+        2,
+        17002
+      ]
+    ],
+    "bgm": "battle-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2060001,
+    "effect_prefab": "",
+    "exp": 155,
+    "exp_commander": 0,
+    "exp_commander_ratio": 30,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "ghostqz",
+    "icon_type": 1,
+    "id": 2060201,
+    "level": 31,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50230,
+        1
+      ]
+    ],
+    "name": "小型偵察艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 1
+  },
+  "2060202": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 0,
+    "ai_mov": 0,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200886
+      ],
+      [
+        2,
+        17022
+      ],
+      [
+        2,
+        17032
+      ],
+      [
+        2,
+        17002
+      ]
+    ],
+    "bgm": "battle-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2060002,
+    "effect_prefab": "",
+    "exp": 176,
+    "exp_commander": 0,
+    "exp_commander_ratio": 30,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "ghostqz",
+    "icon_type": 1,
+    "id": 2060202,
+    "level": 32,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50230,
+        1
+      ]
+    ],
+    "name": "中型偵察艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 2
+  },
+  "2060203": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 0,
+    "ai_mov": 0,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200886
+      ],
+      [
+        2,
+        17022
+      ],
+      [
+        2,
+        17032
+      ],
+      [
+        2,
+        17002
+      ]
+    ],
+    "bgm": "battle-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2060003,
+    "effect_prefab": "",
+    "exp": 198,
+    "exp_commander": 0,
+    "exp_commander_ratio": 30,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "ghostqz",
+    "icon_type": 1,
+    "id": 2060203,
+    "level": 33,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50230,
+        1
+      ]
+    ],
+    "name": "大型偵察艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 3
+  },
+  "2060204": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 0,
+    "ai_mov": 0,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200886
+      ],
+      [
+        2,
+        17012
+      ],
+      [
+        2,
+        17032
+      ],
+      [
+        2,
+        17002
+      ]
+    ],
+    "bgm": "battle-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2060004,
+    "effect_prefab": "",
+    "exp": 155,
+    "exp_commander": 0,
+    "exp_commander_ratio": 30,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "ghostzl",
+    "icon_type": 1,
+    "id": 2060204,
+    "level": 31,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50230,
+        1
+      ]
+    ],
+    "name": "小型主力艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 4
+  },
+  "2060205": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 0,
+    "ai_mov": 0,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200886
+      ],
+      [
+        2,
+        17012
+      ],
+      [
+        2,
+        17032
+      ],
+      [
+        2,
+        17002
+      ]
+    ],
+    "bgm": "battle-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2060005,
+    "effect_prefab": "",
+    "exp": 176,
+    "exp_commander": 0,
+    "exp_commander_ratio": 30,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "ghostzl",
+    "icon_type": 1,
+    "id": 2060205,
+    "level": 32,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50230,
+        1
+      ]
+    ],
+    "name": "中型主力艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 5
+  },
+  "2060206": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 0,
+    "ai_mov": 0,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200886
+      ],
+      [
+        2,
+        17012
+      ],
+      [
+        2,
+        17032
+      ],
+      [
+        2,
+        17002
+      ]
+    ],
+    "bgm": "battle-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2060006,
+    "effect_prefab": "",
+    "exp": 198,
+    "exp_commander": 0,
+    "exp_commander_ratio": 30,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "ghostzl",
+    "icon_type": 1,
+    "id": 2060206,
+    "level": 33,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50230,
+        1
+      ]
+    ],
+    "name": "大型主力艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 6
+  },
+  "2060207": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 0,
+    "ai_mov": 0,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200886
+      ],
+      [
+        2,
+        17042
+      ],
+      [
+        2,
+        17032
+      ],
+      [
+        2,
+        17002
+      ]
+    ],
+    "bgm": "battle-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2060007,
+    "effect_prefab": "",
+    "exp": 155,
+    "exp_commander": 0,
+    "exp_commander_ratio": 30,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "ghosthm",
+    "icon_type": 1,
+    "id": 2060207,
+    "level": 31,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50230,
+        1
+      ]
+    ],
+    "name": "小型航空艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 7
+  },
+  "2060208": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 0,
+    "ai_mov": 0,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200886
+      ],
+      [
+        2,
+        17042
+      ],
+      [
+        2,
+        17032
+      ],
+      [
+        2,
+        17002
+      ]
+    ],
+    "bgm": "battle-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2060008,
+    "effect_prefab": "",
+    "exp": 176,
+    "exp_commander": 0,
+    "exp_commander_ratio": 30,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "ghosthm",
+    "icon_type": 1,
+    "id": 2060208,
+    "level": 32,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50230,
+        1
+      ]
+    ],
+    "name": "中型航空艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 8
+  },
+  "2060209": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 0,
+    "ai_mov": 0,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200886
+      ],
+      [
+        2,
+        17042
+      ],
+      [
+        2,
+        17032
+      ],
+      [
+        2,
+        17002
+      ]
+    ],
+    "bgm": "battle-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2060009,
+    "effect_prefab": "",
+    "exp": 198,
+    "exp_commander": 0,
+    "exp_commander_ratio": 30,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "ghosthm",
+    "icon_type": 1,
+    "id": 2060209,
+    "level": 33,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50230,
+        1
+      ]
+    ],
+    "name": "大型航空艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 9
+  },
+  "2060213": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 0,
+    "ai_mov": 0,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200873
+      ],
+      [
+        2,
+        54022
+      ],
+      [
+        2,
+        54015
+      ]
+    ],
+    "bgm": "battle-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2060213,
+    "effect_prefab": "",
+    "exp": 254,
+    "exp_commander": 0,
+    "exp_commander_ratio": 50,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "jinluhao_3",
+    "icon_type": 2,
+    "id": 2060213,
+    "level": 35,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50230,
+        1
+      ]
+    ],
+    "name": "敵中枢艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 99
+  },
+  "2060301": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 3,
+    "ai_mov": 2,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200871
+      ],
+      [
+        2,
+        54022
+      ],
+      [
+        2,
+        59001
+      ],
+      [
+        2,
+        54015
+      ]
+    ],
+    "bgm": "battle-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2060301,
+    "effect_prefab": "",
+    "exp": 162,
+    "exp_commander": 0,
+    "exp_commander_ratio": 30,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "ghostqz",
+    "icon_type": 1,
+    "id": 2060301,
+    "level": 24,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50230,
+        1
+      ]
+    ],
+    "name": "エリート艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 95
+  },
+  "2060302": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 3,
+    "ai_mov": 2,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200872
+      ],
+      [
+        2,
+        54022
+      ],
+      [
+        2,
+        59001
+      ],
+      [
+        2,
+        54015
+      ]
+    ],
+    "bgm": "battle-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2060302,
+    "effect_prefab": "",
+    "exp": 196,
+    "exp_commander": 0,
+    "exp_commander_ratio": 30,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "ghostqz",
+    "icon_type": 1,
+    "id": 2060302,
+    "level": 29,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50230,
+        1
+      ]
+    ],
+    "name": "エリート艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 95
+  },
+  "2060303": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 3,
+    "ai_mov": 2,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200873
+      ],
+      [
+        2,
+        54022
+      ],
+      [
+        2,
+        59001
+      ],
+      [
+        2,
+        54015
+      ]
+    ],
+    "bgm": "battle-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2060303,
+    "effect_prefab": "",
+    "exp": 229,
+    "exp_commander": 0,
+    "exp_commander_ratio": 30,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "ghostqz",
+    "icon_type": 1,
+    "id": 2060303,
+    "level": 34,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50230,
+        1
+      ]
+    ],
+    "name": "エリート艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 95
+  },
+  "2061001": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 0,
+    "ai_mov": 0,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200887
+      ],
+      [
+        2,
+        17022
+      ],
+      [
+        2,
+        17032
+      ],
+      [
+        2,
+        17002
+      ]
+    ],
+    "bgm": "story-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2061001,
+    "effect_prefab": "",
+    "exp": 205,
+    "exp_commander": 0,
+    "exp_commander_ratio": 30,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "ghostqz",
+    "icon_type": 1,
+    "id": 2061001,
+    "level": 41,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50231,
+        1
+      ]
+    ],
+    "name": "小型偵察艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 1
+  },
+  "2061002": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 0,
+    "ai_mov": 0,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200887
+      ],
+      [
+        2,
+        17022
+      ],
+      [
+        2,
+        17032
+      ],
+      [
+        2,
+        17002
+      ]
+    ],
+    "bgm": "story-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2061002,
+    "effect_prefab": "",
+    "exp": 231,
+    "exp_commander": 0,
+    "exp_commander_ratio": 30,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "ghostqz",
+    "icon_type": 1,
+    "id": 2061002,
+    "level": 42,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50231,
+        1
+      ]
+    ],
+    "name": "中型偵察艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 2
+  },
+  "2061003": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 0,
+    "ai_mov": 0,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200887
+      ],
+      [
+        2,
+        17022
+      ],
+      [
+        2,
+        17032
+      ],
+      [
+        2,
+        17002
+      ]
+    ],
+    "bgm": "story-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2061003,
+    "effect_prefab": "",
+    "exp": 258,
+    "exp_commander": 0,
+    "exp_commander_ratio": 30,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "ghostqz",
+    "icon_type": 1,
+    "id": 2061003,
+    "level": 43,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50231,
+        1
+      ]
+    ],
+    "name": "大型偵察艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 3
+  },
+  "2061004": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 0,
+    "ai_mov": 0,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200887
+      ],
+      [
+        2,
+        17012
+      ],
+      [
+        2,
+        17032
+      ],
+      [
+        2,
+        17002
+      ]
+    ],
+    "bgm": "story-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2061004,
+    "effect_prefab": "",
+    "exp": 205,
+    "exp_commander": 0,
+    "exp_commander_ratio": 30,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "ghostzl",
+    "icon_type": 1,
+    "id": 2061004,
+    "level": 41,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50231,
+        1
+      ]
+    ],
+    "name": "小型主力艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 4
+  },
+  "2061005": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 0,
+    "ai_mov": 0,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200887
+      ],
+      [
+        2,
+        17012
+      ],
+      [
+        2,
+        17032
+      ],
+      [
+        2,
+        17002
+      ]
+    ],
+    "bgm": "story-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2061005,
+    "effect_prefab": "",
+    "exp": 231,
+    "exp_commander": 0,
+    "exp_commander_ratio": 30,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "ghostzl",
+    "icon_type": 1,
+    "id": 2061005,
+    "level": 42,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50231,
+        1
+      ]
+    ],
+    "name": "中型主力艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 5
+  },
+  "2061006": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 0,
+    "ai_mov": 0,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200887
+      ],
+      [
+        2,
+        17012
+      ],
+      [
+        2,
+        17032
+      ],
+      [
+        2,
+        17002
+      ]
+    ],
+    "bgm": "story-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2061006,
+    "effect_prefab": "",
+    "exp": 258,
+    "exp_commander": 0,
+    "exp_commander_ratio": 30,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "ghostzl",
+    "icon_type": 1,
+    "id": 2061006,
+    "level": 43,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50231,
+        1
+      ]
+    ],
+    "name": "大型主力艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 6
+  },
+  "2061007": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 0,
+    "ai_mov": 0,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200887
+      ],
+      [
+        2,
+        17042
+      ],
+      [
+        2,
+        17032
+      ],
+      [
+        2,
+        17002
+      ]
+    ],
+    "bgm": "story-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2061007,
+    "effect_prefab": "",
+    "exp": 205,
+    "exp_commander": 0,
+    "exp_commander_ratio": 30,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "ghosthm",
+    "icon_type": 1,
+    "id": 2061007,
+    "level": 41,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50231,
+        1
+      ]
+    ],
+    "name": "小型航空艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 7
+  },
+  "2061008": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 0,
+    "ai_mov": 0,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200887
+      ],
+      [
+        2,
+        17042
+      ],
+      [
+        2,
+        17032
+      ],
+      [
+        2,
+        17002
+      ]
+    ],
+    "bgm": "story-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2061008,
+    "effect_prefab": "",
+    "exp": 231,
+    "exp_commander": 0,
+    "exp_commander_ratio": 30,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "ghosthm",
+    "icon_type": 1,
+    "id": 2061008,
+    "level": 42,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50231,
+        1
+      ]
+    ],
+    "name": "中型航空艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 8
+  },
+  "2061009": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 0,
+    "ai_mov": 0,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200887
+      ],
+      [
+        2,
+        17042
+      ],
+      [
+        2,
+        17032
+      ],
+      [
+        2,
+        17002
+      ]
+    ],
+    "bgm": "story-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2061009,
+    "effect_prefab": "",
+    "exp": 258,
+    "exp_commander": 0,
+    "exp_commander_ratio": 30,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "ghosthm",
+    "icon_type": 1,
+    "id": 2061009,
+    "level": 43,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50231,
+        1
+      ]
+    ],
+    "name": "大型航空艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 9
+  },
+  "2061013": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 0,
+    "ai_mov": 0,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200874
+      ],
+      [
+        2,
+        54023
+      ],
+      [
+        2,
+        54015
+      ]
+    ],
+    "bgm": "story-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2061013,
+    "effect_prefab": "",
+    "exp": 326,
+    "exp_commander": 0,
+    "exp_commander_ratio": 50,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "baifeng_3",
+    "icon_type": 2,
+    "id": 2061013,
+    "level": 45,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50231,
+        1
+      ]
+    ],
+    "name": "敵中枢艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 99
+  },
+  "2061101": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 0,
+    "ai_mov": 0,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200888
+      ],
+      [
+        2,
+        17022
+      ],
+      [
+        2,
+        17032
+      ],
+      [
+        2,
+        17002
+      ]
+    ],
+    "bgm": "story-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2061001,
+    "effect_prefab": "",
+    "exp": 255,
+    "exp_commander": 0,
+    "exp_commander_ratio": 30,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "ghostqz",
+    "icon_type": 1,
+    "id": 2061101,
+    "level": 51,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50231,
+        1
+      ]
+    ],
+    "name": "小型偵察艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 1
+  },
+  "2061102": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 0,
+    "ai_mov": 0,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200888
+      ],
+      [
+        2,
+        17022
+      ],
+      [
+        2,
+        17032
+      ],
+      [
+        2,
+        17002
+      ]
+    ],
+    "bgm": "story-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2061002,
+    "effect_prefab": "",
+    "exp": 286,
+    "exp_commander": 0,
+    "exp_commander_ratio": 30,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "ghostqz",
+    "icon_type": 1,
+    "id": 2061102,
+    "level": 52,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50231,
+        1
+      ]
+    ],
+    "name": "中型偵察艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 2
+  },
+  "2061103": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 0,
+    "ai_mov": 0,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200888
+      ],
+      [
+        2,
+        17022
+      ],
+      [
+        2,
+        17032
+      ],
+      [
+        2,
+        17002
+      ]
+    ],
+    "bgm": "story-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2061003,
+    "effect_prefab": "",
+    "exp": 318,
+    "exp_commander": 0,
+    "exp_commander_ratio": 30,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "ghostqz",
+    "icon_type": 1,
+    "id": 2061103,
+    "level": 53,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50231,
+        1
+      ]
+    ],
+    "name": "大型偵察艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 3
+  },
+  "2061104": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 0,
+    "ai_mov": 0,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200888
+      ],
+      [
+        2,
+        17012
+      ],
+      [
+        2,
+        17032
+      ],
+      [
+        2,
+        17002
+      ]
+    ],
+    "bgm": "story-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2061004,
+    "effect_prefab": "",
+    "exp": 255,
+    "exp_commander": 0,
+    "exp_commander_ratio": 30,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "ghostzl",
+    "icon_type": 1,
+    "id": 2061104,
+    "level": 51,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50231,
+        1
+      ]
+    ],
+    "name": "小型主力艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 4
+  },
+  "2061105": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 0,
+    "ai_mov": 0,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200888
+      ],
+      [
+        2,
+        17012
+      ],
+      [
+        2,
+        17032
+      ],
+      [
+        2,
+        17002
+      ]
+    ],
+    "bgm": "story-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2061005,
+    "effect_prefab": "",
+    "exp": 286,
+    "exp_commander": 0,
+    "exp_commander_ratio": 30,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "ghostzl",
+    "icon_type": 1,
+    "id": 2061105,
+    "level": 52,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50231,
+        1
+      ]
+    ],
+    "name": "中型主力艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 5
+  },
+  "2061106": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 0,
+    "ai_mov": 0,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200888
+      ],
+      [
+        2,
+        17012
+      ],
+      [
+        2,
+        17032
+      ],
+      [
+        2,
+        17002
+      ]
+    ],
+    "bgm": "story-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2061006,
+    "effect_prefab": "",
+    "exp": 318,
+    "exp_commander": 0,
+    "exp_commander_ratio": 30,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "ghostzl",
+    "icon_type": 1,
+    "id": 2061106,
+    "level": 53,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50231,
+        1
+      ]
+    ],
+    "name": "大型主力艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 6
+  },
+  "2061107": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 0,
+    "ai_mov": 0,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200888
+      ],
+      [
+        2,
+        17042
+      ],
+      [
+        2,
+        17032
+      ],
+      [
+        2,
+        17002
+      ]
+    ],
+    "bgm": "story-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2061007,
+    "effect_prefab": "",
+    "exp": 255,
+    "exp_commander": 0,
+    "exp_commander_ratio": 30,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "ghosthm",
+    "icon_type": 1,
+    "id": 2061107,
+    "level": 51,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50231,
+        1
+      ]
+    ],
+    "name": "小型航空艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 7
+  },
+  "2061108": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 0,
+    "ai_mov": 0,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200888
+      ],
+      [
+        2,
+        17042
+      ],
+      [
+        2,
+        17032
+      ],
+      [
+        2,
+        17002
+      ]
+    ],
+    "bgm": "story-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2061008,
+    "effect_prefab": "",
+    "exp": 286,
+    "exp_commander": 0,
+    "exp_commander_ratio": 30,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "ghosthm",
+    "icon_type": 1,
+    "id": 2061108,
+    "level": 52,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50231,
+        1
+      ]
+    ],
+    "name": "中型航空艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 8
+  },
+  "2061109": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 0,
+    "ai_mov": 0,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200888
+      ],
+      [
+        2,
+        17042
+      ],
+      [
+        2,
+        17032
+      ],
+      [
+        2,
+        17002
+      ]
+    ],
+    "bgm": "story-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2061009,
+    "effect_prefab": "",
+    "exp": 318,
+    "exp_commander": 0,
+    "exp_commander_ratio": 30,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "ghosthm",
+    "icon_type": 1,
+    "id": 2061109,
+    "level": 53,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50231,
+        1
+      ]
+    ],
+    "name": "大型航空艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 9
+  },
+  "2061113": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 0,
+    "ai_mov": 0,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200875
+      ],
+      [
+        2,
+        54023
+      ],
+      [
+        2,
+        54015
+      ]
+    ],
+    "bgm": "story-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2061113,
+    "effect_prefab": "",
+    "exp": 399,
+    "exp_commander": 1,
+    "exp_commander_ratio": 50,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "guanghui_9",
+    "icon_type": 2,
+    "id": 2061113,
+    "level": 55,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50231,
+        1
+      ]
+    ],
+    "name": "敵中枢艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 99
+  },
+  "2061201": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 0,
+    "ai_mov": 0,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200889
+      ],
+      [
+        2,
+        17022
+      ],
+      [
+        2,
+        17032
+      ],
+      [
+        2,
+        17002
+      ]
+    ],
+    "bgm": "story-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2061001,
+    "effect_prefab": "",
+    "exp": 280,
+    "exp_commander": 1,
+    "exp_commander_ratio": 30,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "ghostqz",
+    "icon_type": 1,
+    "id": 2061201,
+    "level": 56,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50231,
+        1
+      ]
+    ],
+    "name": "小型偵察艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 1
+  },
+  "2061202": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 0,
+    "ai_mov": 0,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200889
+      ],
+      [
+        2,
+        17022
+      ],
+      [
+        2,
+        17032
+      ],
+      [
+        2,
+        17002
+      ]
+    ],
+    "bgm": "story-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2061002,
+    "effect_prefab": "",
+    "exp": 313,
+    "exp_commander": 1,
+    "exp_commander_ratio": 30,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "ghostqz",
+    "icon_type": 1,
+    "id": 2061202,
+    "level": 57,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50231,
+        1
+      ]
+    ],
+    "name": "中型偵察艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 2
+  },
+  "2061203": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 0,
+    "ai_mov": 0,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200889
+      ],
+      [
+        2,
+        17022
+      ],
+      [
+        2,
+        17032
+      ],
+      [
+        2,
+        17002
+      ]
+    ],
+    "bgm": "story-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2061003,
+    "effect_prefab": "",
+    "exp": 348,
+    "exp_commander": 1,
+    "exp_commander_ratio": 30,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "ghostqz",
+    "icon_type": 1,
+    "id": 2061203,
+    "level": 58,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50231,
+        1
+      ]
+    ],
+    "name": "大型偵察艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 3
+  },
+  "2061204": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 0,
+    "ai_mov": 0,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200889
+      ],
+      [
+        2,
+        17012
+      ],
+      [
+        2,
+        17032
+      ],
+      [
+        2,
+        17002
+      ]
+    ],
+    "bgm": "story-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2061004,
+    "effect_prefab": "",
+    "exp": 280,
+    "exp_commander": 1,
+    "exp_commander_ratio": 30,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "ghostzl",
+    "icon_type": 1,
+    "id": 2061204,
+    "level": 56,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50231,
+        1
+      ]
+    ],
+    "name": "小型主力艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 4
+  },
+  "2061205": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 0,
+    "ai_mov": 0,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200889
+      ],
+      [
+        2,
+        17012
+      ],
+      [
+        2,
+        17032
+      ],
+      [
+        2,
+        17002
+      ]
+    ],
+    "bgm": "story-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2061005,
+    "effect_prefab": "",
+    "exp": 313,
+    "exp_commander": 1,
+    "exp_commander_ratio": 30,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "ghostzl",
+    "icon_type": 1,
+    "id": 2061205,
+    "level": 57,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50231,
+        1
+      ]
+    ],
+    "name": "中型主力艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 5
+  },
+  "2061206": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 0,
+    "ai_mov": 0,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200889
+      ],
+      [
+        2,
+        17012
+      ],
+      [
+        2,
+        17032
+      ],
+      [
+        2,
+        17002
+      ]
+    ],
+    "bgm": "story-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2061006,
+    "effect_prefab": "",
+    "exp": 348,
+    "exp_commander": 1,
+    "exp_commander_ratio": 30,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "ghostzl",
+    "icon_type": 1,
+    "id": 2061206,
+    "level": 58,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50231,
+        1
+      ]
+    ],
+    "name": "大型主力艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 6
+  },
+  "2061207": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 0,
+    "ai_mov": 0,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200889
+      ],
+      [
+        2,
+        17042
+      ],
+      [
+        2,
+        17032
+      ],
+      [
+        2,
+        17002
+      ]
+    ],
+    "bgm": "story-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2061007,
+    "effect_prefab": "",
+    "exp": 280,
+    "exp_commander": 1,
+    "exp_commander_ratio": 30,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "ghosthm",
+    "icon_type": 1,
+    "id": 2061207,
+    "level": 56,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50231,
+        1
+      ]
+    ],
+    "name": "小型航空艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 7
+  },
+  "2061208": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 0,
+    "ai_mov": 0,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200889
+      ],
+      [
+        2,
+        17042
+      ],
+      [
+        2,
+        17032
+      ],
+      [
+        2,
+        17002
+      ]
+    ],
+    "bgm": "story-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2061008,
+    "effect_prefab": "",
+    "exp": 313,
+    "exp_commander": 1,
+    "exp_commander_ratio": 30,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "ghosthm",
+    "icon_type": 1,
+    "id": 2061208,
+    "level": 57,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50231,
+        1
+      ]
+    ],
+    "name": "中型航空艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 8
+  },
+  "2061209": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 0,
+    "ai_mov": 0,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200889
+      ],
+      [
+        2,
+        17042
+      ],
+      [
+        2,
+        17032
+      ],
+      [
+        2,
+        17002
+      ]
+    ],
+    "bgm": "story-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2061009,
+    "effect_prefab": "",
+    "exp": 348,
+    "exp_commander": 1,
+    "exp_commander_ratio": 30,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "ghosthm",
+    "icon_type": 1,
+    "id": 2061209,
+    "level": 58,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50231,
+        1
+      ]
+    ],
+    "name": "大型航空艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 9
+  },
+  "2061213": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 0,
+    "ai_mov": 0,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56000
+      ],
+      [
+        2,
+        200876
+      ],
+      [
+        2,
+        54024
+      ],
+      [
+        2,
+        54015
+      ]
+    ],
+    "bgm": "story-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2061213,
+    "effect_prefab": "",
+    "exp": 435,
+    "exp_commander": 1,
+    "exp_commander_ratio": 50,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "chaijun_6",
+    "icon_type": 2,
+    "id": 2061213,
+    "level": 60,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50231,
+        1
+      ]
+    ],
+    "name": "敵中枢艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 99
+  },
+  "2061301": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 3,
+    "ai_mov": 2,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200874
+      ],
+      [
+        2,
+        54023
+      ],
+      [
+        2,
+        59001
+      ],
+      [
+        2,
+        54015
+      ]
+    ],
+    "bgm": "story-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2061301,
+    "effect_prefab": "",
+    "exp": 297,
+    "exp_commander": 0,
+    "exp_commander_ratio": 30,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "ghostzl",
+    "icon_type": 1,
+    "id": 2061301,
+    "level": 44,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50231,
+        1
+      ]
+    ],
+    "name": "エリート艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 95
+  },
+  "2061302": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 3,
+    "ai_mov": 2,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200874
+      ],
+      [
+        2,
+        54023
+      ],
+      [
+        2,
+        59001
+      ],
+      [
+        2,
+        54015
+      ]
+    ],
+    "bgm": "story-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2061302,
+    "effect_prefab": "",
+    "exp": 297,
+    "exp_commander": 0,
+    "exp_commander_ratio": 30,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "ghosthm",
+    "icon_type": 1,
+    "id": 2061302,
+    "level": 44,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50231,
+        1
+      ]
+    ],
+    "name": "エリート艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 95
+  },
+  "2061303": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 3,
+    "ai_mov": 2,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200875
+      ],
+      [
+        2,
+        54023
+      ],
+      [
+        2,
+        59001
+      ],
+      [
+        2,
+        54015
+      ]
+    ],
+    "bgm": "story-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2061303,
+    "effect_prefab": "",
+    "exp": 364,
+    "exp_commander": 0,
+    "exp_commander_ratio": 30,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "ghostzl",
+    "icon_type": 1,
+    "id": 2061303,
+    "level": 54,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50231,
+        1
+      ]
+    ],
+    "name": "エリート艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 95
+  },
+  "2061304": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 3,
+    "ai_mov": 2,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200875
+      ],
+      [
+        2,
+        54023
+      ],
+      [
+        2,
+        59001
+      ],
+      [
+        2,
+        54015
+      ]
+    ],
+    "bgm": "story-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2061304,
+    "effect_prefab": "",
+    "exp": 364,
+    "exp_commander": 0,
+    "exp_commander_ratio": 30,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "ghosthm",
+    "icon_type": 1,
+    "id": 2061304,
+    "level": 54,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50231,
+        1
+      ]
+    ],
+    "name": "エリート艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 95
+  },
+  "2061305": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 3,
+    "ai_mov": 2,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200876
+      ],
+      [
+        2,
+        54023
+      ],
+      [
+        2,
+        59001
+      ],
+      [
+        2,
+        54015
+      ]
+    ],
+    "bgm": "story-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2061305,
+    "effect_prefab": "",
+    "exp": 398,
+    "exp_commander": 1,
+    "exp_commander_ratio": 30,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "ghostzl",
+    "icon_type": 1,
+    "id": 2061305,
+    "level": 59,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50231,
+        1
+      ]
+    ],
+    "name": "エリート艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 95
+  },
+  "2061306": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 3,
+    "ai_mov": 2,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200876
+      ],
+      [
+        2,
+        54023
+      ],
+      [
+        2,
+        59001
+      ],
+      [
+        2,
+        54015
+      ]
+    ],
+    "bgm": "story-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2061306,
+    "effect_prefab": "",
+    "exp": 398,
+    "exp_commander": 1,
+    "exp_commander_ratio": 30,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "ghosthm",
+    "icon_type": 1,
+    "id": 2061306,
+    "level": 59,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50231,
+        1
+      ]
+    ],
+    "name": "エリート艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 95
+  },
+  "2062001": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 0,
+    "ai_mov": 0,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200890
+      ],
+      [
+        2,
+        17023
+      ],
+      [
+        2,
+        17033
+      ],
+      [
+        2,
+        17003
+      ]
+    ],
+    "bgm": "battle-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2062001,
+    "effect_prefab": "",
+    "exp": 355,
+    "exp_commander": 1,
+    "exp_commander_ratio": 30,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "ghostqz",
+    "icon_type": 1,
+    "id": 2062001,
+    "level": 71,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50230,
+        1
+      ]
+    ],
+    "name": "小型偵察艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 1
+  },
+  "2062002": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 0,
+    "ai_mov": 0,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200890
+      ],
+      [
+        2,
+        17023
+      ],
+      [
+        2,
+        17033
+      ],
+      [
+        2,
+        17003
+      ]
+    ],
+    "bgm": "battle-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2062002,
+    "effect_prefab": "",
+    "exp": 396,
+    "exp_commander": 1,
+    "exp_commander_ratio": 30,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "ghostqz",
+    "icon_type": 1,
+    "id": 2062002,
+    "level": 72,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50230,
+        1
+      ]
+    ],
+    "name": "中型偵察艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 2
+  },
+  "2062003": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 0,
+    "ai_mov": 0,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200890
+      ],
+      [
+        2,
+        17023
+      ],
+      [
+        2,
+        17033
+      ],
+      [
+        2,
+        17003
+      ]
+    ],
+    "bgm": "battle-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2062003,
+    "effect_prefab": "",
+    "exp": 438,
+    "exp_commander": 1,
+    "exp_commander_ratio": 30,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "ghostqz",
+    "icon_type": 1,
+    "id": 2062003,
+    "level": 73,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50230,
+        1
+      ]
+    ],
+    "name": "大型偵察艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 3
+  },
+  "2062004": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 0,
+    "ai_mov": 0,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200890
+      ],
+      [
+        2,
+        17013
+      ],
+      [
+        2,
+        17033
+      ],
+      [
+        2,
+        17003
+      ]
+    ],
+    "bgm": "battle-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2062004,
+    "effect_prefab": "",
+    "exp": 355,
+    "exp_commander": 1,
+    "exp_commander_ratio": 30,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "ghostzl",
+    "icon_type": 1,
+    "id": 2062004,
+    "level": 71,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50230,
+        1
+      ]
+    ],
+    "name": "小型主力艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 4
+  },
+  "2062005": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 0,
+    "ai_mov": 0,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200890
+      ],
+      [
+        2,
+        17013
+      ],
+      [
+        2,
+        17033
+      ],
+      [
+        2,
+        17003
+      ]
+    ],
+    "bgm": "battle-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2062005,
+    "effect_prefab": "",
+    "exp": 396,
+    "exp_commander": 1,
+    "exp_commander_ratio": 30,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "ghostzl",
+    "icon_type": 1,
+    "id": 2062005,
+    "level": 72,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50230,
+        1
+      ]
+    ],
+    "name": "中型主力艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 5
+  },
+  "2062006": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 0,
+    "ai_mov": 0,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200890
+      ],
+      [
+        2,
+        17013
+      ],
+      [
+        2,
+        17033
+      ],
+      [
+        2,
+        17003
+      ]
+    ],
+    "bgm": "battle-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2062006,
+    "effect_prefab": "",
+    "exp": 438,
+    "exp_commander": 1,
+    "exp_commander_ratio": 30,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "ghostzl",
+    "icon_type": 1,
+    "id": 2062006,
+    "level": 73,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50230,
+        1
+      ]
+    ],
+    "name": "大型主力艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 6
+  },
+  "2062007": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 0,
+    "ai_mov": 0,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200890
+      ],
+      [
+        2,
+        17043
+      ],
+      [
+        2,
+        17033
+      ],
+      [
+        2,
+        17003
+      ]
+    ],
+    "bgm": "battle-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2062007,
+    "effect_prefab": "",
+    "exp": 355,
+    "exp_commander": 1,
+    "exp_commander_ratio": 30,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "ghosthm",
+    "icon_type": 1,
+    "id": 2062007,
+    "level": 71,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50230,
+        1
+      ]
+    ],
+    "name": "小型航空艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 7
+  },
+  "2062008": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 0,
+    "ai_mov": 0,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200890
+      ],
+      [
+        2,
+        17043
+      ],
+      [
+        2,
+        17033
+      ],
+      [
+        2,
+        17003
+      ]
+    ],
+    "bgm": "battle-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2062008,
+    "effect_prefab": "",
+    "exp": 396,
+    "exp_commander": 1,
+    "exp_commander_ratio": 30,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "ghosthm",
+    "icon_type": 1,
+    "id": 2062008,
+    "level": 72,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50230,
+        1
+      ]
+    ],
+    "name": "中型航空艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 8
+  },
+  "2062009": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 0,
+    "ai_mov": 0,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200890
+      ],
+      [
+        2,
+        17043
+      ],
+      [
+        2,
+        17033
+      ],
+      [
+        2,
+        17003
+      ]
+    ],
+    "bgm": "battle-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2062009,
+    "effect_prefab": "",
+    "exp": 438,
+    "exp_commander": 1,
+    "exp_commander_ratio": 30,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "ghosthm",
+    "icon_type": 1,
+    "id": 2062009,
+    "level": 73,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50230,
+        1
+      ]
+    ],
+    "name": "大型航空艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 9
+  },
+  "2062013": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 0,
+    "ai_mov": 0,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200877
+      ],
+      [
+        2,
+        54024
+      ],
+      [
+        2,
+        54016
+      ]
+    ],
+    "bgm": "battle-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2062013,
+    "effect_prefab": "",
+    "exp": 544,
+    "exp_commander": 1,
+    "exp_commander_ratio": 50,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "feiteliekaer_4",
+    "icon_type": 2,
+    "id": 2062013,
+    "level": 75,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50230,
+        1
+      ]
+    ],
+    "name": "敵中枢艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 99
+  },
+  "2062101": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 0,
+    "ai_mov": 0,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200891
+      ],
+      [
+        2,
+        17023
+      ],
+      [
+        2,
+        17033
+      ],
+      [
+        2,
+        17003
+      ]
+    ],
+    "bgm": "battle-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2062001,
+    "effect_prefab": "",
+    "exp": 380,
+    "exp_commander": 1,
+    "exp_commander_ratio": 30,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "ghostqz",
+    "icon_type": 1,
+    "id": 2062101,
+    "level": 76,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50230,
+        1
+      ]
+    ],
+    "name": "小型偵察艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 1
+  },
+  "2062102": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 0,
+    "ai_mov": 0,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200891
+      ],
+      [
+        2,
+        17023
+      ],
+      [
+        2,
+        17033
+      ],
+      [
+        2,
+        17003
+      ]
+    ],
+    "bgm": "battle-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2062002,
+    "effect_prefab": "",
+    "exp": 423,
+    "exp_commander": 1,
+    "exp_commander_ratio": 30,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "ghostqz",
+    "icon_type": 1,
+    "id": 2062102,
+    "level": 77,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50230,
+        1
+      ]
+    ],
+    "name": "中型偵察艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 2
+  },
+  "2062103": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 0,
+    "ai_mov": 0,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200891
+      ],
+      [
+        2,
+        17023
+      ],
+      [
+        2,
+        17033
+      ],
+      [
+        2,
+        17003
+      ]
+    ],
+    "bgm": "battle-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2062003,
+    "effect_prefab": "",
+    "exp": 468,
+    "exp_commander": 1,
+    "exp_commander_ratio": 30,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "ghostqz",
+    "icon_type": 1,
+    "id": 2062103,
+    "level": 78,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50230,
+        1
+      ]
+    ],
+    "name": "大型偵察艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 3
+  },
+  "2062104": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 0,
+    "ai_mov": 0,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200891
+      ],
+      [
+        2,
+        17013
+      ],
+      [
+        2,
+        17033
+      ],
+      [
+        2,
+        17003
+      ]
+    ],
+    "bgm": "battle-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2062004,
+    "effect_prefab": "",
+    "exp": 380,
+    "exp_commander": 1,
+    "exp_commander_ratio": 30,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "ghostzl",
+    "icon_type": 1,
+    "id": 2062104,
+    "level": 76,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50230,
+        1
+      ]
+    ],
+    "name": "小型主力艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 4
+  },
+  "2062105": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 0,
+    "ai_mov": 0,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200891
+      ],
+      [
+        2,
+        17013
+      ],
+      [
+        2,
+        17033
+      ],
+      [
+        2,
+        17003
+      ]
+    ],
+    "bgm": "battle-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2062005,
+    "effect_prefab": "",
+    "exp": 423,
+    "exp_commander": 1,
+    "exp_commander_ratio": 30,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "ghostzl",
+    "icon_type": 1,
+    "id": 2062105,
+    "level": 77,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50230,
+        1
+      ]
+    ],
+    "name": "中型主力艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 5
+  },
+  "2062106": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 0,
+    "ai_mov": 0,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200891
+      ],
+      [
+        2,
+        17013
+      ],
+      [
+        2,
+        17033
+      ],
+      [
+        2,
+        17003
+      ]
+    ],
+    "bgm": "battle-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2062006,
+    "effect_prefab": "",
+    "exp": 468,
+    "exp_commander": 1,
+    "exp_commander_ratio": 30,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "ghostzl",
+    "icon_type": 1,
+    "id": 2062106,
+    "level": 78,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50230,
+        1
+      ]
+    ],
+    "name": "大型主力艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 6
+  },
+  "2062107": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 0,
+    "ai_mov": 0,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200891
+      ],
+      [
+        2,
+        17043
+      ],
+      [
+        2,
+        17033
+      ],
+      [
+        2,
+        17003
+      ]
+    ],
+    "bgm": "battle-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2062007,
+    "effect_prefab": "",
+    "exp": 380,
+    "exp_commander": 1,
+    "exp_commander_ratio": 30,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "ghosthm",
+    "icon_type": 1,
+    "id": 2062107,
+    "level": 76,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50230,
+        1
+      ]
+    ],
+    "name": "小型航空艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 7
+  },
+  "2062108": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 0,
+    "ai_mov": 0,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200891
+      ],
+      [
+        2,
+        17043
+      ],
+      [
+        2,
+        17033
+      ],
+      [
+        2,
+        17003
+      ]
+    ],
+    "bgm": "battle-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2062008,
+    "effect_prefab": "",
+    "exp": 423,
+    "exp_commander": 1,
+    "exp_commander_ratio": 30,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "ghosthm",
+    "icon_type": 1,
+    "id": 2062108,
+    "level": 77,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50230,
+        1
+      ]
+    ],
+    "name": "中型航空艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 8
+  },
+  "2062109": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 0,
+    "ai_mov": 0,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200891
+      ],
+      [
+        2,
+        17043
+      ],
+      [
+        2,
+        17033
+      ],
+      [
+        2,
+        17003
+      ]
+    ],
+    "bgm": "battle-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2062009,
+    "effect_prefab": "",
+    "exp": 468,
+    "exp_commander": 1,
+    "exp_commander_ratio": 30,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "ghosthm",
+    "icon_type": 1,
+    "id": 2062109,
+    "level": 78,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50230,
+        1
+      ]
+    ],
+    "name": "大型航空艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 9
+  },
+  "2062113": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 0,
+    "ai_mov": 0,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200878
+      ],
+      [
+        2,
+        54024
+      ],
+      [
+        2,
+        54016
+      ]
+    ],
+    "bgm": "battle-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2062113,
+    "effect_prefab": "",
+    "exp": 580,
+    "exp_commander": 1,
+    "exp_commander_ratio": 50,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "yueke_ger_4",
+    "icon_type": 2,
+    "id": 2062113,
+    "level": 80,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50230,
+        1
+      ]
+    ],
+    "name": "敵中枢艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 99
+  },
+  "2062201": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 0,
+    "ai_mov": 0,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200892
+      ],
+      [
+        2,
+        17023
+      ],
+      [
+        2,
+        17033
+      ],
+      [
+        2,
+        17003
+      ]
+    ],
+    "bgm": "battle-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2062001,
+    "effect_prefab": "",
+    "exp": 405,
+    "exp_commander": 1,
+    "exp_commander_ratio": 30,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "ghostqz",
+    "icon_type": 1,
+    "id": 2062201,
+    "level": 81,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50230,
+        1
+      ]
+    ],
+    "name": "小型偵察艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 1
+  },
+  "2062202": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 0,
+    "ai_mov": 0,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200892
+      ],
+      [
+        2,
+        17023
+      ],
+      [
+        2,
+        17033
+      ],
+      [
+        2,
+        17003
+      ]
+    ],
+    "bgm": "battle-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2062002,
+    "effect_prefab": "",
+    "exp": 451,
+    "exp_commander": 1,
+    "exp_commander_ratio": 30,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "ghostqz",
+    "icon_type": 1,
+    "id": 2062202,
+    "level": 82,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50230,
+        1
+      ]
+    ],
+    "name": "中型偵察艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 2
+  },
+  "2062203": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 0,
+    "ai_mov": 0,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200892
+      ],
+      [
+        2,
+        17023
+      ],
+      [
+        2,
+        17033
+      ],
+      [
+        2,
+        17003
+      ]
+    ],
+    "bgm": "battle-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2062003,
+    "effect_prefab": "",
+    "exp": 498,
+    "exp_commander": 1,
+    "exp_commander_ratio": 30,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "ghostqz",
+    "icon_type": 1,
+    "id": 2062203,
+    "level": 83,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50230,
+        1
+      ]
+    ],
+    "name": "大型偵察艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 3
+  },
+  "2062204": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 0,
+    "ai_mov": 0,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200892
+      ],
+      [
+        2,
+        17013
+      ],
+      [
+        2,
+        17033
+      ],
+      [
+        2,
+        17003
+      ]
+    ],
+    "bgm": "battle-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2062004,
+    "effect_prefab": "",
+    "exp": 405,
+    "exp_commander": 1,
+    "exp_commander_ratio": 30,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "ghostzl",
+    "icon_type": 1,
+    "id": 2062204,
+    "level": 81,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50230,
+        1
+      ]
+    ],
+    "name": "小型主力艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 4
+  },
+  "2062205": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 0,
+    "ai_mov": 0,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200892
+      ],
+      [
+        2,
+        17013
+      ],
+      [
+        2,
+        17033
+      ],
+      [
+        2,
+        17003
+      ]
+    ],
+    "bgm": "battle-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2062005,
+    "effect_prefab": "",
+    "exp": 451,
+    "exp_commander": 1,
+    "exp_commander_ratio": 30,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "ghostzl",
+    "icon_type": 1,
+    "id": 2062205,
+    "level": 82,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50230,
+        1
+      ]
+    ],
+    "name": "中型主力艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 5
+  },
+  "2062206": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 0,
+    "ai_mov": 0,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200892
+      ],
+      [
+        2,
+        17013
+      ],
+      [
+        2,
+        17033
+      ],
+      [
+        2,
+        17003
+      ]
+    ],
+    "bgm": "battle-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2062006,
+    "effect_prefab": "",
+    "exp": 498,
+    "exp_commander": 1,
+    "exp_commander_ratio": 30,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "ghostzl",
+    "icon_type": 1,
+    "id": 2062206,
+    "level": 83,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50230,
+        1
+      ]
+    ],
+    "name": "大型主力艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 6
+  },
+  "2062207": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 0,
+    "ai_mov": 0,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200892
+      ],
+      [
+        2,
+        17043
+      ],
+      [
+        2,
+        17033
+      ],
+      [
+        2,
+        17003
+      ]
+    ],
+    "bgm": "battle-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2062007,
+    "effect_prefab": "",
+    "exp": 405,
+    "exp_commander": 1,
+    "exp_commander_ratio": 30,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "ghosthm",
+    "icon_type": 1,
+    "id": 2062207,
+    "level": 81,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50230,
+        1
+      ]
+    ],
+    "name": "小型航空艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 7
+  },
+  "2062208": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 0,
+    "ai_mov": 0,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200892
+      ],
+      [
+        2,
+        17043
+      ],
+      [
+        2,
+        17033
+      ],
+      [
+        2,
+        17003
+      ]
+    ],
+    "bgm": "battle-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2062008,
+    "effect_prefab": "",
+    "exp": 451,
+    "exp_commander": 1,
+    "exp_commander_ratio": 30,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "ghosthm",
+    "icon_type": 1,
+    "id": 2062208,
+    "level": 82,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50230,
+        1
+      ]
+    ],
+    "name": "中型航空艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 8
+  },
+  "2062209": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 0,
+    "ai_mov": 0,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200892
+      ],
+      [
+        2,
+        17043
+      ],
+      [
+        2,
+        17033
+      ],
+      [
+        2,
+        17003
+      ]
+    ],
+    "bgm": "battle-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2062009,
+    "effect_prefab": "",
+    "exp": 498,
+    "exp_commander": 1,
+    "exp_commander_ratio": 30,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "ghosthm",
+    "icon_type": 1,
+    "id": 2062209,
+    "level": 83,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50230,
+        1
+      ]
+    ],
+    "name": "大型航空艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 9
+  },
+  "2062213": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 0,
+    "ai_mov": 0,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200879
+      ],
+      [
+        2,
+        54024
+      ],
+      [
+        2,
+        54016
+      ]
+    ],
+    "bgm": "battle-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2062213,
+    "effect_prefab": "",
+    "exp": 616,
+    "exp_commander": 2,
+    "exp_commander_ratio": 50,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "jinluhao_3",
+    "icon_type": 2,
+    "id": 2062213,
+    "level": 85,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50230,
+        1
+      ]
+    ],
+    "name": "敵中枢艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 99
+  },
+  "2062301": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 3,
+    "ai_mov": 2,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200877
+      ],
+      [
+        2,
+        54024
+      ],
+      [
+        2,
+        59001
+      ],
+      [
+        2,
+        54016
+      ]
+    ],
+    "bgm": "battle-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2062301,
+    "effect_prefab": "",
+    "exp": 499,
+    "exp_commander": 1,
+    "exp_commander_ratio": 30,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "ghostqz",
+    "icon_type": 1,
+    "id": 2062301,
+    "level": 74,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50230,
+        1
+      ]
+    ],
+    "name": "エリート艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 95
+  },
+  "2062302": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 3,
+    "ai_mov": 2,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200878
+      ],
+      [
+        2,
+        54024
+      ],
+      [
+        2,
+        59001
+      ],
+      [
+        2,
+        54016
+      ]
+    ],
+    "bgm": "battle-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2062302,
+    "effect_prefab": "",
+    "exp": 533,
+    "exp_commander": 1,
+    "exp_commander_ratio": 30,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "ghostqz",
+    "icon_type": 1,
+    "id": 2062302,
+    "level": 79,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50230,
+        1
+      ]
+    ],
+    "name": "エリート艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 95
+  },
+  "2062303": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 3,
+    "ai_mov": 2,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200879
+      ],
+      [
+        2,
+        54024
+      ],
+      [
+        2,
+        59001
+      ],
+      [
+        2,
+        54016
+      ]
+    ],
+    "bgm": "battle-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2062303,
+    "effect_prefab": "",
+    "exp": 567,
+    "exp_commander": 1,
+    "exp_commander_ratio": 30,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "ghostqz",
+    "icon_type": 1,
+    "id": 2062303,
+    "level": 84,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50230,
+        1
+      ]
+    ],
+    "name": "エリート艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 95
+  },
+  "2063001": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 0,
+    "ai_mov": 0,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200893
+      ],
+      [
+        2,
+        17023
+      ],
+      [
+        2,
+        17033
+      ],
+      [
+        2,
+        17003
+      ]
+    ],
+    "bgm": "story-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2063001,
+    "effect_prefab": "",
+    "exp": 455,
+    "exp_commander": 2,
+    "exp_commander_ratio": 30,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "ghostqz",
+    "icon_type": 1,
+    "id": 2063001,
+    "level": 91,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50231,
+        1
+      ]
+    ],
+    "name": "小型偵察艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 1
+  },
+  "2063002": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 0,
+    "ai_mov": 0,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200893
+      ],
+      [
+        2,
+        17023
+      ],
+      [
+        2,
+        17033
+      ],
+      [
+        2,
+        17003
+      ]
+    ],
+    "bgm": "story-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2063002,
+    "effect_prefab": "",
+    "exp": 506,
+    "exp_commander": 2,
+    "exp_commander_ratio": 30,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "ghostqz",
+    "icon_type": 1,
+    "id": 2063002,
+    "level": 92,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50231,
+        1
+      ]
+    ],
+    "name": "中型偵察艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 2
+  },
+  "2063003": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 0,
+    "ai_mov": 0,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200893
+      ],
+      [
+        2,
+        17023
+      ],
+      [
+        2,
+        17033
+      ],
+      [
+        2,
+        17003
+      ]
+    ],
+    "bgm": "story-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2063003,
+    "effect_prefab": "",
+    "exp": 558,
+    "exp_commander": 2,
+    "exp_commander_ratio": 30,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "ghostqz",
+    "icon_type": 1,
+    "id": 2063003,
+    "level": 93,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50231,
+        1
+      ]
+    ],
+    "name": "大型偵察艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 3
+  },
+  "2063004": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 0,
+    "ai_mov": 0,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200893
+      ],
+      [
+        2,
+        17013
+      ],
+      [
+        2,
+        17033
+      ],
+      [
+        2,
+        17003
+      ]
+    ],
+    "bgm": "story-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2063004,
+    "effect_prefab": "",
+    "exp": 455,
+    "exp_commander": 2,
+    "exp_commander_ratio": 30,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "ghostzl",
+    "icon_type": 1,
+    "id": 2063004,
+    "level": 91,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50231,
+        1
+      ]
+    ],
+    "name": "小型主力艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 4
+  },
+  "2063005": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 0,
+    "ai_mov": 0,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200893
+      ],
+      [
+        2,
+        17013
+      ],
+      [
+        2,
+        17033
+      ],
+      [
+        2,
+        17003
+      ]
+    ],
+    "bgm": "story-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2063005,
+    "effect_prefab": "",
+    "exp": 506,
+    "exp_commander": 2,
+    "exp_commander_ratio": 30,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "ghostzl",
+    "icon_type": 1,
+    "id": 2063005,
+    "level": 92,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50231,
+        1
+      ]
+    ],
+    "name": "中型主力艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 5
+  },
+  "2063006": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 0,
+    "ai_mov": 0,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200893
+      ],
+      [
+        2,
+        17013
+      ],
+      [
+        2,
+        17033
+      ],
+      [
+        2,
+        17003
+      ]
+    ],
+    "bgm": "story-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2063006,
+    "effect_prefab": "",
+    "exp": 558,
+    "exp_commander": 2,
+    "exp_commander_ratio": 30,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "ghostzl",
+    "icon_type": 1,
+    "id": 2063006,
+    "level": 93,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50231,
+        1
+      ]
+    ],
+    "name": "大型主力艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 6
+  },
+  "2063007": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 0,
+    "ai_mov": 0,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200893
+      ],
+      [
+        2,
+        17043
+      ],
+      [
+        2,
+        17033
+      ],
+      [
+        2,
+        17003
+      ]
+    ],
+    "bgm": "story-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2063007,
+    "effect_prefab": "",
+    "exp": 455,
+    "exp_commander": 2,
+    "exp_commander_ratio": 30,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "ghosthm",
+    "icon_type": 1,
+    "id": 2063007,
+    "level": 91,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50231,
+        1
+      ]
+    ],
+    "name": "小型航空艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 7
+  },
+  "2063008": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 0,
+    "ai_mov": 0,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200893
+      ],
+      [
+        2,
+        17043
+      ],
+      [
+        2,
+        17033
+      ],
+      [
+        2,
+        17003
+      ]
+    ],
+    "bgm": "story-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2063008,
+    "effect_prefab": "",
+    "exp": 506,
+    "exp_commander": 2,
+    "exp_commander_ratio": 30,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "ghosthm",
+    "icon_type": 1,
+    "id": 2063008,
+    "level": 92,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50231,
+        1
+      ]
+    ],
+    "name": "中型航空艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 8
+  },
+  "2063009": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 0,
+    "ai_mov": 0,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200893
+      ],
+      [
+        2,
+        17043
+      ],
+      [
+        2,
+        17033
+      ],
+      [
+        2,
+        17003
+      ]
+    ],
+    "bgm": "story-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2063009,
+    "effect_prefab": "",
+    "exp": 558,
+    "exp_commander": 2,
+    "exp_commander_ratio": 30,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "ghosthm",
+    "icon_type": 1,
+    "id": 2063009,
+    "level": 93,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50231,
+        1
+      ]
+    ],
+    "name": "大型航空艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 9
+  },
+  "2063013": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 0,
+    "ai_mov": 0,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200880
+      ],
+      [
+        2,
+        54024
+      ],
+      [
+        2,
+        54016
+      ]
+    ],
+    "bgm": "story-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2063013,
+    "effect_prefab": "",
+    "exp": 689,
+    "exp_commander": 2,
+    "exp_commander_ratio": 50,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "baifeng_3",
+    "icon_type": 2,
+    "id": 2063013,
+    "level": 95,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50231,
+        1
+      ]
+    ],
+    "name": "敵中枢艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 99
+  },
+  "2063101": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 0,
+    "ai_mov": 0,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200894
+      ],
+      [
+        2,
+        17023
+      ],
+      [
+        2,
+        17033
+      ],
+      [
+        2,
+        17003
+      ]
+    ],
+    "bgm": "story-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2063001,
+    "effect_prefab": "",
+    "exp": 480,
+    "exp_commander": 2,
+    "exp_commander_ratio": 30,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "ghostqz",
+    "icon_type": 1,
+    "id": 2063101,
+    "level": 96,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50231,
+        1
+      ]
+    ],
+    "name": "小型偵察艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 1
+  },
+  "2063102": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 0,
+    "ai_mov": 0,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200894
+      ],
+      [
+        2,
+        17023
+      ],
+      [
+        2,
+        17033
+      ],
+      [
+        2,
+        17003
+      ]
+    ],
+    "bgm": "story-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2063002,
+    "effect_prefab": "",
+    "exp": 533,
+    "exp_commander": 2,
+    "exp_commander_ratio": 30,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "ghostqz",
+    "icon_type": 1,
+    "id": 2063102,
+    "level": 97,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50231,
+        1
+      ]
+    ],
+    "name": "中型偵察艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 2
+  },
+  "2063103": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 0,
+    "ai_mov": 0,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200894
+      ],
+      [
+        2,
+        17023
+      ],
+      [
+        2,
+        17033
+      ],
+      [
+        2,
+        17003
+      ]
+    ],
+    "bgm": "story-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2063003,
+    "effect_prefab": "",
+    "exp": 588,
+    "exp_commander": 2,
+    "exp_commander_ratio": 30,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "ghostqz",
+    "icon_type": 1,
+    "id": 2063103,
+    "level": 98,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50231,
+        1
+      ]
+    ],
+    "name": "大型偵察艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 3
+  },
+  "2063104": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 0,
+    "ai_mov": 0,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200894
+      ],
+      [
+        2,
+        17013
+      ],
+      [
+        2,
+        17033
+      ],
+      [
+        2,
+        17003
+      ]
+    ],
+    "bgm": "story-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2063004,
+    "effect_prefab": "",
+    "exp": 480,
+    "exp_commander": 2,
+    "exp_commander_ratio": 30,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "ghostzl",
+    "icon_type": 1,
+    "id": 2063104,
+    "level": 96,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50231,
+        1
+      ]
+    ],
+    "name": "小型主力艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 4
+  },
+  "2063105": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 0,
+    "ai_mov": 0,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200894
+      ],
+      [
+        2,
+        17013
+      ],
+      [
+        2,
+        17033
+      ],
+      [
+        2,
+        17003
+      ]
+    ],
+    "bgm": "story-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2063005,
+    "effect_prefab": "",
+    "exp": 533,
+    "exp_commander": 2,
+    "exp_commander_ratio": 30,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "ghostzl",
+    "icon_type": 1,
+    "id": 2063105,
+    "level": 97,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50231,
+        1
+      ]
+    ],
+    "name": "中型主力艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 5
+  },
+  "2063106": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 0,
+    "ai_mov": 0,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200894
+      ],
+      [
+        2,
+        17013
+      ],
+      [
+        2,
+        17033
+      ],
+      [
+        2,
+        17003
+      ]
+    ],
+    "bgm": "story-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2063006,
+    "effect_prefab": "",
+    "exp": 588,
+    "exp_commander": 2,
+    "exp_commander_ratio": 30,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "ghostzl",
+    "icon_type": 1,
+    "id": 2063106,
+    "level": 98,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50231,
+        1
+      ]
+    ],
+    "name": "大型主力艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 6
+  },
+  "2063107": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 0,
+    "ai_mov": 0,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200894
+      ],
+      [
+        2,
+        17043
+      ],
+      [
+        2,
+        17033
+      ],
+      [
+        2,
+        17003
+      ]
+    ],
+    "bgm": "story-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2063007,
+    "effect_prefab": "",
+    "exp": 480,
+    "exp_commander": 2,
+    "exp_commander_ratio": 30,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "ghosthm",
+    "icon_type": 1,
+    "id": 2063107,
+    "level": 96,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50231,
+        1
+      ]
+    ],
+    "name": "小型航空艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 7
+  },
+  "2063108": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 0,
+    "ai_mov": 0,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200894
+      ],
+      [
+        2,
+        17043
+      ],
+      [
+        2,
+        17033
+      ],
+      [
+        2,
+        17003
+      ]
+    ],
+    "bgm": "story-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2063008,
+    "effect_prefab": "",
+    "exp": 533,
+    "exp_commander": 2,
+    "exp_commander_ratio": 30,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "ghosthm",
+    "icon_type": 1,
+    "id": 2063108,
+    "level": 97,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50231,
+        1
+      ]
+    ],
+    "name": "中型航空艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 8
+  },
+  "2063109": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 0,
+    "ai_mov": 0,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200894
+      ],
+      [
+        2,
+        17043
+      ],
+      [
+        2,
+        17033
+      ],
+      [
+        2,
+        17003
+      ]
+    ],
+    "bgm": "story-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2063009,
+    "effect_prefab": "",
+    "exp": 588,
+    "exp_commander": 2,
+    "exp_commander_ratio": 30,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "ghosthm",
+    "icon_type": 1,
+    "id": 2063109,
+    "level": 98,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50231,
+        1
+      ]
+    ],
+    "name": "大型航空艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 9
+  },
+  "2063113": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 0,
+    "ai_mov": 0,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200881
+      ],
+      [
+        2,
+        54024
+      ],
+      [
+        2,
+        54016
+      ]
+    ],
+    "bgm": "story-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2063113,
+    "effect_prefab": "",
+    "exp": 725,
+    "exp_commander": 2,
+    "exp_commander_ratio": 50,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "guanghui_9",
+    "icon_type": 2,
+    "id": 2063113,
+    "level": 100,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50231,
+        1
+      ]
+    ],
+    "name": "敵中枢艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 99
+  },
+  "2063201": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 0,
+    "ai_mov": 0,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200895
+      ],
+      [
+        2,
+        17023
+      ],
+      [
+        2,
+        17033
+      ],
+      [
+        2,
+        17003
+      ]
+    ],
+    "bgm": "story-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2063001,
+    "effect_prefab": "",
+    "exp": 505,
+    "exp_commander": 2,
+    "exp_commander_ratio": 30,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "ghostqz",
+    "icon_type": 1,
+    "id": 2063201,
+    "level": 101,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50231,
+        1
+      ]
+    ],
+    "name": "小型偵察艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 1
+  },
+  "2063202": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 0,
+    "ai_mov": 0,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200895
+      ],
+      [
+        2,
+        17023
+      ],
+      [
+        2,
+        17033
+      ],
+      [
+        2,
+        17003
+      ]
+    ],
+    "bgm": "story-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2063002,
+    "effect_prefab": "",
+    "exp": 561,
+    "exp_commander": 2,
+    "exp_commander_ratio": 30,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "ghostqz",
+    "icon_type": 1,
+    "id": 2063202,
+    "level": 102,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50231,
+        1
+      ]
+    ],
+    "name": "中型偵察艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 2
+  },
+  "2063203": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 0,
+    "ai_mov": 0,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200895
+      ],
+      [
+        2,
+        17023
+      ],
+      [
+        2,
+        17033
+      ],
+      [
+        2,
+        17003
+      ]
+    ],
+    "bgm": "story-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2063003,
+    "effect_prefab": "",
+    "exp": 618,
+    "exp_commander": 3,
+    "exp_commander_ratio": 30,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "ghostqz",
+    "icon_type": 1,
+    "id": 2063203,
+    "level": 103,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50231,
+        1
+      ]
+    ],
+    "name": "大型偵察艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 3
+  },
+  "2063204": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 0,
+    "ai_mov": 0,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200895
+      ],
+      [
+        2,
+        17013
+      ],
+      [
+        2,
+        17033
+      ],
+      [
+        2,
+        17003
+      ]
+    ],
+    "bgm": "story-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2063004,
+    "effect_prefab": "",
+    "exp": 505,
+    "exp_commander": 2,
+    "exp_commander_ratio": 30,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "ghostzl",
+    "icon_type": 1,
+    "id": 2063204,
+    "level": 101,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50231,
+        1
+      ]
+    ],
+    "name": "小型主力艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 4
+  },
+  "2063205": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 0,
+    "ai_mov": 0,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200895
+      ],
+      [
+        2,
+        17013
+      ],
+      [
+        2,
+        17033
+      ],
+      [
+        2,
+        17003
+      ]
+    ],
+    "bgm": "story-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2063005,
+    "effect_prefab": "",
+    "exp": 561,
+    "exp_commander": 2,
+    "exp_commander_ratio": 30,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "ghostzl",
+    "icon_type": 1,
+    "id": 2063205,
+    "level": 102,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50231,
+        1
+      ]
+    ],
+    "name": "中型主力艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 5
+  },
+  "2063206": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 0,
+    "ai_mov": 0,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200895
+      ],
+      [
+        2,
+        17013
+      ],
+      [
+        2,
+        17033
+      ],
+      [
+        2,
+        17003
+      ]
+    ],
+    "bgm": "story-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2063006,
+    "effect_prefab": "",
+    "exp": 618,
+    "exp_commander": 3,
+    "exp_commander_ratio": 30,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "ghostzl",
+    "icon_type": 1,
+    "id": 2063206,
+    "level": 103,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50231,
+        1
+      ]
+    ],
+    "name": "大型主力艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 6
+  },
+  "2063207": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 0,
+    "ai_mov": 0,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200895
+      ],
+      [
+        2,
+        17043
+      ],
+      [
+        2,
+        17033
+      ],
+      [
+        2,
+        17003
+      ]
+    ],
+    "bgm": "story-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2063007,
+    "effect_prefab": "",
+    "exp": 505,
+    "exp_commander": 2,
+    "exp_commander_ratio": 30,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "ghosthm",
+    "icon_type": 1,
+    "id": 2063207,
+    "level": 101,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50231,
+        1
+      ]
+    ],
+    "name": "小型航空艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 7
+  },
+  "2063208": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 0,
+    "ai_mov": 0,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200895
+      ],
+      [
+        2,
+        17043
+      ],
+      [
+        2,
+        17033
+      ],
+      [
+        2,
+        17003
+      ]
+    ],
+    "bgm": "story-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2063008,
+    "effect_prefab": "",
+    "exp": 561,
+    "exp_commander": 2,
+    "exp_commander_ratio": 30,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "ghosthm",
+    "icon_type": 1,
+    "id": 2063208,
+    "level": 102,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50231,
+        1
+      ]
+    ],
+    "name": "中型航空艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 8
+  },
+  "2063209": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 0,
+    "ai_mov": 0,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200895
+      ],
+      [
+        2,
+        17043
+      ],
+      [
+        2,
+        17033
+      ],
+      [
+        2,
+        17003
+      ]
+    ],
+    "bgm": "story-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2063009,
+    "effect_prefab": "",
+    "exp": 618,
+    "exp_commander": 3,
+    "exp_commander_ratio": 30,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "ghosthm",
+    "icon_type": 1,
+    "id": 2063209,
+    "level": 103,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50231,
+        1
+      ]
+    ],
+    "name": "大型航空艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 9
+  },
+  "2063213": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 0,
+    "ai_mov": 0,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56000
+      ],
+      [
+        2,
+        200882
+      ],
+      [
+        2,
+        54024
+      ],
+      [
+        2,
+        54016
+      ]
+    ],
+    "bgm": "story-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2063213,
+    "effect_prefab": "",
+    "exp": 761,
+    "exp_commander": 3,
+    "exp_commander_ratio": 50,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "chaijun_6",
+    "icon_type": 2,
+    "id": 2063213,
+    "level": 105,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50231,
+        1
+      ]
+    ],
+    "name": "敵中枢艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 99
+  },
+  "2063301": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 3,
+    "ai_mov": 2,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200880
+      ],
+      [
+        2,
+        54024
+      ],
+      [
+        2,
+        59001
+      ],
+      [
+        2,
+        54016
+      ]
+    ],
+    "bgm": "story-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2063301,
+    "effect_prefab": "",
+    "exp": 634,
+    "exp_commander": 2,
+    "exp_commander_ratio": 30,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "ghostzl",
+    "icon_type": 1,
+    "id": 2063301,
+    "level": 94,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50231,
+        1
+      ]
+    ],
+    "name": "エリート艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 95
+  },
+  "2063302": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 3,
+    "ai_mov": 2,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200880
+      ],
+      [
+        2,
+        54024
+      ],
+      [
+        2,
+        59001
+      ],
+      [
+        2,
+        54016
+      ]
+    ],
+    "bgm": "story-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2063302,
+    "effect_prefab": "",
+    "exp": 634,
+    "exp_commander": 2,
+    "exp_commander_ratio": 30,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "ghosthm",
+    "icon_type": 1,
+    "id": 2063302,
+    "level": 94,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50231,
+        1
+      ]
+    ],
+    "name": "エリート艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 95
+  },
+  "2063303": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 3,
+    "ai_mov": 2,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200881
+      ],
+      [
+        2,
+        54024
+      ],
+      [
+        2,
+        59001
+      ],
+      [
+        2,
+        54016
+      ]
+    ],
+    "bgm": "story-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2063303,
+    "effect_prefab": "",
+    "exp": 668,
+    "exp_commander": 2,
+    "exp_commander_ratio": 30,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "ghostzl",
+    "icon_type": 1,
+    "id": 2063303,
+    "level": 99,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50231,
+        1
+      ]
+    ],
+    "name": "エリート艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 95
+  },
+  "2063304": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 3,
+    "ai_mov": 2,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200881
+      ],
+      [
+        2,
+        54024
+      ],
+      [
+        2,
+        59001
+      ],
+      [
+        2,
+        54016
+      ]
+    ],
+    "bgm": "story-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2063304,
+    "effect_prefab": "",
+    "exp": 668,
+    "exp_commander": 2,
+    "exp_commander_ratio": 30,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "ghosthm",
+    "icon_type": 1,
+    "id": 2063304,
+    "level": 99,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50231,
+        1
+      ]
+    ],
+    "name": "エリート艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 95
+  },
+  "2063305": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 3,
+    "ai_mov": 2,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200882
+      ],
+      [
+        2,
+        54024
+      ],
+      [
+        2,
+        59001
+      ],
+      [
+        2,
+        54016
+      ]
+    ],
+    "bgm": "story-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2063305,
+    "effect_prefab": "",
+    "exp": 702,
+    "exp_commander": 3,
+    "exp_commander_ratio": 30,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "ghostzl",
+    "icon_type": 1,
+    "id": 2063305,
+    "level": 104,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50231,
+        1
+      ]
+    ],
+    "name": "エリート艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 95
+  },
+  "2063306": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 3,
+    "ai_mov": 2,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200882
+      ],
+      [
+        2,
+        54024
+      ],
+      [
+        2,
+        59001
+      ],
+      [
+        2,
+        54016
+      ]
+    ],
+    "bgm": "story-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2063306,
+    "effect_prefab": "",
+    "exp": 702,
+    "exp_commander": 3,
+    "exp_commander_ratio": 30,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "ghosthm",
+    "icon_type": 1,
+    "id": 2063306,
+    "level": 104,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50231,
+        1
+      ]
+    ],
+    "name": "エリート艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 95
+  },
+  "2064001": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 0,
+    "ai_mov": 0,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200896
+      ],
+      [
+        2,
+        17023
+      ],
+      [
+        2,
+        17033
+      ],
+      [
+        2,
+        17003
+      ]
+    ],
+    "bgm": "battle-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2064001,
+    "effect_prefab": "",
+    "exp": 550,
+    "exp_commander": 4,
+    "exp_commander_ratio": 30,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "ghostqz",
+    "icon_type": 1,
+    "id": 2064001,
+    "level": 110,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50230,
+        1
+      ]
+    ],
+    "name": "小型偵察艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 1
+  },
+  "2064002": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 0,
+    "ai_mov": 0,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200896
+      ],
+      [
+        2,
+        17023
+      ],
+      [
+        2,
+        17033
+      ],
+      [
+        2,
+        17003
+      ]
+    ],
+    "bgm": "battle-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2064002,
+    "effect_prefab": "",
+    "exp": 605,
+    "exp_commander": 4,
+    "exp_commander_ratio": 30,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "ghostqz",
+    "icon_type": 1,
+    "id": 2064002,
+    "level": 110,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50230,
+        1
+      ]
+    ],
+    "name": "中型偵察艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 2
+  },
+  "2064003": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 0,
+    "ai_mov": 0,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200896
+      ],
+      [
+        2,
+        17023
+      ],
+      [
+        2,
+        17033
+      ],
+      [
+        2,
+        17003
+      ]
+    ],
+    "bgm": "battle-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2064003,
+    "effect_prefab": "",
+    "exp": 660,
+    "exp_commander": 4,
+    "exp_commander_ratio": 30,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "ghostqz",
+    "icon_type": 1,
+    "id": 2064003,
+    "level": 110,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50230,
+        1
+      ]
+    ],
+    "name": "大型偵察艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 3
+  },
+  "2064004": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 0,
+    "ai_mov": 0,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200896
+      ],
+      [
+        2,
+        17013
+      ],
+      [
+        2,
+        17033
+      ],
+      [
+        2,
+        17003
+      ]
+    ],
+    "bgm": "battle-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2064004,
+    "effect_prefab": "",
+    "exp": 550,
+    "exp_commander": 4,
+    "exp_commander_ratio": 30,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "ghostzl",
+    "icon_type": 1,
+    "id": 2064004,
+    "level": 110,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50230,
+        1
+      ]
+    ],
+    "name": "小型主力艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 4
+  },
+  "2064005": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 0,
+    "ai_mov": 0,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200896
+      ],
+      [
+        2,
+        17013
+      ],
+      [
+        2,
+        17033
+      ],
+      [
+        2,
+        17003
+      ]
+    ],
+    "bgm": "battle-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2064005,
+    "effect_prefab": "",
+    "exp": 605,
+    "exp_commander": 4,
+    "exp_commander_ratio": 30,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "ghostzl",
+    "icon_type": 1,
+    "id": 2064005,
+    "level": 110,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50230,
+        1
+      ]
+    ],
+    "name": "中型主力艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 5
+  },
+  "2064006": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 0,
+    "ai_mov": 0,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200896
+      ],
+      [
+        2,
+        17013
+      ],
+      [
+        2,
+        17033
+      ],
+      [
+        2,
+        17003
+      ]
+    ],
+    "bgm": "battle-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2064006,
+    "effect_prefab": "",
+    "exp": 660,
+    "exp_commander": 4,
+    "exp_commander_ratio": 30,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "ghostzl",
+    "icon_type": 1,
+    "id": 2064006,
+    "level": 110,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50230,
+        1
+      ]
+    ],
+    "name": "大型主力艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 6
+  },
+  "2064007": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 0,
+    "ai_mov": 0,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200896
+      ],
+      [
+        2,
+        17043
+      ],
+      [
+        2,
+        17033
+      ],
+      [
+        2,
+        17003
+      ]
+    ],
+    "bgm": "battle-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2064007,
+    "effect_prefab": "",
+    "exp": 550,
+    "exp_commander": 4,
+    "exp_commander_ratio": 30,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "ghosthm",
+    "icon_type": 1,
+    "id": 2064007,
+    "level": 110,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50230,
+        1
+      ]
+    ],
+    "name": "小型航空艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 7
+  },
+  "2064008": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 0,
+    "ai_mov": 0,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200896
+      ],
+      [
+        2,
+        17043
+      ],
+      [
+        2,
+        17033
+      ],
+      [
+        2,
+        17003
+      ]
+    ],
+    "bgm": "battle-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2064008,
+    "effect_prefab": "",
+    "exp": 605,
+    "exp_commander": 4,
+    "exp_commander_ratio": 30,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "ghosthm",
+    "icon_type": 1,
+    "id": 2064008,
+    "level": 110,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50230,
+        1
+      ]
+    ],
+    "name": "中型航空艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 8
+  },
+  "2064009": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 0,
+    "ai_mov": 0,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200896
+      ],
+      [
+        2,
+        17043
+      ],
+      [
+        2,
+        17033
+      ],
+      [
+        2,
+        17003
+      ]
+    ],
+    "bgm": "battle-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2064009,
+    "effect_prefab": "",
+    "exp": 660,
+    "exp_commander": 4,
+    "exp_commander_ratio": 30,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "ghosthm",
+    "icon_type": 1,
+    "id": 2064009,
+    "level": 110,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50230,
+        1
+      ]
+    ],
+    "name": "大型航空艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 9
+  },
+  "2064013": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 0,
+    "ai_mov": 0,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56000
+      ],
+      [
+        2,
+        200883
+      ],
+      [
+        2,
+        54024
+      ],
+      [
+        2,
+        54016
+      ]
+    ],
+    "bgm": "battle-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2064013,
+    "effect_prefab": "",
+    "exp": 797,
+    "exp_commander": 4,
+    "exp_commander_ratio": 50,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "shi_3",
+    "icon_type": 2,
+    "id": 2064013,
+    "level": 110,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50230,
+        1
+      ]
+    ],
+    "name": "敵中枢艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 99
+  },
+  "2064301": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 3,
+    "ai_mov": 2,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200883
+      ],
+      [
+        2,
+        54024
+      ],
+      [
+        2,
+        59001
+      ],
+      [
+        2,
+        54016
+      ]
+    ],
+    "bgm": "battle-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2064301,
+    "effect_prefab": "",
+    "exp": 742,
+    "exp_commander": 4,
+    "exp_commander_ratio": 30,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "ghostzl",
+    "icon_type": 1,
+    "id": 2064301,
+    "level": 110,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50230,
+        1
+      ]
+    ],
+    "name": "エリート艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 95
+  },
+  "2064302": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 3,
+    "ai_mov": 2,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [
+      [
+        2,
+        56500
+      ],
+      [
+        2,
+        200883
+      ],
+      [
+        2,
+        54024
+      ],
+      [
+        2,
+        59001
+      ],
+      [
+        2,
+        54016
+      ]
+    ],
+    "bgm": "battle-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2064302,
+    "effect_prefab": "",
+    "exp": 742,
+    "exp_commander": 4,
+    "exp_commander_ratio": 30,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "ghosthm",
+    "icon_type": 1,
+    "id": 2064302,
+    "level": 110,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50230,
+        1
+      ]
+    ],
+    "name": "エリート艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 120,
+    "type": 95
+  },
+  "2065001": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 0,
+    "ai_mov": 0,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [],
+    "bgm": "story-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2065001,
+    "effect_prefab": "",
+    "exp": 0,
+    "exp_commander": 0,
+    "exp_commander_ratio": 0,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "antu_2",
+    "icon_type": 2,
+    "id": 2065001,
+    "level": 125,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50231,
+        1
+      ]
+    ],
+    "name": "敵中枢艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      150
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 150,
+    "type": 99
+  },
+  "2065002": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 0,
+    "ai_mov": 0,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [],
+    "bgm": "story-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2065002,
+    "effect_prefab": "",
+    "exp": 0,
+    "exp_commander": 0,
+    "exp_commander_ratio": 0,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "antu_2",
+    "icon_type": 2,
+    "id": 2065002,
+    "level": 125,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50231,
+        1
+      ]
+    ],
+    "name": "敵中枢艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      150
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 150,
+    "type": 99
+  },
+  "2066001": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 0,
+    "ai_mov": 0,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [],
+    "bgm": "story-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2066001,
+    "effect_prefab": "",
+    "exp": 0,
+    "exp_commander": 0,
+    "exp_commander_ratio": 0,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "bossicon",
+    "icon_type": 1,
+    "id": 2066001,
+    "level": 120,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50230,
+        1
+      ]
+    ],
+    "name": "敵中枢艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 300,
+    "type": 99
+  },
+  "2066002": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 0,
+    "ai_mov": 0,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [],
+    "bgm": "story-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2066002,
+    "effect_prefab": "",
+    "exp": 0,
+    "exp_commander": 0,
+    "exp_commander_ratio": 0,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "bossicon",
+    "icon_type": 1,
+    "id": 2066002,
+    "level": 120,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50230,
+        1
+      ]
+    ],
+    "name": "敵中枢艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 300,
+    "type": 99
+  },
+  "2066003": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 0,
+    "ai_mov": 0,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [],
+    "bgm": "story-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2066003,
+    "effect_prefab": "",
+    "exp": 0,
+    "exp_commander": 0,
+    "exp_commander_ratio": 0,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "bossicon",
+    "icon_type": 1,
+    "id": 2066003,
+    "level": 120,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50231,
+        1
+      ]
+    ],
+    "name": "敵中枢艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 300,
+    "type": 99
+  },
+  "2066004": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 0,
+    "ai_mov": 0,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [],
+    "bgm": "story-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2066004,
+    "effect_prefab": "",
+    "exp": 0,
+    "exp_commander": 0,
+    "exp_commander_ratio": 0,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "bossicon",
+    "icon_type": 1,
+    "id": 2066004,
+    "level": 120,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50231,
+        1
+      ]
+    ],
+    "name": "敵中枢艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 300,
+    "type": 99
+  },
+  "2066005": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 0,
+    "ai_mov": 0,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [],
+    "bgm": "story-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2066005,
+    "effect_prefab": "",
+    "exp": 0,
+    "exp_commander": 0,
+    "exp_commander_ratio": 0,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "bossicon",
+    "icon_type": 1,
+    "id": 2066005,
+    "level": 120,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50231,
+        1
+      ]
+    ],
+    "name": "敵中枢艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 300,
+    "type": 99
+  },
+  "2066006": {
+    "SLG_destroy_FX": "",
+    "add_icon": "",
+    "ai": 0,
+    "ai_mov": 0,
+    "aircraft_expose": [
+      15,
+      10
+    ],
+    "award_display": [],
+    "bgm": "story-visioncity-1",
+    "bufficon": [],
+    "difficulty": 2,
+    "dungeon_id": 2066006,
+    "effect_prefab": "",
+    "exp": 0,
+    "exp_commander": 0,
+    "exp_commander_ratio": 0,
+    "expose_line": [],
+    "expose_speed": 15,
+    "guide_desc": "",
+    "horizon_line": [
+      -50
+    ],
+    "icon": "bossicon",
+    "icon_type": 1,
+    "id": 2066006,
+    "level": 120,
+    "limit_type": 1,
+    "map_id": [
+      [
+        50231,
+        1
+      ]
+    ],
+    "name": "敵中枢艦隊",
+    "objective_1": [
+      1
+    ],
+    "objective_2": [
+      2
+    ],
+    "objective_3": [
+      5,
+      120
+    ],
+    "plot_type": 0,
+    "scale": 100,
+    "ship_expose": [
+      30,
+      10
+    ],
+    "sink_limit": 1,
+    "time_limit": 300,
+    "type": 99
+  },
   "3000001": {
     "SLG_destroy_FX": "",
     "add_icon": "",
@@ -1162934,6 +1174936,7 @@
     9806,
     9807,
     9808,
+    9809,
     9907,
     9908,
     9909,
@@ -1177214,6 +1189217,164 @@
     2056002,
     2056003,
     2056004,
+    2060001,
+    2060002,
+    2060003,
+    2060004,
+    2060005,
+    2060006,
+    2060007,
+    2060008,
+    2060009,
+    2060013,
+    2060101,
+    2060102,
+    2060103,
+    2060104,
+    2060105,
+    2060106,
+    2060107,
+    2060108,
+    2060109,
+    2060113,
+    2060201,
+    2060202,
+    2060203,
+    2060204,
+    2060205,
+    2060206,
+    2060207,
+    2060208,
+    2060209,
+    2060213,
+    2060301,
+    2060302,
+    2060303,
+    2061001,
+    2061002,
+    2061003,
+    2061004,
+    2061005,
+    2061006,
+    2061007,
+    2061008,
+    2061009,
+    2061013,
+    2061101,
+    2061102,
+    2061103,
+    2061104,
+    2061105,
+    2061106,
+    2061107,
+    2061108,
+    2061109,
+    2061113,
+    2061201,
+    2061202,
+    2061203,
+    2061204,
+    2061205,
+    2061206,
+    2061207,
+    2061208,
+    2061209,
+    2061213,
+    2061301,
+    2061302,
+    2061303,
+    2061304,
+    2061305,
+    2061306,
+    2062001,
+    2062002,
+    2062003,
+    2062004,
+    2062005,
+    2062006,
+    2062007,
+    2062008,
+    2062009,
+    2062013,
+    2062101,
+    2062102,
+    2062103,
+    2062104,
+    2062105,
+    2062106,
+    2062107,
+    2062108,
+    2062109,
+    2062113,
+    2062201,
+    2062202,
+    2062203,
+    2062204,
+    2062205,
+    2062206,
+    2062207,
+    2062208,
+    2062209,
+    2062213,
+    2062301,
+    2062302,
+    2062303,
+    2063001,
+    2063002,
+    2063003,
+    2063004,
+    2063005,
+    2063006,
+    2063007,
+    2063008,
+    2063009,
+    2063013,
+    2063101,
+    2063102,
+    2063103,
+    2063104,
+    2063105,
+    2063106,
+    2063107,
+    2063108,
+    2063109,
+    2063113,
+    2063201,
+    2063202,
+    2063203,
+    2063204,
+    2063205,
+    2063206,
+    2063207,
+    2063208,
+    2063209,
+    2063213,
+    2063301,
+    2063302,
+    2063303,
+    2063304,
+    2063305,
+    2063306,
+    2064001,
+    2064002,
+    2064003,
+    2064004,
+    2064005,
+    2064006,
+    2064007,
+    2064008,
+    2064009,
+    2064013,
+    2064301,
+    2064302,
+    2065001,
+    2065002,
+    2066001,
+    2066002,
+    2066003,
+    2066004,
+    2066005,
+    2066006,
     5000020,
     5000021,
     5000022,
