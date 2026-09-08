@@ -946,6 +946,93 @@
       "scene": "RapidSeasideMedalAlbumView"
     }
   },
+  "51143": {
+    "activity_link": [
+      [
+        1,
+        51143,
+        [
+          25719,
+          25720,
+          25721,
+          25722,
+          25723,
+          25724,
+          25725,
+          25726,
+          25727,
+          25728
+        ]
+      ]
+    ],
+    "entrance_picture": "medalAlbum/51143",
+    "group_name": "幽影迷城",
+    "id": 51143,
+    "is_out_of_print": 0,
+    "item_show": [
+      [
+        5,
+        348,
+        1
+      ],
+      [
+        8,
+        66094,
+        1
+      ]
+    ],
+    "task_show": [
+      25728,
+      25719
+    ],
+    "ui_prefab": {
+      "mediator": "MedalAlbumTemplateMediator",
+      "scene": "ShadowCityMedalAlbumView"
+    }
+  },
+  "51154": {
+    "activity_link": [
+      [
+        1,
+        51154,
+        [
+          25729,
+          25730,
+          25731,
+          25732,
+          25733,
+          25734,
+          25735,
+          25736,
+          25737
+        ]
+      ]
+    ],
+    "entrance_picture": "MedalAlbum/51154",
+    "group_name": "异常的日常进行中",
+    "id": 51154,
+    "is_out_of_print": 0,
+    "item_show": [
+      [
+        5,
+        347,
+        1
+      ],
+      [
+        8,
+        66103,
+        1
+      ]
+    ],
+    "task_show": [
+      25737,
+      25729
+    ],
+    "ui_prefab": {
+      "mediator": "MedalAlbumTemplateMediator",
+      "scene": "ShiningMagicMedalAlbumView"
+    }
+  },
   "all": [
     5711,
     5769,
@@ -968,6 +1055,8 @@
     50659,
     51078,
     51110,
-    51113
+    51113,
+    51143,
+    51154
   ]
 }

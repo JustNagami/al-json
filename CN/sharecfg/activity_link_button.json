@@ -45,7 +45,7 @@
     "text_pic": "text_event_map",
     "time": [
       "default",
-      51101
+      51141
     ],
     "type": 0
   },
@@ -129,9 +129,7 @@
     "param": "0",
     "pic": "event_boss",
     "text_pic": "text_event_boss",
-    "time": [
-      "default"
-    ],
+    "time": "stop",
     "type": 0
   },
   "40": {
@@ -468,14 +466,14 @@
   "122": {
     "group_id": 1,
     "id": 122,
-    "name": "event_minigame",
+    "name": "event_core",
     "order": 1,
-    "param": "NieRAutomataCoreActivityUI",
-    "pic": "event_minigame",
+    "param": "ShadowCityCoreActivityUI",
+    "pic": "event_core3",
     "text_pic": "text_event_core3",
     "time": [
       "default",
-      50841
+      51130
     ],
     "type": 16
   },
@@ -545,7 +543,8 @@
     "event_core": [
       109,
       114,
-      116
+      116,
+      122
     ],
     "event_core_2": [
       110,
@@ -579,8 +578,7 @@
     ],
     "event_minigame": [
       20,
-      108,
-      122
+      108
     ],
     "event_old_act": [
       13
