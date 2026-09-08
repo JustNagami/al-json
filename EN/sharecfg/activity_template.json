@@ -87775,7 +87775,7 @@
     "config_data": [],
     "config_id": 41,
     "id": 51126,
-    "is_show": 2,
+    "is_show": 5,
     "login_pop": 0,
     "mark": 20260904,
     "page_core": "ShadowCityCoreActivityUI",
@@ -87810,7 +87810,7 @@
         ]
       ]
     ],
-    "title_res_tag": "ShadowCityCoreActivityUI_subtitle_1",
+    "title_res_tag": "ShadowCityCoreActivityUI_subtitle_5",
     "type": 87
   },
   "51127": {
@@ -87876,7 +87876,7 @@
     ],
     "config_id": 3,
     "id": 51127,
-    "is_show": 1,
+    "is_show": 6,
     "login_pop": 0,
     "mark": 20260904,
     "page_core": "ShadowCityCoreActivityUI",
@@ -87914,7 +87914,7 @@
         ]
       ]
     ],
-    "title_res_tag": "ShadowCityCoreActivityUI_subtitle_2",
+    "title_res_tag": "ShadowCityCoreActivityUI_subtitle_6",
     "type": 18
   },
   "51128": {
@@ -87978,7 +87978,7 @@
     ],
     "config_id": 0,
     "id": 51129,
-    "is_show": 3,
+    "is_show": 4,
     "login_pop": 0,
     "mark": 20260904,
     "page_core": "ShiningMagicCoreActivityUI",
@@ -88013,8 +88013,1348 @@
         ]
       ]
     ],
-    "title_res_tag": "ShiningMagicCoreActivityUI_subtitle_1",
+    "title_res_tag": "ShiningMagicCoreActivityUI_subtitle_4",
     "type": 18
+  },
+  "51130": {
+    "config_client": {
+      "intro_story": [
+        "ZIDONGBUBINGRENXINGZHILV1"
+      ],
+      "is_showMedal": true,
+      "medal_group_id": 51154,
+      "sub_act_id": 51131
+    },
+    "config_data": [],
+    "config_id": 0,
+    "id": 51130,
+    "is_show": 1,
+    "login_pop": 0,
+    "mark": 20260908,
+    "page_core": "ShiningMagicCoreActivityUI",
+    "page_info": {
+      "class_name": "ShiningMagicPacmanPage",
+      "ui_name": "ShiningMagicPacmanPage"
+    },
+    "time": [
+      "timer",
+      [
+        [
+          2026,
+          9,
+          8
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2026,
+          9,
+          30
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
+    "title_res_tag": "ShiningMagicCoreActivityUI_subtitle_1",
+    "type": 13
+  },
+  "51131": {
+    "config_client": {
+      "chasing_char": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "giftItemID": 68695,
+      "interviewItemID": 68694,
+      "playerSkillShopIDList": [
+        4159,
+        4160,
+        4161
+      ],
+      "shopActivityID": 51132,
+      "story": [
+        "YICHANGDERICHANGJINXINGZHONG1"
+      ],
+      "taskActivityID": 51133,
+      "technologyShopIDList": [
+        4157,
+        4158
+      ]
+    },
+    "config_data": [],
+    "config_id": 68091,
+    "id": 51131,
+    "is_show": 0,
+    "login_pop": 0,
+    "mark": 20260908,
+    "page_core": "",
+    "page_info": "",
+    "time": [
+      "timer",
+      [
+        [
+          2026,
+          9,
+          8
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2026,
+          9,
+          30
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
+    "title_res_tag": "",
+    "type": 137
+  },
+  "51132": {
+    "config_client": {
+      "isHide": true
+    },
+    "config_data": [
+      4157,
+      4158,
+      4159,
+      4160,
+      4161
+    ],
+    "config_id": 0,
+    "id": 51132,
+    "is_show": 0,
+    "login_pop": 0,
+    "mark": 20260908,
+    "page_core": "",
+    "page_info": "",
+    "time": [
+      "timer",
+      [
+        [
+          2026,
+          9,
+          8
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2026,
+          9,
+          30
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
+    "title_res_tag": "",
+    "type": 14
+  },
+  "51133": {
+    "config_client": "",
+    "config_data": [
+      27580,
+      27581,
+      27582,
+      27583,
+      27584,
+      27585,
+      27586,
+      27587,
+      27588,
+      27589,
+      27590,
+      27591,
+      27592,
+      27593,
+      27594,
+      27595,
+      27596,
+      27597,
+      27598,
+      27599,
+      27610,
+      27611,
+      27612,
+      27613,
+      27614,
+      27615,
+      27616,
+      27617,
+      27618,
+      27600,
+      27601,
+      27602,
+      27603,
+      27604,
+      27605,
+      27606,
+      27607,
+      27608
+    ],
+    "config_id": 0,
+    "id": 51133,
+    "is_show": 0,
+    "login_pop": 0,
+    "mark": 20260908,
+    "page_core": "",
+    "page_info": "",
+    "time": [
+      "timer",
+      [
+        [
+          2026,
+          9,
+          8
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2026,
+          9,
+          30
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
+    "title_res_tag": "",
+    "type": 13
+  },
+  "51134": {
+    "config_client": {
+      "activitytime": 51134,
+      "expedition": 9809,
+      "goodsId": [
+        4171,
+        4172
+      ],
+      "ptId": 751,
+      "shopId": 51136,
+      "taskConfig": [
+        [
+          1,
+          "SP Stage First Clear",
+          [
+            27530
+          ]
+        ],
+        [
+          2,
+          "Daily SP Stage Clear",
+          [
+            2060041
+          ]
+        ],
+        [
+          3,
+          "Random Daily Missions",
+          [
+            27560,
+            27561,
+            27562,
+            27563,
+            27564,
+            27565,
+            27566,
+            27567,
+            27568,
+            27569,
+            27570,
+            27571,
+            27572,
+            27573,
+            27574
+          ]
+        ],
+        [
+          4,
+          "Challenge Missions",
+          [
+            27575,
+            27576,
+            27577,
+            27578,
+            27579
+          ]
+        ],
+        [
+          4,
+          "Event Missions",
+          [
+            27580,
+            27581,
+            27582,
+            27583,
+            27584,
+            27585,
+            27586
+          ]
+        ],
+        [
+          6,
+          "Event Exchange",
+          [
+            4174
+          ]
+        ]
+      ],
+      "uPtId": 752
+    },
+    "config_data": [],
+    "config_id": 1,
+    "id": 51134,
+    "is_show": 3,
+    "login_pop": 0,
+    "mark": 20260908,
+    "page_core": "ShadowCityCoreActivityUI",
+    "page_info": {
+      "class_name": "ShadowCityURExchangePage",
+      "ui_name": "ShadowCityURExchangePage"
+    },
+    "time": [
+      "timer",
+      [
+        [
+          2026,
+          9,
+          8
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2026,
+          10,
+          7
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
+    "title_res_tag": "ShadowCityCoreActivityUI_subtitle_3",
+    "type": 115
+  },
+  "51135": {
+    "config_client": "",
+    "config_data": [],
+    "config_id": 51135,
+    "id": 51135,
+    "is_show": 2,
+    "login_pop": 0,
+    "mark": 20260908,
+    "page_core": "ShiningMagicCoreActivityUI",
+    "page_info": {
+      "class_name": "ShiningMagicKillPage",
+      "ui_name": "ShiningMagicKillPage"
+    },
+    "time": [
+      "timer",
+      [
+        [
+          2026,
+          9,
+          8
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2026,
+          9,
+          30
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
+    "title_res_tag": "ShiningMagicCoreActivityUI_subtitle_2",
+    "type": 74
+  },
+  "51136": {
+    "config_client": {
+      "1": "commonbg/bg_pt_lumei",
+      "2": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "painting": "shengli_alter_pt",
+      "pt_id": 751,
+      "shop_title": "260908activity_shop_title",
+      "use_secretary": false
+    },
+    "config_data": [
+      4171,
+      4172,
+      4173,
+      4174,
+      4175,
+      4176,
+      4177,
+      4178,
+      4179,
+      4180,
+      4181,
+      4182,
+      4183,
+      4184,
+      4185,
+      4186,
+      4187,
+      4188,
+      4189,
+      4190,
+      4191,
+      4192,
+      4193,
+      4194,
+      4195,
+      4196,
+      4197,
+      4198,
+      4199,
+      4200,
+      4201,
+      4202
+    ],
+    "config_id": 0,
+    "id": 51136,
+    "is_show": 0,
+    "login_pop": 0,
+    "mark": 20260908,
+    "page_core": "",
+    "page_info": "",
+    "time": [
+      "timer",
+      [
+        [
+          2026,
+          9,
+          8
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2026,
+          10,
+          7
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
+    "title_res_tag": "",
+    "type": 14
+  },
+  "51137": {
+    "config_client": "",
+    "config_data": [
+      27521,
+      27522,
+      27523,
+      27524,
+      27525,
+      27526,
+      27527,
+      27528,
+      27529,
+      27530,
+      27531,
+      27532,
+      27533,
+      27534,
+      27535,
+      27536,
+      27537,
+      27538,
+      27539,
+      27540,
+      27541,
+      27542
+    ],
+    "config_id": 0,
+    "id": 51137,
+    "is_show": 0,
+    "login_pop": 0,
+    "mark": 20260908,
+    "page_core": "",
+    "page_info": "",
+    "time": [
+      "timer",
+      [
+        [
+          2026,
+          9,
+          8
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2026,
+          9,
+          30
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
+    "title_res_tag": "",
+    "type": 13
+  },
+  "51138": {
+    "config_client": "",
+    "config_data": "100",
+    "config_id": 751,
+    "id": 51138,
+    "is_show": 0,
+    "login_pop": 0,
+    "mark": 20260908,
+    "page_core": "",
+    "page_info": "",
+    "time": [
+      "timer",
+      [
+        [
+          2026,
+          9,
+          8
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2026,
+          10,
+          14
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
+    "title_res_tag": "",
+    "type": 16
+  },
+  "51139": {
+    "config_client": "",
+    "config_data": [
+      2065002,
+      5000,
+      50,
+      0.36,
+      0.6,
+      10
+    ],
+    "config_id": 0,
+    "id": 51139,
+    "is_show": 0,
+    "login_pop": 0,
+    "mark": 20260908,
+    "page_core": "",
+    "page_info": "",
+    "time": [
+      "timer",
+      [
+        [
+          2026,
+          9,
+          8
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2026,
+          10,
+          14
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
+    "title_res_tag": "",
+    "type": 36
+  },
+  "51140": {
+    "config_client": "",
+    "config_data": [
+      [
+        31918,
+        100
+      ]
+    ],
+    "config_id": 1,
+    "id": 51140,
+    "is_show": 0,
+    "login_pop": 0,
+    "mark": 20260908,
+    "page_core": "",
+    "page_info": "",
+    "time": [
+      "timer",
+      [
+        [
+          2026,
+          9,
+          8
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2026,
+          9,
+          30
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
+    "title_res_tag": "",
+    "type": 27
+  },
+  "51141": {
+    "config_client": {
+      "PTID": 751,
+      "buildLinkActID": 51147,
+      "entrance_bg": "activitybanner/temp10",
+      "fightLinkActID": 51141,
+      "medalGroupId": 51143,
+      "shopItemID": 71397,
+      "task_id": 27542
+    },
+    "config_data": [
+      2060001,
+      2060002,
+      2060003,
+      2060021,
+      2060022,
+      2060023
+    ],
+    "config_id": 0,
+    "id": 51141,
+    "is_show": 1,
+    "login_pop": 0,
+    "mark": 20260908,
+    "page_core": "ShadowCityCoreActivityUI",
+    "page_info": {
+      "class_name": "ShadowCityMainPage",
+      "ui_name": "ShadowCityMainPage"
+    },
+    "time": [
+      "timer",
+      [
+        [
+          2026,
+          9,
+          8
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2026,
+          9,
+          30
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
+    "title_res_tag": "ShadowCityCoreActivityUI_subtitle_1",
+    "type": 12
+  },
+  "51142": {
+    "config_client": {
+      "entrance_bg": "activitybanner/temp10",
+      "task_id": 27542
+    },
+    "config_data": [
+      2060004,
+      2060005,
+      2060006,
+      2060024,
+      2060025,
+      2060026,
+      2060041,
+      2060051,
+      2060052
+    ],
+    "config_id": 0,
+    "id": 51142,
+    "is_show": 0,
+    "login_pop": 0,
+    "mark": 20260908,
+    "page_core": "",
+    "page_info": "",
+    "time": [
+      "timer",
+      [
+        [
+          2026,
+          9,
+          8
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2026,
+          9,
+          30
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
+    "title_res_tag": "",
+    "type": 12
+  },
+  "51143": {
+    "config_client": "",
+    "config_data": [
+      25719,
+      25720,
+      25721,
+      25722,
+      25723,
+      25724,
+      25725,
+      25726,
+      25727,
+      25728
+    ],
+    "config_id": 0,
+    "id": 51143,
+    "is_show": 0,
+    "login_pop": 0,
+    "mark": 20260908,
+    "page_core": "",
+    "page_info": "",
+    "time": [
+      "timer",
+      [
+        [
+          2026,
+          9,
+          8
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2026,
+          10,
+          7
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
+    "title_res_tag": "",
+    "type": 13
+  },
+  "51144": {
+    "config_client": {
+      "highValueItemSort": [
+        6,
+        14,
+        21,
+        24,
+        25,
+        28,
+        32,
+        33,
+        37,
+        38,
+        41,
+        42,
+        45,
+        46,
+        48,
+        49
+      ],
+      "shopLinkActID": 51136
+    },
+    "config_data": [],
+    "config_id": 51144,
+    "id": 51144,
+    "is_show": 2,
+    "login_pop": 0,
+    "mark": 20260908,
+    "page_core": "ShadowCityCoreActivityUI",
+    "page_info": {
+      "class_name": "ShadowCityPtPage",
+      "ui_name": "ShadowCityPtPage"
+    },
+    "time": [
+      "timer",
+      [
+        [
+          2026,
+          9,
+          8
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2026,
+          10,
+          7
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
+    "title_res_tag": "ShadowCityCoreActivityUI_subtitle_2",
+    "type": 74
+  },
+  "51145": {
+    "config_client": "",
+    "config_data": [
+      27465
+    ],
+    "config_id": 0,
+    "id": 51145,
+    "is_show": 0,
+    "login_pop": 0,
+    "mark": 20260908,
+    "page_core": "",
+    "page_info": "",
+    "time": [
+      "timer",
+      [
+        [
+          2026,
+          9,
+          8
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2026,
+          9,
+          30
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
+    "title_res_tag": "",
+    "type": 13
+  },
+  "51146": {
+    "config_client": {
+      "manulSign": true
+    },
+    "config_data": [],
+    "config_id": 97,
+    "id": 51146,
+    "is_show": 5,
+    "login_pop": 0,
+    "mark": 20260908,
+    "page_core": "ShiningMagicCoreActivityUI",
+    "page_info": {
+      "class_name": "ShiningMagicJPLoginPage",
+      "ui_name": "ShiningMagicJPLoginPage"
+    },
+    "time": [
+      "timer",
+      [
+        [
+          2026,
+          9,
+          8
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2026,
+          9,
+          30
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
+    "title_res_tag": "ShiningMagicCoreActivityUI_subtitle_5",
+    "type": 3
+  },
+  "51147": {
+    "config_client": {
+      "bg": "loadingbg/bg_build_4_act",
+      "id": 10
+    },
+    "config_data": [],
+    "config_id": 10,
+    "id": 51147,
+    "is_show": 0,
+    "login_pop": 0,
+    "mark": 20260908,
+    "page_core": "",
+    "page_info": "",
+    "time": [
+      "timer",
+      [
+        [
+          2026,
+          9,
+          8
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2026,
+          9,
+          30
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
+    "title_res_tag": "",
+    "type": 1
+  },
+  "51148": {
+    "config_client": "",
+    "config_data": [],
+    "config_id": 51147,
+    "id": 51148,
+    "is_show": 0,
+    "login_pop": 0,
+    "mark": 20260908,
+    "page_core": "",
+    "page_info": "",
+    "time": [
+      "timer",
+      [
+        [
+          2026,
+          9,
+          8
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2026,
+          10,
+          7
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
+    "title_res_tag": "",
+    "type": 10
+  },
+  "51152": {
+    "config_client": {
+      "equipskin_box_link": {
+        "drop_id": 30388,
+        "drop_type": 2,
+        "list": [
+          [
+            2,
+            [
+              "scene shop",
+              {
+                "warp": "shopstreet"
+              }
+            ],
+            "Merit Shop"
+          ]
+        ]
+      },
+      "furniture_theme_link": [
+        2,
+        [
+          "scene court yard",
+          []
+        ]
+      ],
+      "medal_link": [
+        2,
+        [
+          "scene task"
+        ]
+      ]
+    },
+    "config_data": [],
+    "config_id": 0,
+    "id": 51152,
+    "is_show": 4,
+    "login_pop": 0,
+    "mark": 20260908,
+    "page_core": "ShadowCityCoreActivityUI",
+    "page_info": {
+      "class_name": "ShadowCityCollectPage",
+      "sub_ui": [
+        "ShadowCityCollectMsgBox"
+      ],
+      "ui_name": "ShadowCityCollectPage"
+    },
+    "time": [
+      "timer",
+      [
+        [
+          2026,
+          9,
+          8
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2026,
+          9,
+          30
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
+    "title_res_tag": "ShadowCityCoreActivityUI_subtitle_4",
+    "type": 103
+  },
+  "51154": {
+    "config_client": "",
+    "config_data": [
+      25729,
+      25730,
+      25731,
+      25732,
+      25733,
+      25734,
+      25735,
+      25736,
+      25737
+    ],
+    "config_id": 0,
+    "id": 51154,
+    "is_show": 0,
+    "login_pop": 0,
+    "mark": 20260908,
+    "page_core": "",
+    "page_info": "",
+    "time": [
+      "timer",
+      [
+        [
+          2026,
+          9,
+          8
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2026,
+          10,
+          7
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
+    "title_res_tag": "",
+    "type": 13
+  },
+  "51155": {
+    "config_client": "",
+    "config_data": [],
+    "config_id": 15,
+    "id": 51155,
+    "is_show": 0,
+    "login_pop": 0,
+    "mark": 20260908,
+    "page_core": "",
+    "page_info": "",
+    "time": [
+      "timer",
+      [
+        [
+          2026,
+          9,
+          8
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2026,
+          9,
+          30
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
+    "title_res_tag": "",
+    "type": 110
+  },
+  "51156": {
+    "config_client": "",
+    "config_data": [
+      27575,
+      27576,
+      27577,
+      27578,
+      27579
+    ],
+    "config_id": 0,
+    "id": 51156,
+    "is_show": 0,
+    "login_pop": 0,
+    "mark": 20260908,
+    "page_core": "",
+    "page_info": "",
+    "time": [
+      "timer",
+      [
+        [
+          2026,
+          9,
+          8
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2026,
+          9,
+          30
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
+    "title_res_tag": "",
+    "type": 13
+  },
+  "51157": {
+    "config_client": "",
+    "config_data": "0",
+    "config_id": 750,
+    "id": 51157,
+    "is_show": 0,
+    "login_pop": 0,
+    "mark": 20260908,
+    "page_core": "",
+    "page_info": "",
+    "time": [
+      "timer",
+      [
+        [
+          2026,
+          9,
+          8
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2026,
+          9,
+          30
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
+    "title_res_tag": "",
+    "type": 16
   },
   "51160": {
     "config_client": "",
@@ -88055,6 +89395,46 @@
     ],
     "title_res_tag": "",
     "type": 46
+  },
+  "51161": {
+    "config_client": "",
+    "config_data": [],
+    "config_id": 4,
+    "id": 51161,
+    "is_show": 0,
+    "login_pop": 0,
+    "mark": 20260908,
+    "page_core": "",
+    "page_info": "",
+    "time": [
+      "timer",
+      [
+        [
+          2026,
+          9,
+          8
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2026,
+          10,
+          31
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
+    "title_res_tag": "",
+    "type": 30
   },
   "100001": {
     "config_client": "",
@@ -91105,6 +92485,31 @@
     51127,
     51128,
     51129,
+    51130,
+    51131,
+    51132,
+    51133,
+    51134,
+    51135,
+    51136,
+    51137,
+    51138,
+    51139,
+    51140,
+    51141,
+    51142,
+    51143,
+    51144,
+    51145,
+    51146,
+    51147,
+    51148,
+    51152,
+    51154,
+    51155,
+    51156,
+    51157,
+    51161,
     51160,
     7001,
     7011,
@@ -91997,6 +93402,7 @@
       51037,
       51070,
       51103,
+      51147,
       30006,
       30014,
       30024,
@@ -92073,6 +93479,7 @@
       50822,
       50609,
       51043,
+      51146,
       8009,
       8050,
       8053,
@@ -92147,7 +93554,8 @@
       50436,
       50476,
       50615,
-      51047
+      51047,
+      51148
     ],
     "11": [
       5078,
@@ -92240,6 +93648,8 @@
       51034,
       51101,
       51102,
+      51141,
+      51142,
       30012,
       30020,
       30021,
@@ -92551,6 +93961,13 @@
       51121,
       51125,
       51118,
+      51130,
+      51133,
+      51137,
+      51143,
+      51145,
+      51154,
+      51156,
       1103,
       1104,
       1105,
@@ -92734,6 +94151,8 @@
       50655,
       51032,
       51104,
+      51132,
+      51136,
       30013,
       30042,
       30056,
@@ -92834,6 +94253,8 @@
       51039,
       51076,
       51106,
+      51138,
+      51157,
       30015,
       30023,
       30044,
@@ -93271,6 +94692,7 @@
       51036,
       51077,
       51108,
+      51140,
       30003,
       30033,
       30045,
@@ -93305,6 +94727,7 @@
       50122,
       50218,
       50622,
+      51161,
       8010,
       8051,
       8052,
@@ -93377,6 +94800,7 @@
       50600,
       51038,
       51107,
+      51139,
       30019,
       30046,
       30053,
@@ -93859,6 +95283,8 @@
       51073,
       51109,
       51124,
+      51135,
+      51144,
       1110,
       6006,
       6010,
@@ -94086,7 +95512,8 @@
       50249,
       50844,
       51079,
-      51117
+      51117,
+      51152
     ],
     "104": [
       4963
@@ -94116,7 +95543,8 @@
       50291,
       50344,
       50623,
-      51045
+      51045,
+      51155
     ],
     "111": [
       5260,
@@ -94144,7 +95572,8 @@
       50284,
       50337,
       50608,
-      51050
+      51050,
+      51134
     ],
     "116": [
       5523
@@ -94215,6 +95644,9 @@
     ],
     "136": [
       970000
+    ],
+    "137": [
+      51131
     ],
     "140": [
       50602

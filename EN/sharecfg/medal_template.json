@@ -2883,6 +2883,48 @@
     "target_type": 131,
     "type": 0
   },
+  "200221": {
+    "condition": "Collect 8 stickers in Tales of the Paranormal.",
+    "count_inherit": 0,
+    "desc": "Floating trains pass between buildings where light and shadow flow. Behind the glamorous cityscape, darkness stirs and spreads. Welcome to New Era City No. 7.",
+    "explain1": "\"Tales of the Paranormal\"",
+    "explain2": "Event",
+    "hide": 0,
+    "icon": "9221",
+    "id": 200221,
+    "is_out_of_print": 0,
+    "label": "l_9221",
+    "name": "Tales of the Paranormal Medal",
+    "next": 0,
+    "page": 2,
+    "rank": 1,
+    "start": 0,
+    "target_id": "51143",
+    "target_num": 8,
+    "target_type": 131,
+    "type": 0
+  },
+  "200231": {
+    "condition": "Collect 7 stickers in A Slightly Paranormal State of Affairs.",
+    "count_inherit": 0,
+    "desc": "The sun rises once more, and the trains run as always. Even the supernatural beings that have blended into the city seem to be going about their business to the best of their ability.",
+    "explain1": "\"A Slightly Paranormal State of Affairs\"",
+    "explain2": "Event",
+    "hide": 0,
+    "icon": "9231",
+    "id": 200231,
+    "is_out_of_print": 0,
+    "label": "l_9231",
+    "name": "Poltergeist Busters Medal",
+    "next": 0,
+    "page": 2,
+    "rank": 1,
+    "start": 0,
+    "target_id": "51154",
+    "target_num": 7,
+    "target_type": 131,
+    "type": 0
+  },
   "all": [
     10011,
     10012,
@@ -3015,6 +3057,8 @@
     200181,
     200191,
     200201,
-    200211
+    200211,
+    200221,
+    200231
   ]
 }

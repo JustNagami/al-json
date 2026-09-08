@@ -4189,6 +4189,61 @@
     "name": "Challenge Mode",
     "type": 10
   },
+  "201901": {
+    "arg": [],
+    "buff_id": 201901,
+    "buff_type": 0,
+    "desc": "An eerie mist hangs in the air. During combat, reduces your ships' ACC and EVA by 5.0%, while increasing enemies' DMG dealt by 5.0% and decreasing their DMG taken by 5.0%.",
+    "icon": "201901",
+    "iconSize": "",
+    "id": 201901,
+    "name": "Anomalous Space",
+    "type": 10
+  },
+  "201905": {
+    "arg": [],
+    "buff_id": 201905,
+    "buff_type": 0,
+    "desc": "During battle, Tiger will provide supportive fire.",
+    "icon": "201905",
+    "iconSize": "",
+    "id": 201905,
+    "name": "Resonant Voice",
+    "type": 10
+  },
+  "201909": {
+    "arg": [],
+    "buff_id": 201909,
+    "buff_type": 0,
+    "desc": "During battle, gain buffs depending on how many allies are present. For each ally, increases your ships' DMG dealt by 1.0% and decreases their DMG taken by 1.0% (stacks up to 10 times).",
+    "icon": "201909",
+    "iconSize": "",
+    "id": 201909,
+    "name": "Standing as One",
+    "type": 10
+  },
+  "201910": {
+    "arg": [],
+    "buff_id": 0,
+    "buff_type": 0,
+    "desc": "Once per battle, when Azuchi's HP drops below 20.0% for the first time: she will enter the <color=#92fc63>Berserk state, becoming invulnerable for 15s</color>.",
+    "icon": "200908",
+    "iconSize": "",
+    "id": 201910,
+    "name": "Challenge Mode",
+    "type": 10
+  },
+  "201911": {
+    "arg": [],
+    "buff_id": 0,
+    "buff_type": 0,
+    "desc": "During battle, when Azuchi's HP drops below 20.0%: she will enter the <color=#92fc63>Berserk state, becoming invulnerable for 15s</color>. This effect has a 45s CD.\nWhile in the Berserk state, Azuchi inflicts no damage with her projectiles. Instead, she will restore 3.0% of her max HP each time her projectiles hit one of your ships.\n\n- Hard Mode Details -\nThe hitbox of your Vanguard fleet is <color=#92fc63>limited to only the frontmost ship, and the size of the hitbox is also significantly reduced</color>.\nWhen your ship is hit, it will become invulnerable for a short period of time.\n\nEnemy DMG dealt is <color=#ffc038>significantly increased</color>. Enemy projectiles cannot be nullified by airstrikes; however, when an ally launches an airstrike, the frontmost ship of the Vanguard fleet becomes invulnerable for 3s.\nThe ￼<color=#92fc63>DMG reduction/evasion effects</color> of following gear or skills are rendered ineffective:\n[Fiercer When Cornered], [Operation Rainbow], [Eleventh Hour], [I Will Not Yield!]",
+    "icon": "200908",
+    "iconSize": "",
+    "id": 201911,
+    "name": "Challenge Mode",
+    "type": 10
+  },
   "205001": {
     "arg": [],
     "buff_id": 205001,
@@ -4864,6 +4919,11 @@
     201826,
     201831,
     201832,
+    201901,
+    201905,
+    201909,
+    201910,
+    201911,
     205001,
     205002,
     205003,
