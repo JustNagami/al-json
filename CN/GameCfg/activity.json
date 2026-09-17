@@ -178,7 +178,7 @@
       "event": "ActivityMediator.ACTIVITY_PERMANENT",
       "data": [],
       "isShow": "function()\n\t\t\treturn not LOCK_PERMANENT_ENTER\n\t\tend",
-      "isTip": "function()\n\t\t\treturn PlayerPrefs.GetString(\"permanent_time\", \"\") ~= pg.gameset.permanent_mark.description\n\t\tend"
+      "isTip": "function()\n\t\t\tlocal var_33_0 = ActivityConst.GetLatestPermanentActivityIds()\n\n\t\t\treturn PlayerPrefs.GetInt(\"permanent_times\", 0) ~= #var_33_0\n\t\tend"
     },
     {
       "banner": "activity_miniprogram",
