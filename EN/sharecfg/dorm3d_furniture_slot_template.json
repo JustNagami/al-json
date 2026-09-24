@@ -521,6 +521,87 @@
     "type": 3,
     "zone_id": 21003
   },
+  "2220101": {
+    "default_furniture": 2201,
+    "furniture_name": "pre_db_yuanchou01_bedroom01_0",
+    "id": 2220101,
+    "name": "安眠睡床 ",
+    "room_id": 22,
+    "type": 4,
+    "zone_id": 22001
+  },
+  "2220102": {
+    "default_furniture": 0,
+    "furniture_name": "pre_db_yc_flowerpot01",
+    "id": 2220102,
+    "name": "金辉植栽",
+    "room_id": 22,
+    "type": 3,
+    "zone_id": 22001
+  },
+  "2220103": {
+    "default_furniture": 0,
+    "furniture_name": "pre_db_yc_flowerpot02",
+    "id": 2220103,
+    "name": "金尊绿叶摆件",
+    "room_id": 22,
+    "type": 3,
+    "zone_id": 22001
+  },
+  "2220104": {
+    "default_furniture": 0,
+    "furniture_name": "pre_db_yc_billboard01",
+    "id": 2220104,
+    "name": "海景装饰画框",
+    "room_id": 22,
+    "type": 3,
+    "zone_id": 22001
+  },
+  "2220201": {
+    "default_furniture": 2202,
+    "furniture_name": "pre_db_yuanchou01_chamber01_0",
+    "id": 2220201,
+    "name": "静心祷告台",
+    "room_id": 22,
+    "type": 6,
+    "zone_id": 22002
+  },
+  "2220202": {
+    "default_furniture": 0,
+    "furniture_name": "pre_db_yuanchou01_chamber02_0",
+    "id": 2220202,
+    "name": "研习长桌",
+    "room_id": 22,
+    "type": 6,
+    "zone_id": 22002
+  },
+  "2220301": {
+    "default_furniture": 2203,
+    "furniture_name": "pre_db_yc_livingroom01_0",
+    "id": 2220301,
+    "name": "午后闲谈沙发",
+    "room_id": 22,
+    "type": 5,
+    "zone_id": 22003
+  },
+  "2220302": {
+    "default_furniture": 0,
+    "furniture_name": "pre_db_yc_decoration02",
+    "id": 2220302,
+    "name": "琉璃台灯",
+    "room_id": 22,
+    "type": 3,
+    "zone_id": 22003
+  },
+  "2220303": {
+    "default_furniture": 0,
+    "furniture_name": "pre_db_yc_billboard02",
+    "id": 2220303,
+    "name": "啾啾纪念饰件",
+    "room_id": 22,
+    "type": 3,
+    "zone_id": 22003
+  },
   "all": [
     100101,
     100102,
@@ -579,7 +660,16 @@
     2210301,
     2210302,
     2210303,
-    2210304
+    2210304,
+    2220101,
+    2220102,
+    2220103,
+    2220104,
+    2220201,
+    2220202,
+    2220301,
+    2220302,
+    2220303
   ],
   "get_id_list_by_room_id": {
     "1": [
@@ -655,6 +745,17 @@
       2210302,
       2210303,
       2210304
+    ],
+    "22": [
+      2220101,
+      2220102,
+      2220103,
+      2220104,
+      2220201,
+      2220202,
+      2220301,
+      2220302,
+      2220303
     ]
   },
   "get_id_list_by_zone_id": {
@@ -761,6 +862,21 @@
       2210302,
       2210303,
       2210304
+    ],
+    "22001": [
+      2220101,
+      2220102,
+      2220103,
+      2220104
+    ],
+    "22002": [
+      2220201,
+      2220202
+    ],
+    "22003": [
+      2220301,
+      2220302,
+      2220303
     ]
   }
 }

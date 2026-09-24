@@ -123658,6 +123658,77 @@
     "themeId": 0,
     "type": 7
   },
+  "100081": {
+    "advice": 0,
+    "belong": 1,
+    "can_rotate": 0,
+    "can_trigger": [
+      0
+    ],
+    "canputon": 0,
+    "canputonGrid": [],
+    "comfortable": 0,
+    "count": 1,
+    "deblocking": 1,
+    "describe": "The photography staff is ready. Models, please line up and enter in order. Refrain from stealing the spotlight and fighting over space.",
+    "dir": 0,
+    "dorm_id": 0,
+    "effect": "",
+    "followBone": [
+      "char",
+      -1
+    ],
+    "gain_by": "",
+    "icon": "xiaosheyingpengicon",
+    "id": 100081,
+    "interAction_group": [],
+    "is_3d_obj": 0,
+    "is_get_time_note": 0,
+    "level": 1,
+    "name": "Photography Studio",
+    "offset": [],
+    "picture": "",
+    "rarity": 4,
+    "size": [
+      8,
+      9
+    ],
+    "spine": [
+      [
+        "xiaosheyingpengB",
+        "normal"
+      ],
+      [
+        "xiaosheyingpengT"
+      ],
+      [
+        [
+          0,
+          0
+        ],
+        [
+          [
+            "dance"
+          ]
+        ],
+        [],
+        [
+          1
+        ]
+      ],
+      [],
+      [
+        0,
+        0
+      ]
+    ],
+    "spine_action_replace": "",
+    "spine_combine_action_replace": "",
+    "spine_extra": "",
+    "tag": 6,
+    "themeId": 0,
+    "type": 7
+  },
   "100083": {
     "advice": 0,
     "belong": 1,
@@ -123972,7 +124043,7 @@
     "comfortable": 0,
     "count": 1,
     "deblocking": 1,
-    "describe": "飘飘忽忽，生人勿近~",
+    "describe": "O weary stranger, beware the gentle, swaying light.",
     "dir": 0,
     "dorm_id": 0,
     "effect": "",
@@ -123983,7 +124054,7 @@
     "is_3d_obj": 0,
     "is_get_time_note": 0,
     "level": 1,
-    "name": "幽幽祟祟",
+    "name": "Will-o'-Wisp",
     "offset": [],
     "picture": "",
     "rarity": 4,
@@ -123994,6 +124065,54 @@
     "spine": [
       [
         "pupuguihuo",
+        "normal",
+        [
+          "action",
+          true
+        ]
+      ]
+    ],
+    "spine_action_replace": "",
+    "spine_combine_action_replace": "",
+    "spine_extra": "",
+    "tag": 6,
+    "themeId": 0,
+    "type": 11
+  },
+  "100090": {
+    "advice": 0,
+    "belong": 1,
+    "can_rotate": 0,
+    "can_trigger": [
+      0
+    ],
+    "canputon": 0,
+    "canputonGrid": [],
+    "comfortable": 0,
+    "count": 1,
+    "deblocking": 1,
+    "describe": "快跟上，宝藏要逃走了！",
+    "dir": 0,
+    "dorm_id": 0,
+    "effect": "",
+    "gain_by": "",
+    "icon": "jufengicon",
+    "id": 100090,
+    "interAction_group": [],
+    "is_3d_obj": 0,
+    "is_get_time_note": 0,
+    "level": 1,
+    "name": "藏宝旋风",
+    "offset": [],
+    "picture": "",
+    "rarity": 4,
+    "size": [
+      3,
+      3
+    ],
+    "spine": [
+      [
+        "jufeng",
         "normal",
         [
           "action",
@@ -168449,11 +168568,13 @@
     100078,
     100079,
     100080,
+    100081,
     100083,
     100084,
     100086,
     100088,
     100089,
+    100090,
     200001,
     200002,
     200003,
@@ -175186,11 +175307,13 @@
       100078,
       100079,
       100080,
+      100081,
       100083,
       100084,
       100086,
       100088,
       100089,
+      100090,
       31101,
       54104,
       54105
@@ -175780,11 +175903,13 @@
       100078,
       100079,
       100080,
+      100081,
       100083,
       100084,
       100086,
       100088,
       100089,
+      100090,
       200001,
       200002,
       200003,
@@ -182973,6 +183098,7 @@
       100078,
       100079,
       100080,
+      100081,
       100084,
       100088
     ],
@@ -183043,6 +183169,7 @@
       100083,
       100086,
       100089,
+      100090,
       30123,
       35128,
       37121,

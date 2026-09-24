@@ -755,6 +755,69 @@
     "repair": 0,
     "weapon_ids": []
   },
+  "9701131": {
+    "breakout_id": 9701132,
+    "breakout_view": "Unlock Flickering Light - Soobrazitelny/Main gun efficiency +5%",
+    "gold": 500,
+    "id": 9701131,
+    "item1": 21066,
+    "item1_num": 1,
+    "item2": 21066,
+    "item2_num": 0,
+    "level": 10,
+    "pre_id": 0,
+    "repair": 0,
+    "weapon_ids": [
+      171161
+    ]
+  },
+  "9701132": {
+    "breakout_id": 9701133,
+    "breakout_view": "Torpedo base +1/Torpedo preload +1/Main gun efficiency +10%",
+    "gold": 1500,
+    "id": 9701132,
+    "item1": 21066,
+    "item1_num": 1,
+    "item2": 21066,
+    "item2_num": 0,
+    "level": 30,
+    "pre_id": 9701131,
+    "repair": 0,
+    "weapon_ids": [
+      106,
+      106
+    ]
+  },
+  "9701133": {
+    "breakout_id": 9701134,
+    "breakout_view": "Improve Flickering Light - Soobrazilteny/All weapons' efficiency +5%",
+    "gold": 2500,
+    "id": 9701133,
+    "item1": 21066,
+    "item1_num": 2,
+    "item2": 21066,
+    "item2_num": 0,
+    "level": 70,
+    "pre_id": 9701132,
+    "repair": 0,
+    "weapon_ids": [
+      171162
+    ]
+  },
+  "9701134": {
+    "breakout_id": 0,
+    "breakout_view": "None",
+    "gold": 0,
+    "id": 9701134,
+    "item1": 21066,
+    "item1_num": 0,
+    "item2": 21066,
+    "item2_num": 0,
+    "level": 0,
+    "pre_id": 9701133,
+    "repair": 0,
+    "weapon_ids": []
+  },
   "9702011": {
     "breakout_id": 9702012,
     "breakout_view": "Unlock Ashen Might – Helena/Main gun efficiency +5%",
@@ -4288,6 +4351,10 @@
     9701122,
     9701123,
     9701124,
+    9701131,
+    9701132,
+    9701133,
+    9701134,
     9702011,
     9702012,
     9702013,

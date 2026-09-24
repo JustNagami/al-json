@@ -23,6 +23,30 @@
     "type": 1,
     "unlock_desc": "Reach New Jersey Intimacy Lv. 14"
   },
+  "20707301": {
+    "background": "voice_placeholder",
+    "content": [
+      22,
+      220601
+    ],
+    "id": 20707301,
+    "name": "Video Call - Implacable",
+    "ship_group": 20707,
+    "type": 1,
+    "unlock_desc": "Visit Implacable's private quarters."
+  },
+  "20707302": {
+    "background": "voice_placeholder",
+    "content": [
+      22,
+      220602
+    ],
+    "id": 20707302,
+    "name": "Video Call - Implacable",
+    "ship_group": 20707,
+    "type": 1,
+    "unlock_desc": "Reach Implacable Intimacy Lv. 12"
+  },
   "30707301": {
     "background": "voice_placeholder",
     "content": [
@@ -103,12 +127,18 @@
     49905301,
     49905302,
     79902301,
-    79902302
+    79902302,
+    20707301,
+    20707302
   ],
   "get_id_list_by_ship_group": {
     "10517": [
       10517301,
       10517302
+    ],
+    "20707": [
+      20707301,
+      20707302
     ],
     "30707": [
       30707301,

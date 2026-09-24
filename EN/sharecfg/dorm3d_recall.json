@@ -490,6 +490,61 @@
     ],
     "unlock_text": "Unlocked after gifting Instinct Instructor."
   },
+  "221": {
+    "desc": "Is it salvation that you seek? Or... A night of indulgence with me? Heehee♥",
+    "id": 221,
+    "image": "recall_221",
+    "name": "Night of Confessions",
+    "story_id": 220510,
+    "type": 1,
+    "unlock": [
+      1,
+      20707,
+      4
+    ],
+    "unlock_text": "Reach Implacable Intimacy Lv. 4"
+  },
+  "222": {
+    "desc": "Morning comes before the rustling of sheets has settled. This confession may have to continue anew tonight...",
+    "id": 222,
+    "image": "recall_222",
+    "name": "Sin Unconcealed",
+    "story_id": 220520,
+    "type": 1,
+    "unlock": [
+      1,
+      20707,
+      8
+    ],
+    "unlock_text": "Reach Implacable Intimacy Lv. 8"
+  },
+  "223": {
+    "desc": "Words can take on vastly different meanings depending on context. It's up to you how you define it...",
+    "id": 223,
+    "image": "recall_223",
+    "name": "The Meaning of Binding",
+    "story_id": 220530,
+    "type": 1,
+    "unlock": [
+      1,
+      20707,
+      12
+    ],
+    "unlock_text": "Reach Implacable Intimacy Lv. 12"
+  },
+  "224": {
+    "desc": "Though the cover reads \"confession,\" the contents are but an outpouring of love.",
+    "id": 224,
+    "image": "recall_224",
+    "name": "Heart-Pounding Note",
+    "story_id": 220541,
+    "type": 1,
+    "unlock": [
+      3,
+      2070701
+    ],
+    "unlock_text": "Unlocked after gifting Heart-Pounding Note."
+  },
   "all": [
     1,
     2,
@@ -526,7 +581,11 @@
     211,
     212,
     213,
-    214
+    214,
+    221,
+    222,
+    223,
+    224
   ],
   "get_id_list_by_story_id": {
     "10010": [
@@ -636,6 +695,18 @@
     ],
     "210541": [
       214
+    ],
+    "220510": [
+      221
+    ],
+    "220520": [
+      222
+    ],
+    "220530": [
+      223
+    ],
+    "220541": [
+      224
     ]
   }
 }

@@ -2261,6 +2261,10 @@
     "description": "",
     "key_value": 1
   },
+  "last_worldcruise_pay": {
+    "description": "",
+    "key_value": 30
+  },
   "level_get_proficency": {
     "description": "",
     "key_value": 100
@@ -2786,10 +2790,6 @@
       []
     ],
     "key_value": 20251113
-  },
-  "permanent_mark": {
-    "description": "20220513",
-    "key_value": 0
   },
   "player_name_change_cost": {
     "description": [
@@ -3448,6 +3448,23 @@
       900,
       950,
       1000
+    ],
+    "key_value": 0
+  },
+  "world_auto_battle_map_limit": {
+    "description": "",
+    "key_value": 20
+  },
+  "world_auto_finish_map_limit": {
+    "description": [
+      1101,
+      7201,
+      10601,
+      12101,
+      15301,
+      15501,
+      15601,
+      15701
     ],
     "key_value": 0
   },
