@@ -11,6 +11,7 @@
     ],
     "hidden_part_apply_in_timeline": 0,
     "hx_component": "",
+    "hx_material": [],
     "id": 105171,
     "is_show_change_skin": 1,
     "model_id": "xinzexi_noshoes",
@@ -35,6 +36,7 @@
     "hidden_part": [],
     "hidden_part_apply_in_timeline": 0,
     "hx_component": "",
+    "hx_material": [],
     "id": 105173,
     "is_show_change_skin": 1,
     "model_id": "xinzexi_bunny",
@@ -66,6 +68,7 @@
     "hidden_part": [],
     "hidden_part_apply_in_timeline": 0,
     "hx_component": "",
+    "hx_material": [],
     "id": 199031,
     "is_show_change_skin": 1,
     "model_id": "ankeleiqi_noshoes",
@@ -90,6 +93,7 @@
     "hidden_part": [],
     "hidden_part_apply_in_timeline": 0,
     "hx_component": "",
+    "hx_material": [],
     "id": 199032,
     "is_show_change_skin": 1,
     "model_id": "ankeleiqi_swim",
@@ -121,6 +125,7 @@
     "hidden_part": [],
     "hidden_part_apply_in_timeline": 0,
     "hx_component": "",
+    "hx_material": [],
     "id": 199033,
     "is_show_change_skin": 0,
     "model_id": "ankeleiqi_stock",
@@ -145,6 +150,12 @@
     "hidden_part": [],
     "hidden_part_apply_in_timeline": 0,
     "hx_component": "",
+    "hx_material": [
+      [
+        "dorm3d/character/tianlangxing_db/res/tianlangxing_noshoes",
+        "assets/dorm3d/character/tianlangxing_db/res/tianlangxing_noshoes/material_hx/body02_stocking.mat"
+      ]
+    ],
     "id": 202201,
     "is_show_change_skin": 1,
     "model_id": "tianlangxing_noshoes",
@@ -169,6 +180,7 @@
     "hidden_part": [],
     "hidden_part_apply_in_timeline": 0,
     "hx_component": "",
+    "hx_material": [],
     "id": 202202,
     "is_show_change_skin": 1,
     "model_id": "tianlangxing_swim",
@@ -200,6 +212,7 @@
     "hidden_part": [],
     "hidden_part_apply_in_timeline": 0,
     "hx_component": "",
+    "hx_material": [],
     "id": 202203,
     "is_show_change_skin": 1,
     "model_id": "tianlangxing_bunny",
@@ -225,12 +238,148 @@
     "unlock_text": "カフェで着せ替えを開放",
     "wear_anim": ""
   },
+  "207071": {
+    "animator": "",
+    "head_Icon": "dorm3Dchar/yuanchou",
+    "hidden_part": [],
+    "hidden_part_apply_in_timeline": 0,
+    "hx_component": "",
+    "hx_material": [
+      [
+        "dorm3d/character/yuanchou_db/res/yuanchou_noshoes",
+        "assets/dorm3d/character/yuanchou_db/res/yuanchou_noshoes/material_hx/body_yuanchou.mat"
+      ]
+    ],
+    "id": 207071,
+    "is_show_change_skin": 1,
+    "model_id": "yuanchou_noshoes",
+    "name": "インプラカブル部屋着",
+    "origin_model": "pre_char_yuanchou_mod",
+    "picture": "regular",
+    "remarks": "",
+    "ship_group": 20707,
+    "shop_id": 0,
+    "stocking_geo_path": "",
+    "stocking_pos": "",
+    "switch_anim": "anger_01-start",
+    "tags": [],
+    "type": 1,
+    "unlock": "",
+    "unlock_text": "",
+    "wear_anim": ""
+  },
+  "207072": {
+    "animator": "",
+    "head_Icon": "dorm3Dchar/yuanchou",
+    "hidden_part": [],
+    "hidden_part_apply_in_timeline": 0,
+    "hx_component": "",
+    "hx_material": [
+      [
+        "dorm3d/character/yuanchou_db/res/yuanchou_racing",
+        "assets/dorm3d/character/yuanchou_db/res/yuanchou_racing/material_hx/body_yuanchou.mat"
+      ]
+    ],
+    "id": 207072,
+    "is_show_change_skin": 0,
+    "model_id": "yuanchou_racing",
+    "name": "インプラカブルガレージ衣装",
+    "origin_model": "pre_char_yuanchou_racing_mod",
+    "picture": "regular",
+    "remarks": "",
+    "ship_group": 20707,
+    "shop_id": 270122,
+    "stocking_geo_path": "",
+    "stocking_pos": "",
+    "switch_anim": "",
+    "tags": [
+      "carwash",
+      "touch"
+    ],
+    "type": 2,
+    "unlock": [
+      5,
+      26,
+      20707
+    ],
+    "unlock_text": "ガレージにインプラカブルを配置",
+    "wear_anim": ""
+  },
+  "207073": {
+    "animator": "",
+    "head_Icon": "dorm3Dchar/yuanchou",
+    "hidden_part": [],
+    "hidden_part_apply_in_timeline": 0,
+    "hx_component": "",
+    "hx_material": [
+      [
+        "dorm3d/character/yuanchou_db/res/yuanchou_racing",
+        "assets/dorm3d/character/yuanchou_db/res/yuanchou_racing/material_hx/body_yuanchou_racing_lz.mat"
+      ]
+    ],
+    "id": 207073,
+    "is_show_change_skin": 1,
+    "model_id": "yuanchou_racing_noshoes",
+    "name": "インプラカブルガレージ衣装",
+    "origin_model": "pre_char_yuanchou_racing_lz_mod",
+    "picture": "regular",
+    "remarks": "",
+    "ship_group": 20707,
+    "shop_id": 270122,
+    "stocking_geo_path": "",
+    "stocking_pos": "",
+    "switch_anim": "heart_01-start",
+    "tags": [],
+    "type": 2,
+    "unlock": [
+      5,
+      26,
+      20707
+    ],
+    "unlock_text": "ガレージにインプラカブルを配置",
+    "wear_anim": ""
+  },
+  "207074": {
+    "animator": "",
+    "head_Icon": "dorm3Dchar/yuanchou",
+    "hidden_part": [],
+    "hidden_part_apply_in_timeline": 0,
+    "hx_component": "",
+    "hx_material": [
+      [
+        "dorm3d/character/yuanchou_db/res/yuanchou_racing",
+        "assets/dorm3d/character/yuanchou_db/res/yuanchou_racing/material_hx/body_yuanchou.mat"
+      ]
+    ],
+    "id": 207074,
+    "is_show_change_skin": 0,
+    "model_id": "yuanchou_racing_carwash",
+    "name": "インプラカブルガレージ衣装",
+    "origin_model": "pre_char_yuanchou_racing_mod",
+    "picture": "regular",
+    "remarks": "",
+    "ship_group": 20707,
+    "shop_id": 0,
+    "stocking_geo_path": "",
+    "stocking_pos": "",
+    "switch_anim": "",
+    "tags": [],
+    "type": 2,
+    "unlock": [
+      5,
+      26,
+      20707
+    ],
+    "unlock_text": "ガレージにインプラカブルを配置",
+    "wear_anim": ""
+  },
   "302211": {
     "animator": "",
     "head_Icon": "dorm3Dchar/nengdai",
     "hidden_part": [],
     "hidden_part_apply_in_timeline": 0,
     "hx_component": "",
+    "hx_material": [],
     "id": 302211,
     "is_show_change_skin": 1,
     "model_id": "nengdai_noshoes",
@@ -255,6 +404,7 @@
     "hidden_part": [],
     "hidden_part_apply_in_timeline": 0,
     "hx_component": "",
+    "hx_material": [],
     "id": 302212,
     "is_show_change_skin": 1,
     "model_id": "nengdai_swim",
@@ -292,6 +442,16 @@
     ],
     "hidden_part_apply_in_timeline": 0,
     "hx_component": "",
+    "hx_material": [
+      [
+        "dorm3d/character/dafeng_db/res/dafeng_noshoes",
+        "assets/dorm3d/character/dafeng_db/res/dafeng_noshoes/material_hx/body_dafeng.mat"
+      ],
+      [
+        "dorm3d/character/dafeng_db/res/dafeng_noshoes",
+        "assets/dorm3d/character/dafeng_db/res/dafeng_noshoes/material_hx/cloth_opacity_dafeng1.mat"
+      ]
+    ],
     "id": 307071,
     "is_show_change_skin": 1,
     "model_id": "dafeng_noshoes",
@@ -322,6 +482,7 @@
     "hidden_part": [],
     "hidden_part_apply_in_timeline": 0,
     "hx_component": "",
+    "hx_material": [],
     "id": 307073,
     "is_show_change_skin": 1,
     "model_id": "dafeng_bunny",
@@ -353,6 +514,7 @@
     "hidden_part": [],
     "hidden_part_apply_in_timeline": 0,
     "hx_component": "",
+    "hx_material": [],
     "id": 499051,
     "is_show_change_skin": 1,
     "model_id": "aijier_noshoes",
@@ -377,6 +539,7 @@
     "hidden_part": [],
     "hidden_part_apply_in_timeline": 0,
     "hx_component": "",
+    "hx_material": [],
     "id": 499053,
     "is_show_change_skin": 1,
     "model_id": "aijier_bunny",
@@ -408,6 +571,7 @@
     "hidden_part": [],
     "hidden_part_apply_in_timeline": 0,
     "hx_component": "",
+    "hx_material": [],
     "id": 799021,
     "is_show_change_skin": 1,
     "model_id": "naximofu_noshoes",
@@ -432,6 +596,7 @@
     "hidden_part": [],
     "hidden_part_apply_in_timeline": 0,
     "hx_component": "",
+    "hx_material": [],
     "id": 799022,
     "is_show_change_skin": 0,
     "model_id": "naximofu_racing",
@@ -463,6 +628,7 @@
     "hidden_part": [],
     "hidden_part_apply_in_timeline": 0,
     "hx_component": "",
+    "hx_material": [],
     "id": 799023,
     "is_show_change_skin": 1,
     "model_id": "naximofu_racing_noshoes",
@@ -491,6 +657,7 @@
     "hidden_part": [],
     "hidden_part_apply_in_timeline": 0,
     "hx_component": "",
+    "hx_material": [],
     "id": 799024,
     "is_show_change_skin": 0,
     "model_id": "naximofu_racing_carwash",
@@ -531,7 +698,11 @@
     799021,
     799022,
     799023,
-    799024
+    799024,
+    207071,
+    207072,
+    207073,
+    207074
   ],
   "get_id_list_by_ship_group": {
     "10517": [
@@ -547,6 +718,12 @@
       202201,
       202202,
       202203
+    ],
+    "20707": [
+      207071,
+      207072,
+      207073,
+      207074
     ],
     "30221": [
       302211,

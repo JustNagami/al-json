@@ -1,5 +1,7 @@
 {
   "1": {
+    "car_idle_anim": "",
+    "car_touch_anim": "",
     "fury_anim": [
       1,
       2,
@@ -10,9 +12,13 @@
     "id": 1,
     "idle_anim": "XC1_idle",
     "mood_value": 0,
+    "phase2_camera": "",
+    "phase2_glass_effect": 0,
     "pos": "nxmf_1"
   },
   "2": {
+    "car_idle_anim": "",
+    "car_touch_anim": "",
     "fury_anim": [
       5,
       6,
@@ -24,9 +30,13 @@
     "id": 2,
     "idle_anim": "XC2_idle",
     "mood_value": 30,
+    "phase2_camera": "",
+    "phase2_glass_effect": 0,
     "pos": "nxmf_2"
   },
   "3": {
+    "car_idle_anim": "",
+    "car_touch_anim": "",
     "fury_anim": [
       9,
       12,
@@ -36,9 +46,13 @@
     "id": 3,
     "idle_anim": "XC3_idle-CW",
     "mood_value": 60,
+    "phase2_camera": "",
+    "phase2_glass_effect": 0,
     "pos": "nxmf_3"
   },
   "4": {
+    "car_idle_anim": "",
+    "car_touch_anim": "",
     "fury_anim": [
       10,
       11
@@ -47,12 +61,82 @@
     "id": 4,
     "idle_anim": "XC3_idle-CN",
     "mood_value": 100,
+    "phase2_camera": "InsideCarCamera_nx",
+    "phase2_glass_effect": 0,
     "pos": "nxmf_3"
+  },
+  "5": {
+    "car_idle_anim": "XC1_idle_car",
+    "car_touch_anim": "",
+    "fury_anim": [
+      101,
+      102,
+      104
+    ],
+    "hit_reaction_layer": "idle1",
+    "id": 5,
+    "idle_anim": "XC1_idle",
+    "mood_value": 0,
+    "phase2_camera": "",
+    "phase2_glass_effect": 0,
+    "pos": "yc_1"
+  },
+  "6": {
+    "car_idle_anim": "XC2_idle_car",
+    "car_touch_anim": "",
+    "fury_anim": [
+      105,
+      106,
+      107,
+      108,
+      199
+    ],
+    "hit_reaction_layer": "idle1",
+    "id": 6,
+    "idle_anim": "XC2_idle",
+    "mood_value": 30,
+    "phase2_camera": "",
+    "phase2_glass_effect": 0,
+    "pos": "yc_2"
+  },
+  "7": {
+    "car_idle_anim": "XC3_idle_car",
+    "car_touch_anim": "",
+    "fury_anim": [
+      111,
+      112,
+      104
+    ],
+    "hit_reaction_layer": "idle2",
+    "id": 7,
+    "idle_anim": "XC3_idle",
+    "mood_value": 60,
+    "phase2_camera": "",
+    "phase2_glass_effect": 0,
+    "pos": "yc_3"
+  },
+  "8": {
+    "car_idle_anim": "XC4_idle_car",
+    "car_touch_anim": "",
+    "fury_anim": [
+      110
+    ],
+    "hit_reaction_layer": "",
+    "id": 8,
+    "idle_anim": "XC4_idle",
+    "mood_value": 100,
+    "phase2_camera": "InsideCarCamera_yc",
+    "phase2_glass_effect": 0,
+    "pos": "yc_3"
   },
   "all": [
     1,
     2,
     3,
-    4
+    4,
+    5,
+    6,
+    7,
+    8
   ]
 }

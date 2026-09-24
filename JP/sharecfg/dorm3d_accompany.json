@@ -331,6 +331,50 @@
       79902
     ]
   },
+  "221": {
+    "favor": [
+      300,
+      [
+        1015,
+        1016,
+        1017
+      ]
+    ],
+    "id": 221,
+    "image": "yuanchou_accompany_room",
+    "jump_trigger": [],
+    "name": "ビーチ",
+    "performance_time": 20,
+    "resource_room": 22,
+    "sceneInfo": "map_yuanchou_01|Yuanchou_DB/Yuanchouhostel",
+    "ship_id": 20707,
+    "timeline": "Xiangban_personal_20707",
+    "unlock": []
+  },
+  "222": {
+    "favor": [
+      300,
+      [
+        1015,
+        1016,
+        1017
+      ]
+    ],
+    "id": 222,
+    "image": "carwash_accompany",
+    "jump_trigger": [],
+    "name": "寝室",
+    "performance_time": 20,
+    "resource_room": 26,
+    "sceneInfo": "map_carwash_01|Carwash",
+    "ship_id": 20707,
+    "timeline": "Xiangban_carwash_20707",
+    "unlock": [
+      5,
+      26,
+      20707
+    ]
+  },
   "all": [
     1,
     2,
@@ -346,7 +390,9 @@
     141,
     142,
     211,
-    212
+    212,
+    221,
+    222
   ],
   "get_id_list_by_ship_id": {
     "10517": [
@@ -361,6 +407,10 @@
       1,
       2,
       3
+    ],
+    "20707": [
+      221,
+      222
     ],
     "30221": [
       21,

@@ -89,6 +89,36 @@
     "sculpture": "tianlangxing_5",
     "ship_group": 20220
   },
+  "20707201": {
+    "background": "ins_199032_bg",
+    "discuss": [
+      27,
+      28
+    ],
+    "group_id": 1,
+    "id": 20707201,
+    "message": "yuanchou_1",
+    "name": "Implacable",
+    "npc_discuss": "",
+    "picture": "Ins_207071",
+    "sculpture": "yuanchou",
+    "ship_group": 20707
+  },
+  "20707202": {
+    "background": "ins_199032_bg",
+    "discuss": [
+      29,
+      30
+    ],
+    "group_id": 1,
+    "id": 20707202,
+    "message": "yuanchou_2",
+    "name": "Implacable",
+    "npc_discuss": "",
+    "picture": "Ins_207072",
+    "sculpture": "yuanchou",
+    "ship_group": 20707
+  },
   "30221201": {
     "background": "ins_302211_bg",
     "discuss": [
@@ -207,7 +237,9 @@
     49905201,
     49905202,
     79902201,
-    79902202
+    79902202,
+    20707201,
+    20707202
   ],
   "get_id_list_by_ship_group": {
     "10517": [
@@ -221,6 +253,10 @@
     ],
     "20220": [
       20220201
+    ],
+    "20707": [
+      20707201,
+      20707202
     ],
     "30221": [
       30221201
