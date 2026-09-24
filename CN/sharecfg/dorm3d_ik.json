@@ -51476,6 +51476,2440 @@
       1000
     ]
   },
+  "80011000": {
+    "action_back_time": 0,
+    "action_emote": "Face_smile_start",
+    "action_trigger": [
+      3
+    ],
+    "back_time": 0.6,
+    "char_id": 20707,
+    "controller": "YcFreeTableLeftThighIK",
+    "head_track": "",
+    "id": 80011000,
+    "plane_rotation": [
+      [
+        0.108287,
+        -0.8532434,
+        0.2645511,
+        -0.4361907
+      ],
+      [
+        0.03772205,
+        0.2301582,
+        0.1050624,
+        0.9667296
+      ]
+    ],
+    "plane_scale": [
+      [
+        0.1591991,
+        0.1629937,
+        0.3936299
+      ],
+      [
+        0.283272,
+        0.33396,
+        1
+      ]
+    ],
+    "rect": [
+      -450,
+      -160,
+      800,
+      500
+    ],
+    "sub_targets": [
+      [
+        "LeftThigh"
+      ],
+      [
+        "LeftFoot"
+      ]
+    ],
+    "timeline_action": "",
+    "tip_offset": "",
+    "tip_text": "",
+    "trigger_param": [
+      2,
+      "LeftThigh"
+    ],
+    "trigger_rect": [
+      -550,
+      -230,
+      1000,
+      600
+    ]
+  },
+  "80012000": {
+    "action_back_time": 0,
+    "action_emote": "Face_shy_start",
+    "action_trigger": [
+      3
+    ],
+    "back_time": 0.5,
+    "char_id": 20707,
+    "controller": "YcFreeSofaHeadIK",
+    "head_track": "",
+    "id": 80012000,
+    "plane_rotation": [
+      [
+        0.108287,
+        -0.8532434,
+        0.2645511,
+        -0.4361907
+      ],
+      [
+        0.6695746,
+        0.02865933,
+        0.04076818,
+        0.7410712
+      ],
+      [
+        -0.6522505,
+        0.2750113,
+        -0.2676717,
+        -0.6536741
+      ]
+    ],
+    "plane_scale": [
+      [
+        0.1591991,
+        0.1629937,
+        0.3936299
+      ],
+      [
+        0.1665905,
+        0.08352619,
+        1
+      ],
+      [
+        0.1180465,
+        0.1432278,
+        1
+      ]
+    ],
+    "rect": [
+      -250,
+      -300,
+      500,
+      500
+    ],
+    "sub_targets": [
+      [
+        "Pelvis"
+      ],
+      [
+        "LeftUpperArm"
+      ],
+      [
+        "RightUpperArm"
+      ]
+    ],
+    "timeline_action": "",
+    "tip_offset": "",
+    "tip_text": "",
+    "trigger_param": [
+      2,
+      "Head"
+    ],
+    "trigger_rect": [
+      -300,
+      -350,
+      700,
+      600
+    ]
+  },
+  "80013000": {
+    "action_back_time": 0,
+    "action_emote": "Face_shy_start",
+    "action_trigger": [
+      3
+    ],
+    "back_time": 3,
+    "char_id": 20707,
+    "controller": "YcFreeSofaLeftFootIK",
+    "head_track": "",
+    "id": 80013000,
+    "plane_rotation": [
+      [
+        0.108287,
+        -0.8532434,
+        0.2645511,
+        -0.4361907
+      ],
+      [
+        0.01900469,
+        0.6985257,
+        0.0298925,
+        -0.7147079
+      ]
+    ],
+    "plane_scale": [
+      [
+        0.1591991,
+        0.1629937,
+        0.3936299
+      ],
+      [
+        0.5486947,
+        0.1909494,
+        1
+      ]
+    ],
+    "rect": [
+      -400,
+      -350,
+      1000,
+      700
+    ],
+    "sub_targets": [
+      [
+        "LeftThigh"
+      ],
+      [
+        "LeftFoot"
+      ]
+    ],
+    "timeline_action": "`",
+    "tip_offset": "",
+    "tip_text": "",
+    "trigger_param": [
+      2,
+      "LeftFoot"
+    ],
+    "trigger_rect": [
+      -550,
+      -400,
+      1600,
+      900
+    ]
+  },
+  "80021000": {
+    "action_back_time": 0,
+    "action_emote": "Face_shy_start",
+    "action_trigger": [
+      3
+    ],
+    "back_time": 0.4,
+    "char_id": 20707,
+    "controller": "YcFreeTableButtIK",
+    "head_track": "",
+    "id": 80021000,
+    "plane_rotation": [
+      [
+        -0.05446094,
+        0.9963413,
+        0.06476028,
+        -0.01200428
+      ],
+      [
+        0.0365624,
+        -0.9979193,
+        -0.02681134,
+        0.04584184
+      ],
+      [
+        0.384562,
+        0.6208125,
+        0.597621,
+        -0.3309881
+      ]
+    ],
+    "plane_scale": [
+      [
+        0.5158758,
+        0.3048987,
+        0.3936299
+      ],
+      [
+        0.3471213,
+        0.05211236,
+        1
+      ],
+      [
+        0.1180465,
+        0.1432278,
+        1
+      ]
+    ],
+    "rect": [
+      -600,
+      -600,
+      1200,
+      800
+    ],
+    "sub_targets": [
+      [
+        "Pelvis"
+      ],
+      [
+        "RightThigh"
+      ],
+      [
+        "LeftThigh"
+      ]
+    ],
+    "timeline_action": "",
+    "tip_offset": "",
+    "tip_text": "",
+    "trigger_param": [
+      2,
+      "Butt"
+    ],
+    "trigger_rect": [
+      -650,
+      -700,
+      1300,
+      1000
+    ]
+  },
+  "80022000": {
+    "action_back_time": 0,
+    "action_emote": "Face_smile_start",
+    "action_trigger": [
+      3
+    ],
+    "back_time": 0.5,
+    "char_id": 20707,
+    "controller": "YcFreeSofaHeadIK",
+    "head_track": "",
+    "id": 80022000,
+    "plane_rotation": [
+      [
+        0.108287,
+        -0.8532434,
+        0.2645511,
+        -0.4361907
+      ],
+      [
+        0.6695746,
+        0.02865933,
+        0.04076818,
+        0.7410712
+      ],
+      [
+        -0.6522505,
+        0.2750113,
+        -0.2676717,
+        -0.6536741
+      ]
+    ],
+    "plane_scale": [
+      [
+        0.1591991,
+        0.1629937,
+        0.3936299
+      ],
+      [
+        0.1665905,
+        0.08352619,
+        1
+      ],
+      [
+        0.1180465,
+        0.1432278,
+        1
+      ]
+    ],
+    "rect": [
+      -250,
+      -300,
+      500,
+      500
+    ],
+    "sub_targets": [
+      [
+        "Pelvis"
+      ],
+      [
+        "LeftUpperArm"
+      ],
+      [
+        "RightUpperArm"
+      ]
+    ],
+    "timeline_action": "",
+    "tip_offset": "",
+    "tip_text": "",
+    "trigger_param": [
+      2,
+      "Head"
+    ],
+    "trigger_rect": [
+      -300,
+      -350,
+      700,
+      600
+    ]
+  },
+  "80023000": {
+    "action_back_time": 0,
+    "action_emote": "Face_shy_start",
+    "action_trigger": [
+      3
+    ],
+    "back_time": 0.6,
+    "char_id": 20707,
+    "controller": "YcFreeTableLeftThighIK",
+    "head_track": "",
+    "id": 80023000,
+    "plane_rotation": [
+      [
+        0.108287,
+        -0.8532434,
+        0.2645511,
+        -0.4361907
+      ],
+      [
+        0.03772205,
+        0.2301582,
+        0.1050624,
+        0.9667296
+      ]
+    ],
+    "plane_scale": [
+      [
+        0.1591991,
+        0.1629937,
+        0.3936299
+      ],
+      [
+        0.283272,
+        0.33396,
+        1
+      ]
+    ],
+    "rect": [
+      -450,
+      -160,
+      800,
+      500
+    ],
+    "sub_targets": [
+      [
+        "LeftThigh"
+      ],
+      [
+        "LeftFoot"
+      ]
+    ],
+    "timeline_action": "",
+    "tip_offset": "",
+    "tip_text": "",
+    "trigger_param": [
+      2,
+      "LeftThigh"
+    ],
+    "trigger_rect": [
+      -550,
+      -230,
+      1000,
+      600
+    ]
+  },
+  "80031000": {
+    "action_back_time": 0,
+    "action_emote": "Face_smile_start",
+    "action_trigger": [
+      3
+    ],
+    "back_time": 0.6,
+    "char_id": 20707,
+    "controller": "YcFreeSofaRightFootIK",
+    "head_track": "",
+    "id": 80031000,
+    "plane_rotation": [
+      [
+        0.108287,
+        -0.8532434,
+        0.2645511,
+        -0.4361907
+      ],
+      [
+        -0.1157823,
+        0.1825902,
+        0.02321769,
+        0.9760718
+      ]
+    ],
+    "plane_scale": [
+      [
+        0.1591991,
+        0.1629937,
+        0.3936299
+      ],
+      [
+        0.2864678,
+        0.1480047,
+        1
+      ]
+    ],
+    "rect": [
+      -300,
+      0,
+      400,
+      400
+    ],
+    "sub_targets": [
+      [
+        "RightThigh"
+      ],
+      [
+        "RightFoot"
+      ]
+    ],
+    "timeline_action": "",
+    "tip_offset": "",
+    "tip_text": "",
+    "trigger_param": [
+      2,
+      "RightFoot"
+    ],
+    "trigger_rect": [
+      -360,
+      -50,
+      500,
+      500
+    ]
+  },
+  "80032000": {
+    "action_back_time": 0,
+    "action_emote": "Face_shy_start",
+    "action_trigger": [
+      3
+    ],
+    "back_time": 0.4,
+    "char_id": 20707,
+    "controller": "YcFreeSofaChestIK",
+    "head_track": "",
+    "id": 80032000,
+    "plane_rotation": [
+      [
+        0.01365788,
+        -0.994932,
+        0.03713229,
+        0.09243929
+      ],
+      [
+        -0.04533571,
+        0.7854667,
+        0.000571066,
+        -0.617241
+      ],
+      [
+        0.5956174,
+        -0.6010711,
+        -0.3793606,
+        0.374218
+      ]
+    ],
+    "plane_scale": [
+      [
+        0.2585227,
+        0.2379306,
+        0.3936299
+      ],
+      [
+        0.2163399,
+        0.05211236,
+        1
+      ],
+      [
+        0.07628826,
+        0.08270419,
+        1
+      ]
+    ],
+    "rect": [
+      -350,
+      -200,
+      600,
+      500
+    ],
+    "sub_targets": [
+      [
+        "Pelvis"
+      ],
+      [
+        "LeftUpperArm"
+      ],
+      [
+        "RightUpperArm"
+      ]
+    ],
+    "timeline_action": "",
+    "tip_offset": "",
+    "tip_text": "",
+    "trigger_param": [
+      2,
+      "Chest"
+    ],
+    "trigger_rect": [
+      -400,
+      -300,
+      700,
+      620
+    ]
+  },
+  "80033000": {
+    "action_back_time": 0,
+    "action_emote": "Face_shy_start",
+    "action_trigger": [
+      3
+    ],
+    "back_time": 0.4,
+    "char_id": 20707,
+    "controller": "YcFreeSofaRightThighIK",
+    "head_track": "",
+    "id": 80033000,
+    "plane_rotation": [
+      [
+        -7.100544e-8,
+        0.2907661,
+        -6.045717e-8,
+        0.9567942
+      ],
+      [
+        -0.102433,
+        -0.2705797,
+        -0.1301688,
+        -0.9483408
+      ]
+    ],
+    "plane_scale": [
+      [
+        0.1076006,
+        0.1247637,
+        0.3936299
+      ],
+      [
+        0.283272,
+        0.33396,
+        1
+      ]
+    ],
+    "rect": [
+      -200,
+      -130,
+      600,
+      600
+    ],
+    "sub_targets": [
+      [
+        "RightThigh"
+      ],
+      [
+        "RightFoot"
+      ]
+    ],
+    "timeline_action": "",
+    "tip_offset": "",
+    "tip_text": "",
+    "trigger_param": [
+      2,
+      "RightThigh"
+    ],
+    "trigger_rect": [
+      -300,
+      -230,
+      750,
+      750
+    ]
+  },
+  "80041000": {
+    "action_back_time": 0,
+    "action_emote": "Face_shy_start",
+    "action_trigger": [
+      3
+    ],
+    "back_time": 0.4,
+    "char_id": 20707,
+    "controller": "YcPayTableRightThighIK",
+    "head_track": "",
+    "id": 80041000,
+    "plane_rotation": [
+      [
+        -2.977286e-8,
+        0.7416635,
+        -8.837655e-8,
+        0.6707723
+      ],
+      [
+        0.0000712728,
+        -0.7993484,
+        -0.1656396,
+        -0.5775861
+      ]
+    ],
+    "plane_scale": [
+      [
+        0.4397046,
+        0.1247637,
+        0.3936299
+      ],
+      [
+        1.814199,
+        0.2008369,
+        0.54768
+      ]
+    ],
+    "rect": [
+      -700,
+      -130,
+      830,
+      400
+    ],
+    "sub_targets": [
+      [
+        "RightThigh"
+      ],
+      [
+        "RightFoot"
+      ]
+    ],
+    "timeline_action": "",
+    "tip_offset": "",
+    "tip_text": "",
+    "trigger_param": [
+      2,
+      "RightThigh"
+    ],
+    "trigger_rect": [
+      -800,
+      -230,
+      950,
+      650
+    ]
+  },
+  "80041001": {
+    "action_back_time": 0,
+    "action_emote": "Face_think_start",
+    "action_trigger": [
+      3
+    ],
+    "back_time": 3,
+    "char_id": 20707,
+    "controller": "YcPayTableLeftFootIK",
+    "head_track": "",
+    "id": 80041001,
+    "plane_rotation": [
+      [
+        0.108287,
+        -0.8532434,
+        0.2645511,
+        -0.4361907
+      ],
+      [
+        0.03033449,
+        0.7310609,
+        -0.01829096,
+        0.6813922
+      ]
+    ],
+    "plane_scale": [
+      [
+        0.1591991,
+        0.1629937,
+        0.3936299
+      ],
+      [
+        0.6762661,
+        0.3725805,
+        1
+      ]
+    ],
+    "rect": [
+      -200,
+      -350,
+      1000,
+      500
+    ],
+    "sub_targets": [
+      [
+        "LeftThigh"
+      ],
+      [
+        "LeftFoot"
+      ]
+    ],
+    "timeline_action": "",
+    "tip_offset": "",
+    "tip_text": "",
+    "trigger_param": [
+      2,
+      "LeftFoot"
+    ],
+    "trigger_rect": [
+      -350,
+      -400,
+      1200,
+      700
+    ]
+  },
+  "80042000": {
+    "action_back_time": 0,
+    "action_emote": "Face_smile_start",
+    "action_trigger": [
+      3
+    ],
+    "back_time": 0.5,
+    "char_id": 20707,
+    "controller": "YcFreeSofaHeadIK",
+    "head_track": "",
+    "id": 80042000,
+    "plane_rotation": [
+      [
+        0.108287,
+        -0.8532434,
+        0.2645511,
+        -0.4361907
+      ],
+      [
+        0.6695746,
+        0.02865933,
+        0.04076818,
+        0.7410712
+      ],
+      [
+        -0.6522505,
+        0.2750113,
+        -0.2676717,
+        -0.6536741
+      ]
+    ],
+    "plane_scale": [
+      [
+        0.1591991,
+        0.1629937,
+        0.3936299
+      ],
+      [
+        0.1665905,
+        0.08352619,
+        1
+      ],
+      [
+        0.1180465,
+        0.1432278,
+        1
+      ]
+    ],
+    "rect": [
+      -250,
+      -300,
+      500,
+      500
+    ],
+    "sub_targets": [
+      [
+        "Pelvis"
+      ],
+      [
+        "LeftUpperArm"
+      ],
+      [
+        "RightUpperArm"
+      ]
+    ],
+    "timeline_action": "",
+    "tip_offset": "",
+    "tip_text": "",
+    "trigger_param": [
+      2,
+      "Head"
+    ],
+    "trigger_rect": [
+      -300,
+      -350,
+      700,
+      600
+    ]
+  },
+  "80042001": {
+    "action_back_time": 0,
+    "action_emote": "Face_smile_start",
+    "action_trigger": [
+      3
+    ],
+    "back_time": 0.6,
+    "char_id": 20707,
+    "controller": "YcPayTableLeftThighIK",
+    "head_track": "",
+    "id": 80042001,
+    "plane_rotation": [
+      [
+        0.108287,
+        -0.8532434,
+        0.2645511,
+        -0.4361907
+      ],
+      [
+        0.03772205,
+        0.2301582,
+        0.1050624,
+        0.9667296
+      ]
+    ],
+    "plane_scale": [
+      [
+        0.1591991,
+        0.1629937,
+        0.3936299
+      ],
+      [
+        0.283272,
+        0.33396,
+        1
+      ]
+    ],
+    "rect": [
+      -450,
+      -160,
+      800,
+      500
+    ],
+    "sub_targets": [
+      [
+        "LeftThigh"
+      ],
+      [
+        "LeftFoot"
+      ]
+    ],
+    "timeline_action": "",
+    "tip_offset": "",
+    "tip_text": "",
+    "trigger_param": [
+      2,
+      "LeftThigh"
+    ],
+    "trigger_rect": [
+      -550,
+      -230,
+      1000,
+      600
+    ]
+  },
+  "80043000": {
+    "action_back_time": 0,
+    "action_emote": "Face_smile_start",
+    "action_trigger": [
+      3
+    ],
+    "back_time": 0.4,
+    "char_id": 20707,
+    "controller": "YcPayTableLeftHandIK",
+    "head_track": "",
+    "id": 80043000,
+    "plane_rotation": [
+      [
+        0.03605693,
+        0.9950993,
+        -0.05978212,
+        -0.07002493
+      ],
+      [
+        -0.02535084,
+        -0.08509991,
+        -0.03758971,
+        -0.9953404
+      ]
+    ],
+    "plane_scale": [
+      [
+        0.3247071,
+        0.4256923,
+        0.3936299
+      ],
+      [
+        0.1816312,
+        0.05211236,
+        1
+      ]
+    ],
+    "rect": [
+      -200,
+      0,
+      600,
+      300
+    ],
+    "sub_targets": [
+      [
+        "LeftHand"
+      ],
+      [
+        "LeftUpperArm"
+      ]
+    ],
+    "timeline_action": "",
+    "tip_offset": "",
+    "tip_text": "",
+    "trigger_param": [
+      2,
+      "LeftHand"
+    ],
+    "trigger_rect": [
+      -250,
+      0,
+      800,
+      500
+    ]
+  },
+  "80044000": {
+    "action_back_time": 0,
+    "action_emote": "Face_shy_start",
+    "action_trigger": [
+      3
+    ],
+    "back_time": 0.4,
+    "char_id": 20707,
+    "controller": "YcPayTableChestIK",
+    "head_track": "",
+    "id": 80044000,
+    "plane_rotation": [
+      [
+        0.01365788,
+        -0.994932,
+        0.03713229,
+        0.09243929
+      ],
+      [
+        -0.04533571,
+        0.7854667,
+        0.000571066,
+        -0.617241
+      ],
+      [
+        0.5956174,
+        -0.6010711,
+        -0.3793606,
+        0.374218
+      ]
+    ],
+    "plane_scale": [
+      [
+        0.2585227,
+        0.2379306,
+        0.3936299
+      ],
+      [
+        0.2163399,
+        0.05211236,
+        1
+      ],
+      [
+        0.07628826,
+        0.08270419,
+        1
+      ]
+    ],
+    "rect": [
+      -350,
+      -200,
+      600,
+      500
+    ],
+    "sub_targets": [
+      [
+        "Pelvis"
+      ],
+      [
+        "LeftUpperArm"
+      ],
+      [
+        "RightUpperArm"
+      ]
+    ],
+    "timeline_action": "",
+    "tip_offset": "",
+    "tip_text": "",
+    "trigger_param": [
+      2,
+      "Chest"
+    ],
+    "trigger_rect": [
+      -400,
+      -300,
+      700,
+      620
+    ]
+  },
+  "80044001": {
+    "action_back_time": 0,
+    "action_emote": "Face_smile_start",
+    "action_trigger": [
+      3
+    ],
+    "back_time": 0.5,
+    "char_id": 20707,
+    "controller": "YcPayTableHeadIK",
+    "head_track": "",
+    "id": 80044001,
+    "plane_rotation": [
+      [
+        0.108287,
+        -0.8532434,
+        0.2645511,
+        -0.4361907
+      ],
+      [
+        0.6695746,
+        0.02865933,
+        0.04076818,
+        0.7410712
+      ],
+      [
+        -0.6522505,
+        0.2750113,
+        -0.2676717,
+        -0.6536741
+      ]
+    ],
+    "plane_scale": [
+      [
+        0.1591991,
+        0.1629937,
+        0.3936299
+      ],
+      [
+        0.1665905,
+        0.08352619,
+        1
+      ],
+      [
+        0.1180465,
+        0.1432278,
+        1
+      ]
+    ],
+    "rect": [
+      -250,
+      -300,
+      500,
+      500
+    ],
+    "sub_targets": [
+      [
+        "Pelvis"
+      ],
+      [
+        "LeftUpperArm"
+      ],
+      [
+        "RightUpperArm"
+      ]
+    ],
+    "timeline_action": "",
+    "tip_offset": "",
+    "tip_text": "",
+    "trigger_param": [
+      2,
+      "Head"
+    ],
+    "trigger_rect": [
+      -300,
+      -350,
+      700,
+      600
+    ]
+  },
+  "80044002": {
+    "action_back_time": 0,
+    "action_emote": "Face_think_start",
+    "action_trigger": [
+      3
+    ],
+    "back_time": 0.4,
+    "char_id": 20707,
+    "controller": "YcPayTableButtIK",
+    "head_track": "",
+    "id": 80044002,
+    "plane_rotation": [
+      [
+        -0.05446094,
+        0.9963413,
+        0.06476028,
+        -0.01200428
+      ],
+      [
+        0.0365624,
+        -0.9979193,
+        -0.02681134,
+        0.04584184
+      ],
+      [
+        0.384562,
+        0.6208125,
+        0.597621,
+        -0.3309881
+      ]
+    ],
+    "plane_scale": [
+      [
+        0.5158758,
+        0.3048987,
+        0.3936299
+      ],
+      [
+        0.3471213,
+        0.05211236,
+        1
+      ],
+      [
+        0.1180465,
+        0.1432278,
+        1
+      ]
+    ],
+    "rect": [
+      -300,
+      -200,
+      600,
+      400
+    ],
+    "sub_targets": [
+      [
+        "Pelvis"
+      ],
+      [
+        "RightThigh"
+      ],
+      [
+        "LeftThigh"
+      ]
+    ],
+    "timeline_action": "",
+    "tip_offset": "",
+    "tip_text": "",
+    "trigger_param": [
+      2,
+      "Butt"
+    ],
+    "trigger_rect": [
+      -350,
+      -250,
+      700,
+      600
+    ]
+  },
+  "81011000": {
+    "action_back_time": 0,
+    "action_emote": "Face_smile_start",
+    "action_trigger": [
+      3
+    ],
+    "back_time": 0.6,
+    "char_id": 20707,
+    "controller": "YcFreeTableLeftThighIK",
+    "head_track": "",
+    "id": 81011000,
+    "plane_rotation": [
+      [
+        0.108287,
+        -0.8532434,
+        0.2645511,
+        -0.4361907
+      ],
+      [
+        0.03772205,
+        0.2301582,
+        0.1050624,
+        0.9667296
+      ]
+    ],
+    "plane_scale": [
+      [
+        0.1591991,
+        0.1629937,
+        0.3936299
+      ],
+      [
+        0.283272,
+        0.33396,
+        1
+      ]
+    ],
+    "rect": [
+      -450,
+      -160,
+      800,
+      500
+    ],
+    "sub_targets": [
+      [
+        "LeftThigh"
+      ],
+      [
+        "LeftFoot"
+      ]
+    ],
+    "timeline_action": "",
+    "tip_offset": "",
+    "tip_text": "",
+    "trigger_param": [
+      2,
+      "LeftThigh"
+    ],
+    "trigger_rect": [
+      -550,
+      -230,
+      1000,
+      600
+    ]
+  },
+  "81012000": {
+    "action_back_time": 0,
+    "action_emote": "Face_shy_start",
+    "action_trigger": [
+      3
+    ],
+    "back_time": 0.5,
+    "char_id": 20707,
+    "controller": "YcFreeSofaHeadIK",
+    "head_track": "",
+    "id": 81012000,
+    "plane_rotation": [
+      [
+        0.108287,
+        -0.8532434,
+        0.2645511,
+        -0.4361907
+      ],
+      [
+        0.6695746,
+        0.02865933,
+        0.04076818,
+        0.7410712
+      ],
+      [
+        -0.6522505,
+        0.2750113,
+        -0.2676717,
+        -0.6536741
+      ]
+    ],
+    "plane_scale": [
+      [
+        0.1591991,
+        0.1629937,
+        0.3936299
+      ],
+      [
+        0.1665905,
+        0.08352619,
+        1
+      ],
+      [
+        0.1180465,
+        0.1432278,
+        1
+      ]
+    ],
+    "rect": [
+      -250,
+      -300,
+      500,
+      500
+    ],
+    "sub_targets": [
+      [
+        "Pelvis"
+      ],
+      [
+        "LeftUpperArm"
+      ],
+      [
+        "RightUpperArm"
+      ]
+    ],
+    "timeline_action": "",
+    "tip_offset": "",
+    "tip_text": "",
+    "trigger_param": [
+      2,
+      "Head"
+    ],
+    "trigger_rect": [
+      -300,
+      -350,
+      700,
+      600
+    ]
+  },
+  "81013000": {
+    "action_back_time": 0,
+    "action_emote": "Face_shy_start",
+    "action_trigger": [
+      3
+    ],
+    "back_time": 3,
+    "char_id": 20707,
+    "controller": "YcFreeSofaLeftFootIK",
+    "head_track": "",
+    "id": 81013000,
+    "plane_rotation": [
+      [
+        0.108287,
+        -0.8532434,
+        0.2645511,
+        -0.4361907
+      ],
+      [
+        0.01900469,
+        0.6985257,
+        0.0298925,
+        -0.7147079
+      ]
+    ],
+    "plane_scale": [
+      [
+        0.1591991,
+        0.1629937,
+        0.3936299
+      ],
+      [
+        0.5486947,
+        0.1909494,
+        1
+      ]
+    ],
+    "rect": [
+      -400,
+      -350,
+      1000,
+      700
+    ],
+    "sub_targets": [
+      [
+        "LeftThigh"
+      ],
+      [
+        "LeftFoot"
+      ]
+    ],
+    "timeline_action": "`",
+    "tip_offset": "",
+    "tip_text": "",
+    "trigger_param": [
+      2,
+      "LeftFoot"
+    ],
+    "trigger_rect": [
+      -550,
+      -400,
+      1600,
+      900
+    ]
+  },
+  "81021000": {
+    "action_back_time": 0,
+    "action_emote": "Face_shy_start",
+    "action_trigger": [
+      3
+    ],
+    "back_time": 0.4,
+    "char_id": 20707,
+    "controller": "YcFreeTableButtIK",
+    "head_track": "",
+    "id": 81021000,
+    "plane_rotation": [
+      [
+        -0.05446094,
+        0.9963413,
+        0.06476028,
+        -0.01200428
+      ],
+      [
+        0.0365624,
+        -0.9979193,
+        -0.02681134,
+        0.04584184
+      ],
+      [
+        0.384562,
+        0.6208125,
+        0.597621,
+        -0.3309881
+      ]
+    ],
+    "plane_scale": [
+      [
+        0.5158758,
+        0.3048987,
+        0.3936299
+      ],
+      [
+        0.3471213,
+        0.05211236,
+        1
+      ],
+      [
+        0.1180465,
+        0.1432278,
+        1
+      ]
+    ],
+    "rect": [
+      -600,
+      -600,
+      1200,
+      800
+    ],
+    "sub_targets": [
+      [
+        "Pelvis"
+      ],
+      [
+        "RightThigh"
+      ],
+      [
+        "LeftThigh"
+      ]
+    ],
+    "timeline_action": "",
+    "tip_offset": "",
+    "tip_text": "",
+    "trigger_param": [
+      2,
+      "Butt"
+    ],
+    "trigger_rect": [
+      -650,
+      -700,
+      1300,
+      1000
+    ]
+  },
+  "81022000": {
+    "action_back_time": 0,
+    "action_emote": "Face_smile_start",
+    "action_trigger": [
+      3
+    ],
+    "back_time": 0.5,
+    "char_id": 20707,
+    "controller": "YcFreeSofaHeadIK",
+    "head_track": "",
+    "id": 81022000,
+    "plane_rotation": [
+      [
+        0.108287,
+        -0.8532434,
+        0.2645511,
+        -0.4361907
+      ],
+      [
+        0.6695746,
+        0.02865933,
+        0.04076818,
+        0.7410712
+      ],
+      [
+        -0.6522505,
+        0.2750113,
+        -0.2676717,
+        -0.6536741
+      ]
+    ],
+    "plane_scale": [
+      [
+        0.1591991,
+        0.1629937,
+        0.3936299
+      ],
+      [
+        0.1665905,
+        0.08352619,
+        1
+      ],
+      [
+        0.1180465,
+        0.1432278,
+        1
+      ]
+    ],
+    "rect": [
+      -250,
+      -300,
+      500,
+      500
+    ],
+    "sub_targets": [
+      [
+        "Pelvis"
+      ],
+      [
+        "LeftUpperArm"
+      ],
+      [
+        "RightUpperArm"
+      ]
+    ],
+    "timeline_action": "",
+    "tip_offset": "",
+    "tip_text": "",
+    "trigger_param": [
+      2,
+      "Head"
+    ],
+    "trigger_rect": [
+      -300,
+      -350,
+      700,
+      600
+    ]
+  },
+  "81023000": {
+    "action_back_time": 0,
+    "action_emote": "Face_shy_start",
+    "action_trigger": [
+      3
+    ],
+    "back_time": 0.6,
+    "char_id": 20707,
+    "controller": "YcFreeTableLeftThighIK",
+    "head_track": "",
+    "id": 81023000,
+    "plane_rotation": [
+      [
+        0.108287,
+        -0.8532434,
+        0.2645511,
+        -0.4361907
+      ],
+      [
+        0.03772205,
+        0.2301582,
+        0.1050624,
+        0.9667296
+      ]
+    ],
+    "plane_scale": [
+      [
+        0.1591991,
+        0.1629937,
+        0.3936299
+      ],
+      [
+        0.283272,
+        0.33396,
+        1
+      ]
+    ],
+    "rect": [
+      -450,
+      -160,
+      800,
+      500
+    ],
+    "sub_targets": [
+      [
+        "LeftThigh"
+      ],
+      [
+        "LeftFoot"
+      ]
+    ],
+    "timeline_action": "",
+    "tip_offset": "",
+    "tip_text": "",
+    "trigger_param": [
+      2,
+      "LeftThigh"
+    ],
+    "trigger_rect": [
+      -550,
+      -230,
+      1000,
+      600
+    ]
+  },
+  "81031000": {
+    "action_back_time": 0,
+    "action_emote": "Face_smile_start",
+    "action_trigger": [
+      3
+    ],
+    "back_time": 0.6,
+    "char_id": 20707,
+    "controller": "YcFreeSofaRightFootIK",
+    "head_track": "",
+    "id": 81031000,
+    "plane_rotation": [
+      [
+        0.108287,
+        -0.8532434,
+        0.2645511,
+        -0.4361907
+      ],
+      [
+        -0.1157823,
+        0.1825902,
+        0.02321769,
+        0.9760718
+      ]
+    ],
+    "plane_scale": [
+      [
+        0.1591991,
+        0.1629937,
+        0.3936299
+      ],
+      [
+        0.2864678,
+        0.1480047,
+        1
+      ]
+    ],
+    "rect": [
+      -300,
+      0,
+      400,
+      400
+    ],
+    "sub_targets": [
+      [
+        "RightThigh"
+      ],
+      [
+        "RightFoot"
+      ]
+    ],
+    "timeline_action": "",
+    "tip_offset": "",
+    "tip_text": "",
+    "trigger_param": [
+      2,
+      "RightFoot"
+    ],
+    "trigger_rect": [
+      -360,
+      -50,
+      500,
+      500
+    ]
+  },
+  "81032000": {
+    "action_back_time": 0,
+    "action_emote": "Face_shy_start",
+    "action_trigger": [
+      3
+    ],
+    "back_time": 0.4,
+    "char_id": 20707,
+    "controller": "YcFreeSofaChestIK",
+    "head_track": "",
+    "id": 81032000,
+    "plane_rotation": [
+      [
+        0.01365788,
+        -0.994932,
+        0.03713229,
+        0.09243929
+      ],
+      [
+        -0.04533571,
+        0.7854667,
+        0.000571066,
+        -0.617241
+      ],
+      [
+        0.5956174,
+        -0.6010711,
+        -0.3793606,
+        0.374218
+      ]
+    ],
+    "plane_scale": [
+      [
+        0.2585227,
+        0.2379306,
+        0.3936299
+      ],
+      [
+        0.2163399,
+        0.05211236,
+        1
+      ],
+      [
+        0.07628826,
+        0.08270419,
+        1
+      ]
+    ],
+    "rect": [
+      -350,
+      -200,
+      600,
+      500
+    ],
+    "sub_targets": [
+      [
+        "Pelvis"
+      ],
+      [
+        "LeftUpperArm"
+      ],
+      [
+        "RightUpperArm"
+      ]
+    ],
+    "timeline_action": "",
+    "tip_offset": "",
+    "tip_text": "",
+    "trigger_param": [
+      2,
+      "Chest"
+    ],
+    "trigger_rect": [
+      -400,
+      -300,
+      700,
+      620
+    ]
+  },
+  "81033000": {
+    "action_back_time": 0,
+    "action_emote": "Face_shy_start",
+    "action_trigger": [
+      3
+    ],
+    "back_time": 0.4,
+    "char_id": 20707,
+    "controller": "YcFreeSofaRightThighIK",
+    "head_track": "",
+    "id": 81033000,
+    "plane_rotation": [
+      [
+        -7.100544e-8,
+        0.2907661,
+        -6.045717e-8,
+        0.9567942
+      ],
+      [
+        -0.102433,
+        -0.2705797,
+        -0.1301688,
+        -0.9483408
+      ]
+    ],
+    "plane_scale": [
+      [
+        0.1076006,
+        0.1247637,
+        0.3936299
+      ],
+      [
+        0.283272,
+        0.33396,
+        1
+      ]
+    ],
+    "rect": [
+      -200,
+      -130,
+      600,
+      600
+    ],
+    "sub_targets": [
+      [
+        "RightThigh"
+      ],
+      [
+        "RightFoot"
+      ]
+    ],
+    "timeline_action": "",
+    "tip_offset": "",
+    "tip_text": "",
+    "trigger_param": [
+      2,
+      "RightThigh"
+    ],
+    "trigger_rect": [
+      -300,
+      -230,
+      750,
+      750
+    ]
+  },
+  "81041000": {
+    "action_back_time": 0,
+    "action_emote": "Face_shy_start",
+    "action_trigger": [
+      3
+    ],
+    "back_time": 0.4,
+    "char_id": 20707,
+    "controller": "YcPayTableRightThighIK",
+    "head_track": "",
+    "id": 81041000,
+    "plane_rotation": [
+      [
+        -2.977286e-8,
+        0.7416635,
+        -8.837656e-8,
+        0.6707723
+      ],
+      [
+        0.0000712728,
+        -0.7993484,
+        -0.1656396,
+        -0.5775861
+      ]
+    ],
+    "plane_scale": [
+      [
+        0.4397046,
+        0.1247637,
+        0.3936299
+      ],
+      [
+        1.814199,
+        0.2008369,
+        0.54768
+      ]
+    ],
+    "rect": [
+      -700,
+      -130,
+      830,
+      400
+    ],
+    "sub_targets": [
+      [
+        "RightThigh"
+      ],
+      [
+        "RightFoot"
+      ]
+    ],
+    "timeline_action": "",
+    "tip_offset": "",
+    "tip_text": "",
+    "trigger_param": [
+      2,
+      "RightThigh"
+    ],
+    "trigger_rect": [
+      -800,
+      -230,
+      950,
+      650
+    ]
+  },
+  "81041001": {
+    "action_back_time": 0,
+    "action_emote": "Face_think_start",
+    "action_trigger": [
+      3
+    ],
+    "back_time": 3,
+    "char_id": 20707,
+    "controller": "YcPayTableLeftFootIK",
+    "head_track": "",
+    "id": 81041001,
+    "plane_rotation": [
+      [
+        0.108287,
+        -0.8532434,
+        0.2645511,
+        -0.4361907
+      ],
+      [
+        0.03033449,
+        0.7310609,
+        -0.01829096,
+        0.6813922
+      ]
+    ],
+    "plane_scale": [
+      [
+        0.1591991,
+        0.1629937,
+        0.3936299
+      ],
+      [
+        0.6762661,
+        0.3725805,
+        1
+      ]
+    ],
+    "rect": [
+      -200,
+      -350,
+      1000,
+      500
+    ],
+    "sub_targets": [
+      [
+        "LeftThigh"
+      ],
+      [
+        "LeftFoot"
+      ]
+    ],
+    "timeline_action": "",
+    "tip_offset": "",
+    "tip_text": "",
+    "trigger_param": [
+      2,
+      "LeftFoot"
+    ],
+    "trigger_rect": [
+      -350,
+      -400,
+      1200,
+      700
+    ]
+  },
+  "81042000": {
+    "action_back_time": 0,
+    "action_emote": "Face_smile_start",
+    "action_trigger": [
+      3
+    ],
+    "back_time": 0.5,
+    "char_id": 20707,
+    "controller": "YcFreeSofaHeadIK",
+    "head_track": "",
+    "id": 81042000,
+    "plane_rotation": [
+      [
+        0.108287,
+        -0.8532434,
+        0.2645511,
+        -0.4361907
+      ],
+      [
+        0.6695746,
+        0.02865933,
+        0.04076818,
+        0.7410712
+      ],
+      [
+        -0.6522505,
+        0.2750113,
+        -0.2676717,
+        -0.6536741
+      ]
+    ],
+    "plane_scale": [
+      [
+        0.1591991,
+        0.1629937,
+        0.3936299
+      ],
+      [
+        0.1665905,
+        0.08352619,
+        1
+      ],
+      [
+        0.1180465,
+        0.1432278,
+        1
+      ]
+    ],
+    "rect": [
+      -250,
+      -300,
+      500,
+      500
+    ],
+    "sub_targets": [
+      [
+        "Pelvis"
+      ],
+      [
+        "LeftUpperArm"
+      ],
+      [
+        "RightUpperArm"
+      ]
+    ],
+    "timeline_action": "",
+    "tip_offset": "",
+    "tip_text": "",
+    "trigger_param": [
+      2,
+      "Head"
+    ],
+    "trigger_rect": [
+      -300,
+      -350,
+      700,
+      600
+    ]
+  },
+  "81042001": {
+    "action_back_time": 0,
+    "action_emote": "Face_smile_start",
+    "action_trigger": [
+      3
+    ],
+    "back_time": 0.6,
+    "char_id": 20707,
+    "controller": "YcPayTableLeftThighIK",
+    "head_track": "",
+    "id": 81042001,
+    "plane_rotation": [
+      [
+        0.108287,
+        -0.8532434,
+        0.2645511,
+        -0.4361907
+      ],
+      [
+        0.03772205,
+        0.2301582,
+        0.1050624,
+        0.9667296
+      ]
+    ],
+    "plane_scale": [
+      [
+        0.1591991,
+        0.1629937,
+        0.3936299
+      ],
+      [
+        0.283272,
+        0.33396,
+        1
+      ]
+    ],
+    "rect": [
+      -450,
+      -160,
+      800,
+      500
+    ],
+    "sub_targets": [
+      [
+        "LeftThigh"
+      ],
+      [
+        "LeftFoot"
+      ]
+    ],
+    "timeline_action": "",
+    "tip_offset": "",
+    "tip_text": "",
+    "trigger_param": [
+      2,
+      "LeftThigh"
+    ],
+    "trigger_rect": [
+      -550,
+      -230,
+      1000,
+      600
+    ]
+  },
+  "81043000": {
+    "action_back_time": 0,
+    "action_emote": "Face_smile_start",
+    "action_trigger": [
+      3
+    ],
+    "back_time": 0.4,
+    "char_id": 20707,
+    "controller": "YcPayTableLeftHandIK",
+    "head_track": "",
+    "id": 81043000,
+    "plane_rotation": [
+      [
+        0.03605693,
+        0.9950993,
+        -0.05978212,
+        -0.07002493
+      ],
+      [
+        -0.02535084,
+        -0.08509991,
+        -0.03758971,
+        -0.9953404
+      ]
+    ],
+    "plane_scale": [
+      [
+        0.3247071,
+        0.4256923,
+        0.3936299
+      ],
+      [
+        0.1816312,
+        0.05211236,
+        1
+      ]
+    ],
+    "rect": [
+      -200,
+      0,
+      600,
+      300
+    ],
+    "sub_targets": [
+      [
+        "LeftHand"
+      ],
+      [
+        "LeftUpperArm"
+      ]
+    ],
+    "timeline_action": "",
+    "tip_offset": "",
+    "tip_text": "",
+    "trigger_param": [
+      2,
+      "LeftHand"
+    ],
+    "trigger_rect": [
+      -250,
+      0,
+      800,
+      500
+    ]
+  },
+  "81044000": {
+    "action_back_time": 0,
+    "action_emote": "Face_shy_start",
+    "action_trigger": [
+      3
+    ],
+    "back_time": 0.4,
+    "char_id": 20707,
+    "controller": "YcPayTableChestIK",
+    "head_track": "",
+    "id": 81044000,
+    "plane_rotation": [
+      [
+        0.01365788,
+        -0.994932,
+        0.03713229,
+        0.09243929
+      ],
+      [
+        -0.04533571,
+        0.7854667,
+        0.000571066,
+        -0.617241
+      ],
+      [
+        0.5956174,
+        -0.6010711,
+        -0.3793606,
+        0.374218
+      ]
+    ],
+    "plane_scale": [
+      [
+        0.2585227,
+        0.2379306,
+        0.3936299
+      ],
+      [
+        0.2163399,
+        0.05211236,
+        1
+      ],
+      [
+        0.07628826,
+        0.08270419,
+        1
+      ]
+    ],
+    "rect": [
+      -350,
+      -200,
+      600,
+      500
+    ],
+    "sub_targets": [
+      [
+        "Pelvis"
+      ],
+      [
+        "LeftUpperArm"
+      ],
+      [
+        "RightUpperArm"
+      ]
+    ],
+    "timeline_action": "",
+    "tip_offset": "",
+    "tip_text": "",
+    "trigger_param": [
+      2,
+      "Chest"
+    ],
+    "trigger_rect": [
+      -400,
+      -300,
+      700,
+      620
+    ]
+  },
+  "81044001": {
+    "action_back_time": 0,
+    "action_emote": "Face_smile_start",
+    "action_trigger": [
+      3
+    ],
+    "back_time": 0.5,
+    "char_id": 20707,
+    "controller": "YcPayTableHeadIK",
+    "head_track": "",
+    "id": 81044001,
+    "plane_rotation": [
+      [
+        0.108287,
+        -0.8532434,
+        0.2645511,
+        -0.4361907
+      ],
+      [
+        0.6695746,
+        0.02865933,
+        0.04076818,
+        0.7410712
+      ],
+      [
+        -0.6522505,
+        0.2750113,
+        -0.2676717,
+        -0.6536741
+      ]
+    ],
+    "plane_scale": [
+      [
+        0.1591991,
+        0.1629937,
+        0.3936299
+      ],
+      [
+        0.1665905,
+        0.08352619,
+        1
+      ],
+      [
+        0.1180465,
+        0.1432278,
+        1
+      ]
+    ],
+    "rect": [
+      -250,
+      -300,
+      500,
+      500
+    ],
+    "sub_targets": [
+      [
+        "Pelvis"
+      ],
+      [
+        "LeftUpperArm"
+      ],
+      [
+        "RightUpperArm"
+      ]
+    ],
+    "timeline_action": "",
+    "tip_offset": "",
+    "tip_text": "",
+    "trigger_param": [
+      2,
+      "Head"
+    ],
+    "trigger_rect": [
+      -300,
+      -350,
+      700,
+      600
+    ]
+  },
+  "81044002": {
+    "action_back_time": 0,
+    "action_emote": "Face_think_start",
+    "action_trigger": [
+      3
+    ],
+    "back_time": 0.4,
+    "char_id": 20707,
+    "controller": "YcPayTableButtIK",
+    "head_track": "",
+    "id": 81044002,
+    "plane_rotation": [
+      [
+        -0.05446094,
+        0.9963413,
+        0.06476028,
+        -0.01200428
+      ],
+      [
+        0.0365624,
+        -0.9979193,
+        -0.02681134,
+        0.04584184
+      ],
+      [
+        0.384562,
+        0.6208125,
+        0.597621,
+        -0.3309881
+      ]
+    ],
+    "plane_scale": [
+      [
+        0.5158758,
+        0.3048987,
+        0.3936299
+      ],
+      [
+        0.3471213,
+        0.05211236,
+        1
+      ],
+      [
+        0.1180465,
+        0.1432278,
+        1
+      ]
+    ],
+    "rect": [
+      -300,
+      -200,
+      600,
+      400
+    ],
+    "sub_targets": [
+      [
+        "Pelvis"
+      ],
+      [
+        "RightThigh"
+      ],
+      [
+        "LeftThigh"
+      ]
+    ],
+    "timeline_action": "",
+    "tip_offset": "",
+    "tip_text": "",
+    "trigger_param": [
+      2,
+      "Butt"
+    ],
+    "trigger_rect": [
+      -350,
+      -250,
+      700,
+      600
+    ]
+  },
   "all": [
     1001,
     1002,
@@ -52192,6 +54626,40 @@
     71042001,
     71043000,
     71044001,
-    71044002
+    71044002,
+    80011000,
+    80012000,
+    80013000,
+    80021000,
+    80022000,
+    80023000,
+    80031000,
+    80032000,
+    80033000,
+    80041000,
+    80041001,
+    80042000,
+    80042001,
+    80043000,
+    80044000,
+    80044001,
+    80044002,
+    81011000,
+    81012000,
+    81013000,
+    81021000,
+    81022000,
+    81023000,
+    81031000,
+    81032000,
+    81033000,
+    81041000,
+    81041001,
+    81042000,
+    81042001,
+    81043000,
+    81044000,
+    81044001,
+    81044002
   ]
 }

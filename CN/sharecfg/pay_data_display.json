@@ -14089,6 +14089,92 @@
     "type": 0,
     "type_order": 6
   },
+  "1030": {
+    "airijp_id": "com.yostarjp.azurlane.seasonpass31",
+    "akashi_pick": 1,
+    "cash_show": 0,
+    "descrip": "可获得1500巡游点数，同时解锁特许巡游奖励·格拉哈姆限定换装和其他奖励",
+    "descrip_extra": "*需要通过任务达成对应巡游进度后才可获取",
+    "display": [
+      [
+        8,
+        59599,
+        1500
+      ]
+    ],
+    "drop_item": [],
+    "extra_gem": 0,
+    "extra_service": 4,
+    "extra_service_item": [
+      [
+        1,
+        4031,
+        1500
+      ],
+      [
+        8,
+        65121,
+        1
+      ]
+    ],
+    "first_icon": "",
+    "first_pay_double": 0,
+    "first_text": "",
+    "gem": 0,
+    "id": 1030,
+    "id_str": "com.bilibili.blhx.battlepass32",
+    "ignorePlatform": [],
+    "limit_arg": 1,
+    "limit_args": [],
+    "limit_group": 0,
+    "limit_type": 2,
+    "money": 68,
+    "name": "特许巡游凭证(2026.10)",
+    "name_display": "特许巡游凭证",
+    "package_sort_id": 0,
+    "package_tag": "",
+    "package_tag_open": 0,
+    "picture": "battlepass_1",
+    "second_text": "",
+    "show_group": "",
+    "skin_inquire_relation": 0,
+    "sub_display": [
+      7031,
+      1500
+    ],
+    "subject": "特许巡游凭证",
+    "tag": 2,
+    "time": [
+      [
+        [
+          2026,
+          10,
+          1
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2026,
+          11,
+          30
+        ],
+        [
+          22,
+          59,
+          59
+        ]
+      ]
+    ],
+    "tip": "",
+    "tip_open": 0,
+    "type": 0,
+    "type_order": 6
+  },
   "1302": {
     "airijp_id": "com.yostarjp.azurlane.seasonpass301",
     "akashi_pick": 1,
@@ -25910,6 +25996,7 @@
     1027,
     1028,
     1029,
+    1030,
     1302,
     2001,
     2002,
@@ -26265,6 +26352,7 @@
       1027,
       1028,
       1029,
+      1030,
       1302
     ],
     "6": [

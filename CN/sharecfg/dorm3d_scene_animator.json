@@ -169,6 +169,41 @@
     "item_name": "FurnitureSlots/2210201/pre_db_naximofu_basement01(Clone)/all/fbx_db_nxmf_equipment01/vfx_desk02",
     "room_id": 21
   },
+  "4001": {
+    "id": 4001,
+    "item_name": "no_bake_pay_prop/livingroom/pre_db_yc_livingroom01_0/pre_db_yc_chair01_0",
+    "room_id": 22
+  },
+  "4002": {
+    "id": 4002,
+    "item_name": "FurnitureSlots/2220202/pre_db_yuanchou01_chamber02(Clone)/pre_db_yc_table01",
+    "room_id": 22
+  },
+  "4003": {
+    "id": 4003,
+    "item_name": "FurnitureSlots/2220202/pre_db_yuanchou01_chamber02(Clone)/pre_db_yc_table01/vfx_bomb01",
+    "room_id": 22
+  },
+  "4004": {
+    "id": 4004,
+    "item_name": "FurnitureSlots/2220202/pre_db_yuanchou01_chamber02(Clone)/pre_db_yc_table01/vfx_bomb02",
+    "room_id": 22
+  },
+  "4005": {
+    "id": 4005,
+    "item_name": "FurnitureSlots/2220202/pre_db_yuanchou01_chamber02(Clone)/pre_db_yc_table01/vfx_bomb_g",
+    "room_id": 22
+  },
+  "4006": {
+    "id": 4006,
+    "item_name": "FurnitureSlots/2220202/pre_db_yuanchou01_chamber02(Clone)/pre_db_yc_table01/all/Bone_PZ1/vfx_moping",
+    "room_id": 22
+  },
+  "4007": {
+    "id": 4007,
+    "item_name": "FurnitureSlots/2220202/pre_db_yuanchou01_chamber02(Clone)/pre_db_yc_table01/all/bone_all/bone_yc_cup_01/bone_yc_cup_02/bone_yc_cup_03/vfx_bomb03",
+    "room_id": 22
+  },
   "all": [
     2001,
     2002,
@@ -203,7 +238,14 @@
     3002,
     3003,
     3004,
-    3005
+    3005,
+    4001,
+    4002,
+    4003,
+    4004,
+    4005,
+    4006,
+    4007
   ],
   "get_id_list_by_room_id": {
     "1": [
@@ -257,6 +299,15 @@
       3003,
       3004,
       3005
+    ],
+    "22": [
+      4001,
+      4002,
+      4003,
+      4004,
+      4005,
+      4006,
+      4007
     ]
   }
 }

@@ -2196,6 +2196,9 @@
       }
     ]
   },
+  "auto_battle_in_world": {
+    "tip": "有正在进行的作战委托，无法执行新的作战委托"
+  },
   "auto_battle_info_tips": {
     "tip": "※作战委托将产出大讲堂熟练度，使用一本作战全权委托书可为一次作战委托追加额外产出\n※单次时间为目标关卡一次未中断且全程自律的连续作战通关的最短时间，舰队跨射不影响计算"
   },
@@ -2273,6 +2276,12 @@
   },
   "auto_chapter_unlock_tip": {
     "tip": "完成一次未中断且全程自律的连续作战后开启"
+  },
+  "auto_download_btn": {
+    "tip": "前往设置"
+  },
+  "auto_download_tip": {
+    "tip": "已开启自动下载（$1），请注意流量消耗\n\n可前往设置-资源-资源管理界面查看下载进度"
   },
   "auto_drop_is_activation": {
     "tip": "正在进行关卡<color=#92fc63>$1</color>的作战委托，请等待作战委托完成"
@@ -3537,6 +3546,13 @@
       }
     ]
   },
+  "battlepass_main_help_2610": {
+    "tip": [
+      {
+        "info": "世界巡游(2026.10.1-2026.11.30)\n\n·<color=#92fc63>开放时间</color>\n 2026.10.1 0点 ~ 2026.11.30 23:59:59\n\n·<color=#92fc63>巡游进度说明</color>\n（1）活动期间，指挥官通过完成巡游任务，可获取「巡游点数」。\n（2）巡游任务随时间开放解锁。\n（3）每获取100点「巡游点数」即可增加1巡游进度\n（4）巡游进度提升后可以获取相应等级的奖励，巡游进度最高可达100。\n\n·<color=#92fc63>奖励规则</color>\n巡游进度奖励分为两种：\n（1）基础巡游奖励：包含<color=#ff5c5c>「灵敏·META」</color>、<color=#ff5c5c>心智魔方</color>、<color=#ff5c5c>高级定向蓝图·九期</color>等奖励；\n 当巡游达到指定进度时，指挥官可以直接领取相应的基础巡游奖励。\n（2）特许巡游奖励：包含<color=#ff5c5c>格拉哈姆换装「漫游微缩世界 </color>」、<color=#ff5c5c>钻石</color>等奖励；\n 购买「特许巡游凭证」，且巡游达到指定进度时，可以领取特许巡游奖励。\n 注：购买「特许巡游凭证」后，不会影响基础巡游奖励的领取。\n\n·<color=#92fc63>「特许巡游凭证」说明</color>\n（1）「特许巡游凭证」可于「商店」-「优惠礼包」中购买，购买后可立刻获得<color=#ff5c5c>1500点</color>「巡游点数」同时解锁特许巡游奖励。\n（2）「特许巡游凭证」将于<color=#ff5c5c>活动结束前一小时</color>停止售卖(即11.30 22:59:59停止)，请指挥官注意购买时间。\n\n·<color=#92fc63>任务说明</color>\n巡游任务分为两种：\n（1）每周任务 \n 巡游任务中共有8组每周任务。自活动开始后解锁第一周任务，之后每周一的0点解锁下一组每周任务\n（2）S.P.任务\n S.P.任务为一组特殊任务，在活动开始后会直接处于全部解锁状态。\n（3）巡游任务在解锁后将自动接取，满足任务完成条件时，会自动完成并获取对应奖励。\n\n·<color=#92fc63>「巡游任务快速完成券」说明</color>\n（1）「巡游任务快速完成券」可以在巡游任务界面使用，花费一定数量的「巡游任务快速完成券」可以直接完成大部分巡游任务\n（2）在「巡游任务快速完成券」数量不足时，指挥官可花费钻石进行补齐\n（3）每个巡游任务需要消耗的完成券数量固定，与当前任务进度无关\n（4）「巡游任务快速完成券」不会随本期活动结束而消失\n\n·<color=#ff5c5c>特别提示</color>\n（1）在本期世界巡游活动结束后，所有巡游任务将会无法继续完成，所有巡游奖励将会无法继续领取，请各位指挥官务必注意活动结束时间，提前领取奖励。\n（2）巡游进度、[特许巡游凭证]仅对本期世界巡游活动生效"
+      }
+    ]
+  },
   "battlepass_main_time": {
     "tip": "$1天$2时"
   },
@@ -3641,6 +3657,9 @@
   },
   "battlepass_main_tip_2608": {
     "tip": "2026/8/1-2026/9/30期间，完成巡游任务累计<icon name=pt w=0.5 h=0.5/>可获取<color=#854747>「诺菈·META 」</color>在内的丰富奖励"
+  },
+  "battlepass_main_tip_2610": {
+    "tip": "2026/10/1-2026/11/30期间，完成巡游任务累计<icon name=pt w=0.5 h=0.5/>可获取<color=#854747>「灵敏·META 」</color>在内的丰富奖励"
   },
   "battlepass_pay_acquire": {
     "tip": "购买后立即获得："
@@ -6848,6 +6867,9 @@
   "cruise_btn_pay": {
     "tip": "解锁特许巡游奖励"
   },
+  "cruise_btn_pay_prev": {
+    "tip": "解锁上期特许巡游奖励"
+  },
   "cruise_limit_count": {
     "tip": "已达本月可购买数量上限"
   },
@@ -7082,6 +7104,13 @@
       }
     ]
   },
+  "cruise_task_help_2610": {
+    "tip": [
+      {
+        "info": "巡游任务说明\n\n·<color=#92fc63>开放时间</color>\n 2026.10.1 0点 ~ 2026.11.30 23:59:59\n\n·<color=#92fc63>巡游任务分为两种</color>\n（1）每周任务\n 巡游任务中共有8组每周任务。自活动开始后解锁第一周任务，之后每周一的0点解锁下一组每周任务。\n（2）S.P.任务\n S.P.任务为一组特殊任务，在活动开始后会直接处于全部解锁状态。\n（3）巡游任务在解锁后将自动接取，满足任务完成条件时，会自动完成并获取对应奖励\n\n·<color=#92fc63>「巡游任务快速完成券」说明</color>\n（1）「巡游任务快速完成券」可以在巡游任务界面使用，花费一定数量的「巡游任务快速完成券」可以直接完成每周巡游任务\n（2）在「巡游任务快速完成券」数量不足时，指挥官可花费钻石进行补齐\n（3）每个巡游任务需要消耗的「巡游任务快速完成券」数量和其提供的「巡游点数」相关，与当前任务进度无关\n（4）「巡游任务快速完成券」<color=#92fc63>不会随本期活动结束而消失</color>"
+      }
+    ]
+  },
   "cruise_task_phase": {
     "tip": "巡游进度 | PHASE.$1"
   },
@@ -7147,6 +7176,9 @@
   },
   "cruise_title_2608": {
     "tip": "世界巡游·第三十期"
+  },
+  "cruise_title_2610": {
+    "tip": "世界巡游·第三十一期"
   },
   "cryptolalia_coming_soom": {
     "tip": "制作中……"
@@ -8406,6 +8438,15 @@
   },
   "dorm3d_xinzexi_table": {
     "tip": "餐厅"
+  },
+  "dorm3d_yuanchou_bed": {
+    "tip": "卧室"
+  },
+  "dorm3d_yuanchou_chair": {
+    "tip": "客厅"
+  },
+  "dorm3d_yuanchou_table": {
+    "tip": "密室"
   },
   "dorm_2f_lock": {
     "tip": "未解锁"
@@ -19435,6 +19476,9 @@
   "loading_chosen_blank": {
     "tip": "暂无符合条件的图片"
   },
+  "loading_flow_tip": {
+    "tip": "正在使用移动数据下载资源，请注意流量消耗 "
+  },
   "loading_pic_btn": {
     "tip": "过场图"
   },
@@ -24681,6 +24725,9 @@
   "series_enemy_unlock": {
     "tip": "请按照顺序依次推进关卡 "
   },
+  "setting_download_basic_assets": {
+    "tip": "基础资源下载"
+  },
   "setting_group_prefs_tip": {
     "tip": "启动时默认下载"
   },
@@ -24722,6 +24769,9 @@
   },
   "setting_resdownload_title_sound": {
     "tip": "语音包资源更新"
+  },
+  "setting_restart_download_btn": {
+    "tip": "继续下载"
   },
   "setting_story_speed_1": {
     "tip": "慢"
@@ -29697,6 +29747,51 @@
         "info": "信标档案功能说明\n\n1. 信标档案中的META舰船同步值会继承，累计同步值奖励无法重复获取\n2.指挥官可以在信标档案中开启档案解析、切换解析、领取同步值奖励\n3.META舰船同步值奖励全部领取完后会进入解析完毕分页，指挥官可以在分页中查看"
       }
     ]
+  },
+  "world_auto_buy_unlock": {
+    "tip": "<icon name=lock /> 购买使用<icon name=icon w=0.3 h=0.3 />后解锁"
+  },
+  "world_auto_level_all": {
+    "tip": "全部"
+  },
+  "world_auto_level_less_3": {
+    "tip": "3及以下"
+  },
+  "world_auto_plan_award": {
+    "tip": "委托产出"
+  },
+  "world_auto_plan_cancel_tip": {
+    "tip": "是否取消作战委托"
+  },
+  "world_auto_plan_error_tip1": {
+    "tip": "有正在执行的作战委托"
+  },
+  "world_auto_plan_error_tip2": {
+    "tip": "资源不足，无法进行委托"
+  },
+  "world_auto_plan_error_tip3": {
+    "tip": "当前没有更多可以委派的海域"
+  },
+  "world_auto_plan_error_tip4": {
+    "tip": "已完成的委托奖励已转化为相应数量的「战备物资兑换券」"
+  },
+  "world_auto_plan_error_tip5": {
+    "tip": "完成1次侵蚀等级6的普通海域压制后，购买使用隐秘海域信息记录仪解锁"
+  },
+  "world_auto_plan_error_tip6": {
+    "tip": "大型作战将要进行重置，是否结算当前作战委托奖励\n\n当前存在尚未完成的作战委托，可等待当前委托结束后再执行重置。若确认结算，将立刻结算正在进行的作战委托并重置大型作战"
+  },
+  "world_auto_plan_in_progress": {
+    "tip": "作战委托进行中"
+  },
+  "world_auto_plan_level": {
+    "tip": "需要委托的侵蚀等级"
+  },
+  "world_auto_plan_progress": {
+    "tip": "完成进度"
+  },
+  "world_auto_plan_quantity": {
+    "tip": "海域数量选择"
   },
   "world_automode_cancel": {
     "tip": "取消"

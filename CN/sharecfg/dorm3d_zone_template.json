@@ -399,6 +399,36 @@
     "type_prioritys": "",
     "watch_camera": "Chair"
   },
+  "22001": {
+    "id": 22001,
+    "is_global": 0,
+    "name": "卧室",
+    "room_id": 22,
+    "special_action": "",
+    "touch_id": "",
+    "type_prioritys": "",
+    "watch_camera": "Bed"
+  },
+  "22002": {
+    "id": 22002,
+    "is_global": 0,
+    "name": "密室",
+    "room_id": 22,
+    "special_action": "",
+    "touch_id": "",
+    "type_prioritys": "",
+    "watch_camera": "Table"
+  },
+  "22003": {
+    "id": 22003,
+    "is_global": 0,
+    "name": "客厅",
+    "room_id": 22,
+    "special_action": "",
+    "touch_id": "",
+    "type_prioritys": "",
+    "watch_camera": "Chair"
+  },
   "26001": {
     "id": 26001,
     "is_global": 0,
@@ -461,6 +491,9 @@
     21001,
     21002,
     21003,
+    22001,
+    22002,
+    22003,
     26001,
     26002,
     26003
@@ -514,6 +547,11 @@
       21001,
       21002,
       21003
+    ],
+    "22": [
+      22001,
+      22002,
+      22003
     ],
     "26": [
       26001,

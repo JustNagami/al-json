@@ -936,6 +936,76 @@
     "type": 2,
     "unlock_item": []
   },
+  "22": {
+    "ar_anim": [
+      [
+        20707,
+        [
+          22001,
+          22002,
+          22003,
+          22004,
+          22005,
+          22006,
+          22007,
+          22008,
+          22009,
+          22010,
+          22011,
+          22012,
+          22013,
+          22014,
+          22015
+        ]
+      ]
+    ],
+    "assets_prefix": "Yuanchou",
+    "character": [
+      20707
+    ],
+    "character_pay": [],
+    "character_range": [
+      1
+    ],
+    "character_welcome": [
+      [
+        20707,
+        0
+      ]
+    ],
+    "default_zone": [
+      [
+        20707,
+        "Chair"
+      ]
+    ],
+    "furniture_zones": [
+      22001,
+      22002,
+      22003
+    ],
+    "id": 22,
+    "in_map": "floor_3",
+    "invite_banner": "",
+    "invite_cost": "",
+    "invite_icon": "",
+    "invite_mark": "",
+    "is_common": 0,
+    "recall_list": [
+      221,
+      222,
+      223,
+      224
+    ],
+    "resource_name": "Yuanchou_DB",
+    "room": "怨仇",
+    "room_bgm": "story-room-implacable",
+    "room_des": "",
+    "scene_info": "map_yuanchou_01|Yuanchou_DB/Yuanchouhostel",
+    "tag": "",
+    "type": 2,
+    "unlock_item": []
+  },
   "26": {
     "ar_anim": [
       [
@@ -947,12 +1017,23 @@
           26004,
           26005
         ]
+      ],
+      [
+        20707,
+        [
+          26006,
+          26007,
+          26008,
+          26009,
+          26010
+        ]
       ]
     ],
     "assets_prefix": "Carwash",
     "character": [],
     "character_pay": [
-      79902
+      79902,
+      20707
     ],
     "character_range": [
       0,
@@ -962,12 +1043,20 @@
       [
         79902,
         0
+      ],
+      [
+        20707,
+        0
       ]
     ],
     "default_zone": [
       [
         79902,
         "Parking"
+      ],
+      [
+        20707,
+        "Relax"
       ]
     ],
     "furniture_zones": [],
@@ -979,23 +1068,44 @@
         [
           "banner_carwash1"
         ]
+      ],
+      [
+        20707,
+        [
+          "banner_carwash2"
+        ]
       ]
     ],
     "invite_cost": [
       [
         79902,
         270121
+      ],
+      [
+        20707,
+        270122
       ]
     ],
     "invite_icon": [
       [
         79902,
         "dorm3dicon/3Ddrom_invitation"
+      ],
+      [
+        20707,
+        "dorm3dicon/3Ddrom_invitation"
       ]
     ],
     "invite_mark": [
       [
         79902,
+        [
+          5,
+          6
+        ]
+      ],
+      [
+        20707,
         [
           5,
           6
@@ -1030,6 +1140,7 @@
     14,
     16,
     21,
+    22,
     26
   ],
   "get_id_list_by_in_map": {
@@ -1048,6 +1159,7 @@
     ],
     "floor_3": [
       21,
+      22,
       26
     ]
   }
