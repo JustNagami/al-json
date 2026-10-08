@@ -6,7 +6,9 @@
       [
         1,
         "oversleeve",
-        "all/hoodie_geo"
+        [
+          "all/hoodie_geo"
+        ]
       ]
     ],
     "hidden_part_apply_in_timeline": 0,
@@ -241,7 +243,15 @@
   "207071": {
     "animator": "",
     "head_Icon": "dorm3Dchar/yuanchou",
-    "hidden_part": [],
+    "hidden_part": [
+      [
+        1,
+        "tsuno",
+        [
+          "all/hair_acc_geo"
+        ]
+      ]
+    ],
     "hidden_part_apply_in_timeline": 0,
     "hx_component": "",
     "hx_material": [
@@ -271,7 +281,16 @@
   "207072": {
     "animator": "",
     "head_Icon": "dorm3Dchar/yuanchou",
-    "hidden_part": [],
+    "hidden_part": [
+      [
+        1,
+        "tsuno",
+        [
+          "all/hair_acc",
+          "all/hair_acc_transparent"
+        ]
+      ]
+    ],
     "hidden_part_apply_in_timeline": 0,
     "hx_component": "",
     "hx_material": [
@@ -308,7 +327,16 @@
   "207073": {
     "animator": "",
     "head_Icon": "dorm3Dchar/yuanchou",
-    "hidden_part": [],
+    "hidden_part": [
+      [
+        1,
+        "tsuno",
+        [
+          "all/hair_acc",
+          "all/hair_acc_transparent"
+        ]
+      ]
+    ],
     "hidden_part_apply_in_timeline": 0,
     "hx_component": "",
     "hx_material": [
@@ -342,7 +370,7 @@
   "207074": {
     "animator": "",
     "head_Icon": "dorm3Dchar/yuanchou",
-    "hidden_part": [],
+    "hidden_part": "",
     "hidden_part_apply_in_timeline": 0,
     "hx_component": "",
     "hx_material": [
@@ -437,7 +465,9 @@
       [
         1,
         "oversleeve",
-        "all/cloth_2_geo"
+        [
+          "all/cloth_2_geo"
+        ]
       ]
     ],
     "hidden_part_apply_in_timeline": 0,

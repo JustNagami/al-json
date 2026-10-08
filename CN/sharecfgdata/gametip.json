@@ -315,6 +315,120 @@
   "AR_plane_summon_success": {
     "tip": "呼出角色成功"
   },
+  "ActivityRemasterCoreActivityAdaptUI_TITLE": {
+    "tip": "活动汇总"
+  },
+  "ActivityRemasterCoreActivityAdaptUI_TITLE_EN": {
+    "tip": "ACTIVITY"
+  },
+  "ActivityRemasterCore_award_own_desc": {
+    "tip": "已获得：<color=#39bfff>$1</color>"
+  },
+  "ActivityRemasterCore_award_preview_btn": {
+    "tip": "奖励汇总"
+  },
+  "ActivityRemasterCore_award_preview_es": {
+    "tip": "外观装备($1)"
+  },
+  "ActivityRemasterCore_award_preview_other": {
+    "tip": "其他($1)"
+  },
+  "ActivityRemasterCore_award_preview_ship": {
+    "tip": "角色($1)"
+  },
+  "ActivityRemasterCore_award_preview_title": {
+    "tip": "活动期间限定奖励"
+  },
+  "ActivityRemasterCore_re2_1": {
+    "tip": "铁翼擎风"
+  },
+  "ActivityRemasterCore_re2_2": {
+    "tip": "铁翼擎风"
+  },
+  "ActivityRemasterCore_re2_3": {
+    "tip": "作战准备"
+  },
+  "ActivityRemasterCore_re2_4": {
+    "tip": "朱红迷局"
+  },
+  "ActivityRemasterCore_re2_5": {
+    "tip": "建造支援"
+  },
+  "ActivityRemasterCore_re3_1": {
+    "tip": "唤醒苍红之炎"
+  },
+  "ActivityRemasterCore_re3_2": {
+    "tip": "唤醒苍红之炎"
+  },
+  "ActivityRemasterCore_re3_3": {
+    "tip": "作战准备"
+  },
+  "ActivityRemasterCore_re3_4": {
+    "tip": "汇聚于此岸之尘"
+  },
+  "ActivityRemasterCore_re3_5": {
+    "tip": "建造支援"
+  },
+  "ActivityRemasterCore_re4_1": {
+    "tip": "星光下的余晖"
+  },
+  "ActivityRemasterCore_re4_2": {
+    "tip": "星光下的余晖"
+  },
+  "ActivityRemasterCore_re4_3": {
+    "tip": "作战准备"
+  },
+  "ActivityRemasterCore_re4_4": {
+    "tip": "领域外的归途"
+  },
+  "ActivityRemasterCore_re4_5": {
+    "tip": "建造支援"
+  },
+  "ActivityRemasterCore_re4_6": {
+    "tip": "UR兑换"
+  },
+  "ActivityRemasterCore_re5_1": {
+    "tip": "樊笼内的神光"
+  },
+  "ActivityRemasterCore_re5_2": {
+    "tip": "樊笼内的神光"
+  },
+  "ActivityRemasterCore_re5_3": {
+    "tip": "作战准备"
+  },
+  "ActivityRemasterCore_re5_4": {
+    "tip": "受选者之路"
+  },
+  "ActivityRemasterCore_re5_5": {
+    "tip": "建造支援"
+  },
+  "ActivityRemasterCore_re6_1": {
+    "tip": "高塔上的蔷薇"
+  },
+  "ActivityRemasterCore_re6_2": {
+    "tip": "高塔上的蔷薇"
+  },
+  "ActivityRemasterCore_re6_3": {
+    "tip": "作战准备"
+  },
+  "ActivityRemasterCore_re6_4": {
+    "tip": "日不落的远征"
+  },
+  "ActivityRemasterCore_re6_5": {
+    "tip": "建造支援"
+  },
+  "ActivityRemasterCore_re6_6": {
+    "tip": "UR兑换"
+  },
+  "ActivityRemasterCore_re7_1": {
+    "tip": "林间度假准备"
+  },
+  "ActivityRemasterCore_re7_2": {
+    "tip": "建造支援 "
+  },
+  "ActivityRemaster_NoticeJump_AlreadySelected": {
+    "tip": "当前已有开启中的轻量化复刻活动，请通过主界面活动入口进入"
+  },
   "AnniversaryNineCoreActivityUI_subtitle_1": {
     "tip": "九周年纪念签到"
   },
@@ -742,12 +856,6 @@
   "Outpost_20250904_Progress": {
     "tip": "当前进度"
   },
-  "Outpost_20250904_Sidebar4": {
-    "tip": "作战准备"
-  },
-  "Outpost_20250904_Sidebar5": {
-    "tip": "重樱的邀约 "
-  },
   "Outpost_20250904_Title1": {
     "tip": "作战准备"
   },
@@ -1078,6 +1186,36 @@
   },
   "acquisitionmode_is_not_open": {
     "tip": "对应获得方式尚未开启"
+  },
+  "act_remaster_active_erro": {
+    "tip": "每个活动仅可激活一次"
+  },
+  "act_remaster_colllect_progress": {
+    "tip": "收藏进度"
+  },
+  "act_remaster_extend_time": {
+    "tip": "奖励领取时间截至$1"
+  },
+  "act_remaster_open_tip": {
+    "tip": "是否开启<color=#39bfff>$1</color>的轻量化复刻\n每个活动仅有一次开启机会，开启活动后，活动关卡、兑换商店等内容将同步开启，开启后活动将于<color=#39bfff>$2</color>日维护结束"
+  },
+  "act_remaster_time_desc": {
+    "tip": "$1月$2日-$3月$4日 维护"
+  },
+  "act_remaster_time_desc_with_hours": {
+    "tip": "$1月$2日-$3月$4日 $5时"
+  },
+  "act_remaster_time_desc_with_hours_without_ch": {
+    "tip": "$1.$2-$3.$4 $5:$6:$7"
+  },
+  "act_remaster_tip_1": {
+    "tip": "活动期间，可以任选一个之前未完成的活动<b><color=#faba55>开启轻量化复刻</color></b>"
+  },
+  "act_remaster_tip_2": {
+    "tip": "$1 维护"
+  },
+  "act_remaster_title": {
+    "tip": "轻量化复刻"
   },
   "activity_0815_town_memory": {
     "tip": "道具数量不足，完成活动任务可获取「拓荒的回忆」"
@@ -13954,7 +14092,7 @@
         "info": "纪念手册："
       },
       {
-        "info": "1. 回忆页面内新增「纪念手册」系统入口。\n2. 活动期间，指挥官可通过完成活动任务收集对应<color=#92fc63>「纪念贴纸」</color>兑换获得活动勋章。\n ※ 活动进行时，指挥官可在<color=#92fc63>活动页面或回忆界面</color>通过指定入口进入「纪念贴纸」收集页面；\n ※ 活动结束后指挥官将只能通过<color=#92fc63>回忆界面</color>指定入口进入「纪念贴纸」收集页面；\n ※ 「纪念贴纸」可以通过完成对应活动任务获取；\n ※ 奖励领取界面将延长至10月7日24时；"
+        "info": "1. 回忆页面内新增「纪念手册」系统入口。\n2. 活动期间，指挥官可通过完成活动任务收集对应<color=#92fc63>「纪念贴纸」</color>兑换获得活动勋章。\n ※ 活动进行时，指挥官可在<color=#92fc63>活动页面或回忆界面</color>通过指定入口进入「纪念贴纸」收集页面；\n ※ 活动结束后指挥官将只能通过<color=#92fc63>回忆界面</color>指定入口进入「纪念贴纸」收集页面；\n ※ 「纪念贴纸」可以通过完成对应活动任务获取；\n ※ 奖励领取界面将延长至$1；"
       }
     ]
   },
@@ -22491,6 +22629,9 @@
   "outpost_20250904_Sidebar5": {
     "tip": "重樱的邀约 "
   },
+  "outpost_20250904_Sidebar6": {
+    "tip": "建造支援"
+  },
   "outpost_20250904_Title1": {
     "tip": "限时活动"
   },
@@ -29018,6 +29159,9 @@
   },
   "word_nowenergy": {
     "tip": "当前心情值"
+  },
+  "word_obtain_way": {
+    "tip": "获得途径"
   },
   "word_oil": {
     "tip": "石油"
