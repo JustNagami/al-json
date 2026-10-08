@@ -294,6 +294,117 @@
   "AR_plane_summon_success": {
     "tip": "キャラの呼び出しに成功しました"
   },
+  "ActivityRemasterCoreActivityAdaptUI_TITLE": {
+    "tip": "イベント"
+  },
+  "ActivityRemasterCoreActivityAdaptUI_TITLE_EN": {
+    "tip": "EVENT"
+  },
+  "ActivityRemasterCore_award_own_desc": {
+    "tip": "入手済み：<color=#39bfff>$1</color>"
+  },
+  "ActivityRemasterCore_award_preview_btn": {
+    "tip": "報酬一覧"
+  },
+  "ActivityRemasterCore_award_preview_es": {
+    "tip": "装備外装($1)"
+  },
+  "ActivityRemasterCore_award_preview_other": {
+    "tip": "その他($1)"
+  },
+  "ActivityRemasterCore_award_preview_ship": {
+    "tip": "キャラ($1)"
+  },
+  "ActivityRemasterCore_award_preview_title": {
+    "tip": "イベント限定報酬"
+  },
+  "ActivityRemasterCore_re2_1": {
+    "tip": "錬翼空翔"
+  },
+  "ActivityRemasterCore_re2_2": {
+    "tip": "錬翼空翔"
+  },
+  "ActivityRemasterCore_re2_3": {
+    "tip": "作戦準備"
+  },
+  "ActivityRemasterCore_re2_4": {
+    "tip": "朱染断章"
+  },
+  "ActivityRemasterCore_re2_5": {
+    "tip": "建造支援"
+  },
+  "ActivityRemasterCore_re3_1": {
+    "tip": "絳染む丹華の詠歌"
+  },
+  "ActivityRemasterCore_re3_2": {
+    "tip": "絳染む丹華の詠歌"
+  },
+  "ActivityRemasterCore_re3_3": {
+    "tip": "作戦準備"
+  },
+  "ActivityRemasterCore_re3_4": {
+    "tip": "風塵積もる此岸"
+  },
+  "ActivityRemasterCore_re3_5": {
+    "tip": "建造支援"
+  },
+  "ActivityRemasterCore_re4_1": {
+    "tip": "星降る夕影の残光"
+  },
+  "ActivityRemasterCore_re4_2": {
+    "tip": "星降る夕影の残光"
+  },
+  "ActivityRemasterCore_re4_3": {
+    "tip": "作戦準備"
+  },
+  "ActivityRemasterCore_re4_4": {
+    "tip": "領域外からの帰還"
+  },
+  "ActivityRemasterCore_re4_5": {
+    "tip": "建造支援"
+  },
+  "ActivityRemasterCore_re4_6": {
+    "tip": "UR交換"
+  },
+  "ActivityRemasterCore_re5_1": {
+    "tip": "籠檻に囚われし神光"
+  },
+  "ActivityRemasterCore_re5_2": {
+    "tip": "籠檻に囚われし神光"
+  },
+  "ActivityRemasterCore_re5_3": {
+    "tip": "作戦準備"
+  },
+  "ActivityRemasterCore_re5_4": {
+    "tip": "被選者の道"
+  },
+  "ActivityRemasterCore_re5_5": {
+    "tip": "建造支援"
+  },
+  "ActivityRemasterCore_re6_1": {
+    "tip": "高い塔の薔薇"
+  },
+  "ActivityRemasterCore_re6_2": {
+    "tip": "高い塔の薔薇"
+  },
+  "ActivityRemasterCore_re6_3": {
+    "tip": "作戦準備"
+  },
+  "ActivityRemasterCore_re6_4": {
+    "tip": "太陽未だ沈まぬ"
+  },
+  "ActivityRemasterCore_re6_5": {
+    "tip": "建造支援"
+  },
+  "ActivityRemasterCore_re6_6": {
+    "tip": "UR交換"
+  },
+  "ActivityRemasterCore_re7_1": {
+    "tip": "林間休暇準備"
+  },
+  "ActivityRemasterCore_re7_2": {
+    "tip": "建造支援"
+  },
   "AnniversaryNineCoreActivityUI_subtitle_1": {
     "tip": "ログインボーナス"
   },
@@ -705,12 +816,6 @@
   "Outpost_20250904_Progress": {
     "tip": "現在進捗"
   },
-  "Outpost_20250904_Sidebar4": {
-    "tip": "前哨戦"
-  },
-  "Outpost_20250904_Sidebar5": {
-    "tip": "重桜の招待"
-  },
   "Outpost_20250904_Title1": {
     "tip": "前哨戦"
   },
@@ -987,7 +1092,7 @@
   "UrExchange_Pt_help": {
     "tip": [
       {
-        "info": "イベントバナーでの交換とイベントショップと同様にカウントされます。\n合計で2回のみ交換できます。\n1回目：URチケット×200；2回目：300URチケット×300。"
+        "info": "イベントバナーでの交換とイベントショップと同様にカウントされます。\n合計で2回のみ交換できます。\n1回目：URチケット×200；2回目：URチケット×300。"
       }
     ]
   },
@@ -1041,6 +1146,36 @@
   },
   "acquisitionmode_is_not_open": {
     "tip": "入手方法は現在開放されていません"
+  },
+  "act_remaster_active_erro": {
+    "tip": "1回しか開放できません"
+  },
+  "act_remaster_colllect_progress": {
+    "tip": "入手状況"
+  },
+  "act_remaster_extend_time": {
+    "tip": "報酬入手期間は$1時まで"
+  },
+  "act_remaster_open_tip": {
+    "tip": "イベント「<color=#39bfff>$1</color>」の軽量化復刻を開放しますか？選べる軽量化復刻は開催期間中に1回しか開放できず、また開放されたイベント海域は<color=#39bfff>$2</color>メンテまでに終了します"
+  },
+  "act_remaster_time_desc": {
+    "tip": "$1月$2日-$3月$4日 メンテ"
+  },
+  "act_remaster_time_desc_with_hours": {
+    "tip": "$1月$2日-$3月$4日 $5時"
+  },
+  "act_remaster_time_desc_with_hours_without_ch": {
+    "tip": "$1.$2-$3.$4 $5:$6:$7"
+  },
+  "act_remaster_tip_1": {
+    "tip": "イベント期間中、「選べる軽量化復刻」で開放したことがないイベントを1個選択して、<b><color=#faba55>軽量化復刻を開放</color></b>することができます"
+  },
+  "act_remaster_tip_2": {
+    "tip": "$1 メンテ"
+  },
+  "act_remaster_title": {
+    "tip": "軽量化復刻"
   },
   "activity_0815_town_memory": {
     "tip": "アイテムが不足しています。限定任務をクリアして思い出を開放しよう！"
@@ -7652,7 +7787,7 @@
     "tip": "衣装選択"
   },
   "dorm3d_collect_block_by_furniture": {
-    "tip": "アイテムは家具$1に入れ替えられたため、現在入手できません"
+    "tip": "アイテムは家具$1に入れ\n替えられたため、現在入手できません"
   },
   "dorm3d_collect_favor_plus": {
     "tip": "ボーナス：親愛度+"
@@ -22208,6 +22343,9 @@
   "outpost_20250904_Sidebar5": {
     "tip": "重桜の招待"
   },
+  "outpost_20250904_Sidebar6": {
+    "tip": "建造支援"
+  },
   "outpost_20250904_Title1": {
     "tip": "イベント"
   },
@@ -28692,6 +28830,9 @@
   },
   "word_nowenergy": {
     "tip": "ｺﾝﾃﾞｨｼｮﾝ"
+  },
+  "word_obtain_way": {
+    "tip": "入手方法"
   },
   "word_oil": {
     "tip": "燃料"

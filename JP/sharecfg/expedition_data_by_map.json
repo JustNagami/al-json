@@ -7367,7 +7367,20 @@
     "bg": "Map_1830001",
     "bgm": "battle-eagleunion",
     "bind_map": 1830011,
-    "chapterGroups": "",
+    "chapterGroups": [
+      [
+        1830001,
+        1830021
+      ],
+      [
+        1830002,
+        1830022
+      ],
+      [
+        1830003,
+        1830023
+      ]
+    ],
     "cloud_suffix": "",
     "clouds_pos": [
       [
@@ -7401,7 +7414,7 @@
     "map": 1830001,
     "map_name": "",
     "name": "錬翼空翔·前編|| ||CHAPTER EX||E.X.",
-    "on_activity": 5521,
+    "on_activity": 1000003,
     "pos_type": 0,
     "story_id": "",
     "story_inactive_color": "",
@@ -7439,7 +7452,20 @@
     "bg": "Map_1830002",
     "bgm": "battle-newwind",
     "bind_map": 1830012,
-    "chapterGroups": "",
+    "chapterGroups": [
+      [
+        1830004,
+        1830024
+      ],
+      [
+        1830005,
+        1830025
+      ],
+      [
+        1830006,
+        1830026
+      ]
+    ],
     "cloud_suffix": "",
     "clouds_pos": [
       [
@@ -7473,7 +7499,7 @@
     "map": 1830002,
     "map_name": "",
     "name": "錬翼空翔·後編|| ||CHAPTER EX||E.X.",
-    "on_activity": 5521,
+    "on_activity": 1000003,
     "pos_type": 0,
     "story_id": "",
     "story_inactive_color": "",
@@ -7511,7 +7537,20 @@
     "bg": "Map_1830001",
     "bgm": "battle-eagleunion",
     "bind_map": 1830001,
-    "chapterGroups": "",
+    "chapterGroups": [
+      [
+        1830001,
+        1830021
+      ],
+      [
+        1830002,
+        1830022
+      ],
+      [
+        1830003,
+        1830023
+      ]
+    ],
     "cloud_suffix": "",
     "clouds_pos": [
       [
@@ -7545,7 +7584,7 @@
     "map": 1830011,
     "map_name": "",
     "name": "錬翼空翔·前編|| ||CHAPTER EX||E.X.",
-    "on_activity": 5521,
+    "on_activity": 1000003,
     "pos_type": 0,
     "story_id": "",
     "story_inactive_color": "",
@@ -7583,7 +7622,20 @@
     "bg": "Map_1830002",
     "bgm": "battle-newwind",
     "bind_map": 1830002,
-    "chapterGroups": "",
+    "chapterGroups": [
+      [
+        1830004,
+        1830024
+      ],
+      [
+        1830005,
+        1830025
+      ],
+      [
+        1830006,
+        1830026
+      ]
+    ],
     "cloud_suffix": "",
     "clouds_pos": [
       [
@@ -7617,7 +7669,7 @@
     "map": 1830012,
     "map_name": "",
     "name": "錬翼空翔·後編|| ||CHAPTER EX||E.X.",
-    "on_activity": 5521,
+    "on_activity": 1000003,
     "pos_type": 0,
     "story_id": "",
     "story_inactive_color": "",
@@ -7634,7 +7686,11 @@
     "bg": "Map_1830005",
     "bgm": "story-island-soft",
     "bind_map": 1830012,
-    "chapterGroups": "",
+    "chapterGroups": [
+      [
+        1830041
+      ]
+    ],
     "cloud_suffix": "",
     "clouds_pos": [
       [
@@ -7668,7 +7724,7 @@
     "map": 1830025,
     "map_name": "",
     "name": "錬翼空翔·SP|| ||CHAPTER EX||E.X.",
-    "on_activity": 5521,
+    "on_activity": 1000003,
     "pos_type": 0,
     "story_id": "",
     "story_inactive_color": "",
@@ -7685,7 +7741,11 @@
     "bg": "Map_1830004",
     "bgm": "theme-designfleet-VII",
     "bind_map": 1830012,
-    "chapterGroups": "",
+    "chapterGroups": [
+      [
+        1830051
+      ]
+    ],
     "cloud_suffix": "",
     "clouds_pos": [
       [
@@ -7719,7 +7779,7 @@
     "map": 1830026,
     "map_name": "",
     "name": "錬翼空翔·EX|| ||CHAPTER EX||E.X.",
-    "on_activity": 5521,
+    "on_activity": 1000003,
     "pos_type": 0,
     "story_id": "",
     "story_inactive_color": "",
@@ -7894,13 +7954,16 @@
     "bind_map": 1850011,
     "chapterGroups": [
       [
-        1850001
+        1850001,
+        1850021
       ],
       [
-        1850002
+        1850002,
+        1850022
       ],
       [
-        1850003
+        1850003,
+        1850023
       ]
     ],
     "cloud_suffix": "",
@@ -7936,7 +7999,7 @@
     "map": 1850001,
     "map_name": "levelscene_mapselect_part1",
     "name": "絳染む　丹華の詠歌·前編|| ||CHAPTER EX||E.X.",
-    "on_activity": 5562,
+    "on_activity": 1000023,
     "pos_type": 0,
     "story_id": [
       31,
@@ -7993,13 +8056,16 @@
     "bind_map": 1850012,
     "chapterGroups": [
       [
-        1850004
+        1850004,
+        1850024
       ],
       [
-        1850005
+        1850005,
+        1850025
       ],
       [
-        1850006
+        1850006,
+        1850026
       ]
     ],
     "cloud_suffix": "",
@@ -8035,7 +8101,7 @@
     "map": 1850002,
     "map_name": "levelscene_mapselect_part2",
     "name": "絳染む　丹華の詠歌·後編|| ||CHAPTER EX||E.X.",
-    "on_activity": 5562,
+    "on_activity": 1000023,
     "pos_type": 0,
     "story_id": [
       31,
@@ -8092,12 +8158,15 @@
     "bind_map": 1850001,
     "chapterGroups": [
       [
+        1850001,
         1850021
       ],
       [
+        1850002,
         1850022
       ],
       [
+        1850003,
         1850023
       ]
     ],
@@ -8134,7 +8203,7 @@
     "map": 1850011,
     "map_name": "levelscene_mapselect_part1",
     "name": "絳染む　丹華の詠歌·前編|| ||CHAPTER EX||E.X.",
-    "on_activity": 5562,
+    "on_activity": 1000023,
     "pos_type": 0,
     "story_id": [
       31,
@@ -8191,12 +8260,15 @@
     "bind_map": 1850002,
     "chapterGroups": [
       [
+        1850004,
         1850024
       ],
       [
+        1850005,
         1850025
       ],
       [
+        1850006,
         1850026
       ]
     ],
@@ -8233,7 +8305,7 @@
     "map": 1850012,
     "map_name": "levelscene_mapselect_part2",
     "name": "絳染む　丹華の詠歌·後編|| ||CHAPTER EX||E.X.",
-    "on_activity": 5562,
+    "on_activity": 1000023,
     "pos_type": 0,
     "story_id": [
       31,
@@ -8326,7 +8398,7 @@
     "map": 1850025,
     "map_name": "levelscene_mapselect_sp",
     "name": "絳染む　丹華の詠歌·SP|| ||CHAPTER EX||E.X.",
-    "on_activity": 5562,
+    "on_activity": 1000023,
     "pos_type": 0,
     "story_id": [
       31,
@@ -8420,7 +8492,7 @@
     "map": 1850026,
     "map_name": "levelscene_mapselect_ex",
     "name": "絳染む　丹華の詠歌·EX|| ||CHAPTER EX||E.X.",
-    "on_activity": 5562,
+    "on_activity": 1000023,
     "pos_type": 0,
     "story_id": [
       31,
@@ -9163,7 +9235,7 @@
     "map": 1880001,
     "map_name": "levelscene_mapselect_part1",
     "name": "星降る夕影の残光·前編|| ||CHAPTER EX||E.X.",
-    "on_activity": 5711,
+    "on_activity": 1000043,
     "pos_type": 0,
     "story_id": [
       107,
@@ -9261,7 +9333,7 @@
     "map": 1880002,
     "map_name": "levelscene_mapselect_part2",
     "name": "星降る夕影の残光·後編|| ||CHAPTER EX||E.X.",
-    "on_activity": 5711,
+    "on_activity": 1000043,
     "pos_type": 0,
     "story_id": [
       107,
@@ -9359,7 +9431,7 @@
     "map": 1880011,
     "map_name": "levelscene_mapselect_part1",
     "name": "星降る夕影の残光·前編|| ||CHAPTER EX||E.X.",
-    "on_activity": 5711,
+    "on_activity": 1000043,
     "pos_type": 0,
     "story_id": [
       107,
@@ -9457,7 +9529,7 @@
     "map": 1880012,
     "map_name": "levelscene_mapselect_part2",
     "name": "星降る夕影の残光·後編|| ||CHAPTER EX||E.X.",
-    "on_activity": 5711,
+    "on_activity": 1000043,
     "pos_type": 0,
     "story_id": [
       107,
@@ -9546,7 +9618,7 @@
     "map": 1880025,
     "map_name": "levelscene_mapselect_sp",
     "name": "星降る夕影の残光·SP|| ||CHAPTER EX||E.X.",
-    "on_activity": 5711,
+    "on_activity": 1000043,
     "pos_type": 0,
     "story_id": [
       107,
@@ -9636,7 +9708,7 @@
     "map": 1880026,
     "map_name": "levelscene_mapselect_ex",
     "name": "星降る夕影の残光·EX|| ||CHAPTER EX||E.X.",
-    "on_activity": 5711,
+    "on_activity": 1000043,
     "pos_type": 0,
     "story_id": [
       107,
@@ -9734,7 +9806,7 @@
     "map": 1890001,
     "map_name": "levelscene_mapselect_part1",
     "name": "籠檻に囚われし神光·前編|| ||CHAPTER EX||E.X.",
-    "on_activity": 5821,
+    "on_activity": 1000063,
     "pos_type": 0,
     "story_id": [
       141,
@@ -9835,7 +9907,7 @@
     "map": 1890002,
     "map_name": "levelscene_mapselect_part2",
     "name": "籠檻に囚われし神光·後編|| ||CHAPTER EX||E.X.",
-    "on_activity": 5821,
+    "on_activity": 1000063,
     "pos_type": 0,
     "story_id": [
       141,
@@ -9936,7 +10008,7 @@
     "map": 1890011,
     "map_name": "levelscene_mapselect_part1",
     "name": "籠檻に囚われし神光·前編|| ||CHAPTER EX||E.X.",
-    "on_activity": 5821,
+    "on_activity": 1000063,
     "pos_type": 0,
     "story_id": [
       141,
@@ -10037,7 +10109,7 @@
     "map": 1890012,
     "map_name": "levelscene_mapselect_part2",
     "name": "籠檻に囚われし神光·後編|| ||CHAPTER EX||E.X.",
-    "on_activity": 5821,
+    "on_activity": 1000063,
     "pos_type": 0,
     "story_id": [
       141,
@@ -10129,7 +10201,7 @@
     "map": 1890025,
     "map_name": "levelscene_mapselect_sp",
     "name": "籠檻に囚われし神光·SP|| ||CHAPTER EX||E.X.",
-    "on_activity": 5821,
+    "on_activity": 1000063,
     "pos_type": 0,
     "story_id": [
       141,
@@ -10222,7 +10294,7 @@
     "map": 1890026,
     "map_name": "levelscene_mapselect_ex",
     "name": "籠檻に囚われし神光·EX|| ||CHAPTER EX||E.X.",
-    "on_activity": 5821,
+    "on_activity": 1000063,
     "pos_type": 0,
     "story_id": [
       141,
@@ -10555,7 +10627,7 @@
     "map": 1920001,
     "map_name": "levelscene_mapselect_part1",
     "name": "高い塔の薔薇·前編|| ||CHAPTER EX||E.X.",
-    "on_activity": 5941,
+    "on_activity": 1000083,
     "pos_type": 0,
     "story_id": [
       191,
@@ -10656,7 +10728,7 @@
     "map": 1920002,
     "map_name": "levelscene_mapselect_part2",
     "name": "高い塔の薔薇·後編|| ||CHAPTER EX||E.X.",
-    "on_activity": 5941,
+    "on_activity": 1000083,
     "pos_type": 0,
     "story_id": [
       191,
@@ -10757,7 +10829,7 @@
     "map": 1920011,
     "map_name": "levelscene_mapselect_part1",
     "name": "高い塔の薔薇·前編|| ||CHAPTER EX||E.X.",
-    "on_activity": 5941,
+    "on_activity": 1000083,
     "pos_type": 0,
     "story_id": [
       191,
@@ -10858,7 +10930,7 @@
     "map": 1920012,
     "map_name": "levelscene_mapselect_part2",
     "name": "高い塔の薔薇·後編|| ||CHAPTER EX||E.X.",
-    "on_activity": 5941,
+    "on_activity": 1000083,
     "pos_type": 0,
     "story_id": [
       191,
@@ -10950,7 +11022,7 @@
     "map": 1920025,
     "map_name": "levelscene_mapselect_sp",
     "name": "高い塔の薔薇·SP|| ||CHAPTER EX||E.X.",
-    "on_activity": 5941,
+    "on_activity": 1000083,
     "pos_type": 0,
     "story_id": [
       191,
@@ -11043,7 +11115,7 @@
     "map": 1920026,
     "map_name": "levelscene_mapselect_ex",
     "name": "高い塔の薔薇·EX|| ||CHAPTER EX||E.X.",
-    "on_activity": 5941,
+    "on_activity": 1000083,
     "pos_type": 0,
     "story_id": [
       191,
@@ -11589,7 +11661,7 @@
     "map": 1950001,
     "map_name": "levelscene_mapselect_part1",
     "name": "淵層界の秘密·前編|| ||CHAPTER EX||E.X.",
-    "on_activity": 50081,
+    "on_activity": 1000103,
     "pos_type": 0,
     "story_id": [
       141,
@@ -11711,7 +11783,7 @@
     "map": 1950002,
     "map_name": "levelscene_mapselect_part2",
     "name": "淵層界の秘密·後編|| ||CHAPTER EX||E.X.",
-    "on_activity": 50081,
+    "on_activity": 1000103,
     "pos_type": 0,
     "story_id": [
       141,
@@ -11833,7 +11905,7 @@
     "map": 1950011,
     "map_name": "levelscene_mapselect_part1",
     "name": "淵層界の秘密·前編|| ||CHAPTER EX||E.X.",
-    "on_activity": 50081,
+    "on_activity": 1000103,
     "pos_type": 0,
     "story_id": [
       141,
@@ -11955,7 +12027,7 @@
     "map": 1950012,
     "map_name": "levelscene_mapselect_part2",
     "name": "淵層界の秘密·後編|| ||CHAPTER EX||E.X.",
-    "on_activity": 50081,
+    "on_activity": 1000103,
     "pos_type": 0,
     "story_id": [
       141,
@@ -12047,7 +12119,7 @@
     "map": 1950025,
     "map_name": "levelscene_mapselect_sp",
     "name": "淵層界の秘密·SP|| ||CHAPTER EX||E.X.",
-    "on_activity": 50081,
+    "on_activity": 1000103,
     "pos_type": 0,
     "story_id": [
       141,
@@ -12140,7 +12212,7 @@
     "map": 1950026,
     "map_name": "levelscene_mapselect_ex",
     "name": "淵層界の秘密·EX|| ||CHAPTER EX||E.X.",
-    "on_activity": 50081,
+    "on_activity": 1000103,
     "pos_type": 0,
     "story_id": [
       141,
@@ -12241,7 +12313,7 @@
     "map": 1960001,
     "map_name": "levelscene_mapselect_part1",
     "name": "アマハラに舞い奉れ·前編|| ||CHAPTER EX||E.X.",
-    "on_activity": 50114,
+    "on_activity": 1000123,
     "pos_type": 0,
     "story_id": [
       231,
@@ -12345,7 +12417,7 @@
     "map": 1960002,
     "map_name": "levelscene_mapselect_part2",
     "name": "アマハラに舞い奉れ·後編|| ||CHAPTER EX||E.X.",
-    "on_activity": 50114,
+    "on_activity": 1000123,
     "pos_type": 0,
     "story_id": [
       231,
@@ -12449,7 +12521,7 @@
     "map": 1960011,
     "map_name": "levelscene_mapselect_part1",
     "name": "アマハラに舞い奉れ·前編|| ||CHAPTER EX||E.X.",
-    "on_activity": 50114,
+    "on_activity": 1000123,
     "pos_type": 0,
     "story_id": [
       231,
@@ -12553,7 +12625,7 @@
     "map": 1960012,
     "map_name": "levelscene_mapselect_part2",
     "name": "アマハラに舞い奉れ·後編|| ||CHAPTER EX||E.X.",
-    "on_activity": 50114,
+    "on_activity": 1000123,
     "pos_type": 0,
     "story_id": [
       231,
@@ -12648,7 +12720,7 @@
     "map": 1960025,
     "map_name": "levelscene_mapselect_sp",
     "name": "アマハラに舞い奉れ·SP|| ||CHAPTER EX||E.X.",
-    "on_activity": 50114,
+    "on_activity": 1000123,
     "pos_type": 0,
     "story_id": [
       231,
@@ -12744,7 +12816,7 @@
     "map": 1960026,
     "map_name": "levelscene_mapselect_ex",
     "name": "アマハラに舞い奉れ·EX|| ||CHAPTER EX||E.X.",
-    "on_activity": 50114,
+    "on_activity": 1000123,
     "pos_type": 0,
     "story_id": [
       231,
@@ -12845,7 +12917,7 @@
     "map": 1970001,
     "map_name": "levelscene_mapselect_part1",
     "name": "テンペスタと自由群島·前編|| ||CHAPTER EX||E.X.",
-    "on_activity": 50181,
+    "on_activity": 51601,
     "pos_type": 0,
     "story_id": [
       291,
@@ -12936,7 +13008,7 @@
     "map": 1970002,
     "map_name": "levelscene_mapselect_part2",
     "name": "テンペスタと自由群島·後編|| ||CHAPTER EX||E.X.",
-    "on_activity": 50181,
+    "on_activity": 51601,
     "pos_type": 0,
     "story_id": [
       291,
@@ -13021,7 +13093,7 @@
     "map": 1970003,
     "map_name": "levelscene_mapselect_sp",
     "name": "テンペスタと自由群島·SP|| ||CHAPTER EX||E.X.",
-    "on_activity": 50181,
+    "on_activity": 51601,
     "pos_type": 0,
     "story_id": [
       291,
@@ -13107,7 +13179,7 @@
     "map": 1970004,
     "map_name": "levelscene_mapselect_ex",
     "name": "テンペスタと自由群島·EX|| ||CHAPTER EX||E.X.",
-    "on_activity": 50181,
+    "on_activity": 51601,
     "pos_type": 0,
     "story_id": [
       291,
