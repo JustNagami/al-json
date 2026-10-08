@@ -19792,7 +19792,20 @@
     "bg": "Map_1830001",
     "bgm": "battle-eagleunion",
     "bind_map": 1830011,
-    "chapterGroups": "",
+    "chapterGroups": [
+      [
+        1830001,
+        1830021
+      ],
+      [
+        1830002,
+        1830022
+      ],
+      [
+        1830003,
+        1830023
+      ]
+    ],
     "cloud_suffix": "",
     "clouds_pos": [
       [
@@ -19826,7 +19839,7 @@
     "map": 1830001,
     "map_name": "",
     "name": "Windborne Steel Wings - PT.1|| ||CHAPTER EX||E.X.",
-    "on_activity": 5521,
+    "on_activity": 1000003,
     "pos_type": 0,
     "story_id": "",
     "story_inactive_color": "",
@@ -19864,7 +19877,20 @@
     "bg": "Map_1830002",
     "bgm": "battle-newwind",
     "bind_map": 1830012,
-    "chapterGroups": "",
+    "chapterGroups": [
+      [
+        1830004,
+        1830024
+      ],
+      [
+        1830005,
+        1830025
+      ],
+      [
+        1830006,
+        1830026
+      ]
+    ],
     "cloud_suffix": "",
     "clouds_pos": [
       [
@@ -19898,7 +19924,7 @@
     "map": 1830002,
     "map_name": "",
     "name": "Windborne Steel Wings - PT.2|| ||CHAPTER EX||E.X.",
-    "on_activity": 5521,
+    "on_activity": 1000003,
     "pos_type": 0,
     "story_id": "",
     "story_inactive_color": "",
@@ -19936,7 +19962,20 @@
     "bg": "Map_1830001",
     "bgm": "battle-eagleunion",
     "bind_map": 1830001,
-    "chapterGroups": "",
+    "chapterGroups": [
+      [
+        1830001,
+        1830021
+      ],
+      [
+        1830002,
+        1830022
+      ],
+      [
+        1830003,
+        1830023
+      ]
+    ],
     "cloud_suffix": "",
     "clouds_pos": [
       [
@@ -19970,7 +20009,7 @@
     "map": 1830011,
     "map_name": "",
     "name": "Windborne Steel Wings - PT.1|| ||CHAPTER EX||E.X.",
-    "on_activity": 5521,
+    "on_activity": 1000003,
     "pos_type": 0,
     "story_id": "",
     "story_inactive_color": "",
@@ -20008,7 +20047,20 @@
     "bg": "Map_1830002",
     "bgm": "battle-newwind",
     "bind_map": 1830002,
-    "chapterGroups": "",
+    "chapterGroups": [
+      [
+        1830004,
+        1830024
+      ],
+      [
+        1830005,
+        1830025
+      ],
+      [
+        1830006,
+        1830026
+      ]
+    ],
     "cloud_suffix": "",
     "clouds_pos": [
       [
@@ -20042,7 +20094,7 @@
     "map": 1830012,
     "map_name": "",
     "name": "Windborne Steel Wings - PT.2|| ||CHAPTER EX||E.X.",
-    "on_activity": 5521,
+    "on_activity": 1000003,
     "pos_type": 0,
     "story_id": "",
     "story_inactive_color": "",
@@ -20059,7 +20111,11 @@
     "bg": "Map_1830005",
     "bgm": "story-island-soft",
     "bind_map": 1830012,
-    "chapterGroups": "",
+    "chapterGroups": [
+      [
+        1830041
+      ]
+    ],
     "cloud_suffix": "",
     "clouds_pos": [
       [
@@ -20093,7 +20149,7 @@
     "map": 1830025,
     "map_name": "",
     "name": "Windborne Steel Wings - SP|| ||CHAPTER EX||E.X.",
-    "on_activity": 5521,
+    "on_activity": 1000003,
     "pos_type": 0,
     "story_id": "",
     "story_inactive_color": "",
@@ -20110,7 +20166,11 @@
     "bg": "Map_1830004",
     "bgm": "theme-designfleet-VII",
     "bind_map": 1830012,
-    "chapterGroups": "",
+    "chapterGroups": [
+      [
+        1830051
+      ]
+    ],
     "cloud_suffix": "",
     "clouds_pos": [
       [
@@ -20144,7 +20204,7 @@
     "map": 1830026,
     "map_name": "",
     "name": "Windborne Steel Wings - EX|| ||CHAPTER EX||E.X.",
-    "on_activity": 5521,
+    "on_activity": 1000003,
     "pos_type": 0,
     "story_id": "",
     "story_inactive_color": "",
@@ -20319,13 +20379,16 @@
     "bind_map": 1850011,
     "chapterGroups": [
       [
-        1850001
+        1850001,
+        1850021
       ],
       [
-        1850002
+        1850002,
+        1850022
       ],
       [
-        1850003
+        1850003,
+        1850023
       ]
     ],
     "cloud_suffix": "",
@@ -20361,7 +20424,7 @@
     "map": 1850001,
     "map_name": "levelscene_mapselect_part1",
     "name": "Ode of Everblooming Crimson - PT.1|| ||CHAPTER EX||E.X.",
-    "on_activity": 5562,
+    "on_activity": 1000023,
     "pos_type": 0,
     "story_id": [
       31,
@@ -20418,13 +20481,16 @@
     "bind_map": 1850012,
     "chapterGroups": [
       [
-        1850004
+        1850004,
+        1850024
       ],
       [
-        1850005
+        1850005,
+        1850025
       ],
       [
-        1850006
+        1850006,
+        1850026
       ]
     ],
     "cloud_suffix": "",
@@ -20460,7 +20526,7 @@
     "map": 1850002,
     "map_name": "levelscene_mapselect_part2",
     "name": "Ode of Everblooming Crimson - PT.2|| ||CHAPTER EX||E.X.",
-    "on_activity": 5562,
+    "on_activity": 1000023,
     "pos_type": 0,
     "story_id": [
       31,
@@ -20517,12 +20583,15 @@
     "bind_map": 1850001,
     "chapterGroups": [
       [
+        1850001,
         1850021
       ],
       [
+        1850002,
         1850022
       ],
       [
+        1850003,
         1850023
       ]
     ],
@@ -20559,7 +20628,7 @@
     "map": 1850011,
     "map_name": "levelscene_mapselect_part1",
     "name": "Ode of Everblooming Crimson - PT.1|| ||CHAPTER EX||E.X.",
-    "on_activity": 5562,
+    "on_activity": 1000023,
     "pos_type": 0,
     "story_id": [
       31,
@@ -20616,12 +20685,15 @@
     "bind_map": 1850002,
     "chapterGroups": [
       [
+        1850004,
         1850024
       ],
       [
+        1850005,
         1850025
       ],
       [
+        1850006,
         1850026
       ]
     ],
@@ -20658,7 +20730,7 @@
     "map": 1850012,
     "map_name": "levelscene_mapselect_part2",
     "name": "Ode of Everblooming Crimson - PT.2|| ||CHAPTER EX||E.X.",
-    "on_activity": 5562,
+    "on_activity": 1000023,
     "pos_type": 0,
     "story_id": [
       31,
@@ -20751,7 +20823,7 @@
     "map": 1850025,
     "map_name": "levelscene_mapselect_sp",
     "name": "Ode of Everblooming Crimson - SP|| ||CHAPTER EX||E.X.",
-    "on_activity": 5562,
+    "on_activity": 1000023,
     "pos_type": 0,
     "story_id": [
       31,
@@ -20845,7 +20917,7 @@
     "map": 1850026,
     "map_name": "levelscene_mapselect_ex",
     "name": "Ode of Everblooming Crimson - EX|| ||CHAPTER EX||E.X.",
-    "on_activity": 5562,
+    "on_activity": 1000023,
     "pos_type": 0,
     "story_id": [
       31,
@@ -21588,7 +21660,7 @@
     "map": 1880001,
     "map_name": "levelscene_mapselect_part1",
     "name": "Substellar Crepuscule - PT. 1|| ||CHAPTER EX||E.X.",
-    "on_activity": 5711,
+    "on_activity": 1000043,
     "pos_type": 0,
     "story_id": [
       107,
@@ -21686,7 +21758,7 @@
     "map": 1880002,
     "map_name": "levelscene_mapselect_part2",
     "name": "Substellar Crepuscule - PT. 2|| ||CHAPTER EX||E.X.",
-    "on_activity": 5711,
+    "on_activity": 1000043,
     "pos_type": 0,
     "story_id": [
       107,
@@ -21784,7 +21856,7 @@
     "map": 1880011,
     "map_name": "levelscene_mapselect_part1",
     "name": "Substellar Crepuscule - PT. 1|| ||CHAPTER EX||E.X.",
-    "on_activity": 5711,
+    "on_activity": 1000043,
     "pos_type": 0,
     "story_id": [
       107,
@@ -21882,7 +21954,7 @@
     "map": 1880012,
     "map_name": "levelscene_mapselect_part2",
     "name": "Substellar Crepuscule - PT. 2|| ||CHAPTER EX||E.X.",
-    "on_activity": 5711,
+    "on_activity": 1000043,
     "pos_type": 0,
     "story_id": [
       107,
@@ -21971,7 +22043,7 @@
     "map": 1880025,
     "map_name": "levelscene_mapselect_sp",
     "name": "Substellar Crepuscule - SP|| ||CHAPTER EX||E.X.",
-    "on_activity": 5711,
+    "on_activity": 1000043,
     "pos_type": 0,
     "story_id": [
       107,
@@ -22061,7 +22133,7 @@
     "map": 1880026,
     "map_name": "levelscene_mapselect_ex",
     "name": "Substellar Crepuscule - EX|| ||CHAPTER EX||E.X.",
-    "on_activity": 5711,
+    "on_activity": 1000043,
     "pos_type": 0,
     "story_id": [
       107,
@@ -22159,7 +22231,7 @@
     "map": 1890001,
     "map_name": "levelscene_mapselect_part1",
     "name": "Paradiso of Shackled Light - PT.1|| ||CHAPTER EX||E.X.",
-    "on_activity": 5821,
+    "on_activity": 1000063,
     "pos_type": 0,
     "story_id": [
       141,
@@ -22260,7 +22332,7 @@
     "map": 1890002,
     "map_name": "levelscene_mapselect_part2",
     "name": "Paradiso of Shackled Light - PT.2|| ||CHAPTER EX||E.X.",
-    "on_activity": 5821,
+    "on_activity": 1000063,
     "pos_type": 0,
     "story_id": [
       141,
@@ -22361,7 +22433,7 @@
     "map": 1890011,
     "map_name": "levelscene_mapselect_part1",
     "name": "Paradiso of Shackled Light - PT.1|| ||CHAPTER EX||E.X.",
-    "on_activity": 5821,
+    "on_activity": 1000063,
     "pos_type": 0,
     "story_id": [
       141,
@@ -22462,7 +22534,7 @@
     "map": 1890012,
     "map_name": "levelscene_mapselect_part2",
     "name": "Paradiso of Shackled Light - PT.2|| ||CHAPTER EX||E.X.",
-    "on_activity": 5821,
+    "on_activity": 1000063,
     "pos_type": 0,
     "story_id": [
       141,
@@ -22554,7 +22626,7 @@
     "map": 1890025,
     "map_name": "levelscene_mapselect_sp",
     "name": "Paradiso of Shackled Light - SP|| ||CHAPTER EX||E.X.",
-    "on_activity": 5821,
+    "on_activity": 1000063,
     "pos_type": 0,
     "story_id": [
       141,
@@ -22647,7 +22719,7 @@
     "map": 1890026,
     "map_name": "levelscene_mapselect_ex",
     "name": "Paradiso of Shackled Light - EX|| ||CHAPTER EX||E.X.",
-    "on_activity": 5821,
+    "on_activity": 1000063,
     "pos_type": 0,
     "story_id": [
       141,
@@ -22980,7 +23052,7 @@
     "map": 1920001,
     "map_name": "levelscene_mapselect_part1",
     "name": "A Rose on the High Tower - Pt. 1|| ||CHAPTER EX||E.X.",
-    "on_activity": 5941,
+    "on_activity": 1000083,
     "pos_type": 0,
     "story_id": [
       191,
@@ -23081,7 +23153,7 @@
     "map": 1920002,
     "map_name": "levelscene_mapselect_part2",
     "name": "A Rose on the High Tower - Pt. 2|| ||CHAPTER EX||E.X.",
-    "on_activity": 5941,
+    "on_activity": 1000083,
     "pos_type": 0,
     "story_id": [
       191,
@@ -23182,7 +23254,7 @@
     "map": 1920011,
     "map_name": "levelscene_mapselect_part1",
     "name": "A Rose on the High Tower - Pt. 1|| ||CHAPTER EX||E.X.",
-    "on_activity": 5941,
+    "on_activity": 1000083,
     "pos_type": 0,
     "story_id": [
       191,
@@ -23283,7 +23355,7 @@
     "map": 1920012,
     "map_name": "levelscene_mapselect_part2",
     "name": "A Rose on the High Tower - Pt. 2|| ||CHAPTER EX||E.X.",
-    "on_activity": 5941,
+    "on_activity": 1000083,
     "pos_type": 0,
     "story_id": [
       191,
@@ -23375,7 +23447,7 @@
     "map": 1920025,
     "map_name": "levelscene_mapselect_sp",
     "name": "A Rose on the High Tower - SP|| ||CHAPTER EX||E.X.",
-    "on_activity": 5941,
+    "on_activity": 1000083,
     "pos_type": 0,
     "story_id": [
       191,
@@ -23468,7 +23540,7 @@
     "map": 1920026,
     "map_name": "levelscene_mapselect_ex",
     "name": "A Rose on the High Tower - EX|| ||CHAPTER EX||E.X.",
-    "on_activity": 5941,
+    "on_activity": 1000083,
     "pos_type": 0,
     "story_id": [
       191,
@@ -24014,7 +24086,7 @@
     "map": 1950001,
     "map_name": "levelscene_mapselect_part1",
     "name": "Secrets of the Abyss - PT.1|| ||CHAPTER EX||E.X.",
-    "on_activity": 50081,
+    "on_activity": 1000103,
     "pos_type": 0,
     "story_id": [
       141,
@@ -24136,7 +24208,7 @@
     "map": 1950002,
     "map_name": "levelscene_mapselect_part2",
     "name": "Secrets of the Abyss - PT.2|| ||CHAPTER EX||E.X.",
-    "on_activity": 50081,
+    "on_activity": 1000103,
     "pos_type": 0,
     "story_id": [
       141,
@@ -24258,7 +24330,7 @@
     "map": 1950011,
     "map_name": "levelscene_mapselect_part1",
     "name": "Secrets of the Abyss - PT.1|| ||CHAPTER EX||E.X.",
-    "on_activity": 50081,
+    "on_activity": 1000103,
     "pos_type": 0,
     "story_id": [
       141,
@@ -24380,7 +24452,7 @@
     "map": 1950012,
     "map_name": "levelscene_mapselect_part2",
     "name": "Secrets of the Abyss - PT.2|| ||CHAPTER EX||E.X.",
-    "on_activity": 50081,
+    "on_activity": 1000103,
     "pos_type": 0,
     "story_id": [
       141,
@@ -24472,7 +24544,7 @@
     "map": 1950025,
     "map_name": "levelscene_mapselect_sp",
     "name": "Secrets of the Abyss - SP|| ||CHAPTER EX||E.X.",
-    "on_activity": 50081,
+    "on_activity": 1000103,
     "pos_type": 0,
     "story_id": [
       141,
@@ -24565,7 +24637,7 @@
     "map": 1950026,
     "map_name": "levelscene_mapselect_ex",
     "name": "Secrets of the Abyss - EX|| ||CHAPTER EX||E.X.",
-    "on_activity": 50081,
+    "on_activity": 1000103,
     "pos_type": 0,
     "story_id": [
       141,
@@ -24666,7 +24738,7 @@
     "map": 1960001,
     "map_name": "levelscene_mapselect_part1",
     "name": "A Dance for Amahara Above - Pt. 1|| ||CHAPTER EX||E.X.",
-    "on_activity": 50114,
+    "on_activity": 1000123,
     "pos_type": 0,
     "story_id": [
       231,
@@ -24770,7 +24842,7 @@
     "map": 1960002,
     "map_name": "levelscene_mapselect_part2",
     "name": "A Dance for Amahara Above - Pt. 2|| ||CHAPTER EX||E.X.",
-    "on_activity": 50114,
+    "on_activity": 1000123,
     "pos_type": 0,
     "story_id": [
       231,
@@ -24874,7 +24946,7 @@
     "map": 1960011,
     "map_name": "levelscene_mapselect_part1",
     "name": "A Dance for Amahara Above - Pt. 1|| ||CHAPTER EX||E.X.",
-    "on_activity": 50114,
+    "on_activity": 1000123,
     "pos_type": 0,
     "story_id": [
       231,
@@ -24978,7 +25050,7 @@
     "map": 1960012,
     "map_name": "levelscene_mapselect_part2",
     "name": "A Dance for Amahara Above - Pt. 2|| ||CHAPTER EX||E.X.",
-    "on_activity": 50114,
+    "on_activity": 1000123,
     "pos_type": 0,
     "story_id": [
       231,
@@ -25073,7 +25145,7 @@
     "map": 1960025,
     "map_name": "levelscene_mapselect_sp",
     "name": "A Dance for Amahara Above - SP|| ||CHAPTER EX||E.X.",
-    "on_activity": 50114,
+    "on_activity": 1000123,
     "pos_type": 0,
     "story_id": [
       231,
@@ -25169,7 +25241,7 @@
     "map": 1960026,
     "map_name": "levelscene_mapselect_ex",
     "name": "A Dance for Amahara Above - EX|| ||CHAPTER EX||E.X.",
-    "on_activity": 50114,
+    "on_activity": 1000123,
     "pos_type": 0,
     "story_id": [
       231,

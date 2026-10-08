@@ -39399,7 +39399,8 @@
       12049,
       12050,
       12051,
-      12052
+      12052,
+      12053
     ],
     "config_id": 1,
     "id": 7104,
@@ -89611,6 +89612,48 @@
     "title_res_tag": "",
     "type": 13
   },
+  "51163": {
+    "config_client": "",
+    "config_data": [
+      27619
+    ],
+    "config_id": 0,
+    "id": 51163,
+    "is_show": 0,
+    "login_pop": 0,
+    "mark": 20261008,
+    "page_core": "",
+    "page_info": "",
+    "time": [
+      "timer",
+      [
+        [
+          2026,
+          10,
+          8
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2026,
+          10,
+          14
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
+    "title_res_tag": "",
+    "type": 13
+  },
   "100001": {
     "config_client": "",
     "config_data": [],
@@ -91393,6 +91436,3333 @@
     "title_res_tag": "",
     "type": 800
   },
+  "1000000": {
+    "config_client": {
+      "highValueItemSort": [
+        13,
+        21,
+        23,
+        25,
+        28
+      ],
+      "shopLinkActID": 51032
+    },
+    "config_data": [],
+    "config_id": 51031,
+    "id": 1000000,
+    "is_show": 49,
+    "login_pop": 0,
+    "mark": 20261008,
+    "page_core": "",
+    "page_info": {
+      "class_name": "LuminousPtPage",
+      "ui_name": "LuminousPtPage"
+    },
+    "time": "stop",
+    "title_res_tag": "aersasi_pt",
+    "type": 74
+  },
+  "1000001": {
+    "config_client": {
+      "highValueItemSort": [
+        13,
+        21,
+        23,
+        25,
+        28
+      ],
+      "shopLinkActID": 1000002
+    },
+    "config_data": [],
+    "config_id": 1000001,
+    "id": 1000001,
+    "is_show": 2,
+    "login_pop": 0,
+    "mark": 20261008,
+    "page_core": "ActivityRemasterCoreActivityAdaptUI",
+    "page_info": {
+      "class_name": "PittsburghPtRePage",
+      "ui_name": "PittsburghPtRePage"
+    },
+    "time": "stop",
+    "title_res_tag": "ActivityRemasterCore_re2_1",
+    "type": 174
+  },
+  "1000002": {
+    "config_client": {
+      "1": "commonbg/bg_pt_pizibao",
+      "2": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "PT_ACT": 1000001,
+      "painting": "fage_pt",
+      "use_secretary": false
+    },
+    "config_data": [
+      100001,
+      100002,
+      100003,
+      100004,
+      100005,
+      100006,
+      100007,
+      100008,
+      100009,
+      100010,
+      100011,
+      100012,
+      100013,
+      100014,
+      100015,
+      100016,
+      100017,
+      100018,
+      100019,
+      100020,
+      100021,
+      100022,
+      100023,
+      100024,
+      100025,
+      100026,
+      100027
+    ],
+    "config_id": 0,
+    "id": 1000002,
+    "is_show": 0,
+    "login_pop": 0,
+    "mark": 20261008,
+    "page_core": "",
+    "page_info": "",
+    "time": "stop",
+    "title_res_tag": "",
+    "type": 14
+  },
+  "1000003": {
+    "config_client": {
+      "PT_ACT": 1000001,
+      "entrance_bg": "activitybanner/temp1004"
+    },
+    "config_data": [
+      1830001,
+      1830002,
+      1830003,
+      1830021,
+      1830022,
+      1830023
+    ],
+    "config_id": 0,
+    "id": 1000003,
+    "is_show": 1,
+    "login_pop": 0,
+    "mark": 20261008,
+    "page_core": "ActivityRemasterCoreActivityAdaptUI",
+    "page_info": {
+      "class_name": "MetalWingMainRePage",
+      "ui_name": "MetalWingMainRePage"
+    },
+    "time": "stop",
+    "title_res_tag": "ActivityRemasterCore_re2_2",
+    "type": 12
+  },
+  "1000004": {
+    "config_client": {
+      "PT_ACT": 1000001,
+      "entrance_bg": "activitybanner/temp1004"
+    },
+    "config_data": [
+      1830004,
+      1830005,
+      1830006,
+      1830024,
+      1830025,
+      1830026,
+      1830041,
+      1830051
+    ],
+    "config_id": 0,
+    "id": 1000004,
+    "is_show": 0,
+    "login_pop": 0,
+    "mark": 20261008,
+    "page_core": "",
+    "page_info": "",
+    "time": "stop",
+    "title_res_tag": "",
+    "type": 12
+  },
+  "1000005": {
+    "config_client": "",
+    "config_data": [
+      10000015,
+      10000016,
+      10000017,
+      10000018,
+      10000019,
+      10000020,
+      10000021,
+      10000022,
+      10000023,
+      10000024,
+      10000025,
+      10000026,
+      10000027,
+      10000028,
+      10000029,
+      10000030,
+      10000031,
+      10000032,
+      10000033,
+      10000034
+    ],
+    "config_id": 0,
+    "id": 1000005,
+    "is_show": 0,
+    "login_pop": 0,
+    "mark": 20261008,
+    "page_core": "",
+    "page_info": "",
+    "time": "stop",
+    "title_res_tag": "",
+    "type": 13
+  },
+  "1000006": {
+    "config_client": "",
+    "config_data": [
+      [
+        31944,
+        100
+      ]
+    ],
+    "config_id": 1,
+    "id": 1000006,
+    "is_show": 0,
+    "login_pop": 0,
+    "mark": 20261008,
+    "page_core": "",
+    "page_info": "",
+    "time": "stop",
+    "title_res_tag": "",
+    "type": 27
+  },
+  "1000007": {
+    "config_client": {
+      "bg": "buildingbg/bg_build_re_1000007",
+      "buildship_tip": "Rate UP for Pittsburgh, Indiana, etc.!",
+      "id": 15,
+      "rate_tip": [
+        "<color=#ffde38>Super Rare</color>: 7%",
+        "<color=#d797ff>Elite</color>: 12%",
+        "<color=#3dc6ff>Rare</color>: 51%",
+        "Common: 30%",
+        "<color=#ffde38>Pittsburgh</color>: 2.0%(<color=#92fc63>up!</color>)",
+        " ",
+        "<color=#ffde38>Indiana</color>: 2.0%(<color=#92fc63>up!</color>)",
+        " ",
+        "<color=#ffde38>Fargo</color>: 0.5%",
+        " ",
+        "<color=#d797ff>Bell</color>: 2.5%(<color=#92fc63>up!</color>)"
+      ]
+    },
+    "config_data": [
+      [
+        103281,
+        200
+      ],
+      [
+        105151,
+        200
+      ],
+      [
+        102331,
+        50
+      ],
+      [
+        101521,
+        250
+      ]
+    ],
+    "config_id": 15,
+    "id": 1000007,
+    "is_show": 0,
+    "login_pop": 0,
+    "mark": 20261008,
+    "page_core": "",
+    "page_info": "",
+    "time": "stop",
+    "title_res_tag": "",
+    "type": 1
+  },
+  "1000008": {
+    "config_client": "",
+    "config_data": [],
+    "config_id": 100001,
+    "id": 1000008,
+    "is_show": 3,
+    "login_pop": 0,
+    "mark": 20261008,
+    "page_core": "ActivityRemasterCoreActivityAdaptUI",
+    "page_info": {
+      "class_name": "MeixiV5FrameRePage",
+      "ui_name": "MeixiV5FrameRePage"
+    },
+    "time": "stop",
+    "title_res_tag": "ActivityRemasterCore_re2_3",
+    "type": 87
+  },
+  "1000009": {
+    "config_client": {
+      "story": [
+        [
+          "ZHUHONGMIJU1"
+        ],
+        [
+          "ZHUHONGMIJU2"
+        ],
+        [
+          "ZHUHONGMIJU3"
+        ],
+        [
+          "ZHUHONGMIJU4"
+        ],
+        [
+          "ZHUHONGMIJU5"
+        ],
+        [
+          "ZHUHONGMIJU6"
+        ],
+        [
+          "ZHUHONGMIJU7"
+        ]
+      ]
+    },
+    "config_data": [
+      [
+        10000001,
+        10000002
+      ],
+      [
+        10000003,
+        10000004
+      ],
+      [
+        10000005,
+        10000006
+      ],
+      [
+        10000007,
+        10000008
+      ],
+      [
+        10000009,
+        10000010
+      ],
+      [
+        10000011,
+        10000012
+      ],
+      [
+        10000013,
+        10000014
+      ]
+    ],
+    "config_id": 3,
+    "id": 1000009,
+    "is_show": 4,
+    "login_pop": 0,
+    "mark": 20261008,
+    "page_core": "ActivityRemasterCoreActivityAdaptUI",
+    "page_info": {
+      "class_name": "OutPostTaskRePage",
+      "ui_name": "OutPostTaskRePage"
+    },
+    "time": "stop",
+    "title_res_tag": "ActivityRemasterCore_re2_4",
+    "type": 18
+  },
+  "1000010": {
+    "config_client": "",
+    "config_data": [],
+    "config_id": 31,
+    "id": 1000010,
+    "is_show": 0,
+    "login_pop": 0,
+    "mark": 20261008,
+    "page_core": "",
+    "page_info": "",
+    "time": "stop",
+    "title_res_tag": "",
+    "type": 58
+  },
+  "1000011": {
+    "config_client": {
+      "bg": 1
+    },
+    "config_data": [],
+    "config_id": 1001,
+    "id": 1000011,
+    "is_show": 5,
+    "login_pop": 0,
+    "mark": 20261008,
+    "page_core": "ActivityRemasterCoreActivityAdaptUI",
+    "page_info": {
+      "class_name": "ActivityRemasterLoginPage",
+      "ui_name": "ActivityRemasterLoginPage"
+    },
+    "time": "stop",
+    "title_res_tag": "ActivityRemasterCore_re2_5",
+    "type": 3
+  },
+  "1000012": {
+    "config_client": [
+      220001
+    ],
+    "config_data": [
+      15
+    ],
+    "config_id": 0,
+    "id": 1000012,
+    "is_show": 0,
+    "login_pop": 0,
+    "mark": 20261008,
+    "page_core": "",
+    "page_info": "",
+    "time": "stop",
+    "title_res_tag": "",
+    "type": 80
+  },
+  "1000021": {
+    "config_client": {
+      "highValueItemSort": [
+        13,
+        21,
+        23,
+        25,
+        28
+      ],
+      "shopLinkActID": 1000022
+    },
+    "config_data": [],
+    "config_id": 1000021,
+    "id": 1000021,
+    "is_show": 2,
+    "login_pop": 0,
+    "mark": 20261008,
+    "page_core": "ActivityRemasterCoreActivityAdaptUI",
+    "page_info": {
+      "class_name": "Jp7thPtRePage",
+      "ui_name": "Jp7thPtRePage"
+    },
+    "time": "stop",
+    "title_res_tag": "ActivityRemasterCore_re3_1",
+    "type": 174
+  },
+  "1000022": {
+    "config_client": {
+      "1": "commonbg/bg_pt_tiancheng_cv",
+      "2": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "PT_ACT": 1000021,
+      "painting": "birui_alter_pt",
+      "use_secretary": false
+    },
+    "config_data": [
+      100031,
+      100032,
+      100033,
+      100034,
+      100035,
+      100036,
+      100037,
+      100038,
+      100039,
+      100040,
+      100041,
+      100042,
+      100043,
+      100044,
+      100045,
+      100046,
+      100047,
+      100048,
+      100049,
+      100050,
+      100051,
+      100052,
+      100053,
+      100054,
+      100055,
+      100056,
+      100057,
+      100058,
+      100059,
+      100060,
+      100061,
+      100062
+    ],
+    "config_id": 0,
+    "id": 1000022,
+    "is_show": 0,
+    "login_pop": 0,
+    "mark": 20261008,
+    "page_core": "",
+    "page_info": "",
+    "time": "stop",
+    "title_res_tag": "",
+    "type": 14
+  },
+  "1000023": {
+    "config_client": {
+      "PT_ACT": 1000021,
+      "entrance_bg": "activitybanner/temp1014",
+      "task_id": 10000078
+    },
+    "config_data": [
+      1850001,
+      1850002,
+      1850003,
+      1850021,
+      1850022,
+      1850023
+    ],
+    "config_id": 0,
+    "id": 1000023,
+    "is_show": 1,
+    "login_pop": 0,
+    "mark": 20261008,
+    "page_core": "ActivityRemasterCoreActivityAdaptUI",
+    "page_info": {
+      "class_name": "Japan2024AnniversaryMainRePage",
+      "ui_name": "Japan2024AnniversaryMainRePage"
+    },
+    "time": "stop",
+    "title_res_tag": "ActivityRemasterCore_re3_2",
+    "type": 12
+  },
+  "1000024": {
+    "config_client": {
+      "PT_ACT": 1000021,
+      "entrance_bg": "activitybanner/temp1014",
+      "task_id": 10000078
+    },
+    "config_data": [
+      1850004,
+      1850005,
+      1850006,
+      1850024,
+      1850025,
+      1850026,
+      1850041,
+      1850051,
+      1850052
+    ],
+    "config_id": 0,
+    "id": 1000024,
+    "is_show": 0,
+    "login_pop": 0,
+    "mark": 20261008,
+    "page_core": "",
+    "page_info": "",
+    "time": "stop",
+    "title_res_tag": "",
+    "type": 12
+  },
+  "1000025": {
+    "config_client": "",
+    "config_data": [
+      10000055,
+      10000056,
+      10000057,
+      10000058,
+      10000059,
+      10000060,
+      10000061,
+      10000062,
+      10000063,
+      10000064,
+      10000065,
+      10000066,
+      10000067,
+      10000068,
+      10000069,
+      10000070,
+      10000071,
+      10000072,
+      10000073,
+      10000074,
+      10000078
+    ],
+    "config_id": 0,
+    "id": 1000025,
+    "is_show": 0,
+    "login_pop": 0,
+    "mark": 20261008,
+    "page_core": "",
+    "page_info": "",
+    "time": "stop",
+    "title_res_tag": "",
+    "type": 13
+  },
+  "1000026": {
+    "config_client": "",
+    "config_data": [
+      [
+        31943,
+        100
+      ]
+    ],
+    "config_id": 1,
+    "id": 1000026,
+    "is_show": 0,
+    "login_pop": 0,
+    "mark": 20261008,
+    "page_core": "",
+    "page_info": "",
+    "time": "stop",
+    "title_res_tag": "",
+    "type": 27
+  },
+  "1000027": {
+    "config_client": {
+      "bg": "buildingbg/bg_build_re_1000027",
+      "buildship_tip": "Get Amagi(CV) guaranteed with every 200 event builds (can be done up to 4 times)!",
+      "id": 16,
+      "rate_tip": [
+        "<color=#ff5e39>Ultra Rare</color>: 1.2%",
+        "<color=#ffde38>Super Rare</color>: 7%",
+        "<color=#d797ff>Elite</color>: 12%",
+        "<color=#3dc6ff>Rare</color>: 51%",
+        "Common: 28.8%",
+        " ",
+        "<color=#ff5e39>Amagi(CV)</color>: 1.2%(<color=#92fc63>up!</color>)",
+        " ",
+        "<color=#ffde38>Watarase</color>: 2.0%(<color=#92fc63>up!</color>)",
+        " ",
+        "<color=#ffde38>Hiei META</color>: 0.5%",
+        " ",
+        "<color=#d797ff>Suzunami</color>: 2.5%(<color=#92fc63>up!</color>)"
+      ]
+    },
+    "config_data": [
+      [
+        307151,
+        10000
+      ],
+      [
+        302251,
+        200
+      ],
+      [
+        9704051,
+        50
+      ],
+      [
+        301911,
+        250
+      ]
+    ],
+    "config_id": 16,
+    "id": 1000027,
+    "is_show": 0,
+    "login_pop": 0,
+    "mark": 20261008,
+    "page_core": "",
+    "page_info": "",
+    "time": "stop",
+    "title_res_tag": "",
+    "type": 1
+  },
+  "1000028": {
+    "config_client": "",
+    "config_data": [],
+    "config_id": 100002,
+    "id": 1000028,
+    "is_show": 3,
+    "login_pop": 0,
+    "mark": 20261008,
+    "page_core": "ActivityRemasterCoreActivityAdaptUI",
+    "page_info": {
+      "class_name": "AnniV5FrameRePage",
+      "ui_name": "AnniV5FrameRePage"
+    },
+    "time": "stop",
+    "title_res_tag": "ActivityRemasterCore_re3_3",
+    "type": 87
+  },
+  "1000029": {
+    "config_client": {
+      "story": [
+        [
+          "HUIJUYUCIANZHICHEN1"
+        ],
+        [
+          "HUIJUYUCIANZHICHEN2"
+        ],
+        [
+          "HUIJUYUCIANZHICHEN3"
+        ],
+        [
+          "HUIJUYUCIANZHICHEN4"
+        ],
+        [
+          "HUIJUYUCIANZHICHEN5"
+        ],
+        [
+          "HUIJUYUCIANZHICHEN6"
+        ],
+        [
+          "HUIJUYUCIANZHICHEN7"
+        ]
+      ]
+    },
+    "config_data": [
+      [
+        10000041,
+        10000042
+      ],
+      [
+        10000043,
+        10000044
+      ],
+      [
+        10000045,
+        10000046
+      ],
+      [
+        10000047,
+        10000048
+      ],
+      [
+        10000049,
+        10000050
+      ],
+      [
+        10000051,
+        10000052
+      ],
+      [
+        10000053,
+        10000054
+      ]
+    ],
+    "config_id": 3,
+    "id": 1000029,
+    "is_show": 4,
+    "login_pop": 0,
+    "mark": 20261008,
+    "page_core": "ActivityRemasterCoreActivityAdaptUI",
+    "page_info": {
+      "class_name": "AmagiACTaskRePage",
+      "ui_name": "AmagiACTaskRePage"
+    },
+    "time": "stop",
+    "title_res_tag": "ActivityRemasterCore_re3_4",
+    "type": 18
+  },
+  "1000030": {
+    "config_client": "",
+    "config_data": [],
+    "config_id": 32,
+    "id": 1000030,
+    "is_show": 0,
+    "login_pop": 0,
+    "mark": 20261008,
+    "page_core": "",
+    "page_info": "",
+    "time": "stop",
+    "title_res_tag": "",
+    "type": 58
+  },
+  "1000031": {
+    "config_client": {
+      "bg": 2
+    },
+    "config_data": [],
+    "config_id": 1002,
+    "id": 1000031,
+    "is_show": 5,
+    "login_pop": 0,
+    "mark": 20261008,
+    "page_core": "ActivityRemasterCoreActivityAdaptUI",
+    "page_info": {
+      "class_name": "ActivityRemasterLoginPage",
+      "ui_name": "ActivityRemasterLoginPage"
+    },
+    "time": "stop",
+    "title_res_tag": "ActivityRemasterCore_re3_5",
+    "type": 3
+  },
+  "1000032": {
+    "config_client": [
+      220002
+    ],
+    "config_data": [
+      16
+    ],
+    "config_id": 0,
+    "id": 1000032,
+    "is_show": 0,
+    "login_pop": 0,
+    "mark": 20261008,
+    "page_core": "",
+    "page_info": "",
+    "time": "stop",
+    "title_res_tag": "",
+    "type": 80
+  },
+  "1000035": {
+    "config_client": "",
+    "config_data": [],
+    "config_id": 1000027,
+    "id": 1000035,
+    "is_show": 0,
+    "login_pop": 0,
+    "mark": 20261008,
+    "page_core": "",
+    "page_info": "",
+    "time": "stop",
+    "title_res_tag": "",
+    "type": 10
+  },
+  "1000041": {
+    "config_client": {
+      "highValueItemSort": [
+        13,
+        21,
+        23,
+        25,
+        28
+      ],
+      "shopLinkActID": 1000042
+    },
+    "config_data": [],
+    "config_id": 1000041,
+    "id": 1000041,
+    "is_show": 2,
+    "login_pop": 0,
+    "mark": 20261008,
+    "page_core": "ActivityRemasterCoreActivityAdaptUI",
+    "page_info": {
+      "class_name": "StarlightAccumulateRePage",
+      "ui_name": "StarlightAccumulateRePage"
+    },
+    "time": "stop",
+    "title_res_tag": "ActivityRemasterCore_re4_1",
+    "type": 174
+  },
+  "1000042": {
+    "config_client": {
+      "1": "commonbg/bg_pt_lumei",
+      "2": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "PT_ACT": 1000041,
+      "painting": "xipeier_pt",
+      "use_secretary": false
+    },
+    "config_data": [
+      100071,
+      100072,
+      100073,
+      100074,
+      100075,
+      100076,
+      100077,
+      100078,
+      100079,
+      100080,
+      100081,
+      100082,
+      100083,
+      100084,
+      100085,
+      100086,
+      100087,
+      100088,
+      100089,
+      100090,
+      100091,
+      100092,
+      100093,
+      100094,
+      100095,
+      100096,
+      100097,
+      100098,
+      100099,
+      100100,
+      100101,
+      100102,
+      100103,
+      100104,
+      100105,
+      100106
+    ],
+    "config_id": 0,
+    "id": 1000042,
+    "is_show": 0,
+    "login_pop": 0,
+    "mark": 20261008,
+    "page_core": "",
+    "page_info": "",
+    "time": "stop",
+    "title_res_tag": "",
+    "type": 14
+  },
+  "1000043": {
+    "config_client": {
+      "PT_ACT": 1000041,
+      "entrance_bg": "activitybanner/temp1024",
+      "task_id": 10000138
+    },
+    "config_data": [
+      1880001,
+      1880002,
+      1880003,
+      1880021,
+      1880022,
+      1880023
+    ],
+    "config_id": 0,
+    "id": 1000043,
+    "is_show": 1,
+    "login_pop": 0,
+    "mark": 20261008,
+    "page_core": "ActivityRemasterCoreActivityAdaptUI",
+    "page_info": {
+      "class_name": "ActiveStarlightHomeRepage",
+      "ui_name": "ActiveStarlightHomeRepage"
+    },
+    "time": "stop",
+    "title_res_tag": "ActivityRemasterCore_re4_2",
+    "type": 12
+  },
+  "1000044": {
+    "config_client": {
+      "PT_ACT": 1000041,
+      "entrance_bg": "activitybanner/temp1024",
+      "task_id": 10000138
+    },
+    "config_data": [
+      1880004,
+      1880005,
+      1880006,
+      1880024,
+      1880025,
+      1880026,
+      1880041,
+      1880051,
+      1880052
+    ],
+    "config_id": 0,
+    "id": 1000044,
+    "is_show": 0,
+    "login_pop": 0,
+    "mark": 20261008,
+    "page_core": "",
+    "page_info": "",
+    "time": "stop",
+    "title_res_tag": "",
+    "type": 12
+  },
+  "1000045": {
+    "config_client": "",
+    "config_data": [
+      10000095,
+      10000096,
+      10000097,
+      10000098,
+      10000099,
+      10000100,
+      10000101,
+      10000102,
+      10000103,
+      10000104,
+      10000105,
+      10000107,
+      10000108,
+      10000109,
+      10000110,
+      10000111,
+      10000112,
+      10000113,
+      10000114,
+      10000115,
+      10000116,
+      10000117,
+      10000138
+    ],
+    "config_id": 0,
+    "id": 1000045,
+    "is_show": 0,
+    "login_pop": 0,
+    "mark": 20261008,
+    "page_core": "",
+    "page_info": "",
+    "time": "stop",
+    "title_res_tag": "",
+    "type": 13
+  },
+  "1000046": {
+    "config_client": "",
+    "config_data": [
+      [
+        31940,
+        100
+      ]
+    ],
+    "config_id": 1,
+    "id": 1000046,
+    "is_show": 0,
+    "login_pop": 0,
+    "mark": 20261008,
+    "page_core": "",
+    "page_info": "",
+    "time": "stop",
+    "title_res_tag": "",
+    "type": 27
+  },
+  "1000047": {
+    "config_client": {
+      "bg": "buildingbg/bg_build_re_1000047",
+      "buildship_tip": "Get Fritz Rumey guaranteed with every 200 event builds (can be done up to 4 times)!",
+      "id": 16,
+      "rate_tip": [
+        "<color=#ff5e39>Ultra Rare</color>: 1.2%",
+        "<color=#ffde38>Super Rare</color>: 7%",
+        "<color=#d797ff>Elite</color>: 12%",
+        "<color=#3dc6ff>Rare</color>: 51%",
+        "Common: 28.8%",
+        " ",
+        "<color=#ff5e39>Fritz Rumey</color>: 1.2%(<color=#92fc63>up!</color>)",
+        " ",
+        "<color=#ffde38>Duisburg</color>: 2.0%(<color=#92fc63>up!</color>)",
+        " ",
+        "<color=#ffde38>Admiral Hipper META</color>: 0.5%",
+        " ",
+        "<color=#d797ff>Z11</color>: 2.5%(<color=#92fc63>up!</color>)"
+      ]
+    },
+    "config_data": [
+      [
+        407041,
+        10000
+      ],
+      [
+        402111,
+        200
+      ],
+      [
+        9703051,
+        50
+      ],
+      [
+        401111,
+        250
+      ]
+    ],
+    "config_id": 16,
+    "id": 1000047,
+    "is_show": 0,
+    "login_pop": 0,
+    "mark": 20261008,
+    "page_core": "",
+    "page_info": "",
+    "time": "stop",
+    "title_res_tag": "",
+    "type": 1
+  },
+  "1000048": {
+    "config_client": "",
+    "config_data": [],
+    "config_id": 100003,
+    "id": 1000048,
+    "is_show": 3,
+    "login_pop": 0,
+    "mark": 20261008,
+    "page_core": "ActivityRemasterCoreActivityAdaptUI",
+    "page_info": {
+      "class_name": "DexiV6FrameRePage",
+      "ui_name": "DexiV6FrameRePage"
+    },
+    "time": "stop",
+    "title_res_tag": "ActivityRemasterCore_re4_3",
+    "type": 87
+  },
+  "1000049": {
+    "config_client": {
+      "specialstory": [
+        "LINGYUWAIDEGUITU2",
+        "LINGYUWAIDEGUITU9"
+      ],
+      "story": [
+        "LINGYUWAIDEGUITU1",
+        "LINGYUWAIDEGUITU3",
+        "LINGYUWAIDEGUITU4",
+        "LINGYUWAIDEGUITU5",
+        "LINGYUWAIDEGUITU6",
+        "LINGYUWAIDEGUITU7",
+        "LINGYUWAIDEGUITU8"
+      ]
+    },
+    "config_data": [
+      [
+        10000081,
+        10000082
+      ],
+      [
+        10000083,
+        10000084
+      ],
+      [
+        10000085,
+        10000086
+      ],
+      [
+        10000087,
+        10000088
+      ],
+      [
+        10000089,
+        10000090
+      ],
+      [
+        10000091,
+        10000092
+      ],
+      [
+        10000093,
+        10000094
+      ]
+    ],
+    "config_id": 3,
+    "id": 1000049,
+    "is_show": 4,
+    "login_pop": 0,
+    "mark": 20261008,
+    "page_core": "ActivityRemasterCoreActivityAdaptUI",
+    "page_info": {
+      "class_name": "DeXiV6TaskRePage",
+      "ui_name": "DeXiV6TaskRePage"
+    },
+    "time": "stop",
+    "title_res_tag": "ActivityRemasterCore_re4_4",
+    "type": 18
+  },
+  "1000050": {
+    "config_client": "",
+    "config_data": [],
+    "config_id": 34,
+    "id": 1000050,
+    "is_show": 0,
+    "login_pop": 0,
+    "mark": 20261008,
+    "page_core": "",
+    "page_info": "",
+    "time": "stop",
+    "title_res_tag": "",
+    "type": 58
+  },
+  "1000051": {
+    "config_client": {
+      "bg": 3
+    },
+    "config_data": [],
+    "config_id": 1003,
+    "id": 1000051,
+    "is_show": 5,
+    "login_pop": 0,
+    "mark": 20261008,
+    "page_core": "ActivityRemasterCoreActivityAdaptUI",
+    "page_info": {
+      "class_name": "ActivityRemasterLoginPage",
+      "ui_name": "ActivityRemasterLoginPage"
+    },
+    "time": "stop",
+    "title_res_tag": "ActivityRemasterCore_re4_5",
+    "type": 3
+  },
+  "1000052": {
+    "config_client": [
+      220003
+    ],
+    "config_data": [
+      16
+    ],
+    "config_id": 0,
+    "id": 1000052,
+    "is_show": 0,
+    "login_pop": 0,
+    "mark": 20261008,
+    "page_core": "",
+    "page_info": "",
+    "time": "stop",
+    "title_res_tag": "",
+    "type": 80
+  },
+  "1000053": {
+    "config_client": "",
+    "config_data": [],
+    "config_id": 12,
+    "id": 1000053,
+    "is_show": 0,
+    "login_pop": 0,
+    "mark": 20261008,
+    "page_core": "",
+    "page_info": "",
+    "time": "stop",
+    "title_res_tag": "",
+    "type": 110
+  },
+  "1000054": {
+    "config_client": "",
+    "config_data": [
+      10000133,
+      10000134,
+      10000135,
+      10000136,
+      10000137
+    ],
+    "config_id": 0,
+    "id": 1000054,
+    "is_show": 0,
+    "login_pop": 0,
+    "mark": 20261008,
+    "page_core": "",
+    "page_info": "",
+    "time": "stop",
+    "title_res_tag": "",
+    "type": 13
+  },
+  "1000055": {
+    "config_client": "",
+    "config_data": [],
+    "config_id": 1000047,
+    "id": 1000055,
+    "is_show": 0,
+    "login_pop": 0,
+    "mark": 20261008,
+    "page_core": "",
+    "page_info": "",
+    "time": "stop",
+    "title_res_tag": "",
+    "type": 10
+  },
+  "1000056": {
+    "config_client": {
+      "PT_ACT": 1000041,
+      "PT_ACT_UR": 1000057,
+      "activitytime": 1000045,
+      "expedition": 9803,
+      "goodsId": [
+        100071,
+        100072
+      ],
+      "shopId": 1000042,
+      "taskConfig": [
+        [
+          1,
+          "SP Stage First Clear",
+          [
+            10000105
+          ]
+        ],
+        [
+          2,
+          "Daily SP Stage Clear",
+          [
+            1880041
+          ]
+        ],
+        [
+          3,
+          "Random Daily Missions",
+          [
+            10000118,
+            10000119,
+            10000120,
+            10000121,
+            10000122,
+            10000123,
+            10000124,
+            10000125,
+            10000126,
+            10000127,
+            10000128,
+            10000129,
+            10000130,
+            10000131,
+            10000132
+          ]
+        ],
+        [
+          4,
+          "Challenge Missions",
+          [
+            10000133,
+            10000134,
+            10000135,
+            10000136,
+            10000137
+          ]
+        ],
+        [
+          6,
+          "Event Exchange",
+          [
+            100074
+          ]
+        ]
+      ]
+    },
+    "config_data": [],
+    "config_id": 1,
+    "id": 1000056,
+    "is_show": 6,
+    "login_pop": 0,
+    "mark": 20261008,
+    "page_core": "ActivityRemasterCoreActivityAdaptUI",
+    "page_info": {
+      "class_name": "UrExchangeZ52RePage",
+      "ui_name": "UrExchangeZ52RePage"
+    },
+    "time": "stop",
+    "title_res_tag": "ActivityRemasterCore_re4_6",
+    "type": 115
+  },
+  "1000057": {
+    "config_client": "",
+    "config_data": [],
+    "config_id": 1000057,
+    "id": 1000057,
+    "is_show": 0,
+    "login_pop": 0,
+    "mark": 20261008,
+    "page_core": "",
+    "page_info": "",
+    "time": "stop",
+    "title_res_tag": "",
+    "type": 174
+  },
+  "1000058": {
+    "config_client": "",
+    "config_data": [
+      10000431,
+      10000432,
+      10000433,
+      10000434,
+      10000435,
+      10000436,
+      10000437,
+      10000438,
+      10000439
+    ],
+    "config_id": 0,
+    "id": 1000058,
+    "is_show": 0,
+    "login_pop": 0,
+    "mark": 20261008,
+    "page_core": "",
+    "page_info": "",
+    "time": "stop",
+    "title_res_tag": "",
+    "type": 13
+  },
+  "1000061": {
+    "config_client": {
+      "highValueItemSort": [
+        13,
+        21,
+        23,
+        25,
+        28
+      ],
+      "shopLinkActID": 1000062
+    },
+    "config_data": [],
+    "config_id": 1000061,
+    "id": 1000061,
+    "is_show": 2,
+    "login_pop": 0,
+    "mark": 20261008,
+    "page_core": "ActivityRemasterCoreActivityAdaptUI",
+    "page_info": {
+      "class_name": "RaphaelSPPtRePage",
+      "ui_name": "RaphaelSPPtRePage"
+    },
+    "time": "stop",
+    "title_res_tag": "ActivityRemasterCore_re5_2",
+    "type": 174
+  },
+  "1000062": {
+    "config_client": {
+      "1": "commonbg/bg_pt_raffaello",
+      "2": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "PT_ACT": 1000061,
+      "painting": "andelieyam_pt",
+      "use_secretary": false
+    },
+    "config_data": [
+      100111,
+      100112,
+      100113,
+      100114,
+      100115,
+      100116,
+      100117,
+      100118,
+      100119,
+      100120,
+      100121,
+      100122,
+      100123,
+      100124,
+      100125,
+      100126,
+      100127,
+      100128,
+      100129,
+      100130,
+      100131,
+      100132,
+      100133,
+      100134,
+      100135,
+      100136,
+      100137,
+      100138
+    ],
+    "config_id": 0,
+    "id": 1000062,
+    "is_show": 0,
+    "login_pop": 0,
+    "mark": 20261008,
+    "page_core": "",
+    "page_info": "",
+    "time": "stop",
+    "title_res_tag": "",
+    "type": 14
+  },
+  "1000063": {
+    "config_client": {
+      "PT_ACT": 1000061,
+      "entrance_bg": "activitybanner/temp1034",
+      "task_id": 10000178
+    },
+    "config_data": [
+      1890001,
+      1890002,
+      1890003,
+      1890021,
+      1890022,
+      1890023
+    ],
+    "config_id": 0,
+    "id": 1000063,
+    "is_show": 1,
+    "login_pop": 0,
+    "mark": 20261008,
+    "page_core": "ActivityRemasterCoreActivityAdaptUI",
+    "page_info": {
+      "class_name": "CageRePage",
+      "ui_name": "CageRePage"
+    },
+    "time": "stop",
+    "title_res_tag": "ActivityRemasterCore_re5_1",
+    "type": 12
+  },
+  "1000064": {
+    "config_client": {
+      "PT_ACT": 1000061,
+      "entrance_bg": "activitybanner/temp1034",
+      "task_id": 10000178
+    },
+    "config_data": [
+      1890004,
+      1890005,
+      1890006,
+      1890024,
+      1890025,
+      1890026,
+      1890041,
+      1890051,
+      1890052
+    ],
+    "config_id": 0,
+    "id": 1000064,
+    "is_show": 0,
+    "login_pop": 0,
+    "mark": 20261008,
+    "page_core": "",
+    "page_info": "",
+    "time": "stop",
+    "title_res_tag": "",
+    "type": 12
+  },
+  "1000065": {
+    "config_client": "",
+    "config_data": [
+      10000155,
+      10000156,
+      10000157,
+      10000158,
+      10000159,
+      10000160,
+      10000161,
+      10000162,
+      10000163,
+      10000164,
+      10000165,
+      10000167,
+      10000168,
+      10000169,
+      10000170,
+      10000171,
+      10000172,
+      10000173,
+      10000174,
+      10000178
+    ],
+    "config_id": 0,
+    "id": 1000065,
+    "is_show": 0,
+    "login_pop": 0,
+    "mark": 20261008,
+    "page_core": "",
+    "page_info": "",
+    "time": "stop",
+    "title_res_tag": "",
+    "type": 13
+  },
+  "1000066": {
+    "config_client": "",
+    "config_data": [
+      [
+        31938,
+        100
+      ]
+    ],
+    "config_id": 1,
+    "id": 1000066,
+    "is_show": 0,
+    "login_pop": 0,
+    "mark": 20261008,
+    "page_core": "",
+    "page_info": "",
+    "time": "stop",
+    "title_res_tag": "",
+    "type": 27
+  },
+  "1000067": {
+    "config_client": {
+      "bg": "buildingbg/bg_build_re_1000067",
+      "buildship_tip": "Get Raffaello guaranteed with every 200 event builds (can be done up to 4 times)!",
+      "id": 17,
+      "rate_tip": [
+        "<color=#ff5e39>Ultra Rare</color>: 1.2%",
+        "<color=#ffde38>Super Rare</color>: 7%",
+        "<color=#d797ff>Elite</color>: 12%",
+        "<color=#3dc6ff>Rare</color>: 51%",
+        "Common: 28.8%",
+        " ",
+        "<color=#ff5e39>Raffaello</color>: 1.2%(<color=#92fc63>up!</color>)",
+        " ",
+        "<color=#ffde38>Maggiore Baracca</color>: 2.0%(<color=#92fc63>up!</color>)",
+        " ",
+        "<color=#ffde38>Andrea Doria META</color>: 0.5%",
+        " ",
+        "<color=#d797ff>Bartolomeo Colleoni</color>: 2.5%(<color=#92fc63>up!</color>)"
+      ]
+    },
+    "config_data": [
+      [
+        605081,
+        10000
+      ],
+      [
+        608031,
+        200
+      ],
+      [
+        9705081,
+        50
+      ],
+      [
+        602031,
+        250
+      ]
+    ],
+    "config_id": 17,
+    "id": 1000067,
+    "is_show": 0,
+    "login_pop": 0,
+    "mark": 20261008,
+    "page_core": "",
+    "page_info": "",
+    "time": "stop",
+    "title_res_tag": "",
+    "type": 1
+  },
+  "1000068": {
+    "config_client": "",
+    "config_data": [],
+    "config_id": 100004,
+    "id": 1000068,
+    "is_show": 3,
+    "login_pop": 0,
+    "mark": 20261008,
+    "page_core": "ActivityRemasterCoreActivityAdaptUI",
+    "page_info": {
+      "class_name": "YidaliV4FrameRePage",
+      "ui_name": "YidaliV4FrameRePage"
+    },
+    "time": "stop",
+    "title_res_tag": "ActivityRemasterCore_re5_3",
+    "type": 87
+  },
+  "1000069": {
+    "config_client": {
+      "story": [
+        [
+          "SHOUXUANZHEZHILU1"
+        ],
+        [
+          "SHOUXUANZHEZHILU2"
+        ],
+        [
+          "SHOUXUANZHEZHILU3"
+        ],
+        [
+          "SHOUXUANZHEZHILU4"
+        ],
+        [
+          "SHOUXUANZHEZHILU5"
+        ],
+        [
+          "SHOUXUANZHEZHILU6"
+        ],
+        [
+          "SHOUXUANZHEZHILU7"
+        ]
+      ]
+    },
+    "config_data": [
+      [
+        10000141,
+        10000142
+      ],
+      [
+        10000143,
+        10000144
+      ],
+      [
+        10000145,
+        10000146
+      ],
+      [
+        10000147,
+        10000148
+      ],
+      [
+        10000149,
+        10000150
+      ],
+      [
+        10000151,
+        10000152
+      ],
+      [
+        10000153,
+        10000154
+      ]
+    ],
+    "config_id": 3,
+    "id": 1000069,
+    "is_show": 4,
+    "login_pop": 0,
+    "mark": 20261008,
+    "page_core": "ActivityRemasterCoreActivityAdaptUI",
+    "page_info": {
+      "class_name": "YidaliV4SkinRePage",
+      "ui_name": "YidaliV4SkinRePage"
+    },
+    "time": "stop",
+    "title_res_tag": "ActivityRemasterCore_re5_4",
+    "type": 18
+  },
+  "1000070": {
+    "config_client": "",
+    "config_data": [],
+    "config_id": 35,
+    "id": 1000070,
+    "is_show": 0,
+    "login_pop": 0,
+    "mark": 20261008,
+    "page_core": "",
+    "page_info": "",
+    "time": "stop",
+    "title_res_tag": "",
+    "type": 58
+  },
+  "1000071": {
+    "config_client": {
+      "bg": 4
+    },
+    "config_data": [],
+    "config_id": 1004,
+    "id": 1000071,
+    "is_show": 5,
+    "login_pop": 0,
+    "mark": 20261008,
+    "page_core": "ActivityRemasterCoreActivityAdaptUI",
+    "page_info": {
+      "class_name": "ActivityRemasterLoginPage",
+      "ui_name": "ActivityRemasterLoginPage"
+    },
+    "time": "stop",
+    "title_res_tag": "ActivityRemasterCore_re5_5",
+    "type": 3
+  },
+  "1000072": {
+    "config_client": [
+      220004
+    ],
+    "config_data": [
+      17
+    ],
+    "config_id": 0,
+    "id": 1000072,
+    "is_show": 0,
+    "login_pop": 0,
+    "mark": 20261008,
+    "page_core": "",
+    "page_info": "",
+    "time": "stop",
+    "title_res_tag": "",
+    "type": 80
+  },
+  "1000075": {
+    "config_client": "",
+    "config_data": [],
+    "config_id": 1000067,
+    "id": 1000075,
+    "is_show": 0,
+    "login_pop": 0,
+    "mark": 20261008,
+    "page_core": "",
+    "page_info": "",
+    "time": "stop",
+    "title_res_tag": "",
+    "type": 10
+  },
+  "1000076": {
+    "config_client": "",
+    "config_data": [
+      10000441,
+      10000442,
+      10000443,
+      10000444,
+      10000445,
+      10000446,
+      10000447,
+      10000448,
+      10000449
+    ],
+    "config_id": 0,
+    "id": 1000076,
+    "is_show": 0,
+    "login_pop": 0,
+    "mark": 20261008,
+    "page_core": "",
+    "page_info": "",
+    "time": "stop",
+    "title_res_tag": "",
+    "type": 13
+  },
+  "1000081": {
+    "config_client": {
+      "highValueItemSort": [
+        13,
+        21,
+        23,
+        25,
+        28
+      ],
+      "shopLinkActID": 1000082
+    },
+    "config_data": [],
+    "config_id": 1000081,
+    "id": 1000081,
+    "is_show": 2,
+    "login_pop": 0,
+    "mark": 20261008,
+    "page_core": "ActivityRemasterCoreActivityAdaptUI",
+    "page_info": {
+      "class_name": "RosePtRePage",
+      "ui_name": "RosePtRePage"
+    },
+    "time": "stop",
+    "title_res_tag": "ActivityRemasterCore_re6_1",
+    "type": 174
+  },
+  "1000082": {
+    "config_client": {
+      "1": "commonbg/bg_pt_guangrong_meta",
+      "2": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "PT_ACT": 1000081,
+      "painting": "guangrong_meta_pt",
+      "use_secretary": false
+    },
+    "config_data": [
+      100141,
+      100142,
+      100143,
+      100144,
+      100145,
+      100146,
+      100147,
+      100148,
+      100149,
+      100150,
+      100151,
+      100152,
+      100153,
+      100154,
+      100155,
+      100156,
+      100157,
+      100158,
+      100159,
+      100160,
+      100161,
+      100162,
+      100163,
+      100164,
+      100165,
+      100166,
+      100167,
+      100168,
+      100169,
+      100170,
+      100171,
+      100172
+    ],
+    "config_id": 0,
+    "id": 1000082,
+    "is_show": 0,
+    "login_pop": 0,
+    "mark": 20261008,
+    "page_core": "",
+    "page_info": "",
+    "time": "stop",
+    "title_res_tag": "",
+    "type": 14
+  },
+  "1000083": {
+    "config_client": {
+      "PT_ACT": 1000081,
+      "entrance_bg": "activitybanner/temp1044",
+      "task_id": 10000238
+    },
+    "config_data": [
+      1920001,
+      1920002,
+      1920003,
+      1920021,
+      1920022,
+      1920023
+    ],
+    "config_id": 0,
+    "id": 1000083,
+    "is_show": 1,
+    "login_pop": 0,
+    "mark": 20261008,
+    "page_core": "ActivityRemasterCoreActivityAdaptUI",
+    "page_info": {
+      "class_name": "TrinidadMainRePage",
+      "ui_name": "TrinidadMainRePage"
+    },
+    "time": "stop",
+    "title_res_tag": "ActivityRemasterCore_re6_2",
+    "type": 12
+  },
+  "1000084": {
+    "config_client": {
+      "PT_ACT": 1000081,
+      "entrance_bg": "activitybanner/temp1044",
+      "task_id": 10000238
+    },
+    "config_data": [
+      1920004,
+      1920005,
+      1920006,
+      1920024,
+      1920025,
+      1920026,
+      1920041,
+      1920051,
+      1920052
+    ],
+    "config_id": 0,
+    "id": 1000084,
+    "is_show": 0,
+    "login_pop": 0,
+    "mark": 20261008,
+    "page_core": "",
+    "page_info": "",
+    "time": "stop",
+    "title_res_tag": "",
+    "type": 12
+  },
+  "1000085": {
+    "config_client": "",
+    "config_data": [
+      10000195,
+      10000196,
+      10000197,
+      10000198,
+      10000199,
+      10000200,
+      10000201,
+      10000202,
+      10000203,
+      10000204,
+      10000205,
+      10000207,
+      10000208,
+      10000209,
+      10000210,
+      10000211,
+      10000212,
+      10000213,
+      10000214,
+      10000215,
+      10000216,
+      10000217,
+      10000238
+    ],
+    "config_id": 0,
+    "id": 1000085,
+    "is_show": 0,
+    "login_pop": 0,
+    "mark": 20261008,
+    "page_core": "",
+    "page_info": "",
+    "time": "stop",
+    "title_res_tag": "",
+    "type": 13
+  },
+  "1000086": {
+    "config_client": "",
+    "config_data": [
+      [
+        31935,
+        100
+      ]
+    ],
+    "config_id": 1,
+    "id": 1000086,
+    "is_show": 0,
+    "login_pop": 0,
+    "mark": 20261008,
+    "page_core": "",
+    "page_info": "",
+    "time": "stop",
+    "title_res_tag": "",
+    "type": 27
+  },
+  "1000087": {
+    "config_client": {
+      "bg": "buildingbg/bg_build_re_1000087",
+      "buildship_tip": "Get Lion guaranteed with every 200 event builds (can be done up to 4 times)!",
+      "id": 17,
+      "rate_tip": [
+        "<color=#ff5e39>Ultra Rare</color>: 1.2%",
+        "<color=#ffde38>Super Rare</color>: 7%",
+        "<color=#d797ff>Elite</color>: 12%",
+        "<color=#3dc6ff>Rare</color>: 51%",
+        "Common: 28.8%",
+        " ",
+        "<color=#ff5e39>Lion</color>: 1.2%(<color=#92fc63>up!</color>)",
+        " ",
+        "<color=#ffde38>Cleopatra</color>: 2.0%(<color=#92fc63>up!</color>)",
+        " ",
+        "<color=#ffde38>Glorious META</color>: 0.5%",
+        " ",
+        "<color=#d797ff>Gallant</color>: 2.5%(<color=#92fc63>up!</color>)"
+      ]
+    },
+    "config_data": [
+      [
+        205161,
+        10000
+      ],
+      [
+        202351,
+        200
+      ],
+      [
+        9707071,
+        50
+      ],
+      [
+        201391,
+        250
+      ]
+    ],
+    "config_id": 17,
+    "id": 1000087,
+    "is_show": 0,
+    "login_pop": 0,
+    "mark": 20261008,
+    "page_core": "",
+    "page_info": "",
+    "time": "stop",
+    "title_res_tag": "",
+    "type": 1
+  },
+  "1000088": {
+    "config_client": "",
+    "config_data": [],
+    "config_id": 100005,
+    "id": 1000088,
+    "is_show": 3,
+    "login_pop": 0,
+    "mark": 20261008,
+    "page_core": "ActivityRemasterCoreActivityAdaptUI",
+    "page_info": {
+      "class_name": "HMSFrameRePage",
+      "ui_name": "HMSFrameRePage"
+    },
+    "time": "stop",
+    "title_res_tag": "ActivityRemasterCore_re6_3",
+    "type": 87
+  },
+  "1000089": {
+    "config_client": {
+      "firstStory": "RIBULUODEYUANZHENG1",
+      "story": [
+        [
+          "RIBULUODEYUANZHENG2"
+        ],
+        [
+          "RIBULUODEYUANZHENG3"
+        ],
+        [
+          "RIBULUODEYUANZHENG4"
+        ],
+        [
+          "RIBULUODEYUANZHENG5"
+        ],
+        [
+          "RIBULUODEYUANZHENG6"
+        ],
+        [
+          "RIBULUODEYUANZHENG7"
+        ]
+      ]
+    },
+    "config_data": [
+      [
+        10000181,
+        10000182
+      ],
+      [
+        10000183,
+        10000184
+      ],
+      [
+        10000185,
+        10000186
+      ],
+      [
+        10000187,
+        10000188
+      ],
+      [
+        10000189,
+        10000190
+      ],
+      [
+        10000191,
+        10000192
+      ],
+      [
+        10000193,
+        10000194
+      ]
+    ],
+    "config_id": 3,
+    "id": 1000089,
+    "is_show": 4,
+    "login_pop": 0,
+    "mark": 20261008,
+    "page_core": "ActivityRemasterCoreActivityAdaptUI",
+    "page_info": {
+      "class_name": "ExpeditionSkinRePage",
+      "ui_name": "ExpeditionSkinRePage"
+    },
+    "time": "stop",
+    "title_res_tag": "ActivityRemasterCore_re6_4",
+    "type": 18
+  },
+  "1000090": {
+    "config_client": "",
+    "config_data": [],
+    "config_id": 36,
+    "id": 1000090,
+    "is_show": 0,
+    "login_pop": 0,
+    "mark": 20261008,
+    "page_core": "",
+    "page_info": "",
+    "time": "stop",
+    "title_res_tag": "",
+    "type": 58
+  },
+  "1000091": {
+    "config_client": {
+      "bg": 5
+    },
+    "config_data": [],
+    "config_id": 1005,
+    "id": 1000091,
+    "is_show": 5,
+    "login_pop": 0,
+    "mark": 20261008,
+    "page_core": "ActivityRemasterCoreActivityAdaptUI",
+    "page_info": {
+      "class_name": "ActivityRemasterLoginPage",
+      "ui_name": "ActivityRemasterLoginPage"
+    },
+    "time": "stop",
+    "title_res_tag": "ActivityRemasterCore_re6_5",
+    "type": 3
+  },
+  "1000092": {
+    "config_client": [
+      220005
+    ],
+    "config_data": [
+      17
+    ],
+    "config_id": 0,
+    "id": 1000092,
+    "is_show": 0,
+    "login_pop": 0,
+    "mark": 20261008,
+    "page_core": "",
+    "page_info": "",
+    "time": "stop",
+    "title_res_tag": "",
+    "type": 80
+  },
+  "1000093": {
+    "config_client": "",
+    "config_data": [],
+    "config_id": 13,
+    "id": 1000093,
+    "is_show": 0,
+    "login_pop": 0,
+    "mark": 20261008,
+    "page_core": "",
+    "page_info": "",
+    "time": "stop",
+    "title_res_tag": "",
+    "type": 110
+  },
+  "1000094": {
+    "config_client": "",
+    "config_data": [
+      10000233,
+      10000234,
+      10000235,
+      10000236,
+      10000237
+    ],
+    "config_id": 0,
+    "id": 1000094,
+    "is_show": 0,
+    "login_pop": 0,
+    "mark": 20261008,
+    "page_core": "",
+    "page_info": "",
+    "time": "stop",
+    "title_res_tag": "",
+    "type": 13
+  },
+  "1000095": {
+    "config_client": "",
+    "config_data": [],
+    "config_id": 1000087,
+    "id": 1000095,
+    "is_show": 0,
+    "login_pop": 0,
+    "mark": 20261008,
+    "page_core": "",
+    "page_info": "",
+    "time": "stop",
+    "title_res_tag": "",
+    "type": 10
+  },
+  "1000096": {
+    "config_client": {
+      "PT_ACT": 1000081,
+      "PT_ACT_UR": 1000098,
+      "activitytime": 1000085,
+      "expedition": 9804,
+      "goodsId": [
+        100141,
+        100142
+      ],
+      "shopId": 1000082,
+      "taskConfig": [
+        [
+          1,
+          "SP Stage First Clear",
+          [
+            10000205
+          ]
+        ],
+        [
+          2,
+          "Daily SP Stage Clear",
+          [
+            1920041
+          ]
+        ],
+        [
+          3,
+          "Random Daily Missions",
+          [
+            10000218,
+            10000219,
+            10000220,
+            10000221,
+            10000222,
+            10000223,
+            10000224,
+            10000225,
+            10000226,
+            10000227,
+            10000228,
+            10000229,
+            10000230,
+            10000231,
+            10000232
+          ]
+        ],
+        [
+          4,
+          "Challenge Missions",
+          [
+            10000233,
+            10000234,
+            10000235,
+            10000236,
+            10000237
+          ]
+        ],
+        [
+          6,
+          "Event Exchange",
+          [
+            100144
+          ]
+        ]
+      ]
+    },
+    "config_data": [],
+    "config_id": 1,
+    "id": 1000096,
+    "is_show": 6,
+    "login_pop": 0,
+    "mark": 20261008,
+    "page_core": "ActivityRemasterCoreActivityAdaptUI",
+    "page_info": {
+      "class_name": "UrExTrafalgarRePage",
+      "ui_name": "UrExTrafalgarRePage"
+    },
+    "time": "stop",
+    "title_res_tag": "ActivityRemasterCore_re6_6",
+    "type": 115
+  },
+  "1000097": {
+    "config_client": "",
+    "config_data": [
+      10000401,
+      10000402,
+      10000403,
+      10000404,
+      10000405,
+      10000406,
+      10000407,
+      10000408,
+      10000409
+    ],
+    "config_id": 0,
+    "id": 1000097,
+    "is_show": 0,
+    "login_pop": 0,
+    "mark": 20261008,
+    "page_core": "",
+    "page_info": "",
+    "time": "stop",
+    "title_res_tag": "",
+    "type": 13
+  },
+  "1000098": {
+    "config_client": "",
+    "config_data": [],
+    "config_id": 1000098,
+    "id": 1000098,
+    "is_show": 0,
+    "login_pop": 0,
+    "mark": 20261008,
+    "page_core": "",
+    "page_info": "",
+    "time": "stop",
+    "title_res_tag": "",
+    "type": 174
+  },
+  "1000101": {
+    "config_client": {
+      "highValueItemSort": [
+        13,
+        21,
+        23,
+        25,
+        28
+      ],
+      "shopLinkActID": 1000102
+    },
+    "config_data": [],
+    "config_id": 1000101,
+    "id": 1000101,
+    "is_show": 2,
+    "login_pop": 0,
+    "mark": 20261008,
+    "page_core": "SecretsAbyssCoreActivityReUI",
+    "page_info": {
+      "class_name": "SecretsAbyssPtRePage",
+      "ui_name": "SecretsAbyssPtRePage"
+    },
+    "time": "stop",
+    "title_res_tag": "aersasi_pt",
+    "type": 174
+  },
+  "1000102": {
+    "config_client": {
+      "1": "commonbg/bg_pt_bsmz",
+      "2": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "PT_ACT": 1000101,
+      "painting": "dadan_pt",
+      "use_secretary": false
+    },
+    "config_data": [
+      100181,
+      100182,
+      100183,
+      100184,
+      100185,
+      100186,
+      100187,
+      100188,
+      100189,
+      100190,
+      100191,
+      100192,
+      100193,
+      100194,
+      100195,
+      100196,
+      100197,
+      100198,
+      100199,
+      100200,
+      100201,
+      100202,
+      100203,
+      100204,
+      100205,
+      100206,
+      100207,
+      100208,
+      100209,
+      100210
+    ],
+    "config_id": 0,
+    "id": 1000102,
+    "is_show": 0,
+    "login_pop": 0,
+    "mark": 20261008,
+    "page_core": "",
+    "page_info": "",
+    "time": "stop",
+    "title_res_tag": "",
+    "type": 14
+  },
+  "1000103": {
+    "config_client": {
+      "AwardPreviewPos": [
+        -500,
+        -68,
+        0
+      ],
+      "PT_ACT": 1000101,
+      "entrance_bg": "activitybanner/temp1054",
+      "first_story": "QIYUANXIADEMIMI1",
+      "order": 1,
+      "roll_task": 21819,
+      "storys": [
+        121,
+        122,
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144,
+        145,
+        146,
+        147,
+        148,
+        149,
+        150,
+        151,
+        152,
+        153,
+        154,
+        155,
+        156,
+        157,
+        158,
+        159,
+        160,
+        161,
+        162,
+        163,
+        164,
+        165,
+        166
+      ],
+      "task_id": 10000278
+    },
+    "config_data": [
+      1950001,
+      1950002,
+      1950003,
+      1950021,
+      1950022,
+      1950023
+    ],
+    "config_id": 0,
+    "id": 1000103,
+    "is_show": 1,
+    "login_pop": 0,
+    "mark": 20261008,
+    "page_core": "SecretsAbyssCoreActivityReUI",
+    "page_info": {
+      "class_name": "SecretsAbyssMainRePage",
+      "ui_name": "SecretsAbyssMainRePage"
+    },
+    "time": "stop",
+    "title_res_tag": "aersasi_main",
+    "type": 12
+  },
+  "1000104": {
+    "config_client": {
+      "entrance_bg": "activitybanner/temp1054",
+      "task_id": 10000278
+    },
+    "config_data": [
+      1950004,
+      1950005,
+      1950006,
+      1950024,
+      1950025,
+      1950026,
+      1950041,
+      1950051,
+      1950052
+    ],
+    "config_id": 0,
+    "id": 1000104,
+    "is_show": 0,
+    "login_pop": 0,
+    "mark": 20261008,
+    "page_core": "",
+    "page_info": "",
+    "time": "stop",
+    "title_res_tag": "",
+    "type": 12
+  },
+  "1000105": {
+    "config_client": "",
+    "config_data": [
+      10000255,
+      10000256,
+      10000257,
+      10000258,
+      10000259,
+      10000260,
+      10000261,
+      10000262,
+      10000263,
+      10000264,
+      10000265,
+      10000267,
+      10000268,
+      10000269,
+      10000270,
+      10000271,
+      10000272,
+      10000273,
+      10000274,
+      10000278,
+      21819
+    ],
+    "config_id": 0,
+    "id": 1000105,
+    "is_show": 0,
+    "login_pop": 0,
+    "mark": 20261008,
+    "page_core": "",
+    "page_info": "",
+    "time": "stop",
+    "title_res_tag": "",
+    "type": 13
+  },
+  "1000106": {
+    "config_client": "",
+    "config_data": [
+      [
+        31932,
+        100
+      ]
+    ],
+    "config_id": 1,
+    "id": 1000106,
+    "is_show": 0,
+    "login_pop": 0,
+    "mark": 20261008,
+    "page_core": "",
+    "page_info": "",
+    "time": "stop",
+    "title_res_tag": "",
+    "type": 27
+  },
+  "1000107": {
+    "config_client": {
+      "bg": "buildingbg/bg_build_re_1000107",
+      "buildship_tip": "Rate up for Masséna, Bois Belleau, etc.!",
+      "id": 15,
+      "rate_tip": [
+        "<color=#ffde38>Super Rare</color>: 7%",
+        "<color=#d797ff>Elite</color>: 12%",
+        "<color=#3dc6ff>Rare</color>: 51%",
+        "Common: 30%",
+        "<color=#ffde38>Masséna</color>: 2.0%(<color=#92fc63>up!</color>)",
+        " ",
+        "<color=#ffde38>Bois Belleau</color>: 2.0%(<color=#92fc63>up!</color>)",
+        " ",
+        "<color=#ffde38>Le Hardi</color>: 0.5%",
+        " ",
+        "<color=#d797ff>Duquesne</color>: 2.5%(<color=#92fc63>up!</color>)"
+      ]
+    },
+    "config_data": [
+      [
+        804011,
+        200
+      ],
+      [
+        806011,
+        200
+      ],
+      [
+        801051,
+        50
+      ],
+      [
+        803031,
+        250
+      ]
+    ],
+    "config_id": 15,
+    "id": 1000107,
+    "is_show": 0,
+    "login_pop": 0,
+    "mark": 20261008,
+    "page_core": "",
+    "page_info": "",
+    "time": "stop",
+    "title_res_tag": "",
+    "type": 1
+  },
+  "1000108": {
+    "config_client": "",
+    "config_data": [
+      [
+        10000241,
+        10000242
+      ],
+      [
+        10000243,
+        10000244
+      ],
+      [
+        10000245,
+        10000246
+      ],
+      [
+        10000247,
+        10000248
+      ],
+      [
+        10000249,
+        10000250
+      ],
+      [
+        10000251,
+        10000252
+      ],
+      [
+        10000253,
+        10000254
+      ]
+    ],
+    "config_id": 3,
+    "id": 1000108,
+    "is_show": 3,
+    "login_pop": 0,
+    "mark": 20261008,
+    "page_core": "SecretsAbyssCoreActivityReUI",
+    "page_info": {
+      "class_name": "ForestVacationSkinRePage",
+      "ui_name": "ForestVacationSkinRePage"
+    },
+    "time": "stop",
+    "title_res_tag": "ActivityRemasterCore_re7_1",
+    "type": 18
+  },
+  "1000109": {
+    "config_client": {
+      "bg": 6
+    },
+    "config_data": [],
+    "config_id": 1006,
+    "id": 1000109,
+    "is_show": 4,
+    "login_pop": 0,
+    "mark": 20261008,
+    "page_core": "SecretsAbyssCoreActivityReUI",
+    "page_info": {
+      "class_name": "ActivityRemasterLoginPage",
+      "ui_name": "ActivityRemasterLoginPage"
+    },
+    "time": "stop",
+    "title_res_tag": "ActivityRemasterCore_re7_2",
+    "type": 3
+  },
+  "1000110": {
+    "config_client": [
+      220006
+    ],
+    "config_data": [
+      15
+    ],
+    "config_id": 0,
+    "id": 1000110,
+    "is_show": 0,
+    "login_pop": 0,
+    "mark": 20261008,
+    "page_core": "",
+    "page_info": "",
+    "time": "stop",
+    "title_res_tag": "",
+    "type": 80
+  },
+  "1000111": {
+    "config_client": "",
+    "config_data": [
+      10000411,
+      10000412,
+      10000413,
+      10000414,
+      10000415,
+      10000416,
+      10000417,
+      10000418,
+      10000419
+    ],
+    "config_id": 0,
+    "id": 1000111,
+    "is_show": 0,
+    "login_pop": 0,
+    "mark": 20261008,
+    "page_core": "",
+    "page_info": "",
+    "time": "stop",
+    "title_res_tag": "",
+    "type": 13
+  },
+  "1000112": {
+    "config_client": "",
+    "config_data": [
+      3001,
+      3002,
+      3003,
+      3004,
+      3005,
+      3006,
+      3007,
+      3008,
+      3009,
+      3010,
+      3011,
+      3012,
+      3013,
+      3014,
+      3015,
+      3016,
+      3017,
+      3018,
+      3019,
+      3020,
+      3021,
+      3022,
+      3023,
+      3024,
+      3025,
+      3026,
+      3027,
+      3028
+    ],
+    "config_id": 0,
+    "id": 1000112,
+    "is_show": 0,
+    "login_pop": 0,
+    "mark": 20261008,
+    "page_core": "",
+    "page_info": "",
+    "time": "stop",
+    "title_res_tag": "",
+    "type": 112
+  },
+  "1000121": {
+    "config_client": {
+      "highValueItemSort": [
+        13,
+        21,
+        23,
+        25,
+        28
+      ],
+      "shopLinkActID": 1000122
+    },
+    "config_data": [],
+    "config_id": 1000121,
+    "id": 1000121,
+    "is_show": 2,
+    "login_pop": 0,
+    "mark": 20261008,
+    "page_core": "TianYuTianYuanCoreActivityReUI",
+    "page_info": {
+      "class_name": "TianYuTianYuanPtRePage",
+      "ui_name": "TianYuTianYuanPtRePage"
+    },
+    "time": "stop",
+    "title_res_tag": "aersasi_pt",
+    "type": 174
+  },
+  "1000122": {
+    "config_client": {
+      "1": "commonbg/bg_pt_aersasi",
+      "2": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "PT_ACT": 1000121,
+      "painting": "qianjian_pt",
+      "use_secretary": false
+    },
+    "config_data": [
+      100221,
+      100222,
+      100223,
+      100224,
+      100225,
+      100226,
+      100227,
+      100228,
+      100229,
+      100230,
+      100231,
+      100232,
+      100233,
+      100234,
+      100235,
+      100236,
+      100237,
+      100238,
+      100239,
+      100240,
+      100241,
+      100242,
+      100243,
+      100244,
+      100245,
+      100246,
+      100247,
+      100248,
+      100249,
+      100250,
+      100251
+    ],
+    "config_id": 0,
+    "id": 1000122,
+    "is_show": 0,
+    "login_pop": 0,
+    "mark": 20261008,
+    "page_core": "",
+    "page_info": "",
+    "time": "stop",
+    "title_res_tag": "",
+    "type": 14
+  },
+  "1000123": {
+    "config_client": {
+      "AwardPreviewPos": [
+        -500,
+        -68,
+        0
+      ],
+      "PT_ACT": 1000121,
+      "entrance_bg": "activitybanner/temp1064",
+      "task_id": 10000338
+    },
+    "config_data": [
+      1960001,
+      1960002,
+      1960003,
+      1960021,
+      1960022,
+      1960023
+    ],
+    "config_id": 0,
+    "id": 1000123,
+    "is_show": 1,
+    "login_pop": 0,
+    "mark": 20261008,
+    "page_core": "TianYuTianYuanCoreActivityReUI",
+    "page_info": {
+      "class_name": "TianYuTianYuanMainRePage",
+      "ui_name": "TianYuTianYuanMainRePage"
+    },
+    "time": "stop",
+    "title_res_tag": "aersasi_main",
+    "type": 12
+  },
+  "1000124": {
+    "config_client": {
+      "PT_ACT": 1000121,
+      "entrance_bg": "activitybanner/temp1064",
+      "task_id": 10000338
+    },
+    "config_data": [
+      1960004,
+      1960005,
+      1960006,
+      1960024,
+      1960025,
+      1960026,
+      1960041,
+      1960051,
+      1960052
+    ],
+    "config_id": 0,
+    "id": 1000124,
+    "is_show": 0,
+    "login_pop": 0,
+    "mark": 20261008,
+    "page_core": "",
+    "page_info": "",
+    "time": "stop",
+    "title_res_tag": "",
+    "type": 12
+  },
+  "1000125": {
+    "config_client": "",
+    "config_data": [
+      10000295,
+      10000296,
+      10000297,
+      10000298,
+      10000299,
+      10000300,
+      10000301,
+      10000302,
+      10000303,
+      10000304,
+      10000305,
+      10000307,
+      10000308,
+      10000309,
+      10000310,
+      10000311,
+      10000312,
+      10000313,
+      10000314,
+      10000315,
+      10000316,
+      10000317,
+      10000338
+    ],
+    "config_id": 0,
+    "id": 1000125,
+    "is_show": 0,
+    "login_pop": 0,
+    "mark": 20261008,
+    "page_core": "",
+    "page_info": "",
+    "time": "stop",
+    "title_res_tag": "",
+    "type": 13
+  },
+  "1000126": {
+    "config_client": "",
+    "config_data": [
+      [
+        31931,
+        100
+      ]
+    ],
+    "config_id": 1,
+    "id": 1000126,
+    "is_show": 0,
+    "login_pop": 0,
+    "mark": 20261008,
+    "page_core": "",
+    "page_info": "",
+    "time": "stop",
+    "title_res_tag": "",
+    "type": 27
+  },
+  "1000127": {
+    "config_client": {
+      "bg": "buildingbg/bg_build_re_1000127",
+      "buildship_tip": "Get Hakuhou guaranteed with every 200 event builds (can be done up to 4 times)!",
+      "id": 16,
+      "rate_tip": [
+        "<color=#ff5e39>Ultra Rare</color>: 1.2%",
+        "<color=#ffde38>Super Rare</color>: 7%",
+        "<color=#d797ff>Elite</color>: 12%",
+        "<color=#3dc6ff>Rare</color>: 51%",
+        "Common: 28.8%",
+        " ",
+        "<color=#ff5e39>Hakuhou</color>: 1.2%(<color=#92fc63>up!</color>)",
+        " ",
+        "<color=#ffde38>Oumi</color>: 2.0%(<color=#92fc63>up!</color>)",
+        " ",
+        "<color=#ffde38>Asama</color>: 0.5%",
+        " ",
+        "<color=#d797ff>Minase</color>: 2.5%(<color=#92fc63>up!</color>)"
+      ]
+    },
+    "config_data": [
+      [
+        307161,
+        10000
+      ],
+      [
+        305161,
+        200
+      ],
+      [
+        303201,
+        50
+      ],
+      [
+        302271,
+        250
+      ]
+    ],
+    "config_id": 16,
+    "id": 1000127,
+    "is_show": 0,
+    "login_pop": 0,
+    "mark": 20261008,
+    "page_core": "",
+    "page_info": "",
+    "time": "stop",
+    "title_res_tag": "",
+    "type": 1
+  },
+  "1000128": {
+    "config_client": "",
+    "config_data": [],
+    "config_id": 100006,
+    "id": 1000128,
+    "is_show": 4,
+    "login_pop": 0,
+    "mark": 20261008,
+    "page_core": "TianYuTianYuanCoreActivityReUI",
+    "page_info": {
+      "class_name": "TianYuTianYuanFrameRePage",
+      "ui_name": "TianYuTianYuanFrameRePage"
+    },
+    "time": "stop",
+    "title_res_tag": "activity",
+    "type": 87
+  },
+  "1000129": {
+    "config_client": {
+      "story": [
+        [
+          "CHONGYINGDEYAOYUE1"
+        ],
+        [
+          "CHONGYINGDEYAOYUE2"
+        ],
+        [
+          "CHONGYINGDEYAOYUE3"
+        ],
+        [
+          "CHONGYINGDEYAOYUE4"
+        ],
+        [
+          "CHONGYINGDEYAOYUE5"
+        ],
+        [
+          "CHONGYINGDEYAOYUE6"
+        ],
+        [
+          "CHONGYINGDEYAOYUE7"
+        ]
+      ]
+    },
+    "config_data": [
+      [
+        10000281,
+        10000282
+      ],
+      [
+        10000283,
+        10000284
+      ],
+      [
+        10000285,
+        10000286
+      ],
+      [
+        10000287,
+        10000288
+      ],
+      [
+        10000289,
+        10000290
+      ],
+      [
+        10000291,
+        10000292
+      ],
+      [
+        10000293,
+        10000294
+      ]
+    ],
+    "config_id": 3,
+    "id": 1000129,
+    "is_show": 5,
+    "login_pop": 0,
+    "mark": 20261008,
+    "page_core": "TianYuTianYuanCoreActivityReUI",
+    "page_info": {
+      "class_name": "TianYuTianYuanLoginRePage",
+      "ui_name": "TianYuTianYuanLoginRePage"
+    },
+    "time": "stop",
+    "title_res_tag": "bifangzhiyin",
+    "type": 18
+  },
+  "1000130": {
+    "config_client": "",
+    "config_data": [],
+    "config_id": 37,
+    "id": 1000130,
+    "is_show": 0,
+    "login_pop": 0,
+    "mark": 20261008,
+    "page_core": "",
+    "page_info": "",
+    "time": "stop",
+    "title_res_tag": "",
+    "type": 58
+  },
+  "1000131": {
+    "config_client": {
+      "bg": 7
+    },
+    "config_data": [],
+    "config_id": 1007,
+    "id": 1000131,
+    "is_show": 6,
+    "login_pop": 0,
+    "mark": 20261008,
+    "page_core": "TianYuTianYuanCoreActivityReUI",
+    "page_info": {
+      "class_name": "ActivityRemasterLoginPage",
+      "ui_name": "ActivityRemasterLoginPage"
+    },
+    "time": "stop",
+    "title_res_tag": "YidaliV2_login",
+    "type": 3
+  },
+  "1000132": {
+    "config_client": [
+      220007
+    ],
+    "config_data": [
+      16
+    ],
+    "config_id": 0,
+    "id": 1000132,
+    "is_show": 0,
+    "login_pop": 0,
+    "mark": 20261008,
+    "page_core": "",
+    "page_info": "",
+    "time": "stop",
+    "title_res_tag": "",
+    "type": 80
+  },
+  "1000133": {
+    "config_client": "",
+    "config_data": [],
+    "config_id": 14,
+    "id": 1000133,
+    "is_show": 0,
+    "login_pop": 0,
+    "mark": 20261008,
+    "page_core": "",
+    "page_info": "",
+    "time": "stop",
+    "title_res_tag": "",
+    "type": 110
+  },
+  "1000134": {
+    "config_client": "",
+    "config_data": [
+      10000333,
+      10000334,
+      10000335,
+      10000336,
+      10000337
+    ],
+    "config_id": 0,
+    "id": 1000134,
+    "is_show": 0,
+    "login_pop": 0,
+    "mark": 20261008,
+    "page_core": "",
+    "page_info": "",
+    "time": "stop",
+    "title_res_tag": "",
+    "type": 13
+  },
+  "1000135": {
+    "config_client": "",
+    "config_data": [],
+    "config_id": 1000127,
+    "id": 1000135,
+    "is_show": 0,
+    "login_pop": 0,
+    "mark": 20261008,
+    "page_core": "",
+    "page_info": "",
+    "time": "stop",
+    "title_res_tag": "",
+    "type": 10
+  },
+  "1000136": {
+    "config_client": {
+      "PT_ACT": 1000121,
+      "PT_ACT_UR": 1000137,
+      "activitytime": 1000122,
+      "expedition": 9805,
+      "goodsId": [
+        100221,
+        100222
+      ],
+      "shopId": 1000122,
+      "taskConfig": [
+        [
+          1,
+          "SP Stage First Clear",
+          [
+            10000305
+          ]
+        ],
+        [
+          2,
+          "Daily SP Stage Clear",
+          [
+            1960041
+          ]
+        ],
+        [
+          3,
+          "Random Daily Missions",
+          [
+            10000318,
+            10000319,
+            10000320,
+            10000321,
+            10000322,
+            10000323,
+            10000324,
+            10000325,
+            10000326,
+            10000327,
+            10000328,
+            10000329,
+            10000330,
+            10000331,
+            10000332
+          ]
+        ],
+        [
+          4,
+          "Challenge Missions",
+          [
+            10000333,
+            10000334,
+            10000335,
+            10000336,
+            10000337
+          ]
+        ],
+        [
+          6,
+          "Event Exchange",
+          [
+            100224
+          ]
+        ]
+      ]
+    },
+    "config_data": [],
+    "config_id": 1,
+    "id": 1000136,
+    "is_show": 3,
+    "login_pop": 0,
+    "mark": 20261008,
+    "page_core": "TianYuTianYuanCoreActivityReUI",
+    "page_info": {
+      "class_name": "TianYuTianYuanURExchangeRePage",
+      "ui_name": "TianYuTianYuanURExchangeRePage"
+    },
+    "time": "stop",
+    "title_res_tag": "urexchange",
+    "type": 115
+  },
+  "1000137": {
+    "config_client": "",
+    "config_data": [],
+    "config_id": 1000137,
+    "id": 1000137,
+    "is_show": 0,
+    "login_pop": 0,
+    "mark": 20261008,
+    "page_core": "",
+    "page_info": "",
+    "time": "stop",
+    "title_res_tag": "",
+    "type": 174
+  },
+  "1000138": {
+    "config_client": "",
+    "config_data": [
+      10000421,
+      10000422,
+      10000423,
+      10000424,
+      10000425,
+      10000426,
+      10000427,
+      10000428,
+      10000429,
+      10000430
+    ],
+    "config_id": 0,
+    "id": 1000138,
+    "is_show": 0,
+    "login_pop": 0,
+    "mark": 20261008,
+    "page_core": "",
+    "page_info": "",
+    "time": "stop",
+    "title_res_tag": "",
+    "type": 13
+  },
+  "1000140": {
+    "config_client": "",
+    "config_data": [],
+    "config_id": 0,
+    "id": 1000140,
+    "is_show": 0,
+    "login_pop": 0,
+    "mark": 20261008,
+    "page_core": "",
+    "page_info": "",
+    "time": "stop",
+    "title_res_tag": "",
+    "type": 13
+  },
   "all": [
     1,
     2,
@@ -92687,6 +96057,7 @@
     51161,
     51162,
     51160,
+    51163,
     7001,
     7011,
     7012,
@@ -93506,7 +96877,114 @@
     990024,
     990025,
     990026,
-    999901
+    999901,
+    1000000,
+    1000001,
+    1000002,
+    1000003,
+    1000004,
+    1000005,
+    1000006,
+    1000007,
+    1000008,
+    1000009,
+    1000010,
+    1000011,
+    1000012,
+    1000021,
+    1000022,
+    1000023,
+    1000024,
+    1000025,
+    1000026,
+    1000027,
+    1000028,
+    1000029,
+    1000030,
+    1000031,
+    1000032,
+    1000035,
+    1000041,
+    1000042,
+    1000043,
+    1000044,
+    1000045,
+    1000046,
+    1000047,
+    1000048,
+    1000049,
+    1000050,
+    1000051,
+    1000052,
+    1000053,
+    1000054,
+    1000055,
+    1000056,
+    1000057,
+    1000058,
+    1000061,
+    1000062,
+    1000063,
+    1000064,
+    1000065,
+    1000066,
+    1000067,
+    1000068,
+    1000069,
+    1000070,
+    1000071,
+    1000072,
+    1000075,
+    1000076,
+    1000081,
+    1000082,
+    1000083,
+    1000084,
+    1000085,
+    1000086,
+    1000087,
+    1000088,
+    1000089,
+    1000090,
+    1000091,
+    1000092,
+    1000093,
+    1000094,
+    1000095,
+    1000096,
+    1000097,
+    1000098,
+    1000101,
+    1000102,
+    1000103,
+    1000104,
+    1000105,
+    1000106,
+    1000107,
+    1000108,
+    1000109,
+    1000110,
+    1000111,
+    1000112,
+    1000121,
+    1000122,
+    1000123,
+    1000124,
+    1000125,
+    1000126,
+    1000127,
+    1000128,
+    1000129,
+    1000130,
+    1000131,
+    1000132,
+    1000133,
+    1000134,
+    1000135,
+    1000136,
+    1000137,
+    1000138,
+    1000140
   ],
   "get_id_list_by_type": {
     "0": [
@@ -93612,7 +97090,14 @@
       30452,
       30468,
       30490,
-      30722
+      30722,
+      1000007,
+      1000027,
+      1000047,
+      1000067,
+      1000087,
+      1000107,
+      1000127
     ],
     "2": [
       2,
@@ -93690,7 +97175,14 @@
       30888,
       30894,
       30905,
-      30906
+      30906,
+      1000011,
+      1000031,
+      1000051,
+      1000071,
+      1000091,
+      1000109,
+      1000131
     ],
     "4": [
       4
@@ -93733,7 +97225,12 @@
       50476,
       50615,
       51047,
-      51148
+      51148,
+      1000035,
+      1000055,
+      1000075,
+      1000095,
+      1000135
     ],
     "11": [
       5078,
@@ -93880,7 +97377,21 @@
       30495,
       30714,
       30715,
-      30821
+      30821,
+      1000003,
+      1000004,
+      1000023,
+      1000024,
+      1000043,
+      1000044,
+      1000063,
+      1000064,
+      1000083,
+      1000084,
+      1000103,
+      1000104,
+      1000123,
+      1000124
     ],
     "13": [
       4724,
@@ -94147,6 +97658,7 @@
       51154,
       51156,
       51162,
+      51163,
       1103,
       1104,
       1105,
@@ -94269,7 +97781,23 @@
       30823,
       30830,
       30839,
-      970001
+      970001,
+      1000005,
+      1000025,
+      1000045,
+      1000054,
+      1000058,
+      1000065,
+      1000076,
+      1000085,
+      1000094,
+      1000097,
+      1000105,
+      1000111,
+      1000125,
+      1000134,
+      1000138,
+      1000140
     ],
     "14": [
       4877,
@@ -94357,7 +97885,14 @@
       30465,
       30479,
       30486,
-      30717
+      30717,
+      1000002,
+      1000022,
+      1000042,
+      1000062,
+      1000082,
+      1000102,
+      1000122
     ],
     "15": [
       6027,
@@ -94681,7 +98216,14 @@
       30726,
       30835,
       970002,
-      990021
+      990021,
+      1000009,
+      1000029,
+      1000049,
+      1000069,
+      1000089,
+      1000108,
+      1000129
     ],
     "19": [
       1093,
@@ -94888,7 +98430,14 @@
       30350,
       30372,
       30433,
-      30466
+      30466,
+      1000006,
+      1000026,
+      1000046,
+      1000066,
+      1000086,
+      1000106,
+      1000126
     ],
     "29": [
       5201,
@@ -95239,7 +98788,13 @@
       30363,
       30422,
       30454,
-      30702
+      30702,
+      1000010,
+      1000030,
+      1000050,
+      1000070,
+      1000090,
+      1000130
     ],
     "59": [
       30209
@@ -95517,7 +99072,8 @@
       30820,
       30822,
       30853,
-      970003
+      970003,
+      1000000
     ],
     "76": [
       50801
@@ -95546,7 +99102,14 @@
       50823,
       51044,
       30861,
-      30898
+      30898,
+      1000012,
+      1000032,
+      1000052,
+      1000072,
+      1000092,
+      1000110,
+      1000132
     ],
     "82": [
       30864,
@@ -95621,7 +99184,13 @@
       51003,
       51040,
       51086,
-      51126
+      51126,
+      1000008,
+      1000028,
+      1000048,
+      1000068,
+      1000088,
+      1000128
     ],
     "88": [
       50043
@@ -95725,7 +99294,10 @@
       50344,
       50623,
       51045,
-      51155
+      51155,
+      1000053,
+      1000093,
+      1000133
     ],
     "111": [
       5260,
@@ -95736,7 +99308,8 @@
     "112": [
       5265,
       50094,
-      50375
+      50375,
+      1000112
     ],
     "113": [
       5322,
@@ -95754,7 +99327,10 @@
       50337,
       50608,
       51050,
-      51134
+      51134,
+      1000056,
+      1000096,
+      1000136
     ],
     "116": [
       5523
@@ -95831,6 +99407,18 @@
     ],
     "140": [
       50602
+    ],
+    "174": [
+      1000001,
+      1000021,
+      1000041,
+      1000057,
+      1000061,
+      1000081,
+      1000098,
+      1000101,
+      1000121,
+      1000137
     ],
     "800": [
       990009,

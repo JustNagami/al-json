@@ -2362633,7 +2362633,8 @@
                 "buffList": [
                   201007,
                   200914,
-                  200974
+                  200974,
+                  201738
                 ],
                 "phase": [
                   {
@@ -2407186,10 +2407187,8 @@
     "stages": [
       {
         "stageIndex": 1,
-        "failCondition": 1,
-        "timeCount": 300,
-        "passCondition": 1,
         "backGroundStageID": 1,
+        "timeCount": 300,
         "totalArea": [
           -80,
           20,
@@ -2407207,6 +2407206,20 @@
           -80,
           0,
           75
+        ],
+        "stageBuff": [
+          {
+            "id": 201250,
+            "level": 1
+          },
+          {
+            "id": 295023,
+            "level": 1
+          },
+          {
+            "id": 295028,
+            "level": 1
+          }
         ],
         "waves": [
           {
@@ -2407251,8 +2407264,7 @@
                 },
                 "buffList": [
                   201103,
-                  200974,
-                  201138
+                  200974
                 ],
                 "phase": [
                   {
@@ -2486263,6 +2486275,18 @@
           {
             "id": 295010,
             "level": 1
+          },
+          {
+            "id": 201250,
+            "level": 1
+          },
+          {
+            "id": 295023,
+            "level": 1
+          },
+          {
+            "id": 295028,
+            "level": 1
           }
         ],
         "waves": [
@@ -2486312,8 +2486336,7 @@
                   201210,
                   201211,
                   200825,
-                  201192,
-                  201138
+                  201192
                 ],
                 "phase": [
                   {
@@ -2524029,10 +2524052,8 @@
     "stages": [
       {
         "stageIndex": 1,
-        "failCondition": 1,
-        "timeCount": 300,
-        "passCondition": 1,
         "backGroundStageID": 1,
+        "timeCount": 300,
         "totalArea": [
           -80,
           20,
@@ -2524050,6 +2524071,20 @@
           -80,
           0,
           75
+        ],
+        "stageBuff": [
+          {
+            "id": 201250,
+            "level": 1
+          },
+          {
+            "id": 295023,
+            "level": 1
+          },
+          {
+            "id": 295028,
+            "level": 1
+          }
         ],
         "waves": [
           {
@@ -2524097,7 +2524132,6 @@
                 "buffList": [
                   200825,
                   200974,
-                  201138,
                   201297
                 ],
                 "phase": [
@@ -2578323,11 +2578357,10 @@
                     "setAI": 20006
                   },
                   {
+                    "index": 1,
                     "switchType": 1,
                     "switchTo": 2,
-                    "index": 1,
                     "switchParam": 5,
-                    "setAI": 70252,
                     "addWeapon": [
                       3275001
                     ]
@@ -2578346,11 +2578379,10 @@
                     ]
                   },
                   {
-                    "switchParam": 3,
-                    "switchTo": 4,
                     "index": 3,
                     "switchType": 1,
-                    "setAI": 75016
+                    "switchTo": 4,
+                    "switchParam": 3
                   },
                   {
                     "index": 4,
@@ -2578463,10 +2578495,8 @@
     "stages": [
       {
         "stageIndex": 1,
-        "failCondition": 1,
-        "timeCount": 300,
-        "passCondition": 1,
         "backGroundStageID": 1,
+        "timeCount": 300,
         "totalArea": [
           -80,
           20,
@@ -2578488,6 +2578518,14 @@
         "stageBuff": [
           {
             "id": 201250,
+            "level": 1
+          },
+          {
+            "id": 295023,
+            "level": 1
+          },
+          {
+            "id": 295028,
             "level": 1
           }
         ],
@@ -2578535,8 +2578573,7 @@
                   "icon": ""
                 },
                 "buffList": [
-                  200974,
-                  201357
+                  200974
                 ],
                 "phase": [
                   {
@@ -2578547,11 +2578584,10 @@
                     "setAI": 20006
                   },
                   {
+                    "index": 1,
                     "switchType": 1,
                     "switchTo": 2,
-                    "index": 1,
                     "switchParam": 5,
-                    "setAI": 70252,
                     "addWeapon": [
                       3275201
                     ]
@@ -2578570,11 +2578606,10 @@
                     ]
                   },
                   {
-                    "switchParam": 3,
-                    "switchTo": 4,
                     "index": 3,
                     "switchType": 1,
-                    "setAI": 75016
+                    "switchTo": 4,
+                    "switchParam": 3
                   },
                   {
                     "index": 4,
@@ -2640049,10 +2640084,8 @@
     "stages": [
       {
         "stageIndex": 1,
-        "failCondition": 1,
-        "timeCount": 300,
-        "passCondition": 1,
         "backGroundStageID": 1,
+        "timeCount": 300,
         "totalArea": [
           -80,
           20,
@@ -2640078,6 +2640111,10 @@
           },
           {
             "id": 295023,
+            "level": 1
+          },
+          {
+            "id": 295028,
             "level": 1
           }
         ],
@@ -2640113,6 +2640150,7 @@
                   "icon": ""
                 },
                 "buffList": [
+                  200974,
                   200825
                 ],
                 "phase": [
@@ -2669457,10 +2669495,8 @@
     "stages": [
       {
         "stageIndex": 1,
-        "failCondition": 1,
-        "timeCount": 300,
-        "passCondition": 1,
         "backGroundStageID": 1,
+        "timeCount": 300,
         "totalArea": [
           -80,
           20,
@@ -2669486,6 +2669522,10 @@
           },
           {
             "id": 295023,
+            "level": 1
+          },
+          {
+            "id": 295028,
             "level": 1
           }
         ],
@@ -2669521,6 +2669561,7 @@
                   "icon": ""
                 },
                 "buffList": [
+                  200974,
                   200825
                 ],
                 "phase": [
@@ -2669602,7 +2669643,7 @@
                     "index": 8,
                     "switchType": 1,
                     "switchTo": 1,
-                    "switchParam": 4,
+                    "switchParam": 7,
                     "removeWeapon": [
                       3315206,
                       3315207,

@@ -32745,6 +32745,288 @@
     "value_1": 20,
     "value_2": 180
   },
+  "15680": {
+    "attribute_1": "cannon",
+    "attribute_2": "hit",
+    "descrip": "A custom-designed piece of gear made from an Augment Module core.",
+    "effect_id": 902230,
+    "effect_id_display": 902230,
+    "hide_buff_upgrade": [],
+    "icon": "15680",
+    "id": 15680,
+    "important": 2,
+    "label": [],
+    "level": 1,
+    "name": "Seafarer's Code",
+    "next": 15681,
+    "prev": 0,
+    "rarity": 4,
+    "skill_upgrade": [
+      [
+        0,
+        1016180
+      ]
+    ],
+    "tech": 0,
+    "type": 10,
+    "uncraftable": 0,
+    "unique": 960001,
+    "upgrade_id": 101,
+    "usability": [
+      22
+    ],
+    "value_1": 20,
+    "value_1_random": 5,
+    "value_2": 5,
+    "value_2_random": 5
+  },
+  "15681": {
+    "base": 15680,
+    "id": 15681,
+    "level": 2,
+    "next": 15682,
+    "prev": 15680,
+    "upgrade_id": 102,
+    "value_1": 21,
+    "value_2": 6
+  },
+  "15682": {
+    "base": 15680,
+    "id": 15682,
+    "level": 3,
+    "next": 15683,
+    "prev": 15681,
+    "upgrade_id": 103,
+    "value_1": 22,
+    "value_2": 7
+  },
+  "15683": {
+    "base": 15680,
+    "id": 15683,
+    "level": 4,
+    "next": 15684,
+    "prev": 15682,
+    "upgrade_id": 104,
+    "value_1": 23,
+    "value_2": 8
+  },
+  "15684": {
+    "base": 15680,
+    "id": 15684,
+    "level": 5,
+    "next": 15685,
+    "prev": 15683,
+    "upgrade_id": 105,
+    "value_1": 24,
+    "value_2": 9
+  },
+  "15685": {
+    "base": 15680,
+    "id": 15685,
+    "level": 6,
+    "next": 15686,
+    "prev": 15684,
+    "upgrade_id": 106,
+    "value_1": 25,
+    "value_2": 10
+  },
+  "15686": {
+    "base": 15680,
+    "id": 15686,
+    "level": 7,
+    "next": 15687,
+    "prev": 15685,
+    "upgrade_id": 107,
+    "value_1": 26,
+    "value_2": 11
+  },
+  "15687": {
+    "base": 15680,
+    "id": 15687,
+    "level": 8,
+    "next": 15688,
+    "prev": 15686,
+    "upgrade_id": 108,
+    "value_1": 27,
+    "value_2": 12
+  },
+  "15688": {
+    "base": 15680,
+    "id": 15688,
+    "level": 9,
+    "next": 15689,
+    "prev": 15687,
+    "upgrade_id": 109,
+    "value_1": 28,
+    "value_2": 13
+  },
+  "15689": {
+    "base": 15680,
+    "id": 15689,
+    "level": 10,
+    "next": 15690,
+    "prev": 15688,
+    "upgrade_id": 110,
+    "value_1": 29,
+    "value_2": 14
+  },
+  "15690": {
+    "base": 15680,
+    "id": 15690,
+    "level": 11,
+    "next": 0,
+    "prev": 15689,
+    "skill_upgrade": [
+      [
+        16180,
+        1016180
+      ]
+    ],
+    "upgrade_id": 111,
+    "value_1": 30,
+    "value_2": 15
+  },
+  "15700": {
+    "attribute_1": "cannon",
+    "attribute_2": "durability",
+    "descrip": "A custom-designed piece of gear made from an Augment Module core.",
+    "effect_id": 901010,
+    "effect_id_display": 901010,
+    "hide_buff_upgrade": [],
+    "icon": "15700",
+    "id": 15700,
+    "important": 2,
+    "label": [],
+    "level": 1,
+    "name": "Signorina GB's Hat",
+    "next": 15701,
+    "prev": 0,
+    "rarity": 4,
+    "skill_upgrade": [
+      [
+        0,
+        1014030
+      ]
+    ],
+    "tech": 0,
+    "type": 1,
+    "uncraftable": 0,
+    "unique": 60103,
+    "upgrade_id": 101,
+    "usability": [
+      1
+    ],
+    "value_1": 20,
+    "value_1_random": 5,
+    "value_2": 100,
+    "value_2_random": 20
+  },
+  "15701": {
+    "base": 15700,
+    "id": 15701,
+    "level": 2,
+    "next": 15702,
+    "prev": 15700,
+    "upgrade_id": 102,
+    "value_1": 21,
+    "value_2": 105
+  },
+  "15702": {
+    "base": 15700,
+    "id": 15702,
+    "level": 3,
+    "next": 15703,
+    "prev": 15701,
+    "upgrade_id": 103,
+    "value_1": 22,
+    "value_2": 110
+  },
+  "15703": {
+    "base": 15700,
+    "id": 15703,
+    "level": 4,
+    "next": 15704,
+    "prev": 15702,
+    "upgrade_id": 104,
+    "value_1": 23,
+    "value_2": 115
+  },
+  "15704": {
+    "base": 15700,
+    "id": 15704,
+    "level": 5,
+    "next": 15705,
+    "prev": 15703,
+    "upgrade_id": 105,
+    "value_1": 24,
+    "value_2": 120
+  },
+  "15705": {
+    "base": 15700,
+    "id": 15705,
+    "level": 6,
+    "next": 15706,
+    "prev": 15704,
+    "upgrade_id": 106,
+    "value_1": 25,
+    "value_2": 125
+  },
+  "15706": {
+    "base": 15700,
+    "id": 15706,
+    "level": 7,
+    "next": 15707,
+    "prev": 15705,
+    "upgrade_id": 107,
+    "value_1": 26,
+    "value_2": 130
+  },
+  "15707": {
+    "base": 15700,
+    "id": 15707,
+    "level": 8,
+    "next": 15708,
+    "prev": 15706,
+    "upgrade_id": 108,
+    "value_1": 27,
+    "value_2": 135
+  },
+  "15708": {
+    "base": 15700,
+    "id": 15708,
+    "level": 9,
+    "next": 15709,
+    "prev": 15707,
+    "upgrade_id": 109,
+    "value_1": 28,
+    "value_2": 140
+  },
+  "15709": {
+    "base": 15700,
+    "id": 15709,
+    "level": 10,
+    "next": 15710,
+    "prev": 15708,
+    "upgrade_id": 110,
+    "value_1": 29,
+    "value_2": 145
+  },
+  "15710": {
+    "base": 15700,
+    "id": 15710,
+    "level": 11,
+    "next": 0,
+    "prev": 15709,
+    "skill_upgrade": [
+      [
+        14030,
+        1014030
+      ]
+    ],
+    "upgrade_id": 111,
+    "value_1": 30,
+    "value_2": 150
+  },
   "1010100": {
     "attribute_1": "cannon",
     "attribute_2": "dodge",
@@ -38561,6 +38843,28 @@
     15528,
     15529,
     15530,
+    15680,
+    15681,
+    15682,
+    15683,
+    15684,
+    15685,
+    15686,
+    15687,
+    15688,
+    15689,
+    15690,
+    15700,
+    15701,
+    15702,
+    15703,
+    15704,
+    15705,
+    15706,
+    15707,
+    15708,
+    15709,
+    15710,
     15580,
     15581,
     15582,
@@ -40577,6 +40881,19 @@
       10169,
       10170
     ],
+    "60103": [
+      15700,
+      15701,
+      15702,
+      15703,
+      15704,
+      15705,
+      15706,
+      15707,
+      15708,
+      15709,
+      15710
+    ],
     "60201": [
       14420,
       14421,
@@ -40940,6 +41257,19 @@
       15088,
       15089,
       15090
+    ],
+    "960001": [
+      15680,
+      15681,
+      15682,
+      15683,
+      15684,
+      15685,
+      15686,
+      15687,
+      15688,
+      15689,
+      15690
     ],
     "960002": [
       12440,
