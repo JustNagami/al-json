@@ -115228,6 +115228,56 @@
     "usage_arg": "69974",
     "virtual_type": 0
   },
+  "99985": {
+    "combination_display": [],
+    "compose_number": 0,
+    "display": "Included is compensation for a bug that occurred in the Operational Handover feature of Operation Siren that took place during September 2026, which prevented certain rewards from being obtained correctly. The following items can be obtained at random: Special Item Tokens, Coordinate Logger, Siren Coordinate Logger.",
+    "display_effect": "",
+    "display_icon": [
+      [
+        12,
+        101,
+        10
+      ],
+      [
+        12,
+        2100001,
+        1
+      ],
+      [
+        12,
+        2100002,
+        1
+      ],
+      [
+        12,
+        2100003,
+        1
+      ]
+    ],
+    "icon": "Props/giftbox",
+    "id": 99985,
+    "index": [],
+    "is_world": 0,
+    "limit": [],
+    "link_id": 0,
+    "max_num": 10000,
+    "name": "Operation Siren Reward Compensation",
+    "open_directly": 1,
+    "order": 0,
+    "other_item_cost": "[]",
+    "other_resource_cost": "[]",
+    "price": [],
+    "rarity": 4,
+    "replace_item": 0,
+    "shiptrans_id": [],
+    "target_id": 0,
+    "time_limit": 0,
+    "type": 17,
+    "usage": "usage_drop",
+    "usage_arg": "7900",
+    "virtual_type": 0
+  },
   "99995": {
     "combination_display": [],
     "compose_number": 0,
@@ -118788,7 +118838,8 @@
     180007,
     180008,
     180009,
-    180010
+    180010,
+    99985
   ],
   "get_id_list_by_type": {
     "0": [
@@ -121445,7 +121496,8 @@
       99973,
       99974,
       99995,
-      99997
+      99997,
+      99985
     ],
     "18": [
       20101,

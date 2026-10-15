@@ -1039,7 +1039,7 @@
     "id": 48,
     "item_id": 2261,
     "name": "A Lifetime of Learning",
-    "order": "1",
+    "order": "4",
     "panel": [
       1,
       2,
@@ -1062,7 +1062,7 @@
     "id": 49,
     "item_id": 2070701,
     "name": "Heart-Pounding Note",
-    "order": "2",
+    "order": "4",
     "panel": [
       2,
       3,
@@ -1095,6 +1095,29 @@
       270122
     ],
     "type": 3,
+    "unlock": ""
+  },
+  "51": {
+    "banners": [
+      "banner_furniture2162"
+    ],
+    "id": 51,
+    "item_id": 2162,
+    "name": "Nyakhimov's Dream Home",
+    "order": "1",
+    "panel": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "rarity": 4,
+    "realroom_id": 0,
+    "room_id": 79902,
+    "shop_id": [
+      270702
+    ],
+    "type": 1,
     "unlock": ""
   },
   "all": [
@@ -1147,6 +1170,7 @@
     47,
     48,
     49,
-    50
+    50,
+    51
   ]
 }
