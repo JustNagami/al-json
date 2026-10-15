@@ -121748,6 +121748,56 @@
     ],
     "virtual_type": 0
   },
+  "99985": {
+    "combination_display": [],
+    "compose_number": 0,
+    "display": "2026年9月の「セイレーン作戦」において「作戦委任」機能において一部の報酬が正常に入手できなかった不具合に対する補填アイテム。特別交換トークン・海域座標・セイレーン座標のいずれかがランダムで入手できます。",
+    "display_effect": "",
+    "display_icon": [
+      [
+        12,
+        101,
+        10
+      ],
+      [
+        12,
+        2100001,
+        1
+      ],
+      [
+        12,
+        2100002,
+        1
+      ],
+      [
+        12,
+        2100003,
+        1
+      ]
+    ],
+    "icon": "Props/giftbox",
+    "id": 99985,
+    "index": [],
+    "is_world": 0,
+    "limit": [],
+    "link_id": 0,
+    "max_num": 10000,
+    "name": "セイレーン作戦報酬補填",
+    "open_directly": 1,
+    "order": 0,
+    "other_item_cost": "[]",
+    "other_resource_cost": "[]",
+    "price": [],
+    "rarity": 4,
+    "replace_item": 0,
+    "shiptrans_id": [],
+    "target_id": 0,
+    "time_limit": 0,
+    "type": 17,
+    "usage": "usage_drop",
+    "usage_arg": "7900",
+    "virtual_type": 0
+  },
   "99991": {
     "combination_display": [],
     "compose_number": 0,
@@ -125575,7 +125625,8 @@
     180099,
     99982,
     99983,
-    99984
+    99984,
+    99985
   ],
   "get_id_list_by_type": {
     "0": [
@@ -128337,7 +128388,8 @@
       99992,
       99993,
       99994,
-      99995
+      99995,
+      99985
     ],
     "18": [
       20101,

@@ -258,7 +258,11 @@
           "TouchIdle5"
         ],
         "idle": [
-          5
+          2,
+          3,
+          5,
+          6,
+          7
         ]
       }
     ],
@@ -4400,6 +4404,84 @@
       }
     ]
   },
+  "305132": {
+    "anim_white_list": [
+      {
+        "drawable": [],
+        "white_list": []
+      }
+    ],
+    "id": 305132,
+    "idle_black_list": [
+      {
+        "drawable": [],
+        "idle": [
+          0
+        ]
+      }
+    ],
+    "tips_icon": [
+      {
+        "drawable": [
+          "TouchDrag1",
+          "TouchIdle1",
+          "TouchIdle2",
+          "TouchIdle3",
+          "TouchIdle4",
+          "TouchIdle5",
+          "TouchIdle6",
+          "TouchDrag2",
+          "TouchIdle9",
+          "TouchIdle10",
+          "TouchIdle11"
+        ],
+        "icon": "l2dui"
+      }
+    ],
+    "tips_offset": [
+      {
+        "drawable": [
+          "TouchDrag1",
+          "TouchIdle1",
+          "TouchIdle2",
+          "TouchIdle3",
+          "TouchIdle4",
+          "TouchIdle5",
+          "TouchIdle6",
+          "TouchDrag2",
+          "TouchIdle9",
+          "TouchIdle10",
+          "TouchIdle11"
+        ],
+        "offset": [
+          0,
+          0
+        ]
+      }
+    ],
+    "tips_scale": [
+      {
+        "drawable": [
+          "TouchDrag1",
+          "TouchIdle1",
+          "TouchIdle2",
+          "TouchIdle3",
+          "TouchIdle4",
+          "TouchIdle5",
+          "TouchIdle6",
+          "TouchDrag2",
+          "TouchIdle9",
+          "TouchIdle10",
+          "TouchIdle11"
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ]
+      }
+    ]
+  },
   "305161": {
     "anim_white_list": [
       {
@@ -8129,6 +8211,270 @@
       }
     ]
   },
+  "9600121": {
+    "anim_white_list": [
+      {
+        "drawable": [],
+        "white_list": []
+      }
+    ],
+    "id": 9600121,
+    "idle_black_list": [
+      {
+        "drawable": [],
+        "idle": [
+          0
+        ]
+      }
+    ],
+    "tips_icon": [
+      {
+        "drawable": [
+          "TouchIdle1",
+          "TouchDrag7",
+          "TouchIdle2",
+          "TouchIdle3",
+          "TouchIdle4",
+          "TouchIdle5",
+          "TouchIdle6",
+          "TouchDrag8",
+          "TouchDrag9",
+          "TouchDrag10",
+          "TouchIdle7",
+          "TouchIdle8",
+          "TouchIdle9",
+          "TouchIdle10",
+          "TouchIdle11",
+          "TouchDrag12",
+          "TouchDrag13",
+          "TouchDrag1",
+          "TouchDrag2",
+          "TouchDrag3",
+          "TouchDrag4",
+          "TouchDrag6",
+          "TouchIdle12",
+          "TouchIdle13"
+        ],
+        "icon": "l2dui"
+      }
+    ],
+    "tips_offset": [
+      {
+        "drawable": [
+          "TouchIdle1",
+          "TouchDrag7",
+          "TouchIdle2",
+          "TouchIdle3",
+          "TouchIdle4",
+          "TouchIdle5",
+          "TouchIdle6",
+          "TouchDrag8",
+          "TouchDrag9",
+          "TouchDrag10",
+          "TouchIdle7",
+          "TouchIdle8",
+          "TouchIdle9",
+          "TouchIdle10",
+          "TouchIdle11",
+          "TouchDrag12",
+          "TouchDrag13",
+          "TouchDrag1",
+          "TouchDrag2",
+          "TouchDrag3",
+          "TouchDrag4",
+          "TouchDrag6",
+          "TouchIdle12",
+          "TouchIdle13"
+        ],
+        "offset": [
+          0,
+          0
+        ]
+      }
+    ],
+    "tips_scale": [
+      {
+        "drawable": [
+          "TouchIdle1",
+          "TouchDrag7",
+          "TouchIdle2",
+          "TouchIdle3",
+          "TouchIdle4",
+          "TouchIdle5",
+          "TouchIdle6",
+          "TouchDrag8",
+          "TouchDrag9",
+          "TouchDrag10",
+          "TouchIdle7",
+          "TouchIdle8",
+          "TouchIdle9",
+          "TouchIdle10",
+          "TouchIdle11",
+          "TouchDrag12",
+          "TouchDrag13",
+          "TouchDrag1",
+          "TouchDrag2",
+          "TouchDrag3",
+          "TouchDrag4",
+          "TouchDrag6",
+          "TouchIdle12",
+          "TouchIdle13"
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ]
+      }
+    ]
+  },
+  "9600141": {
+    "anim_white_list": [
+      {
+        "drawable": [],
+        "white_list": []
+      }
+    ],
+    "id": 9600141,
+    "idle_black_list": [
+      {
+        "drawable": [],
+        "idle": [
+          0
+        ]
+      }
+    ],
+    "tips_icon": [
+      {
+        "drawable": [
+          "TouchIdle12",
+          "TouchIdle13",
+          "TouchIdle14",
+          "TouchIdle15",
+          "TouchIdle1",
+          "TouchIdle2",
+          "TouchIdle3",
+          "TouchIdle4",
+          "TouchIdle5",
+          "TouchIdle6",
+          "TouchIdle16",
+          "TouchIdle7",
+          "TouchDrag1",
+          "TouchDrag2",
+          "TouchDrag3",
+          "TouchIdle16",
+          "TouchIdle11",
+          "TouchDrag4",
+          "TouchIdle9",
+          "TouchIdle8",
+          "TouchIdle10",
+          "TouchIdle17",
+          "TouchIdle18",
+          "TouchIdle19",
+          "TouchIdle22",
+          "TouchIdle20",
+          "TouchIdle21",
+          "TouchIdle23",
+          "TouchIdle24",
+          "TouchDrag5",
+          "TouchDrag6",
+          "TouchDrag8",
+          "TouchDrag7",
+          "TouchDrag9"
+        ],
+        "icon": "l2dui"
+      }
+    ],
+    "tips_offset": [
+      {
+        "drawable": [
+          "TouchIdle12",
+          "TouchIdle13",
+          "TouchIdle14",
+          "TouchIdle15",
+          "TouchIdle1",
+          "TouchIdle2",
+          "TouchIdle3",
+          "TouchIdle4",
+          "TouchIdle5",
+          "TouchIdle6",
+          "TouchIdle16",
+          "TouchIdle7",
+          "TouchDrag1",
+          "TouchDrag2",
+          "TouchDrag3",
+          "TouchIdle16",
+          "TouchIdle11",
+          "TouchDrag4",
+          "TouchIdle9",
+          "TouchIdle8",
+          "TouchIdle10",
+          "TouchIdle17",
+          "TouchIdle18",
+          "TouchIdle19",
+          "TouchIdle22",
+          "TouchIdle20",
+          "TouchIdle21",
+          "TouchIdle23",
+          "TouchIdle24",
+          "TouchDrag5",
+          "TouchDrag6",
+          "TouchDrag8",
+          "TouchDrag7",
+          "TouchDrag9"
+        ],
+        "offset": [
+          0,
+          0
+        ]
+      }
+    ],
+    "tips_scale": [
+      {
+        "drawable": [
+          "TouchIdle12",
+          "TouchIdle13",
+          "TouchIdle14",
+          "TouchIdle15",
+          "TouchIdle1",
+          "TouchIdle2",
+          "TouchIdle3",
+          "TouchIdle4",
+          "TouchIdle5",
+          "TouchIdle6",
+          "TouchIdle16",
+          "TouchIdle7",
+          "TouchDrag1",
+          "TouchDrag2",
+          "TouchDrag3",
+          "TouchIdle16",
+          "TouchIdle11",
+          "TouchDrag4",
+          "TouchIdle9",
+          "TouchIdle8",
+          "TouchIdle10",
+          "TouchIdle17",
+          "TouchIdle18",
+          "TouchIdle19",
+          "TouchIdle22",
+          "TouchIdle20",
+          "TouchIdle21",
+          "TouchIdle23",
+          "TouchIdle24",
+          "TouchDrag5",
+          "TouchDrag6",
+          "TouchDrag8",
+          "TouchDrag7",
+          "TouchDrag9"
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ]
+      }
+    ]
+  },
   "all": [
     302291,
     206023,
@@ -8184,8 +8530,11 @@
     118021,
     305102,
     202204,
+    305132,
     118022,
     303192,
-    805032
+    805032,
+    9600121,
+    9600141
   ]
 }
