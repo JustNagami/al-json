@@ -10419,6 +10419,519 @@
     "story_type": 1,
     "unlock_conditions": "EP4-5をクリア"
   },
+  "551": {
+    "change_background": "star_level_bg_524",
+    "change_bgm": "theme-crownpolis",
+    "change_prefab": "",
+    "id": 551,
+    "label_key": "",
+    "lock": "",
+    "name": "EPS-1 星渡りの導き手",
+    "pre_event": "",
+    "story": "JUFENGYUWUAIHUILANG1",
+    "story_type": 1,
+    "unlock_conditions": ""
+  },
+  "552": {
+    "change_background": "star_level_bg_539",
+    "change_bgm": "theme-tempest-up",
+    "change_prefab": "",
+    "id": 552,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        551
+      ]
+    ],
+    "name": "EP1-1 星空逆廻りの日",
+    "pre_event": [
+      551
+    ],
+    "story": "JUFENGYUWUAIHUILANG2",
+    "story_type": 1,
+    "unlock_conditions": "EPS-1をクリア"
+  },
+  "553": {
+    "change_background": "star_level_bg_504",
+    "change_bgm": "theme-tempest-light",
+    "change_prefab": "",
+    "id": 553,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        552
+      ]
+    ],
+    "name": "EP1-2 祝うべき一日にて",
+    "pre_event": [
+      552
+    ],
+    "story": "JUFENGYUWUAIHUILANG3",
+    "story_type": 1,
+    "unlock_conditions": "EP1-1をクリア"
+  },
+  "554": {
+    "change_background": "star_level_bg_504",
+    "change_bgm": "theme-crownpolis",
+    "change_prefab": "",
+    "id": 554,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        553
+      ]
+    ],
+    "name": "EP1-3 パジャマで異世界転移",
+    "pre_event": [
+      553
+    ],
+    "story": "JUFENGYUWUAIHUILANG4",
+    "story_type": 1,
+    "unlock_conditions": "EP1-2をクリア"
+  },
+  "555": {
+    "change_background": "star_level_bg_504",
+    "change_bgm": "battle-temepest-2",
+    "change_prefab": "",
+    "id": 555,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        554
+      ]
+    ],
+    "name": "EP1-4 お嬢様と護衛役",
+    "pre_event": [
+      554
+    ],
+    "story": "JUFENGYUWUAIHUILANG5",
+    "story_type": 1,
+    "unlock_conditions": "EP1-3をクリア"
+  },
+  "556": {
+    "change_background": "star_level_bg_525",
+    "change_bgm": "story-tempest-marching",
+    "change_prefab": "",
+    "id": 556,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        555
+      ]
+    ],
+    "name": "EP2-1 迷える占い師",
+    "pre_event": [
+      555
+    ],
+    "story": "2078001",
+    "story_type": 2,
+    "unlock_conditions": "EP1-4をクリア"
+  },
+  "557": {
+    "change_background": "star_level_bg_528",
+    "change_bgm": "story-tempest-oldpast",
+    "change_prefab": "",
+    "id": 557,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        556
+      ]
+    ],
+    "name": "EP2-2 星軌標識",
+    "pre_event": [
+      556
+    ],
+    "story": "JUFENGYUWUAIHUILANG7",
+    "story_type": 1,
+    "unlock_conditions": "EP2-1をクリア"
+  },
+  "558": {
+    "change_background": "star_level_bg_598",
+    "change_bgm": "story-tempest-freedom",
+    "change_prefab": "",
+    "id": 558,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        557
+      ]
+    ],
+    "name": "EP2-3 昔の倒影",
+    "pre_event": [
+      557
+    ],
+    "story": "JUFENGYUWUAIHUILANG8",
+    "story_type": 1,
+    "unlock_conditions": "EP2-2をクリア"
+  },
+  "559": {
+    "change_background": "bg_underwater",
+    "change_bgm": "story-tempest-oldpast",
+    "change_prefab": "",
+    "id": 559,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        558
+      ]
+    ],
+    "name": "EP2-4 迷子のアン",
+    "pre_event": [
+      558
+    ],
+    "story": "JUFENGYUWUAIHUILANG9",
+    "story_type": 1,
+    "unlock_conditions": "EP2-3をクリア"
+  },
+  "560": {
+    "change_background": "bg_jufengv2_cg2",
+    "change_bgm": "story-fogsea-light",
+    "change_prefab": "",
+    "id": 560,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        559
+      ]
+    ],
+    "name": "EP3-1 倒影再び",
+    "pre_event": [
+      559
+    ],
+    "story": "JUFENGYUWUAIHUILANG10",
+    "story_type": 1,
+    "unlock_conditions": "EP2-4をクリア"
+  },
+  "561": {
+    "change_background": "star_level_bg_504",
+    "change_bgm": "theme-fogsea",
+    "change_prefab": "",
+    "id": 561,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        560
+      ]
+    ],
+    "name": "EP3-2 天文台からの警報",
+    "pre_event": [
+      560
+    ],
+    "story": "JUFENGYUWUAIHUILANG11",
+    "story_type": 1,
+    "unlock_conditions": "EP3-1をクリア"
+  },
+  "562": {
+    "change_background": "star_level_bg_598",
+    "change_bgm": "theme-fogsea",
+    "change_prefab": "",
+    "id": 562,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        561
+      ]
+    ],
+    "name": "EP3-3 海魔の蛇",
+    "pre_event": [
+      561
+    ],
+    "story": "2078002",
+    "story_type": 2,
+    "unlock_conditions": "EP3-2をクリア"
+  },
+  "563": {
+    "change_background": "bg_wuaihuilang_cg1",
+    "change_bgm": "theme-tempest-light",
+    "change_prefab": "",
+    "id": 563,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        562
+      ]
+    ],
+    "name": "EP4-1 回り道を",
+    "pre_event": [
+      562
+    ],
+    "story": "JUFENGYUWUAIHUILANG13",
+    "story_type": 1,
+    "unlock_conditions": "EP3-3をクリア"
+  },
+  "564": {
+    "change_background": "bg_wuaihuilang_cg2",
+    "change_bgm": "theme-amahara-core",
+    "change_prefab": "",
+    "id": 564,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        563
+      ]
+    ],
+    "name": "EP4-2 何食べる？",
+    "pre_event": [
+      563
+    ],
+    "story": "JUFENGYUWUAIHUILANG14",
+    "story_type": 1,
+    "unlock_conditions": "EP4-1をクリア"
+  },
+  "565": {
+    "change_background": "bg_wuaihuilang_1",
+    "change_bgm": "story-fogsea-light",
+    "change_prefab": "",
+    "id": 565,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        564
+      ]
+    ],
+    "name": "EP4-3 逆に見てみよう",
+    "pre_event": [
+      564
+    ],
+    "story": "JUFENGYUWUAIHUILANG15",
+    "story_type": 1,
+    "unlock_conditions": "EP4-2をクリア"
+  },
+  "566": {
+    "change_background": "star_level_bg_525",
+    "change_bgm": "theme-fogsea",
+    "change_prefab": "",
+    "id": 566,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        565
+      ]
+    ],
+    "name": "EP4-4 星沈む深淵",
+    "pre_event": [
+      565
+    ],
+    "story": "2078003",
+    "story_type": 2,
+    "unlock_conditions": "EP4-3をクリア"
+  },
+  "567": {
+    "change_background": "bg_wuaihuilang_cg2",
+    "change_bgm": "theme-amahara-core",
+    "change_prefab": "",
+    "id": 567,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        566
+      ]
+    ],
+    "name": "EP4-5 別の道を",
+    "pre_event": [
+      566
+    ],
+    "story": "JUFENGYUWUAIHUILANG17",
+    "story_type": 1,
+    "unlock_conditions": "EP4-4をクリア"
+  },
+  "568": {
+    "change_background": "bg_wuaihuilang_cg3",
+    "change_bgm": "theme-crownpolis",
+    "change_prefab": "",
+    "id": 568,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        567
+      ]
+    ],
+    "name": "EP5-1 導き手の夢",
+    "pre_event": [
+      567
+    ],
+    "story": "JUFENGYUWUAIHUILANG18",
+    "story_type": 1,
+    "unlock_conditions": "EP4-5をクリア"
+  },
+  "569": {
+    "change_background": "bg_wuaihuilang_2",
+    "change_bgm": "theme-fogsea",
+    "change_prefab": "",
+    "id": 569,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        568
+      ]
+    ],
+    "name": "EP5-2 対峙",
+    "pre_event": [
+      568
+    ],
+    "story": "2078004",
+    "story_type": 2,
+    "unlock_conditions": "EP5-1をクリア"
+  },
+  "570": {
+    "change_background": "star_level_bg_524",
+    "change_bgm": "theme-ganjisawai",
+    "change_prefab": "",
+    "id": 570,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        569
+      ]
+    ],
+    "name": "EP6-1 女神教会の計画",
+    "pre_event": [
+      569
+    ],
+    "story": "JUFENGYUWUAIHUILANG20",
+    "story_type": 1,
+    "unlock_conditions": "EP5-2をクリア"
+  },
+  "571": {
+    "change_background": "bg_wuaihuilang_3",
+    "change_bgm": "theme-tempest",
+    "change_prefab": "",
+    "id": 571,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        570
+      ]
+    ],
+    "name": "EP6-2 最後の障害",
+    "pre_event": [
+      570
+    ],
+    "story": "2078005",
+    "story_type": 2,
+    "unlock_conditions": "EP6-1をクリア"
+  },
+  "572": {
+    "change_background": "star_level_bg_598",
+    "change_bgm": "story-tempest-light",
+    "change_prefab": "",
+    "id": 572,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        571
+      ]
+    ],
+    "name": "EP6-3 甘いエピローグ",
+    "pre_event": [
+      571
+    ],
+    "story": "JUFENGYUWUAIHUILANG22",
+    "story_type": 1,
+    "unlock_conditions": "EP6-2をクリア"
+  },
+  "573": {
+    "change_background": "star_level_bg_548",
+    "change_bgm": "story-temepest-2",
+    "change_prefab": "",
+    "id": 573,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        572
+      ]
+    ],
+    "name": "EX-1 世界と未来のために",
+    "pre_event": [
+      572
+    ],
+    "story": "JUFENGYUWUAIHUILANG23",
+    "story_type": 1,
+    "unlock_conditions": "EP6-3をクリア"
+  },
+  "574": {
+    "change_background": "star_level_bg_594",
+    "change_bgm": "theme-amahara-core",
+    "change_prefab": "",
+    "id": 574,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        573
+      ]
+    ],
+    "name": "EX-2 同類交流",
+    "pre_event": [
+      573
+    ],
+    "story": "JUFENGYUWUAIHUILANG24",
+    "story_type": 1,
+    "unlock_conditions": "EX-1をクリア"
+  },
+  "575": {
+    "change_background": "bg_tianqiong_3",
+    "change_bgm": "theme-DOS",
+    "change_prefab": "",
+    "id": 575,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        574
+      ]
+    ],
+    "name": "EX-3 水星の約束",
+    "pre_event": [
+      574
+    ],
+    "story": "JUFENGYUWUAIHUILANG25",
+    "story_type": 1,
+    "unlock_conditions": "EX-2をクリア"
+  },
+  "576": {
+    "change_background": "bg_wuaihuilang_2",
+    "change_bgm": "theme-fogsea",
+    "change_prefab": "map_2070002",
+    "id": 576,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        575
+      ]
+    ],
+    "name": "EX-4 1/6の光",
+    "pre_event": [
+      575
+    ],
+    "story": "JUFENGYUWUAIHUILANG26",
+    "story_type": 1,
+    "unlock_conditions": "EX-3をクリア"
+  },
   "all": [
     1,
     2,
@@ -10923,6 +11436,32 @@
     547,
     548,
     549,
-    550
+    550,
+    551,
+    552,
+    553,
+    554,
+    555,
+    556,
+    557,
+    558,
+    559,
+    560,
+    561,
+    562,
+    563,
+    564,
+    565,
+    566,
+    567,
+    568,
+    569,
+    570,
+    571,
+    572,
+    573,
+    574,
+    575,
+    576
   ]
 }

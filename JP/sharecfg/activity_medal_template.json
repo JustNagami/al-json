@@ -2255,6 +2255,102 @@
     "remake_task_id": 0,
     "task_id": 25736
   },
+  "5161101": {
+    "activity_medal_desc": "「星空の倒影の中に、往きし日の答えを求めてはならない」",
+    "activity_medal_name": "ステッカー：霧海天文台",
+    "group": 51611,
+    "id": 5161101,
+    "item": 66114,
+    "medal_asset": "ActivityMedal/5161101",
+    "next_medal": 0,
+    "prefab_node": "1",
+    "remake_task_id": 0,
+    "task_id": 25739
+  },
+  "5161102": {
+    "activity_medal_desc": "標識を灯し、天文台に向けて突き進め",
+    "activity_medal_name": "ステッカー：星軌標識",
+    "group": 51611,
+    "id": 5161102,
+    "item": 66115,
+    "medal_asset": "ActivityMedal/5161102",
+    "next_medal": 0,
+    "prefab_node": "2",
+    "remake_task_id": 0,
+    "task_id": 25740
+  },
+  "5161103": {
+    "activity_medal_desc": "星々の間に隠された燦めく航路を見た？",
+    "activity_medal_name": "ステッカー：導引の杖",
+    "group": 51611,
+    "id": 5161103,
+    "item": 66116,
+    "medal_asset": "ActivityMedal/5161103",
+    "next_medal": 0,
+    "prefab_node": "3",
+    "remake_task_id": 0,
+    "task_id": 25741
+  },
+  "5161104": {
+    "activity_medal_desc": "占い用の水晶玉……これにも年間限定ってものがあるの？",
+    "activity_medal_name": "ステッカー：年間限定水晶玉",
+    "group": 51611,
+    "id": 5161104,
+    "item": 66117,
+    "medal_asset": "ActivityMedal/5161104",
+    "next_medal": 0,
+    "prefab_node": "4",
+    "remake_task_id": 0,
+    "task_id": 25742
+  },
+  "5161105": {
+    "activity_medal_desc": "シャーッ",
+    "activity_medal_name": "ステッカー：海魔の蛇",
+    "group": 51611,
+    "id": 5161105,
+    "item": 66118,
+    "medal_asset": "ActivityMedal/5161105",
+    "next_medal": 0,
+    "prefab_node": "5",
+    "remake_task_id": 0,
+    "task_id": 25743
+  },
+  "5161106": {
+    "activity_medal_desc": "話したいことがあったら、この刃に聞くといいわ",
+    "activity_medal_name": "ステッカー：ジャイアントサイズ",
+    "group": 51611,
+    "id": 5161106,
+    "item": 66119,
+    "medal_asset": "ActivityMedal/5161106",
+    "next_medal": 0,
+    "prefab_node": "6",
+    "remake_task_id": 0,
+    "task_id": 25744
+  },
+  "5161107": {
+    "activity_medal_desc": "折れた槍が鋳直される、その時――",
+    "activity_medal_name": "ステッカー：折れた槍",
+    "group": 51611,
+    "id": 5161107,
+    "item": 66120,
+    "medal_asset": "ActivityMedal/5161107",
+    "next_medal": 0,
+    "prefab_node": "7",
+    "remake_task_id": 0,
+    "task_id": 25745
+  },
+  "5161108": {
+    "activity_medal_desc": "「天穹は倒転し、星軌は移ろう」",
+    "activity_medal_name": "ステッカー：星空逆廻り",
+    "group": 51611,
+    "id": 5161108,
+    "item": 66121,
+    "medal_asset": "ActivityMedal/5161108",
+    "next_medal": 0,
+    "prefab_node": "8",
+    "remake_task_id": 0,
+    "task_id": 25746
+  },
   "all": [
     571101,
     571102,
@@ -2443,7 +2539,15 @@
     5115404,
     5115405,
     5115406,
-    5115407
+    5115407,
+    5161101,
+    5161102,
+    5161103,
+    5161104,
+    5161105,
+    5161106,
+    5161107,
+    5161108
   ],
   "get_id_list_by_group": {
     "5711": [
@@ -2681,6 +2785,16 @@
       5115405,
       5115406,
       5115407
+    ],
+    "51611": [
+      5161101,
+      5161102,
+      5161103,
+      5161104,
+      5161105,
+      5161106,
+      5161107,
+      5161108
     ]
   }
 }

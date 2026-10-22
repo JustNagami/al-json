@@ -881,6 +881,15 @@
     "ship_group": 10311,
     "type": 1
   },
+  "10312": {
+    "background": "",
+    "name": "New Orleans",
+    "nationality": 1,
+    "sculpture": "xinaoerliang",
+    "sculpture_ii": "",
+    "ship_group": 10312,
+    "type": 1
+  },
   "10313": {
     "background": "",
     "name": "Minnie.Hunter",
@@ -1457,6 +1466,15 @@
     "ship_group": 20103,
     "type": 1
   },
+  "20109": {
+    "background": "",
+    "name": "Crescent",
+    "nationality": 2,
+    "sculpture": "xinyue",
+    "sculpture_ii": "",
+    "ship_group": 20109,
+    "type": 1
+  },
   "20110": {
     "background": "",
     "name": "Cygnet",
@@ -1464,6 +1482,15 @@
     "sculpture": "xiaotiane",
     "sculpture_ii": "",
     "ship_group": 20110,
+    "type": 1
+  },
+  "20111": {
+    "background": "",
+    "name": "Foxhound",
+    "nationality": 2,
+    "sculpture": "huti",
+    "sculpture_ii": "",
+    "ship_group": 20111,
     "type": 1
   },
   "20112": {
@@ -5818,7 +5845,7 @@
   "960001": {
     "background": "",
     "name": "Royal Fortune",
-    "nationality": 0,
+    "nationality": 10,
     "sculpture": "huangjiacaifu",
     "sculpture_ii": "",
     "ship_group": 960001,
@@ -5827,7 +5854,7 @@
   "960002": {
     "background": "",
     "name": "São Martinho",
-    "nationality": 0,
+    "nationality": 10,
     "sculpture": "shengmading",
     "sculpture_ii": "",
     "ship_group": 960002,
@@ -5845,7 +5872,7 @@
   "960004": {
     "background": "",
     "name": "Mary Celeste",
-    "nationality": 0,
+    "nationality": 10,
     "sculpture": "mali",
     "sculpture_ii": "",
     "ship_group": 960004,
@@ -5863,7 +5890,7 @@
   "960006": {
     "background": "",
     "name": "Adventure Galley",
-    "nationality": 0,
+    "nationality": 10,
     "sculpture": "jialimaoxian",
     "sculpture_ii": "",
     "ship_group": 960006,
@@ -5957,6 +5984,51 @@
     "sculpture": "maoxianhao",
     "sculpture_ii": "",
     "ship_group": 960016,
+    "type": 1
+  },
+  "960017": {
+    "background": "",
+    "name": "Mercury",
+    "nationality": 10,
+    "sculpture": "shuixinghao",
+    "sculpture_ii": "",
+    "ship_group": 960017,
+    "type": 1
+  },
+  "960018": {
+    "background": "",
+    "name": "Jernbarden",
+    "nationality": 10,
+    "sculpture": "tiejiaohao",
+    "sculpture_ii": "",
+    "ship_group": 960018,
+    "type": 1
+  },
+  "960019": {
+    "background": "",
+    "name": "Selimiye",
+    "nationality": 10,
+    "sculpture": "sailimiye",
+    "sculpture_ii": "",
+    "ship_group": 960019,
+    "type": 1
+  },
+  "960020": {
+    "background": "",
+    "name": "Ormen Lange",
+    "nationality": 10,
+    "sculpture": "changshehao",
+    "sculpture_ii": "",
+    "ship_group": 960020,
+    "type": 1
+  },
+  "960021": {
+    "background": "",
+    "name": "Real bey",
+    "nationality": 10,
+    "sculpture": "leiyierbei",
+    "sculpture_ii": "",
+    "ship_group": 960021,
     "type": 1
   },
   "1060001": {
@@ -7131,6 +7203,14 @@
     30120,
     39908,
     30139,
-    30602
+    30602,
+    960017,
+    960018,
+    960019,
+    960020,
+    960021,
+    20109,
+    10312,
+    20111
   ]
 }

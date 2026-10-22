@@ -22549,7 +22549,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "クリーブランド級軽巡洋艦は・モントピリア（CL-57)",
+    "desc": "クリーブランド級軽巡洋艦・モントピリア（CL-57)",
     "double_char": 0,
     "fx_container": [
       [
@@ -23044,7 +23044,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "クリーブランド級軽巡洋艦は・デンバー（CL-58)",
+    "desc": "クリーブランド級軽巡洋艦・デンバー（CL-58)",
     "double_char": 0,
     "fx_container": [
       [
@@ -96906,6 +96906,176 @@
     "tag": [
       2,
       6
+    ],
+    "time": "",
+    "voice_actor": 79,
+    "voice_actor_2": -1,
+    "voice_lang": ""
+  },
+  "205075": {
+    "bg": "132",
+    "bg_sp": "",
+    "bgm": "",
+    "bound_bone": {
+      "antiaircraft": [
+        [
+          0.836,
+          2.371,
+          0
+        ]
+      ],
+      "cannon": [
+        [
+          1.196,
+          1.061,
+          0
+        ]
+      ],
+      "torpedo": [
+        [
+          -0.258,
+          0.033,
+          0
+        ]
+      ],
+      "vicegun": [
+        [
+          1.21,
+          0.923,
+          0
+        ]
+      ]
+    },
+    "change_skin": "",
+    "desc": "ハロウィンの饗宴に最も映えそうな装いを選んでるところなんだけど……教えてくれないかしら？そなたはどんな麗しい幻に心を奪われ、どんな危うさに溺れたい？",
+    "double_char": 0,
+    "fx_container": [
+      [
+        0,
+        1.99185,
+        1.15
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0.75,
+        -1.299
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "get_showing": {
+      "data": [
+        [
+          -612,
+          1558,
+          2,
+          159,
+          0,
+          2
+        ],
+        [
+          -453,
+          282,
+          2,
+          0,
+          -107,
+          2
+        ],
+        [
+          -256,
+          -465,
+          2,
+          -110,
+          0,
+          2
+        ]
+      ],
+      "show": 1
+    },
+    "group_index": 5,
+    "gyro": 0,
+    "hand_id": 1,
+    "id": 205075,
+    "illustrator": 14,
+    "illustrator2": 19,
+    "l2d_animations": "",
+    "l2d_drag_rate": "",
+    "l2d_ignore_drag": 0,
+    "l2d_para_range": "",
+    "l2d_se": "",
+    "l2d_voice_calibrate": "",
+    "lip_smoothing": 0,
+    "lip_sync_gain": 0,
+    "live2d_offset": [
+      0,
+      0,
+      0
+    ],
+    "live2d_offset_profile": "",
+    "lover_hand": "hand_1_02",
+    "lover_kiss": "lip03",
+    "main_UI_FX": "",
+    "name": "妖帷のファムファタール",
+    "painting": "yuekegongjue_5",
+    "part_scale": "",
+    "prefab": "yuekegongjue_5",
+    "purchase_offset": "",
+    "rarity_bg": "",
+    "ship_group": 20507,
+    "ship_l2d_id": "",
+    "shop_dynamic_hx": 0,
+    "shop_id": 71418,
+    "shop_offset": [
+      -66,
+      -22,
+      0,
+      0.55
+    ],
+    "shop_type_id": 24,
+    "show_skin": "stand",
+    "skeleton_default_skin": "",
+    "skin_type": 0,
+    "smoke": [
+      [
+        50,
+        [
+          [
+            "smoke",
+            [
+              -0.721,
+              2.471,
+              0.53
+            ]
+          ]
+        ]
+      ]
+    ],
+    "special_effects": "",
+    "spine_action_offset": false,
+    "spine_offset": [
+      0,
+      -68.5,
+      0,
+      0.65
+    ],
+    "spine_offset_profile": [
+      0,
+      -40,
+      0,
+      0.55
+    ],
+    "spine_use_live2d": 0,
+    "tag": [
+      7,
+      4
     ],
     "time": "",
     "voice_actor": 79,
@@ -186345,6 +186515,153 @@
     "spine_use_live2d": 0,
     "tag": [
       6,
+      2
+    ],
+    "time": "",
+    "voice_actor": 417,
+    "voice_actor_2": -1,
+    "voice_lang": ""
+  },
+  "399072": {
+    "bg": "177",
+    "bg_sp": "",
+    "bgm": "",
+    "bound_bone": {
+      "antiaircraft": [
+        [
+          0.63,
+          2.3,
+          0
+        ]
+      ],
+      "cannon": [
+        [
+          1.63,
+          1.44,
+          0
+        ]
+      ],
+      "torpedo": [
+        [
+          0,
+          0,
+          0
+        ]
+      ]
+    },
+    "change_skin": "",
+    "desc": "強き悪魔の使いなら、こんなちっぽけな真実の鏡など、恐れるはずがありません……ん？か、鏡に天使の姿が……まさか私の本当の姿を照らし出したなんて……あらら、正体がバレてしまいましたぁ……",
+    "double_char": 0,
+    "fx_container": [
+      [
+        0,
+        1.99185,
+        1.15
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0.75,
+        -1.299
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "get_showing": {
+      "data": [
+        [
+          -1384,
+          -226,
+          2,
+          0,
+          154,
+          2
+        ],
+        [
+          -398,
+          788,
+          2,
+          154,
+          0,
+          2
+        ],
+        [
+          -9,
+          -460,
+          2,
+          0,
+          -136,
+          2
+        ]
+      ],
+      "show": 1
+    },
+    "group_index": 2,
+    "gyro": 0,
+    "hand_id": 2,
+    "id": 399072,
+    "illustrator": 1,
+    "illustrator2": -1,
+    "l2d_animations": "",
+    "l2d_drag_rate": "",
+    "l2d_ignore_drag": 0,
+    "l2d_para_range": "",
+    "l2d_se": "",
+    "l2d_voice_calibrate": "",
+    "lip_smoothing": 0,
+    "lip_sync_gain": 0,
+    "live2d_offset": [
+      0,
+      0,
+      0
+    ],
+    "live2d_offset_profile": "",
+    "lover_hand": "hand_1_02",
+    "lover_kiss": "lip03",
+    "main_UI_FX": "",
+    "name": "デビルオアエンジェル？",
+    "painting": "dashan_3",
+    "part_scale": "",
+    "prefab": "dashan_3",
+    "purchase_offset": "",
+    "rarity_bg": "",
+    "ship_group": 39907,
+    "ship_l2d_id": "",
+    "shop_dynamic_hx": 0,
+    "shop_id": 71421,
+    "shop_offset": "",
+    "shop_type_id": 24,
+    "show_skin": "stand",
+    "skeleton_default_skin": "",
+    "skin_type": 0,
+    "smoke": [
+      [
+        40,
+        [
+          [
+            "smoke",
+            [
+              -0.6,
+              2.52,
+              0
+            ]
+          ]
+        ]
+      ]
+    ],
+    "special_effects": "",
+    "spine_action_offset": false,
+    "spine_offset": "",
+    "spine_offset_profile": "",
+    "spine_use_live2d": 0,
+    "tag": [
       2
     ],
     "time": "",
@@ -276991,7 +277308,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "0",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -277128,7 +277445,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "0",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -277265,7 +277582,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "0",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -277402,7 +277719,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "0",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -277539,7 +277856,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "0",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -277669,7 +277986,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "0",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -277804,7 +278121,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "0",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -277927,7 +278244,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "0",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -278074,7 +278391,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "0",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -278221,7 +278538,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "0",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -278358,7 +278675,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "0",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -278495,7 +278812,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "0",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -278632,7 +278949,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "0",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -278769,7 +279086,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "0",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -278906,7 +279223,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "0",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -279043,7 +279360,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "0",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -279173,7 +279490,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "0",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -279297,7 +279614,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "0",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -279434,7 +279751,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "0",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -279571,7 +279888,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "0",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -279708,7 +280025,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "0",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -279845,7 +280162,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "0",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -280202,7 +280519,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "0",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -280326,7 +280643,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "0",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -280449,7 +280766,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "0",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -280586,7 +280903,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "0",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -280731,7 +281048,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "0",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -280862,7 +281179,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "0",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -280972,7 +281289,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "0",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -281109,7 +281426,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "0",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -281240,7 +281557,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "0",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -281377,7 +281694,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "0",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -281508,7 +281825,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "0",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -298920,7 +299237,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "无描述",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -299057,7 +299374,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "无描述",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -305245,7 +305562,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "瑞鳳",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -305369,7 +305686,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "无描述",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -305493,7 +305810,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "无描述",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -305617,7 +305934,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "无描述",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -305741,7 +306058,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "无描述",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -305865,7 +306182,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "无描述",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -305989,7 +306306,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "无描述",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -306106,7 +306423,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "无描述",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -306223,7 +306540,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "无描述",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -306347,7 +306664,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "无描述",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -306471,7 +306788,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "无描述",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -306595,7 +306912,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "无描述",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -306719,7 +307036,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "无描述",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -306843,7 +307160,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "无描述",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -306967,7 +307284,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "无描述",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -307091,7 +307408,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "无描述",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -307215,7 +307532,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "无描述",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -307339,7 +307656,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "无描述",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -307463,7 +307780,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "无描述",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -307587,7 +307904,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "无描述",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -307711,7 +308028,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "无描述",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -307828,7 +308145,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "无描述",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -307952,7 +308269,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "无描述",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -308076,7 +308393,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "无描述",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -308200,7 +308517,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "无描述",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -308324,7 +308641,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "无描述",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -308448,7 +308765,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "无描述",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -308572,7 +308889,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "无描述",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -308696,7 +309013,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "无描述",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -308944,7 +309261,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "无描述",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -309068,7 +309385,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "无描述",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -309192,7 +309509,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "无描述",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -309316,7 +309633,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "无描述",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -309440,7 +309757,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "无描述",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -309564,7 +309881,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "无描述",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -309688,7 +310005,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "无描述",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -309812,7 +310129,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "无描述",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -309936,7 +310253,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "无描述",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -310060,7 +310377,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "无描述",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -310184,7 +310501,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "无描述",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -310308,7 +310625,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "无描述",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -310432,7 +310749,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "无描述",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -310556,7 +310873,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "无描述",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -310680,7 +310997,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "无描述",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -310804,7 +311121,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "无描述",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -310928,7 +311245,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "无描述",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -311052,7 +311369,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "无描述",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -311176,7 +311493,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "无描述",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -311300,7 +311617,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "无描述",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -311424,7 +311741,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "无描述",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -311548,7 +311865,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "无描述",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -311672,7 +311989,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "无描述",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -311796,7 +312113,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "无描述",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -311920,7 +312237,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "无描述",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -312044,7 +312361,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "无描述",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -312168,7 +312485,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "无描述",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -312292,7 +312609,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "无描述",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -312416,7 +312733,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "无描述",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -312540,7 +312857,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "无描述",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -312664,7 +312981,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "无描述",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -312788,7 +313105,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "无描述",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -312912,7 +313229,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "无描述",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -313036,7 +313353,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "无描述",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -313160,7 +313477,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "无描述",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -313284,7 +313601,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "无描述",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -313408,7 +313725,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "无描述",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -313656,7 +313973,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "无描述",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -313780,7 +314097,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "无描述",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -313904,7 +314221,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "无描述",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -314028,7 +314345,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "无描述",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -315020,7 +315337,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "无描述",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -315144,7 +315461,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "无描述",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -315268,7 +315585,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "无描述",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -315392,7 +315709,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "无描述",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -315516,7 +315833,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "无描述",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -315640,7 +315957,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "无描述",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -315764,7 +316081,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "无描述",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -315888,7 +316205,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "无描述",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -316012,7 +316329,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "无描述",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -316129,7 +316446,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "无描述",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -316239,7 +316556,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "无描述",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -316363,7 +316680,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "无描述",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -316487,7 +316804,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "无描述",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -316611,7 +316928,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "无描述",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -316735,7 +317052,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "无描述",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -317091,7 +317408,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "无描述",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -317208,7 +317525,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "无描述",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -317330,7 +317647,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "无描述",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -317447,7 +317764,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "无描述",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -317564,7 +317881,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "无描述",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -317681,7 +317998,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "无描述",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -317798,7 +318115,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "无描述",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -317915,7 +318232,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "无描述",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -318032,7 +318349,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "无描述",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -318149,7 +318466,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "无描述",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -318266,7 +318583,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "无描述",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -318383,7 +318700,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "无描述",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -318500,7 +318817,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "无描述",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -318617,7 +318934,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "无描述",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -318734,7 +319051,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "无描述",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -318851,7 +319168,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "无描述",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -318968,7 +319285,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "无描述",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -319085,7 +319402,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "无描述",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -319209,7 +319526,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "无描述",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -319326,7 +319643,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "无描述",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -319450,7 +319767,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "无描述",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -319567,7 +319884,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "无描述",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -319691,7 +320008,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "无描述",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -319808,7 +320125,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "无描述",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -319925,7 +320242,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "无描述",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -320042,7 +320359,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "无描述",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -320159,7 +320476,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "无描述",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -320283,7 +320600,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "无描述",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -320400,7 +320717,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "无描述",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -320524,7 +320841,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "无描述",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -320641,7 +320958,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "无描述",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -320758,7 +321075,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "无描述",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -320875,7 +321192,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "无描述",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -320992,7 +321309,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "无描述",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -321116,7 +321433,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "无描述",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -321233,7 +321550,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "无描述",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -321363,7 +321680,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "无描述",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -321487,7 +321804,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "无描述",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -321604,7 +321921,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "无描述",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -321734,7 +322051,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "无描述",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -321851,7 +322168,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "无描述",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -321968,7 +322285,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "无描述",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -322085,7 +322402,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "无描述",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -322202,7 +322519,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "无描述",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -322319,7 +322636,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "无描述",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -322436,7 +322753,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "无描述",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -322553,7 +322870,7 @@
       ]
     },
     "change_skin": "",
-    "desc": "无描述",
+    "desc": "",
     "double_char": 0,
     "fx_container": [
       [
@@ -322608,6 +322925,240 @@
     "purchase_offset": "",
     "rarity_bg": "",
     "ship_group": 900562,
+    "ship_l2d_id": "",
+    "shop_dynamic_hx": 0,
+    "shop_id": 0,
+    "shop_offset": "",
+    "shop_type_id": 0,
+    "show_skin": "stand",
+    "skeleton_default_skin": "",
+    "skin_type": -1,
+    "smoke": [
+      [
+        70,
+        [
+          [
+            "smokebig",
+            [
+              -0.62,
+              2.54,
+              0
+            ]
+          ]
+        ]
+      ]
+    ],
+    "special_effects": "",
+    "spine_action_offset": false,
+    "spine_offset": "",
+    "spine_offset_profile": "",
+    "spine_use_live2d": 0,
+    "tag": [],
+    "time": "",
+    "voice_actor": -1,
+    "voice_actor_2": -1,
+    "voice_lang": ""
+  },
+  "900563": {
+    "bg": "",
+    "bg_sp": "",
+    "bgm": "",
+    "bound_bone": {
+      "cannon": [
+        [
+          1.17,
+          5,
+          0
+        ]
+      ],
+      "plane": [
+        [
+          -1.02,
+          3.05,
+          0
+        ]
+      ],
+      "torpedo": [
+        [
+          0.04,
+          0.89,
+          0
+        ]
+      ]
+    },
+    "change_skin": "",
+    "desc": "",
+    "double_char": 0,
+    "fx_container": [
+      [
+        0,
+        1.99185,
+        1.15
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0.75,
+        -1.299
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "get_showing": "",
+    "group_index": 0,
+    "gyro": 0,
+    "hand_id": 1,
+    "id": 900563,
+    "illustrator": -1,
+    "illustrator2": -1,
+    "l2d_animations": "",
+    "l2d_drag_rate": "",
+    "l2d_ignore_drag": 0,
+    "l2d_para_range": "",
+    "l2d_se": "",
+    "l2d_voice_calibrate": "",
+    "lip_smoothing": 0,
+    "lip_sync_gain": 0,
+    "live2d_offset": [
+      0,
+      0,
+      0
+    ],
+    "live2d_offset_profile": "",
+    "lover_hand": "hand_1_02",
+    "lover_kiss": "lip03",
+    "main_UI_FX": "",
+    "name": "？？？",
+    "painting": "changshehao_hei",
+    "part_scale": "",
+    "prefab": "changshehao_hei",
+    "purchase_offset": "",
+    "rarity_bg": "",
+    "ship_group": 900563,
+    "ship_l2d_id": "",
+    "shop_dynamic_hx": 0,
+    "shop_id": 0,
+    "shop_offset": "",
+    "shop_type_id": 0,
+    "show_skin": "stand",
+    "skeleton_default_skin": "",
+    "skin_type": -1,
+    "smoke": [
+      [
+        70,
+        [
+          [
+            "smokebig",
+            [
+              -0.62,
+              2.54,
+              0
+            ]
+          ]
+        ]
+      ]
+    ],
+    "special_effects": "",
+    "spine_action_offset": false,
+    "spine_offset": "",
+    "spine_offset_profile": "",
+    "spine_use_live2d": 0,
+    "tag": [],
+    "time": "",
+    "voice_actor": -1,
+    "voice_actor_2": -1,
+    "voice_lang": ""
+  },
+  "900564": {
+    "bg": "",
+    "bg_sp": "",
+    "bgm": "",
+    "bound_bone": {
+      "cannon": [
+        [
+          1.17,
+          5,
+          0
+        ]
+      ],
+      "plane": [
+        [
+          -1.02,
+          3.05,
+          0
+        ]
+      ],
+      "torpedo": [
+        [
+          0.04,
+          0.89,
+          0
+        ]
+      ]
+    },
+    "change_skin": "",
+    "desc": "",
+    "double_char": 0,
+    "fx_container": [
+      [
+        0,
+        1.99185,
+        1.15
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0.75,
+        -1.299
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "get_showing": "",
+    "group_index": 0,
+    "gyro": 0,
+    "hand_id": 1,
+    "id": 900564,
+    "illustrator": -1,
+    "illustrator2": -1,
+    "l2d_animations": "",
+    "l2d_drag_rate": "",
+    "l2d_ignore_drag": 0,
+    "l2d_para_range": "",
+    "l2d_se": "",
+    "l2d_voice_calibrate": "",
+    "lip_smoothing": 0,
+    "lip_sync_gain": 0,
+    "live2d_offset": [
+      0,
+      0,
+      0
+    ],
+    "live2d_offset_profile": "",
+    "lover_hand": "hand_1_02",
+    "lover_kiss": "lip03",
+    "main_UI_FX": "",
+    "name": "？？？",
+    "painting": "nichao_hei",
+    "part_scale": "",
+    "prefab": "nichao_hei",
+    "purchase_offset": "",
+    "rarity_bg": "",
+    "ship_group": 900564,
     "ship_l2d_id": "",
     "shop_dynamic_hx": 0,
     "shop_id": 0,
@@ -332822,6 +333373,233 @@
     "voice_actor_2": -1,
     "voice_lang": ""
   },
+  "1102012": {
+    "bg": "156",
+    "bg_sp": "",
+    "bgm": "",
+    "bound_bone": {
+      "antiaircraft": [
+        [
+          0.73,
+          2.34,
+          0
+        ]
+      ],
+      "cannon": [
+        [
+          1.24,
+          0.95,
+          0
+        ]
+      ],
+      "torpedo": [
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      "vicegun": [
+        [
+          1.17,
+          0.92,
+          0
+        ]
+      ]
+    },
+    "change_skin": "",
+    "desc": "天使の姿で舞い降りた、デ・ゼーヴェン・プロヴィンシェンです。泣いている花の海の穢れを浄化しようとしたら、力不足で逆に侵食されてしまい……指揮官さん、こんな汚れた天使でも…手を差し伸べてくださいますか？",
+    "double_char": 0,
+    "fx_container": [
+      [
+        0,
+        1.99185,
+        1.15
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0.75,
+        -1.299
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "get_showing": {
+      "data": [
+        [
+          -7,
+          1488,
+          2,
+          -170,
+          0,
+          2
+        ],
+        [
+          -701,
+          715,
+          2,
+          0,
+          -184,
+          2
+        ],
+        [
+          675,
+          -216,
+          2,
+          170,
+          0,
+          2
+        ]
+      ],
+      "show": 1
+    },
+    "group_index": 2,
+    "gyro": 0,
+    "hand_id": 1,
+    "id": 1102012,
+    "illustrator": -1,
+    "illustrator2": -1,
+    "l2d_animations": [
+      "idle",
+      "main_1",
+      "main_2",
+      "main_3",
+      "mission",
+      "mission_complete",
+      "complete",
+      "login",
+      "home",
+      "mail",
+      "touch_body",
+      "touch_head"
+    ],
+    "l2d_drag_rate": "",
+    "l2d_ignore_drag": 0,
+    "l2d_para_range": {
+      "ParamAngleX": [
+        -30,
+        30
+      ],
+      "ParamAngleY": [
+        -30,
+        30
+      ],
+      "ParamEyeBallX": [
+        -0.5,
+        0.5
+      ],
+      "ParamEyeBallY": [
+        -0.5,
+        0.5
+      ]
+    },
+    "l2d_se": "",
+    "l2d_voice_calibrate": {
+      "use_event": true
+    },
+    "lip_smoothing": 0,
+    "lip_sync_gain": 0,
+    "live2d_offset": [
+      -14,
+      25,
+      0
+    ],
+    "live2d_offset_profile": [
+      164,
+      87,
+      0
+    ],
+    "lover_hand": "hand_1_02",
+    "lover_kiss": "lip03",
+    "main_UI_FX": "",
+    "name": "穢翼のアルケー",
+    "painting": "qisheng_3",
+    "part_scale": "",
+    "prefab": "qisheng_3",
+    "purchase_offset": "",
+    "rarity_bg": "",
+    "ship_group": 110201,
+    "ship_l2d_id": [
+      110201101,
+      110201102,
+      110201103,
+      110201104,
+      110201105,
+      110201106,
+      110201107,
+      110201108,
+      110201109,
+      110201110,
+      110201111,
+      110201112,
+      110201113,
+      110201114,
+      110201115,
+      110201116,
+      110201117,
+      110201118,
+      110201119
+    ],
+    "shop_dynamic_hx": 0,
+    "shop_id": 71420,
+    "shop_offset": [
+      130.1,
+      -1222.3,
+      0,
+      0.62
+    ],
+    "shop_type_id": 24,
+    "show_skin": "stand",
+    "skeleton_default_skin": "",
+    "skin_type": 0,
+    "smoke": [
+      [
+        50,
+        [
+          [
+            "smoke",
+            [
+              -0.66,
+              2.36,
+              0
+            ]
+          ]
+        ]
+      ]
+    ],
+    "special_effects": "",
+    "spine_action_offset": false,
+    "spine_offset": [
+      -285,
+      -1404,
+      0,
+      0.69
+    ],
+    "spine_offset_profile": [
+      190,
+      -1180,
+      0,
+      0.6
+    ],
+    "spine_use_live2d": 0,
+    "tag": [
+      6,
+      12,
+      2
+    ],
+    "time": "",
+    "voice_actor": 447,
+    "voice_actor_2": -1,
+    "voice_lang": ""
+  },
   "1199010": {
     "bg": "",
     "bg_sp": "",
@@ -337252,6 +338030,233 @@
     "voice_actor_2": -1,
     "voice_lang": ""
   },
+  "9600122": {
+    "bg": "156",
+    "bg_sp": "",
+    "bgm": "",
+    "bound_bone": {
+      "antiaircraft": [
+        [
+          0.59,
+          2.35,
+          0
+        ]
+      ],
+      "cannon": [
+        [
+          1.39,
+          0.97,
+          0
+        ]
+      ],
+      "torpedo": [
+        [
+          -0.22,
+          0,
+          0
+        ]
+      ],
+      "vicegun": [
+        [
+          1.66,
+          1.38,
+          0
+        ]
+      ]
+    },
+    "change_skin": "",
+    "desc": "この翼は……？うっ、妙な魔法の罠にかかったせいか……体が…火照って……はぁ、はぁ……あんたから…急にいい匂いをしてきたけど……",
+    "double_char": 0,
+    "fx_container": [
+      [
+        0,
+        1.99185,
+        1.15
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0.75,
+        -1.299
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "get_showing": {
+      "data": [
+        [
+          432,
+          168,
+          2,
+          0,
+          157,
+          2
+        ],
+        [
+          -1071,
+          736,
+          2,
+          -172,
+          0,
+          2
+        ],
+        [
+          -395,
+          -347,
+          2,
+          0,
+          -134,
+          2
+        ]
+      ],
+      "show": 1
+    },
+    "group_index": 2,
+    "gyro": 0,
+    "hand_id": 13,
+    "id": 9600122,
+    "illustrator": -1,
+    "illustrator2": -1,
+    "l2d_animations": [
+      "idle",
+      "main_1",
+      "main_2",
+      "main_3",
+      "mission",
+      "mission_complete",
+      "complete",
+      "login",
+      "home",
+      "mail",
+      "touch_body",
+      "touch_head"
+    ],
+    "l2d_drag_rate": "",
+    "l2d_ignore_drag": 0,
+    "l2d_para_range": "",
+    "l2d_se": "",
+    "l2d_voice_calibrate": {
+      "use_event": true
+    },
+    "lip_smoothing": 0,
+    "lip_sync_gain": 0,
+    "live2d_offset": [
+      96,
+      0,
+      0,
+      73
+    ],
+    "live2d_offset_profile": [
+      96,
+      0,
+      0,
+      73
+    ],
+    "lover_hand": "hand_2_02",
+    "lover_kiss": "lip02",
+    "main_UI_FX": "",
+    "name": "誘い込む堕落の黒き翼",
+    "painting": "anninvwang_3",
+    "part_scale": "",
+    "prefab": "anninvwang_3",
+    "purchase_offset": [
+      96,
+      0,
+      0,
+      73
+    ],
+    "rarity_bg": "",
+    "ship_group": 960012,
+    "ship_l2d_id": [
+      960012101,
+      960012102,
+      960012103,
+      960012104,
+      960012105,
+      960012106,
+      960012107,
+      960012108,
+      960012109,
+      960012110,
+      960012111,
+      960012112,
+      960012113,
+      960012114,
+      960012115,
+      960012116,
+      960012117,
+      960012118,
+      960012119,
+      960012120,
+      960012121,
+      960012122,
+      960012123,
+      960012124,
+      960012125,
+      960012126,
+      960012127,
+      960012128,
+      960012129,
+      960012130
+    ],
+    "shop_dynamic_hx": 0,
+    "shop_id": 71419,
+    "shop_offset": [
+      -66,
+      -538,
+      0,
+      0.65
+    ],
+    "shop_type_id": 24,
+    "show_skin": "stand",
+    "skeleton_default_skin": "",
+    "skin_type": 0,
+    "smoke": [
+      [
+        50,
+        [
+          [
+            "smoke",
+            [
+              -0.73,
+              2.53,
+              0
+            ]
+          ]
+        ]
+      ]
+    ],
+    "special_effects": "",
+    "spine_action_offset": false,
+    "spine_offset": [
+      166.4,
+      -848.6,
+      0,
+      0.9
+    ],
+    "spine_offset_profile": [
+      18,
+      -555,
+      0,
+      0.65
+    ],
+    "spine_use_live2d": 0,
+    "tag": [
+      6,
+      2
+    ],
+    "time": "",
+    "voice_actor": 477,
+    "voice_actor_2": -1,
+    "voice_lang": ""
+  },
   "9600130": {
     "bg": "",
     "bg_sp": "",
@@ -338455,6 +339460,1632 @@
     ],
     "time": "",
     "voice_actor": 481,
+    "voice_actor_2": -1,
+    "voice_lang": ""
+  },
+  "9600170": {
+    "bg": "",
+    "bg_sp": "",
+    "bgm": "",
+    "bound_bone": {
+      "antiaircraft": [
+        [
+          0.941,
+          2.189,
+          0
+        ]
+      ],
+      "cannon": [
+        [
+          1.729,
+          0.895,
+          0
+        ]
+      ],
+      "torpedo": [
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      "vicegun": [
+        [
+          1.532,
+          1.037,
+          0
+        ]
+      ]
+    },
+    "change_skin": "",
+    "desc": "風帆艦—メルクーリィ",
+    "double_char": 0,
+    "fx_container": [
+      [
+        0,
+        1.99185,
+        1.15
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0.75,
+        -1.299
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "get_showing": "",
+    "group_index": 0,
+    "gyro": 0,
+    "hand_id": 1,
+    "id": 9600170,
+    "illustrator": -1,
+    "illustrator2": -1,
+    "l2d_animations": "",
+    "l2d_drag_rate": "",
+    "l2d_ignore_drag": 0,
+    "l2d_para_range": "",
+    "l2d_se": "",
+    "l2d_voice_calibrate": "",
+    "lip_smoothing": 0,
+    "lip_sync_gain": 0,
+    "live2d_offset": [
+      0,
+      0,
+      0
+    ],
+    "live2d_offset_profile": "",
+    "lover_hand": "hand_2_02",
+    "lover_kiss": "lip02",
+    "main_UI_FX": "",
+    "name": "メルクーリィ",
+    "painting": "shuixinghao",
+    "part_scale": "",
+    "prefab": "shuixinghao",
+    "purchase_offset": "",
+    "rarity_bg": "",
+    "ship_group": 960017,
+    "ship_l2d_id": "",
+    "shop_dynamic_hx": 0,
+    "shop_id": 0,
+    "shop_offset": "",
+    "shop_type_id": 0,
+    "show_skin": "stand",
+    "skeleton_default_skin": "",
+    "skin_type": -1,
+    "smoke": [
+      [
+        50,
+        [
+          [
+            "smoke",
+            [
+              -0.746,
+              2.321,
+              0
+            ]
+          ]
+        ]
+      ]
+    ],
+    "special_effects": "",
+    "spine_action_offset": false,
+    "spine_offset": "",
+    "spine_offset_profile": "",
+    "spine_use_live2d": 0,
+    "tag": [],
+    "time": "",
+    "voice_actor": 526,
+    "voice_actor_2": -1,
+    "voice_lang": ""
+  },
+  "9600171": {
+    "bg": "156",
+    "bg_sp": "",
+    "bgm": "",
+    "bound_bone": {
+      "antiaircraft": [
+        [
+          0.951,
+          2.269,
+          0
+        ]
+      ],
+      "cannon": [
+        [
+          1.39,
+          0.862,
+          0
+        ]
+      ],
+      "torpedo": [
+        [
+          0.006,
+          0,
+          0
+        ]
+      ],
+      "vicegun": [
+        [
+          1.373,
+          1.121,
+          0
+        ]
+      ]
+    },
+    "change_skin": "",
+    "desc": "……？迷える人の子よ、あなたが恋を呼んでいるのですか？わたくしは恋の天使メルクーリィ、あなたの心に芽生えた想いを感じ取って、お手伝いに参りました……あっ、待ってください。この恋心の向く先は……わたくし？",
+    "double_char": 0,
+    "fx_container": [
+      [
+        0,
+        1.99185,
+        1.15
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0.75,
+        -1.299
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "get_showing": {
+      "data": [
+        [
+          -1186,
+          -390,
+          2,
+          0,
+          154,
+          2
+        ],
+        [
+          -379,
+          563,
+          2,
+          161,
+          0,
+          2
+        ],
+        [
+          -210,
+          -199,
+          2,
+          0,
+          -112,
+          2
+        ]
+      ],
+      "show": 1
+    },
+    "group_index": 1,
+    "gyro": 0,
+    "hand_id": 1,
+    "id": 9600171,
+    "illustrator": -1,
+    "illustrator2": -1,
+    "l2d_animations": [
+      "idle",
+      "main_1",
+      "main_2",
+      "main_3",
+      "mission",
+      "mission_complete",
+      "complete",
+      "login",
+      "home",
+      "mail",
+      "touch_body",
+      "touch_special",
+      "touch_head"
+    ],
+    "l2d_drag_rate": [
+      0.25,
+      0.25,
+      0.25
+    ],
+    "l2d_ignore_drag": 0,
+    "l2d_para_range": "",
+    "l2d_se": "",
+    "l2d_voice_calibrate": {
+      "use_event": true
+    },
+    "lip_smoothing": 0,
+    "lip_sync_gain": 0,
+    "live2d_offset": [
+      95,
+      -87,
+      0,
+      93
+    ],
+    "live2d_offset_profile": "",
+    "lover_hand": "hand_2_02",
+    "lover_kiss": "lip02",
+    "main_UI_FX": "",
+    "name": "愛恋天使メルクーリィ",
+    "painting": "shuixinghao_2",
+    "part_scale": "",
+    "prefab": "shuixinghao_2",
+    "purchase_offset": "",
+    "rarity_bg": "",
+    "ship_group": 960017,
+    "ship_l2d_id": [
+      960017101,
+      960017102,
+      960017103,
+      960017104,
+      960017105,
+      960017106,
+      960017107,
+      960017108,
+      960017109,
+      960017110,
+      960017111,
+      960017112,
+      960017113,
+      960017114,
+      960017115,
+      960017116,
+      960017117,
+      960017118,
+      960017119,
+      960017120,
+      960017121,
+      960017122,
+      960017123,
+      960017124,
+      960017125,
+      960017126,
+      960017127,
+      960017128,
+      960017129,
+      960017130,
+      960017131,
+      960017132,
+      960017133,
+      960017134,
+      960017135,
+      960017136,
+      960017137,
+      960017138,
+      960017139,
+      960017140,
+      960017141,
+      960017142,
+      960017143,
+      960017144,
+      960017145,
+      960017146,
+      960017147,
+      960017148,
+      960017149,
+      960017150,
+      960017151,
+      960017152,
+      960017153,
+      960017154,
+      960017155,
+      960017156,
+      960017157,
+      960017158,
+      960017159,
+      960017160,
+      960017161,
+      960017162,
+      960017163
+    ],
+    "shop_dynamic_hx": 0,
+    "shop_id": 71413,
+    "shop_offset": [
+      -20,
+      -55,
+      0,
+      80
+    ],
+    "shop_type_id": 24,
+    "show_skin": "stand",
+    "skeleton_default_skin": "",
+    "skin_type": 0,
+    "smoke": [
+      [
+        50,
+        [
+          [
+            "smoke",
+            [
+              -0.678,
+              2.23,
+              0
+            ]
+          ]
+        ]
+      ]
+    ],
+    "special_effects": "",
+    "spine_action_offset": false,
+    "spine_offset": "",
+    "spine_offset_profile": "",
+    "spine_use_live2d": 0,
+    "tag": [
+      9,
+      2
+    ],
+    "time": "",
+    "voice_actor": 526,
+    "voice_actor_2": -1,
+    "voice_lang": ""
+  },
+  "9600180": {
+    "bg": "",
+    "bg_sp": "",
+    "bgm": "",
+    "bound_bone": {
+      "antiaircraft": [
+        [
+          0.7,
+          2.12,
+          0
+        ]
+      ],
+      "cannon": [
+        [
+          1.2,
+          1.04,
+          0
+        ]
+      ],
+      "torpedo": [
+        [
+          -0.13,
+          0,
+          0
+        ]
+      ],
+      "vicegun": [
+        [
+          1,
+          0.995,
+          0
+        ]
+      ]
+    },
+    "change_skin": "",
+    "desc": "風帆艦—ヤーンバアデン",
+    "double_char": 0,
+    "fx_container": [
+      [
+        0,
+        1.99185,
+        1.15
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0.75,
+        -1.299
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "get_showing": "",
+    "group_index": 0,
+    "gyro": 0,
+    "hand_id": 13,
+    "id": 9600180,
+    "illustrator": -1,
+    "illustrator2": -1,
+    "l2d_animations": "",
+    "l2d_drag_rate": "",
+    "l2d_ignore_drag": 0,
+    "l2d_para_range": "",
+    "l2d_se": "",
+    "l2d_voice_calibrate": "",
+    "lip_smoothing": 0,
+    "lip_sync_gain": 0,
+    "live2d_offset": [
+      0,
+      0,
+      0
+    ],
+    "live2d_offset_profile": "",
+    "lover_hand": "hand_1_02",
+    "lover_kiss": "lip03",
+    "main_UI_FX": "",
+    "name": "ヤーンバアデン",
+    "painting": "tiejiaohao",
+    "part_scale": "",
+    "prefab": "tiejiaohao",
+    "purchase_offset": "",
+    "rarity_bg": "",
+    "ship_group": 960018,
+    "ship_l2d_id": "",
+    "shop_dynamic_hx": 0,
+    "shop_id": 0,
+    "shop_offset": "",
+    "shop_type_id": 0,
+    "show_skin": "stand",
+    "skeleton_default_skin": "",
+    "skin_type": -1,
+    "smoke": [
+      [
+        50,
+        [
+          [
+            "smoke",
+            [
+              -0.77,
+              2.33,
+              0
+            ]
+          ]
+        ]
+      ]
+    ],
+    "special_effects": "",
+    "spine_action_offset": false,
+    "spine_offset": "",
+    "spine_offset_profile": "",
+    "spine_use_live2d": 0,
+    "tag": [],
+    "time": "",
+    "voice_actor": 527,
+    "voice_actor_2": -1,
+    "voice_lang": ""
+  },
+  "9600181": {
+    "bg": "507",
+    "bg_sp": "",
+    "bgm": "",
+    "bound_bone": {
+      "antiaircraft": [
+        [
+          0.83,
+          2.17,
+          0
+        ]
+      ],
+      "cannon": [
+        [
+          1.71,
+          1.41,
+          0
+        ]
+      ],
+      "torpedo": [
+        [
+          0.006,
+          0,
+          0
+        ]
+      ],
+      "vicegun": [
+        [
+          1.52,
+          0.96,
+          0
+        ]
+      ]
+    },
+    "change_skin": "",
+    "desc": "おかしい。…怪我なんてしてないのに、妙にじれったい…指揮官、いいところに。もっと近くで……見てもらっても？",
+    "double_char": 0,
+    "fx_container": [
+      [
+        0,
+        1.99185,
+        1.15
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0.75,
+        -1.299
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "get_showing": {
+      "data": [
+        [
+          -1183,
+          -560,
+          2,
+          0,
+          165,
+          2
+        ],
+        [
+          -317,
+          579,
+          2,
+          156,
+          0,
+          2
+        ],
+        [
+          481,
+          -492,
+          2,
+          0,
+          -129,
+          2
+        ]
+      ],
+      "show": 1
+    },
+    "group_index": 1,
+    "gyro": 0,
+    "hand_id": 13,
+    "id": 9600181,
+    "illustrator": -1,
+    "illustrator2": -1,
+    "l2d_animations": "",
+    "l2d_drag_rate": "",
+    "l2d_ignore_drag": 0,
+    "l2d_para_range": "",
+    "l2d_se": "",
+    "l2d_voice_calibrate": "",
+    "lip_smoothing": 0,
+    "lip_sync_gain": 0,
+    "live2d_offset": [
+      0,
+      0,
+      0
+    ],
+    "live2d_offset_profile": "",
+    "lover_hand": "hand_2_02",
+    "lover_kiss": "lip02",
+    "main_UI_FX": "",
+    "name": "迷いし堕天使",
+    "painting": "tiejiaohao_2",
+    "part_scale": "",
+    "prefab": "tiejiaohao_2",
+    "purchase_offset": "",
+    "rarity_bg": "",
+    "ship_group": 960018,
+    "ship_l2d_id": "",
+    "shop_dynamic_hx": 0,
+    "shop_id": 71414,
+    "shop_offset": [
+      90,
+      -30,
+      0,
+      0.38
+    ],
+    "shop_type_id": 24,
+    "show_skin": "stand",
+    "skeleton_default_skin": "",
+    "skin_type": 0,
+    "smoke": [
+      [
+        50,
+        [
+          [
+            "smoke",
+            [
+              -0.53,
+              2.29,
+              0
+            ]
+          ]
+        ]
+      ]
+    ],
+    "special_effects": "",
+    "spine_action_offset": false,
+    "spine_offset": [
+      127,
+      6,
+      0,
+      0.42
+    ],
+    "spine_offset_profile": [
+      136,
+      -5,
+      0,
+      0.35
+    ],
+    "spine_use_live2d": 0,
+    "tag": [
+      6,
+      2
+    ],
+    "time": "",
+    "voice_actor": 527,
+    "voice_actor_2": -1,
+    "voice_lang": ""
+  },
+  "9600190": {
+    "bg": "",
+    "bg_sp": "",
+    "bgm": "",
+    "bound_bone": {
+      "antiaircraft": [
+        [
+          0.93,
+          2.23,
+          0
+        ]
+      ],
+      "cannon": [
+        [
+          1.14,
+          1.1,
+          0
+        ]
+      ],
+      "torpedo": [
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      "vicegun": [
+        [
+          1.2,
+          1.02,
+          0
+        ]
+      ]
+    },
+    "change_skin": "",
+    "desc": "風帆艦—セリミエ",
+    "double_char": 0,
+    "fx_container": [
+      [
+        0,
+        1.99185,
+        1.15
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0.75,
+        -1.299
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "get_showing": "",
+    "group_index": 0,
+    "gyro": 0,
+    "hand_id": 13,
+    "id": 9600190,
+    "illustrator": -1,
+    "illustrator2": -1,
+    "l2d_animations": "",
+    "l2d_drag_rate": "",
+    "l2d_ignore_drag": 0,
+    "l2d_para_range": "",
+    "l2d_se": "",
+    "l2d_voice_calibrate": "",
+    "lip_smoothing": 0,
+    "lip_sync_gain": 0,
+    "live2d_offset": [
+      0,
+      0,
+      0
+    ],
+    "live2d_offset_profile": "",
+    "lover_hand": "hand_1_02",
+    "lover_kiss": "lip03",
+    "main_UI_FX": "",
+    "name": "セリミエ",
+    "painting": "sailimiye",
+    "part_scale": "",
+    "prefab": "sailimiye",
+    "purchase_offset": "",
+    "rarity_bg": "",
+    "ship_group": 960019,
+    "ship_l2d_id": "",
+    "shop_dynamic_hx": 0,
+    "shop_id": 0,
+    "shop_offset": "",
+    "shop_type_id": 0,
+    "show_skin": "stand",
+    "skeleton_default_skin": "",
+    "skin_type": -1,
+    "smoke": [
+      [
+        50,
+        [
+          [
+            "smoke",
+            [
+              -0.76,
+              2.35,
+              0
+            ]
+          ]
+        ]
+      ]
+    ],
+    "special_effects": "",
+    "spine_action_offset": false,
+    "spine_offset": "",
+    "spine_offset_profile": "",
+    "spine_use_live2d": 0,
+    "tag": [],
+    "time": "",
+    "voice_actor": 528,
+    "voice_actor_2": -1,
+    "voice_lang": ""
+  },
+  "9600191": {
+    "bg": "525",
+    "bg_sp": "",
+    "bgm": "",
+    "bound_bone": {
+      "antiaircraft": [
+        [
+          0.774,
+          2.21,
+          0
+        ]
+      ],
+      "cannon": [
+        [
+          1.3,
+          0.9,
+          0
+        ]
+      ],
+      "torpedo": [
+        [
+          0.006,
+          0,
+          0
+        ]
+      ],
+      "vicegun": [
+        [
+          1.19,
+          0.76,
+          0
+        ]
+      ]
+    },
+    "change_skin": "",
+    "desc": "あんなに優勢だったのに結局負けるなんて…と、とっくに分かってたし！でも……こんな風に網にかかって、しかも指揮官の前に吊り下げられるなんてぇ……ぴえーん！",
+    "double_char": 0,
+    "fx_container": [
+      [
+        0,
+        1.99185,
+        1.15
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0.75,
+        -1.299
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "get_showing": {
+      "data": [
+        [
+          949,
+          127,
+          2,
+          0,
+          160,
+          2
+        ],
+        [
+          -19,
+          462,
+          2,
+          -100,
+          0,
+          2
+        ],
+        [
+          -119,
+          -298,
+          2,
+          0,
+          -143,
+          2
+        ]
+      ],
+      "show": 1
+    },
+    "group_index": 1,
+    "gyro": 0,
+    "hand_id": 13,
+    "id": 9600191,
+    "illustrator": -1,
+    "illustrator2": -1,
+    "l2d_animations": [
+      "idle",
+      "main_1",
+      "main_2",
+      "main_3",
+      "mission",
+      "mission_complete",
+      "complete",
+      "login",
+      "home",
+      "mail",
+      "touch_body",
+      "touch_special",
+      "touch_head"
+    ],
+    "l2d_drag_rate": "",
+    "l2d_ignore_drag": 0,
+    "l2d_para_range": {
+      "ParamAngleX": [
+        -15,
+        15
+      ],
+      "ParamAngleY": [
+        -15,
+        15
+      ],
+      "ParamEyeBallX": [
+        -0.5,
+        0.5
+      ],
+      "ParamEyeBallY": [
+        -0.5,
+        0.5
+      ]
+    },
+    "l2d_se": "",
+    "l2d_voice_calibrate": {
+      "use_event": true
+    },
+    "lip_smoothing": 0,
+    "lip_sync_gain": 0,
+    "live2d_offset": [
+      0,
+      15,
+      0,
+      68
+    ],
+    "live2d_offset_profile": "",
+    "lover_hand": "hand_2_02",
+    "lover_kiss": "lip02",
+    "main_UI_FX": "",
+    "name": "予見者は網にずぼーんと",
+    "painting": "sailimiye_2",
+    "part_scale": "",
+    "prefab": "sailimiye_2",
+    "purchase_offset": "",
+    "rarity_bg": "",
+    "ship_group": 960019,
+    "ship_l2d_id": [
+      960019101,
+      960019102,
+      960019103,
+      960019104,
+      960019105,
+      960019106,
+      960019107,
+      960019108,
+      960019109,
+      960019110,
+      960019111,
+      960019112,
+      960019113,
+      960019114,
+      960019115,
+      960019116,
+      960019117,
+      960019118,
+      960019119,
+      960019120,
+      960019121,
+      960019122,
+      960019123,
+      960019124,
+      960019125,
+      960019126,
+      960019127,
+      960019128,
+      960019129,
+      960019130,
+      960019131,
+      960019132,
+      960019133,
+      960019134,
+      960019135,
+      960019136,
+      960019137,
+      960019138,
+      960019139,
+      960019140,
+      960019141,
+      960019142,
+      960019143,
+      960019144,
+      960019145,
+      960019146,
+      960019147,
+      960019148,
+      960019149,
+      960019150,
+      960019151,
+      960019152,
+      960019153,
+      960019154,
+      960019155,
+      960019156,
+      960019157,
+      960019158,
+      960019159,
+      960019160,
+      960019161,
+      960019162,
+      960019163,
+      960019164,
+      960019165,
+      960019166,
+      960019167,
+      960019168,
+      960019169,
+      960019170,
+      960019171,
+      960019172,
+      960019173,
+      960019174,
+      960019175,
+      960019176,
+      960019177,
+      960019178,
+      960019179,
+      960019180,
+      960019181,
+      960019182,
+      960019183,
+      960019184,
+      960019185,
+      960019186,
+      960019187,
+      960019188
+    ],
+    "shop_dynamic_hx": 0,
+    "shop_id": 71415,
+    "shop_offset": [
+      -14,
+      32,
+      0,
+      60.6
+    ],
+    "shop_type_id": 24,
+    "show_skin": "stand",
+    "skeleton_default_skin": "",
+    "skin_type": 0,
+    "smoke": [
+      [
+        50,
+        [
+          [
+            "smoke",
+            [
+              -0.58,
+              2.29,
+              0
+            ]
+          ]
+        ]
+      ]
+    ],
+    "special_effects": "",
+    "spine_action_offset": false,
+    "spine_offset": "",
+    "spine_offset_profile": "",
+    "spine_use_live2d": 0,
+    "tag": [
+      9,
+      2
+    ],
+    "time": "",
+    "voice_actor": 528,
+    "voice_actor_2": -1,
+    "voice_lang": ""
+  },
+  "9600200": {
+    "bg": "",
+    "bg_sp": "",
+    "bgm": "",
+    "bound_bone": {
+      "antiaircraft": [
+        [
+          0.57,
+          2.35,
+          0
+        ]
+      ],
+      "cannon": [
+        [
+          1.38,
+          1.57,
+          0
+        ]
+      ],
+      "torpedo": [
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      "vicegun": [
+        [
+          1.2,
+          1.11,
+          0
+        ]
+      ]
+    },
+    "change_skin": "",
+    "desc": "風帆艦—オーメン・ランゲ",
+    "double_char": 0,
+    "fx_container": [
+      [
+        0,
+        1.99185,
+        1.15
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0.75,
+        -1.299
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "get_showing": "",
+    "group_index": 0,
+    "gyro": 0,
+    "hand_id": 1,
+    "id": 9600200,
+    "illustrator": -1,
+    "illustrator2": -1,
+    "l2d_animations": "",
+    "l2d_drag_rate": "",
+    "l2d_ignore_drag": 0,
+    "l2d_para_range": "",
+    "l2d_se": "",
+    "l2d_voice_calibrate": "",
+    "lip_smoothing": 0,
+    "lip_sync_gain": 0,
+    "live2d_offset": [
+      0,
+      0,
+      0
+    ],
+    "live2d_offset_profile": "",
+    "lover_hand": "hand_2_02",
+    "lover_kiss": "lip02",
+    "main_UI_FX": "",
+    "name": "オーメン・ランゲ",
+    "painting": "changshehao",
+    "part_scale": "",
+    "prefab": "changshehao",
+    "purchase_offset": "",
+    "rarity_bg": "",
+    "ship_group": 960020,
+    "ship_l2d_id": "",
+    "shop_dynamic_hx": 0,
+    "shop_id": 0,
+    "shop_offset": "",
+    "shop_type_id": 0,
+    "show_skin": "stand",
+    "skeleton_default_skin": "",
+    "skin_type": -1,
+    "smoke": [
+      [
+        50,
+        [
+          [
+            "smoke",
+            [
+              -0.77,
+              2.26,
+              0
+            ]
+          ]
+        ]
+      ]
+    ],
+    "special_effects": "",
+    "spine_action_offset": false,
+    "spine_offset": "",
+    "spine_offset_profile": "",
+    "spine_use_live2d": 0,
+    "tag": [],
+    "time": "",
+    "voice_actor": 529,
+    "voice_actor_2": -1,
+    "voice_lang": ""
+  },
+  "9600201": {
+    "bg": "450",
+    "bg_sp": "",
+    "bgm": "",
+    "bound_bone": {
+      "antiaircraft": [
+        [
+          0.6,
+          2.3,
+          0
+        ]
+      ],
+      "cannon": [
+        [
+          1.47,
+          1.19,
+          0
+        ]
+      ],
+      "torpedo": [
+        [
+          0.006,
+          0,
+          0
+        ]
+      ],
+      "vicegun": [
+        [
+          1.24,
+          0.73,
+          0
+        ]
+      ]
+    },
+    "change_skin": "",
+    "desc": "禁じられた地へようこそ、飼い主。叶えたい願いはある？あたしのやり方で満足させてあげる……",
+    "double_char": 0,
+    "fx_container": [
+      [
+        0,
+        1.99185,
+        1.15
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0.75,
+        -1.299
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "get_showing": {
+      "data": [
+        [
+          1147,
+          335,
+          2,
+          0,
+          172,
+          2
+        ],
+        [
+          -120,
+          1131,
+          2,
+          -129,
+          0,
+          2
+        ],
+        [
+          -256,
+          -344,
+          2,
+          0,
+          -109,
+          2
+        ]
+      ],
+      "show": 1
+    },
+    "group_index": 1,
+    "gyro": 0,
+    "hand_id": 1,
+    "id": 9600201,
+    "illustrator": -1,
+    "illustrator2": -1,
+    "l2d_animations": "",
+    "l2d_drag_rate": "",
+    "l2d_ignore_drag": 0,
+    "l2d_para_range": "",
+    "l2d_se": "",
+    "l2d_voice_calibrate": "",
+    "lip_smoothing": 0,
+    "lip_sync_gain": 0,
+    "live2d_offset": [
+      0,
+      0,
+      0
+    ],
+    "live2d_offset_profile": "",
+    "lover_hand": "hand_2_02",
+    "lover_kiss": "lip02",
+    "main_UI_FX": "",
+    "name": "純白の捕食者",
+    "painting": "changshehao_2",
+    "part_scale": "",
+    "prefab": "changshehao_2",
+    "purchase_offset": "",
+    "rarity_bg": "",
+    "ship_group": 960020,
+    "ship_l2d_id": "",
+    "shop_dynamic_hx": 0,
+    "shop_id": 71416,
+    "shop_offset": "",
+    "shop_type_id": 24,
+    "show_skin": "stand",
+    "skeleton_default_skin": "",
+    "skin_type": 0,
+    "smoke": [
+      [
+        50,
+        [
+          [
+            "smoke",
+            [
+              -0.81,
+              2.32,
+              0
+            ]
+          ]
+        ]
+      ]
+    ],
+    "special_effects": "",
+    "spine_action_offset": false,
+    "spine_offset": "",
+    "spine_offset_profile": "",
+    "spine_use_live2d": 0,
+    "tag": [
+      2
+    ],
+    "time": "",
+    "voice_actor": 529,
+    "voice_actor_2": -1,
+    "voice_lang": ""
+  },
+  "9600210": {
+    "bg": "",
+    "bg_sp": "",
+    "bgm": "",
+    "bound_bone": {
+      "antiaircraft": [
+        [
+          0.78,
+          2.18,
+          0
+        ]
+      ],
+      "cannon": [
+        [
+          0.79,
+          0.76,
+          0
+        ]
+      ],
+      "torpedo": [
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      "vicegun": [
+        [
+          0.75,
+          1.02,
+          0
+        ]
+      ]
+    },
+    "change_skin": "",
+    "desc": "風帆艦—リヤラ・ベイ",
+    "double_char": 0,
+    "fx_container": [
+      [
+        0,
+        1.99185,
+        1.15
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0.75,
+        -1.299
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "get_showing": "",
+    "group_index": 0,
+    "gyro": 0,
+    "hand_id": 13,
+    "id": 9600210,
+    "illustrator": -1,
+    "illustrator2": -1,
+    "l2d_animations": "",
+    "l2d_drag_rate": "",
+    "l2d_ignore_drag": 0,
+    "l2d_para_range": "",
+    "l2d_se": "",
+    "l2d_voice_calibrate": "",
+    "lip_smoothing": 0,
+    "lip_sync_gain": 0,
+    "live2d_offset": [
+      0,
+      0,
+      0
+    ],
+    "live2d_offset_profile": "",
+    "lover_hand": "hand_1_02",
+    "lover_kiss": "lip03",
+    "main_UI_FX": "",
+    "name": "リヤラ・ベイ",
+    "painting": "leiyierbei",
+    "part_scale": "",
+    "prefab": "leiyierbei",
+    "purchase_offset": "",
+    "rarity_bg": "",
+    "ship_group": 960021,
+    "ship_l2d_id": "",
+    "shop_dynamic_hx": 0,
+    "shop_id": 0,
+    "shop_offset": "",
+    "shop_type_id": 0,
+    "show_skin": "stand",
+    "skeleton_default_skin": "",
+    "skin_type": -1,
+    "smoke": [
+      [
+        50,
+        [
+          [
+            "smoke",
+            [
+              -0.73,
+              2.51,
+              0
+            ]
+          ]
+        ]
+      ]
+    ],
+    "special_effects": "",
+    "spine_action_offset": false,
+    "spine_offset": "",
+    "spine_offset_profile": "",
+    "spine_use_live2d": 0,
+    "tag": [],
+    "time": "",
+    "voice_actor": 530,
+    "voice_actor_2": -1,
+    "voice_lang": ""
+  },
+  "9600211": {
+    "bg": "120",
+    "bg_sp": "",
+    "bgm": "",
+    "bound_bone": {
+      "antiaircraft": [
+        [
+          0.69,
+          2.23,
+          0
+        ]
+      ],
+      "cannon": [
+        [
+          0.73,
+          0.83,
+          0
+        ]
+      ],
+      "torpedo": [
+        [
+          0.006,
+          0,
+          0
+        ]
+      ],
+      "vicegun": [
+        [
+          0.76,
+          0.97,
+          0
+        ]
+      ]
+    },
+    "change_skin": "",
+    "desc": "指揮官、ごきげん……じゃなくて、リヤラ・ベイのステージにようこそ！今回の「特別試練・アイドル天使」は全力で挑みたいんです！だから……指揮官、特別トレーナーになって、一緒に輝くステージを作りましょう！",
+    "double_char": 0,
+    "fx_container": [
+      [
+        0,
+        1.99185,
+        1.15
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0.75,
+        -1.299
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "get_showing": {
+      "data": [
+        [
+          938,
+          99,
+          2,
+          0,
+          144,
+          2
+        ],
+        [
+          -120,
+          1664,
+          2,
+          -145,
+          0,
+          2
+        ],
+        [
+          -401,
+          -363,
+          2,
+          0,
+          -145,
+          2
+        ]
+      ],
+      "show": 1
+    },
+    "group_index": 1,
+    "gyro": 0,
+    "hand_id": 13,
+    "id": 9600211,
+    "illustrator": -1,
+    "illustrator2": -1,
+    "l2d_animations": "",
+    "l2d_drag_rate": "",
+    "l2d_ignore_drag": 0,
+    "l2d_para_range": "",
+    "l2d_se": "",
+    "l2d_voice_calibrate": "",
+    "lip_smoothing": 0,
+    "lip_sync_gain": 0,
+    "live2d_offset": [
+      0,
+      0,
+      0
+    ],
+    "live2d_offset_profile": "",
+    "lover_hand": "hand_2_02",
+    "lover_kiss": "lip02",
+    "main_UI_FX": "",
+    "name": "特別試練☆アイドル天使",
+    "painting": "leiyierbei_2",
+    "part_scale": "",
+    "prefab": "leiyierbei_2",
+    "purchase_offset": "",
+    "rarity_bg": "",
+    "ship_group": 960021,
+    "ship_l2d_id": "",
+    "shop_dynamic_hx": 0,
+    "shop_id": 71417,
+    "shop_offset": "",
+    "shop_type_id": 24,
+    "show_skin": "stand",
+    "skeleton_default_skin": "",
+    "skin_type": 0,
+    "smoke": [
+      [
+        50,
+        [
+          [
+            "smoke",
+            [
+              -0.76,
+              2.29,
+              0
+            ]
+          ]
+        ]
+      ]
+    ],
+    "special_effects": "",
+    "spine_action_offset": false,
+    "spine_offset": "",
+    "spine_offset_profile": "",
+    "spine_use_live2d": 0,
+    "tag": [
+      4
+    ],
+    "time": "",
+    "voice_actor": 530,
     "voice_actor_2": -1,
     "voice_lang": ""
   },
@@ -371132,6 +373763,7 @@
     205072,
     205073,
     205074,
+    205075,
     205090,
     205091,
     205092,
@@ -372812,11 +375444,14 @@
     900560,
     900561,
     900562,
+    900563,
+    900564,
     1101010,
     1101011,
     1101012,
     1102010,
     1102011,
+    1102012,
     1199010,
     1199011,
     9600010,
@@ -372847,6 +375482,7 @@
     9600111,
     9600120,
     9600121,
+    9600122,
     9600130,
     9600131,
     9600140,
@@ -372855,6 +375491,16 @@
     9600151,
     9600160,
     9600161,
+    9600170,
+    9600171,
+    9600180,
+    9600181,
+    9600190,
+    9600191,
+    9600200,
+    9600201,
+    9600210,
+    9600211,
     9701010,
     9701020,
     9701030,
@@ -373249,6 +375895,7 @@
     899041,
     399070,
     399071,
+    399072,
     399080,
     499110,
     1299010,
@@ -374530,7 +377177,8 @@
       205070,
       205072,
       205073,
-      205074
+      205074,
+      205075
     ],
     "20509": [
       205090,
@@ -375620,7 +378268,8 @@
     ],
     "39907": [
       399070,
-      399071
+      399071,
+      399072
     ],
     "39908": [
       399080
@@ -376893,7 +379542,8 @@
     ],
     "110201": [
       1102010,
-      1102011
+      1102011,
+      1102012
     ],
     "119901": [
       1199010,
@@ -377994,6 +380644,12 @@
     "900562": [
       900562
     ],
+    "900563": [
+      900563
+    ],
+    "900564": [
+      900564
+    ],
     "960001": [
       9600010,
       9600011,
@@ -378044,7 +380700,8 @@
     ],
     "960012": [
       9600120,
-      9600121
+      9600121,
+      9600122
     ],
     "960013": [
       9600130,
@@ -378061,6 +380718,26 @@
     "960016": [
       9600160,
       9600161
+    ],
+    "960017": [
+      9600170,
+      9600171
+    ],
+    "960018": [
+      9600180,
+      9600181
+    ],
+    "960019": [
+      9600190,
+      9600191
+    ],
+    "960020": [
+      9600200,
+      9600201
+    ],
+    "960021": [
+      9600210,
+      9600211
     ],
     "970101": [
       9701010
@@ -379691,6 +382368,8 @@
       900560,
       900561,
       900562,
+      900563,
+      900564,
       1101010,
       1102010,
       1199010,
@@ -379710,6 +382389,11 @@
       9600140,
       9600150,
       9600160,
+      9600170,
+      9600180,
+      9600190,
+      9600200,
+      9600210,
       9701010,
       9701020,
       9701030,
@@ -381215,6 +383899,7 @@
       201371,
       202341,
       203131,
+      205075,
       236031,
       301572,
       331055,
@@ -381224,12 +383909,20 @@
       431232,
       705062,
       718012,
+      1102012,
       9600121,
+      9600122,
       9600131,
       9600141,
       9600151,
       9600161,
-      399022
+      9600171,
+      9600181,
+      9600191,
+      9600201,
+      9600211,
+      399022,
+      399072
     ],
     "25": [
       101521,
