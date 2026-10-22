@@ -7974,6 +7974,35 @@
     "usage_arg": "[]",
     "virtual_type": 0
   },
+  "11060": {
+    "combination_display": [],
+    "compose_number": 0,
+    "display": "双发实心弹T0设计图",
+    "display_effect": "",
+    "display_icon": [],
+    "icon": "Equips/151280",
+    "id": 11060,
+    "index": [],
+    "is_world": 0,
+    "limit": [],
+    "link_id": 0,
+    "max_num": 0,
+    "name": "双发实心弹T0设计图",
+    "open_directly": 0,
+    "order": 0,
+    "other_item_cost": "[]",
+    "other_resource_cost": "[]",
+    "price": [],
+    "rarity": 3,
+    "replace_item": 0,
+    "shiptrans_id": [],
+    "target_id": 0,
+    "time_limit": 0,
+    "type": 9,
+    "usage": "usage_undefined",
+    "usage_arg": "[]",
+    "virtual_type": 0
+  },
   "12000": {
     "combination_display": [],
     "compose_number": 0,
@@ -29471,6 +29500,129 @@
     "usage_arg": "30385",
     "virtual_type": 0
   },
+  "30389": {
+    "combination_display": [],
+    "compose_number": 0,
+    "display": "可以获得一件随机的光暗夜想曲风格外观装备",
+    "display_effect": "",
+    "display_icon": [
+      [
+        9,
+        4456,
+        1
+      ],
+      [
+        9,
+        4457,
+        1
+      ],
+      [
+        9,
+        4458,
+        1
+      ],
+      [
+        9,
+        4459,
+        1
+      ],
+      [
+        9,
+        4460,
+        1
+      ],
+      [
+        9,
+        4461,
+        1
+      ],
+      [
+        9,
+        4462,
+        1
+      ],
+      [
+        9,
+        4463,
+        1
+      ],
+      [
+        9,
+        4464,
+        1
+      ],
+      [
+        9,
+        4465,
+        1
+      ],
+      [
+        9,
+        4466,
+        1
+      ],
+      [
+        9,
+        4467,
+        1
+      ],
+      [
+        9,
+        4468,
+        1
+      ],
+      [
+        9,
+        4469,
+        1
+      ],
+      [
+        9,
+        4470,
+        1
+      ],
+      [
+        9,
+        4471,
+        1
+      ],
+      [
+        9,
+        4472,
+        1
+      ],
+      [
+        9,
+        4473,
+        1
+      ]
+    ],
+    "icon": "Props/appearanceboxfengfanv4",
+    "id": 30389,
+    "index": [],
+    "is_world": 0,
+    "limit": [],
+    "link_id": 0,
+    "max_num": 0,
+    "name": "外观装备箱(光暗夜想曲)",
+    "open_directly": 1,
+    "order": 0,
+    "other_item_cost": "[]",
+    "other_resource_cost": "[]",
+    "price": [
+      1,
+      7000
+    ],
+    "rarity": 4,
+    "replace_item": 0,
+    "shiptrans_id": [],
+    "target_id": 0,
+    "time_limit": 0,
+    "type": 11,
+    "usage": "usage_drop",
+    "usage_arg": "30386",
+    "virtual_type": 0
+  },
   "30401": {
     "combination_display": [],
     "compose_number": 0,
@@ -46519,6 +46671,217 @@
     ],
     "virtual_type": 0
   },
+  "30573": {
+    "combination_display": [],
+    "compose_number": 0,
+    "display": "使用后可从「光暗夜想曲」主题外观装备中任意选择一种获得1个",
+    "display_effect": "",
+    "display_icon": [
+      [
+        9,
+        4456,
+        1
+      ],
+      [
+        9,
+        4457,
+        1
+      ],
+      [
+        9,
+        4458,
+        1
+      ],
+      [
+        9,
+        4459,
+        1
+      ],
+      [
+        9,
+        4460,
+        1
+      ],
+      [
+        9,
+        4461,
+        1
+      ],
+      [
+        9,
+        4462,
+        1
+      ],
+      [
+        9,
+        4463,
+        1
+      ],
+      [
+        9,
+        4464,
+        1
+      ],
+      [
+        9,
+        4465,
+        1
+      ],
+      [
+        9,
+        4466,
+        1
+      ],
+      [
+        9,
+        4467,
+        1
+      ],
+      [
+        9,
+        4468,
+        1
+      ],
+      [
+        9,
+        4469,
+        1
+      ],
+      [
+        9,
+        4470,
+        1
+      ],
+      [
+        9,
+        4471,
+        1
+      ],
+      [
+        9,
+        4472,
+        1
+      ],
+      [
+        9,
+        4473,
+        1
+      ]
+    ],
+    "icon": "Props/appearanceboxfengfanv4zixuan",
+    "id": 30573,
+    "index": [],
+    "is_world": 0,
+    "limit": [],
+    "link_id": 0,
+    "max_num": 0,
+    "name": "定向外观装备箱(光暗夜想曲)",
+    "open_directly": 0,
+    "order": 0,
+    "other_item_cost": "[]",
+    "other_resource_cost": "[]",
+    "price": [],
+    "rarity": 4,
+    "replace_item": 0,
+    "shiptrans_id": [],
+    "target_id": 0,
+    "time_limit": 0,
+    "type": 13,
+    "usage": "usage_drop_appointed",
+    "usage_arg": [
+      [
+        9,
+        4456,
+        1
+      ],
+      [
+        9,
+        4457,
+        1
+      ],
+      [
+        9,
+        4458,
+        1
+      ],
+      [
+        9,
+        4459,
+        1
+      ],
+      [
+        9,
+        4460,
+        1
+      ],
+      [
+        9,
+        4461,
+        1
+      ],
+      [
+        9,
+        4462,
+        1
+      ],
+      [
+        9,
+        4463,
+        1
+      ],
+      [
+        9,
+        4464,
+        1
+      ],
+      [
+        9,
+        4465,
+        1
+      ],
+      [
+        9,
+        4466,
+        1
+      ],
+      [
+        9,
+        4467,
+        1
+      ],
+      [
+        9,
+        4468,
+        1
+      ],
+      [
+        9,
+        4469,
+        1
+      ],
+      [
+        9,
+        4470,
+        1
+      ],
+      [
+        9,
+        4471,
+        1
+      ],
+      [
+        9,
+        4472,
+        1
+      ],
+      [
+        9,
+        4473,
+        1
+      ]
+    ],
+    "virtual_type": 0
+  },
   "30900": {
     "combination_display": [],
     "compose_number": 0,
@@ -55214,6 +55577,314 @@
     "type": 17,
     "usage": "usage_drop",
     "usage_arg": "89633",
+    "virtual_type": 0
+  },
+  "40736": {
+    "combination_display": [],
+    "compose_number": 0,
+    "display": "免费领取礼包获得高效作战指令书X3，石油X150",
+    "display_effect": "OpenBox",
+    "display_icon": [
+      [
+        2,
+        61001,
+        3
+      ],
+      [
+        1,
+        2,
+        150
+      ]
+    ],
+    "icon": "ChargeIcon/fengfanv4_free",
+    "id": 40736,
+    "index": [],
+    "is_world": 0,
+    "limit": [],
+    "link_id": 0,
+    "max_num": 0,
+    "name": "船团宝藏回馈I",
+    "open_directly": 1,
+    "order": 0,
+    "other_item_cost": "[]",
+    "other_resource_cost": "[]",
+    "price": [],
+    "rarity": 4,
+    "replace_item": 0,
+    "shiptrans_id": [],
+    "target_id": 0,
+    "time_limit": 0,
+    "type": 17,
+    "usage": "usgae_drop_template",
+    "usage_arg": [
+      4139,
+      0,
+      150
+    ],
+    "virtual_type": 0
+  },
+  "40737": {
+    "combination_display": [],
+    "compose_number": 0,
+    "display": "免费领取礼包获得高效作战指令书X3，石油X150",
+    "display_effect": "OpenBox",
+    "display_icon": [
+      [
+        2,
+        61001,
+        3
+      ],
+      [
+        1,
+        2,
+        150
+      ]
+    ],
+    "icon": "ChargeIcon/fengfanv4_free",
+    "id": 40737,
+    "index": [],
+    "is_world": 0,
+    "limit": [],
+    "link_id": 0,
+    "max_num": 0,
+    "name": "船团宝藏回馈II",
+    "open_directly": 1,
+    "order": 0,
+    "other_item_cost": "[]",
+    "other_resource_cost": "[]",
+    "price": [],
+    "rarity": 4,
+    "replace_item": 0,
+    "shiptrans_id": [],
+    "target_id": 0,
+    "time_limit": 0,
+    "type": 17,
+    "usage": "usgae_drop_template",
+    "usage_arg": [
+      4140,
+      0,
+      150
+    ],
+    "virtual_type": 0
+  },
+  "40738": {
+    "combination_display": [],
+    "compose_number": 0,
+    "display": "免费领取礼包获得高效作战指令书X3，石油X150",
+    "display_effect": "OpenBox",
+    "display_icon": [
+      [
+        2,
+        61001,
+        3
+      ],
+      [
+        1,
+        2,
+        150
+      ]
+    ],
+    "icon": "ChargeIcon/fengfanv4_free",
+    "id": 40738,
+    "index": [],
+    "is_world": 0,
+    "limit": [],
+    "link_id": 0,
+    "max_num": 0,
+    "name": "船团宝藏回馈III",
+    "open_directly": 1,
+    "order": 0,
+    "other_item_cost": "[]",
+    "other_resource_cost": "[]",
+    "price": [],
+    "rarity": 4,
+    "replace_item": 0,
+    "shiptrans_id": [],
+    "target_id": 0,
+    "time_limit": 0,
+    "type": 17,
+    "usage": "usgae_drop_template",
+    "usage_arg": [
+      4141,
+      0,
+      150
+    ],
+    "virtual_type": 0
+  },
+  "40739": {
+    "combination_display": [],
+    "compose_number": 0,
+    "display": "免费领取礼包获得高效作战指令书X3，石油X150",
+    "display_effect": "OpenBox",
+    "display_icon": [
+      [
+        2,
+        61001,
+        3
+      ],
+      [
+        1,
+        2,
+        150
+      ]
+    ],
+    "icon": "ChargeIcon/fengfanv4_free",
+    "id": 40739,
+    "index": [],
+    "is_world": 0,
+    "limit": [],
+    "link_id": 0,
+    "max_num": 0,
+    "name": "船团宝藏回馈IV",
+    "open_directly": 1,
+    "order": 0,
+    "other_item_cost": "[]",
+    "other_resource_cost": "[]",
+    "price": [],
+    "rarity": 4,
+    "replace_item": 0,
+    "shiptrans_id": [],
+    "target_id": 0,
+    "time_limit": 0,
+    "type": 17,
+    "usage": "usgae_drop_template",
+    "usage_arg": [
+      4142,
+      0,
+      150
+    ],
+    "virtual_type": 0
+  },
+  "40740": {
+    "combination_display": [],
+    "compose_number": 0,
+    "display": "免费领取礼包获得高效作战指令书X3，石油X150",
+    "display_effect": "OpenBox",
+    "display_icon": [
+      [
+        2,
+        61001,
+        3
+      ],
+      [
+        1,
+        2,
+        150
+      ]
+    ],
+    "icon": "ChargeIcon/fengfanv4_free",
+    "id": 40740,
+    "index": [],
+    "is_world": 0,
+    "limit": [],
+    "link_id": 0,
+    "max_num": 0,
+    "name": "船团宝藏回馈V",
+    "open_directly": 1,
+    "order": 0,
+    "other_item_cost": "[]",
+    "other_resource_cost": "[]",
+    "price": [],
+    "rarity": 4,
+    "replace_item": 0,
+    "shiptrans_id": [],
+    "target_id": 0,
+    "time_limit": 0,
+    "type": 17,
+    "usage": "usgae_drop_template",
+    "usage_arg": [
+      4143,
+      0,
+      150
+    ],
+    "virtual_type": 0
+  },
+  "40741": {
+    "combination_display": [],
+    "compose_number": 0,
+    "display": "免费领取礼包获得高效作战指令书X3，石油X150",
+    "display_effect": "OpenBox",
+    "display_icon": [
+      [
+        2,
+        61001,
+        3
+      ],
+      [
+        1,
+        2,
+        150
+      ]
+    ],
+    "icon": "ChargeIcon/fengfanv4_free",
+    "id": 40741,
+    "index": [],
+    "is_world": 0,
+    "limit": [],
+    "link_id": 0,
+    "max_num": 0,
+    "name": "船团宝藏回馈VI",
+    "open_directly": 1,
+    "order": 0,
+    "other_item_cost": "[]",
+    "other_resource_cost": "[]",
+    "price": [],
+    "rarity": 4,
+    "replace_item": 0,
+    "shiptrans_id": [],
+    "target_id": 0,
+    "time_limit": 0,
+    "type": 17,
+    "usage": "usgae_drop_template",
+    "usage_arg": [
+      4144,
+      0,
+      150
+    ],
+    "virtual_type": 0
+  },
+  "40742": {
+    "combination_display": [],
+    "compose_number": 0,
+    "display": "免费领取礼包获得高效作战指令书X3，石油X150",
+    "display_effect": "OpenBox",
+    "display_icon": [
+      [
+        2,
+        61001,
+        3
+      ],
+      [
+        1,
+        2,
+        150
+      ]
+    ],
+    "icon": "ChargeIcon/fengfanv4_free",
+    "id": 40742,
+    "index": [],
+    "is_world": 0,
+    "limit": [],
+    "link_id": 0,
+    "max_num": 0,
+    "name": "船团宝藏回馈VII",
+    "open_directly": 1,
+    "order": 0,
+    "other_item_cost": "[]",
+    "other_resource_cost": "[]",
+    "price": [],
+    "rarity": 4,
+    "replace_item": 0,
+    "shiptrans_id": [],
+    "target_id": 0,
+    "time_limit": 0,
+    "type": 17,
+    "usage": "usgae_drop_template",
+    "usage_arg": [
+      4145,
+      0,
+      150
+    ],
     "virtual_type": 0
   },
   "40801": {
@@ -132570,6 +133241,339 @@
     ],
     "virtual_type": 0
   },
+  "68376": {
+    "combination_display": [],
+    "compose_number": 0,
+    "display": "购买后可获得<color=#92fc63FF>水星号</color>换装<color=#92fc63FF>天使降临之日</color>的钻石抵扣券等道具",
+    "display_effect": "",
+    "display_icon": [
+      [
+        2,
+        68379,
+        1
+      ],
+      [
+        2,
+        68382,
+        1
+      ]
+    ],
+    "icon": "ChargeIcon/skin_ticket_package",
+    "id": 68376,
+    "index": [],
+    "is_world": 0,
+    "limit": [],
+    "link_id": 0,
+    "max_num": 0,
+    "name": "换装抵扣礼包(天使降临之日)",
+    "open_directly": 1,
+    "order": 0,
+    "other_item_cost": "[]",
+    "other_resource_cost": "[]",
+    "price": [],
+    "rarity": 4,
+    "replace_item": 0,
+    "shiptrans_id": [],
+    "target_id": 0,
+    "time_limit": 0,
+    "type": 17,
+    "usage": "usage_drop",
+    "usage_arg": "88418",
+    "virtual_type": 0
+  },
+  "68377": {
+    "combination_display": [],
+    "compose_number": 0,
+    "display": "购买后可获得<color=#92fc63FF>塞利米耶号</color>换装<color=#92fc63FF>自投罗网的预言家？</color>的钻石抵扣券等道具",
+    "display_effect": "",
+    "display_icon": [
+      [
+        2,
+        68380,
+        1
+      ],
+      [
+        2,
+        68383,
+        1
+      ]
+    ],
+    "icon": "ChargeIcon/skin_ticket_package",
+    "id": 68377,
+    "index": [],
+    "is_world": 0,
+    "limit": [],
+    "link_id": 0,
+    "max_num": 0,
+    "name": "换装抵扣礼包(自投罗网的预言家？)",
+    "open_directly": 1,
+    "order": 0,
+    "other_item_cost": "[]",
+    "other_resource_cost": "[]",
+    "price": [],
+    "rarity": 4,
+    "replace_item": 0,
+    "shiptrans_id": [],
+    "target_id": 0,
+    "time_limit": 0,
+    "type": 17,
+    "usage": "usage_drop",
+    "usage_arg": "88419",
+    "virtual_type": 0
+  },
+  "68378": {
+    "combination_display": [],
+    "compose_number": 0,
+    "display": "购买后可获得<color=#92fc63FF>铁角号</color>换装<color=#92fc63FF>迷惘的堕天使</color>的钻石抵扣券等道具",
+    "display_effect": "",
+    "display_icon": [
+      [
+        2,
+        68381,
+        1
+      ],
+      [
+        2,
+        68384,
+        1
+      ]
+    ],
+    "icon": "ChargeIcon/skin_ticket_package",
+    "id": 68378,
+    "index": [],
+    "is_world": 0,
+    "limit": [],
+    "link_id": 0,
+    "max_num": 0,
+    "name": "换装抵扣礼包(迷惘的堕天使)",
+    "open_directly": 1,
+    "order": 0,
+    "other_item_cost": "[]",
+    "other_resource_cost": "[]",
+    "price": [],
+    "rarity": 4,
+    "replace_item": 0,
+    "shiptrans_id": [],
+    "target_id": 0,
+    "time_limit": 0,
+    "type": 17,
+    "usage": "usage_drop",
+    "usage_arg": "88420",
+    "virtual_type": 0
+  },
+  "68379": {
+    "combination_display": [],
+    "compose_number": 0,
+    "display": "持有此道具时，购买<color=#92fc63FF>水星号</color>换装<color=#92fc63FF>天使降临之日</color>时可消耗此道具，并抵扣300钻石\n<color=#ff5c5c>道具有效期：自获得后～2026年10月28日 23:59，过期后此道具将消失，并自动转化为300钻石</color>",
+    "display_effect": "",
+    "display_icon": [],
+    "icon": "Props/limit_skin_300",
+    "id": 68379,
+    "index": [],
+    "is_world": 0,
+    "limit": [],
+    "link_id": 0,
+    "max_num": 0,
+    "name": "换装抵扣券(天使降临之日)",
+    "open_directly": 0,
+    "order": 1,
+    "other_item_cost": "[]",
+    "other_resource_cost": "[]",
+    "price": [
+      14,
+      300
+    ],
+    "rarity": 4,
+    "replace_item": 0,
+    "shiptrans_id": [],
+    "target_id": 0,
+    "time_limit": 1,
+    "type": 1,
+    "usage": "usage_shop_discount",
+    "usage_arg": [
+      [
+        71413
+      ],
+      300
+    ],
+    "virtual_type": 0
+  },
+  "68380": {
+    "combination_display": [],
+    "compose_number": 0,
+    "display": "持有此道具时，购买<color=#92fc63FF>塞利米耶号</color>换装<color=#92fc63FF>自投罗网的预言家？</color>时可消耗此道具，并抵扣300钻石\n<color=#ff5c5c>道具有效期：自获得后～2026年10月28日 23:59，过期后此道具将消失，并自动转化为300钻石</color>",
+    "display_effect": "",
+    "display_icon": [],
+    "icon": "Props/limit_skin_300",
+    "id": 68380,
+    "index": [],
+    "is_world": 0,
+    "limit": [],
+    "link_id": 0,
+    "max_num": 0,
+    "name": "换装抵扣券(自投罗网的预言家？)",
+    "open_directly": 0,
+    "order": 1,
+    "other_item_cost": "[]",
+    "other_resource_cost": "[]",
+    "price": [
+      14,
+      300
+    ],
+    "rarity": 4,
+    "replace_item": 0,
+    "shiptrans_id": [],
+    "target_id": 0,
+    "time_limit": 1,
+    "type": 1,
+    "usage": "usage_shop_discount",
+    "usage_arg": [
+      [
+        71415
+      ],
+      300
+    ],
+    "virtual_type": 0
+  },
+  "68381": {
+    "combination_display": [],
+    "compose_number": 0,
+    "display": "持有此道具时，购买<color=#92fc63FF>铁角号</color>换装<color=#92fc63FF>迷惘的堕天使</color>时可消耗此道具，并抵扣300钻石\n<color=#ff5c5c>道具有效期：自获得后～2026年10月28日 23:59，过期后此道具将消失，并自动转化为300钻石</color>",
+    "display_effect": "",
+    "display_icon": [],
+    "icon": "Props/limit_skin_300",
+    "id": 68381,
+    "index": [],
+    "is_world": 0,
+    "limit": [],
+    "link_id": 0,
+    "max_num": 0,
+    "name": "换装抵扣券(迷惘的堕天使)",
+    "open_directly": 0,
+    "order": 1,
+    "other_item_cost": "[]",
+    "other_resource_cost": "[]",
+    "price": [
+      14,
+      300
+    ],
+    "rarity": 4,
+    "replace_item": 0,
+    "shiptrans_id": [],
+    "target_id": 0,
+    "time_limit": 1,
+    "type": 1,
+    "usage": "usage_shop_discount",
+    "usage_arg": [
+      [
+        71414
+      ],
+      300
+    ],
+    "virtual_type": 0
+  },
+  "68382": {
+    "combination_display": [],
+    "compose_number": 0,
+    "display": "使用后可前往换装体验兑换界面，界面内可以选择兑换<color=#92fc63FF>水星号</color>换装<color=#92fc63FF>天使降临之日</color>的2天换装体验资格\n<color=#ff5c5c>道具有效期：自获得后～2026年10月28日 23:59，过期后此道具将消失</color>",
+    "display_effect": "",
+    "display_icon": [],
+    "icon": "Props/limit_skinticket",
+    "id": 68382,
+    "index": [],
+    "is_world": 0,
+    "limit": [],
+    "link_id": 0,
+    "max_num": 0,
+    "name": "换装体验券(天使降临之日)",
+    "open_directly": 0,
+    "order": 1,
+    "other_item_cost": "[]",
+    "other_resource_cost": "[]",
+    "price": [
+      1,
+      0
+    ],
+    "rarity": 4,
+    "replace_item": 0,
+    "shiptrans_id": [],
+    "target_id": 0,
+    "time_limit": 1,
+    "type": 1,
+    "usage": "usage_skin_exp",
+    "usage_arg": [
+      90546
+    ],
+    "virtual_type": 0
+  },
+  "68383": {
+    "combination_display": [],
+    "compose_number": 0,
+    "display": "使用后可前往换装体验兑换界面，界面内可以选择兑换<color=#92fc63FF>塞利米耶号</color>换装<color=#92fc63FF>自投罗网的预言家？</color>的2天换装体验资格\n<color=#ff5c5c>道具有效期：自获得后～2026年10月28日 23:59，过期后此道具将消失</color>",
+    "display_effect": "",
+    "display_icon": [],
+    "icon": "Props/limit_skinticket",
+    "id": 68383,
+    "index": [],
+    "is_world": 0,
+    "limit": [],
+    "link_id": 0,
+    "max_num": 0,
+    "name": "换装体验券(自投罗网的预言家？)",
+    "open_directly": 0,
+    "order": 1,
+    "other_item_cost": "[]",
+    "other_resource_cost": "[]",
+    "price": [
+      1,
+      0
+    ],
+    "rarity": 4,
+    "replace_item": 0,
+    "shiptrans_id": [],
+    "target_id": 0,
+    "time_limit": 1,
+    "type": 1,
+    "usage": "usage_skin_exp",
+    "usage_arg": [
+      90547
+    ],
+    "virtual_type": 0
+  },
+  "68384": {
+    "combination_display": [],
+    "compose_number": 0,
+    "display": "使用后可前往换装体验兑换界面，界面内可以选择兑换<color=#92fc63FF>铁角号</color>换装<color=#92fc63FF>迷惘的堕天使</color>的2天换装体验资格\n<color=#ff5c5c>道具有效期：自获得后～2026年10月28日 23:59，过期后此道具将消失</color>",
+    "display_effect": "",
+    "display_icon": [],
+    "icon": "Props/limit_skinticket",
+    "id": 68384,
+    "index": [],
+    "is_world": 0,
+    "limit": [],
+    "link_id": 0,
+    "max_num": 0,
+    "name": "换装体验券(迷惘的堕天使)",
+    "open_directly": 0,
+    "order": 1,
+    "other_item_cost": "[]",
+    "other_resource_cost": "[]",
+    "price": [
+      1,
+      0
+    ],
+    "rarity": 4,
+    "replace_item": 0,
+    "shiptrans_id": [],
+    "target_id": 0,
+    "time_limit": 1,
+    "type": 1,
+    "usage": "usage_skin_exp",
+    "usage_arg": [
+      90548
+    ],
+    "virtual_type": 0
+  },
   "69975": {
     "combination_display": [],
     "compose_number": 0,
@@ -136518,12 +137522,303 @@
     "usage_arg": "908111",
     "virtual_type": 0
   },
+  "81446": {
+    "combination_display": [],
+    "compose_number": 0,
+    "display": "购买礼包可获得60钻，高级定向蓝图·八期*2",
+    "display_effect": "",
+    "display_icon": [
+      [
+        2,
+        42076,
+        2
+      ],
+      [
+        1,
+        14,
+        60
+      ]
+    ],
+    "icon": "Props/fengfanv4_day1",
+    "id": 81446,
+    "index": [],
+    "is_world": 0,
+    "limit": [],
+    "link_id": 0,
+    "max_num": 0,
+    "name": "船团建设礼包I",
+    "open_directly": 1,
+    "order": 0,
+    "other_item_cost": "[]",
+    "other_resource_cost": "[]",
+    "price": [],
+    "rarity": 4,
+    "replace_item": 0,
+    "shiptrans_id": [],
+    "target_id": 0,
+    "time_limit": 0,
+    "type": 17,
+    "usage": "usage_drop",
+    "usage_arg": "911101",
+    "virtual_type": 0
+  },
+  "81447": {
+    "combination_display": [],
+    "compose_number": 0,
+    "display": "购买礼包可获得200钻",
+    "display_effect": "",
+    "display_icon": [
+      [
+        1,
+        14,
+        200
+      ]
+    ],
+    "icon": "Props/fengfanv4_day2",
+    "id": 81447,
+    "index": [],
+    "is_world": 0,
+    "limit": [],
+    "link_id": 0,
+    "max_num": 0,
+    "name": "船团建设礼包II",
+    "open_directly": 1,
+    "order": 0,
+    "other_item_cost": "[]",
+    "other_resource_cost": "[]",
+    "price": [],
+    "rarity": 4,
+    "replace_item": 0,
+    "shiptrans_id": [],
+    "target_id": 0,
+    "time_limit": 0,
+    "type": 17,
+    "usage": "usage_drop",
+    "usage_arg": "911102",
+    "virtual_type": 0
+  },
+  "81448": {
+    "combination_display": [],
+    "compose_number": 0,
+    "display": "购买礼包可获得定向部件T4*5，心智单元*200",
+    "display_effect": "",
+    "display_icon": [
+      [
+        2,
+        30114,
+        5
+      ],
+      [
+        2,
+        15008,
+        200
+      ]
+    ],
+    "icon": "Props/fengfanv4_day3",
+    "id": 81448,
+    "index": [],
+    "is_world": 0,
+    "limit": [],
+    "link_id": 0,
+    "max_num": 0,
+    "name": "船团建设礼包III",
+    "open_directly": 1,
+    "order": 0,
+    "other_item_cost": "[]",
+    "other_resource_cost": "[]",
+    "price": [],
+    "rarity": 4,
+    "replace_item": 0,
+    "shiptrans_id": [],
+    "target_id": 0,
+    "time_limit": 0,
+    "type": 17,
+    "usage": "usage_drop",
+    "usage_arg": "911103",
+    "virtual_type": 0
+  },
+  "81449": {
+    "combination_display": [],
+    "compose_number": 0,
+    "display": "购买礼包可获得60钻，试作型布里MKII*1",
+    "display_effect": "",
+    "display_icon": [
+      [
+        4,
+        100011,
+        1
+      ],
+      [
+        1,
+        14,
+        60
+      ]
+    ],
+    "icon": "Props/fengfanv4_day4",
+    "id": 81449,
+    "index": [],
+    "is_world": 0,
+    "limit": [],
+    "link_id": 0,
+    "max_num": 0,
+    "name": "船团建设礼包IV",
+    "open_directly": 1,
+    "order": 0,
+    "other_item_cost": "[]",
+    "other_resource_cost": "[]",
+    "price": [],
+    "rarity": 4,
+    "replace_item": 0,
+    "shiptrans_id": [],
+    "target_id": 0,
+    "time_limit": 0,
+    "type": 17,
+    "usage": "usage_drop",
+    "usage_arg": "911104",
+    "virtual_type": 0
+  },
+  "81450": {
+    "combination_display": [],
+    "compose_number": 0,
+    "display": "购买礼包可获得舰艇演习数据T2*60",
+    "display_effect": "",
+    "display_icon": [
+      [
+        2,
+        16502,
+        60
+      ]
+    ],
+    "icon": "Props/fengfanv4_day5",
+    "id": 81450,
+    "index": [],
+    "is_world": 0,
+    "limit": [],
+    "link_id": 0,
+    "max_num": 0,
+    "name": "船团建设礼包V",
+    "open_directly": 1,
+    "order": 0,
+    "other_item_cost": "[]",
+    "other_resource_cost": "[]",
+    "price": [],
+    "rarity": 4,
+    "replace_item": 0,
+    "shiptrans_id": [],
+    "target_id": 0,
+    "time_limit": 0,
+    "type": 17,
+    "usage": "usage_drop",
+    "usage_arg": "911105",
+    "virtual_type": 0
+  },
+  "81451": {
+    "combination_display": [],
+    "compose_number": 0,
+    "display": "购买礼包可获得心智魔方*10，快速完成工具*5",
+    "display_effect": "",
+    "display_icon": [
+      [
+        2,
+        20001,
+        10
+      ],
+      [
+        2,
+        15003,
+        5
+      ]
+    ],
+    "icon": "Props/fengfanv4_day6",
+    "id": 81451,
+    "index": [],
+    "is_world": 0,
+    "limit": [],
+    "link_id": 0,
+    "max_num": 0,
+    "name": "船团建设礼包VI",
+    "open_directly": 1,
+    "order": 0,
+    "other_item_cost": "[]",
+    "other_resource_cost": "[]",
+    "price": [],
+    "rarity": 4,
+    "replace_item": 0,
+    "shiptrans_id": [],
+    "target_id": 0,
+    "time_limit": 0,
+    "type": 17,
+    "usage": "usage_drop",
+    "usage_arg": "911106",
+    "virtual_type": 0
+  },
+  "81452": {
+    "combination_display": [],
+    "compose_number": 0,
+    "display": "购买礼包可获得60钻，高级定向蓝图·九期*2",
+    "display_effect": "",
+    "display_icon": [
+      [
+        2,
+        42086,
+        2
+      ],
+      [
+        1,
+        14,
+        60
+      ]
+    ],
+    "icon": "Props/fengfanv4_day7",
+    "id": 81452,
+    "index": [],
+    "is_world": 0,
+    "limit": [],
+    "link_id": 0,
+    "max_num": 0,
+    "name": "船团建设礼包VII",
+    "open_directly": 1,
+    "order": 0,
+    "other_item_cost": "[]",
+    "other_resource_cost": "[]",
+    "price": [],
+    "rarity": 4,
+    "replace_item": 0,
+    "shiptrans_id": [],
+    "target_id": 0,
+    "time_limit": 0,
+    "type": 17,
+    "usage": "usage_drop",
+    "usage_arg": "911107",
+    "virtual_type": 0
+  },
   "99985": {
     "combination_display": [],
     "compose_number": 0,
     "display": "用于补发2026年9月大型作战委托作战部分奖励异常所涉及的奖励。开启后可随机获得特别兑换凭证、海域坐标记录仪或塞壬坐标记录仪。 ",
     "display_effect": "",
-    "display_icon": [],
+    "display_icon": [
+      [
+        12,
+        101,
+        10
+      ],
+      [
+        12,
+        2100001,
+        1
+      ],
+      [
+        12,
+        2100002,
+        1
+      ],
+      [
+        12,
+        2100003,
+        1
+      ]
+    ],
     "icon": "Props/giftbox",
     "id": 99985,
     "index": [],
@@ -136532,7 +137827,7 @@
     "link_id": 0,
     "max_num": 10000,
     "name": "作战奖励补给箱",
-    "open_directly": 0,
+    "open_directly": 1,
     "order": 0,
     "other_item_cost": "[]",
     "other_resource_cost": "[]",
@@ -137831,6 +139126,7 @@
     11057,
     11058,
     11059,
+    11060,
     12000,
     12001,
     12002,
@@ -138242,6 +139538,7 @@
     30386,
     30387,
     30388,
+    30389,
     30401,
     30402,
     30403,
@@ -138351,6 +139648,7 @@
     30570,
     30571,
     30572,
+    30573,
     30900,
     30911,
     30912,
@@ -138522,6 +139820,13 @@
     40733,
     40734,
     40735,
+    40736,
+    40737,
+    40738,
+    40739,
+    40740,
+    40741,
+    40742,
     40801,
     40802,
     40803,
@@ -140647,6 +141952,15 @@
     68355,
     68356,
     68357,
+    68376,
+    68377,
+    68378,
+    68379,
+    68380,
+    68381,
+    68382,
+    68383,
+    68384,
     68358,
     68359,
     68360,
@@ -140740,6 +142054,13 @@
     81425,
     81439,
     81440,
+    81446,
+    81447,
+    81448,
+    81449,
+    81450,
+    81451,
+    81452,
     99991,
     99992,
     99993,
@@ -142356,6 +143677,12 @@
       68355,
       68356,
       68357,
+      68379,
+      68380,
+      68381,
+      68382,
+      68383,
+      68384,
       68361,
       68362,
       68363,
@@ -142874,6 +144201,7 @@
       11057,
       11058,
       11059,
+      11060,
       12000,
       12001,
       12002,
@@ -143042,6 +144370,7 @@
       30386,
       30387,
       30388,
+      30389,
       30401,
       30402,
       30403,
@@ -143297,6 +144626,7 @@
       30570,
       30571,
       30572,
+      30573,
       30900,
       30911,
       30912,
@@ -143510,6 +144840,13 @@
       40733,
       40734,
       40735,
+      40736,
+      40737,
+      40738,
+      40739,
+      40740,
+      40741,
+      40742,
       40801,
       40802,
       40803,
@@ -143859,6 +145196,9 @@
       68349,
       68350,
       68351,
+      68376,
+      68377,
+      68378,
       68358,
       68359,
       68360,
@@ -143924,6 +145264,13 @@
       81425,
       81439,
       81440,
+      81446,
+      81447,
+      81448,
+      81449,
+      81450,
+      81451,
+      81452,
       99991,
       99992,
       99993,
