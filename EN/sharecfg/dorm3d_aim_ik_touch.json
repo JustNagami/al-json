@@ -1,3 +1,48 @@
 {
-  "all": []
+  "799021001": {
+    "camera": "Cam700530",
+    "character_action": "IK_bed02_idle02",
+    "character_id": 79902,
+    "character_position": "Pos700530",
+    "enter_extra_item": [],
+    "enter_scene_anim": [
+      [
+        3006,
+        "IK_bed02_idle02_MW"
+      ]
+    ],
+    "fade_in": 0.8,
+    "fade_out": 0.8,
+    "hide_scene_item": [],
+    "id": 799021001,
+    "item_path": "FurnitureSlots/2210101/pre_db_naximofu_bed01(Clone)/pre_db_nxmf_bed01/all/DMB000",
+    "layer_config": "config1919810",
+    "skin_id": 799021,
+    "trigger_talk": 210231
+  },
+  "799023001": {
+    "camera": "Cam700530",
+    "character_action": "IK_bed02_idle02",
+    "character_id": 79902,
+    "character_position": "Pos700530",
+    "enter_extra_item": [],
+    "enter_scene_anim": [
+      [
+        3006,
+        "IK_bed02_idle02_MW"
+      ]
+    ],
+    "fade_in": 0.8,
+    "fade_out": 0.8,
+    "hide_scene_item": [],
+    "id": 799023001,
+    "item_path": "FurnitureSlots/2210101/pre_db_naximofu_bed01(Clone)/pre_db_nxmf_bed01/all/DMB000",
+    "layer_config": "config1919810",
+    "skin_id": 799023,
+    "trigger_talk": 210231
+  },
+  "all": [
+    799021001,
+    799023001
+  ]
 }

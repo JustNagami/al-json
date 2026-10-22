@@ -28958,6 +28958,363 @@
     "ui_type": 10,
     "uifx": ""
   },
+  "2070001": {
+    "anchor": "",
+    "ani_controller": "",
+    "ani_name": "Map_2070001",
+    "animtor": 1,
+    "bg": "Map_2070001",
+    "bgm": "theme-fogsea",
+    "bind_map": 0,
+    "chapterGroups": [
+      [
+        2070001
+      ],
+      [
+        2070002
+      ],
+      [
+        2070003
+      ]
+    ],
+    "cloud_suffix": "",
+    "clouds_pos": [
+      [
+        332,
+        271
+      ],
+      [
+        896,
+        110
+      ],
+      [
+        -280,
+        0
+      ],
+      [
+        990,
+        -90
+      ],
+      [
+        0,
+        -465
+      ]
+    ],
+    "default_background": "star_level_bg_594",
+    "default_bgm": "theme-amahara-core",
+    "destory_icon_suffix": "blue",
+    "drop_by_map_display": "",
+    "enter_story": "",
+    "guide_id": "",
+    "level_limit": 1,
+    "map": 2070001,
+    "map_name": "levelscene_mapselect_part1",
+    "name": "Tempesta and the Corridor of Fog – Pt. 1|| ||CHAPTER EX||E.X.",
+    "on_activity": 51601,
+    "pos_type": 0,
+    "story_id": [
+      551,
+      552,
+      553,
+      554,
+      555,
+      556,
+      557,
+      558,
+      559,
+      560,
+      561,
+      562,
+      563,
+      564,
+      565,
+      566,
+      567,
+      568,
+      569,
+      570,
+      571,
+      572,
+      573,
+      574,
+      575,
+      576
+    ],
+    "story_inactive_color": "162443",
+    "title": "SP",
+    "type": 4,
+    "ui_type": 10,
+    "uifx": ""
+  },
+  "2070002": {
+    "anchor": "",
+    "ani_controller": "",
+    "ani_name": "Map_2070002",
+    "animtor": 1,
+    "bg": "Map_2070002",
+    "bgm": "story-temepest-2",
+    "bind_map": 0,
+    "chapterGroups": [
+      [
+        2070004
+      ],
+      [
+        2070005
+      ],
+      [
+        2070006
+      ]
+    ],
+    "cloud_suffix": "",
+    "clouds_pos": [
+      [
+        332,
+        271
+      ],
+      [
+        896,
+        110
+      ],
+      [
+        -280,
+        0
+      ],
+      [
+        990,
+        -90
+      ],
+      [
+        0,
+        -465
+      ]
+    ],
+    "default_background": "star_level_bg_594",
+    "default_bgm": "theme-amahara-core",
+    "destory_icon_suffix": "blue",
+    "drop_by_map_display": "",
+    "enter_story": "",
+    "guide_id": "",
+    "level_limit": 1,
+    "map": 2070002,
+    "map_name": "levelscene_mapselect_part2",
+    "name": "Tempesta and the Corridor of Fog – Pt. 2|| ||CHAPTER EX||E.X.",
+    "on_activity": 51601,
+    "pos_type": 0,
+    "story_id": [
+      551,
+      552,
+      553,
+      554,
+      555,
+      556,
+      557,
+      558,
+      559,
+      560,
+      561,
+      562,
+      563,
+      564,
+      565,
+      566,
+      567,
+      568,
+      569,
+      570,
+      571,
+      572,
+      573,
+      574,
+      575,
+      576
+    ],
+    "story_inactive_color": "162443",
+    "title": "SP",
+    "type": 4,
+    "ui_type": 10,
+    "uifx": ""
+  },
+  "2070003": {
+    "anchor": "",
+    "ani_controller": [
+      [
+        3,
+        [
+          [],
+          "guanxingtai"
+        ]
+      ]
+    ],
+    "ani_name": "Map_2070002",
+    "animtor": 1,
+    "bg": "Map_2070002",
+    "bgm": "theme-amahara-core",
+    "bind_map": 2070002,
+    "chapterGroups": [
+      [
+        2070041
+      ]
+    ],
+    "cloud_suffix": "",
+    "clouds_pos": [
+      [
+        332,
+        271
+      ],
+      [
+        896,
+        110
+      ],
+      [
+        -280,
+        0
+      ],
+      [
+        990,
+        -90
+      ],
+      [
+        0,
+        -465
+      ]
+    ],
+    "default_background": "star_level_bg_594",
+    "default_bgm": "theme-amahara-core",
+    "destory_icon_suffix": "blue",
+    "drop_by_map_display": "",
+    "enter_story": "",
+    "guide_id": "",
+    "level_limit": 1,
+    "map": 2070003,
+    "map_name": "levelscene_mapselect_sp",
+    "name": "Tempesta and the Corridor of Fog – SP|| ||CHAPTER EX||E.X.",
+    "on_activity": 51601,
+    "pos_type": 0,
+    "story_id": [
+      551,
+      552,
+      553,
+      554,
+      555,
+      556,
+      557,
+      558,
+      559,
+      560,
+      561,
+      562,
+      563,
+      564,
+      565,
+      566,
+      567,
+      568,
+      569,
+      570,
+      571,
+      572,
+      573,
+      574,
+      575,
+      576
+    ],
+    "story_inactive_color": "162443",
+    "title": "SP",
+    "type": 8,
+    "ui_type": 10,
+    "uifx": ""
+  },
+  "2070004": {
+    "anchor": "",
+    "ani_controller": [
+      [
+        3,
+        [
+          [],
+          "guanxingtai"
+        ]
+      ]
+    ],
+    "ani_name": "Map_2070002",
+    "animtor": 1,
+    "bg": "Map_2070002",
+    "bgm": "battle-nightmare-theme",
+    "bind_map": 2070002,
+    "chapterGroups": [
+      [
+        2070051,
+        2070052
+      ]
+    ],
+    "cloud_suffix": "",
+    "clouds_pos": [
+      [
+        332,
+        271
+      ],
+      [
+        896,
+        110
+      ],
+      [
+        -280,
+        0
+      ],
+      [
+        990,
+        -90
+      ],
+      [
+        0,
+        -465
+      ]
+    ],
+    "default_background": "star_level_bg_594",
+    "default_bgm": "theme-amahara-core",
+    "destory_icon_suffix": "blue",
+    "drop_by_map_display": "",
+    "enter_story": "",
+    "guide_id": "",
+    "level_limit": 1,
+    "map": 2070004,
+    "map_name": "levelscene_mapselect_ex",
+    "name": "Tempesta and the Corridor of Fog – EX|| ||CHAPTER EX||E.X.",
+    "on_activity": 51601,
+    "pos_type": 0,
+    "story_id": [
+      551,
+      552,
+      553,
+      554,
+      555,
+      556,
+      557,
+      558,
+      559,
+      560,
+      561,
+      562,
+      563,
+      564,
+      565,
+      566,
+      567,
+      568,
+      569,
+      570,
+      571,
+      572,
+      573,
+      574,
+      575,
+      576
+    ],
+    "story_inactive_color": "162443",
+    "title": "SP",
+    "type": 8,
+    "ui_type": 10,
+    "uifx": ""
+  },
   "2100000": {
     "anchor": "",
     "ani_controller": "",
@@ -37380,6 +37737,10 @@
     2060012,
     2060025,
     2060026,
+    2070001,
+    2070002,
+    2070003,
+    2070004,
     2100000,
     2100001,
     2100010,
@@ -37744,6 +38105,8 @@
       2050002,
       2060001,
       2060002,
+      2070001,
+      2070002,
       2100000,
       2100001,
       2100020,
@@ -38155,6 +38518,8 @@
       2050026,
       2060025,
       2060026,
+      2070003,
+      2070004,
       9920021
     ],
     "9": [

@@ -159,33 +159,7 @@
     "story_pic": "",
     "story_resource_CN": "",
     "story_resource_JP": "soundStory6_JP",
-    "time": [
-      "timer",
-      [
-        [
-          2025,
-          11,
-          13
-        ],
-        [
-          0,
-          0,
-          0
-        ]
-      ],
-      [
-        [
-          2025,
-          12,
-          3
-        ],
-        [
-          23,
-          59,
-          59
-        ]
-      ]
-    ]
+    "time": "always"
   },
   "7": {
     "CV_CN": "",
@@ -561,9 +535,9 @@
       "timer",
       [
         [
-          2025,
-          11,
-          13
+          2026,
+          10,
+          22
         ],
         [
           0,
@@ -573,9 +547,9 @@
       ],
       [
         [
-          2025,
-          12,
-          3
+          2026,
+          10,
+          28
         ],
         [
           23,
@@ -1407,6 +1381,59 @@
       ]
     ]
   },
+  "31": {
+    "CV_CN": "",
+    "CV_JP": "Minase Suzuka",
+    "audition_resource_CN": "",
+    "audition_resource_JP": "ss-960019-1",
+    "audition_text": "Picture me, feel my presence, and then... reveal that sensation into my crystal ball.",
+    "captions_color": "#2c2952",
+    "cost1": [
+      1,
+      14,
+      120
+    ],
+    "cost2": [
+      1,
+      15,
+      3
+    ],
+    "id": 31,
+    "name": "Personal Fortune-Telling Session",
+    "order": 2,
+    "overview": "Selimiye's promised personal fortune-telling session has arrived.\nUsing her crystal ball, she will see through every last bit of your heart...",
+    "ship_id": 960019,
+    "story_pic": "",
+    "story_resource_CN": "",
+    "story_resource_JP": "soundStory31_JP",
+    "time": [
+      "timer",
+      [
+        [
+          2026,
+          10,
+          22
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2026,
+          10,
+          28
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ]
+  },
   "all": [
     1,
     2,
@@ -1437,6 +1464,7 @@
     27,
     28,
     29,
-    30
+    30,
+    31
   ]
 }

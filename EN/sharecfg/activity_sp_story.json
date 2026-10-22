@@ -10419,6 +10419,519 @@
     "story_type": 1,
     "unlock_conditions": "Clear EP4-5"
   },
+  "551": {
+    "change_background": "star_level_bg_524",
+    "change_bgm": "theme-crownpolis",
+    "change_prefab": "",
+    "id": 551,
+    "label_key": "",
+    "lock": "",
+    "name": "EPS-1 Interstellar Guidance",
+    "pre_event": "",
+    "story": "JUFENGYUWUAIHUILANG1",
+    "story_type": 1,
+    "unlock_conditions": ""
+  },
+  "552": {
+    "change_background": "star_level_bg_539",
+    "change_bgm": "theme-tempest-up",
+    "change_prefab": "",
+    "id": 552,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        551
+      ]
+    ],
+    "name": "EP1-1 The Day the Stars Inverted",
+    "pre_event": [
+      551
+    ],
+    "story": "JUFENGYUWUAIHUILANG2",
+    "story_type": 1,
+    "unlock_conditions": "Clear EPS-1"
+  },
+  "553": {
+    "change_background": "star_level_bg_504",
+    "change_bgm": "theme-tempest-light",
+    "change_prefab": "",
+    "id": 553,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        552
+      ]
+    ],
+    "name": "EP1-2 On a Day Worth Celebrating",
+    "pre_event": [
+      552
+    ],
+    "story": "JUFENGYUWUAIHUILANG3",
+    "story_type": 1,
+    "unlock_conditions": "Clear EP1-1"
+  },
+  "554": {
+    "change_background": "star_level_bg_504",
+    "change_bgm": "theme-crownpolis",
+    "change_prefab": "",
+    "id": 554,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        553
+      ]
+    ],
+    "name": "EP1-3 In My Pajamas in Another World",
+    "pre_event": [
+      553
+    ],
+    "story": "JUFENGYUWUAIHUILANG4",
+    "story_type": 1,
+    "unlock_conditions": "Clear EP1-2"
+  },
+  "555": {
+    "change_background": "star_level_bg_504",
+    "change_bgm": "battle-temepest-2",
+    "change_prefab": "",
+    "id": 555,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        554
+      ]
+    ],
+    "name": "EP1-4 A Lady and Her Escort",
+    "pre_event": [
+      554
+    ],
+    "story": "JUFENGYUWUAIHUILANG5",
+    "story_type": 1,
+    "unlock_conditions": "Clear EP1-3"
+  },
+  "556": {
+    "change_background": "star_level_bg_525",
+    "change_bgm": "story-tempest-marching",
+    "change_prefab": "",
+    "id": 556,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        555
+      ]
+    ],
+    "name": "EP2-1 The Lost Fortune Teller",
+    "pre_event": [
+      555
+    ],
+    "story": "2078001",
+    "story_type": 2,
+    "unlock_conditions": "Clear EP1-4"
+  },
+  "557": {
+    "change_background": "star_level_bg_528",
+    "change_bgm": "story-tempest-oldpast",
+    "change_prefab": "",
+    "id": 557,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        556
+      ]
+    ],
+    "name": "EP2-2 Startrace Beacon",
+    "pre_event": [
+      556
+    ],
+    "story": "JUFENGYUWUAIHUILANG7",
+    "story_type": 1,
+    "unlock_conditions": "Clear EP2-1"
+  },
+  "558": {
+    "change_background": "star_level_bg_598",
+    "change_bgm": "story-tempest-freedom",
+    "change_prefab": "",
+    "id": 558,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        557
+      ]
+    ],
+    "name": "EP2-3 Reflections of the Past",
+    "pre_event": [
+      557
+    ],
+    "story": "JUFENGYUWUAIHUILANG8",
+    "story_type": 1,
+    "unlock_conditions": "Clear EP2-2"
+  },
+  "559": {
+    "change_background": "bg_underwater",
+    "change_bgm": "story-tempest-oldpast",
+    "change_prefab": "",
+    "id": 559,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        558
+      ]
+    ],
+    "name": "EP2-4 Lost Anne",
+    "pre_event": [
+      558
+    ],
+    "story": "JUFENGYUWUAIHUILANG9",
+    "story_type": 1,
+    "unlock_conditions": "Clear EP2-3"
+  },
+  "560": {
+    "change_background": "bg_jufengv2_cg2",
+    "change_bgm": "story-fogsea-light",
+    "change_prefab": "",
+    "id": 560,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        559
+      ]
+    ],
+    "name": "EP3-1 Reflections Resurface",
+    "pre_event": [
+      559
+    ],
+    "story": "JUFENGYUWUAIHUILANG10",
+    "story_type": 1,
+    "unlock_conditions": "Clear EP2-4"
+  },
+  "561": {
+    "change_background": "star_level_bg_504",
+    "change_bgm": "theme-fogsea",
+    "change_prefab": "",
+    "id": 561,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        560
+      ]
+    ],
+    "name": "EP3-2 A Warning From the Observatory",
+    "pre_event": [
+      560
+    ],
+    "story": "JUFENGYUWUAIHUILANG11",
+    "story_type": 1,
+    "unlock_conditions": "Clear EP3-1"
+  },
+  "562": {
+    "change_background": "star_level_bg_598",
+    "change_bgm": "theme-fogsea",
+    "change_prefab": "",
+    "id": 562,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        561
+      ]
+    ],
+    "name": "EP3-3 The Sea Serpent",
+    "pre_event": [
+      561
+    ],
+    "story": "2078002",
+    "story_type": 2,
+    "unlock_conditions": "Clear EP3-2"
+  },
+  "563": {
+    "change_background": "bg_wuaihuilang_cg1",
+    "change_bgm": "theme-tempest-light",
+    "change_prefab": "",
+    "id": 563,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        562
+      ]
+    ],
+    "name": "EP4-1 Detours",
+    "pre_event": [
+      562
+    ],
+    "story": "JUFENGYUWUAIHUILANG13",
+    "story_type": 1,
+    "unlock_conditions": "Clear EP3-3"
+  },
+  "564": {
+    "change_background": "bg_wuaihuilang_cg2",
+    "change_bgm": "theme-amahara-core",
+    "change_prefab": "",
+    "id": 564,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        563
+      ]
+    ],
+    "name": "EP4-2 What to Eat?",
+    "pre_event": [
+      563
+    ],
+    "story": "JUFENGYUWUAIHUILANG14",
+    "story_type": 1,
+    "unlock_conditions": "Clear EP4-1"
+  },
+  "565": {
+    "change_background": "bg_wuaihuilang_1",
+    "change_bgm": "story-fogsea-light",
+    "change_prefab": "",
+    "id": 565,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        564
+      ]
+    ],
+    "name": "EP4-3 Looking in Reverse",
+    "pre_event": [
+      564
+    ],
+    "story": "JUFENGYUWUAIHUILANG15",
+    "story_type": 1,
+    "unlock_conditions": "Clear EP4-2"
+  },
+  "566": {
+    "change_background": "star_level_bg_525",
+    "change_bgm": "theme-fogsea",
+    "change_prefab": "",
+    "id": 566,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        565
+      ]
+    ],
+    "name": "EP4-4 Star-Sinking Abyss",
+    "pre_event": [
+      565
+    ],
+    "story": "2078003",
+    "story_type": 2,
+    "unlock_conditions": "Clear EP4-3"
+  },
+  "567": {
+    "change_background": "bg_wuaihuilang_cg2",
+    "change_bgm": "theme-amahara-core",
+    "change_prefab": "",
+    "id": 567,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        566
+      ]
+    ],
+    "name": "EP4-5 Another Way",
+    "pre_event": [
+      566
+    ],
+    "story": "JUFENGYUWUAIHUILANG17",
+    "story_type": 1,
+    "unlock_conditions": "Clear EP4-4"
+  },
+  "568": {
+    "change_background": "bg_wuaihuilang_cg3",
+    "change_bgm": "theme-crownpolis",
+    "change_prefab": "",
+    "id": 568,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        567
+      ]
+    ],
+    "name": "EP5-1 The Guide's Dream",
+    "pre_event": [
+      567
+    ],
+    "story": "JUFENGYUWUAIHUILANG18",
+    "story_type": 1,
+    "unlock_conditions": "Clear EP4-5"
+  },
+  "569": {
+    "change_background": "bg_wuaihuilang_2",
+    "change_bgm": "theme-fogsea",
+    "change_prefab": "",
+    "id": 569,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        568
+      ]
+    ],
+    "name": "EP5-2 Confrontation",
+    "pre_event": [
+      568
+    ],
+    "story": "2078004",
+    "story_type": 2,
+    "unlock_conditions": "Clear EP5-1"
+  },
+  "570": {
+    "change_background": "star_level_bg_524",
+    "change_bgm": "theme-ganjisawai",
+    "change_prefab": "",
+    "id": 570,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        569
+      ]
+    ],
+    "name": "EP6-1 The Church's Plans",
+    "pre_event": [
+      569
+    ],
+    "story": "JUFENGYUWUAIHUILANG20",
+    "story_type": 1,
+    "unlock_conditions": "Clear EP5-2"
+  },
+  "571": {
+    "change_background": "bg_wuaihuilang_3",
+    "change_bgm": "theme-tempest",
+    "change_prefab": "",
+    "id": 571,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        570
+      ]
+    ],
+    "name": "EP6-2 The Final Obstacle",
+    "pre_event": [
+      570
+    ],
+    "story": "2078005",
+    "story_type": 2,
+    "unlock_conditions": "Clear EP6-1"
+  },
+  "572": {
+    "change_background": "star_level_bg_598",
+    "change_bgm": "story-tempest-light",
+    "change_prefab": "",
+    "id": 572,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        571
+      ]
+    ],
+    "name": "EP6-3 A Happy Ending",
+    "pre_event": [
+      571
+    ],
+    "story": "JUFENGYUWUAIHUILANG22",
+    "story_type": 1,
+    "unlock_conditions": "Clear EP6-2"
+  },
+  "573": {
+    "change_background": "star_level_bg_548",
+    "change_bgm": "story-temepest-2",
+    "change_prefab": "",
+    "id": 573,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        572
+      ]
+    ],
+    "name": "EX-1 For the World and Its Future",
+    "pre_event": [
+      572
+    ],
+    "story": "JUFENGYUWUAIHUILANG23",
+    "story_type": 1,
+    "unlock_conditions": "Clear EP6-3"
+  },
+  "574": {
+    "change_background": "star_level_bg_594",
+    "change_bgm": "theme-amahara-core",
+    "change_prefab": "",
+    "id": 574,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        573
+      ]
+    ],
+    "name": "EX-2 Two Alike",
+    "pre_event": [
+      573
+    ],
+    "story": "JUFENGYUWUAIHUILANG24",
+    "story_type": 1,
+    "unlock_conditions": "Clear EX-1"
+  },
+  "575": {
+    "change_background": "bg_tianqiong_3",
+    "change_bgm": "theme-DOS",
+    "change_prefab": "",
+    "id": 575,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        574
+      ]
+    ],
+    "name": "EX-3 Merkuriy's Promise",
+    "pre_event": [
+      574
+    ],
+    "story": "JUFENGYUWUAIHUILANG25",
+    "story_type": 1,
+    "unlock_conditions": "Clear EX-2"
+  },
+  "576": {
+    "change_background": "bg_wuaihuilang_2",
+    "change_bgm": "theme-fogsea",
+    "change_prefab": "map_2070002",
+    "id": 576,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        575
+      ]
+    ],
+    "name": "EX-4 One Sixth of the Light",
+    "pre_event": [
+      575
+    ],
+    "story": "JUFENGYUWUAIHUILANG26",
+    "story_type": 1,
+    "unlock_conditions": "Clear EX-3"
+  },
   "all": [
     1,
     2,
@@ -10923,6 +11436,32 @@
     547,
     548,
     549,
-    550
+    550,
+    551,
+    552,
+    553,
+    554,
+    555,
+    556,
+    557,
+    558,
+    559,
+    560,
+    561,
+    562,
+    563,
+    564,
+    565,
+    566,
+    567,
+    568,
+    569,
+    570,
+    571,
+    572,
+    573,
+    574,
+    575,
+    576
   ]
 }

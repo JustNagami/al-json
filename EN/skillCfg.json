@@ -600479,5 +600479,6689 @@
     "picture": "0",
     "castCV": "skill",
     "desc": ""
+  },
+  "skill_152770": {
+    "aniEffect": {
+      "effect": "jineng",
+      "offset": [
+        0,
+        -2,
+        0
+      ]
+    },
+    "effect_list": [
+      {
+        "type": "BattleSkillFire",
+        "casterAniEffect": "",
+        "target_choise": "TargetHarmRandomByWeight",
+        "targetAniEffect": "",
+        "arg_list": {
+          "weapon_id": 184571
+        }
+      },
+      {
+        "type": "BattleSkillFire",
+        "casterAniEffect": "",
+        "target_choise": "TargetHarmRandomByWeight",
+        "targetAniEffect": "",
+        "arg_list": {
+          "weapon_id": 184581
+        }
+      },
+      {
+        "type": "BattleSkillAddBuff",
+        "casterAniEffect": "",
+        "target_choise": "TargetSelf",
+        "targetAniEffect": "",
+        "arg_list": {
+          "buff_id": 152773
+        }
+      }
+    ],
+    "1": {
+      "effect_list": [
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetHarmRandomByWeight",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 184571
+          }
+        },
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetHarmRandomByWeight",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 184581
+          }
+        },
+        {
+          "type": "BattleSkillAddBuff",
+          "casterAniEffect": "",
+          "target_choise": "TargetSelf",
+          "targetAniEffect": "",
+          "arg_list": {
+            "buff_id": 152773
+          }
+        }
+      ]
+    },
+    "2": {
+      "effect_list": [
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetHarmRandomByWeight",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 184572
+          }
+        },
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetHarmRandomByWeight",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 184582
+          }
+        },
+        {
+          "type": "BattleSkillAddBuff",
+          "casterAniEffect": "",
+          "target_choise": "TargetSelf",
+          "targetAniEffect": "",
+          "arg_list": {
+            "buff_id": 152773
+          }
+        }
+      ]
+    },
+    "3": {
+      "effect_list": [
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetHarmRandomByWeight",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 184573
+          }
+        },
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetHarmRandomByWeight",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 184583
+          }
+        },
+        {
+          "type": "BattleSkillAddBuff",
+          "casterAniEffect": "",
+          "target_choise": "TargetSelf",
+          "targetAniEffect": "",
+          "arg_list": {
+            "buff_id": 152773
+          }
+        }
+      ]
+    },
+    "4": {
+      "effect_list": [
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetHarmRandomByWeight",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 184574
+          }
+        },
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetHarmRandomByWeight",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 184584
+          }
+        },
+        {
+          "type": "BattleSkillAddBuff",
+          "casterAniEffect": "",
+          "target_choise": "TargetSelf",
+          "targetAniEffect": "",
+          "arg_list": {
+            "buff_id": 152773
+          }
+        }
+      ]
+    },
+    "5": {
+      "effect_list": [
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetHarmRandomByWeight",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 184575
+          }
+        },
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetHarmRandomByWeight",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 184585
+          }
+        },
+        {
+          "type": "BattleSkillAddBuff",
+          "casterAniEffect": "",
+          "target_choise": "TargetSelf",
+          "targetAniEffect": "",
+          "arg_list": {
+            "buff_id": 152773
+          }
+        }
+      ]
+    },
+    "6": {
+      "effect_list": [
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetHarmRandomByWeight",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 184576
+          }
+        },
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetHarmRandomByWeight",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 184586
+          }
+        },
+        {
+          "type": "BattleSkillAddBuff",
+          "casterAniEffect": "",
+          "target_choise": "TargetSelf",
+          "targetAniEffect": "",
+          "arg_list": {
+            "buff_id": 152773
+          }
+        }
+      ]
+    },
+    "7": {
+      "effect_list": [
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetHarmRandomByWeight",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 184577
+          }
+        },
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetHarmRandomByWeight",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 184587
+          }
+        },
+        {
+          "type": "BattleSkillAddBuff",
+          "casterAniEffect": "",
+          "target_choise": "TargetSelf",
+          "targetAniEffect": "",
+          "arg_list": {
+            "buff_id": 152773
+          }
+        }
+      ]
+    },
+    "8": {
+      "effect_list": [
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetHarmRandomByWeight",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 184578
+          }
+        },
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetHarmRandomByWeight",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 184588
+          }
+        },
+        {
+          "type": "BattleSkillAddBuff",
+          "casterAniEffect": "",
+          "target_choise": "TargetSelf",
+          "targetAniEffect": "",
+          "arg_list": {
+            "buff_id": 152773
+          }
+        }
+      ]
+    },
+    "9": {
+      "effect_list": [
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetHarmRandomByWeight",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 184579
+          }
+        },
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetHarmRandomByWeight",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 184589
+          }
+        },
+        {
+          "type": "BattleSkillAddBuff",
+          "casterAniEffect": "",
+          "target_choise": "TargetSelf",
+          "targetAniEffect": "",
+          "arg_list": {
+            "buff_id": 152773
+          }
+        }
+      ]
+    },
+    "10": {
+      "effect_list": [
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetHarmRandomByWeight",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 184580
+          }
+        },
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetHarmRandomByWeight",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 184590
+          }
+        },
+        {
+          "type": "BattleSkillAddBuff",
+          "casterAniEffect": "",
+          "target_choise": "TargetSelf",
+          "targetAniEffect": "",
+          "arg_list": {
+            "buff_id": 152773
+          }
+        }
+      ]
+    },
+    "uiEffect": "",
+    "name": "",
+    "cd": 0,
+    "painting": 1,
+    "id": 152770,
+    "picture": "0",
+    "castCV": "skill",
+    "desc": ""
+  },
+  "skill_152771": {
+    "uiEffect": "",
+    "name": "",
+    "cd": 0,
+    "painting": 1,
+    "id": 152771,
+    "picture": "0",
+    "castCV": "skill",
+    "desc": "",
+    "effect_list": [
+      {
+        "type": "BattleSkillAddBuff",
+        "casterAniEffect": "",
+        "target_choise": "TargetSelf",
+        "targetAniEffect": "",
+        "arg_list": {
+          "buff_id": 152775
+        }
+      }
+    ]
+  },
+  "skill_152780": {
+    "id": 152780,
+    "name": "",
+    "cd": 0,
+    "desc": "",
+    "effect_list": [
+      {
+        "type": "BattleSkillAddBuff",
+        "casterAniEffect": "",
+        "targetAniEffect": "",
+        "target_choise": [
+          "TargetAll",
+          "TargetShipTag"
+        ],
+        "arg_list": {
+          "buff_id": 152784,
+          "ship_tag_list": [
+            "Ormen Lange"
+          ]
+        }
+      }
+    ]
+  },
+  "skill_152781": {
+    "id": 152781,
+    "name": "",
+    "cd": 0,
+    "desc": "",
+    "effect_list": [
+      {
+        "type": "BattleSkillHeal",
+        "casterAniEffect": "",
+        "target_choise": "TargetSelf",
+        "targetAniEffect": "",
+        "arg_list": {
+          "maxHPRatio": 0.01
+        }
+      }
+    ]
+  },
+  "skill_152782": {
+    "uiEffect": "",
+    "name": "",
+    "cd": 0,
+    "id": 152782,
+    "picture": "0",
+    "desc": "",
+    "effect_list": [
+      {
+        "type": "BattleSkillAddBuff",
+        "casterAniEffect": "",
+        "target_choise": "TargetSelf",
+        "targetAniEffect": "",
+        "arg_list": {
+          "buff_id": 152783
+        }
+      }
+    ]
+  },
+  "skill_152790": {
+    "aniEffect": {
+      "effect": "jineng",
+      "offset": [
+        0,
+        -2,
+        0
+      ]
+    },
+    "effect_list": [
+      {
+        "type": "BattleSkillFire",
+        "casterAniEffect": "",
+        "target_choise": "TargetHarmRandomByWeight",
+        "targetAniEffect": "",
+        "arg_list": {
+          "weapon_id": 184571
+        }
+      },
+      {
+        "type": "BattleSkillFire",
+        "casterAniEffect": "",
+        "target_choise": "TargetHarmRandomByWeight",
+        "targetAniEffect": "",
+        "arg_list": {
+          "weapon_id": 184581
+        }
+      },
+      {
+        "type": "BattleSkillAddBuff",
+        "casterAniEffect": "",
+        "target_choise": "TargetSelf",
+        "targetAniEffect": "",
+        "arg_list": {
+          "buff_id": 152793
+        }
+      }
+    ],
+    "1": {
+      "effect_list": [
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetHarmRandomByWeight",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 184571
+          }
+        },
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetHarmRandomByWeight",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 184581
+          }
+        },
+        {
+          "type": "BattleSkillAddBuff",
+          "casterAniEffect": "",
+          "target_choise": "TargetSelf",
+          "targetAniEffect": "",
+          "arg_list": {
+            "buff_id": 152793
+          }
+        }
+      ]
+    },
+    "2": {
+      "effect_list": [
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetHarmRandomByWeight",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 184572
+          }
+        },
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetHarmRandomByWeight",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 184582
+          }
+        },
+        {
+          "type": "BattleSkillAddBuff",
+          "casterAniEffect": "",
+          "target_choise": "TargetSelf",
+          "targetAniEffect": "",
+          "arg_list": {
+            "buff_id": 152793
+          }
+        }
+      ]
+    },
+    "3": {
+      "effect_list": [
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetHarmRandomByWeight",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 184573
+          }
+        },
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetHarmRandomByWeight",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 184583
+          }
+        },
+        {
+          "type": "BattleSkillAddBuff",
+          "casterAniEffect": "",
+          "target_choise": "TargetSelf",
+          "targetAniEffect": "",
+          "arg_list": {
+            "buff_id": 152793
+          }
+        }
+      ]
+    },
+    "4": {
+      "effect_list": [
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetHarmRandomByWeight",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 184574
+          }
+        },
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetHarmRandomByWeight",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 184584
+          }
+        },
+        {
+          "type": "BattleSkillAddBuff",
+          "casterAniEffect": "",
+          "target_choise": "TargetSelf",
+          "targetAniEffect": "",
+          "arg_list": {
+            "buff_id": 152793
+          }
+        }
+      ]
+    },
+    "5": {
+      "effect_list": [
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetHarmRandomByWeight",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 184575
+          }
+        },
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetHarmRandomByWeight",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 184585
+          }
+        },
+        {
+          "type": "BattleSkillAddBuff",
+          "casterAniEffect": "",
+          "target_choise": "TargetSelf",
+          "targetAniEffect": "",
+          "arg_list": {
+            "buff_id": 152793
+          }
+        }
+      ]
+    },
+    "6": {
+      "effect_list": [
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetHarmRandomByWeight",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 184576
+          }
+        },
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetHarmRandomByWeight",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 184586
+          }
+        },
+        {
+          "type": "BattleSkillAddBuff",
+          "casterAniEffect": "",
+          "target_choise": "TargetSelf",
+          "targetAniEffect": "",
+          "arg_list": {
+            "buff_id": 152793
+          }
+        }
+      ]
+    },
+    "7": {
+      "effect_list": [
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetHarmRandomByWeight",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 184577
+          }
+        },
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetHarmRandomByWeight",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 184587
+          }
+        },
+        {
+          "type": "BattleSkillAddBuff",
+          "casterAniEffect": "",
+          "target_choise": "TargetSelf",
+          "targetAniEffect": "",
+          "arg_list": {
+            "buff_id": 152793
+          }
+        }
+      ]
+    },
+    "8": {
+      "effect_list": [
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetHarmRandomByWeight",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 184578
+          }
+        },
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetHarmRandomByWeight",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 184588
+          }
+        },
+        {
+          "type": "BattleSkillAddBuff",
+          "casterAniEffect": "",
+          "target_choise": "TargetSelf",
+          "targetAniEffect": "",
+          "arg_list": {
+            "buff_id": 152793
+          }
+        }
+      ]
+    },
+    "9": {
+      "effect_list": [
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetHarmRandomByWeight",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 184579
+          }
+        },
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetHarmRandomByWeight",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 184589
+          }
+        },
+        {
+          "type": "BattleSkillAddBuff",
+          "casterAniEffect": "",
+          "target_choise": "TargetSelf",
+          "targetAniEffect": "",
+          "arg_list": {
+            "buff_id": 152793
+          }
+        }
+      ]
+    },
+    "10": {
+      "effect_list": [
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetHarmRandomByWeight",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 184580
+          }
+        },
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetHarmRandomByWeight",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 184590
+          }
+        },
+        {
+          "type": "BattleSkillAddBuff",
+          "casterAniEffect": "",
+          "target_choise": "TargetSelf",
+          "targetAniEffect": "",
+          "arg_list": {
+            "buff_id": 152793
+          }
+        }
+      ]
+    },
+    "uiEffect": "",
+    "name": "",
+    "cd": 0,
+    "painting": 1,
+    "id": 152790,
+    "picture": "0",
+    "castCV": "skill",
+    "desc": ""
+  },
+  "skill_152880": {
+    "aniEffect": {
+      "effect": "jineng",
+      "offset": [
+        0,
+        -2,
+        0
+      ]
+    },
+    "effect_list": [
+      {
+        "type": "BattleSkillFire",
+        "casterAniEffect": "",
+        "target_choise": "TargetHarmRandomByWeight",
+        "targetAniEffect": "",
+        "arg_list": {
+          "weapon_id": 161881
+        }
+      }
+    ],
+    "1": {
+      "effect_list": [
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetHarmRandomByWeight",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 161881
+          }
+        }
+      ]
+    },
+    "2": {
+      "effect_list": [
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetHarmRandomByWeight",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 161882
+          }
+        }
+      ]
+    },
+    "3": {
+      "effect_list": [
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetHarmRandomByWeight",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 161883
+          }
+        }
+      ]
+    },
+    "4": {
+      "effect_list": [
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetHarmRandomByWeight",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 161884
+          }
+        }
+      ]
+    },
+    "5": {
+      "effect_list": [
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetHarmRandomByWeight",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 161885
+          }
+        }
+      ]
+    },
+    "6": {
+      "effect_list": [
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetHarmRandomByWeight",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 161886
+          }
+        }
+      ]
+    },
+    "7": {
+      "effect_list": [
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetHarmRandomByWeight",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 161887
+          }
+        }
+      ]
+    },
+    "8": {
+      "effect_list": [
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetHarmRandomByWeight",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 161888
+          }
+        }
+      ]
+    },
+    "9": {
+      "effect_list": [
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetHarmRandomByWeight",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 161889
+          }
+        }
+      ]
+    },
+    "10": {
+      "effect_list": [
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetHarmRandomByWeight",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 161890
+          }
+        }
+      ]
+    },
+    "uiEffect": "",
+    "name": "",
+    "cd": 0,
+    "painting": 1,
+    "id": 152880,
+    "picture": "1",
+    "castCV": "skill",
+    "desc": ""
+  },
+  "skill_152890": {
+    "aniEffect": {
+      "effect": "jineng",
+      "offset": [
+        0,
+        -2,
+        0
+      ]
+    },
+    "effect_list": [
+      {
+        "type": "BattleSkillHeal",
+        "casterAniEffect": "",
+        "targetAniEffect": "",
+        "target_choise": [
+          "TargetAllHelp",
+          "TargetSelf"
+        ],
+        "arg_list": {
+          "maxHPRatio": 0.035
+        }
+      }
+    ],
+    "1": {
+      "effect_list": [
+        {
+          "type": "BattleSkillHeal",
+          "casterAniEffect": "",
+          "targetAniEffect": "",
+          "target_choise": [
+            "TargetAllHelp",
+            "TargetSelf"
+          ],
+          "arg_list": {
+            "maxHPRatio": 0.035
+          }
+        }
+      ]
+    },
+    "2": {
+      "effect_list": [
+        {
+          "type": "BattleSkillHeal",
+          "casterAniEffect": "",
+          "targetAniEffect": "",
+          "target_choise": [
+            "TargetAllHelp",
+            "TargetSelf"
+          ],
+          "arg_list": {
+            "maxHPRatio": 0.04
+          }
+        }
+      ]
+    },
+    "3": {
+      "effect_list": [
+        {
+          "type": "BattleSkillHeal",
+          "casterAniEffect": "",
+          "targetAniEffect": "",
+          "target_choise": [
+            "TargetAllHelp",
+            "TargetSelf"
+          ],
+          "arg_list": {
+            "maxHPRatio": 0.045
+          }
+        }
+      ]
+    },
+    "4": {
+      "effect_list": [
+        {
+          "type": "BattleSkillHeal",
+          "casterAniEffect": "",
+          "targetAniEffect": "",
+          "target_choise": [
+            "TargetAllHelp",
+            "TargetSelf"
+          ],
+          "arg_list": {
+            "maxHPRatio": 0.05
+          }
+        }
+      ]
+    },
+    "5": {
+      "effect_list": [
+        {
+          "type": "BattleSkillHeal",
+          "casterAniEffect": "",
+          "targetAniEffect": "",
+          "target_choise": [
+            "TargetAllHelp",
+            "TargetSelf"
+          ],
+          "arg_list": {
+            "maxHPRatio": 0.055
+          }
+        }
+      ]
+    },
+    "6": {
+      "effect_list": [
+        {
+          "type": "BattleSkillHeal",
+          "casterAniEffect": "",
+          "targetAniEffect": "",
+          "target_choise": [
+            "TargetAllHelp",
+            "TargetSelf"
+          ],
+          "arg_list": {
+            "maxHPRatio": 0.06
+          }
+        }
+      ]
+    },
+    "7": {
+      "effect_list": [
+        {
+          "type": "BattleSkillHeal",
+          "casterAniEffect": "",
+          "targetAniEffect": "",
+          "target_choise": [
+            "TargetAllHelp",
+            "TargetSelf"
+          ],
+          "arg_list": {
+            "maxHPRatio": 0.065
+          }
+        }
+      ]
+    },
+    "8": {
+      "effect_list": [
+        {
+          "type": "BattleSkillHeal",
+          "casterAniEffect": "",
+          "targetAniEffect": "",
+          "target_choise": [
+            "TargetAllHelp",
+            "TargetSelf"
+          ],
+          "arg_list": {
+            "maxHPRatio": 0.07
+          }
+        }
+      ]
+    },
+    "9": {
+      "effect_list": [
+        {
+          "type": "BattleSkillHeal",
+          "casterAniEffect": "",
+          "targetAniEffect": "",
+          "target_choise": [
+            "TargetAllHelp",
+            "TargetSelf"
+          ],
+          "arg_list": {
+            "maxHPRatio": 0.075
+          }
+        }
+      ]
+    },
+    "10": {
+      "effect_list": [
+        {
+          "type": "BattleSkillHeal",
+          "casterAniEffect": "",
+          "targetAniEffect": "",
+          "target_choise": [
+            "TargetAllHelp",
+            "TargetSelf"
+          ],
+          "arg_list": {
+            "maxHPRatio": 0.08
+          }
+        }
+      ]
+    },
+    "uiEffect": "",
+    "name": "",
+    "cd": 0,
+    "painting": 1,
+    "id": 152890,
+    "picture": "0",
+    "castCV": "skill",
+    "desc": ""
+  },
+  "skill_152891": {
+    "uiEffect": "",
+    "name": "",
+    "cd": 0,
+    "painting": 1,
+    "id": 152891,
+    "picture": "0",
+    "castCV": "skill",
+    "desc": "",
+    "aniEffect": {
+      "effect": "jineng",
+      "offset": [
+        0,
+        -2,
+        0
+      ]
+    },
+    "effect_list": []
+  },
+  "skill_152900": {
+    "aniEffect": {
+      "effect": "jineng",
+      "offset": [
+        0,
+        -2,
+        0
+      ]
+    },
+    "effect_list": [
+      {
+        "type": "BattleSkillHeal",
+        "casterAniEffect": "",
+        "targetAniEffect": "",
+        "target_choise": [
+          "TargetAllHelp",
+          "TargetSelf"
+        ],
+        "arg_list": {
+          "maxHPRatio": 0.035
+        }
+      },
+      {
+        "type": "BattleSkillHeal",
+        "casterAniEffect": "",
+        "targetAniEffect": "",
+        "target_choise": [
+          "TargetAllHelp",
+          "TargetPlayerVanguardFleet",
+          "TargetRandom"
+        ],
+        "arg_list": {
+          "maxHPRatio": 0.035,
+          "randomCount": 1
+        }
+      }
+    ],
+    "1": {
+      "effect_list": [
+        {
+          "type": "BattleSkillHeal",
+          "casterAniEffect": "",
+          "targetAniEffect": "",
+          "target_choise": [
+            "TargetAllHelp",
+            "TargetSelf"
+          ],
+          "arg_list": {
+            "maxHPRatio": 0.035
+          }
+        },
+        {
+          "type": "BattleSkillHeal",
+          "casterAniEffect": "",
+          "targetAniEffect": "",
+          "target_choise": [
+            "TargetAllHelp",
+            "TargetPlayerVanguardFleet",
+            "TargetRandom"
+          ],
+          "arg_list": {
+            "maxHPRatio": 0.035,
+            "randomCount": 1
+          }
+        }
+      ]
+    },
+    "2": {
+      "effect_list": [
+        {
+          "type": "BattleSkillHeal",
+          "casterAniEffect": "",
+          "targetAniEffect": "",
+          "target_choise": [
+            "TargetAllHelp",
+            "TargetSelf"
+          ],
+          "arg_list": {
+            "maxHPRatio": 0.04
+          }
+        },
+        {
+          "type": "BattleSkillHeal",
+          "casterAniEffect": "",
+          "targetAniEffect": "",
+          "target_choise": [
+            "TargetAllHelp",
+            "TargetPlayerVanguardFleet",
+            "TargetRandom"
+          ],
+          "arg_list": {
+            "maxHPRatio": 0.04,
+            "randomCount": 1
+          }
+        }
+      ]
+    },
+    "3": {
+      "effect_list": [
+        {
+          "type": "BattleSkillHeal",
+          "casterAniEffect": "",
+          "targetAniEffect": "",
+          "target_choise": [
+            "TargetAllHelp",
+            "TargetSelf"
+          ],
+          "arg_list": {
+            "maxHPRatio": 0.045
+          }
+        },
+        {
+          "type": "BattleSkillHeal",
+          "casterAniEffect": "",
+          "targetAniEffect": "",
+          "target_choise": [
+            "TargetAllHelp",
+            "TargetPlayerVanguardFleet",
+            "TargetRandom"
+          ],
+          "arg_list": {
+            "maxHPRatio": 0.045,
+            "randomCount": 1
+          }
+        }
+      ]
+    },
+    "4": {
+      "effect_list": [
+        {
+          "type": "BattleSkillHeal",
+          "casterAniEffect": "",
+          "targetAniEffect": "",
+          "target_choise": [
+            "TargetAllHelp",
+            "TargetSelf"
+          ],
+          "arg_list": {
+            "maxHPRatio": 0.05
+          }
+        },
+        {
+          "type": "BattleSkillHeal",
+          "casterAniEffect": "",
+          "targetAniEffect": "",
+          "target_choise": [
+            "TargetAllHelp",
+            "TargetPlayerVanguardFleet",
+            "TargetRandom"
+          ],
+          "arg_list": {
+            "maxHPRatio": 0.05,
+            "randomCount": 1
+          }
+        }
+      ]
+    },
+    "5": {
+      "effect_list": [
+        {
+          "type": "BattleSkillHeal",
+          "casterAniEffect": "",
+          "targetAniEffect": "",
+          "target_choise": [
+            "TargetAllHelp",
+            "TargetSelf"
+          ],
+          "arg_list": {
+            "maxHPRatio": 0.055
+          }
+        },
+        {
+          "type": "BattleSkillHeal",
+          "casterAniEffect": "",
+          "targetAniEffect": "",
+          "target_choise": [
+            "TargetAllHelp",
+            "TargetPlayerVanguardFleet",
+            "TargetRandom"
+          ],
+          "arg_list": {
+            "maxHPRatio": 0.055,
+            "randomCount": 1
+          }
+        }
+      ]
+    },
+    "6": {
+      "effect_list": [
+        {
+          "type": "BattleSkillHeal",
+          "casterAniEffect": "",
+          "targetAniEffect": "",
+          "target_choise": [
+            "TargetAllHelp",
+            "TargetSelf"
+          ],
+          "arg_list": {
+            "maxHPRatio": 0.06
+          }
+        },
+        {
+          "type": "BattleSkillHeal",
+          "casterAniEffect": "",
+          "targetAniEffect": "",
+          "target_choise": [
+            "TargetAllHelp",
+            "TargetPlayerVanguardFleet",
+            "TargetRandom"
+          ],
+          "arg_list": {
+            "maxHPRatio": 0.06,
+            "randomCount": 1
+          }
+        }
+      ]
+    },
+    "7": {
+      "effect_list": [
+        {
+          "type": "BattleSkillHeal",
+          "casterAniEffect": "",
+          "targetAniEffect": "",
+          "target_choise": [
+            "TargetAllHelp",
+            "TargetSelf"
+          ],
+          "arg_list": {
+            "maxHPRatio": 0.065
+          }
+        },
+        {
+          "type": "BattleSkillHeal",
+          "casterAniEffect": "",
+          "targetAniEffect": "",
+          "target_choise": [
+            "TargetAllHelp",
+            "TargetPlayerVanguardFleet",
+            "TargetRandom"
+          ],
+          "arg_list": {
+            "maxHPRatio": 0.065,
+            "randomCount": 1
+          }
+        }
+      ]
+    },
+    "8": {
+      "effect_list": [
+        {
+          "type": "BattleSkillHeal",
+          "casterAniEffect": "",
+          "targetAniEffect": "",
+          "target_choise": [
+            "TargetAllHelp",
+            "TargetSelf"
+          ],
+          "arg_list": {
+            "maxHPRatio": 0.07
+          }
+        },
+        {
+          "type": "BattleSkillHeal",
+          "casterAniEffect": "",
+          "targetAniEffect": "",
+          "target_choise": [
+            "TargetAllHelp",
+            "TargetPlayerVanguardFleet",
+            "TargetRandom"
+          ],
+          "arg_list": {
+            "maxHPRatio": 0.07,
+            "randomCount": 1
+          }
+        }
+      ]
+    },
+    "9": {
+      "effect_list": [
+        {
+          "type": "BattleSkillHeal",
+          "casterAniEffect": "",
+          "targetAniEffect": "",
+          "target_choise": [
+            "TargetAllHelp",
+            "TargetSelf"
+          ],
+          "arg_list": {
+            "maxHPRatio": 0.075
+          }
+        },
+        {
+          "type": "BattleSkillHeal",
+          "casterAniEffect": "",
+          "targetAniEffect": "",
+          "target_choise": [
+            "TargetAllHelp",
+            "TargetPlayerVanguardFleet",
+            "TargetRandom"
+          ],
+          "arg_list": {
+            "maxHPRatio": 0.075,
+            "randomCount": 1
+          }
+        }
+      ]
+    },
+    "10": {
+      "effect_list": [
+        {
+          "type": "BattleSkillHeal",
+          "casterAniEffect": "",
+          "targetAniEffect": "",
+          "target_choise": [
+            "TargetAllHelp",
+            "TargetSelf"
+          ],
+          "arg_list": {
+            "maxHPRatio": 0.08
+          }
+        },
+        {
+          "type": "BattleSkillHeal",
+          "casterAniEffect": "",
+          "targetAniEffect": "",
+          "target_choise": [
+            "TargetAllHelp",
+            "TargetPlayerVanguardFleet",
+            "TargetRandom"
+          ],
+          "arg_list": {
+            "maxHPRatio": 0.08,
+            "randomCount": 1
+          }
+        }
+      ]
+    },
+    "uiEffect": "",
+    "name": "",
+    "cd": 0,
+    "painting": 1,
+    "id": 152900,
+    "picture": "0",
+    "castCV": "skill",
+    "desc": ""
+  },
+  "skill_152901": {
+    "uiEffect": "",
+    "name": "",
+    "cd": 0,
+    "painting": 1,
+    "id": 152901,
+    "picture": "0",
+    "castCV": "skill",
+    "desc": "",
+    "aniEffect": {
+      "effect": "jineng",
+      "offset": [
+        0,
+        -2,
+        0
+      ]
+    },
+    "effect_list": []
+  },
+  "skill_152910": {
+    "aniEffect": {
+      "effect": "jineng",
+      "offset": [
+        0,
+        -2,
+        0
+      ]
+    },
+    "effect_list": [
+      {
+        "type": "BattleSkillFire",
+        "casterAniEffect": "",
+        "target_choise": "TargetHarmRandomByWeight",
+        "targetAniEffect": "",
+        "arg_list": {
+          "weapon_id": 161891
+        }
+      },
+      {
+        "type": "BattleSkillFire",
+        "casterAniEffect": "",
+        "target_choise": "TargetHarmRandomByWeight",
+        "targetAniEffect": "",
+        "arg_list": {
+          "weapon_id": 161891,
+          "delay": 0.4
+        }
+      },
+      {
+        "type": "BattleSkillFire",
+        "casterAniEffect": "",
+        "target_choise": "TargetHarmRandomByWeight",
+        "targetAniEffect": "",
+        "arg_list": {
+          "weapon_id": 161891,
+          "delay": 0.8
+        }
+      }
+    ],
+    "1": {
+      "effect_list": [
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetHarmRandomByWeight",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 161891
+          }
+        },
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetHarmRandomByWeight",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 161891,
+            "delay": 0.4
+          }
+        },
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetHarmRandomByWeight",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 161891,
+            "delay": 0.8
+          }
+        }
+      ]
+    },
+    "2": {
+      "effect_list": [
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetHarmRandomByWeight",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 161892
+          }
+        },
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetHarmRandomByWeight",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 161892,
+            "delay": 0.4
+          }
+        },
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetHarmRandomByWeight",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 161892,
+            "delay": 0.8
+          }
+        }
+      ]
+    },
+    "3": {
+      "effect_list": [
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetHarmRandomByWeight",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 161893
+          }
+        },
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetHarmRandomByWeight",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 161893,
+            "delay": 0.4
+          }
+        },
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetHarmRandomByWeight",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 161893,
+            "delay": 0.8
+          }
+        }
+      ]
+    },
+    "4": {
+      "effect_list": [
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetHarmRandomByWeight",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 161894
+          }
+        },
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetHarmRandomByWeight",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 161894,
+            "delay": 0.4
+          }
+        },
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetHarmRandomByWeight",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 161894,
+            "delay": 0.8
+          }
+        }
+      ]
+    },
+    "5": {
+      "effect_list": [
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetHarmRandomByWeight",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 161895
+          }
+        },
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetHarmRandomByWeight",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 161895,
+            "delay": 0.4
+          }
+        },
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetHarmRandomByWeight",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 161895,
+            "delay": 0.8
+          }
+        }
+      ]
+    },
+    "6": {
+      "effect_list": [
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetHarmRandomByWeight",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 161896
+          }
+        },
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetHarmRandomByWeight",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 161896,
+            "delay": 0.4
+          }
+        },
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetHarmRandomByWeight",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 161896,
+            "delay": 0.8
+          }
+        }
+      ]
+    },
+    "7": {
+      "effect_list": [
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetHarmRandomByWeight",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 161897
+          }
+        },
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetHarmRandomByWeight",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 161897,
+            "delay": 0.4
+          }
+        },
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetHarmRandomByWeight",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 161897,
+            "delay": 0.8
+          }
+        }
+      ]
+    },
+    "8": {
+      "effect_list": [
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetHarmRandomByWeight",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 161898
+          }
+        },
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetHarmRandomByWeight",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 161898,
+            "delay": 0.4
+          }
+        },
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetHarmRandomByWeight",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 161898,
+            "delay": 0.8
+          }
+        }
+      ]
+    },
+    "9": {
+      "effect_list": [
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetHarmRandomByWeight",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 161899
+          }
+        },
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetHarmRandomByWeight",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 161899,
+            "delay": 0.4
+          }
+        },
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetHarmRandomByWeight",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 161899,
+            "delay": 0.8
+          }
+        }
+      ]
+    },
+    "10": {
+      "effect_list": [
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetHarmRandomByWeight",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 161900
+          }
+        },
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetHarmRandomByWeight",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 161900,
+            "delay": 0.4
+          }
+        },
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetHarmRandomByWeight",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 161900,
+            "delay": 0.8
+          }
+        }
+      ]
+    },
+    "uiEffect": "",
+    "name": "",
+    "cd": 0,
+    "painting": 1,
+    "id": 152910,
+    "picture": "0",
+    "castCV": "skill",
+    "desc": ""
+  },
+  "skill_152920": {
+    "uiEffect": "",
+    "name": "",
+    "cd": 0,
+    "painting": 1,
+    "id": 152920,
+    "picture": "0",
+    "aniEffect": "",
+    "desc": "",
+    "effect_list": [
+      {
+        "type": "BattleSkillAddBuff",
+        "casterAniEffect": "",
+        "targetAniEffect": "",
+        "target_choise": [
+          "TargetSelf"
+        ],
+        "arg_list": {
+          "buff_id": 152927
+        }
+      },
+      {
+        "type": "BattleSkillHeal",
+        "casterAniEffect": "",
+        "target_choise": "TargetSelf",
+        "targetAniEffect": "",
+        "arg_list": {
+          "maxHPRatio": 0.15
+        }
+      },
+      {
+        "type": "BattleSkillAddBuff",
+        "casterAniEffect": "",
+        "target_choise": "TargetHarmRandomByWeight",
+        "targetAniEffect": "",
+        "arg_list": {
+          "buff_id": 152923
+        }
+      },
+      {
+        "type": "BattleSkillAddBuff",
+        "casterAniEffect": "",
+        "targetAniEffect": "",
+        "target_choise": [
+          "TargetSelf"
+        ],
+        "arg_list": {
+          "buff_id": 152924
+        }
+      }
+    ]
+  },
+  "skill_152921": {
+    "uiEffect": "",
+    "name": "",
+    "cd": 0,
+    "id": 152921,
+    "desc": "",
+    "effect_list": [
+      {
+        "type": "BattleSkillAddBuff",
+        "casterAniEffect": "",
+        "target_choise": "TargetSelf",
+        "targetAniEffect": "",
+        "arg_list": {
+          "buff_id": 152925,
+          "delay": 0.1
+        }
+      },
+      {
+        "type": "BattleSkillTeleport",
+        "target_choise": [
+          "TargetAllHarm",
+          "TargetShipTag"
+        ],
+        "arg_list": {
+          "delay": 0.1,
+          "targetRelativeCorrdinate": {
+            "hrz": 8,
+            "vrt": 0
+          },
+          "ship_tag_list": [
+            "JernbardenAim"
+          ]
+        }
+      },
+      {
+        "type": "BattleSkillAddBuff",
+        "casterAniEffect": "",
+        "target_choise": "TargetSelf",
+        "targetAniEffect": "",
+        "arg_list": {
+          "buff_id": 152928,
+          "delay": 0.1
+        }
+      }
+    ]
+  },
+  "skill_152922": {
+    "uiEffect": "",
+    "name": "",
+    "cd": 0,
+    "painting": 1,
+    "id": 152922,
+    "desc": "",
+    "effect_list": [
+      {
+        "type": "BattleSkillAddBuff",
+        "casterAniEffect": "",
+        "target_choise": "TargetSelf",
+        "targetAniEffect": "",
+        "arg_list": {
+          "buff_id": 152926
+        }
+      }
+    ]
+  },
+  "skill_152923": {
+    "aniEffect": {
+      "effect": "jineng",
+      "offset": [
+        0,
+        -2,
+        0
+      ]
+    },
+    "effect_list": [
+      {
+        "target_choise": "TargetSelf",
+        "type": "BattleSkillCLSArea",
+        "arg_list": {
+          "effect": "tiejiaohao_hengsao",
+          "life_time": 0.5,
+          "move_type": 1,
+          "range": 45,
+          "delay": 0,
+          "damage_param_a": 150,
+          "damage_param_b": 0,
+          "speed_x": 0,
+          "damage_tag_list": [
+            "Jernbarden"
+          ],
+          "bullet_type_list": []
+        }
+      },
+      {
+        "target_choise": "TargetSelf",
+        "type": "BattleSkillCLSArea",
+        "arg_list": {
+          "effect": "tiejiaohao_hengsao",
+          "life_time": 0.5,
+          "move_type": 1,
+          "range": 45,
+          "delay": 0.5,
+          "damage_param_a": 150,
+          "damage_param_b": 0,
+          "speed_x": 0,
+          "damage_tag_list": [
+            "Jernbarden"
+          ],
+          "bullet_type_list": []
+        }
+      },
+      {
+        "target_choise": "TargetSelf",
+        "type": "BattleSkillCLSArea",
+        "arg_list": {
+          "effect": "tiejiaohao_hengsao",
+          "life_time": 0.5,
+          "move_type": 1,
+          "range": 45,
+          "delay": 1,
+          "damage_param_a": 150,
+          "damage_param_b": 0,
+          "speed_x": 0,
+          "damage_tag_list": [
+            "Jernbarden"
+          ],
+          "bullet_type_list": []
+        }
+      }
+    ],
+    "1": {
+      "effect_list": [
+        {
+          "target_choise": "TargetSelf",
+          "type": "BattleSkillCLSArea",
+          "arg_list": {
+            "effect": "tiejiaohao_hengsao",
+            "life_time": 0.5,
+            "move_type": 1,
+            "range": 45,
+            "delay": 0,
+            "damage_param_a": 150,
+            "damage_param_b": 0,
+            "speed_x": 0,
+            "damage_tag_list": [
+              "Jernbarden"
+            ],
+            "bullet_type_list": []
+          }
+        },
+        {
+          "target_choise": "TargetSelf",
+          "type": "BattleSkillCLSArea",
+          "arg_list": {
+            "effect": "tiejiaohao_hengsao",
+            "life_time": 0.5,
+            "move_type": 1,
+            "range": 45,
+            "delay": 0.5,
+            "damage_param_a": 150,
+            "damage_param_b": 0,
+            "speed_x": 0,
+            "damage_tag_list": [
+              "Jernbarden"
+            ],
+            "bullet_type_list": []
+          }
+        },
+        {
+          "target_choise": "TargetSelf",
+          "type": "BattleSkillCLSArea",
+          "arg_list": {
+            "effect": "tiejiaohao_hengsao",
+            "life_time": 0.5,
+            "move_type": 1,
+            "range": 45,
+            "delay": 1,
+            "damage_param_a": 150,
+            "damage_param_b": 0,
+            "speed_x": 0,
+            "damage_tag_list": [
+              "Jernbarden"
+            ],
+            "bullet_type_list": []
+          }
+        }
+      ]
+    },
+    "2": {
+      "effect_list": [
+        {
+          "target_choise": "TargetSelf",
+          "type": "BattleSkillCLSArea",
+          "arg_list": {
+            "effect": "tiejiaohao_hengsao",
+            "life_time": 0.5,
+            "move_type": 1,
+            "range": 45,
+            "delay": 0,
+            "damage_param_a": 200,
+            "damage_param_b": 0,
+            "speed_x": 0,
+            "damage_tag_list": [
+              "Jernbarden"
+            ],
+            "bullet_type_list": []
+          }
+        },
+        {
+          "target_choise": "TargetSelf",
+          "type": "BattleSkillCLSArea",
+          "arg_list": {
+            "effect": "tiejiaohao_hengsao",
+            "life_time": 0.5,
+            "move_type": 1,
+            "range": 45,
+            "delay": 0.5,
+            "damage_param_a": 200,
+            "damage_param_b": 0,
+            "speed_x": 0,
+            "damage_tag_list": [
+              "Jernbarden"
+            ],
+            "bullet_type_list": []
+          }
+        },
+        {
+          "target_choise": "TargetSelf",
+          "type": "BattleSkillCLSArea",
+          "arg_list": {
+            "effect": "tiejiaohao_hengsao",
+            "life_time": 0.5,
+            "move_type": 1,
+            "range": 45,
+            "delay": 1,
+            "damage_param_a": 200,
+            "damage_param_b": 0,
+            "speed_x": 0,
+            "damage_tag_list": [
+              "Jernbarden"
+            ],
+            "bullet_type_list": []
+          }
+        }
+      ]
+    },
+    "3": {
+      "effect_list": [
+        {
+          "target_choise": "TargetSelf",
+          "type": "BattleSkillCLSArea",
+          "arg_list": {
+            "effect": "tiejiaohao_hengsao",
+            "life_time": 0.5,
+            "move_type": 1,
+            "range": 45,
+            "delay": 0,
+            "damage_param_a": 250,
+            "damage_param_b": 0,
+            "speed_x": 0,
+            "damage_tag_list": [
+              "Jernbarden"
+            ],
+            "bullet_type_list": []
+          }
+        },
+        {
+          "target_choise": "TargetSelf",
+          "type": "BattleSkillCLSArea",
+          "arg_list": {
+            "effect": "tiejiaohao_hengsao",
+            "life_time": 0.5,
+            "move_type": 1,
+            "range": 45,
+            "delay": 0.5,
+            "damage_param_a": 250,
+            "damage_param_b": 0,
+            "speed_x": 0,
+            "damage_tag_list": [
+              "Jernbarden"
+            ],
+            "bullet_type_list": []
+          }
+        },
+        {
+          "target_choise": "TargetSelf",
+          "type": "BattleSkillCLSArea",
+          "arg_list": {
+            "effect": "tiejiaohao_hengsao",
+            "life_time": 0.5,
+            "move_type": 1,
+            "range": 45,
+            "delay": 1,
+            "damage_param_a": 250,
+            "damage_param_b": 0,
+            "speed_x": 0,
+            "damage_tag_list": [
+              "Jernbarden"
+            ],
+            "bullet_type_list": []
+          }
+        }
+      ]
+    },
+    "4": {
+      "effect_list": [
+        {
+          "target_choise": "TargetSelf",
+          "type": "BattleSkillCLSArea",
+          "arg_list": {
+            "effect": "tiejiaohao_hengsao",
+            "life_time": 0.5,
+            "move_type": 1,
+            "range": 45,
+            "delay": 0,
+            "damage_param_a": 300,
+            "damage_param_b": 0,
+            "speed_x": 0,
+            "damage_tag_list": [
+              "Jernbarden"
+            ],
+            "bullet_type_list": []
+          }
+        },
+        {
+          "target_choise": "TargetSelf",
+          "type": "BattleSkillCLSArea",
+          "arg_list": {
+            "effect": "tiejiaohao_hengsao",
+            "life_time": 0.5,
+            "move_type": 1,
+            "range": 45,
+            "delay": 0.5,
+            "damage_param_a": 300,
+            "damage_param_b": 0,
+            "speed_x": 0,
+            "damage_tag_list": [
+              "Jernbarden"
+            ],
+            "bullet_type_list": []
+          }
+        },
+        {
+          "target_choise": "TargetSelf",
+          "type": "BattleSkillCLSArea",
+          "arg_list": {
+            "effect": "tiejiaohao_hengsao",
+            "life_time": 0.5,
+            "move_type": 1,
+            "range": 45,
+            "delay": 1,
+            "damage_param_a": 300,
+            "damage_param_b": 0,
+            "speed_x": 0,
+            "damage_tag_list": [
+              "Jernbarden"
+            ],
+            "bullet_type_list": []
+          }
+        }
+      ]
+    },
+    "5": {
+      "effect_list": [
+        {
+          "target_choise": "TargetSelf",
+          "type": "BattleSkillCLSArea",
+          "arg_list": {
+            "effect": "tiejiaohao_hengsao",
+            "life_time": 0.5,
+            "move_type": 1,
+            "range": 45,
+            "delay": 0,
+            "damage_param_a": 350,
+            "damage_param_b": 0,
+            "speed_x": 0,
+            "damage_tag_list": [
+              "Jernbarden"
+            ],
+            "bullet_type_list": []
+          }
+        },
+        {
+          "target_choise": "TargetSelf",
+          "type": "BattleSkillCLSArea",
+          "arg_list": {
+            "effect": "tiejiaohao_hengsao",
+            "life_time": 0.5,
+            "move_type": 1,
+            "range": 45,
+            "delay": 0.5,
+            "damage_param_a": 350,
+            "damage_param_b": 0,
+            "speed_x": 0,
+            "damage_tag_list": [
+              "Jernbarden"
+            ],
+            "bullet_type_list": []
+          }
+        },
+        {
+          "target_choise": "TargetSelf",
+          "type": "BattleSkillCLSArea",
+          "arg_list": {
+            "effect": "tiejiaohao_hengsao",
+            "life_time": 0.5,
+            "move_type": 1,
+            "range": 45,
+            "delay": 1,
+            "damage_param_a": 350,
+            "damage_param_b": 0,
+            "speed_x": 0,
+            "damage_tag_list": [
+              "Jernbarden"
+            ],
+            "bullet_type_list": []
+          }
+        }
+      ]
+    },
+    "6": {
+      "effect_list": [
+        {
+          "target_choise": "TargetSelf",
+          "type": "BattleSkillCLSArea",
+          "arg_list": {
+            "effect": "tiejiaohao_hengsao",
+            "life_time": 0.5,
+            "move_type": 1,
+            "range": 45,
+            "delay": 0,
+            "damage_param_a": 400,
+            "damage_param_b": 0,
+            "speed_x": 0,
+            "damage_tag_list": [
+              "Jernbarden"
+            ],
+            "bullet_type_list": []
+          }
+        },
+        {
+          "target_choise": "TargetSelf",
+          "type": "BattleSkillCLSArea",
+          "arg_list": {
+            "effect": "tiejiaohao_hengsao",
+            "life_time": 0.5,
+            "move_type": 1,
+            "range": 45,
+            "delay": 0.5,
+            "damage_param_a": 400,
+            "damage_param_b": 0,
+            "speed_x": 0,
+            "damage_tag_list": [
+              "Jernbarden"
+            ],
+            "bullet_type_list": []
+          }
+        },
+        {
+          "target_choise": "TargetSelf",
+          "type": "BattleSkillCLSArea",
+          "arg_list": {
+            "effect": "tiejiaohao_hengsao",
+            "life_time": 0.5,
+            "move_type": 1,
+            "range": 45,
+            "delay": 1,
+            "damage_param_a": 400,
+            "damage_param_b": 0,
+            "speed_x": 0,
+            "damage_tag_list": [
+              "Jernbarden"
+            ],
+            "bullet_type_list": []
+          }
+        }
+      ]
+    },
+    "7": {
+      "effect_list": [
+        {
+          "target_choise": "TargetSelf",
+          "type": "BattleSkillCLSArea",
+          "arg_list": {
+            "effect": "tiejiaohao_hengsao",
+            "life_time": 0.5,
+            "move_type": 1,
+            "range": 45,
+            "delay": 0,
+            "damage_param_a": 450,
+            "damage_param_b": 0,
+            "speed_x": 0,
+            "damage_tag_list": [
+              "Jernbarden"
+            ],
+            "bullet_type_list": []
+          }
+        },
+        {
+          "target_choise": "TargetSelf",
+          "type": "BattleSkillCLSArea",
+          "arg_list": {
+            "effect": "tiejiaohao_hengsao",
+            "life_time": 0.5,
+            "move_type": 1,
+            "range": 45,
+            "delay": 0.5,
+            "damage_param_a": 450,
+            "damage_param_b": 0,
+            "speed_x": 0,
+            "damage_tag_list": [
+              "Jernbarden"
+            ],
+            "bullet_type_list": []
+          }
+        },
+        {
+          "target_choise": "TargetSelf",
+          "type": "BattleSkillCLSArea",
+          "arg_list": {
+            "effect": "tiejiaohao_hengsao",
+            "life_time": 0.5,
+            "move_type": 1,
+            "range": 45,
+            "delay": 1,
+            "damage_param_a": 450,
+            "damage_param_b": 0,
+            "speed_x": 0,
+            "damage_tag_list": [
+              "Jernbarden"
+            ],
+            "bullet_type_list": []
+          }
+        }
+      ]
+    },
+    "8": {
+      "effect_list": [
+        {
+          "target_choise": "TargetSelf",
+          "type": "BattleSkillCLSArea",
+          "arg_list": {
+            "effect": "tiejiaohao_hengsao",
+            "life_time": 0.5,
+            "move_type": 1,
+            "range": 45,
+            "delay": 0,
+            "damage_param_a": 500,
+            "damage_param_b": 0,
+            "speed_x": 0,
+            "damage_tag_list": [
+              "Jernbarden"
+            ],
+            "bullet_type_list": []
+          }
+        },
+        {
+          "target_choise": "TargetSelf",
+          "type": "BattleSkillCLSArea",
+          "arg_list": {
+            "effect": "tiejiaohao_hengsao",
+            "life_time": 0.5,
+            "move_type": 1,
+            "range": 45,
+            "delay": 0.5,
+            "damage_param_a": 500,
+            "damage_param_b": 0,
+            "speed_x": 0,
+            "damage_tag_list": [
+              "Jernbarden"
+            ],
+            "bullet_type_list": []
+          }
+        },
+        {
+          "target_choise": "TargetSelf",
+          "type": "BattleSkillCLSArea",
+          "arg_list": {
+            "effect": "tiejiaohao_hengsao",
+            "life_time": 0.5,
+            "move_type": 1,
+            "range": 45,
+            "delay": 1,
+            "damage_param_a": 500,
+            "damage_param_b": 0,
+            "speed_x": 0,
+            "damage_tag_list": [
+              "Jernbarden"
+            ],
+            "bullet_type_list": []
+          }
+        }
+      ]
+    },
+    "9": {
+      "effect_list": [
+        {
+          "target_choise": "TargetSelf",
+          "type": "BattleSkillCLSArea",
+          "arg_list": {
+            "effect": "tiejiaohao_hengsao",
+            "life_time": 0.5,
+            "move_type": 1,
+            "range": 45,
+            "delay": 0,
+            "damage_param_a": 550,
+            "damage_param_b": 0,
+            "speed_x": 0,
+            "damage_tag_list": [
+              "Jernbarden"
+            ],
+            "bullet_type_list": []
+          }
+        },
+        {
+          "target_choise": "TargetSelf",
+          "type": "BattleSkillCLSArea",
+          "arg_list": {
+            "effect": "tiejiaohao_hengsao",
+            "life_time": 0.5,
+            "move_type": 1,
+            "range": 45,
+            "delay": 0.5,
+            "damage_param_a": 550,
+            "damage_param_b": 0,
+            "speed_x": 0,
+            "damage_tag_list": [
+              "Jernbarden"
+            ],
+            "bullet_type_list": []
+          }
+        },
+        {
+          "target_choise": "TargetSelf",
+          "type": "BattleSkillCLSArea",
+          "arg_list": {
+            "effect": "tiejiaohao_hengsao",
+            "life_time": 0.5,
+            "move_type": 1,
+            "range": 45,
+            "delay": 1,
+            "damage_param_a": 550,
+            "damage_param_b": 0,
+            "speed_x": 0,
+            "damage_tag_list": [
+              "Jernbarden"
+            ],
+            "bullet_type_list": []
+          }
+        }
+      ]
+    },
+    "10": {
+      "effect_list": [
+        {
+          "target_choise": "TargetSelf",
+          "type": "BattleSkillCLSArea",
+          "arg_list": {
+            "effect": "tiejiaohao_hengsao",
+            "life_time": 0.5,
+            "move_type": 1,
+            "range": 45,
+            "delay": 0,
+            "damage_param_a": 600,
+            "damage_param_b": 0,
+            "speed_x": 0,
+            "damage_tag_list": [
+              "Jernbarden"
+            ],
+            "bullet_type_list": []
+          }
+        },
+        {
+          "target_choise": "TargetSelf",
+          "type": "BattleSkillCLSArea",
+          "arg_list": {
+            "effect": "tiejiaohao_hengsao",
+            "life_time": 0.5,
+            "move_type": 1,
+            "range": 45,
+            "delay": 0.5,
+            "damage_param_a": 600,
+            "damage_param_b": 0,
+            "speed_x": 0,
+            "damage_tag_list": [
+              "Jernbarden"
+            ],
+            "bullet_type_list": []
+          }
+        },
+        {
+          "target_choise": "TargetSelf",
+          "type": "BattleSkillCLSArea",
+          "arg_list": {
+            "effect": "tiejiaohao_hengsao",
+            "life_time": 0.5,
+            "move_type": 1,
+            "range": 45,
+            "delay": 1,
+            "damage_param_a": 600,
+            "damage_param_b": 0,
+            "speed_x": 0,
+            "damage_tag_list": [
+              "Jernbarden"
+            ],
+            "bullet_type_list": []
+          }
+        }
+      ]
+    },
+    "uiEffect": "",
+    "name": "",
+    "cd": 0,
+    "painting": 0,
+    "id": 152923,
+    "picture": "0",
+    "castCV": "",
+    "desc": ""
+  },
+  "skill_152924": {
+    "uiEffect": "",
+    "name": "",
+    "cd": 0,
+    "painting": 0,
+    "id": 152924,
+    "picture": "0",
+    "aniEffect": "",
+    "desc": "",
+    "effect_list": [
+      {
+        "type": "BattleSkillAddBuff",
+        "casterAniEffect": "",
+        "target_choise": "TargetSelf",
+        "targetAniEffect": "",
+        "arg_list": {
+          "buff_id": 152929
+        }
+      },
+      {
+        "type": "BattleSkillPhaseJump",
+        "arg_list": {
+          "index": 3
+        }
+      }
+    ]
+  },
+  "skill_152930": {
+    "aniEffect": {
+      "effect": "jineng",
+      "offset": [
+        0,
+        -2,
+        0
+      ]
+    },
+    "effect_list": [
+      {
+        "type": "BattleSkillFire",
+        "casterAniEffect": "",
+        "target_choise": "TargetHarmRandomByWeight",
+        "targetAniEffect": "",
+        "arg_list": {
+          "weapon_id": 161891,
+          "equip_index": 152930
+        }
+      },
+      {
+        "type": "BattleSkillFire",
+        "casterAniEffect": "",
+        "target_choise": "TargetHarmRandomByWeight",
+        "targetAniEffect": "",
+        "arg_list": {
+          "delay": 0.4,
+          "equip_index": 152930,
+          "weapon_id": 161891
+        }
+      },
+      {
+        "type": "BattleSkillFire",
+        "casterAniEffect": "",
+        "target_choise": "TargetHarmRandomByWeight",
+        "targetAniEffect": "",
+        "arg_list": {
+          "delay": 0.8,
+          "equip_index": 152930,
+          "weapon_id": 161891
+        }
+      }
+    ],
+    "1": {
+      "effect_list": [
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetHarmRandomByWeight",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 161891,
+            "equip_index": 152930
+          }
+        },
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetHarmRandomByWeight",
+          "targetAniEffect": "",
+          "arg_list": {
+            "delay": 0.4,
+            "equip_index": 152930,
+            "weapon_id": 161891
+          }
+        },
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetHarmRandomByWeight",
+          "targetAniEffect": "",
+          "arg_list": {
+            "delay": 0.8,
+            "equip_index": 152930,
+            "weapon_id": 161891
+          }
+        }
+      ]
+    },
+    "2": {
+      "effect_list": [
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetHarmRandomByWeight",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 161892,
+            "equip_index": 152930
+          }
+        },
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetHarmRandomByWeight",
+          "targetAniEffect": "",
+          "arg_list": {
+            "delay": 0.4,
+            "equip_index": 152930,
+            "weapon_id": 161892
+          }
+        },
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetHarmRandomByWeight",
+          "targetAniEffect": "",
+          "arg_list": {
+            "delay": 0.8,
+            "equip_index": 152930,
+            "weapon_id": 161892
+          }
+        }
+      ]
+    },
+    "3": {
+      "effect_list": [
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetHarmRandomByWeight",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 161893,
+            "equip_index": 152930
+          }
+        },
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetHarmRandomByWeight",
+          "targetAniEffect": "",
+          "arg_list": {
+            "delay": 0.4,
+            "equip_index": 152930,
+            "weapon_id": 161893
+          }
+        },
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetHarmRandomByWeight",
+          "targetAniEffect": "",
+          "arg_list": {
+            "delay": 0.8,
+            "equip_index": 152930,
+            "weapon_id": 161893
+          }
+        }
+      ]
+    },
+    "4": {
+      "effect_list": [
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetHarmRandomByWeight",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 161894,
+            "equip_index": 152930
+          }
+        },
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetHarmRandomByWeight",
+          "targetAniEffect": "",
+          "arg_list": {
+            "delay": 0.4,
+            "equip_index": 152930,
+            "weapon_id": 161894
+          }
+        },
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetHarmRandomByWeight",
+          "targetAniEffect": "",
+          "arg_list": {
+            "delay": 0.8,
+            "equip_index": 152930,
+            "weapon_id": 161894
+          }
+        }
+      ]
+    },
+    "5": {
+      "effect_list": [
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetHarmRandomByWeight",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 161895,
+            "equip_index": 152930
+          }
+        },
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetHarmRandomByWeight",
+          "targetAniEffect": "",
+          "arg_list": {
+            "delay": 0.4,
+            "equip_index": 152930,
+            "weapon_id": 161895
+          }
+        },
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetHarmRandomByWeight",
+          "targetAniEffect": "",
+          "arg_list": {
+            "delay": 0.8,
+            "equip_index": 152930,
+            "weapon_id": 161895
+          }
+        }
+      ]
+    },
+    "6": {
+      "effect_list": [
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetHarmRandomByWeight",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 161896,
+            "equip_index": 152930
+          }
+        },
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetHarmRandomByWeight",
+          "targetAniEffect": "",
+          "arg_list": {
+            "delay": 0.4,
+            "equip_index": 152930,
+            "weapon_id": 161896
+          }
+        },
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetHarmRandomByWeight",
+          "targetAniEffect": "",
+          "arg_list": {
+            "delay": 0.8,
+            "equip_index": 152930,
+            "weapon_id": 161896
+          }
+        }
+      ]
+    },
+    "7": {
+      "effect_list": [
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetHarmRandomByWeight",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 161897,
+            "equip_index": 152930
+          }
+        },
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetHarmRandomByWeight",
+          "targetAniEffect": "",
+          "arg_list": {
+            "delay": 0.4,
+            "equip_index": 152930,
+            "weapon_id": 161897
+          }
+        },
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetHarmRandomByWeight",
+          "targetAniEffect": "",
+          "arg_list": {
+            "delay": 0.8,
+            "equip_index": 152930,
+            "weapon_id": 161897
+          }
+        }
+      ]
+    },
+    "8": {
+      "effect_list": [
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetHarmRandomByWeight",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 161898,
+            "equip_index": 152930
+          }
+        },
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetHarmRandomByWeight",
+          "targetAniEffect": "",
+          "arg_list": {
+            "delay": 0.4,
+            "equip_index": 152930,
+            "weapon_id": 161898
+          }
+        },
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetHarmRandomByWeight",
+          "targetAniEffect": "",
+          "arg_list": {
+            "delay": 0.8,
+            "equip_index": 152930,
+            "weapon_id": 161898
+          }
+        }
+      ]
+    },
+    "9": {
+      "effect_list": [
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetHarmRandomByWeight",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 161899,
+            "equip_index": 152930
+          }
+        },
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetHarmRandomByWeight",
+          "targetAniEffect": "",
+          "arg_list": {
+            "delay": 0.4,
+            "equip_index": 152930,
+            "weapon_id": 161899
+          }
+        },
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetHarmRandomByWeight",
+          "targetAniEffect": "",
+          "arg_list": {
+            "delay": 0.8,
+            "equip_index": 152930,
+            "weapon_id": 161899
+          }
+        }
+      ]
+    },
+    "10": {
+      "effect_list": [
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetHarmRandomByWeight",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 161900,
+            "equip_index": 152930
+          }
+        },
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetHarmRandomByWeight",
+          "targetAniEffect": "",
+          "arg_list": {
+            "delay": 0.4,
+            "equip_index": 152930,
+            "weapon_id": 161900
+          }
+        },
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetHarmRandomByWeight",
+          "targetAniEffect": "",
+          "arg_list": {
+            "delay": 0.8,
+            "equip_index": 152930,
+            "weapon_id": 161900
+          }
+        }
+      ]
+    },
+    "uiEffect": "",
+    "name": "",
+    "cd": 0,
+    "painting": 1,
+    "id": 152930,
+    "picture": "0",
+    "castCV": "skill",
+    "desc": ""
+  },
+  "skill_152931": {
+    "aniEffect": {
+      "effect": "jineng",
+      "offset": [
+        0,
+        -2,
+        0
+      ]
+    },
+    "effect_list": [
+      {
+        "type": "BattleSkillHeal",
+        "casterAniEffect": "",
+        "target_choise": "TargetSelf",
+        "targetAniEffect": "",
+        "arg_list": {
+          "maxHPRatio": 0.01
+        }
+      }
+    ],
+    "1": {
+      "effect_list": [
+        {
+          "type": "BattleSkillHeal",
+          "casterAniEffect": "",
+          "target_choise": "TargetSelf",
+          "targetAniEffect": "",
+          "arg_list": {
+            "maxHPRatio": 0.01
+          }
+        }
+      ]
+    },
+    "2": {
+      "effect_list": [
+        {
+          "type": "BattleSkillHeal",
+          "casterAniEffect": "",
+          "target_choise": "TargetSelf",
+          "targetAniEffect": "",
+          "arg_list": {
+            "maxHPRatio": 0.014
+          }
+        }
+      ]
+    },
+    "3": {
+      "effect_list": [
+        {
+          "type": "BattleSkillHeal",
+          "casterAniEffect": "",
+          "target_choise": "TargetSelf",
+          "targetAniEffect": "",
+          "arg_list": {
+            "maxHPRatio": 0.018
+          }
+        }
+      ]
+    },
+    "4": {
+      "effect_list": [
+        {
+          "type": "BattleSkillHeal",
+          "casterAniEffect": "",
+          "target_choise": "TargetSelf",
+          "targetAniEffect": "",
+          "arg_list": {
+            "maxHPRatio": 0.022
+          }
+        }
+      ]
+    },
+    "5": {
+      "effect_list": [
+        {
+          "type": "BattleSkillHeal",
+          "casterAniEffect": "",
+          "target_choise": "TargetSelf",
+          "targetAniEffect": "",
+          "arg_list": {
+            "maxHPRatio": 0.026
+          }
+        }
+      ]
+    },
+    "6": {
+      "effect_list": [
+        {
+          "type": "BattleSkillHeal",
+          "casterAniEffect": "",
+          "target_choise": "TargetSelf",
+          "targetAniEffect": "",
+          "arg_list": {
+            "maxHPRatio": 0.03
+          }
+        }
+      ]
+    },
+    "7": {
+      "effect_list": [
+        {
+          "type": "BattleSkillHeal",
+          "casterAniEffect": "",
+          "target_choise": "TargetSelf",
+          "targetAniEffect": "",
+          "arg_list": {
+            "maxHPRatio": 0.035
+          }
+        }
+      ]
+    },
+    "8": {
+      "effect_list": [
+        {
+          "type": "BattleSkillHeal",
+          "casterAniEffect": "",
+          "target_choise": "TargetSelf",
+          "targetAniEffect": "",
+          "arg_list": {
+            "maxHPRatio": 0.04
+          }
+        }
+      ]
+    },
+    "9": {
+      "effect_list": [
+        {
+          "type": "BattleSkillHeal",
+          "casterAniEffect": "",
+          "target_choise": "TargetSelf",
+          "targetAniEffect": "",
+          "arg_list": {
+            "maxHPRatio": 0.045
+          }
+        }
+      ]
+    },
+    "10": {
+      "effect_list": [
+        {
+          "type": "BattleSkillHeal",
+          "casterAniEffect": "",
+          "target_choise": "TargetSelf",
+          "targetAniEffect": "",
+          "arg_list": {
+            "maxHPRatio": 0.05
+          }
+        }
+      ]
+    },
+    "uiEffect": "",
+    "name": "",
+    "cd": 0,
+    "painting": 1,
+    "id": 152931,
+    "picture": "0",
+    "castCV": "skill",
+    "desc": ""
+  },
+  "skill_152940": {
+    "aniEffect": {
+      "effect": "jineng",
+      "offset": [
+        0,
+        -2,
+        0
+      ]
+    },
+    "effect_list": [
+      {
+        "type": "BattleSkillFire",
+        "casterAniEffect": "",
+        "target_choise": "TargetHarmRandomByWeight",
+        "targetAniEffect": "",
+        "arg_list": {
+          "weapon_id": 161901
+        }
+      }
+    ],
+    "1": {
+      "effect_list": [
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetHarmRandomByWeight",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 161901
+          }
+        }
+      ]
+    },
+    "2": {
+      "effect_list": [
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetHarmRandomByWeight",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 161902
+          }
+        }
+      ]
+    },
+    "3": {
+      "effect_list": [
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetHarmRandomByWeight",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 161903
+          }
+        }
+      ]
+    },
+    "4": {
+      "effect_list": [
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetHarmRandomByWeight",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 161904
+          }
+        }
+      ]
+    },
+    "5": {
+      "effect_list": [
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetHarmRandomByWeight",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 161905
+          }
+        }
+      ]
+    },
+    "6": {
+      "effect_list": [
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetHarmRandomByWeight",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 161906
+          }
+        }
+      ]
+    },
+    "7": {
+      "effect_list": [
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetHarmRandomByWeight",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 161907
+          }
+        }
+      ]
+    },
+    "8": {
+      "effect_list": [
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetHarmRandomByWeight",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 161908
+          }
+        }
+      ]
+    },
+    "9": {
+      "effect_list": [
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetHarmRandomByWeight",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 161909
+          }
+        }
+      ]
+    },
+    "10": {
+      "effect_list": [
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetHarmRandomByWeight",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 161910
+          }
+        }
+      ]
+    },
+    "uiEffect": "",
+    "name": "",
+    "cd": 0,
+    "painting": 1,
+    "id": 152940,
+    "picture": "0",
+    "castCV": "",
+    "desc": ""
+  },
+  "skill_152941": {
+    "aniEffect": {
+      "effect": "jineng",
+      "offset": [
+        0,
+        -2,
+        0
+      ]
+    },
+    "effect_list": [
+      {
+        "type": "BattleSkillFire",
+        "casterAniEffect": "",
+        "target_choise": "TargetHarmRandomByWeight",
+        "targetAniEffect": "",
+        "arg_list": {
+          "weapon_id": 161911
+        }
+      }
+    ],
+    "1": {
+      "effect_list": [
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetHarmRandomByWeight",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 161911
+          }
+        }
+      ]
+    },
+    "2": {
+      "effect_list": [
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetHarmRandomByWeight",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 161912
+          }
+        }
+      ]
+    },
+    "3": {
+      "effect_list": [
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetHarmRandomByWeight",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 161913
+          }
+        }
+      ]
+    },
+    "4": {
+      "effect_list": [
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetHarmRandomByWeight",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 161914
+          }
+        }
+      ]
+    },
+    "5": {
+      "effect_list": [
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetHarmRandomByWeight",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 161915
+          }
+        }
+      ]
+    },
+    "6": {
+      "effect_list": [
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetHarmRandomByWeight",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 161916
+          }
+        }
+      ]
+    },
+    "7": {
+      "effect_list": [
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetHarmRandomByWeight",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 161917
+          }
+        }
+      ]
+    },
+    "8": {
+      "effect_list": [
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetHarmRandomByWeight",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 161918
+          }
+        }
+      ]
+    },
+    "9": {
+      "effect_list": [
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetHarmRandomByWeight",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 161919
+          }
+        }
+      ]
+    },
+    "10": {
+      "effect_list": [
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetHarmRandomByWeight",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 161920
+          }
+        }
+      ]
+    },
+    "uiEffect": "",
+    "name": "",
+    "cd": 0,
+    "painting": 0,
+    "id": 152491,
+    "picture": "0",
+    "castCV": "skill",
+    "desc": ""
+  },
+  "skill_152960": {
+    "uiEffect": "",
+    "painting": 1,
+    "cd": 0,
+    "picture": "0",
+    "id": 152960,
+    "castCV": "skill",
+    "desc": "",
+    "effect_list": []
+  },
+  "skill_152961": {
+    "uiEffect": "",
+    "name": "",
+    "cd": 0,
+    "painting": 0,
+    "id": 152961,
+    "picture": "0",
+    "desc": "",
+    "effect_list": [
+      {
+        "type": "BattleSkillAddBuff",
+        "casterAniEffect": "",
+        "targetAniEffect": "",
+        "target_choise": [
+          "TargetAllHelp",
+          "TargetNationality"
+        ],
+        "arg_list": {
+          "exceptCaster": true,
+          "buff_id": 152962,
+          "nationality": 96
+        }
+      }
+    ]
+  },
+  "skill_152962": {
+    "uiEffect": "",
+    "name": "",
+    "cd": 0,
+    "id": 152962,
+    "picture": "0",
+    "desc": "本舰被击破时，跳转到无敌",
+    "effect_list": [
+      {
+        "type": "BattleSkillAddBuff",
+        "casterAniEffect": "",
+        "target_choise": "TargetSelf",
+        "targetAniEffect": "",
+        "arg_list": {
+          "buff_id": 152963
+        }
+      },
+      {
+        "type": "BattleSkillAddBuff",
+        "casterAniEffect": "",
+        "targetAniEffect": "",
+        "target_choise": [
+          "TargetAllHelp",
+          "TargetNationality"
+        ],
+        "arg_list": {
+          "exceptCaster": true,
+          "buff_id": 152967,
+          "nationality": 96
+        }
+      }
+    ]
+  },
+  "skill_152963": {
+    "uiEffect": "",
+    "name": "",
+    "cd": 0,
+    "id": 152963,
+    "picture": "0",
+    "desc": "",
+    "effect_list": [
+      {
+        "type": "BattleSkillAddBuff",
+        "casterAniEffect": "",
+        "targetAniEffect": "",
+        "target_choise": [
+          "TargetAllHelp",
+          "TargetShipTag"
+        ],
+        "arg_list": {
+          "buff_id": 152965,
+          "ship_tag_list": [
+            "SailingHome"
+          ]
+        }
+      }
+    ]
+  },
+  "skill_152964": {
+    "uiEffect": "",
+    "name": "",
+    "cd": 0,
+    "painting": 0,
+    "id": 152964,
+    "picture": "0",
+    "castCV": "",
+    "desc": "",
+    "effect_list": [
+      {
+        "type": "BattleSkillAddBuff",
+        "casterAniEffect": "",
+        "targetAniEffect": "",
+        "target_choise": [
+          "TargetShipTag"
+        ],
+        "arg_list": {
+          "buff_id": 152966,
+          "ship_tag_list": [
+            "SailingHome"
+          ]
+        }
+      }
+    ]
+  },
+  "skill_152965": {
+    "aniEffect": {
+      "effect": "jineng",
+      "offset": [
+        0,
+        -2,
+        0
+      ]
+    },
+    "effect_list": [
+      {
+        "type": "BattleSkillHeal",
+        "casterAniEffect": "",
+        "target_choise": "TargetSelf",
+        "targetAniEffect": "",
+        "arg_list": {
+          "maxHPRatio": 0.035
+        }
+      }
+    ],
+    "1": {
+      "effect_list": [
+        {
+          "type": "BattleSkillHeal",
+          "casterAniEffect": "",
+          "target_choise": "TargetSelf",
+          "targetAniEffect": "",
+          "arg_list": {
+            "maxHPRatio": 0.035
+          }
+        }
+      ]
+    },
+    "2": {
+      "effect_list": [
+        {
+          "type": "BattleSkillHeal",
+          "casterAniEffect": "",
+          "target_choise": "TargetSelf",
+          "targetAniEffect": "",
+          "arg_list": {
+            "maxHPRatio": 0.04
+          }
+        }
+      ]
+    },
+    "3": {
+      "effect_list": [
+        {
+          "type": "BattleSkillHeal",
+          "casterAniEffect": "",
+          "target_choise": "TargetSelf",
+          "targetAniEffect": "",
+          "arg_list": {
+            "maxHPRatio": 0.045
+          }
+        }
+      ]
+    },
+    "4": {
+      "effect_list": [
+        {
+          "type": "BattleSkillHeal",
+          "casterAniEffect": "",
+          "target_choise": "TargetSelf",
+          "targetAniEffect": "",
+          "arg_list": {
+            "maxHPRatio": 0.05
+          }
+        }
+      ]
+    },
+    "5": {
+      "effect_list": [
+        {
+          "type": "BattleSkillHeal",
+          "casterAniEffect": "",
+          "target_choise": "TargetSelf",
+          "targetAniEffect": "",
+          "arg_list": {
+            "maxHPRatio": 0.055
+          }
+        }
+      ]
+    },
+    "6": {
+      "effect_list": [
+        {
+          "type": "BattleSkillHeal",
+          "casterAniEffect": "",
+          "target_choise": "TargetSelf",
+          "targetAniEffect": "",
+          "arg_list": {
+            "maxHPRatio": 0.06
+          }
+        }
+      ]
+    },
+    "7": {
+      "effect_list": [
+        {
+          "type": "BattleSkillHeal",
+          "casterAniEffect": "",
+          "target_choise": "TargetSelf",
+          "targetAniEffect": "",
+          "arg_list": {
+            "maxHPRatio": 0.065
+          }
+        }
+      ]
+    },
+    "8": {
+      "effect_list": [
+        {
+          "type": "BattleSkillHeal",
+          "casterAniEffect": "",
+          "target_choise": "TargetSelf",
+          "targetAniEffect": "",
+          "arg_list": {
+            "maxHPRatio": 0.07
+          }
+        }
+      ]
+    },
+    "9": {
+      "effect_list": [
+        {
+          "type": "BattleSkillHeal",
+          "casterAniEffect": "",
+          "target_choise": "TargetSelf",
+          "targetAniEffect": "",
+          "arg_list": {
+            "maxHPRatio": 0.075
+          }
+        }
+      ]
+    },
+    "10": {
+      "effect_list": [
+        {
+          "type": "BattleSkillHeal",
+          "casterAniEffect": "",
+          "target_choise": "TargetSelf",
+          "targetAniEffect": "",
+          "arg_list": {
+            "maxHPRatio": 0.08
+          }
+        }
+      ]
+    },
+    "uiEffect": "",
+    "name": "",
+    "cd": 0,
+    "id": 152965,
+    "picture": "0",
+    "desc": ""
+  },
+  "skill_152966": {
+    "aniEffect": {
+      "effect": "jineng",
+      "offset": [
+        0,
+        -2,
+        0
+      ]
+    },
+    "effect_list": [
+      {
+        "type": "BattleSkillHeal",
+        "casterAniEffect": "",
+        "target_choise": "TargetSelf",
+        "targetAniEffect": "",
+        "arg_list": {
+          "maxHPRatio": 0.04
+        }
+      }
+    ],
+    "1": {
+      "effect_list": [
+        {
+          "type": "BattleSkillHeal",
+          "casterAniEffect": "",
+          "target_choise": "TargetSelf",
+          "targetAniEffect": "",
+          "arg_list": {
+            "maxHPRatio": 0.04
+          }
+        }
+      ]
+    },
+    "2": {
+      "effect_list": [
+        {
+          "type": "BattleSkillHeal",
+          "casterAniEffect": "",
+          "target_choise": "TargetSelf",
+          "targetAniEffect": "",
+          "arg_list": {
+            "maxHPRatio": 0.046
+          }
+        }
+      ]
+    },
+    "3": {
+      "effect_list": [
+        {
+          "type": "BattleSkillHeal",
+          "casterAniEffect": "",
+          "target_choise": "TargetSelf",
+          "targetAniEffect": "",
+          "arg_list": {
+            "maxHPRatio": 0.052
+          }
+        }
+      ]
+    },
+    "4": {
+      "effect_list": [
+        {
+          "type": "BattleSkillHeal",
+          "casterAniEffect": "",
+          "target_choise": "TargetSelf",
+          "targetAniEffect": "",
+          "arg_list": {
+            "maxHPRatio": 0.06
+          }
+        }
+      ]
+    },
+    "5": {
+      "effect_list": [
+        {
+          "type": "BattleSkillHeal",
+          "casterAniEffect": "",
+          "target_choise": "TargetSelf",
+          "targetAniEffect": "",
+          "arg_list": {
+            "maxHPRatio": 0.066
+          }
+        }
+      ]
+    },
+    "6": {
+      "effect_list": [
+        {
+          "type": "BattleSkillHeal",
+          "casterAniEffect": "",
+          "target_choise": "TargetSelf",
+          "targetAniEffect": "",
+          "arg_list": {
+            "maxHPRatio": 0.072
+          }
+        }
+      ]
+    },
+    "7": {
+      "effect_list": [
+        {
+          "type": "BattleSkillHeal",
+          "casterAniEffect": "",
+          "target_choise": "TargetSelf",
+          "targetAniEffect": "",
+          "arg_list": {
+            "maxHPRatio": 0.08
+          }
+        }
+      ]
+    },
+    "8": {
+      "effect_list": [
+        {
+          "type": "BattleSkillHeal",
+          "casterAniEffect": "",
+          "target_choise": "TargetSelf",
+          "targetAniEffect": "",
+          "arg_list": {
+            "maxHPRatio": 0.086
+          }
+        }
+      ]
+    },
+    "9": {
+      "effect_list": [
+        {
+          "type": "BattleSkillHeal",
+          "casterAniEffect": "",
+          "target_choise": "TargetSelf",
+          "targetAniEffect": "",
+          "arg_list": {
+            "maxHPRatio": 0.092
+          }
+        }
+      ]
+    },
+    "10": {
+      "effect_list": [
+        {
+          "type": "BattleSkillHeal",
+          "casterAniEffect": "",
+          "target_choise": "TargetSelf",
+          "targetAniEffect": "",
+          "arg_list": {
+            "maxHPRatio": 0.1
+          }
+        }
+      ]
+    },
+    "uiEffect": "",
+    "name": "",
+    "cd": 0,
+    "id": 152966,
+    "picture": "0",
+    "desc": ""
+  },
+  "skill_152970": {
+    "uiEffect": "",
+    "name": "",
+    "cd": 0,
+    "id": 152970,
+    "desc": "",
+    "effect_list": [
+      {
+        "type": "BattleSkillAddBuff",
+        "casterAniEffect": "",
+        "target_choise": "TargetSelf",
+        "targetAniEffect": "",
+        "arg_list": {
+          "buff_id": 152972
+        }
+      }
+    ]
+  },
+  "skill_152971": {
+    "uiEffect": "",
+    "name": "",
+    "cd": 0,
+    "painting": 1,
+    "id": 152971,
+    "picture": "0",
+    "castCV": "skill",
+    "desc": "",
+    "aniEffect": {
+      "effect": "jineng",
+      "offset": [
+        0,
+        -2,
+        0
+      ]
+    },
+    "effect_list": [
+      {
+        "type": "BattleSkillAddBuff",
+        "casterAniEffect": "",
+        "target_choise": "TargetSelf",
+        "targetAniEffect": "",
+        "arg_list": {
+          "buff_id": 152973
+        }
+      }
+    ]
+  },
+  "skill_152972": {
+    "uiEffect": "",
+    "name": "",
+    "cd": 0,
+    "painting": 1,
+    "id": 152972,
+    "picture": "0",
+    "castCV": "skill",
+    "desc": "",
+    "aniEffect": {
+      "effect": "jineng",
+      "offset": [
+        0,
+        -2,
+        0
+      ]
+    },
+    "effect_list": [
+      {
+        "type": "BattleSkillAddBuff",
+        "casterAniEffect": "",
+        "target_choise": "TargetSelf",
+        "targetAniEffect": "",
+        "arg_list": {
+          "buff_id": 152974
+        }
+      }
+    ]
+  },
+  "skill_152980": {
+    "uiEffect": "",
+    "painting": 1,
+    "cd": 0,
+    "picture": "0",
+    "id": 152980,
+    "castCV": "skill",
+    "desc": "",
+    "effect_list": []
+  },
+  "skill_152982": {
+    "uiEffect": "",
+    "name": "",
+    "cd": 0,
+    "id": 152982,
+    "picture": "0",
+    "desc": "本舰被击破时，跳转到无敌",
+    "effect_list": [
+      {
+        "type": "BattleSkillAddBuff",
+        "casterAniEffect": "",
+        "target_choise": "TargetSelf",
+        "targetAniEffect": "",
+        "arg_list": {
+          "buff_id": 152983
+        }
+      },
+      {
+        "type": "BattleSkillAddBuff",
+        "casterAniEffect": "",
+        "target_choise": "TargetShipTag",
+        "targetAniEffect": "",
+        "arg_list": {
+          "buff_id": 152986,
+          "ship_tag_list": [
+            "Merkuriy"
+          ]
+        }
+      }
+    ]
+  },
+  "skill_152983": {
+    "uiEffect": "",
+    "name": "",
+    "cd": 0,
+    "painting": 1,
+    "id": 152983,
+    "picture": "0",
+    "castCV": "skill",
+    "desc": "",
+    "aniEffect": {
+      "effect": "jineng",
+      "offset": [
+        0,
+        -2,
+        0
+      ]
+    },
+    "effect_list": [
+      {
+        "type": "BattleSkillAddBuff",
+        "casterAniEffect": "",
+        "target_choise": "TargetSelf",
+        "targetAniEffect": "",
+        "arg_list": {
+          "buff_id": 152987
+        }
+      }
+    ]
+  },
+  "skill_152984": {
+    "uiEffect": "",
+    "name": "",
+    "cd": 0,
+    "id": 152984,
+    "picture": "0",
+    "desc": "",
+    "effect_list": [
+      {
+        "type": "BattleSkillAddBuff",
+        "casterAniEffect": "",
+        "targetAniEffect": "",
+        "target_choise": [
+          "TargetAllHelp",
+          "TargetShipTag"
+        ],
+        "arg_list": {
+          "buff_id": 152989,
+          "ship_tag_list": [
+            "SailingHome"
+          ]
+        }
+      }
+    ]
+  },
+  "skill_152985": {
+    "uiEffect": "",
+    "name": "",
+    "cd": 0,
+    "painting": 0,
+    "id": 152985,
+    "picture": "0",
+    "castCV": "",
+    "desc": "",
+    "effect_list": [
+      {
+        "type": "BattleSkillAddBuff",
+        "casterAniEffect": "",
+        "targetAniEffect": "",
+        "target_choise": [
+          "TargetShipTag"
+        ],
+        "arg_list": {
+          "buff_id": 153040,
+          "ship_tag_list": [
+            "SailingHome"
+          ]
+        }
+      }
+    ]
+  },
+  "skill_152986": {
+    "aniEffect": {
+      "effect": "jineng",
+      "offset": [
+        0,
+        -2,
+        0
+      ]
+    },
+    "effect_list": [
+      {
+        "type": "BattleSkillHeal",
+        "casterAniEffect": "",
+        "target_choise": "TargetSelf",
+        "targetAniEffect": "",
+        "arg_list": {
+          "maxHPRatio": 0.04
+        }
+      }
+    ],
+    "1": {
+      "effect_list": [
+        {
+          "type": "BattleSkillHeal",
+          "casterAniEffect": "",
+          "target_choise": "TargetSelf",
+          "targetAniEffect": "",
+          "arg_list": {
+            "maxHPRatio": 0.04
+          }
+        }
+      ]
+    },
+    "2": {
+      "effect_list": [
+        {
+          "type": "BattleSkillHeal",
+          "casterAniEffect": "",
+          "target_choise": "TargetSelf",
+          "targetAniEffect": "",
+          "arg_list": {
+            "maxHPRatio": 0.046
+          }
+        }
+      ]
+    },
+    "3": {
+      "effect_list": [
+        {
+          "type": "BattleSkillHeal",
+          "casterAniEffect": "",
+          "target_choise": "TargetSelf",
+          "targetAniEffect": "",
+          "arg_list": {
+            "maxHPRatio": 0.052
+          }
+        }
+      ]
+    },
+    "4": {
+      "effect_list": [
+        {
+          "type": "BattleSkillHeal",
+          "casterAniEffect": "",
+          "target_choise": "TargetSelf",
+          "targetAniEffect": "",
+          "arg_list": {
+            "maxHPRatio": 0.06
+          }
+        }
+      ]
+    },
+    "5": {
+      "effect_list": [
+        {
+          "type": "BattleSkillHeal",
+          "casterAniEffect": "",
+          "target_choise": "TargetSelf",
+          "targetAniEffect": "",
+          "arg_list": {
+            "maxHPRatio": 0.066
+          }
+        }
+      ]
+    },
+    "6": {
+      "effect_list": [
+        {
+          "type": "BattleSkillHeal",
+          "casterAniEffect": "",
+          "target_choise": "TargetSelf",
+          "targetAniEffect": "",
+          "arg_list": {
+            "maxHPRatio": 0.072
+          }
+        }
+      ]
+    },
+    "7": {
+      "effect_list": [
+        {
+          "type": "BattleSkillHeal",
+          "casterAniEffect": "",
+          "target_choise": "TargetSelf",
+          "targetAniEffect": "",
+          "arg_list": {
+            "maxHPRatio": 0.08
+          }
+        }
+      ]
+    },
+    "8": {
+      "effect_list": [
+        {
+          "type": "BattleSkillHeal",
+          "casterAniEffect": "",
+          "target_choise": "TargetSelf",
+          "targetAniEffect": "",
+          "arg_list": {
+            "maxHPRatio": 0.086
+          }
+        }
+      ]
+    },
+    "9": {
+      "effect_list": [
+        {
+          "type": "BattleSkillHeal",
+          "casterAniEffect": "",
+          "target_choise": "TargetSelf",
+          "targetAniEffect": "",
+          "arg_list": {
+            "maxHPRatio": 0.092
+          }
+        }
+      ]
+    },
+    "10": {
+      "effect_list": [
+        {
+          "type": "BattleSkillHeal",
+          "casterAniEffect": "",
+          "target_choise": "TargetSelf",
+          "targetAniEffect": "",
+          "arg_list": {
+            "maxHPRatio": 0.1
+          }
+        }
+      ]
+    },
+    "uiEffect": "",
+    "name": "",
+    "cd": 0,
+    "id": 152986,
+    "picture": "0",
+    "desc": ""
+  },
+  "skill_153010": {
+    "aniEffect": {
+      "effect": "jineng",
+      "offset": [
+        0,
+        -2,
+        0
+      ]
+    },
+    "effect_list": [
+      {
+        "type": "BattleSkillFire",
+        "casterAniEffect": "",
+        "target_choise": "TargetNil",
+        "targetAniEffect": "",
+        "arg_list": {
+          "weapon_id": 184741,
+          "emitter": "BattleBulletEmitter"
+        }
+      },
+      {
+        "type": "BattleSkillFire",
+        "casterAniEffect": "",
+        "target_choise": "TargetNil",
+        "targetAniEffect": "",
+        "arg_list": {
+          "weapon_id": 184751,
+          "emitter": "BattleBulletEmitter"
+        }
+      },
+      {
+        "type": "BattleSkillFire",
+        "casterAniEffect": "",
+        "target_choise": "TargetNil",
+        "targetAniEffect": "",
+        "arg_list": {
+          "weapon_id": 184761,
+          "emitter": "BattleBulletEmitter"
+        }
+      },
+      {
+        "type": "BattleSkillFire",
+        "casterAniEffect": "",
+        "target_choise": "TargetNil",
+        "targetAniEffect": "",
+        "arg_list": {
+          "weapon_id": 184771,
+          "emitter": "BattleBulletEmitter"
+        }
+      },
+      {
+        "type": "BattleSkillFire",
+        "casterAniEffect": "",
+        "target_choise": "TargetNil",
+        "targetAniEffect": "",
+        "arg_list": {
+          "weapon_id": 184781,
+          "emitter": "BattleBulletEmitter"
+        }
+      }
+    ],
+    "1": {
+      "effect_list": [
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetNil",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 184741,
+            "emitter": "BattleBulletEmitter"
+          }
+        },
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetNil",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 184751,
+            "emitter": "BattleBulletEmitter"
+          }
+        },
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetNil",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 184761,
+            "emitter": "BattleBulletEmitter"
+          }
+        },
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetNil",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 184771,
+            "emitter": "BattleBulletEmitter"
+          }
+        },
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetNil",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 184781,
+            "emitter": "BattleBulletEmitter"
+          }
+        }
+      ]
+    },
+    "2": {
+      "effect_list": [
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetNil",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 184742,
+            "emitter": "BattleBulletEmitter"
+          }
+        },
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetNil",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 184752,
+            "emitter": "BattleBulletEmitter"
+          }
+        },
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetNil",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 184762,
+            "emitter": "BattleBulletEmitter"
+          }
+        },
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetNil",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 184772,
+            "emitter": "BattleBulletEmitter"
+          }
+        },
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetNil",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 184782,
+            "emitter": "BattleBulletEmitter"
+          }
+        }
+      ]
+    },
+    "3": {
+      "effect_list": [
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetNil",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 184743,
+            "emitter": "BattleBulletEmitter"
+          }
+        },
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetNil",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 184753,
+            "emitter": "BattleBulletEmitter"
+          }
+        },
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetNil",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 184763,
+            "emitter": "BattleBulletEmitter"
+          }
+        },
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetNil",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 184773,
+            "emitter": "BattleBulletEmitter"
+          }
+        },
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetNil",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 184783,
+            "emitter": "BattleBulletEmitter"
+          }
+        }
+      ]
+    },
+    "4": {
+      "effect_list": [
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetNil",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 184744,
+            "emitter": "BattleBulletEmitter"
+          }
+        },
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetNil",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 184754,
+            "emitter": "BattleBulletEmitter"
+          }
+        },
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetNil",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 184764,
+            "emitter": "BattleBulletEmitter"
+          }
+        },
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetNil",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 184774,
+            "emitter": "BattleBulletEmitter"
+          }
+        },
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetNil",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 184784,
+            "emitter": "BattleBulletEmitter"
+          }
+        }
+      ]
+    },
+    "5": {
+      "effect_list": [
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetNil",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 184745,
+            "emitter": "BattleBulletEmitter"
+          }
+        },
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetNil",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 184755,
+            "emitter": "BattleBulletEmitter"
+          }
+        },
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetNil",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 184765,
+            "emitter": "BattleBulletEmitter"
+          }
+        },
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetNil",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 184775,
+            "emitter": "BattleBulletEmitter"
+          }
+        },
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetNil",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 184785,
+            "emitter": "BattleBulletEmitter"
+          }
+        }
+      ]
+    },
+    "6": {
+      "effect_list": [
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetNil",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 184746,
+            "emitter": "BattleBulletEmitter"
+          }
+        },
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetNil",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 184756,
+            "emitter": "BattleBulletEmitter"
+          }
+        },
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetNil",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 184766,
+            "emitter": "BattleBulletEmitter"
+          }
+        },
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetNil",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 184776,
+            "emitter": "BattleBulletEmitter"
+          }
+        },
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetNil",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 184786,
+            "emitter": "BattleBulletEmitter"
+          }
+        }
+      ]
+    },
+    "7": {
+      "effect_list": [
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetNil",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 184747,
+            "emitter": "BattleBulletEmitter"
+          }
+        },
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetNil",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 184757,
+            "emitter": "BattleBulletEmitter"
+          }
+        },
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetNil",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 184767,
+            "emitter": "BattleBulletEmitter"
+          }
+        },
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetNil",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 184777,
+            "emitter": "BattleBulletEmitter"
+          }
+        },
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetNil",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 184787,
+            "emitter": "BattleBulletEmitter"
+          }
+        }
+      ]
+    },
+    "8": {
+      "effect_list": [
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetNil",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 184748,
+            "emitter": "BattleBulletEmitter"
+          }
+        },
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetNil",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 184758,
+            "emitter": "BattleBulletEmitter"
+          }
+        },
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetNil",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 184768,
+            "emitter": "BattleBulletEmitter"
+          }
+        },
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetNil",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 184778,
+            "emitter": "BattleBulletEmitter"
+          }
+        },
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetNil",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 184788,
+            "emitter": "BattleBulletEmitter"
+          }
+        }
+      ]
+    },
+    "9": {
+      "effect_list": [
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetNil",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 184749,
+            "emitter": "BattleBulletEmitter"
+          }
+        },
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetNil",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 184759,
+            "emitter": "BattleBulletEmitter"
+          }
+        },
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetNil",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 184769,
+            "emitter": "BattleBulletEmitter"
+          }
+        },
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetNil",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 184779,
+            "emitter": "BattleBulletEmitter"
+          }
+        },
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetNil",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 184789,
+            "emitter": "BattleBulletEmitter"
+          }
+        }
+      ]
+    },
+    "10": {
+      "effect_list": [
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetNil",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 184750,
+            "emitter": "BattleBulletEmitter"
+          }
+        },
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetNil",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 184760,
+            "emitter": "BattleBulletEmitter"
+          }
+        },
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetNil",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 184770,
+            "emitter": "BattleBulletEmitter"
+          }
+        },
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetNil",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 184780,
+            "emitter": "BattleBulletEmitter"
+          }
+        },
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetNil",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 184790,
+            "emitter": "BattleBulletEmitter"
+          }
+        }
+      ]
+    },
+    "uiEffect": "",
+    "name": "",
+    "cd": 0,
+    "painting": 1,
+    "id": 153010,
+    "picture": "0",
+    "castCV": "skill",
+    "desc": ""
+  },
+  "skill_153021": {
+    "uiEffect": "",
+    "name": "",
+    "cd": 0,
+    "painting": 1,
+    "id": 153021,
+    "picture": "0",
+    "castCV": "skill",
+    "desc": "",
+    "aniEffect": {
+      "effect": "jineng",
+      "offset": [
+        0,
+        -2,
+        0
+      ]
+    },
+    "effect_list": [
+      {
+        "type": "BattleSkillAddBuff",
+        "casterAniEffect": "",
+        "target_choise": "TargetHarmRandomByWeight",
+        "targetAniEffect": "",
+        "arg_list": {
+          "buff_id": 153022
+        }
+      },
+      {
+        "type": "BattleSkillAddBuff",
+        "casterAniEffect": "",
+        "target_choise": "TargetSelf",
+        "targetAniEffect": "",
+        "arg_list": {
+          "buff_id": 153023
+        }
+      },
+      {
+        "type": "BattleSkillAddBuff",
+        "casterAniEffect": "",
+        "targetAniEffect": "",
+        "target_choise": [
+          "TargetAllHelp",
+          "TargetNationality"
+        ],
+        "arg_list": {
+          "buff_id": 153024,
+          "exceptCaster": true,
+          "nationality": 96
+        }
+      }
+    ]
+  },
+  "skill_153022": {
+    "uiEffect": "",
+    "name": "",
+    "cd": 0,
+    "painting": 1,
+    "id": 153022,
+    "picture": "0",
+    "castCV": "skill",
+    "desc": "",
+    "aniEffect": {
+      "effect": "jineng",
+      "offset": [
+        0,
+        -2,
+        0
+      ]
+    },
+    "effect_list": [
+      {
+        "type": "BattleSkillAddBuff",
+        "casterAniEffect": "",
+        "targetAniEffect": "",
+        "target_choise": [
+          "TargetAllHelp",
+          "TargetNationality"
+        ],
+        "arg_list": {
+          "buff_id": 153026,
+          "nationality": 96
+        }
+      },
+      {
+        "type": "BattleSkillAddBuff",
+        "casterAniEffect": "",
+        "targetAniEffect": "",
+        "target_choise": [
+          "TargetSelf"
+        ],
+        "arg_list": {
+          "buff_id": 153025,
+          "nationality": 96
+        }
+      }
+    ]
+  },
+  "skill_153023": {
+    "uiEffect": "",
+    "name": "",
+    "cd": 0,
+    "painting": 1,
+    "id": 153023,
+    "picture": "0",
+    "castCV": "skill",
+    "desc": "",
+    "aniEffect": {
+      "effect": "jineng",
+      "offset": [
+        0,
+        -2,
+        0
+      ]
+    },
+    "effect_list": [
+      {
+        "type": "BattleSkillAddBuff",
+        "casterAniEffect": "",
+        "targetAniEffect": "",
+        "target_choise": [
+          "TargetAllHelp",
+          "TargetNationality"
+        ],
+        "arg_list": {
+          "buff_id": 153026,
+          "nationality": 96
+        }
+      }
+    ]
+  },
+  "skill_153030": {
+    "aniEffect": {
+      "effect": "jineng",
+      "offset": [
+        0,
+        -2,
+        0
+      ]
+    },
+    "effect_list": [
+      {
+        "type": "BattleSkillFire",
+        "casterAniEffect": "",
+        "target_choise": "TargetNil",
+        "targetAniEffect": "",
+        "arg_list": {
+          "emitter": "BattleBulletEmitter",
+          "weapon_id": 184741,
+          "equip_index": 153030
+        }
+      },
+      {
+        "type": "BattleSkillFire",
+        "casterAniEffect": "",
+        "target_choise": "TargetNil",
+        "targetAniEffect": "",
+        "arg_list": {
+          "emitter": "BattleBulletEmitter",
+          "weapon_id": 184751,
+          "equip_index": 153030
+        }
+      },
+      {
+        "type": "BattleSkillFire",
+        "casterAniEffect": "",
+        "target_choise": "TargetNil",
+        "targetAniEffect": "",
+        "arg_list": {
+          "emitter": "BattleBulletEmitter",
+          "weapon_id": 184761,
+          "equip_index": 153030
+        }
+      },
+      {
+        "type": "BattleSkillFire",
+        "casterAniEffect": "",
+        "target_choise": "TargetNil",
+        "targetAniEffect": "",
+        "arg_list": {
+          "emitter": "BattleBulletEmitter",
+          "weapon_id": 184771,
+          "equip_index": 153030
+        }
+      },
+      {
+        "type": "BattleSkillFire",
+        "casterAniEffect": "",
+        "target_choise": "TargetNil",
+        "targetAniEffect": "",
+        "arg_list": {
+          "emitter": "BattleBulletEmitter",
+          "weapon_id": 184781,
+          "equip_index": 153030
+        }
+      }
+    ],
+    "1": {
+      "effect_list": [
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetNil",
+          "targetAniEffect": "",
+          "arg_list": {
+            "emitter": "BattleBulletEmitter",
+            "weapon_id": 184741,
+            "equip_index": 153030
+          }
+        },
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetNil",
+          "targetAniEffect": "",
+          "arg_list": {
+            "emitter": "BattleBulletEmitter",
+            "weapon_id": 184751,
+            "equip_index": 153030
+          }
+        },
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetNil",
+          "targetAniEffect": "",
+          "arg_list": {
+            "emitter": "BattleBulletEmitter",
+            "weapon_id": 184761,
+            "equip_index": 153030
+          }
+        },
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetNil",
+          "targetAniEffect": "",
+          "arg_list": {
+            "emitter": "BattleBulletEmitter",
+            "weapon_id": 184771,
+            "equip_index": 153030
+          }
+        },
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetNil",
+          "targetAniEffect": "",
+          "arg_list": {
+            "emitter": "BattleBulletEmitter",
+            "weapon_id": 184781,
+            "equip_index": 153030
+          }
+        }
+      ]
+    },
+    "2": {
+      "effect_list": [
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetNil",
+          "targetAniEffect": "",
+          "arg_list": {
+            "emitter": "BattleBulletEmitter",
+            "weapon_id": 184742,
+            "equip_index": 153030
+          }
+        },
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetNil",
+          "targetAniEffect": "",
+          "arg_list": {
+            "emitter": "BattleBulletEmitter",
+            "weapon_id": 184752,
+            "equip_index": 153030
+          }
+        },
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetNil",
+          "targetAniEffect": "",
+          "arg_list": {
+            "emitter": "BattleBulletEmitter",
+            "weapon_id": 184762,
+            "equip_index": 153030
+          }
+        },
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetNil",
+          "targetAniEffect": "",
+          "arg_list": {
+            "emitter": "BattleBulletEmitter",
+            "weapon_id": 184772,
+            "equip_index": 153030
+          }
+        },
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetNil",
+          "targetAniEffect": "",
+          "arg_list": {
+            "emitter": "BattleBulletEmitter",
+            "weapon_id": 184782,
+            "equip_index": 153030
+          }
+        }
+      ]
+    },
+    "3": {
+      "effect_list": [
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetNil",
+          "targetAniEffect": "",
+          "arg_list": {
+            "emitter": "BattleBulletEmitter",
+            "weapon_id": 184743,
+            "equip_index": 153030
+          }
+        },
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetNil",
+          "targetAniEffect": "",
+          "arg_list": {
+            "emitter": "BattleBulletEmitter",
+            "weapon_id": 184753,
+            "equip_index": 153030
+          }
+        },
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetNil",
+          "targetAniEffect": "",
+          "arg_list": {
+            "emitter": "BattleBulletEmitter",
+            "weapon_id": 184763,
+            "equip_index": 153030
+          }
+        },
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetNil",
+          "targetAniEffect": "",
+          "arg_list": {
+            "emitter": "BattleBulletEmitter",
+            "weapon_id": 184773,
+            "equip_index": 153030
+          }
+        },
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetNil",
+          "targetAniEffect": "",
+          "arg_list": {
+            "emitter": "BattleBulletEmitter",
+            "weapon_id": 184783,
+            "equip_index": 153030
+          }
+        }
+      ]
+    },
+    "4": {
+      "effect_list": [
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetNil",
+          "targetAniEffect": "",
+          "arg_list": {
+            "emitter": "BattleBulletEmitter",
+            "weapon_id": 184744,
+            "equip_index": 153030
+          }
+        },
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetNil",
+          "targetAniEffect": "",
+          "arg_list": {
+            "emitter": "BattleBulletEmitter",
+            "weapon_id": 184754,
+            "equip_index": 153030
+          }
+        },
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetNil",
+          "targetAniEffect": "",
+          "arg_list": {
+            "emitter": "BattleBulletEmitter",
+            "weapon_id": 184764,
+            "equip_index": 153030
+          }
+        },
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetNil",
+          "targetAniEffect": "",
+          "arg_list": {
+            "emitter": "BattleBulletEmitter",
+            "weapon_id": 184774,
+            "equip_index": 153030
+          }
+        },
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetNil",
+          "targetAniEffect": "",
+          "arg_list": {
+            "emitter": "BattleBulletEmitter",
+            "weapon_id": 184784,
+            "equip_index": 153030
+          }
+        }
+      ]
+    },
+    "5": {
+      "effect_list": [
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetNil",
+          "targetAniEffect": "",
+          "arg_list": {
+            "emitter": "BattleBulletEmitter",
+            "weapon_id": 184745,
+            "equip_index": 153030
+          }
+        },
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetNil",
+          "targetAniEffect": "",
+          "arg_list": {
+            "emitter": "BattleBulletEmitter",
+            "weapon_id": 184755,
+            "equip_index": 153030
+          }
+        },
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetNil",
+          "targetAniEffect": "",
+          "arg_list": {
+            "emitter": "BattleBulletEmitter",
+            "weapon_id": 184765,
+            "equip_index": 153030
+          }
+        },
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetNil",
+          "targetAniEffect": "",
+          "arg_list": {
+            "emitter": "BattleBulletEmitter",
+            "weapon_id": 184775,
+            "equip_index": 153030
+          }
+        },
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetNil",
+          "targetAniEffect": "",
+          "arg_list": {
+            "emitter": "BattleBulletEmitter",
+            "weapon_id": 184785,
+            "equip_index": 153030
+          }
+        }
+      ]
+    },
+    "6": {
+      "effect_list": [
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetNil",
+          "targetAniEffect": "",
+          "arg_list": {
+            "emitter": "BattleBulletEmitter",
+            "weapon_id": 184746,
+            "equip_index": 153030
+          }
+        },
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetNil",
+          "targetAniEffect": "",
+          "arg_list": {
+            "emitter": "BattleBulletEmitter",
+            "weapon_id": 184756,
+            "equip_index": 153030
+          }
+        },
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetNil",
+          "targetAniEffect": "",
+          "arg_list": {
+            "emitter": "BattleBulletEmitter",
+            "weapon_id": 184766,
+            "equip_index": 153030
+          }
+        },
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetNil",
+          "targetAniEffect": "",
+          "arg_list": {
+            "emitter": "BattleBulletEmitter",
+            "weapon_id": 184776,
+            "equip_index": 153030
+          }
+        },
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetNil",
+          "targetAniEffect": "",
+          "arg_list": {
+            "emitter": "BattleBulletEmitter",
+            "weapon_id": 184786,
+            "equip_index": 153030
+          }
+        }
+      ]
+    },
+    "7": {
+      "effect_list": [
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetNil",
+          "targetAniEffect": "",
+          "arg_list": {
+            "emitter": "BattleBulletEmitter",
+            "weapon_id": 184747,
+            "equip_index": 153030
+          }
+        },
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetNil",
+          "targetAniEffect": "",
+          "arg_list": {
+            "emitter": "BattleBulletEmitter",
+            "weapon_id": 184757,
+            "equip_index": 153030
+          }
+        },
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetNil",
+          "targetAniEffect": "",
+          "arg_list": {
+            "emitter": "BattleBulletEmitter",
+            "weapon_id": 184767,
+            "equip_index": 153030
+          }
+        },
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetNil",
+          "targetAniEffect": "",
+          "arg_list": {
+            "emitter": "BattleBulletEmitter",
+            "weapon_id": 184777,
+            "equip_index": 153030
+          }
+        },
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetNil",
+          "targetAniEffect": "",
+          "arg_list": {
+            "emitter": "BattleBulletEmitter",
+            "weapon_id": 184787,
+            "equip_index": 153030
+          }
+        }
+      ]
+    },
+    "8": {
+      "effect_list": [
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetNil",
+          "targetAniEffect": "",
+          "arg_list": {
+            "emitter": "BattleBulletEmitter",
+            "weapon_id": 184748,
+            "equip_index": 153030
+          }
+        },
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetNil",
+          "targetAniEffect": "",
+          "arg_list": {
+            "emitter": "BattleBulletEmitter",
+            "weapon_id": 184758,
+            "equip_index": 153030
+          }
+        },
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetNil",
+          "targetAniEffect": "",
+          "arg_list": {
+            "emitter": "BattleBulletEmitter",
+            "weapon_id": 184768,
+            "equip_index": 153030
+          }
+        },
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetNil",
+          "targetAniEffect": "",
+          "arg_list": {
+            "emitter": "BattleBulletEmitter",
+            "weapon_id": 184778,
+            "equip_index": 153030
+          }
+        },
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetNil",
+          "targetAniEffect": "",
+          "arg_list": {
+            "emitter": "BattleBulletEmitter",
+            "weapon_id": 184788,
+            "equip_index": 153030
+          }
+        }
+      ]
+    },
+    "9": {
+      "effect_list": [
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetNil",
+          "targetAniEffect": "",
+          "arg_list": {
+            "emitter": "BattleBulletEmitter",
+            "weapon_id": 184749,
+            "equip_index": 153030
+          }
+        },
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetNil",
+          "targetAniEffect": "",
+          "arg_list": {
+            "emitter": "BattleBulletEmitter",
+            "weapon_id": 184759,
+            "equip_index": 153030
+          }
+        },
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetNil",
+          "targetAniEffect": "",
+          "arg_list": {
+            "emitter": "BattleBulletEmitter",
+            "weapon_id": 184769,
+            "equip_index": 153030
+          }
+        },
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetNil",
+          "targetAniEffect": "",
+          "arg_list": {
+            "emitter": "BattleBulletEmitter",
+            "weapon_id": 184779,
+            "equip_index": 153030
+          }
+        },
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetNil",
+          "targetAniEffect": "",
+          "arg_list": {
+            "emitter": "BattleBulletEmitter",
+            "weapon_id": 184789,
+            "equip_index": 153030
+          }
+        }
+      ]
+    },
+    "10": {
+      "effect_list": [
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetNil",
+          "targetAniEffect": "",
+          "arg_list": {
+            "emitter": "BattleBulletEmitter",
+            "weapon_id": 184750,
+            "equip_index": 153030
+          }
+        },
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetNil",
+          "targetAniEffect": "",
+          "arg_list": {
+            "emitter": "BattleBulletEmitter",
+            "weapon_id": 184760,
+            "equip_index": 153030
+          }
+        },
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetNil",
+          "targetAniEffect": "",
+          "arg_list": {
+            "emitter": "BattleBulletEmitter",
+            "weapon_id": 184770,
+            "equip_index": 153030
+          }
+        },
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetNil",
+          "targetAniEffect": "",
+          "arg_list": {
+            "emitter": "BattleBulletEmitter",
+            "weapon_id": 184780,
+            "equip_index": 153030
+          }
+        },
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetNil",
+          "targetAniEffect": "",
+          "arg_list": {
+            "emitter": "BattleBulletEmitter",
+            "weapon_id": 184790,
+            "equip_index": 153030
+          }
+        }
+      ]
+    },
+    "uiEffect": "",
+    "name": "",
+    "cd": 0,
+    "painting": 1,
+    "id": 153030,
+    "picture": "0",
+    "castCV": "skill",
+    "desc": ""
+  },
+  "skill_153032": {
+    "uiEffect": "",
+    "name": "",
+    "cd": 0,
+    "painting": 1,
+    "id": 153032,
+    "picture": "0",
+    "castCV": "skill",
+    "desc": "",
+    "aniEffect": {
+      "effect": "jineng",
+      "offset": [
+        0,
+        -2,
+        0
+      ]
+    },
+    "effect_list": [
+      {
+        "type": "BattleSkillAddBuff",
+        "casterAniEffect": "",
+        "target_choise": "TargetSelf",
+        "targetAniEffect": "",
+        "arg_list": {
+          "buff_id": 153033
+        }
+      }
+    ]
+  },
+  "skill_153051": {
+    "uiEffect": "",
+    "name": "",
+    "cd": 0,
+    "painting": 0,
+    "id": 153051,
+    "picture": "0",
+    "castCV": "",
+    "desc": "",
+    "aniEffect": {
+      "effect": "jineng",
+      "offset": [
+        0,
+        -2,
+        0
+      ]
+    },
+    "effect_list": [
+      {
+        "type": "BattleSkillAddBuff",
+        "casterAniEffect": "",
+        "targetAniEffect": "",
+        "target_choise": [
+          "TargetAllHelp",
+          "TargetShipTag"
+        ],
+        "arg_list": {
+          "buff_id": 153051,
+          "ship_tag_list": [
+            "Pamiat' Merkuria and Merkuria"
+          ]
+        }
+      }
+    ]
+  },
+  "skill_201930": {
+    "uiEffect": "",
+    "name": "2026风帆四期 沉星之渊 产生旋涡",
+    "cd": 0,
+    "painting": 0,
+    "id": 201930,
+    "picture": "0",
+    "aniEffect": "",
+    "desc": "",
+    "effect_list": [
+      {
+        "target_choise": "TargetNil",
+        "type": "BattleSkillSummon",
+        "arg_list": {
+          "delay": 0,
+          "spawnData": {
+            "deadFX": "None",
+            "monsterTemplateID": 16907201,
+            "sickness": 0.1,
+            "buffList": [
+              201931
+            ],
+            "corrdinate": [
+              0,
+              0,
+              50
+            ],
+            "phase": [
+              {
+                "index": 0,
+                "switchType": 1,
+                "switchTo": 1,
+                "switchParam": 0.5
+              },
+              {
+                "switchParam": 12,
+                "switchTo": 2,
+                "index": 1,
+                "switchType": 1,
+                "setAI": 70307
+              },
+              {
+                "index": 2,
+                "switchType": 1,
+                "switchTo": 0,
+                "switchParam": 300,
+                "addBuff": [
+                  200440
+                ]
+              }
+            ]
+          }
+        }
+      },
+      {
+        "target_choise": "TargetNil",
+        "type": "BattleSkillSummon",
+        "arg_list": {
+          "delay": 0,
+          "spawnData": {
+            "deadFX": "None",
+            "monsterTemplateID": 16907201,
+            "sickness": 0.1,
+            "buffList": [
+              201931
+            ],
+            "corrdinate": [
+              0,
+              0,
+              50
+            ],
+            "phase": [
+              {
+                "index": 0,
+                "switchType": 1,
+                "switchTo": 1,
+                "switchParam": 0.5
+              },
+              {
+                "switchParam": 12,
+                "switchTo": 2,
+                "index": 1,
+                "switchType": 1,
+                "setAI": 70307
+              },
+              {
+                "index": 2,
+                "switchType": 1,
+                "switchTo": 0,
+                "switchParam": 300,
+                "addBuff": [
+                  200440
+                ]
+              }
+            ]
+          }
+        }
+      },
+      {
+        "target_choise": "TargetNil",
+        "type": "BattleSkillSummon",
+        "arg_list": {
+          "delay": 0,
+          "spawnData": {
+            "deadFX": "None",
+            "monsterTemplateID": 16907201,
+            "sickness": 0.1,
+            "buffList": [
+              201931
+            ],
+            "corrdinate": [
+              0,
+              0,
+              50
+            ],
+            "phase": [
+              {
+                "index": 0,
+                "switchType": 1,
+                "switchTo": 1,
+                "switchParam": 0.5
+              },
+              {
+                "switchParam": 12,
+                "switchTo": 2,
+                "index": 1,
+                "switchType": 1,
+                "setAI": 70307
+              },
+              {
+                "index": 2,
+                "switchType": 1,
+                "switchTo": 0,
+                "switchParam": 300,
+                "addBuff": [
+                  200440
+                ]
+              }
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "skill_201931": {
+    "uiEffect": "",
+    "name": "2026风帆四期 沉星之渊 旋涡初始位置随机",
+    "cd": 0,
+    "painting": 0,
+    "id": 201931,
+    "picture": "0",
+    "aniEffect": "",
+    "desc": "",
+    "effect_list": [
+      {
+        "type": "BattleSkillTeleport",
+        "target_choise": [],
+        "arg_list": {
+          "absoulteRandom": {
+            "Z1": 33,
+            "Z2": 73,
+            "X1": -70,
+            "X2": -10
+          }
+        }
+      }
+    ]
+  },
+  "skill_201936": {
+    "uiEffect": "",
+    "name": "2026风帆四期 EX困难 虚影状态 回血",
+    "cd": 0,
+    "painting": 0,
+    "id": 201936,
+    "picture": "0",
+    "aniEffect": "",
+    "desc": "",
+    "effect_list": [
+      {
+        "target_choise": "TargetSelf",
+        "type": "BattleSkillHeal",
+        "arg_list": {
+          "maxHPRatio": 0.05
+        }
+      }
+    ]
+  },
+  "skill_201948": {
+    "uiEffect": "",
+    "name": "2026风帆四期 剧情战 我方风帆蛋船",
+    "cd": 0,
+    "painting": 0,
+    "id": 201948,
+    "picture": "0",
+    "aniEffect": "",
+    "desc": "",
+    "effect_list": [
+      {
+        "target_choise": "TargetNil",
+        "type": "BattleSkillSummon",
+        "arg_list": {
+          "delay": 0,
+          "spawnData": {
+            "monsterTemplateID": 16908211,
+            "buffList": [
+              8001,
+              8007
+            ],
+            "corrdinate": [
+              -88,
+              0,
+              50
+            ],
+            "phase": [
+              {
+                "switchParam": 1.5,
+                "switchTo": 1,
+                "index": 0,
+                "switchType": 1,
+                "setAI": 20006
+              },
+              {
+                "switchParam": 4,
+                "switchTo": 2,
+                "index": 1,
+                "switchType": 1,
+                "setAI": 70227
+              },
+              {
+                "index": 2,
+                "switchType": 1,
+                "switchTo": 0,
+                "switchParam": 300,
+                "addWeapon": [
+                  3099044,
+                  3099049,
+                  3099054,
+                  3099059
+                ]
+              }
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "skill_201951": {
+    "uiEffect": "",
+    "name": "2026风帆四期 剧情战 我方支援蛋船",
+    "cd": 0,
+    "painting": 0,
+    "id": 201951,
+    "picture": "0",
+    "aniEffect": "",
+    "desc": "",
+    "effect_list": [
+      {
+        "target_choise": "TargetNil",
+        "type": "BattleSkillSummon",
+        "arg_list": {
+          "delay": 1,
+          "spawnData": {
+            "monsterTemplateID": 16908005,
+            "buffList": [
+              8001,
+              8007
+            ],
+            "corrdinate": [
+              -65,
+              0,
+              70
+            ]
+          }
+        }
+      },
+      {
+        "target_choise": "TargetNil",
+        "type": "BattleSkillSummon",
+        "arg_list": {
+          "delay": 1,
+          "spawnData": {
+            "monsterTemplateID": 16908004,
+            "buffList": [
+              8001,
+              8007
+            ],
+            "corrdinate": [
+              -65,
+              0,
+              30
+            ]
+          }
+        }
+      },
+      {
+        "target_choise": "TargetNil",
+        "type": "BattleSkillSummon",
+        "arg_list": {
+          "delay": 0,
+          "spawnData": {
+            "monsterTemplateID": 16908003,
+            "buffList": [
+              8001,
+              8007
+            ],
+            "corrdinate": [
+              -30,
+              0,
+              50
+            ]
+          }
+        }
+      },
+      {
+        "target_choise": "TargetNil",
+        "type": "BattleSkillSummon",
+        "arg_list": {
+          "delay": 0,
+          "spawnData": {
+            "monsterTemplateID": 16908001,
+            "buffList": [
+              8001,
+              8007
+            ],
+            "corrdinate": [
+              -36,
+              0,
+              60
+            ],
+            "phase": [
+              {
+                "switchParam": 1.5,
+                "switchTo": 1,
+                "index": 0,
+                "switchType": 1,
+                "setAI": 20006
+              },
+              {
+                "index": 1,
+                "switchType": 1,
+                "switchTo": 0,
+                "switchParam": 300
+              }
+            ]
+          }
+        }
+      },
+      {
+        "target_choise": "TargetNil",
+        "type": "BattleSkillSummon",
+        "arg_list": {
+          "delay": 0,
+          "spawnData": {
+            "monsterTemplateID": 16908001,
+            "buffList": [
+              8001,
+              8007
+            ],
+            "corrdinate": [
+              -36,
+              0,
+              40
+            ],
+            "phase": [
+              {
+                "switchParam": 1.5,
+                "switchTo": 1,
+                "index": 0,
+                "switchType": 1,
+                "setAI": 20006
+              },
+              {
+                "index": 1,
+                "switchType": 1,
+                "switchTo": 0,
+                "switchParam": 300
+              }
+            ]
+          }
+        }
+      },
+      {
+        "target_choise": "TargetNil",
+        "type": "BattleSkillSummon",
+        "arg_list": {
+          "delay": 0,
+          "spawnData": {
+            "monsterTemplateID": 16908002,
+            "buffList": [
+              8001,
+              8007
+            ],
+            "corrdinate": [
+              -42,
+              0,
+              70
+            ],
+            "phase": [
+              {
+                "switchParam": 1.5,
+                "switchTo": 1,
+                "index": 0,
+                "switchType": 1,
+                "setAI": 20006
+              },
+              {
+                "index": 1,
+                "switchType": 1,
+                "switchTo": 0,
+                "switchParam": 300
+              }
+            ]
+          }
+        }
+      },
+      {
+        "target_choise": "TargetNil",
+        "type": "BattleSkillSummon",
+        "arg_list": {
+          "delay": 0,
+          "spawnData": {
+            "monsterTemplateID": 16908002,
+            "buffList": [
+              8001,
+              8007
+            ],
+            "corrdinate": [
+              -42,
+              0,
+              30
+            ],
+            "phase": [
+              {
+                "switchParam": 1.5,
+                "switchTo": 1,
+                "index": 0,
+                "switchType": 1,
+                "setAI": 20006
+              },
+              {
+                "index": 1,
+                "switchType": 1,
+                "switchTo": 0,
+                "switchParam": 300
+              }
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "skill_30711": {
+    "aniEffect": {
+      "effect": "jineng",
+      "offset": [
+        0,
+        -2,
+        0
+      ]
+    },
+    "effect_list": [
+      {
+        "type": "BattleSkillFire",
+        "casterAniEffect": "",
+        "target_choise": "TargetNil",
+        "targetAniEffect": "",
+        "arg_list": {
+          "weapon_id": 171141,
+          "emitter": "BattleBulletEmitter"
+        }
+      }
+    ],
+    "1": {
+      "effect_list": [
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetNil",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 171141,
+            "emitter": "BattleBulletEmitter"
+          }
+        },
+        {
+          "type": "BattleSkillAddBuff",
+          "casterAniEffect": "",
+          "target_choise": "TargetSelf",
+          "targetAniEffect": "",
+          "arg_list": {
+            "buff_id": 30713
+          }
+        }
+      ]
+    },
+    "uiEffect": "",
+    "name": "专属弹幕-长蛇号",
+    "cd": 0,
+    "painting": 1,
+    "id": 30711,
+    "picture": "0",
+    "desc": "专属弹幕-长蛇号"
+  },
+  "skill_30712": {
+    "aniEffect": {
+      "effect": "jineng",
+      "offset": [
+        0,
+        -2,
+        0
+      ]
+    },
+    "effect_list": [
+      {
+        "type": "BattleSkillFire",
+        "casterAniEffect": "",
+        "target_choise": "TargetNil",
+        "targetAniEffect": "",
+        "arg_list": {
+          "weapon_id": 171142,
+          "emitter": "BattleBulletEmitter"
+        }
+      }
+    ],
+    "1": {
+      "effect_list": [
+        {
+          "type": "BattleSkillFire",
+          "casterAniEffect": "",
+          "target_choise": "TargetNil",
+          "targetAniEffect": "",
+          "arg_list": {
+            "weapon_id": 171142,
+            "emitter": "BattleBulletEmitter"
+          }
+        },
+        {
+          "type": "BattleSkillAddBuff",
+          "casterAniEffect": "",
+          "target_choise": "TargetSelf",
+          "targetAniEffect": "",
+          "arg_list": {
+            "buff_id": 30713
+          }
+        }
+      ]
+    },
+    "uiEffect": "",
+    "name": "专属弹幕-长蛇号",
+    "cd": 0,
+    "painting": 1,
+    "id": 30712,
+    "picture": "0",
+    "desc": "专属弹幕-长蛇号"
+  },
+  "skill_30731": {
+    "uiEffect": "",
+    "name": "",
+    "cd": 0,
+    "painting": 1,
+    "id": 30731,
+    "picture": "0",
+    "desc": "",
+    "aniEffect": {
+      "effect": "jineng",
+      "offset": [
+        0,
+        -2,
+        0
+      ]
+    },
+    "effect_list": [
+      {
+        "type": "BattleSkillFire",
+        "casterAniEffect": "",
+        "target_choise": "TargetNil",
+        "targetAniEffect": "",
+        "arg_list": {
+          "weapon_id": 171171,
+          "emitter": "BattleBulletEmitter"
+        }
+      }
+    ]
+  },
+  "skill_30732": {
+    "uiEffect": "",
+    "name": "",
+    "cd": 0,
+    "painting": 1,
+    "id": 30732,
+    "picture": "0",
+    "desc": "",
+    "aniEffect": {
+      "effect": "jineng",
+      "offset": [
+        0,
+        -2,
+        0
+      ]
+    },
+    "effect_list": [
+      {
+        "type": "BattleSkillFire",
+        "casterAniEffect": "",
+        "target_choise": "TargetNil",
+        "targetAniEffect": "",
+        "arg_list": {
+          "weapon_id": 171172,
+          "emitter": "BattleBulletEmitter"
+        }
+      }
+    ]
+  },
+  "skill_30741": {
+    "uiEffect": "",
+    "name": "",
+    "cd": 0,
+    "painting": 1,
+    "id": 30741,
+    "picture": "0",
+    "desc": "",
+    "aniEffect": {
+      "effect": "jineng",
+      "offset": [
+        0,
+        -2,
+        0
+      ]
+    },
+    "effect_list": [
+      {
+        "type": "BattleSkillFire",
+        "casterAniEffect": "",
+        "target_choise": "TargetNil",
+        "targetAniEffect": "",
+        "arg_list": {
+          "weapon_id": 171181,
+          "emitter": "BattleBulletEmitter"
+        }
+      }
+    ]
+  },
+  "skill_30742": {
+    "uiEffect": "",
+    "name": "",
+    "cd": 0,
+    "painting": 1,
+    "id": 30742,
+    "picture": "0",
+    "desc": "",
+    "aniEffect": {
+      "effect": "jineng",
+      "offset": [
+        0,
+        -2,
+        0
+      ]
+    },
+    "effect_list": [
+      {
+        "type": "BattleSkillFire",
+        "casterAniEffect": "",
+        "target_choise": "TargetNil",
+        "targetAniEffect": "",
+        "arg_list": {
+          "weapon_id": 171182,
+          "emitter": "BattleBulletEmitter"
+        }
+      }
+    ]
+  },
+  "skill_40610": {
+    "uiEffect": "",
+    "name": "",
+    "cd": 0,
+    "id": 40610,
+    "picture": "0",
+    "aniEffect": "",
+    "desc": "",
+    "effect_list": [
+      {
+        "type": "BattleSkillAddBuff",
+        "casterAniEffect": "",
+        "targetAniEffect": "",
+        "target_choise": [
+          "TargetAllHelp",
+          "TargetShipType"
+        ],
+        "arg_list": {
+          "buff_id": 40611,
+          "ship_type_list": [
+            1,
+            20,
+            21,
+            2,
+            23
+          ]
+        }
+      }
+    ]
+  },
+  "skill_40620": {
+    "uiEffect": "",
+    "name": "",
+    "cd": 0,
+    "id": 40620,
+    "picture": "0",
+    "aniEffect": "",
+    "desc": "",
+    "effect_list": [
+      {
+        "type": "BattleSkillAddBuff",
+        "casterAniEffect": "",
+        "targetAniEffect": "",
+        "target_choise": [
+          "TargetAllHelp",
+          "TargetShipType"
+        ],
+        "arg_list": {
+          "buff_id": 40621,
+          "ship_type_list": [
+            1,
+            20,
+            21,
+            2,
+            23
+          ]
+        }
+      }
+    ]
+  },
+  "skill_40630": {
+    "uiEffect": "",
+    "name": "",
+    "cd": 0,
+    "id": 40630,
+    "picture": "0",
+    "aniEffect": "",
+    "desc": "",
+    "effect_list": [
+      {
+        "type": "BattleSkillAddBuff",
+        "casterAniEffect": "",
+        "targetAniEffect": "",
+        "target_choise": [
+          "TargetAllHelp",
+          "TargetPlayerVanguardFleet"
+        ],
+        "arg_list": {
+          "buff_id": 40631
+        }
+      }
+    ]
+  },
+  "skill_40640": {
+    "uiEffect": "",
+    "name": "指挥喵触发特殊弹幕",
+    "cd": 0,
+    "painting": 1,
+    "id": 40640,
+    "picture": "0",
+    "desc": "",
+    "aniEffect": {
+      "effect": "jineng",
+      "offset": [
+        0,
+        -2,
+        0
+      ]
+    },
+    "effect_list": [
+      {
+        "type": "BattleSkillFire",
+        "casterAniEffect": "",
+        "target_choise": "TargetHarmNearest",
+        "targetAniEffect": "",
+        "arg_list": {
+          "weapon_id": 180030
+        }
+      }
+    ]
+  },
+  "skill_40650": {
+    "uiEffect": "",
+    "name": "",
+    "cd": 0,
+    "id": 40650,
+    "picture": "0",
+    "aniEffect": "",
+    "desc": "",
+    "effect_list": [
+      {
+        "type": "BattleSkillAddBuff",
+        "casterAniEffect": "",
+        "targetAniEffect": "",
+        "target_choise": [
+          "TargetAllHelp",
+          "TargetPlayerVanguardFleet"
+        ],
+        "arg_list": {
+          "buff_id": 40651
+        }
+      }
+    ]
+  },
+  "skill_40660": {
+    "uiEffect": "",
+    "name": "",
+    "cd": 0,
+    "id": 40660,
+    "picture": "0",
+    "aniEffect": "",
+    "desc": "",
+    "effect_list": [
+      {
+        "type": "BattleSkillAddBuff",
+        "casterAniEffect": "",
+        "targetAniEffect": "",
+        "target_choise": [
+          "TargetAllHelp",
+          "TargetShipType"
+        ],
+        "arg_list": {
+          "buff_id": 40661,
+          "ship_type_list": [
+            22,
+            23,
+            24
+          ]
+        }
+      }
+    ]
   }
 }
