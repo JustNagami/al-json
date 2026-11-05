@@ -6403,7 +6403,8 @@
     "drop_after_use": 0,
     "filter": [
       10113,
-      10127
+      10127,
+      20000
     ],
     "group_max": 0,
     "have_max": 0,
@@ -6438,7 +6439,8 @@
     "drop_after_use": 0,
     "filter": [
       10113,
-      10127
+      10127,
+      20000
     ],
     "group_max": 0,
     "have_max": 0,
@@ -6543,7 +6545,8 @@
     "drop_after_use": 0,
     "filter": [
       10113,
-      10128
+      10128,
+      20000
     ],
     "group_max": 0,
     "have_max": 0,
@@ -6578,7 +6581,8 @@
     "drop_after_use": 0,
     "filter": [
       10113,
-      10128
+      10128,
+      20000
     ],
     "group_max": 0,
     "have_max": 0,
@@ -6887,7 +6891,8 @@
     "drop_after_use": 0,
     "filter": [
       10113,
-      10128
+      10128,
+      20000
     ],
     "group_max": 0,
     "have_max": 0,
@@ -6922,7 +6927,8 @@
     "drop_after_use": 0,
     "filter": [
       10113,
-      10128
+      10128,
+      20000
     ],
     "group_max": 0,
     "have_max": 0,
@@ -6957,7 +6963,8 @@
     "drop_after_use": 0,
     "filter": [
       10113,
-      10127
+      10127,
+      20000
     ],
     "group_max": 0,
     "have_max": 0,
@@ -6992,7 +6999,8 @@
     "drop_after_use": 0,
     "filter": [
       10113,
-      10127
+      10127,
+      20000
     ],
     "group_max": 0,
     "have_max": 0,
@@ -7560,6 +7568,488 @@
     "price": 1,
     "pt_num": 130,
     "rarity": 2,
+    "resource_type": 1,
+    "sub_attribute": [],
+    "tech_id": 0,
+    "type": 1,
+    "usage": "usage_undefined",
+    "usage_arg": "[]"
+  },
+  "4043": {
+    "convert": 1,
+    "desc": "雪にも負けずに咲く梅の花。上品な色とほのかな香りは冬一番の景色",
+    "drop_after_use": 0,
+    "filter": [
+      10111
+    ],
+    "group_max": 0,
+    "have_max": 0,
+    "icon": "IslandProps/item_4043",
+    "icon_normal": "",
+    "id": 4043,
+    "jump_page": [
+      [
+        "冬の特産依頼-マップ採集",
+        []
+      ]
+    ],
+    "manage_influence": 0,
+    "name": "梅の花",
+    "order_price": 1,
+    "price": 1,
+    "pt_num": 72,
+    "rarity": 3,
+    "resource_type": 1,
+    "sub_attribute": [],
+    "tech_id": 0,
+    "type": 1,
+    "usage": "usage_undefined",
+    "usage_arg": "[]"
+  },
+  "4044": {
+    "convert": 1,
+    "desc": "白く清らかなスイセンの花。すらりとした姿から、やさしく雅なる冬の香りが漂う",
+    "drop_after_use": 0,
+    "filter": [
+      10111
+    ],
+    "group_max": 0,
+    "have_max": 0,
+    "icon": "IslandProps/item_4044",
+    "icon_normal": "",
+    "id": 4044,
+    "jump_page": [
+      [
+        "冬の特産依頼-マップ採集",
+        []
+      ]
+    ],
+    "manage_influence": 0,
+    "name": "スイセン",
+    "order_price": 1,
+    "price": 1,
+    "pt_num": 1,
+    "rarity": 1,
+    "resource_type": 1,
+    "sub_attribute": [],
+    "tech_id": 0,
+    "type": 1,
+    "usage": "usage_undefined",
+    "usage_arg": "[]"
+  },
+  "4045": {
+    "convert": 1,
+    "desc": "肉厚で旨みたっぷりの冬シイタケ。香りが豊かで、スープや料理にぴったりの食材",
+    "drop_after_use": 0,
+    "filter": [
+      10111
+    ],
+    "group_max": 0,
+    "have_max": 0,
+    "icon": "IslandProps/item_4045",
+    "icon_normal": "",
+    "id": 4045,
+    "jump_page": [
+      [
+        "冬の特産依頼-マップ採集",
+        []
+      ]
+    ],
+    "manage_influence": 0,
+    "name": "冬シイタケ",
+    "order_price": 1,
+    "price": 1,
+    "pt_num": 36,
+    "rarity": 2,
+    "resource_type": 1,
+    "sub_attribute": [],
+    "tech_id": 0,
+    "type": 1,
+    "usage": "usage_undefined",
+    "usage_arg": "[]"
+  },
+  "4046": {
+    "convert": 1,
+    "desc": "ジューシーでシャキッと甘いクワイ。冬ならではの爽やかな味わい",
+    "drop_after_use": 0,
+    "filter": [
+      10111
+    ],
+    "group_max": 0,
+    "have_max": 0,
+    "icon": "IslandProps/item_4046",
+    "icon_normal": "",
+    "id": 4046,
+    "jump_page": [
+      [
+        "冬の特産依頼-マップ採集",
+        []
+      ]
+    ],
+    "manage_influence": 0,
+    "name": "クワイ",
+    "order_price": 1,
+    "price": 1,
+    "pt_num": 25,
+    "rarity": 2,
+    "resource_type": 1,
+    "sub_attribute": [],
+    "tech_id": 0,
+    "type": 1,
+    "usage": "usage_undefined",
+    "usage_arg": "[]"
+  },
+  "4047": {
+    "convert": 1,
+    "desc": "黄金色に輝く砂糖みかん。果肉はみずみずしく、皮をむけば甘い香りがいっぱいに広がる",
+    "drop_after_use": 0,
+    "filter": [
+      10111,
+      10125
+    ],
+    "group_max": 0,
+    "have_max": 0,
+    "icon": "IslandProps/item_4047",
+    "icon_normal": "",
+    "id": 4047,
+    "jump_page": [
+      [
+        "冬の特産依頼-薫る果樹園",
+        []
+      ]
+    ],
+    "manage_influence": 0,
+    "name": "砂糖みかん",
+    "order_price": 1,
+    "price": 1,
+    "pt_num": 8,
+    "rarity": 2,
+    "resource_type": 1,
+    "sub_attribute": [],
+    "tech_id": 0,
+    "type": 1,
+    "usage": "usage_undefined",
+    "usage_arg": "[]"
+  },
+  "4048": {
+    "convert": 1,
+    "desc": "砂糖みかんの種。土に埋めれば、甘い実りへの期待がそっと生まれる",
+    "drop_after_use": 0,
+    "filter": [
+      10114
+    ],
+    "group_max": 0,
+    "have_max": 0,
+    "icon": "IslandProps/item_4048",
+    "icon_normal": "",
+    "id": 4048,
+    "jump_page": [
+      [
+        "冬の特産依頼-ショップ購入",
+        [
+          "IslandShopPage",
+          [
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          [
+            10025
+          ]
+        ]
+      ]
+    ],
+    "manage_influence": 0,
+    "name": "砂糖みかんの種",
+    "order_price": 1,
+    "price": 1,
+    "pt_num": 1,
+    "rarity": 1,
+    "resource_type": 1,
+    "sub_attribute": [],
+    "tech_id": 0,
+    "type": 1,
+    "usage": "usage_undefined",
+    "usage_arg": "[]"
+  },
+  "4049": {
+    "convert": 1,
+    "desc": "青々と実ったナツメ。食感がシャキッと甘く、冬にうれしい旬の果物",
+    "drop_after_use": 0,
+    "filter": [
+      10111,
+      10125
+    ],
+    "group_max": 0,
+    "have_max": 0,
+    "icon": "IslandProps/item_4049",
+    "icon_normal": "",
+    "id": 4049,
+    "jump_page": [
+      [
+        "冬の特産依頼-薫る果樹園",
+        []
+      ]
+    ],
+    "manage_influence": 0,
+    "name": "青ナツメ",
+    "order_price": 1,
+    "price": 1,
+    "pt_num": 2,
+    "rarity": 2,
+    "resource_type": 1,
+    "sub_attribute": [],
+    "tech_id": 0,
+    "type": 1,
+    "usage": "usage_undefined",
+    "usage_arg": "[]"
+  },
+  "4050": {
+    "convert": 1,
+    "desc": "青ナツメの種。小さな一粒に生命力が詰まっていて、甘くシャキッとした実が育つ",
+    "drop_after_use": 0,
+    "filter": [
+      10114
+    ],
+    "group_max": 0,
+    "have_max": 0,
+    "icon": "IslandProps/item_4050",
+    "icon_normal": "",
+    "id": 4050,
+    "jump_page": [
+      [
+        "冬の特産依頼-ショップ購入",
+        [
+          "IslandShopPage",
+          [
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          [
+            10025
+          ]
+        ]
+      ]
+    ],
+    "manage_influence": 0,
+    "name": "青ナツメの種",
+    "order_price": 1,
+    "price": 1,
+    "pt_num": 1,
+    "rarity": 1,
+    "resource_type": 1,
+    "sub_attribute": [],
+    "tech_id": 0,
+    "type": 1,
+    "usage": "usage_undefined",
+    "usage_arg": "[]"
+  },
+  "4051": {
+    "convert": 1,
+    "desc": "冬シイタケと鶏肉をじっくり煮込んだ、香り豊かな一品。湯気が立ちのぼり、心も温まる",
+    "drop_after_use": 0,
+    "filter": [
+      10113,
+      10127,
+      20000
+    ],
+    "group_max": 0,
+    "have_max": 0,
+    "icon": "IslandProps/item_4051",
+    "icon_normal": "",
+    "id": 4051,
+    "jump_page": [
+      [
+        "冬の特産依頼-有魚飯店",
+        []
+      ]
+    ],
+    "manage_influence": 250,
+    "name": "冬シイタケと鶏の煮込み",
+    "order_price": 1,
+    "price": 1,
+    "pt_num": 80,
+    "rarity": 2,
+    "resource_type": 1,
+    "sub_attribute": [
+      3,
+      35
+    ],
+    "tech_id": 0,
+    "type": 1,
+    "usage": "usage_undefined",
+    "usage_arg": "[]"
+  },
+  "4052": {
+    "convert": 1,
+    "desc": "とろりと甘い青ナツメのお粥。お米と果実の香りがやさしく溶け合い、まろやかな口当たり",
+    "drop_after_use": 0,
+    "filter": [
+      10113,
+      10127,
+      20000
+    ],
+    "group_max": 0,
+    "have_max": 0,
+    "icon": "IslandProps/item_4052",
+    "icon_normal": "",
+    "id": 4052,
+    "jump_page": [
+      [
+        "冬の特産依頼-有魚飯店",
+        []
+      ]
+    ],
+    "manage_influence": 250,
+    "name": "青ナツメ入り粥",
+    "order_price": 1,
+    "price": 1,
+    "pt_num": 12,
+    "rarity": 2,
+    "resource_type": 1,
+    "sub_attribute": [
+      1,
+      35
+    ],
+    "tech_id": 0,
+    "type": 1,
+    "usage": "usage_undefined",
+    "usage_arg": "[]"
+  },
+  "4053": {
+    "convert": 1,
+    "desc": "透き通ったぷるぷるの馬蹄糕（マーティーガオ）。クワイのシャキッとした食感が楽しめる、風味豊かな伝統菓子",
+    "drop_after_use": 0,
+    "filter": [
+      10113,
+      10129,
+      20000
+    ],
+    "group_max": 0,
+    "have_max": 0,
+    "icon": "IslandProps/item_4053",
+    "icon_normal": "",
+    "id": 4053,
+    "jump_page": [
+      [
+        "冬の特産依頼-饅頭軽食",
+        []
+      ]
+    ],
+    "manage_influence": 250,
+    "name": "クワイケーキ",
+    "order_price": 1,
+    "price": 1,
+    "pt_num": 60,
+    "rarity": 2,
+    "resource_type": 1,
+    "sub_attribute": [
+      2,
+      35
+    ],
+    "tech_id": 0,
+    "type": 1,
+    "usage": "usage_undefined",
+    "usage_arg": "[]"
+  },
+  "4054": {
+    "convert": 1,
+    "desc": "もちもちの砂糖みかん大福。甘い果肉を丸ごと包んでいて、ひと口かじれば驚きの味がする",
+    "drop_after_use": 0,
+    "filter": [
+      10113,
+      10129,
+      20000
+    ],
+    "group_max": 0,
+    "have_max": 0,
+    "icon": "IslandProps/item_4054",
+    "icon_normal": "",
+    "id": 4054,
+    "jump_page": [
+      [
+        "冬の特産依頼-饅頭軽食",
+        []
+      ]
+    ],
+    "manage_influence": 250,
+    "name": "砂糖みかん大福",
+    "order_price": 1,
+    "price": 1,
+    "pt_num": 38,
+    "rarity": 3,
+    "resource_type": 1,
+    "sub_attribute": [
+      6,
+      35
+    ],
+    "tech_id": 0,
+    "type": 1,
+    "usage": "usage_undefined",
+    "usage_arg": "[]"
+  },
+  "4055": {
+    "convert": 1,
+    "desc": "梅の花をあしらった小さな香り袋。ほのかな香りがいつもそばにあって、冬の雅をひとつ添える",
+    "drop_after_use": 0,
+    "filter": [
+      10113,
+      10131
+    ],
+    "group_max": 0,
+    "have_max": 0,
+    "icon": "IslandProps/item_4055",
+    "icon_normal": "",
+    "id": 4055,
+    "jump_page": [
+      [
+        "冬の特産依頼-手工製作設備",
+        []
+      ]
+    ],
+    "manage_influence": 0,
+    "name": "梅の香り袋",
+    "order_price": 1,
+    "price": 1,
+    "pt_num": 270,
+    "rarity": 4,
+    "resource_type": 1,
+    "sub_attribute": [],
+    "tech_id": 0,
+    "type": 1,
+    "usage": "usage_undefined",
+    "usage_arg": "[]"
+  },
+  "4056": {
+    "convert": 1,
+    "desc": "清らかで明るい色合いの花束。梅とスイセンの組み合わせが冬の優しさをもたらす",
+    "drop_after_use": 0,
+    "filter": [
+      10113,
+      10131
+    ],
+    "group_max": 0,
+    "have_max": 0,
+    "icon": "IslandProps/item_4056",
+    "icon_normal": "",
+    "id": 4056,
+    "jump_page": [
+      [
+        "冬の特産依頼-手工製作設備",
+        []
+      ]
+    ],
+    "manage_influence": 0,
+    "name": "冬の花束",
+    "order_price": 1,
+    "price": 1,
+    "pt_num": 156,
+    "rarity": 3,
     "resource_type": 1,
     "sub_attribute": [],
     "tech_id": 0,
@@ -10249,6 +10739,161 @@
     "usage": "usage_undefined",
     "usage_arg": "[]"
   },
+  "200035": {
+    "convert": 0,
+    "desc": "オグネヴォイの離島権限認証。離島権限認証装置を使用すると、キャラに離島開発エリアの出入り権限を付与できる",
+    "drop_after_use": 0,
+    "filter": [
+      10213
+    ],
+    "group_max": 0,
+    "have_max": 0,
+    "icon": "IslandProps/item_200035",
+    "icon_normal": "",
+    "id": 200035,
+    "jump_page": [
+      [
+        "ショップ",
+        []
+      ]
+    ],
+    "manage_influence": 0,
+    "name": "オグネヴォイ-離島権限認証",
+    "order_price": 0,
+    "price": 0,
+    "pt_num": 0,
+    "rarity": 4,
+    "resource_type": 0,
+    "sub_attribute": [],
+    "tech_id": 0,
+    "type": 2,
+    "usage": "usage_undefined",
+    "usage_arg": "[]"
+  },
+  "200036": {
+    "convert": 0,
+    "desc": "エーギルの離島権限認証。離島権限認証装置を使用すると、キャラに離島開発エリアの出入り権限を付与できる",
+    "drop_after_use": 0,
+    "filter": [
+      10213
+    ],
+    "group_max": 0,
+    "have_max": 0,
+    "icon": "IslandProps/item_200036",
+    "icon_normal": "",
+    "id": 200036,
+    "jump_page": [
+      [
+        "星彩賞",
+        []
+      ]
+    ],
+    "manage_influence": 0,
+    "name": "エーギル-離島権限認証",
+    "order_price": 0,
+    "price": 0,
+    "pt_num": 0,
+    "rarity": 4,
+    "resource_type": 0,
+    "sub_attribute": [],
+    "tech_id": 0,
+    "type": 2,
+    "usage": "usage_undefined",
+    "usage_arg": "[]"
+  },
+  "200037": {
+    "convert": 0,
+    "desc": "アーガスの離島権限認証。離島権限認証装置を使用すると、キャラに離島開発エリアの出入り権限を付与できる",
+    "drop_after_use": 0,
+    "filter": [
+      10213
+    ],
+    "group_max": 0,
+    "have_max": 0,
+    "icon": "IslandProps/item_200037",
+    "icon_normal": "",
+    "id": 200037,
+    "jump_page": [
+      [
+        "星彩賞",
+        []
+      ]
+    ],
+    "manage_influence": 0,
+    "name": "アーガス-離島権限認証",
+    "order_price": 0,
+    "price": 0,
+    "pt_num": 0,
+    "rarity": 4,
+    "resource_type": 0,
+    "sub_attribute": [],
+    "tech_id": 0,
+    "type": 2,
+    "usage": "usage_undefined",
+    "usage_arg": "[]"
+  },
+  "200038": {
+    "convert": 0,
+    "desc": "長門の離島権限認証。離島権限認証装置を使用すると、キャラに離島開発エリアの出入り権限を付与できる",
+    "drop_after_use": 0,
+    "filter": [
+      10213
+    ],
+    "group_max": 0,
+    "have_max": 0,
+    "icon": "IslandProps/item_200038",
+    "icon_normal": "",
+    "id": 200038,
+    "jump_page": [
+      [
+        "星彩賞",
+        []
+      ]
+    ],
+    "manage_influence": 0,
+    "name": "長門-離島権限認証",
+    "order_price": 0,
+    "price": 0,
+    "pt_num": 0,
+    "rarity": 4,
+    "resource_type": 0,
+    "sub_attribute": [],
+    "tech_id": 0,
+    "type": 2,
+    "usage": "usage_undefined",
+    "usage_arg": "[]"
+  },
+  "200039": {
+    "convert": 0,
+    "desc": "華甲の離島権限認証。離島権限認証装置を使用すると、キャラに離島開発エリアの出入り権限を付与できる",
+    "drop_after_use": 0,
+    "filter": [
+      10213
+    ],
+    "group_max": 0,
+    "have_max": 0,
+    "icon": "IslandProps/item_200039",
+    "icon_normal": "",
+    "id": 200039,
+    "jump_page": [
+      [
+        "開発ショップ",
+        []
+      ]
+    ],
+    "manage_influence": 0,
+    "name": "華甲-離島権限認証",
+    "order_price": 0,
+    "price": 0,
+    "pt_num": 0,
+    "rarity": 4,
+    "resource_type": 0,
+    "sub_attribute": [],
+    "tech_id": 0,
+    "type": 2,
+    "usage": "usage_undefined",
+    "usage_arg": "[]"
+  },
   "300001": {
     "convert": 0,
     "desc": "入手後、豊穣の畑配置作業効率が4%アップ",
@@ -10638,6 +11283,20 @@
     4040,
     4041,
     4042,
+    4043,
+    4044,
+    4045,
+    4046,
+    4047,
+    4048,
+    4049,
+    4050,
+    4051,
+    4052,
+    4053,
+    4054,
+    4055,
+    4056,
     5001,
     5002,
     5003,
@@ -10720,6 +11379,11 @@
     200032,
     200033,
     200034,
+    200035,
+    200036,
+    200037,
+    200038,
+    200039,
     300001,
     300002,
     300003,
@@ -10927,6 +11591,20 @@
       4040,
       4041,
       4042,
+      4043,
+      4044,
+      4045,
+      4046,
+      4047,
+      4048,
+      4049,
+      4050,
+      4051,
+      4052,
+      4053,
+      4054,
+      4055,
+      4056,
       5001,
       5002,
       5003,
@@ -11010,6 +11688,11 @@
       200032,
       200033,
       200034,
+      200035,
+      200036,
+      200037,
+      200038,
+      200039,
       300001,
       300002,
       300003,
@@ -11267,6 +11950,20 @@
       4040,
       4041,
       4042,
+      4043,
+      4044,
+      4045,
+      4046,
+      4047,
+      4048,
+      4049,
+      4050,
+      4051,
+      4052,
+      4053,
+      4054,
+      4055,
+      4056,
       5001,
       5002,
       5003,
@@ -11343,6 +12040,11 @@
       200032,
       200033,
       200034,
+      200035,
+      200036,
+      200037,
+      200038,
+      200039,
       300001,
       300002,
       300003,
