@@ -601,6 +601,32 @@
     "tech_id": 0,
     "type": 7
   },
+  "104": {
+    "bt": "",
+    "capacityCost": 20,
+    "describe": "A crystal-clear flower of ice sits atop the trophy, its crystalline petals reflecting the gentle snowfall. It captures both the coolness and tranquility of the winter.",
+    "hierarchy": 5,
+    "icon": "furniture_104",
+    "id": 104,
+    "interact_point": "",
+    "jump_page": [
+      [
+        "Winter Specialties",
+        []
+      ]
+    ],
+    "model": "island/item/05/50005/prefab/pre_item_05_50005",
+    "name": "Winter Development Trophy",
+    "prosperity": 0,
+    "rarity": 4,
+    "setNum": 1,
+    "size": [
+      2,
+      2
+    ],
+    "tech_id": 0,
+    "type": 7
+  },
   "10101": {
     "bt": "",
     "capacityCost": 0,
@@ -4692,6 +4718,795 @@
     "tech_id": 0,
     "type": 8
   },
+  "50350": {
+    "bt": "",
+    "capacityCost": 0,
+    "describe": "A great hall adorned with panda motifs and bamboo grove decorations. A particularly eye-catching rest spot on the island.",
+    "hierarchy": 5,
+    "icon": "furniture_50350",
+    "id": 50350,
+    "interact_point": "",
+    "jump_page": [
+      [
+        "Stellar Prize Draw",
+        []
+      ]
+    ],
+    "model": "island/item/05/50350/prefab/pre_item_05_50350",
+    "name": "Panda Bamboo Hall",
+    "prosperity": 0,
+    "rarity": 4,
+    "setNum": 1,
+    "size": [
+      22,
+      19
+    ],
+    "tech_id": 0,
+    "type": 1
+  },
+  "50351": {
+    "bt": "",
+    "capacityCost": 0,
+    "describe": "A platform designed for martial arts demonstrations, adorned with a panda pawprint and bamboo parasols. Perfect for casual sparring.",
+    "hierarchy": 5,
+    "icon": "furniture_50351",
+    "id": 50351,
+    "interact_point": [
+      29
+    ],
+    "jump_page": [
+      [
+        "Stellar Prize Draw",
+        []
+      ]
+    ],
+    "model": "island/item/05/50351/prefab/pre_item_05_50351",
+    "name": "Panda Kung-Fu Stage",
+    "prosperity": 0,
+    "rarity": 4,
+    "setNum": 1,
+    "size": [
+      13,
+      13
+    ],
+    "tech_id": 0,
+    "type": 2
+  },
+  "50352": {
+    "bt": "",
+    "capacityCost": 20,
+    "describe": "A guqin stand with a panda cushion. Place your instrument onto it and strum at the strings leisurely – perhaps a fluffy melody will be born?",
+    "hierarchy": 5,
+    "icon": "furniture_50352",
+    "id": 50352,
+    "interact_point": [
+      30
+    ],
+    "jump_page": [
+      [
+        "Stellar Prize Draw",
+        []
+      ]
+    ],
+    "model": "island/item/05/50352/prefab/pre_item_05_50352",
+    "name": "Panda Guqin Stand",
+    "prosperity": 0,
+    "rarity": 2,
+    "setNum": 999,
+    "size": [
+      3,
+      3
+    ],
+    "tech_id": 0,
+    "type": 3
+  },
+  "50353": {
+    "bt": "",
+    "capacityCost": 20,
+    "describe": "A practice dummy featuring panda motifs. A great way to warm up before sparring, but also good for testing new techniques.",
+    "hierarchy": 5,
+    "icon": "furniture_50353",
+    "id": 50353,
+    "interact_point": "",
+    "jump_page": [
+      [
+        "Stellar Prize Draw",
+        []
+      ]
+    ],
+    "model": "island/item/05/50353/prefab/pre_item_05_50353",
+    "name": "Kung-Fu Practice Dummy",
+    "prosperity": 0,
+    "rarity": 2,
+    "setNum": 999,
+    "size": [
+      1,
+      1
+    ],
+    "tech_id": 0,
+    "type": 4
+  },
+  "50354": {
+    "bt": "",
+    "capacityCost": 20,
+    "describe": "The soft lighting from this old-fashioned stone lantern adds a tranquil vibe to the garden.",
+    "hierarchy": 5,
+    "icon": "furniture_50354",
+    "id": 50354,
+    "interact_point": "",
+    "jump_page": [
+      [
+        "Stellar Prize Draw",
+        []
+      ]
+    ],
+    "model": "island/item/05/50354/prefab/pre_item_05_50354",
+    "name": "Green Stone Lantern",
+    "prosperity": 0,
+    "rarity": 2,
+    "setNum": 999,
+    "size": [
+      1,
+      1
+    ],
+    "tech_id": 0,
+    "type": 3
+  },
+  "50355": {
+    "bt": "",
+    "capacityCost": 60,
+    "describe": "An arena of bamboo poles of varying heights. Great for training your footwork, balance, and reaction speed.",
+    "hierarchy": 5,
+    "icon": "furniture_50355",
+    "id": 50355,
+    "interact_point": [
+      31,
+      32
+    ],
+    "jump_page": [
+      [
+        "Stellar Prize Draw",
+        []
+      ]
+    ],
+    "model": "island/item/05/50370/prefab/pre_item_05_50370",
+    "name": "Bamboo Pillars of Cultivation",
+    "prosperity": 0,
+    "rarity": 3,
+    "setNum": 999,
+    "size": [
+      7,
+      7
+    ],
+    "tech_id": 0,
+    "type": 3
+  },
+  "50356": {
+    "bt": "",
+    "capacityCost": 40,
+    "describe": "A rotund and adorable lion statue. Imposing and dignified, yet also goofy enough to be approachable.",
+    "hierarchy": 5,
+    "icon": "furniture_50356",
+    "id": 50356,
+    "interact_point": "",
+    "jump_page": [
+      [
+        "Stellar Prize Draw",
+        []
+      ]
+    ],
+    "model": "island/item/05/50367/prefab/pre_item_05_50367",
+    "name": "Fortune-Bringing Stone Lion",
+    "prosperity": 0,
+    "rarity": 3,
+    "setNum": 999,
+    "size": [
+      2,
+      2
+    ],
+    "tech_id": 0,
+    "type": 4
+  },
+  "50357": {
+    "bt": "",
+    "capacityCost": 60,
+    "describe": "A main gate for welcoming visitors, adorned with panda pawprints and bamboo leaf designs. Makes you feel right at home.",
+    "hierarchy": 5,
+    "icon": "furniture_50357",
+    "id": 50357,
+    "interact_point": "",
+    "jump_page": [
+      [
+        "Stellar Prize Draw",
+        []
+      ]
+    ],
+    "model": "island/item/05/50368/prefab/pre_item_05_50368",
+    "name": "Panda Main Gate",
+    "prosperity": 0,
+    "rarity": 2,
+    "setNum": 999,
+    "size": [
+      5,
+      1
+    ],
+    "tech_id": 0,
+    "type": 4
+  },
+  "50358": {
+    "bt": "",
+    "capacityCost": 40,
+    "describe": "A small landscape featuring flowering branches, a hanging scroll, and a shallow pond. Its refreshing and charming atmosphere is eye-catching indeed.",
+    "hierarchy": 5,
+    "icon": "furniture_50358",
+    "id": 50358,
+    "interact_point": "",
+    "jump_page": [
+      [
+        "Stellar Prize Draw",
+        []
+      ]
+    ],
+    "model": "island/item/05/50369/prefab/pre_item_05_50369",
+    "name": "Scenic Floral Pond",
+    "prosperity": 0,
+    "rarity": 2,
+    "setNum": 999,
+    "size": [
+      4,
+      5
+    ],
+    "tech_id": 0,
+    "type": 4
+  },
+  "50359": {
+    "bt": "",
+    "capacityCost": 60,
+    "describe": "Smoke rises from this cute-looking alchemy crucible. Wonder what's cooking inside?",
+    "hierarchy": 5,
+    "icon": "furniture_50359",
+    "id": 50359,
+    "interact_point": [
+      33
+    ],
+    "jump_page": [
+      [
+        "Stellar Prize Draw",
+        []
+      ]
+    ],
+    "model": "island/item/05/50371/prefab/pre_item_05_50371",
+    "name": "Cyan Alchemy Crucible",
+    "prosperity": 0,
+    "rarity": 3,
+    "setNum": 999,
+    "size": [
+      9,
+      9
+    ],
+    "tech_id": 0,
+    "type": 4
+  },
+  "50360": {
+    "bt": "",
+    "capacityCost": 20,
+    "describe": "Perfectly-round panda statues. Their relaxed postures are very adorable.",
+    "hierarchy": 5,
+    "icon": "furniture_50360",
+    "id": 50360,
+    "interact_point": "",
+    "jump_page": [
+      [
+        "Stellar Prize Draw",
+        []
+      ]
+    ],
+    "model": "island/item/05/50372/prefab/pre_item_05_50372",
+    "name": "Plump Panda Statues",
+    "prosperity": 0,
+    "rarity": 2,
+    "setNum": 999,
+    "size": [
+      3,
+      1
+    ],
+    "tech_id": 0,
+    "type": 4
+  },
+  "50361": {
+    "bt": "",
+    "capacityCost": 60,
+    "describe": "A folding screen depicting bamboo shadows. Can either be used as a partition or as an elegant backdrop.",
+    "hierarchy": 5,
+    "icon": "furniture_50361",
+    "id": 50361,
+    "interact_point": "",
+    "jump_page": [
+      [
+        "Stellar Prize Draw",
+        []
+      ]
+    ],
+    "model": "island/item/05/50373/prefab/pre_item_05_50373",
+    "name": "Bamboo-Shade Screen",
+    "prosperity": 0,
+    "rarity": 2,
+    "setNum": 999,
+    "size": [
+      3,
+      1
+    ],
+    "tech_id": 0,
+    "type": 3
+  },
+  "50362": {
+    "bt": "",
+    "capacityCost": 60,
+    "describe": "An undecided Go match that sits in the garden. Perfect for a casual match with friends during downtime.",
+    "hierarchy": 5,
+    "icon": "furniture_50362",
+    "id": 50362,
+    "interact_point": "",
+    "jump_page": [
+      [
+        "Stellar Prize Draw",
+        []
+      ]
+    ],
+    "model": "island/item/05/50375/prefab/pre_item_05_50375",
+    "name": "Undecided Game Board",
+    "prosperity": 0,
+    "rarity": 2,
+    "setNum": 999,
+    "size": [
+      8,
+      8
+    ],
+    "tech_id": 0,
+    "type": 4
+  },
+  "50364": {
+    "bt": "",
+    "capacityCost": 20,
+    "describe": "A banner adorned with a panda pawprint. It solemnly adorns martial arts demonstrations and event venues.",
+    "hierarchy": 5,
+    "icon": "furniture_50363",
+    "id": 50364,
+    "interact_point": "",
+    "jump_page": [
+      [
+        "Stellar Prize Draw",
+        []
+      ]
+    ],
+    "model": "island/item/05/50357/prefab/pre_item_05_50357",
+    "name": "Panda Flag",
+    "prosperity": 0,
+    "rarity": 2,
+    "setNum": 999,
+    "size": [
+      1,
+      1
+    ],
+    "tech_id": 0,
+    "type": 4
+  },
+  "50365": {
+    "bt": "",
+    "capacityCost": 60,
+    "describe": "A water jug with clear, vibrant colors. Its simple, practical shape evokes the warmth and comfort of everyday life.",
+    "hierarchy": 5,
+    "icon": "furniture_50365",
+    "id": 50365,
+    "interact_point": "",
+    "jump_page": [
+      [
+        "Stellar Prize Draw",
+        []
+      ]
+    ],
+    "model": "island/item/05/50355/prefab/pre_item_05_50355",
+    "name": "Celadon Water Jug",
+    "prosperity": 0,
+    "rarity": 2,
+    "setNum": 999,
+    "size": [
+      2,
+      2
+    ],
+    "tech_id": 0,
+    "type": 3
+  },
+  "50366": {
+    "bt": "",
+    "capacityCost": 60,
+    "describe": "A tiny panda frolicking in a washbasin. The sparkling water surface makes for a refreshing, adorable moment.",
+    "hierarchy": 5,
+    "icon": "furniture_50366",
+    "id": 50366,
+    "interact_point": "",
+    "jump_page": [
+      [
+        "Stellar Prize Draw",
+        []
+      ]
+    ],
+    "model": "island/item/05/50356/prefab/pre_item_05_50356",
+    "name": "Panda Washbasin",
+    "prosperity": 0,
+    "rarity": 2,
+    "setNum": 999,
+    "size": [
+      3,
+      2
+    ],
+    "tech_id": 0,
+    "type": 4
+  },
+  "50367": {
+    "bt": "",
+    "capacityCost": 20,
+    "describe": "A decorative piece shaped like green bamboo, adding a touch of natural greenery.",
+    "hierarchy": 5,
+    "icon": "furniture_50367",
+    "id": 50367,
+    "interact_point": "",
+    "jump_page": [
+      [
+        "Stellar Prize Draw",
+        []
+      ]
+    ],
+    "model": "island/item/05/50358/prefab/pre_item_05_50358",
+    "name": "Bamboo Sculpture",
+    "prosperity": 0,
+    "rarity": 2,
+    "setNum": 999,
+    "size": [
+      3,
+      1
+    ],
+    "tech_id": 0,
+    "type": 3
+  },
+  "50368": {
+    "bt": "",
+    "capacityCost": 20,
+    "describe": "A lamppost shaped like a panda. When the lights turn on, it looks like a warm, fluffy dumpling.",
+    "hierarchy": 5,
+    "icon": "furniture_50368",
+    "id": 50368,
+    "interact_point": "",
+    "jump_page": [
+      [
+        "Stellar Prize Draw",
+        []
+      ]
+    ],
+    "model": "island/item/05/50359/prefab/pre_item_05_50359",
+    "name": "Plump Panda Lamppost",
+    "prosperity": 0,
+    "rarity": 2,
+    "setNum": 999,
+    "size": [
+      1,
+      1
+    ],
+    "tech_id": 0,
+    "type": 4
+  },
+  "50369": {
+    "bt": "",
+    "capacityCost": 40,
+    "describe": "A panda wearing a straw hat and a cape. Despite his round figure, he somehow still exudes the aura of a chivalrous wanderer.",
+    "hierarchy": 5,
+    "icon": "furniture_50369",
+    "id": 50369,
+    "interact_point": "",
+    "jump_page": [
+      [
+        "Season V - Milestone Points",
+        []
+      ]
+    ],
+    "model": "island/item/05/50362/prefab/pre_item_05_50362",
+    "name": "Panda Vigilante",
+    "prosperity": 0,
+    "rarity": 2,
+    "setNum": 999,
+    "size": [
+      1,
+      1
+    ],
+    "tech_id": 0,
+    "type": 4
+  },
+  "50370": {
+    "bt": "",
+    "capacityCost": 20,
+    "describe": "An ornamental stone Chinese Chess piece. It has a substantial, weighty texture yet displays an air of playfulness.",
+    "hierarchy": 5,
+    "icon": "furniture_50370",
+    "id": 50370,
+    "interact_point": "",
+    "jump_page": [
+      [
+        "Stellar Prize Draw",
+        []
+      ]
+    ],
+    "model": "island/item/05/50360/prefab/pre_item_05_50360",
+    "name": "Stone Chess Piece",
+    "prosperity": 0,
+    "rarity": 2,
+    "setNum": 999,
+    "size": [
+      1,
+      1
+    ],
+    "tech_id": 0,
+    "type": 4
+  },
+  "50371": {
+    "bt": "",
+    "capacityCost": 20,
+    "describe": "A jug containing fine wine. As you approach, you can catch the faint scent of bamboo.",
+    "hierarchy": 5,
+    "icon": "furniture_50371",
+    "id": 50371,
+    "interact_point": "",
+    "jump_page": [
+      [
+        "Stellar Prize Draw",
+        []
+      ]
+    ],
+    "model": "island/item/05/50361/prefab/pre_item_05_50361",
+    "name": "Bamboo-scented Wine Jug",
+    "prosperity": 0,
+    "rarity": 2,
+    "setNum": 999,
+    "size": [
+      1,
+      1
+    ],
+    "tech_id": 0,
+    "type": 4
+  },
+  "50372": {
+    "bt": "",
+    "capacityCost": 20,
+    "describe": "Bamboo that remains lush and green all year round, bringing a quiet and natural atmosphere to your garden.",
+    "hierarchy": 5,
+    "icon": "furniture_50372",
+    "id": 50372,
+    "interact_point": "",
+    "jump_page": [
+      [
+        "Stellar Prize Draw",
+        []
+      ]
+    ],
+    "model": "island/item/05/50377/prefab/pre_item_05_50377",
+    "name": "Evergreen Bamboo",
+    "prosperity": 0,
+    "rarity": 2,
+    "setNum": 999,
+    "size": [
+      1,
+      1
+    ],
+    "tech_id": 0,
+    "type": 4
+  },
+  "50373": {
+    "bt": "",
+    "capacityCost": 20,
+    "describe": "A bamboo shoot that has just emerged from the ground. The panda's favorite food.",
+    "hierarchy": 5,
+    "icon": "furniture_50373",
+    "id": 50373,
+    "interact_point": "",
+    "jump_page": [
+      [
+        "Stellar Prize Draw",
+        []
+      ]
+    ],
+    "model": "island/item/05/50363/prefab/pre_item_05_50363",
+    "name": "Fresh Bamboo Shoot",
+    "prosperity": 0,
+    "rarity": 2,
+    "setNum": 999,
+    "size": [
+      1,
+      1
+    ],
+    "tech_id": 0,
+    "type": 4
+  },
+  "50374": {
+    "bt": "",
+    "capacityCost": 40,
+    "describe": "A fence made by tying stalks of bamboo together with string. Its refreshing colors add a natural touch to the landscape.",
+    "hierarchy": 5,
+    "icon": "furniture_50374",
+    "id": 50374,
+    "interact_point": "",
+    "jump_page": [
+      [
+        "Season V - Milestone Points",
+        []
+      ]
+    ],
+    "model": "island/item/05/50364/prefab/pre_item_05_50364",
+    "name": "Bamboo-Stump Fence",
+    "prosperity": 0,
+    "rarity": 2,
+    "setNum": 999,
+    "size": [
+      1,
+      1
+    ],
+    "tech_id": 0,
+    "type": 3
+  },
+  "50375": {
+    "bt": "",
+    "capacityCost": 20,
+    "describe": "A decorative stone lightly covered in moss. Looking at it is just so satisfying!",
+    "hierarchy": 5,
+    "icon": "furniture_50375",
+    "id": 50375,
+    "interact_point": "",
+    "jump_page": [
+      [
+        "Season V - Milestone Points",
+        []
+      ]
+    ],
+    "model": "island/item/05/50365/prefab/pre_item_05_50365",
+    "name": "Green Stone Sculpture",
+    "prosperity": 0,
+    "rarity": 2,
+    "setNum": 999,
+    "size": [
+      2,
+      2
+    ],
+    "tech_id": 0,
+    "type": 4
+  },
+  "50376": {
+    "bt": "",
+    "capacityCost": 20,
+    "describe": "An object made from several stones stacked asymmetrically. The patches of moss make it even more charming.",
+    "hierarchy": 5,
+    "icon": "furniture_50376",
+    "id": 50376,
+    "interact_point": "",
+    "jump_page": [
+      [
+        "Season V - Milestone Points",
+        []
+      ]
+    ],
+    "model": "island/item/05/50366/prefab/pre_item_05_50366",
+    "name": "Stacked Stone Sculpture",
+    "prosperity": 0,
+    "rarity": 2,
+    "setNum": 999,
+    "size": [
+      2,
+      1
+    ],
+    "tech_id": 0,
+    "type": 4
+  },
+  "50377": {
+    "bt": "",
+    "capacityCost": 60,
+    "describe": "A panda lying belly-up on the ground. Don't play the flute around this snoring, relaxing bear.",
+    "hierarchy": 5,
+    "icon": "furniture_50377",
+    "id": 50377,
+    "interact_point": "",
+    "jump_page": [
+      [
+        "Season V - Milestone Points",
+        []
+      ]
+    ],
+    "model": "island/item/05/50376/prefab/pre_item_05_50376",
+    "name": "Relaxing Panda",
+    "prosperity": 0,
+    "rarity": 2,
+    "setNum": 999,
+    "size": [
+      6,
+      4
+    ],
+    "tech_id": 0,
+    "type": 4
+  },
+  "50380": {
+    "bt": "",
+    "capacityCost": 0,
+    "describe": "A small tile made from finely-ground bamboo leaves. All the lushness of a tiny bamboo grove, right below your feet.",
+    "hierarchy": 6,
+    "icon": "furniture_50380",
+    "id": 50380,
+    "interact_point": "",
+    "jump_page": [
+      [
+        "Stellar Prize Draw",
+        []
+      ]
+    ],
+    "model": "island/item/05/50380/prefab/pre_item_05_50380",
+    "name": "Bamboo Grove Tile (Small)",
+    "prosperity": 0,
+    "rarity": 2,
+    "setNum": 999,
+    "size": [
+      2,
+      2
+    ],
+    "tech_id": 0,
+    "type": 8
+  },
+  "50381": {
+    "bt": "",
+    "capacityCost": 0,
+    "describe": "A medium tile made from finely-ground bamboo leaves. All the lushness of a tiny bamboo grove, right below your feet.",
+    "hierarchy": 6,
+    "icon": "furniture_50381",
+    "id": 50381,
+    "interact_point": "",
+    "jump_page": [
+      [
+        "Stellar Prize Draw",
+        []
+      ]
+    ],
+    "model": "island/item/05/50381/prefab/pre_item_05_50381",
+    "name": "Bamboo Grove Tile (Medium)",
+    "prosperity": 0,
+    "rarity": 2,
+    "setNum": 999,
+    "size": [
+      3,
+      3
+    ],
+    "tech_id": 0,
+    "type": 8
+  },
+  "50382": {
+    "bt": "",
+    "capacityCost": 0,
+    "describe": "A large tile made from finely-ground bamboo leaves. All the lushness of a tiny bamboo grove, right below your feet.",
+    "hierarchy": 6,
+    "icon": "furniture_50382",
+    "id": 50382,
+    "interact_point": "",
+    "jump_page": [
+      [
+        "Stellar Prize Draw",
+        []
+      ]
+    ],
+    "model": "island/item/05/50382/prefab/pre_item_05_50382",
+    "name": "Bamboo Grove Tile (Large)",
+    "prosperity": 0,
+    "rarity": 2,
+    "setNum": 999,
+    "size": [
+      5,
+      5
+    ],
+    "tech_id": 0,
+    "type": 8
+  },
   "all": [
     1,
     2,
@@ -4720,6 +5535,7 @@
     101,
     102,
     103,
+    104,
     10101,
     10201,
     10301,
@@ -4878,6 +5694,36 @@
     50325,
     50347,
     50348,
-    50349
+    50349,
+    50350,
+    50351,
+    50352,
+    50353,
+    50354,
+    50355,
+    50356,
+    50357,
+    50358,
+    50359,
+    50360,
+    50361,
+    50362,
+    50364,
+    50365,
+    50366,
+    50367,
+    50368,
+    50369,
+    50370,
+    50371,
+    50372,
+    50373,
+    50374,
+    50375,
+    50376,
+    50377,
+    50380,
+    50381,
+    50382
   ]
 }

@@ -416,12 +416,10 @@
   },
   "32": {
     "binding_path": [
-      "",
       "vfx_item_05_50306"
     ],
     "binding_track": [
-      1,
-      2
+      1
     ],
     "control_binding": [],
     "id": 32,
@@ -431,18 +429,89 @@
   },
   "33": {
     "binding_path": [
-      "",
       "fbx_item_05_50314"
     ],
     "binding_track": [
-      1,
-      2
+      1
     ],
     "control_binding": [],
     "id": 33,
     "is_loop": 1,
     "model": "Assets/Island/Item/05/50314/Prefab/pre_item_05_50314.prefab",
     "name": "island/timeline/04/interactive_50314/pla_interactive_50314_01"
+  },
+  "34": {
+    "binding_path": [
+      "fbx_item_05_50351",
+      "vfx_item_05_50351_1"
+    ],
+    "binding_track": [
+      1,
+      2
+    ],
+    "control_binding": [],
+    "id": 34,
+    "is_loop": 1,
+    "model": "Assets/Island/Item/05/50351/Prefab/pre_item_05_50351.prefab",
+    "name": "island/timeline/04/interactive_50351/pla_interactive_50351_01"
+  },
+  "35": {
+    "binding_path": [
+      "vfx_item_05_50352"
+    ],
+    "binding_track": [
+      1
+    ],
+    "control_binding": [],
+    "id": 35,
+    "is_loop": 1,
+    "model": "Assets/Island/Item/05/50352/Prefab/pre_item_05_50352.prefab",
+    "name": "island/timeline/04/interactive_50352/pla_interactive_50352_01"
+  },
+  "36": {
+    "binding_path": [
+      "fbx_item_05_50370",
+      "vfx_item_05_50370_1"
+    ],
+    "binding_track": [
+      1,
+      2
+    ],
+    "control_binding": [],
+    "id": 36,
+    "is_loop": 1,
+    "model": "Assets/Island/Item/05/50370/Prefab/pre_item_05_50370.prefab",
+    "name": "island/timeline/04/interactive_50370/pla_interactive_50370_01"
+  },
+  "37": {
+    "binding_path": [
+      "fbx_item_05_50370",
+      "vfx_item_05_50370_2"
+    ],
+    "binding_track": [
+      1,
+      2
+    ],
+    "control_binding": [],
+    "id": 37,
+    "is_loop": 1,
+    "model": "Assets/Island/Item/05/50370/Prefab/pre_item_05_50370.prefab",
+    "name": "island/timeline/04/interactive_50370/pla_interactive_50370_02"
+  },
+  "38": {
+    "binding_path": [
+      "fbx_item_05_50371",
+      "vfx_item_05_50371"
+    ],
+    "binding_track": [
+      1,
+      2
+    ],
+    "control_binding": [],
+    "id": 38,
+    "is_loop": 1,
+    "model": "Assets/Island/Item/05/50371/Prefab/pre_item_05_50371.prefab",
+    "name": "island/timeline/04/interactive_50371/pla_interactive_50371_01"
   },
   "all": [
     1,
@@ -477,6 +546,11 @@
     30,
     31,
     32,
-    33
+    33,
+    34,
+    35,
+    36,
+    37,
+    38
   ]
 }

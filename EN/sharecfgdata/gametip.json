@@ -4407,16 +4407,16 @@
     "tip": "Are you sure you want to upgrade? Building materials will be consumed."
   },
   "buildship_heavy_tip": {
-    "tip": "Queen Anne's Revenge added to standard build pool!"
+    "tip": "Clemenceau, Lyon, and Suffren added to standard build pool!"
   },
   "buildship_light_tip": {
-    "tip": "Lyme and Fancy added to standard build pool!"
+    "tip": "Guichen added to standard build pool!"
   },
   "buildship_new_tip": {
     "tip": "Get Azuchi guaranteed with every 200 event builds (can be done up to 4 times)!"
   },
   "buildship_special_tip": {
-    "tip": "Amity added to standard build pool!"
+    "tip": "Painlevé added to standard build pool!"
   },
   "buleprint_need_level_tip": {
     "tip": "The corresponding ship will be unlocked at Level $1."
@@ -7677,6 +7677,9 @@
   "discount_time": {
     "tip": "<color=grey>Time left on discount</color> <color=#92fc63>$1</color> "
   },
+  "display_ship_get_repeat": {
+    "tip": "Display acquisition animation for already-registered ships"
+  },
   "doa3_activityPageUI_1": {
     "tip": "Brilliant Memories"
   },
@@ -8875,6 +8878,9 @@
   },
   "enter_theme_name": {
     "tip": "Enter a name for your Dorm theme."
+  },
+  "entrance_maintain": {
+    "tip": "Under development..."
   },
   "equip_add": {
     "tip": "— Tap to select gear —"
@@ -15572,6 +15578,9 @@
   "island_friend_refuse_all": {
     "tip": "Refuse All"
   },
+  "island_furniture_interaction_tip1": {
+    "tip": "This furniture is currently in use by the island's owner. Please try again later."
+  },
   "island_game_limit_help": {
     "tip": "You'll gain $1 Adventure Pass(es) every day at midnight."
   },
@@ -17292,6 +17301,15 @@
   "island_spoperation_btn_2605_3": {
     "tip": "Event Manager"
   },
+  "island_spoperation_btn_2611_1": {
+    "tip": "Gather"
+  },
+  "island_spoperation_btn_2611_2": {
+    "tip": "Produce"
+  },
+  "island_spoperation_btn_2611_3": {
+    "tip": "Manage"
+  },
   "island_spoperation_item_2509_1": {
     "tip": "Autumn Chrysanthemum"
   },
@@ -17328,6 +17346,18 @@
   "island_spoperation_item_2605_4": {
     "tip": "Amaranth Greens"
   },
+  "island_spoperation_item_2611_1": {
+    "tip": "Plum Blossoms"
+  },
+  "island_spoperation_item_2611_2": {
+    "tip": "Daffodils"
+  },
+  "island_spoperation_item_2611_3": {
+    "tip": "Winter Shiitake"
+  },
+  "island_spoperation_item_2611_4": {
+    "tip": "Water Chestnut"
+  },
   "island_spoperation_level_2509_1": {
     "tip": "Requirement: Reach Island Dev. Level 1"
   },
@@ -17357,6 +17387,15 @@
   },
   "island_spoperation_tip_2605_3": {
     "tip": "During the event, you can produce corresponding specialty products at Newsprout Nursery, the Golden Koi Restaurant, the Polar Bear Teahouse, and the Base Factory."
+  },
+  "island_spoperation_tip_2611_1": {
+    "tip": "During the event, Peary will issue requests for specialty products. Complete these orders to earn rewards such as Season Points.\nNote: Specialty products do not count toward your request completion limit, and they do not affect your rating level."
+  },
+  "island_spoperation_tip_2611_2": {
+    "tip": "During the event, unique items will appear within specific areas. Search the areas and gather the items quickly!"
+  },
+  "island_spoperation_tip_2611_3": {
+    "tip": "During the event, you can produce corresponding specialty products at Sweetscent Orchard, the Golden Koi Restaurant, the Manjuu Eatery, and the Base Factory."
   },
   "island_sub_product_cnt": {
     "tip": "By-Products x $1"
@@ -22289,6 +22328,9 @@
   "onebutton_max_tip": {
     "tip": "Batch Analysis "
   },
+  "openGLerror_warning": {
+    "tip": "Your device is unable to use Vulkan rendering. Please turn on compatibility rendering mode in Settings.*You will need to restart the game after switching rendering modes. Continue?"
+  },
   "open_backyard_theme_template_tip": {
     "tip": "Furniture loadout templates are now available!"
   },
@@ -23628,6 +23670,48 @@
   },
   "resource_max_tip_storeroom": {
     "tip": "You have reached your resource capacity."
+  },
+  "resource_repair_check": {
+    "tip": "Verifying asset group $1 ($2): $3%"
+  },
+  "resource_repair_finish_tips": {
+    "tip": "Repair complete. Please restart the game."
+  },
+  "resource_repair_op1": {
+    "tip": "Basic Resources"
+  },
+  "resource_repair_op2": {
+    "tip": "L2D"
+  },
+  "resource_repair_op3": {
+    "tip": "Character Illustrations"
+  },
+  "resource_repair_op4": {
+    "tip": "Secrets"
+  },
+  "resource_repair_op5": {
+    "tip": "Voice Lines"
+  },
+  "resource_repair_report1": {
+    "tip": "No abnormalities detected: $1"
+  },
+  "resource_repair_report2": {
+    "tip": "Successfully repaired: $1"
+  },
+  "resource_repair_report3": {
+    "tip": "Unable to repair: $1"
+  },
+  "resource_repair_tips1": {
+    "tip": "Please tap \"Confirm\" to begin repairing assets.*This process may take some time."
+  },
+  "resource_repair_tips2": {
+    "tip": "<color=#c5cfdf>Please wait while assets are being repaired. You are unable to take any other actions at this time.</color>"
+  },
+  "resource_repair_tips3": {
+    "tip": "Please select at least 1 asset category you would like to repair."
+  },
+  "resource_repairing": {
+    "tip": "Repairing asset group $1 ($2): $3%"
   },
   "resource_verify_fail": {
     "tip": "Game resource restoration complete. Restart the game and begin updating. Tap confirm to close the game. $1"
@@ -26076,6 +26160,9 @@
   "shop_new_bgm": {
     "tip": "BGM"
   },
+  "shop_new_cannot_use_coupon": {
+    "tip": "Unable to use voucher; this item is already discounted."
+  },
   "shop_new_category": {
     "tip": "Shiptype"
   },
@@ -26084,6 +26171,15 @@
   },
   "shop_new_confirm": {
     "tip": "Confirm"
+  },
+  "shop_new_coupon_tip1": {
+    "tip": "\nSelected Skin:\n"
+  },
+  "shop_new_coupon_tip2": {
+    "tip": "$1's Skin, $2\n"
+  },
+  "shop_new_coupon_tip3": {
+    "tip": "Upon claiming this voucher, it will be used first when purchasing a skin. Would you like to continue?"
   },
   "shop_new_daily": {
     "tip": "Daily"
@@ -26130,8 +26226,14 @@
   "shop_new_index": {
     "tip": "Sort"
   },
+  "shop_new_lower_price": {
+    "tip": "Best Deal"
+  },
   "shop_new_nation": {
     "tip": "Faction"
+  },
+  "shop_new_only_use_one_coupon": {
+    "tip": "Only one voucher can be used at a time."
   },
   "shop_new_owned": {
     "tip": "Owned"
@@ -26366,6 +26468,12 @@
   },
   "skin_discount_timelimit": {
     "tip": "The item $1 will expire after $2 maintenance, please use it in time in the Outfit Shop."
+  },
+  "skin_double_coupon_confirm": {
+    "tip": "Spend 1 <color=#92fc63>$1</color> to purchase <color=#92fc63>$3</color> for a discounted price of <icon name=gem w=0.6 h=0.6/><color=#FFDE38FF>$2</color>?\nOnly one voucher can be used at a time."
+  },
+  "skin_double_coupon_tip": {
+    "tip": "Only one voucher can be used at a time."
   },
   "skin_exchange_confirm": {
     "tip": "Spend <color=#92fc63>1 $1</color> to exchange for <color=#92fc63>$2</color>?"
@@ -28020,6 +28128,12 @@
   },
   "trophy_achieved": {
     "tip": "Medal Unlocked!"
+  },
+  "trun_off_display_ship_get_repeat": {
+    "tip": "Acquisition animation for already-registered ships is toggled OFF (applies only to stage drops)."
+  },
+  "trun_on_display_ship_get_repeat": {
+    "tip": "Acquisition animation for already-registered ships is toggled ON."
   },
   "twitter_link_title": {
     "tip": "Twitter Account:$1"
@@ -30771,20 +30885,35 @@
   "world_target_goto": {
     "tip": "Enter Zone "
   },
+  "world_task_all": {
+    "tip": "Missions"
+  },
+  "world_task_get": {
+    "tip": "Collect"
+  },
   "world_task_goto0": {
     "tip": "There are no missions in this zone."
   },
   "world_task_goto3": {
     "tip": "The fleet has already been deployed to the target zone."
   },
+  "world_task_main": {
+    "tip": "Missions"
+  },
   "world_task_maplock": {
     "tip": "You may not leave this zone yet because there are still unfinished missions. Please check\"Information\" for more details. Confirm？"
+  },
+  "world_task_notask": {
+    "tip": "You don't have any missions yet, Commander."
   },
   "world_task_refuse1": {
     "tip": "You cannot accept any more Daily Missions. "
   },
   "world_task_samemap": {
     "tip": "Unable to accept new missions until all unfinished missions in this zone are completed. "
+  },
+  "world_task_view": {
+    "tip": "View"
   },
   "world_task_view1": {
     "tip": "Mission Location："

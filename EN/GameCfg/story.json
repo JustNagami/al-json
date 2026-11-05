@@ -999263,7 +999263,7 @@
     "5033": "LUCK69903",
     "5034": "LUCK79903",
     "5035": "LUCK19906",
-    "5036": null,
+    "5036": "LUCK49905",
     "5037": null,
     "5038": null,
     "5039": null,
@@ -1002368,13 +1002368,13 @@
     "8138": null,
     "8139": null,
     "8140": null,
-    "8141": null,
-    "8142": null,
-    "8143": null,
-    "8144": null,
-    "8145": null,
-    "8146": null,
-    "8147": null,
+    "8141": "XIANGBIN1",
+    "8142": "XIANGBIN2",
+    "8143": "XIANGBIN3",
+    "8144": "XIANGBIN4",
+    "8145": "XIANGBIN5",
+    "8146": "XIANGBIN6",
+    "8147": "XIANGBIN7",
     "8148": null,
     "8149": null,
     "8150": null,
@@ -2899530,6 +2899530,3957 @@
         "nameColor": "#A9F548FF",
         "hidePaintObj": true,
         "say": "Not me, though. The Great Royal Fortune and I are two halves of the same being!",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      }
+    ]
+  },
+  "islandside01611": {
+    "id": "ISLANDSIDE01611",
+    "mode": 10,
+    "map": [
+      [
+        101600,
+        10020025
+      ]
+    ],
+    "look_weight": [
+      [
+        0.7,
+        0
+      ],
+      [
+        0.3,
+        0
+      ]
+    ],
+    "scripts": [
+      {
+        "characterId": 0,
+        "say": "You look like you're in a good mood. Did something interesting happen?",
+        "face2Face": [
+          [
+            0,
+            101600
+          ]
+        ],
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "animation": "happy",
+        "characterId": 101600,
+        "subName": "Seasonal Director",
+        "say": "Pfft... Hahaha! Ah, hello, Commander. I'm just sorting through some photos Ognevoy sent me.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "subName": "Seasonal Director",
+        "characterId": 101600,
+        "say": "She says she was only going to go around the island and taking photos of cute stuff...",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "animation": "amaze",
+        "characterId": 101600,
+        "subName": "Seasonal Director",
+        "say": "But when she got near the orchard, she captured something incredible! A mandarin tornado!",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "subName": "Seasonal Director",
+        "characterId": 101600,
+        "say": "Not just that, too. She also saw Argus and Lusitania moving strangely, as if they were summoning it!",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "characterId": 0,
+        "say": "They were summoning a tornado? That sounds fishy...",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "animation": "nod",
+        "characterId": 101600,
+        "subName": "Seasonal Director",
+        "say": "Hahaha, I thought so too at first, but apparently they were only trying to catch the mandarins whipped up by the winds.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "subName": "Seasonal Director",
+        "characterId": 101600,
+        "say": "They were leaping this way and that like acrobats, so it looked weird from far away.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "subName": "Seasonal Director",
+        "characterId": 101600,
+        "say": "Ognevoy said that Lusitania asked Argus to take the mandarins they picked to the commercial district...",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "animation": "amaze",
+        "characterId": 101600,
+        "subName": "Seasonal Director",
+        "say": "That was when a sudden strong gust swept up all the fruit in the basket and then they spiraled in the air like a tornado!",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "characterId": 0,
+        "say": "Right. That sounds like how Ognevoy would describe it.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "subName": "Seasonal Director",
+        "characterId": 101600,
+        "say": "I know, right? It sounds like she rushed over to help as soon as she'd taken the photo.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "subName": "Seasonal Director",
+        "characterId": 101600,
+        "say": "When they took the mandarins to the commercial district, everyone was discussing what seasonal desserts to make for the winter.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "animation": "nod",
+        "characterId": 101600,
+        "subName": "Seasonal Director",
+        "say": "Akashi decided on mandarin daifuku on the spot as soon as she saw them.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "characterId": 0,
+        "say": "That doesn't sound bad.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "subName": "Seasonal Director",
+        "characterId": 101600,
+        "say": "Exactly, and Ognevoy said she had a taste and that they were delicious. She volunteered to help with the design.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "animation": "idea",
+        "characterId": 101600,
+        "subName": "Seasonal Director",
+        "say": "They ended up experimenting and making lots of different kinds. Anchor daifuku, meowfficer daifuku, ghost daifuku, and even some that no one knew what it was supposed to be...",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "characterId": 0,
+        "say": "Are those really going to sell?",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "subName": "Seasonal Director",
+        "characterId": 101600,
+        "say": "Who knows? Although, Akashi was really excited and kept shouting, \"The weirder they are, the more they'll sell, nya!\"",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "characterId": 0,
+        "say": "Hmm, I suddenly feel like buying a few myself.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "animation": "embarrass",
+        "characterId": 101600,
+        "subName": "Seasonal Director",
+        "say": "Heh heh, me too. Unfortunately Am-Mer-Mar vetoed most of the test versions.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "subName": "Seasonal Director",
+        "characterId": 101600,
+        "say": "Only the regular mandarin daifuku is left.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "animation": "nod",
+        "characterId": 101600,
+        "subName": "Seasonal Director",
+        "say": "You should go take a look in the commercial district if you'd like to try them!",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      }
+    ]
+  },
+  "luck49905": {
+    "id": "LUCK49905",
+    "mode": 2,
+    "fadeOut": 1.5,
+    "scripts": [
+      {
+        "actor": 499050,
+        "side": 2,
+        "nameColor": "#A9F548FF",
+        "hidePaintObj": true,
+        "dir": 1,
+        "say": "Ahahaha, did you hear that? That echoing roar from these deep seas? The power that slumbered within me has finally awoken.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 2,
+        "nameColor": "#A9F548FF",
+        "actor": 499050,
+        "hidePaintObj": true,
+        "dir": 1,
+        "side": 2,
+        "say": "Don't tell me these stormy seas caught you off guard, Commander?",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 499050,
+        "side": 2,
+        "nameColor": "#A9F548FF",
+        "hidePaintObj": true,
+        "dir": 1,
+        "say": "If you wish to walk this path with me, then show me that you possess the courage to maneuver even these waves.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 499050,
+        "side": 2,
+        "nameColor": "#A9F548FF",
+        "hidePaintObj": true,
+        "dir": 1,
+        "say": "Now let us raise a toast! We shall leave our mark in the far reaches of every sea as we venture forth to battle! Ahahahaha!",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      }
+    ]
+  },
+  "xiangbin1": {
+    "id": "XIANGBIN1",
+    "mode": 2,
+    "fadeOut": 1.5,
+    "scripts": [
+      {
+        "mode": 1,
+        "stopbgm": true,
+        "asideType": 1,
+        "flashout": {
+          "black": true,
+          "dur": 1,
+          "alpha": [
+            0,
+            1
+          ]
+        },
+        "sequence": [
+          [
+            "The Eternal Now\n\n<size=45>1 Poems and Reflections</size>",
+            1
+          ]
+        ]
+      },
+      {
+        "nameColor": "#A9F548FF",
+        "side": 2,
+        "bgName": "star_level_bg_519",
+        "hidePaintObj": true,
+        "say": "Port - Library",
+        "bgm": "story-richang-10",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        },
+        "flashin": {
+          "delay": 0,
+          "dur": 1,
+          "black": true,
+          "alpha": [
+            1,
+            0
+          ]
+        }
+      },
+      {
+        "actor": 899020,
+        "side": 2,
+        "bgName": "star_level_bg_519",
+        "hidePaintObj": true,
+        "withoutActorName": true,
+        "nameColor": "#A9F548FF",
+        "say": "Deep within a maze of bookshelves, a familiar figure is sitting quietly in the corner.",
+        "hideRecordIco": true,
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 899020,
+        "side": 2,
+        "bgName": "star_level_bg_519",
+        "hidePaintObj": true,
+        "withoutActorName": true,
+        "nameColor": "#A9F548FF",
+        "say": "I see Champagne, gently leafing through a poetry book with a stoic look on her face. She doesn't seem to notice me approaching.",
+        "hideRecordIco": true,
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 899020,
+        "side": 2,
+        "bgName": "star_level_bg_519",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "say": "Reflections in the waves; without a trace when touched, without a trail when delved.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 0,
+        "nameColor": "#A9F548FF",
+        "bgName": "star_level_bg_519",
+        "hidePaintObj": true,
+        "side": 2,
+        "portrait": "zhihuiguan",
+        "say": "Champagne?",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "star_level_bg_519",
+        "withoutActorName": true,
+        "hideRecordIco": true,
+        "actor": 899020,
+        "nameColor": "#A9F548FF",
+        "hidePaintObj": true,
+        "say": "At the sound of my voice, she looks up at me, her expression softening somewhat.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "star_level_bg_519",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "Commander...",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 4,
+        "side": 2,
+        "bgName": "star_level_bg_519",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "I am pondering something. And now that you are here, I would like you to help me unravel this poem.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 0,
+        "nameColor": "#A9F548FF",
+        "bgName": "star_level_bg_519",
+        "hidePaintObj": true,
+        "side": 2,
+        "portrait": "zhihuiguan",
+        "say": "Which poem are you talking about?",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 899020,
+        "side": 2,
+        "bgName": "star_level_bg_519",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "say": "\"Though the moonlight may reflect on the water, it is but a fleeting existence with no substance.\"",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "star_level_bg_519",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "Is a reflection fated to never truly exist?",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        },
+        "options": [
+          {
+            "content": "Moonlight is real.",
+            "flag": 1
+          },
+          {
+            "content": "I guess it depends.",
+            "flag": 2
+          }
+        ]
+      },
+      {
+        "portrait": "zhihuiguan",
+        "side": 2,
+        "bgName": "star_level_bg_519",
+        "hidePaintObj": true,
+        "nameColor": "#A9F548FF",
+        "optionFlag": 1,
+        "actor": 0,
+        "say": "Moonlight is real, so the reflection on the water is true moonlight as well.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "portrait": "zhihuiguan",
+        "side": 2,
+        "bgName": "star_level_bg_519",
+        "hidePaintObj": true,
+        "nameColor": "#A9F548FF",
+        "optionFlag": 2,
+        "actor": 0,
+        "say": "I guess it depends on what you mean by real. If it means something that can be perceived, being observable means that it's real.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 899020,
+        "side": 2,
+        "bgName": "star_level_bg_519",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "say": "Indeed... The moonlight radiates from its celestial body and reflects upon the water's surface.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 899020,
+        "side": 2,
+        "bgName": "star_level_bg_519",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "say": "Even if it is but a reflection, it is still an extension of light that physically exists.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 4,
+        "side": 2,
+        "bgName": "star_level_bg_519",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "Your way of viewing things is always so straightforward. And still... there is also a certain serenity in it.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "star_level_bg_519",
+        "withoutActorName": true,
+        "hideRecordIco": true,
+        "actor": 899020,
+        "nameColor": "#A9F548FF",
+        "hidePaintObj": true,
+        "say": "Champagne closes the book and casts a pensive look to the window. The sunlight streaming through gives her hair a delicate luster.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 899020,
+        "side": 2,
+        "bgName": "star_level_bg_519",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "say": "Though this sunlight is also a reflection... I can nevertheless feel its warmth.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 0,
+        "nameColor": "#A9F548FF",
+        "bgName": "star_level_bg_519",
+        "hidePaintObj": true,
+        "side": 2,
+        "portrait": "zhihuiguan",
+        "say": "That's right. Just like how your warmth is also very real.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 899020,
+        "side": 2,
+        "bgName": "star_level_bg_519",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "say": "A projection... with a warmth of its own...",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "star_level_bg_519",
+        "withoutActorName": true,
+        "hideRecordIco": true,
+        "actor": 899020,
+        "nameColor": "#A9F548FF",
+        "hidePaintObj": true,
+        "say": "Champagne turns to face me again. But now it feels like light slowly ripples out of her narrowed eyes.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "star_level_bg_519",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "Perhaps, I am also not fated to lose myself within the water's reflection.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 5,
+        "side": 2,
+        "bgName": "star_level_bg_519",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "Though... I wish to confirm its form, along with the person who has given me this warmth.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "star_level_bg_519",
+        "withoutActorName": true,
+        "hideRecordIco": true,
+        "actor": 899020,
+        "nameColor": "#A9F548FF",
+        "hidePaintObj": true,
+        "say": "A smile pulls at the corners of her mouth, and she holds out the poetry book that was resting on the desk.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "star_level_bg_519",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "Let us rest for a while. I want to read the words hidden in these books together.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 0,
+        "nameColor": "#A9F548FF",
+        "bgName": "star_level_bg_519",
+        "hidePaintObj": true,
+        "side": 2,
+        "portrait": "zhihuiguan",
+        "say": "Sounds like a great time.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 4,
+        "side": 2,
+        "bgName": "star_level_bg_519",
+        "withoutActorName": true,
+        "hideRecordIco": true,
+        "actor": 899020,
+        "nameColor": "#A9F548FF",
+        "hidePaintObj": true,
+        "say": "I sit next to her, and she starts reciting poems with a gentle, melodic, yet clear tone.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 4,
+        "side": 2,
+        "bgName": "star_level_bg_519",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "I thank you for humoring me, even if the verses may seem hollow.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 899020,
+        "side": 2,
+        "bgName": "star_level_bg_519",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "say": "When someone is listening, time itself fills the words, giving them a whole new meaning.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "star_level_bg_519",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "As such, I ask one request of you.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 5,
+        "side": 2,
+        "bgName": "star_level_bg_519",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "I would like for you to spend the remainder of your time today with me.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "star_level_bg_519",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "After finally taking in that verse about reflections, I want to see where my light takes me... To the realm of creation.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 0,
+        "nameColor": "#A9F548FF",
+        "bgName": "star_level_bg_519",
+        "hidePaintObj": true,
+        "side": 2,
+        "portrait": "zhihuiguan",
+        "say": "Sure, I'm up for that.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 899020,
+        "side": 2,
+        "bgName": "star_level_bg_519",
+        "hidePaintObj": true,
+        "withoutActorName": true,
+        "nameColor": "#A9F548FF",
+        "say": "Champagne scoops up a leaf that happened to slip its way through the open window, gently places it between the pages, and closes the book.",
+        "hideRecordIco": true,
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 4,
+        "side": 2,
+        "bgName": "star_level_bg_519",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "This leaf will be my bookmark. I will start from this page when I return.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 4,
+        "side": 2,
+        "bgName": "star_level_bg_519",
+        "hidePaintObj": true,
+        "nameColor": "#A9F548FF",
+        "say": "Her determined stride seems a little quicker as we leave the library. It looks like there's something she's looking forward to now.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      }
+    ]
+  },
+  "xiangbin2": {
+    "id": "XIANGBIN2",
+    "mode": 2,
+    "fadeOut": 1.5,
+    "scripts": [
+      {
+        "mode": 1,
+        "stopbgm": true,
+        "asideType": 1,
+        "flashout": {
+          "black": true,
+          "dur": 1,
+          "alpha": [
+            0,
+            1
+          ]
+        },
+        "sequence": [
+          [
+            "The Eternal Now\n\n<size=45>2 Dreams and Reality</size>",
+            1
+          ]
+        ]
+      },
+      {
+        "nameColor": "#A9F548FF",
+        "side": 2,
+        "bgName": "star_level_bg_529",
+        "hidePaintObj": true,
+        "say": "Port - Pier",
+        "bgm": "story-richang-softlight",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        },
+        "flashin": {
+          "delay": 0,
+          "dur": 1,
+          "black": true,
+          "alpha": [
+            1,
+            0
+          ]
+        }
+      },
+      {
+        "nameColor": "#A9F548FF",
+        "side": 2,
+        "bgName": "star_level_bg_529",
+        "hidePaintObj": true,
+        "say": "After leaving the library behind, Champagne guides me to the pier. The sea shimmers, the waves licking at the twilight's lingering rays before crashing against the shore.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 899020,
+        "side": 2,
+        "bgName": "star_level_bg_529",
+        "hidePaintObj": true,
+        "withoutActorName": true,
+        "nameColor": "#A9F548FF",
+        "say": "She sits down on the stone steps, takes out a paper box and opens it slowly.",
+        "hideRecordIco": true,
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "star_level_bg_529",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "Chestnut sweets. For our enjoyment.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "star_level_bg_529",
+        "withoutActorName": true,
+        "hideRecordIco": true,
+        "actor": 899020,
+        "nameColor": "#A9F548FF",
+        "hidePaintObj": true,
+        "say": "And with the same placid expression, she pulls out a fork.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 4,
+        "side": 2,
+        "bgName": "star_level_bg_529",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "Partake with me, if you'd be so kind?",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 899020,
+        "side": 2,
+        "bgName": "star_level_bg_529",
+        "hidePaintObj": true,
+        "withoutActorName": true,
+        "nameColor": "#A9F548FF",
+        "say": "I take a little bit of the Mont Blanc she offers, and the sweet chestnut taste spreads across my taste buds like a crisp melody. Champagne also takes a healthy bite and enjoys the taste.",
+        "hideRecordIco": true,
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 899020,
+        "side": 2,
+        "bgName": "star_level_bg_529",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "say": "It is sweet but not overpowering, with a rich chestnut scent... Truly a lovely treat to enjoy with the sea breeze to keep us company.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "star_level_bg_529",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "Commander. I have always dreamt of a time like this.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 899020,
+        "side": 2,
+        "bgName": "star_level_bg_529",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "say": "Being together, reading together, training together, enjoying sweets together...",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 899020,
+        "side": 2,
+        "bgName": "star_level_bg_529",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "say": "The days are ordinary to the point they blend together... I wonder if this is reality, or a highly elaborate illusion made to vanish when I open my eyes one morning...",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 0,
+        "nameColor": "#A9F548FF",
+        "bgName": "star_level_bg_529",
+        "hidePaintObj": true,
+        "side": 2,
+        "portrait": "zhihuiguan",
+        "say": "This is no dream.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 899020,
+        "side": 2,
+        "bgName": "star_level_bg_529",
+        "hidePaintObj": true,
+        "withoutActorName": true,
+        "nameColor": "#A9F548FF",
+        "say": "I reach out and take her hand in mine.",
+        "hideRecordIco": true,
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 5,
+        "side": 2,
+        "bgName": "star_level_bg_529",
+        "withoutActorName": true,
+        "hideRecordIco": true,
+        "actor": 899020,
+        "nameColor": "#A9F548FF",
+        "hidePaintObj": true,
+        "say": "Her hands are a little chilly, the faint flowery scent of her hair drifting into my nose along with the sea breeze.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 5,
+        "side": 2,
+        "bgName": "star_level_bg_529",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "Your warmth is the most real thing I've ever felt...",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 4,
+        "side": 2,
+        "bgName": "star_level_bg_529",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "If this is a dream, I pray I don't wake soon. And if it's reality, I want this moment to last longer.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 5,
+        "side": 2,
+        "bgName": "star_level_bg_529",
+        "withoutActorName": true,
+        "hideRecordIco": true,
+        "actor": 899020,
+        "nameColor": "#A9F548FF",
+        "hidePaintObj": true,
+        "say": "Like a falling leaf finally finding a place to settle, Champagne comes closer and leans her head against my shoulder.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 5,
+        "side": 2,
+        "bgName": "star_level_bg_529",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "Excuse me... Just a moment. Allow me to make sure this is truly happening.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 899020,
+        "side": 2,
+        "bgName": "star_level_bg_529",
+        "hidePaintObj": true,
+        "withoutActorName": true,
+        "nameColor": "#A9F548FF",
+        "say": "A seagull rests its wings on the mast of a ship in the distance. We enjoy a moment of peace together, the ship's whistle sounding off in the distance.",
+        "hideRecordIco": true,
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "star_level_bg_529",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "That ship...",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "star_level_bg_529",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "Commander, let us move on to our next destination.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 0,
+        "nameColor": "#A9F548FF",
+        "bgName": "star_level_bg_529",
+        "hidePaintObj": true,
+        "side": 2,
+        "portrait": "zhihuiguan",
+        "say": "We're going to that place of creation you mentioned?",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "star_level_bg_529",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "Yes. Could I ever dare to nurture my future with my own two hands? That is what I must see to.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      }
+    ]
+  },
+  "xiangbin3": {
+    "id": "XIANGBIN3",
+    "mode": 2,
+    "fadeOut": 1.5,
+    "scripts": [
+      {
+        "mode": 1,
+        "stopbgm": true,
+        "asideType": 1,
+        "flashout": {
+          "black": true,
+          "dur": 1,
+          "alpha": [
+            0,
+            1
+          ]
+        },
+        "sequence": [
+          [
+            "The Eternal Now\n\n<size=45>3 Past and Future</size>",
+            1
+          ]
+        ]
+      },
+      {
+        "nameColor": "#A9F548FF",
+        "side": 2,
+        "bgName": "star_level_bg_307",
+        "hidePaintObj": true,
+        "say": "Vineyard",
+        "bgm": "story-richang-sooth",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        },
+        "flashin": {
+          "delay": 0,
+          "dur": 1,
+          "black": true,
+          "alpha": [
+            1,
+            0
+          ]
+        }
+      },
+      {
+        "nameColor": "#A9F548FF",
+        "side": 2,
+        "bgName": "star_level_bg_307",
+        "hidePaintObj": true,
+        "say": "Vines stretch across the gentle slopes like a sea of green.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 899020,
+        "side": 2,
+        "bgName": "star_level_bg_307",
+        "hidePaintObj": true,
+        "withoutActorName": true,
+        "nameColor": "#A9F548FF",
+        "say": "Champagne slowly crouches down, her feet touching the soft soil.",
+        "hideRecordIco": true,
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "star_level_bg_307",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "Commander, look at this vine sprout.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "star_level_bg_307",
+        "withoutActorName": true,
+        "hideRecordIco": true,
+        "actor": 899020,
+        "nameColor": "#A9F548FF",
+        "hidePaintObj": true,
+        "say": "The small leaves on the new vine unfurl under the gentle light, acclimating to the new world into which they've been born.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 899020,
+        "side": 2,
+        "bgName": "star_level_bg_307",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "say": "No tradition to uphold, and with no past to trace back to.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "star_level_bg_307",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "Yet they take root, grow, bloom, and bear fruit... A future that begins today.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 0,
+        "nameColor": "#A9F548FF",
+        "bgName": "star_level_bg_307",
+        "hidePaintObj": true,
+        "side": 2,
+        "portrait": "zhihuiguan",
+        "say": "You mean, like us?",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 4,
+        "side": 2,
+        "bgName": "star_level_bg_307",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "That's right... If there is no past to trace back to, let us craft this moment as a memory for posterity.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "star_level_bg_307",
+        "withoutActorName": true,
+        "hideRecordIco": true,
+        "actor": 899020,
+        "nameColor": "#A9F548FF",
+        "hidePaintObj": true,
+        "say": "She says, a languid expression on her face. Still, there's a steely determination behind her words.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 5,
+        "side": 2,
+        "bgName": "star_level_bg_307",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "I wish for nothing but to grow a future together... You and me.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "star_level_bg_307",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "Rather than living off light reflected by happenstance, I wish to grasp our own future with our own hands.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 0,
+        "nameColor": "#A9F548FF",
+        "bgName": "star_level_bg_307",
+        "hidePaintObj": true,
+        "side": 2,
+        "portrait": "zhihuiguan",
+        "say": "Yeah. We can start today.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "star_level_bg_307",
+        "withoutActorName": true,
+        "hideRecordIco": true,
+        "actor": 899020,
+        "nameColor": "#A9F548FF",
+        "hidePaintObj": true,
+        "say": "Champagne gives me a small nod, rolls up her sleeves and plucks a bunch of grapes off the vine.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "star_level_bg_307",
+        "withoutActorName": true,
+        "hideRecordIco": true,
+        "actor": 899020,
+        "nameColor": "#A9F548FF",
+        "hidePaintObj": true,
+        "say": "The sunlight beats down on us. Her fingers are stained with grape juice, and I see vigor like never before in her.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "star_level_bg_307",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "Commander, you're sweating.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 4,
+        "side": 2,
+        "bgName": "star_level_bg_307",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "Farmers pour their very hearts and souls onto the soil, which culminates in pure beauty when the irises bloom.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 5,
+        "side": 2,
+        "bgName": "star_level_bg_307",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "Today, you are my gardener.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 0,
+        "nameColor": "#A9F548FF",
+        "bgName": "star_level_bg_307",
+        "hidePaintObj": true,
+        "side": 2,
+        "portrait": "zhihuiguan",
+        "say": "What about you?",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "star_level_bg_307",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "I shall nurture our future.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 5,
+        "side": 2,
+        "bgName": "star_level_bg_307",
+        "withoutActorName": true,
+        "hideRecordIco": true,
+        "actor": 899020,
+        "nameColor": "#A9F548FF",
+        "hidePaintObj": true,
+        "say": "Having finished picking grapes, she starts working them. I work with her and help press the grapes.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 5,
+        "side": 2,
+        "bgName": "star_level_bg_307",
+        "withoutActorName": true,
+        "hideRecordIco": true,
+        "actor": 899020,
+        "nameColor": "#A9F548FF",
+        "hidePaintObj": true,
+        "say": "Velvety purple juice foams up, a sweet fragrance rising up as the juices get squeezed out. Her hands grow warmer with the work.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "star_level_bg_307",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "Is this what creation feels like?",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 5,
+        "side": 2,
+        "bgName": "star_level_bg_307",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "This is unlike words contained within a page. The weight, the warmth, the scent... The feel of my palm on yours...",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 0,
+        "nameColor": "#A9F548FF",
+        "bgName": "star_level_bg_307",
+        "hidePaintObj": true,
+        "side": 2,
+        "portrait": "zhihuiguan",
+        "say": "So, when will you open the champagne we're making?",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 5,
+        "side": 2,
+        "bgName": "star_level_bg_307",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "One day... For a momentous occasion worthy of keeping to memory. Until such a day, we have achieved something truly remarkable.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 0,
+        "nameColor": "#A9F548FF",
+        "bgName": "star_level_bg_307",
+        "hidePaintObj": true,
+        "side": 2,
+        "portrait": "zhihuiguan",
+        "say": "Now that's something to look forward to. Don't think I'll forget, okay?",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 4,
+        "side": 2,
+        "bgName": "star_level_bg_307",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "I will be patient as well. I will wait for the day... That one truly beautiful day.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "nameColor": "#A9F548FF",
+        "side": 2,
+        "bgName": "star_level_bg_307",
+        "hidePaintObj": true,
+        "say": "After letting it rest, we add sugar and yeast to the base, which we then bottle to start the fermentation process.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 5,
+        "side": 2,
+        "bgName": "star_level_bg_307",
+        "hidePaintObj": true,
+        "nameColor": "#A9F548FF",
+        "say": "She writes down the date on the label, then pauses the pen for a moment before adding a little note that reads: \"Created with the Commander.\"",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 5,
+        "side": 2,
+        "bgName": "star_level_bg_307",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "I will be looking forward to the day we finally get to enjoy what we created together.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      }
+    ]
+  },
+  "xiangbin4": {
+    "id": "XIANGBIN4",
+    "mode": 2,
+    "fadeOut": 1.5,
+    "scripts": [
+      {
+        "mode": 1,
+        "stopbgm": true,
+        "asideType": 1,
+        "flashout": {
+          "black": true,
+          "dur": 1,
+          "alpha": [
+            0,
+            1
+          ]
+        },
+        "sequence": [
+          [
+            "The Eternal Now\n\n<size=45>4 Today is Tomorrow's History</size>",
+            1
+          ]
+        ]
+      },
+      {
+        "nameColor": "#A9F548FF",
+        "side": 2,
+        "bgName": "bg_story_task_3",
+        "hidePaintObj": true,
+        "say": "Port - Office.",
+        "bgm": "story-richang-quiet",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        },
+        "flashin": {
+          "delay": 0,
+          "dur": 1,
+          "black": true,
+          "alpha": [
+            1,
+            0
+          ]
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "bg_story_task_3",
+        "hidePaintObj": true,
+        "nameColor": "#A9F548FF",
+        "say": "A few weeks after the winemaking trip to the vineyard, Champagne shows up in the office with a notebook just as I finish my work for the day.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 0,
+        "nameColor": "#A9F548FF",
+        "bgName": "bg_story_task_3",
+        "hidePaintObj": true,
+        "side": 2,
+        "portrait": "zhihuiguan",
+        "say": "What's that?",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 4,
+        "side": 2,
+        "bgName": "bg_story_task_3",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "I started writing a diary after our sojourn in the vineyard.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 5,
+        "side": 2,
+        "bgName": "bg_story_task_3",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "Commander... I would like for you to be the first to read it.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 5,
+        "side": 2,
+        "bgName": "bg_story_task_3",
+        "withoutActorName": true,
+        "hideRecordIco": true,
+        "actor": 899020,
+        "nameColor": "#A9F548FF",
+        "hidePaintObj": true,
+        "say": "Champagne holds out the notebook. But as she does, she seems to realize something and stops.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 5,
+        "side": 2,
+        "bgName": "bg_story_task_3",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "Though it may not contain much besides records of trivial chatter.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 0,
+        "nameColor": "#A9F548FF",
+        "bgName": "bg_story_task_3",
+        "hidePaintObj": true,
+        "side": 2,
+        "portrait": "zhihuiguan",
+        "say": "I don't mind. I'd love to read it.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "nameColor": "#A9F548FF",
+        "side": 2,
+        "bgName": "bg_story_task_3",
+        "hidePaintObj": true,
+        "say": "I open the notebook, and the first page contains a passage written in lovely handwriting: \"It all began the day after my visit to the vineyard with the Commander.\"",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "nameColor": "#A9F548FF",
+        "side": 2,
+        "bgName": "bg_story_task_3",
+        "hidePaintObj": true,
+        "say": "Even her writing exudes a gentle and delicate feel – a veritable reflection of the author.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 0,
+        "nameColor": "#A9F548FF",
+        "bgName": "bg_story_task_3",
+        "hidePaintObj": true,
+        "side": 2,
+        "portrait": "zhihuiguan",
+        "say": "\"A light projects out of the book. The Commander calls it a reflection. Yet its warmth is real, I am told. Perhaps this is the answer I sought for so long.\"",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 0,
+        "nameColor": "#A9F548FF",
+        "bgName": "bg_story_task_3",
+        "hidePaintObj": true,
+        "side": 2,
+        "portrait": "zhihuiguan",
+        "say": "\"The Mont Blanc by the pier was sweet. Yet the Commander's warmth was even sweeter in comparison.\"",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 0,
+        "nameColor": "#A9F548FF",
+        "bgName": "bg_story_task_3",
+        "hidePaintObj": true,
+        "side": 2,
+        "portrait": "zhihuiguan",
+        "say": "\"The soil of the vineyard was soft, pliable. Much like the future we will grow together. From a small vine, to a fine bottle... And the expectation of what lies beyond.\"",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "bg_story_task_3",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "...Commander.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "bg_story_task_3",
+        "withoutActorName": true,
+        "hideRecordIco": true,
+        "actor": 899020,
+        "nameColor": "#A9F548FF",
+        "hidePaintObj": true,
+        "say": "I look up, and I'm faced with an uncharacteristically rosy blush on her cheeks.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "bg_story_task_3",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "Is there any meaning to writing down such mundane matters?",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 0,
+        "nameColor": "#A9F548FF",
+        "bgName": "bg_story_task_3",
+        "hidePaintObj": true,
+        "side": 2,
+        "portrait": "zhihuiguan",
+        "say": "There is. This is your history you're writing down.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "bg_story_task_3",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "My history, you say?",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 0,
+        "nameColor": "#A9F548FF",
+        "bgName": "bg_story_task_3",
+        "hidePaintObj": true,
+        "side": 2,
+        "portrait": "zhihuiguan",
+        "say": "A record of things that happened to you. It's packed full of the paths you've walked down, what you felt, and everything you felt was worthy of putting down to paper.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "bg_story_task_3",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "Maybe... But it's still nothing but shards of something ordinary, right?",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 0,
+        "nameColor": "#A9F548FF",
+        "bgName": "bg_story_task_3",
+        "hidePaintObj": true,
+        "side": 2,
+        "portrait": "zhihuiguan",
+        "say": "I find it worthwhile.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 0,
+        "nameColor": "#A9F548FF",
+        "bgName": "bg_story_task_3",
+        "hidePaintObj": true,
+        "side": 2,
+        "portrait": "zhihuiguan",
+        "say": "It's just like that bottle of champagne we left fermenting. Waiting for the day to open it together. For the moment it'll be a testament to what we did that one day. And everything in-between.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 4,
+        "side": 2,
+        "bgName": "bg_story_task_3",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "...A testament to our bond.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "nameColor": "#A9F548FF",
+        "side": 2,
+        "bgName": "bg_story_task_3",
+        "hidePaintObj": true,
+        "say": "I keep on reading her diary until I reach a blank page.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 0,
+        "nameColor": "#A9F548FF",
+        "bgName": "bg_story_task_3",
+        "hidePaintObj": true,
+        "side": 2,
+        "portrait": "zhihuiguan",
+        "say": "What comes next?",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 5,
+        "side": 2,
+        "bgName": "bg_story_task_3",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "Starting there... I want to write together with you.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "bg_story_task_3",
+        "withoutActorName": true,
+        "hideRecordIco": true,
+        "actor": 899020,
+        "nameColor": "#A9F548FF",
+        "hidePaintObj": true,
+        "say": "She reaches out, gently caressing the center of the blank page. Then she turns her face towards me.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 0,
+        "nameColor": "#A9F548FF",
+        "bgName": "bg_story_task_3",
+        "hidePaintObj": true,
+        "side": 2,
+        "portrait": "zhihuiguan",
+        "say": "A collaborative project, then?",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "bg_story_task_3",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "Indeed. I'd like you to put down what you see and feel in this diary. All so this diary does not end up being a mere soliloquy.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        },
+        "options": [
+          {
+            "content": "What should I write?",
+            "flag": 1
+          },
+          {
+            "content": "I'm not very good at this kind of stuff.",
+            "flag": 2
+          }
+        ]
+      },
+      {
+        "portrait": "zhihuiguan",
+        "side": 2,
+        "bgName": "bg_story_task_3",
+        "hidePaintObj": true,
+        "nameColor": "#A9F548FF",
+        "optionFlag": 1,
+        "actor": 0,
+        "say": "What should I write? Let me think for a minute.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "portrait": "zhihuiguan",
+        "side": 2,
+        "bgName": "bg_story_task_3",
+        "hidePaintObj": true,
+        "nameColor": "#A9F548FF",
+        "optionFlag": 2,
+        "actor": 0,
+        "say": "I'm not very good at this kind of stuff. Are you sure you want me to take up space in this?",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 4,
+        "side": 2,
+        "bgName": "bg_story_task_3",
+        "dir": 1,
+        "optionFlag": 2,
+        "actor": 899020,
+        "nameColor": "#A9F548FF",
+        "hidePaintObj": true,
+        "say": "There's no need to fret over your words. As long as you feel your emotions are coming through... Even the simplest terms would be precious in my eyes.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 0,
+        "nameColor": "#A9F548FF",
+        "bgName": "bg_story_task_3",
+        "hidePaintObj": true,
+        "side": 2,
+        "portrait": "zhihuiguan",
+        "say": "Okay, I think I got it.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 0,
+        "nameColor": "#A9F548FF",
+        "bgName": "bg_story_task_3",
+        "hidePaintObj": true,
+        "side": 2,
+        "portrait": "zhihuiguan",
+        "say": "\"Champagne came to my office and showed me her diary. It was a really touching moment, and it made me remember the champagne we're making... The same one we promised to open together one day.\"",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 5,
+        "side": 2,
+        "bgName": "bg_story_task_3",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "How curious...",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 0,
+        "nameColor": "#A9F548FF",
+        "bgName": "bg_story_task_3",
+        "hidePaintObj": true,
+        "side": 2,
+        "portrait": "zhihuiguan",
+        "say": "Yeah, and now it's your turn.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 899020,
+        "side": 2,
+        "bgName": "bg_story_task_3",
+        "hidePaintObj": true,
+        "withoutActorName": true,
+        "nameColor": "#A9F548FF",
+        "say": "She takes the pen from me, casts her gaze down, and starts writing right below my piece with a serious expression on her face.",
+        "hideRecordIco": true,
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 4,
+        "side": 2,
+        "bgName": "bg_story_task_3",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "\"I asked the Commander to write in the diary together, and my request was accepted. Doing so helped me learn something.\"",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 4,
+        "side": 2,
+        "bgName": "bg_story_task_3",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "\"This once blank page has gained so much meaning in that simple act.\"",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 899020,
+        "side": 2,
+        "bgName": "bg_story_task_3",
+        "hidePaintObj": true,
+        "withoutActorName": true,
+        "nameColor": "#A9F548FF",
+        "say": "She finishes writing, gazing longingly at our work as she leans on me.",
+        "hideRecordIco": true,
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "nameColor": "#A9F548FF",
+        "side": 2,
+        "bgName": "bg_story_task_3",
+        "hidePaintObj": true,
+        "say": "The moonlight streams through the window, illuminating the diary. The faint scratching of her pen gliding across the page leaves a quiet melody filling the silence.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      }
+    ]
+  },
+  "xiangbin5": {
+    "id": "XIANGBIN5",
+    "mode": 2,
+    "fadeOut": 1.5,
+    "scripts": [
+      {
+        "mode": 1,
+        "stopbgm": true,
+        "asideType": 1,
+        "flashout": {
+          "black": true,
+          "dur": 1,
+          "alpha": [
+            0,
+            1
+          ]
+        },
+        "sequence": [
+          [
+            "The Eternal Now\n\n<size=45>5 The Steps to Poetry</size>",
+            1
+          ]
+        ]
+      },
+      {
+        "nameColor": "#A9F548FF",
+        "side": 2,
+        "bgName": "star_level_bg_542",
+        "hidePaintObj": true,
+        "say": "Port - Terrace",
+        "bgm": "story-richang-light",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        },
+        "flashin": {
+          "delay": 0,
+          "dur": 1,
+          "black": true,
+          "alpha": [
+            1,
+            0
+          ]
+        }
+      },
+      {
+        "nameColor": "#A9F548FF",
+        "side": 2,
+        "bgName": "star_level_bg_542",
+        "hidePaintObj": true,
+        "say": "Late one night, a few days after we started writing in the diary together, I step out onto the terrace to breathe in the fresh night breeze when I hear someone humming.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 899020,
+        "side": 2,
+        "bgName": "star_level_bg_542",
+        "hidePaintObj": true,
+        "withoutActorName": true,
+        "nameColor": "#A9F548FF",
+        "say": "And there I find Champagne leaning against the banister, holding a book in her hand and reciting a poem.",
+        "hideRecordIco": true,
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "star_level_bg_542",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "Commander...",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 4,
+        "side": 2,
+        "bgName": "star_level_bg_542",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "I've been trying to look back on our visit to the vineyard and use it to write a poem, but...",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 0,
+        "nameColor": "#A9F548FF",
+        "bgName": "star_level_bg_542",
+        "hidePaintObj": true,
+        "side": 2,
+        "portrait": "zhihuiguan",
+        "say": "Struggling with writer's block, huh?",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 3,
+        "side": 2,
+        "bgName": "star_level_bg_542",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "Indeed... I have written so many verses over the past few days, but nothing has managed to express what my heart desires.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 3,
+        "side": 2,
+        "bgName": "star_level_bg_542",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "And now, I have become unable to even move my pen.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 3,
+        "side": 2,
+        "bgName": "star_level_bg_542",
+        "withoutActorName": true,
+        "hideRecordIco": true,
+        "actor": 899020,
+        "nameColor": "#A9F548FF",
+        "hidePaintObj": true,
+        "say": "Champagne knits her brow, folds the paper, and grips it with her hand.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 3,
+        "side": 2,
+        "bgName": "star_level_bg_542",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "The verses stay chained to the page, never to break free from their jail.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "star_level_bg_542",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "What I am trying to capture is the very moment that standstill is broken.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 0,
+        "nameColor": "#A9F548FF",
+        "bgName": "star_level_bg_542",
+        "hidePaintObj": true,
+        "side": 2,
+        "portrait": "zhihuiguan",
+        "say": "So that's how it is... Okay, let's try something. Imagine yourself as a grapevine, growing and coiling up...",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "star_level_bg_542",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "Going up and up, circling your way to the sun.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 5,
+        "side": 2,
+        "bgName": "star_level_bg_542",
+        "withoutActorName": true,
+        "hideRecordIco": true,
+        "actor": 899020,
+        "nameColor": "#A9F548FF",
+        "hidePaintObj": true,
+        "say": "She keeps quiet for a moment, then extends out her hand, showing me her palm.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "star_level_bg_542",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "What lies at poetry's end... may yet be dance.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 5,
+        "side": 2,
+        "bgName": "star_level_bg_542",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "Commander, would you care for a dance?",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 0,
+        "nameColor": "#A9F548FF",
+        "bgName": "star_level_bg_542",
+        "hidePaintObj": true,
+        "side": 2,
+        "portrait": "zhihuiguan",
+        "say": "Right here?",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 4,
+        "side": 2,
+        "bgName": "star_level_bg_542",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "Never mind the lack of music. The sea breeze, the moonlight, and our breathing... They will serve to set our tempo.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "star_level_bg_542",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "Just like the vines break free from the constraints of the soil, I will take my very own steps forward.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "star_level_bg_542",
+        "withoutActorName": true,
+        "hideRecordIco": true,
+        "actor": 899020,
+        "nameColor": "#A9F548FF",
+        "hidePaintObj": true,
+        "say": "I take her hand. She steps forward and gently places a hand on my shoulder.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 899020,
+        "side": 2,
+        "bgName": "star_level_bg_542",
+        "hidePaintObj": true,
+        "withoutActorName": true,
+        "nameColor": "#A9F548FF",
+        "say": "We take slow, measured steps under the moonlight. Like she said, the breeze, moonlight, and our breathing guide us instead of music.",
+        "hideRecordIco": true,
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "star_level_bg_542",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "Commander, my heartbeat... I can feel it with such intensity.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 0,
+        "nameColor": "#A9F548FF",
+        "bgName": "star_level_bg_542",
+        "hidePaintObj": true,
+        "side": 2,
+        "portrait": "zhihuiguan",
+        "say": "Me too.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "star_level_bg_542",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "Her long hair dances with the breeze, brushing against my cheek. With a gentle smile, Champagne rests her head on my shoulder.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "star_level_bg_542",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "A verse in motion... Leaping from the pages.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "star_level_bg_542",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "Not just drifting along, pushed by fate... but to entrust my hand to the one I long to touch.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "star_level_bg_542",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "I think I found the secret to coax my pen out of its paralysis.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 0,
+        "nameColor": "#A9F548FF",
+        "bgName": "star_level_bg_542",
+        "hidePaintObj": true,
+        "side": 2,
+        "portrait": "zhihuiguan",
+        "say": "How are you going to write about this?",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 5,
+        "side": 2,
+        "bgName": "star_level_bg_542",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "I want to lock this away deep inside my heart... To let it become a prayer left unspoken.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 5,
+        "side": 2,
+        "bgName": "star_level_bg_542",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "And once I am done formulating the whole verse... I will recite it to you myself.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 5,
+        "side": 2,
+        "bgName": "star_level_bg_542",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "Someday... When the time is right.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 0,
+        "nameColor": "#A9F548FF",
+        "bgName": "star_level_bg_542",
+        "hidePaintObj": true,
+        "side": 2,
+        "portrait": "zhihuiguan",
+        "say": "I'll be waiting.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "nameColor": "#A9F548FF",
+        "side": 2,
+        "bgName": "star_level_bg_542",
+        "hidePaintObj": true,
+        "say": "We dance slowly on the terrace, with no set rhythm or footwork sequence to guide us.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "nameColor": "#A9F548FF",
+        "side": 2,
+        "bgName": "star_level_bg_542",
+        "hidePaintObj": true,
+        "say": "And that's what makes this dance feel like a poem woven for this moment alone.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      }
+    ]
+  },
+  "xiangbin6": {
+    "id": "XIANGBIN6",
+    "mode": 2,
+    "fadeOut": 1.5,
+    "scripts": [
+      {
+        "mode": 1,
+        "stopbgm": true,
+        "asideType": 1,
+        "flashout": {
+          "black": true,
+          "dur": 1,
+          "alpha": [
+            0,
+            1
+          ]
+        },
+        "sequence": [
+          [
+            "The Eternal Now\n\n<size=45>6 A Moment of Respite</size>",
+            1
+          ]
+        ]
+      },
+      {
+        "nameColor": "#A9F548FF",
+        "side": 2,
+        "bgName": "bg_story_task_3",
+        "hidePaintObj": true,
+        "say": "Port - Office.",
+        "bgm": "story-richang-light",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        },
+        "flashin": {
+          "delay": 0,
+          "dur": 1,
+          "black": true,
+          "alpha": [
+            1,
+            0
+          ]
+        }
+      },
+      {
+        "nameColor": "#A9F548FF",
+        "side": 2,
+        "bgName": "bg_story_task_3",
+        "hidePaintObj": true,
+        "say": "We leave the terrace, but instead of going back to her room, she sits down on the sofa and starts writing in her diary.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "nameColor": "#A9F548FF",
+        "side": 2,
+        "bgName": "bg_story_task_3",
+        "hidePaintObj": true,
+        "say": "I go back to work on my remaining documents. The silence of the office is only broken by the occasional page turning, or the scratching of a pen gliding on paper.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 0,
+        "nameColor": "#A9F548FF",
+        "bgName": "bg_story_task_3",
+        "hidePaintObj": true,
+        "side": 2,
+        "portrait": "zhihuiguan",
+        "say": "It's this late already?",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 899020,
+        "side": 2,
+        "bgName": "bg_story_task_3",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "say": "Indeed it is.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 0,
+        "nameColor": "#A9F548FF",
+        "bgName": "bg_story_task_3",
+        "hidePaintObj": true,
+        "side": 2,
+        "portrait": "zhihuiguan",
+        "say": "You're not heading back?",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 3,
+        "side": 2,
+        "bgName": "bg_story_task_3",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "This poem is still not done... And you're not leaving either.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 4,
+        "side": 2,
+        "bgName": "bg_story_task_3",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "I ask for your permission to stay by your side until it's time to go.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "nameColor": "#A9F548FF",
+        "side": 2,
+        "bgName": "bg_story_task_3",
+        "hidePaintObj": true,
+        "say": "The night grows darker, and the light from the table lamp casts a gentle glow over the office. The sound of pens gliding is more marked as well.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "nameColor": "#A9F548FF",
+        "side": 2,
+        "bgName": "bg_story_task_3",
+        "hidePaintObj": true,
+        "say": "Once I'm done with the last document, my eyelids grow heavy. Before long, I drift away.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "portrait": "zhihuiguan",
+        "side": 2,
+        "actor": 0,
+        "hidePaintObj": true,
+        "nameColor": "#A9F548FF",
+        "blackBg": true,
+        "say": "(It feels like... someone is taking the documents I fell asleep on from under me.)",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        },
+        "flashout": {
+          "black": true,
+          "dur": 1,
+          "alpha": [
+            0,
+            1
+          ]
+        }
+      },
+      {
+        "actor": 0,
+        "nameColor": "#A9F548FF",
+        "portrait": "zhihuiguan",
+        "hidePaintObj": true,
+        "side": 2,
+        "blackBg": true,
+        "say": "(And now it feels like someone put something soft over my shoulders.)",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 0,
+        "nameColor": "#A9F548FF",
+        "portrait": "zhihuiguan",
+        "hidePaintObj": true,
+        "side": 2,
+        "blackBg": true,
+        "say": "(A faint scent of irises... I'm so close... So close I could touch it...)",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "nameColor": "#A9F548FF",
+        "side": 2,
+        "bgName": "bg_story_task_3",
+        "hidePaintObj": true,
+        "say": "I wake up, no idea how long it's been. As I rise, a lovely fragrance drifts its way into my nose.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        },
+        "flashin": {
+          "delay": 0,
+          "dur": 1,
+          "black": true,
+          "alpha": [
+            1,
+            0
+          ]
+        }
+      },
+      {
+        "expression": 5,
+        "side": 2,
+        "bgName": "bg_story_task_3",
+        "withoutActorName": true,
+        "hideRecordIco": true,
+        "actor": 899020,
+        "nameColor": "#A9F548FF",
+        "hidePaintObj": true,
+        "say": "It takes me a moment to realize I've been using Champagne's thighs as pillows, and that she has draped her coat over me.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 0,
+        "nameColor": "#A9F548FF",
+        "bgName": "bg_story_task_3",
+        "hidePaintObj": true,
+        "side": 2,
+        "portrait": "zhihuiguan",
+        "say": "Champagne?",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 5,
+        "side": 2,
+        "bgName": "bg_story_task_3",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "Commander, I didn't mean to disturb your sleep.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 5,
+        "side": 2,
+        "bgName": "bg_story_task_3",
+        "withoutActorName": true,
+        "hideRecordIco": true,
+        "actor": 899020,
+        "nameColor": "#A9F548FF",
+        "hidePaintObj": true,
+        "say": "Champagne seems unusually startled by me waking up, almost dropping her pen and diary.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 5,
+        "side": 2,
+        "bgName": "bg_story_task_3",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "I just... I was using your sleeping face as inspiration for a poem...",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 0,
+        "nameColor": "#A9F548FF",
+        "bgName": "bg_story_task_3",
+        "hidePaintObj": true,
+        "side": 2,
+        "portrait": "zhihuiguan",
+        "say": "My face? While I sleep?",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 4,
+        "side": 2,
+        "bgName": "bg_story_task_3",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "Just like I draw from the moonlight and the sea breeze at times... I wanted to draw from this serene, fleeting moment.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 5,
+        "side": 2,
+        "bgName": "bg_story_task_3",
+        "withoutActorName": true,
+        "hideRecordIco": true,
+        "actor": 899020,
+        "nameColor": "#A9F548FF",
+        "hidePaintObj": true,
+        "say": "I see her hand holding tight onto the paper, and place my hand over it.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 0,
+        "nameColor": "#A9F548FF",
+        "bgName": "bg_story_task_3",
+        "hidePaintObj": true,
+        "side": 2,
+        "portrait": "zhihuiguan",
+        "say": "Then let's use it a little longer.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 5,
+        "side": 2,
+        "bgName": "bg_story_task_3",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "...Commander.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 5,
+        "side": 2,
+        "bgName": "bg_story_task_3",
+        "withoutActorName": true,
+        "hideRecordIco": true,
+        "actor": 899020,
+        "nameColor": "#A9F548FF",
+        "hidePaintObj": true,
+        "say": "I wrap my hand around hers, feeling her cold, slender fingers relax.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 5,
+        "side": 2,
+        "bgName": "bg_story_task_3",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "The night grows late... It is a bit chilly here.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 5,
+        "side": 2,
+        "bgName": "bg_story_task_3",
+        "withoutActorName": true,
+        "hideRecordIco": true,
+        "actor": 899020,
+        "nameColor": "#A9F548FF",
+        "hidePaintObj": true,
+        "say": "I squeeze her hand with a bit more force. After a moment of silence, she speaks again.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 5,
+        "side": 2,
+        "bgName": "bg_story_task_3",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "...It seems like I can add greed to my list of sins.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 5,
+        "side": 2,
+        "bgName": "bg_story_task_3",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "I know this moment is fleeting, but I wish for it to last longer.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 0,
+        "nameColor": "#A9F548FF",
+        "bgName": "bg_story_task_3",
+        "hidePaintObj": true,
+        "side": 2,
+        "portrait": "zhihuiguan",
+        "say": "That's fine. We can be a little greedy for once.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "bg_story_task_3",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "...Commander?",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 0,
+        "nameColor": "#A9F548FF",
+        "bgName": "bg_story_task_3",
+        "hidePaintObj": true,
+        "side": 2,
+        "portrait": "zhihuiguan",
+        "say": "I'll draw from your lap pillow, your coat, and the night too.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "bg_story_task_3",
+        "withoutActorName": true,
+        "hideRecordIco": true,
+        "actor": 899020,
+        "nameColor": "#A9F548FF",
+        "hidePaintObj": true,
+        "say": "I turn to face her, a smile forming on my lips.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "bg_story_task_3",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "If you say such things... This might be a very sinful night indeed, for us both.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "bg_story_task_3",
+        "withoutActorName": true,
+        "hideRecordIco": true,
+        "actor": 899020,
+        "nameColor": "#A9F548FF",
+        "hidePaintObj": true,
+        "say": "We stay holding hands. She looks down, the moonlight filtering through the window bathing her in a silver glow.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "bg_story_task_3",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "Commander... Let me draw inspiration from you... until... dawn breaks.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 0,
+        "nameColor": "#A9F548FF",
+        "bgName": "bg_story_task_3",
+        "hidePaintObj": true,
+        "side": 2,
+        "portrait": "zhihuiguan",
+        "say": "Sure thing.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 899020,
+        "side": 2,
+        "bgName": "bg_story_task_3",
+        "hidePaintObj": true,
+        "withoutActorName": true,
+        "nameColor": "#A9F548FF",
+        "say": "Champagne's breathing becomes calmer, and she drifts into a sweet sleep.",
+        "hideRecordIco": true,
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 899020,
+        "side": 2,
+        "bgName": "bg_story_task_3",
+        "hidePaintObj": true,
+        "withoutActorName": true,
+        "nameColor": "#A9F548FF",
+        "say": "And I turn my attention to the paper in her hand.",
+        "hideRecordIco": true,
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "nameColor": "#A9F548FF",
+        "side": 2,
+        "bgName": "bg_story_task_3",
+        "hidePaintObj": true,
+        "say": "On the back of it, there's but a single, finely written line.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "nameColor": "#A9F548FF",
+        "side": 2,
+        "bgName": "bg_story_task_3",
+        "hidePaintObj": true,
+        "say": "\"The wind beckons... Now is the time for dreams.\"",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      }
+    ]
+  },
+  "xiangbin7": {
+    "id": "XIANGBIN7",
+    "mode": 2,
+    "fadeOut": 1.5,
+    "scripts": [
+      {
+        "mode": 1,
+        "stopbgm": true,
+        "asideType": 1,
+        "flashout": {
+          "black": true,
+          "dur": 1,
+          "alpha": [
+            0,
+            1
+          ]
+        },
+        "sequence": [
+          [
+            "The Eternal Now\n\n<size=45>7 Let us Revel Together</size>",
+            1
+          ]
+        ]
+      },
+      {
+        "nameColor": "#A9F548FF",
+        "side": 2,
+        "bgName": "star_level_bg_189",
+        "hidePaintObj": true,
+        "say": "Vineyard",
+        "bgm": "story-richang-relax",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        },
+        "flashin": {
+          "delay": 0,
+          "dur": 1,
+          "black": true,
+          "alpha": [
+            1,
+            0
+          ]
+        }
+      },
+      {
+        "nameColor": "#A9F548FF",
+        "side": 2,
+        "bgName": "star_level_bg_189",
+        "hidePaintObj": true,
+        "say": "It's been a few months, and autumn has rolled around. The vines fully cover their wooden frames, and the scent of ripe fruit fills the air. Today, I return here with Champagne.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "nameColor": "#A9F548FF",
+        "side": 2,
+        "bgName": "star_level_bg_189",
+        "hidePaintObj": true,
+        "say": "With the intent of opening the bottle of champagne we made that day, of course.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 0,
+        "nameColor": "#A9F548FF",
+        "bgName": "star_level_bg_189",
+        "hidePaintObj": true,
+        "side": 2,
+        "portrait": "zhihuiguan",
+        "say": "This is the perfect time of the year for this.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 4,
+        "side": 2,
+        "bgName": "star_level_bg_189",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "Since the moment we sealed it in its bottle, even the passage of time has become a part of the champagne.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "star_level_bg_189",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "Commander, let us witness its awakening.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "star_level_bg_189",
+        "hidePaintObj": true,
+        "nameColor": "#A9F548FF",
+        "say": "She holds the corkscrew with silent determination, and takes a deep breath.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "nameColor": "#A9F548FF",
+        "side": 2,
+        "bgName": "star_level_bg_189",
+        "hidePaintObj": true,
+        "say": "And with a solemn pop, the bottle is opened. The sparkly champagne releases a delightful fruity scent as it's poured into the glass.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 0,
+        "nameColor": "#A9F548FF",
+        "bgName": "star_level_bg_189",
+        "hidePaintObj": true,
+        "side": 2,
+        "portrait": "zhihuiguan",
+        "say": "Have you decided on a final name for the harvest?",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "star_level_bg_189",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "Indeed I have. I dub it \"The Now.\"",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 0,
+        "nameColor": "#A9F548FF",
+        "bgName": "star_level_bg_189",
+        "hidePaintObj": true,
+        "side": 2,
+        "portrait": "zhihuiguan",
+        "say": "\"The Now?\"",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 2,
+        "side": 2,
+        "bgName": "star_level_bg_189",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "It has neither the grand presence of a century-old oak, nor the baggage of a long lineage, or any mentions in famous almanacs.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 4,
+        "side": 2,
+        "bgName": "star_level_bg_189",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "There is no long story weighing it down... But it embodies a definite warmth and soul in this very moment.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "star_level_bg_189",
+        "withoutActorName": true,
+        "hideRecordIco": true,
+        "actor": 899020,
+        "nameColor": "#A9F548FF",
+        "hidePaintObj": true,
+        "say": "Bubbles rise inside the glass, like little fairies dancing.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "nameColor": "#A9F548FF",
+        "side": 2,
+        "bgName": "star_level_bg_189",
+        "hidePaintObj": true,
+        "say": "We clink our glasses together to toast, a satisfying ringing echoing around us.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "star_level_bg_189",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "To \"The Now.\"",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 0,
+        "nameColor": "#A9F548FF",
+        "bgName": "star_level_bg_189",
+        "hidePaintObj": true,
+        "side": 2,
+        "portrait": "zhihuiguan",
+        "say": "For our \"Now.\" Now and always.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "nameColor": "#A9F548FF",
+        "side": 2,
+        "bgName": "star_level_bg_189",
+        "hidePaintObj": true,
+        "say": "I take a small sip. The first thing that hits me is some acidic notes, followed by a fruity scent and a final sweet and smooth aftertaste.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 899020,
+        "side": 2,
+        "bgName": "star_level_bg_189",
+        "hidePaintObj": true,
+        "withoutActorName": true,
+        "nameColor": "#A9F548FF",
+        "say": "Champagne seems to enjoy herself as well, her eyes overcome with a strong emotion I can't quite place.",
+        "hideRecordIco": true,
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "star_level_bg_189",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "It's so sweet.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 5,
+        "side": 2,
+        "bgName": "star_level_bg_189",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "It's a flavor far more intense than anything I imagined.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "star_level_bg_189",
+        "withoutActorName": true,
+        "hideRecordIco": true,
+        "actor": 899020,
+        "nameColor": "#A9F548FF",
+        "hidePaintObj": true,
+        "say": "She drinks a few glasses, the effect of the drink showing on the blush on her cheeks.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 5,
+        "side": 2,
+        "bgName": "star_level_bg_189",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "...Commander.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "star_level_bg_189",
+        "withoutActorName": true,
+        "hideRecordIco": true,
+        "actor": 899020,
+        "nameColor": "#A9F548FF",
+        "hidePaintObj": true,
+        "say": "She holds out her hand towards me.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "star_level_bg_189",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "Will you listen to my request?",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "star_level_bg_189",
+        "withoutActorName": true,
+        "hideRecordIco": true,
+        "actor": 899020,
+        "nameColor": "#A9F548FF",
+        "hidePaintObj": true,
+        "say": "The gesture takes me by surprise for a moment, but I take her hand.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 0,
+        "nameColor": "#A9F548FF",
+        "bgName": "star_level_bg_189",
+        "hidePaintObj": true,
+        "side": 2,
+        "portrait": "zhihuiguan",
+        "say": "I'd be honored to.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 4,
+        "side": 2,
+        "bgName": "star_level_bg_189",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "Commander, I've always asked myself one question. Why do I exist?",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "star_level_bg_189",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "And I have finally found my answer.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 4,
+        "side": 2,
+        "bgName": "star_level_bg_189",
+        "withoutActorName": true,
+        "hideRecordIco": true,
+        "actor": 899020,
+        "nameColor": "#A9F548FF",
+        "hidePaintObj": true,
+        "say": "She cups my cheeks with her fingers, and our lips meet.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 4,
+        "side": 2,
+        "bgName": "star_level_bg_189",
+        "withoutActorName": true,
+        "hideRecordIco": true,
+        "actor": 899020,
+        "nameColor": "#A9F548FF",
+        "hidePaintObj": true,
+        "say": "Her aroma, a blend of sweet fruit and the soothing scent of a furtive iris blooming under the moonlight, fills my nose.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 5,
+        "side": 2,
+        "bgName": "star_level_bg_189",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "Let us revel in the now... So it may tie us together as we rise towards tomorrow. That we may weave a yet unknown future.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "star_level_bg_189",
+        "withoutActorName": true,
+        "hideRecordIco": true,
+        "actor": 899020,
+        "nameColor": "#A9F548FF",
+        "hidePaintObj": true,
+        "say": "I gently hold her close, and she places both her hands on my chest, before slowly pulling me in by my collar.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "star_level_bg_189",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "...Commander.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 0,
+        "nameColor": "#A9F548FF",
+        "bgName": "star_level_bg_189",
+        "hidePaintObj": true,
+        "side": 2,
+        "portrait": "zhihuiguan",
+        "say": "Hm?",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "star_level_bg_189",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "Do you think we may have more chances to create moments like this together?",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 0,
+        "nameColor": "#A9F548FF",
+        "bgName": "star_level_bg_189",
+        "hidePaintObj": true,
+        "side": 2,
+        "portrait": "zhihuiguan",
+        "say": "Nothing would make me happier.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 4,
+        "side": 2,
+        "bgName": "star_level_bg_189",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "Each new brew will bear a name that only belongs to us.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 5,
+        "side": 2,
+        "bgName": "star_level_bg_189",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "The blank pages of my diary shall await our new memories.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "star_level_bg_189",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "Let us keep this going...",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "star_level_bg_189",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "Writing, dancing... And reveling in the fruits of our labor.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "nameColor": "#A9F548FF",
+        "side": 2,
+        "bgName": "star_level_bg_189",
+        "hidePaintObj": true,
+        "say": "The twilight sun casts a shadow over us both. The long, parallel shadows stretch until they diffuse together.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "nameColor": "#A9F548FF",
+        "side": 2,
+        "bgName": "star_level_bg_189",
+        "hidePaintObj": true,
+        "say": "The now... Stretching unto eternity.",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "nameColor": "#A9F548FF",
+        "side": 2,
+        "bgName": "star_level_bg_189",
+        "hidePaintObj": true,
+        "say": "And our eternity starts now.",
         "typewriter": {
           "speed": 0.05,
           "speedUp": 0.01

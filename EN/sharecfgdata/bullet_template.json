@@ -156546,6 +156546,123 @@
     "type": 1,
     "velocity": 15
   },
+  "161276": {
+    "DMG_font": [
+      [
+        2,
+        1.2
+      ],
+      [
+        2,
+        1.2
+      ],
+      [
+        2,
+        1.2
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "",
+    "ammo_type": 2,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      5,
+      2,
+      2
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      1.1,
+      1.1,
+      1.1
+    ],
+    "effect_type": 1,
+    "extra_param": {
+      "ignoreB": true,
+      "ignoreShield": true
+    },
+    "hit_fx": "Clhit",
+    "hit_sfx": "battle/hit",
+    "hit_type": [],
+    "id": 161276,
+    "miss_fx": "ShellMissBig",
+    "miss_sfx": "battle/sink",
+    "modle_ID": "kuasheAP",
+    "out_bound": 0,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 80,
+    "range_offset": 10,
+    "type": 1,
+    "velocity": 22
+  },
+  "161277": {
+    "DMG_font": [
+      [
+        2,
+        1.2
+      ],
+      [
+        2,
+        1.2
+      ],
+      [
+        2,
+        1.2
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "AlertArea",
+    "ammo_type": 2,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      5,
+      2,
+      2
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      1.1,
+      1.1,
+      1.1
+    ],
+    "effect_type": 1,
+    "extra_param": {
+      "diveFilter": [
+        2
+      ],
+      "gravity": -0.05,
+      "randomOffsetX": 4,
+      "randomOffsetZ": 4
+    },
+    "hit_fx": "ShellHit",
+    "hit_sfx": "battle/hit",
+    "hit_type": {
+      "range": 16,
+      "time": -1
+    },
+    "id": 161277,
+    "miss_fx": "ShellMissBig",
+    "miss_sfx": "battle/sink",
+    "modle_ID": "kuasheAP",
+    "out_bound": 0,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 110,
+    "range_offset": 15,
+    "type": 2,
+    "velocity": 18
+  },
   "161301": {
     "DMG_font": [
       [
@@ -220322,6 +220439,77 @@
     "range_offset": 15,
     "type": 2,
     "velocity": 12
+  },
+  "183955": {
+    "DMG_font": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "acceleration": [
+      {
+        "flip": false,
+        "t": 0,
+        "u": -0.025,
+        "v": 0
+      },
+      {
+        "flip": false,
+        "t": 0.22,
+        "u": 0,
+        "v": 0
+      },
+      {
+        "flip": false,
+        "t": 1,
+        "u": 0.2,
+        "v": 0
+      }
+    ],
+    "alert_fx": "",
+    "ammo_type": 1,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      6,
+      2,
+      2
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      1.1,
+      1.1,
+      1.1
+    ],
+    "effect_type": 1,
+    "extra_param": [],
+    "hit_fx": "ShellMiss",
+    "hit_sfx": "battle/hit",
+    "hit_type": [],
+    "id": 183955,
+    "miss_fx": "ShellMiss",
+    "miss_sfx": "battle/sink",
+    "modle_ID": "BulletUSA_big",
+    "out_bound": 0,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 100,
+    "range_offset": 10,
+    "type": 1,
+    "velocity": 1.5
   },
   "184011": {
     "DMG_font": [
@@ -1329367,6 +1329555,8 @@
     "161273",
     "161274",
     "161275",
+    "161276",
+    "161277",
     "161301",
     "161311",
     "161312",
@@ -1330375,6 +1330565,7 @@
     "183952",
     "183953",
     "183954",
+    "183955",
     "184011",
     "184021",
     "184301",
