@@ -999841,7 +999841,7 @@
     "5033": "LUCK69903",
     "5034": "LUCK79903",
     "5035": "LUCK19906",
-    "5036": null,
+    "5036": "LUCK49905",
     "5037": null,
     "5038": null,
     "5039": null,
@@ -1002946,13 +1002946,13 @@
     "8138": null,
     "8139": null,
     "8140": null,
-    "8141": null,
-    "8142": null,
-    "8143": null,
-    "8144": null,
-    "8145": null,
-    "8146": null,
-    "8147": null,
+    "8141": "XIANGBIN1",
+    "8142": "XIANGBIN2",
+    "8143": "XIANGBIN3",
+    "8144": "XIANGBIN4",
+    "8145": "XIANGBIN5",
+    "8146": "XIANGBIN6",
+    "8147": "XIANGBIN7",
     "8148": null,
     "8149": null,
     "8150": null,
@@ -2845163,7 +2845163,7 @@
         "nameColor": "#FFFFFF",
         "hidePaintObj": true,
         "dir": 1,
-        "say": "指挥官，想要来一场……特殊的告解么？",
+        "say": "{dorm3d}，想要来一场……特殊的告解么？",
         "typewriter": {
           "speed": 0.05,
           "speedUp": 0.01
@@ -2845338,7 +2845338,7 @@
         "nameColor": "#FFFFFF",
         "hidePaintObj": true,
         "dir": 1,
-        "say": "，我刚烤好了一份“仰望”为主题的派。",
+        "say": "{dorm3d}，我刚烤好了一份“仰望”为主题的派。",
         "typewriter": {
           "speed": 0.05,
           "speedUp": 0.01
@@ -2887271,6 +2887271,3957 @@
         "nameColor": "#A9F548FF",
         "hidePaintObj": true,
         "say": "我就不一样了，我和我“伟大的皇家财富号”永不分离~！",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      }
+    ]
+  },
+  "islandside01611": {
+    "id": "ISLANDSIDE01611",
+    "mode": 10,
+    "map": [
+      [
+        101600,
+        10020025
+      ]
+    ],
+    "look_weight": [
+      [
+        0.7,
+        0
+      ],
+      [
+        0.3,
+        0
+      ]
+    ],
+    "scripts": [
+      {
+        "characterId": 0,
+        "say": "远远就看到你笑得很开心，是发生什么有趣的事了么？",
+        "face2Face": [
+          [
+            0,
+            101600
+          ]
+        ],
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "animation": "happy",
+        "characterId": 101600,
+        "subName": "开发季管理员",
+        "say": "噗呵呵……是、是指挥官啊，我正在整理火力小姐送来的照片。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "subName": "开发季管理员",
+        "characterId": 101600,
+        "say": "据她所说，一开始她只是想在岛上到处转转，拍些可爱的东西。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "animation": "amaze",
+        "characterId": 101600,
+        "subName": "开发季管理员",
+        "say": "结果她刚走到果园附近，就拍到了不得了的画面——砂糖橘龙卷风！",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "subName": "开发季管理员",
+        "characterId": 101600,
+        "say": "还有正在做着奇怪动作，似乎在召唤龙卷风的百眼巨人和露西！",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "characterId": 0,
+        "say": "召唤龙卷风？听起来就像灵异故事一样。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "animation": "nod",
+        "characterId": 101600,
+        "subName": "开发季管理员",
+        "say": "呵呵呵~我一开始也这么以为，后来才知道百眼巨人和露西只是在接被风吹掉的砂糖橘。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "subName": "开发季管理员",
+        "characterId": 101600,
+        "say": "像是手忙脚乱的杂技演员，所以从远处拍才看着奇怪。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "subName": "开发季管理员",
+        "characterId": 101600,
+        "say": "据火力小姐所说，百眼巨人只是受露西委托，帮忙把刚采下来的砂糖橘送去商区。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "animation": "amaze",
+        "characterId": 101600,
+        "subName": "开发季管理员",
+        "say": "没想到突然刮起一阵大风，筐里的砂糖橘就被吹得“像龙卷风一样飞起来了”。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "characterId": 0,
+        "say": "原来如此，倒像是火力会说的话。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "subName": "开发季管理员",
+        "characterId": 101600,
+        "say": "是的呢~火力小姐拍完照片后，也立刻跑过去帮忙了。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "subName": "开发季管理员",
+        "characterId": 101600,
+        "say": "等送到商区后，刚好碰上大家正在讨论冬季限定的新甜点。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "animation": "nod",
+        "characterId": 101600,
+        "subName": "开发季管理员",
+        "say": "{namecode:98}小姐一看到这些砂糖橘，马上就拍板说要做“砂糖橘大福”。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "characterId": 0,
+        "say": "听起来是挺不错的。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "subName": "开发季管理员",
+        "characterId": 101600,
+        "say": "嗯，火力小姐试吃后也觉得味道很不错，就自告奋勇帮忙做造型。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "animation": "idea",
+        "characterId": 101600,
+        "subName": "开发季管理员",
+        "say": "然后就出现了船锚大福、指挥喵大福、鬼怪大福……还有很多谁也说不清楚像什么的大福。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "characterId": 0,
+        "say": "这样真的能卖出去？",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "subName": "开发季管理员",
+        "characterId": 101600,
+        "say": "不知道……倒是{namecode:98}小姐很激动，一直在说什么“越怪越好卖喵！”",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "characterId": 0,
+        "say": "有道理，说得我都想买几个了。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "animation": "embarrass",
+        "characterId": 101600,
+        "subName": "开发季管理员",
+        "say": "嗯嗯，指挥官和我想的一样呢，可惜被一旁围观的阿莫玛无情驳回了。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "subName": "开发季管理员",
+        "characterId": 101600,
+        "say": "现在应该只剩下普通的砂糖橘大福了。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "animation": "nod",
+        "characterId": 101600,
+        "subName": "开发季管理员",
+        "say": "指挥官想尝下的话，可以去商区看看哦~",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      }
+    ]
+  },
+  "luck49905": {
+    "id": "LUCK49905",
+    "mode": 2,
+    "fadeOut": 1.5,
+    "scripts": [
+      {
+        "actor": 499050,
+        "side": 2,
+        "nameColor": "#A9F548FF",
+        "hidePaintObj": true,
+        "dir": 1,
+        "say": "呵呵，听见了吗？这来自深渊的回响……沉眠已久的力量，终于苏醒了。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 2,
+        "nameColor": "#A9F548FF",
+        "actor": 499050,
+        "hidePaintObj": true,
+        "dir": 1,
+        "side": 2,
+        "say": "指挥官，你该不会被这狂暴的海浪吓到了吧？",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 499050,
+        "side": 2,
+        "nameColor": "#A9F548FF",
+        "hidePaintObj": true,
+        "dir": 1,
+        "say": "若想与我同行，就要拿出足以驾驭巨浪的勇气。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 499050,
+        "side": 2,
+        "nameColor": "#A9F548FF",
+        "hidePaintObj": true,
+        "dir": 1,
+        "say": "来吧，举起酒杯——今后的每一片海域，都将留下我们征服的足迹，呵呵呵~",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      }
+    ]
+  },
+  "xiangbin1": {
+    "id": "XIANGBIN1",
+    "mode": 2,
+    "fadeOut": 1.5,
+    "scripts": [
+      {
+        "mode": 1,
+        "stopbgm": true,
+        "asideType": 1,
+        "flashout": {
+          "black": true,
+          "dur": 1,
+          "alpha": [
+            0,
+            1
+          ]
+        },
+        "sequence": [
+          [
+            "此刻即永恒\n\n<size=45>一 诗与倒影</size>",
+            1
+          ]
+        ]
+      },
+      {
+        "nameColor": "#A9F548FF",
+        "side": 2,
+        "bgName": "star_level_bg_519",
+        "hidePaintObj": true,
+        "say": "港区·图书馆",
+        "bgm": "story-richang-10",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        },
+        "flashin": {
+          "delay": 0,
+          "dur": 1,
+          "black": true,
+          "alpha": [
+            1,
+            0
+          ]
+        }
+      },
+      {
+        "actor": 899020,
+        "side": 2,
+        "bgName": "star_level_bg_519",
+        "hidePaintObj": true,
+        "withoutActorName": true,
+        "nameColor": "#A9F548FF",
+        "say": "书架深处，我看见一个熟悉的身影安静地坐在角落。",
+        "hideRecordIco": true,
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 899020,
+        "side": 2,
+        "bgName": "star_level_bg_519",
+        "hidePaintObj": true,
+        "withoutActorName": true,
+        "nameColor": "#A9F548FF",
+        "say": "她独自翻阅着手中的诗集，神情专注，指尖轻轻摩挲着书页，连我走近都未曾察觉。",
+        "hideRecordIco": true,
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 899020,
+        "side": 2,
+        "bgName": "star_level_bg_519",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "say": "映于碧波，触之无痕，寻之无迹……",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 0,
+        "nameColor": "#A9F548FF",
+        "bgName": "star_level_bg_519",
+        "hidePaintObj": true,
+        "side": 2,
+        "portrait": "zhihuiguan",
+        "say": "香槟？",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "star_level_bg_519",
+        "withoutActorName": true,
+        "hideRecordIco": true,
+        "actor": 899020,
+        "nameColor": "#A9F548FF",
+        "hidePaintObj": true,
+        "say": "听见我的声音，香槟才缓缓抬起头，眼底还残留着几分迷离。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "star_level_bg_519",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "指挥官……你来了。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 4,
+        "side": 2,
+        "bgName": "star_level_bg_519",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "我正想着，若此刻你经过，便想请你为香槟解答一句诗。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 0,
+        "nameColor": "#A9F548FF",
+        "bgName": "star_level_bg_519",
+        "hidePaintObj": true,
+        "side": 2,
+        "portrait": "zhihuiguan",
+        "say": "哪一句？",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 899020,
+        "side": 2,
+        "bgName": "star_level_bg_519",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "say": "月影倒映水中，却从未真正存在。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "star_level_bg_519",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "指挥官……月影这般虚无之物，真的无法真正存在么？",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        },
+        "options": [
+          {
+            "content": "月光本身就是真实的",
+            "flag": 1
+          },
+          {
+            "content": "那要看“存在”的定义",
+            "flag": 2
+          }
+        ]
+      },
+      {
+        "portrait": "zhihuiguan",
+        "side": 2,
+        "bgName": "star_level_bg_519",
+        "hidePaintObj": true,
+        "nameColor": "#A9F548FF",
+        "optionFlag": 1,
+        "actor": 0,
+        "say": "月光是真实的，倒影只是它落在水面上的另一种样子",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "portrait": "zhihuiguan",
+        "side": 2,
+        "bgName": "star_level_bg_519",
+        "hidePaintObj": true,
+        "nameColor": "#A9F548FF",
+        "optionFlag": 2,
+        "actor": 0,
+        "say": "如果“存在”意味着能被感知，那被我们的看见本身就是它存在的证明。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 899020,
+        "side": 2,
+        "bgName": "star_level_bg_519",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "say": "确然如此……月光穿越无垠夜色，最终抵达水面。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 899020,
+        "side": 2,
+        "bgName": "star_level_bg_519",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "say": "即便只是倒影，也仍是真实光芒的延伸。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 4,
+        "side": 2,
+        "bgName": "star_level_bg_519",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "指挥官看待事物的方式，总是这样直接，却也……令人安心。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "star_level_bg_519",
+        "withoutActorName": true,
+        "hideRecordIco": true,
+        "actor": 899020,
+        "nameColor": "#A9F548FF",
+        "hidePaintObj": true,
+        "say": "她合上诗集，望向窗外。阳光穿过玻璃，在她发间留下细碎的光斑。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 899020,
+        "side": 2,
+        "bgName": "star_level_bg_519",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "say": "这也是投影吧……可香槟能感受到它的温度。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 0,
+        "nameColor": "#A9F548FF",
+        "bgName": "star_level_bg_519",
+        "hidePaintObj": true,
+        "side": 2,
+        "portrait": "zhihuiguan",
+        "say": "嗯，至少这份温暖一定是真的。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 899020,
+        "side": 2,
+        "bgName": "star_level_bg_519",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "say": "……温暖的，投影。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "star_level_bg_519",
+        "withoutActorName": true,
+        "hideRecordIco": true,
+        "actor": 899020,
+        "nameColor": "#A9F548FF",
+        "hidePaintObj": true,
+        "say": "她静静望向我，眸中似是有光的涟漪，缓缓漾开。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "star_level_bg_519",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "或许，我并非在倒影中迷失方向。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 5,
+        "side": 2,
+        "bgName": "star_level_bg_519",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "只是……想与能够给予我温暖之人，一同确认它的形状。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "star_level_bg_519",
+        "withoutActorName": true,
+        "hideRecordIco": true,
+        "actor": 899020,
+        "nameColor": "#A9F548FF",
+        "hidePaintObj": true,
+        "say": "香槟浅浅一笑，将诗集往我这边轻轻挪了挪。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "star_level_bg_519",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "指挥官，可愿暂时放下事务，与香槟共读这些纸页间的絮语？",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 0,
+        "nameColor": "#A9F548FF",
+        "bgName": "star_level_bg_519",
+        "hidePaintObj": true,
+        "side": 2,
+        "portrait": "zhihuiguan",
+        "say": "当然。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 4,
+        "side": 2,
+        "bgName": "star_level_bg_519",
+        "withoutActorName": true,
+        "hideRecordIco": true,
+        "actor": 899020,
+        "nameColor": "#A9F548FF",
+        "hidePaintObj": true,
+        "say": "我们并肩坐在窗边。她低声念着诗句，声音温柔而清晰，如同大提琴缓缓流淌的余韵。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 4,
+        "side": 2,
+        "bgName": "star_level_bg_519",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "指挥官，谢谢你陪我读这些……看似虚无的句子。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 899020,
+        "side": 2,
+        "bgName": "star_level_bg_519",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "say": "正因为有人一同倾听，时间才像被墨迹固定，拥有了具体的轮廓。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "star_level_bg_519",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "所以，香槟还有一个请求。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 5,
+        "side": 2,
+        "bgName": "star_level_bg_519",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "请把今日接下来的时光，也暂时借给我。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "star_level_bg_519",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "读完诗中的倒影后，我想带你去看真正的光……去一个与“创造”有关的地方。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 0,
+        "nameColor": "#A9F548FF",
+        "bgName": "star_level_bg_519",
+        "hidePaintObj": true,
+        "side": 2,
+        "portrait": "zhihuiguan",
+        "say": "好，我陪你。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 899020,
+        "side": 2,
+        "bgName": "star_level_bg_519",
+        "hidePaintObj": true,
+        "withoutActorName": true,
+        "nameColor": "#A9F548FF",
+        "say": "她将诗集合上，又拾起窗台边刚刚飘落的一片叶子，轻轻夹入书页之中。",
+        "hideRecordIco": true,
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 4,
+        "side": 2,
+        "bgName": "star_level_bg_519",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "那么，便让这片叶子作为书签。等我们回来，再从这里继续。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 4,
+        "side": 2,
+        "bgName": "star_level_bg_519",
+        "hidePaintObj": true,
+        "nameColor": "#A9F548FF",
+        "say": "随后，我们一同离开了图书馆。她的步伐比平日快了些许，像是心中多了一份悄然生长的期待。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      }
+    ]
+  },
+  "xiangbin2": {
+    "id": "XIANGBIN2",
+    "mode": 2,
+    "fadeOut": 1.5,
+    "scripts": [
+      {
+        "mode": 1,
+        "stopbgm": true,
+        "asideType": 1,
+        "flashout": {
+          "black": true,
+          "dur": 1,
+          "alpha": [
+            0,
+            1
+          ]
+        },
+        "sequence": [
+          [
+            "此刻即永恒\n\n<size=45>二 梦境与现实</size>",
+            1
+          ]
+        ]
+      },
+      {
+        "nameColor": "#A9F548FF",
+        "side": 2,
+        "bgName": "star_level_bg_529",
+        "hidePaintObj": true,
+        "say": "港区·码头",
+        "bgm": "story-richang-softlight",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        },
+        "flashin": {
+          "delay": 0,
+          "dur": 1,
+          "black": true,
+          "alpha": [
+            1,
+            0
+          ]
+        }
+      },
+      {
+        "nameColor": "#A9F548FF",
+        "side": 2,
+        "bgName": "star_level_bg_529",
+        "hidePaintObj": true,
+        "say": "从图书馆出发，香槟带我来到码头。海面波光粼粼，黄昏的光正沿着浪尖缓缓流动。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 899020,
+        "side": 2,
+        "bgName": "star_level_bg_529",
+        "hidePaintObj": true,
+        "withoutActorName": true,
+        "nameColor": "#A9F548FF",
+        "say": "她在石阶上坐下，将早已准备好的纸盒轻轻打开。",
+        "hideRecordIco": true,
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "star_level_bg_529",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "栗子蒙布朗，指挥官要尝尝看吗？",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "star_level_bg_529",
+        "withoutActorName": true,
+        "hideRecordIco": true,
+        "actor": 899020,
+        "nameColor": "#A9F548FF",
+        "hidePaintObj": true,
+        "say": "香槟轻轻一笑，将小叉子递来。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 4,
+        "side": 2,
+        "bgName": "star_level_bg_529",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "请与香槟一同品尝。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 899020,
+        "side": 2,
+        "bgName": "star_level_bg_529",
+        "hidePaintObj": true,
+        "withoutActorName": true,
+        "nameColor": "#A9F548FF",
+        "say": "甜点入口，栗子的香气醇厚柔和。香槟也挖下一角送入口中，闭上眼细细品味了片刻。",
+        "hideRecordIco": true,
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 899020,
+        "side": 2,
+        "bgName": "star_level_bg_529",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "say": "甜而不腻，栗子的香气也很醇厚……确实适合在海风里慢慢品尝。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "star_level_bg_529",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "指挥官，香槟此刻，好像是在做一个梦。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 899020,
+        "side": 2,
+        "bgName": "star_level_bg_529",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "say": "与你相伴，共理文件，同赴演习，共进茶点……",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 899020,
+        "side": 2,
+        "bgName": "star_level_bg_529",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "say": "明明只是平凡的朝夕，却让我久久难以分辨，这究竟是现实，还是转瞬即逝的恩赐。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 0,
+        "nameColor": "#A9F548FF",
+        "bgName": "star_level_bg_529",
+        "hidePaintObj": true,
+        "side": 2,
+        "portrait": "zhihuiguan",
+        "say": "现在不是梦。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 899020,
+        "side": 2,
+        "bgName": "star_level_bg_529",
+        "hidePaintObj": true,
+        "withoutActorName": true,
+        "nameColor": "#A9F548FF",
+        "say": "我伸出手，握住了她的手。",
+        "hideRecordIco": true,
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 5,
+        "side": 2,
+        "bgName": "star_level_bg_529",
+        "withoutActorName": true,
+        "hideRecordIco": true,
+        "actor": 899020,
+        "nameColor": "#A9F548FF",
+        "hidePaintObj": true,
+        "say": "她的手指微凉，却没有立刻离开。海风拂过，她的发丝轻轻扫过我的脸侧，带来淡淡的鸢尾花香。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 5,
+        "side": 2,
+        "bgName": "star_level_bg_529",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "指挥官的体温，确实很真实。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 4,
+        "side": 2,
+        "bgName": "star_level_bg_529",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "若这是梦，我愿暂时不醒。若这是现实……我便想将它记得更久一些。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 5,
+        "side": 2,
+        "bgName": "star_level_bg_529",
+        "withoutActorName": true,
+        "hideRecordIco": true,
+        "actor": 899020,
+        "nameColor": "#A9F548FF",
+        "hidePaintObj": true,
+        "say": "她轻轻侧过身，将头倚在我的肩上，像一片漂泊的落叶，终于寻到了可以停驻的地方。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 5,
+        "side": 2,
+        "bgName": "star_level_bg_529",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "失礼了，只是片刻就好……请让我确认这份真实。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 899020,
+        "side": 2,
+        "bgName": "star_level_bg_529",
+        "hidePaintObj": true,
+        "withoutActorName": true,
+        "nameColor": "#A9F548FF",
+        "say": "海浪一层一层地涌上岸边，远处桅杆上的海鸥正安静栖着。我们就这样并肩坐着，直到汽笛声自远方传来。",
+        "hideRecordIco": true,
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "star_level_bg_529",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "船来了。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "star_level_bg_529",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "指挥官，接下来请随我前往一处地方。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 0,
+        "nameColor": "#A9F548FF",
+        "bgName": "star_level_bg_529",
+        "hidePaintObj": true,
+        "side": 2,
+        "portrait": "zhihuiguan",
+        "say": "是你说的“创造”？",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "star_level_bg_529",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "嗯，我想亲眼确认——即使是我，是否也能亲手种下属于自己的未来。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      }
+    ]
+  },
+  "xiangbin3": {
+    "id": "XIANGBIN3",
+    "mode": 2,
+    "fadeOut": 1.5,
+    "scripts": [
+      {
+        "mode": 1,
+        "stopbgm": true,
+        "asideType": 1,
+        "flashout": {
+          "black": true,
+          "dur": 1,
+          "alpha": [
+            0,
+            1
+          ]
+        },
+        "sequence": [
+          [
+            "此刻即永恒\n\n<size=45>三 过往与未来</size>",
+            1
+          ]
+        ]
+      },
+      {
+        "nameColor": "#A9F548FF",
+        "side": 2,
+        "bgName": "star_level_bg_307",
+        "hidePaintObj": true,
+        "say": "葡萄园",
+        "bgm": "story-richang-sooth",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        },
+        "flashin": {
+          "delay": 0,
+          "dur": 1,
+          "black": true,
+          "alpha": [
+            1,
+            0
+          ]
+        }
+      },
+      {
+        "nameColor": "#A9F548FF",
+        "side": 2,
+        "bgName": "star_level_bg_307",
+        "hidePaintObj": true,
+        "say": "这里并不平整，葡萄藤沿着缓坡向远处铺展，如同一片被冻结的绿色海洋。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 899020,
+        "side": 2,
+        "bgName": "star_level_bg_307",
+        "hidePaintObj": true,
+        "withoutActorName": true,
+        "nameColor": "#A9F548FF",
+        "say": "香槟缓缓蹲下身，指尖轻轻触碰脚下松软的泥土。",
+        "hideRecordIco": true,
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "star_level_bg_307",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "指挥官，请看这株新藤。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "star_level_bg_307",
+        "withoutActorName": true,
+        "hideRecordIco": true,
+        "actor": 899020,
+        "nameColor": "#A9F548FF",
+        "hidePaintObj": true,
+        "say": "她指向身旁一株刚种下不久的葡萄藤。嫩叶在光中微微舒展，仿佛仍不习惯这片广阔天地。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 899020,
+        "side": 2,
+        "bgName": "star_level_bg_307",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "say": "它没有厚重的历史，没有可供追索的过往。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "star_level_bg_307",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "可它会扎根、成长、开花、结果……它的未来，会从今天开始。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 0,
+        "nameColor": "#A9F548FF",
+        "bgName": "star_level_bg_307",
+        "hidePaintObj": true,
+        "side": 2,
+        "portrait": "zhihuiguan",
+        "say": "和我们一样？",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 4,
+        "side": 2,
+        "bgName": "star_level_bg_307",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "嗯……既然过往无法追索，就一同把当下酿成未来的回忆。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "star_level_bg_307",
+        "withoutActorName": true,
+        "hideRecordIco": true,
+        "actor": 899020,
+        "nameColor": "#A9F548FF",
+        "hidePaintObj": true,
+        "say": "香槟的怅惘渐渐消散。她转头看向我，眼底泛起光亮，语气也变得坚定。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 5,
+        "side": 2,
+        "bgName": "star_level_bg_307",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "指挥官，香槟想与你一同……酿造关于我们的未来。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "star_level_bg_307",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "不是命运偶然垂落的微光，而是由我们亲手摘下、共同酿造的结果。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 0,
+        "nameColor": "#A9F548FF",
+        "bgName": "star_level_bg_307",
+        "hidePaintObj": true,
+        "side": 2,
+        "portrait": "zhihuiguan",
+        "say": "那就从今天开始。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "star_level_bg_307",
+        "withoutActorName": true,
+        "hideRecordIco": true,
+        "actor": 899020,
+        "nameColor": "#A9F548FF",
+        "hidePaintObj": true,
+        "say": "香槟轻轻点头，挽起袖口，动作认真地摘下第一串葡萄。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "star_level_bg_307",
+        "withoutActorName": true,
+        "hideRecordIco": true,
+        "actor": 899020,
+        "nameColor": "#A9F548FF",
+        "hidePaintObj": true,
+        "say": "日光逐渐热烈，她的指尖沾染上葡萄的汁液，眉眼间满是从未有过的鲜活。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "star_level_bg_307",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "指挥官，你流汗了。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 4,
+        "side": 2,
+        "bgName": "star_level_bg_307",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "最美的鸢尾花，会绽放在最辛勤的园丁的泥土上。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 5,
+        "side": 2,
+        "bgName": "star_level_bg_307",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "今日，你也是香槟的园丁。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 0,
+        "nameColor": "#A9F548FF",
+        "bgName": "star_level_bg_307",
+        "hidePaintObj": true,
+        "side": 2,
+        "portrait": "zhihuiguan",
+        "say": "那你呢？",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "star_level_bg_307",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "我会守护我们的未来。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 5,
+        "side": 2,
+        "bgName": "star_level_bg_307",
+        "withoutActorName": true,
+        "hideRecordIco": true,
+        "actor": 899020,
+        "nameColor": "#A9F548FF",
+        "hidePaintObj": true,
+        "say": "采摘结束后，我们开始准备酿造。香槟将手覆在我的手上，与我一同压榨葡萄。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 5,
+        "side": 2,
+        "bgName": "star_level_bg_307",
+        "withoutActorName": true,
+        "hideRecordIco": true,
+        "actor": 899020,
+        "nameColor": "#A9F548FF",
+        "hidePaintObj": true,
+        "say": "紫红色的汁液自指缝间溢出，果香馥郁。她微凉的掌心也染上了与我相近的温度。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "star_level_bg_307",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "原来“创造”的触感，是这样的。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 5,
+        "side": 2,
+        "bgName": "star_level_bg_307",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "并非停留于纸面的辞句，而是重量、温度、香气……以及与指挥官交叠的掌心。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 0,
+        "nameColor": "#A9F548FF",
+        "bgName": "star_level_bg_307",
+        "hidePaintObj": true,
+        "side": 2,
+        "portrait": "zhihuiguan",
+        "say": "等酒酿好了，什么时候启封？",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 5,
+        "side": 2,
+        "bgName": "star_level_bg_307",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "在某个……值得铭记的时刻。比如，待我与指挥官一同完成了某件意义非凡之事之后。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 0,
+        "nameColor": "#A9F548FF",
+        "bgName": "star_level_bg_307",
+        "hidePaintObj": true,
+        "side": 2,
+        "portrait": "zhihuiguan",
+        "say": "我会等着那天的到来。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 4,
+        "side": 2,
+        "bgName": "star_level_bg_307",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "香槟也愿意等待。等待本身……也是值得珍视之物。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "nameColor": "#A9F548FF",
+        "side": 2,
+        "bgName": "star_level_bg_307",
+        "hidePaintObj": true,
+        "say": "一段时间后，我们在基酒中加入糖和酵母，灌入酒瓶中进行漫长的二次发酵。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 5,
+        "side": 2,
+        "bgName": "star_level_bg_307",
+        "hidePaintObj": true,
+        "nameColor": "#A9F548FF",
+        "say": "香槟在标签上写下日期后，笔尖停顿片刻，又轻轻添上了一行小字——“与指挥官共酿”。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 5,
+        "side": 2,
+        "bgName": "star_level_bg_307",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "香槟……期待着未来某日，与指挥官一同启封。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      }
+    ]
+  },
+  "xiangbin4": {
+    "id": "XIANGBIN4",
+    "mode": 2,
+    "fadeOut": 1.5,
+    "scripts": [
+      {
+        "mode": 1,
+        "stopbgm": true,
+        "asideType": 1,
+        "flashout": {
+          "black": true,
+          "dur": 1,
+          "alpha": [
+            0,
+            1
+          ]
+        },
+        "sequence": [
+          [
+            "此刻即永恒\n\n<size=45>四 当下即历史</size>",
+            1
+          ]
+        ]
+      },
+      {
+        "nameColor": "#A9F548FF",
+        "side": 2,
+        "bgName": "bg_story_task_3",
+        "hidePaintObj": true,
+        "say": "港区·指挥室",
+        "bgm": "story-richang-quiet",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        },
+        "flashin": {
+          "delay": 0,
+          "dur": 1,
+          "black": true,
+          "alpha": [
+            1,
+            0
+          ]
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "bg_story_task_3",
+        "hidePaintObj": true,
+        "nameColor": "#A9F548FF",
+        "say": "从葡萄园回来数周后，某个傍晚。我刚处理完手头的工作，便看见香槟抱着一本笔记走了进来。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 0,
+        "nameColor": "#A9F548FF",
+        "bgName": "bg_story_task_3",
+        "hidePaintObj": true,
+        "side": 2,
+        "portrait": "zhihuiguan",
+        "say": "这是？",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 4,
+        "side": 2,
+        "bgName": "bg_story_task_3",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "是从葡萄园回来后……香槟开始写下的日记。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 5,
+        "side": 2,
+        "bgName": "bg_story_task_3",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "若指挥官愿意，我想请你……成为它的第一个读者。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 5,
+        "side": 2,
+        "bgName": "bg_story_task_3",
+        "withoutActorName": true,
+        "hideRecordIco": true,
+        "actor": 899020,
+        "nameColor": "#A9F548FF",
+        "hidePaintObj": true,
+        "say": "她将笔记本递到一半，却又像突然意识到什么似的，指尖轻轻一顿。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 5,
+        "side": 2,
+        "bgName": "bg_story_task_3",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "或许……其中只是些不值一提的私语。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 0,
+        "nameColor": "#A9F548FF",
+        "bgName": "bg_story_task_3",
+        "hidePaintObj": true,
+        "side": 2,
+        "portrait": "zhihuiguan",
+        "say": "没关系，让我看看。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "nameColor": "#A9F548FF",
+        "side": 2,
+        "bgName": "bg_story_task_3",
+        "hidePaintObj": true,
+        "say": "我接过笔记，翻开扉页。上面是香槟工整而雅致的字迹——“始于与指挥官共赴葡萄园之日。”",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "nameColor": "#A9F548FF",
+        "side": 2,
+        "bgName": "bg_story_task_3",
+        "hidePaintObj": true,
+        "say": "纸页间的文字如她本人一般，沉静、细腻，又流露着难以掩饰的温柔。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 0,
+        "nameColor": "#A9F548FF",
+        "bgName": "bg_story_task_3",
+        "hidePaintObj": true,
+        "side": 2,
+        "portrait": "zhihuiguan",
+        "say": "“映于诗篇之外的光，指挥官说它是投影，但温暖是真的。我……似乎找到了某种答案。\"",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 0,
+        "nameColor": "#A9F548FF",
+        "bgName": "bg_story_task_3",
+        "hidePaintObj": true,
+        "side": 2,
+        "portrait": "zhihuiguan",
+        "say": "\"码头的蒙布朗很甜，但比甜点更温暖的，是身旁之人的体温。\"",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 0,
+        "nameColor": "#A9F548FF",
+        "bgName": "bg_story_task_3",
+        "hidePaintObj": true,
+        "side": 2,
+        "portrait": "zhihuiguan",
+        "say": "\"葡萄园的泥土很松软。我们共同创造未来——一株新藤，一桶佳酿，以及……某种期待。\"",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "bg_story_task_3",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "……指挥官。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "bg_story_task_3",
+        "withoutActorName": true,
+        "hideRecordIco": true,
+        "actor": 899020,
+        "nameColor": "#A9F548FF",
+        "hidePaintObj": true,
+        "say": "我抬起头，发现香槟的脸颊已染上淡淡绯色。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "bg_story_task_3",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "这些琐碎的日常……真的值得被铭记么？",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 0,
+        "nameColor": "#A9F548FF",
+        "bgName": "bg_story_task_3",
+        "hidePaintObj": true,
+        "side": 2,
+        "portrait": "zhihuiguan",
+        "say": "当然。因为这就是你自己的历史，香槟。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "bg_story_task_3",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "我的……历史？",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 0,
+        "nameColor": "#A9F548FF",
+        "bgName": "bg_story_task_3",
+        "hidePaintObj": true,
+        "side": 2,
+        "portrait": "zhihuiguan",
+        "say": "这是当下存在的记录，是你真正走过、感受过、珍惜过的此刻。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "bg_story_task_3",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "即使只是这样……相当普通的片段？",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 0,
+        "nameColor": "#A9F548FF",
+        "bgName": "bg_story_task_3",
+        "hidePaintObj": true,
+        "side": 2,
+        "portrait": "zhihuiguan",
+        "say": "对我来说，它们可比办公桌上的文件有意思多了。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 0,
+        "nameColor": "#A9F548FF",
+        "bgName": "bg_story_task_3",
+        "hidePaintObj": true,
+        "side": 2,
+        "portrait": "zhihuiguan",
+        "say": "而且，那桶酒正在发酵，这些文字也是。等到启封的那一天，它们都会成为“此刻真实存在”的证明。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 4,
+        "side": 2,
+        "bgName": "bg_story_task_3",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "……我们共同的证明。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "nameColor": "#A9F548FF",
+        "side": 2,
+        "bgName": "bg_story_task_3",
+        "hidePaintObj": true,
+        "say": "我继续往后翻，却发现中间有一页是空白的。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 0,
+        "nameColor": "#A9F548FF",
+        "bgName": "bg_story_task_3",
+        "hidePaintObj": true,
+        "side": 2,
+        "portrait": "zhihuiguan",
+        "say": "这一页，是留着做什么的？",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 5,
+        "side": 2,
+        "bgName": "bg_story_task_3",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "这一页，香槟想与指挥官……共同书写。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "bg_story_task_3",
+        "withoutActorName": true,
+        "hideRecordIco": true,
+        "actor": 899020,
+        "nameColor": "#A9F548FF",
+        "hidePaintObj": true,
+        "say": "她伸出手指，轻轻点在空白页的正中，而后偏过头看向我。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 0,
+        "nameColor": "#A9F548FF",
+        "bgName": "bg_story_task_3",
+        "hidePaintObj": true,
+        "side": 2,
+        "portrait": "zhihuiguan",
+        "say": "共同书写？",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "bg_story_task_3",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "……是的。以你的目光、你的感受，为我的日记添上另一种声音，让它不再只是香槟一人的独白。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        },
+        "options": [
+          {
+            "content": "该写些什么呢？",
+            "flag": 1
+          },
+          {
+            "content": "可我不擅长写优美的文字。",
+            "flag": 2
+          }
+        ]
+      },
+      {
+        "portrait": "zhihuiguan",
+        "side": 2,
+        "bgName": "bg_story_task_3",
+        "hidePaintObj": true,
+        "nameColor": "#A9F548FF",
+        "optionFlag": 1,
+        "actor": 0,
+        "say": "那该写些什么呢？让我想想……",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "portrait": "zhihuiguan",
+        "side": 2,
+        "bgName": "bg_story_task_3",
+        "hidePaintObj": true,
+        "nameColor": "#A9F548FF",
+        "optionFlag": 2,
+        "actor": 0,
+        "say": "可我不擅长写这种优美的句子，能行么？",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 4,
+        "side": 2,
+        "bgName": "bg_story_task_3",
+        "dir": 1,
+        "optionFlag": 2,
+        "actor": 899020,
+        "nameColor": "#A9F548FF",
+        "hidePaintObj": true,
+        "say": "无需拘泥于辞藻，任何都好。你的思绪，你的记述，哪怕只是几句简单的话语……于我而言，都弥足珍贵。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 0,
+        "nameColor": "#A9F548FF",
+        "bgName": "bg_story_task_3",
+        "hidePaintObj": true,
+        "side": 2,
+        "portrait": "zhihuiguan",
+        "say": "啊，我知道了。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 0,
+        "nameColor": "#A9F548FF",
+        "bgName": "bg_story_task_3",
+        "hidePaintObj": true,
+        "side": 2,
+        "portrait": "zhihuiguan",
+        "say": "“今天，晴。香槟来到指挥室，给我看了她的日记。内容很温暖，想到葡萄园里那桶正在发酵的酒，也想到我们还在等待它启封的那一天。”",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 5,
+        "side": 2,
+        "bgName": "bg_story_task_3",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "唔……是这样吗？",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 0,
+        "nameColor": "#A9F548FF",
+        "bgName": "bg_story_task_3",
+        "hidePaintObj": true,
+        "side": 2,
+        "portrait": "zhihuiguan",
+        "say": "嗯。轮到你了。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 899020,
+        "side": 2,
+        "bgName": "bg_story_task_3",
+        "hidePaintObj": true,
+        "withoutActorName": true,
+        "nameColor": "#A9F548FF",
+        "say": "我将笔递还给她。接过笔后，她垂下眼睫，认真地在我的字迹下方继续写道——",
+        "hideRecordIco": true,
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 4,
+        "side": 2,
+        "bgName": "bg_story_task_3",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "“我邀请指挥官与我共写日记，指挥官应允了。于是此刻，我终于知晓——”",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 4,
+        "side": 2,
+        "bgName": "bg_story_task_3",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "“这一页原本虚白的纸，也已拥有了存在的形状。”",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 899020,
+        "side": 2,
+        "bgName": "bg_story_task_3",
+        "hidePaintObj": true,
+        "withoutActorName": true,
+        "nameColor": "#A9F548FF",
+        "say": "写完后，香槟珍重地看着那本日记，身体也微微朝我这边倾来。",
+        "hideRecordIco": true,
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "nameColor": "#A9F548FF",
+        "side": 2,
+        "bgName": "bg_story_task_3",
+        "hidePaintObj": true,
+        "say": "窗外月光静静洒入室内，为纸页镀上一层银辉。笔尖划过纸面的沙沙轻响，也成了这一刻唯一的旋律。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      }
+    ]
+  },
+  "xiangbin5": {
+    "id": "XIANGBIN5",
+    "mode": 2,
+    "fadeOut": 1.5,
+    "scripts": [
+      {
+        "mode": 1,
+        "stopbgm": true,
+        "asideType": 1,
+        "flashout": {
+          "black": true,
+          "dur": 1,
+          "alpha": [
+            0,
+            1
+          ]
+        },
+        "sequence": [
+          [
+            "此刻即永恒\n\n<size=45>五 诗的舞步</size>",
+            1
+          ]
+        ]
+      },
+      {
+        "nameColor": "#A9F548FF",
+        "side": 2,
+        "bgName": "star_level_bg_542",
+        "hidePaintObj": true,
+        "say": "港区·露台",
+        "bgm": "story-richang-light",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        },
+        "flashin": {
+          "delay": 0,
+          "dur": 1,
+          "black": true,
+          "alpha": [
+            1,
+            0
+          ]
+        }
+      },
+      {
+        "nameColor": "#A9F548FF",
+        "side": 2,
+        "bgName": "star_level_bg_542",
+        "hidePaintObj": true,
+        "say": "几日后的深夜，晚风徐徐。我登上露台透气时，听见了熟悉的低声吟诵。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 899020,
+        "side": 2,
+        "bgName": "star_level_bg_542",
+        "hidePaintObj": true,
+        "withoutActorName": true,
+        "nameColor": "#A9F548FF",
+        "say": "香槟独自站在月光下，倚着栏杆，手中握着几张纸稿。",
+        "hideRecordIco": true,
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "star_level_bg_542",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "指挥官，你来了。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 4,
+        "side": 2,
+        "bgName": "star_level_bg_542",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "我正想去找你，我本想以葡萄园那日为灵感，写一首诗……",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 0,
+        "nameColor": "#A9F548FF",
+        "bgName": "star_level_bg_542",
+        "hidePaintObj": true,
+        "side": 2,
+        "portrait": "zhihuiguan",
+        "say": "是没有灵感么？",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 3,
+        "side": 2,
+        "bgName": "star_level_bg_542",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "嗯……这些天我写了很多句子，但感觉都不对。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 3,
+        "side": 2,
+        "bgName": "star_level_bg_542",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "我的笔尖依然停在原地……",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 3,
+        "side": 2,
+        "bgName": "star_level_bg_542",
+        "withoutActorName": true,
+        "hideRecordIco": true,
+        "actor": 899020,
+        "nameColor": "#A9F548FF",
+        "hidePaintObj": true,
+        "say": "她将纸稿折起，攥在手心，眉间轻蹙。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 3,
+        "side": 2,
+        "bgName": "star_level_bg_542",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "总觉得，那些诗行依旧被困在纸面之上，缺少一个让它们挣脱束缚的姿态。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "star_level_bg_542",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "我想要的，或许是一个能够主动向前、打破这凝滞的瞬间。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 0,
+        "nameColor": "#A9F548FF",
+        "bgName": "star_level_bg_542",
+        "hidePaintObj": true,
+        "side": 2,
+        "portrait": "zhihuiguan",
+        "say": "主动向前么……那我们或许也能试着如葡萄藤一般旋转，向上。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "star_level_bg_542",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "旋转，向上么……",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 5,
+        "side": 2,
+        "bgName": "star_level_bg_542",
+        "withoutActorName": true,
+        "hideRecordIco": true,
+        "actor": 899020,
+        "nameColor": "#A9F548FF",
+        "hidePaintObj": true,
+        "say": "她沉默片刻，忽然向我伸出手，掌心朝上，五指微微张开。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "star_level_bg_542",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "也许诗句的尽头，是舞步也说不一定。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 5,
+        "side": 2,
+        "bgName": "star_level_bg_542",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "如果是指挥官的话……能与香槟共舞吗？",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 0,
+        "nameColor": "#A9F548FF",
+        "bgName": "star_level_bg_542",
+        "hidePaintObj": true,
+        "side": 2,
+        "portrait": "zhihuiguan",
+        "say": "在这里？",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 4,
+        "side": 2,
+        "bgName": "star_level_bg_542",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "是。没有音乐也无妨。海风、月光，还有彼此的呼吸……足以成为节拍。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "star_level_bg_542",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "就像藤蔓挣开泥土的束缚一样，香槟也想亲自迈出这一步。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "star_level_bg_542",
+        "withoutActorName": true,
+        "hideRecordIco": true,
+        "actor": 899020,
+        "nameColor": "#A9F548FF",
+        "hidePaintObj": true,
+        "say": "我握住她的手。香槟向前半步，另一只手轻轻搭上我的肩。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 899020,
+        "side": 2,
+        "bgName": "star_level_bg_542",
+        "hidePaintObj": true,
+        "withoutActorName": true,
+        "nameColor": "#A9F548FF",
+        "say": "月色下，我们慢慢迈开步子。没有悠扬的音乐，唯有海风、月光，以及彼此近在咫尺的心跳。",
+        "hideRecordIco": true,
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "star_level_bg_542",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "指挥官，我的心跳……比任何时候都更加清晰。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 0,
+        "nameColor": "#A9F548FF",
+        "bgName": "star_level_bg_542",
+        "hidePaintObj": true,
+        "side": 2,
+        "portrait": "zhihuiguan",
+        "say": "我也是。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "star_level_bg_542",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "夜风拂起她的长发，轻轻掠过我的脸侧。香槟弯着眉眼，将脸轻轻靠在我肩头，舞步也变得柔和起来。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "star_level_bg_542",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "原来，让诗“动起来”……竟是这样的感觉。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "star_level_bg_542",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "不是被命运推着随波逐流，而是由自己选择靠近，由自己选择将手交给想要触碰的人。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "star_level_bg_542",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "指挥官，这首诗的开头，我已知晓如何落笔。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 0,
+        "nameColor": "#A9F548FF",
+        "bgName": "star_level_bg_542",
+        "hidePaintObj": true,
+        "side": 2,
+        "portrait": "zhihuiguan",
+        "say": "是什么？",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 5,
+        "side": 2,
+        "bgName": "star_level_bg_542",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "是一个想要长久珍藏的……尚未诉诸言语的祈愿。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 5,
+        "side": 2,
+        "bgName": "star_level_bg_542",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "待我写完尾声……这首诗，我会为你亲口吟诵。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 5,
+        "side": 2,
+        "bgName": "star_level_bg_542",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "在未来某个……更合适的时刻。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 0,
+        "nameColor": "#A9F548FF",
+        "bgName": "star_level_bg_542",
+        "hidePaintObj": true,
+        "side": 2,
+        "portrait": "zhihuiguan",
+        "say": "好，我等你。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "nameColor": "#A9F548FF",
+        "side": 2,
+        "bgName": "star_level_bg_542",
+        "hidePaintObj": true,
+        "say": "我们就这样在露台上缓缓旋转。没有固定的节奏，也没有标准的步法。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "nameColor": "#A9F548FF",
+        "side": 2,
+        "bgName": "star_level_bg_542",
+        "hidePaintObj": true,
+        "say": "可正因如此，这支舞才更像是一首只属于此刻的诗。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      }
+    ]
+  },
+  "xiangbin6": {
+    "id": "XIANGBIN6",
+    "mode": 2,
+    "fadeOut": 1.5,
+    "scripts": [
+      {
+        "mode": 1,
+        "stopbgm": true,
+        "asideType": 1,
+        "flashout": {
+          "black": true,
+          "dur": 1,
+          "alpha": [
+            0,
+            1
+          ]
+        },
+        "sequence": [
+          [
+            "此刻即永恒\n\n<size=45>六 暂借之眠</size>",
+            1
+          ]
+        ]
+      },
+      {
+        "nameColor": "#A9F548FF",
+        "side": 2,
+        "bgName": "bg_story_task_3",
+        "hidePaintObj": true,
+        "say": "港区·指挥室",
+        "bgm": "story-richang-light",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        },
+        "flashin": {
+          "delay": 0,
+          "dur": 1,
+          "black": true,
+          "alpha": [
+            1,
+            0
+          ]
+        }
+      },
+      {
+        "nameColor": "#A9F548FF",
+        "side": 2,
+        "bgName": "bg_story_task_3",
+        "hidePaintObj": true,
+        "say": "从露台回来后，香槟没有立刻返回宿舍，而是在沙发上坐下，翻开日记本，继续写着什么。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "nameColor": "#A9F548FF",
+        "side": 2,
+        "bgName": "bg_story_task_3",
+        "hidePaintObj": true,
+        "say": "我则回到办公桌前，开始处理尚未完成的文件。指挥室里重归安静，只余翻页声与笔尖轻轻划过纸面的细响。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 0,
+        "nameColor": "#A9F548FF",
+        "bgName": "bg_story_task_3",
+        "hidePaintObj": true,
+        "side": 2,
+        "portrait": "zhihuiguan",
+        "say": "已经十二点了。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 899020,
+        "side": 2,
+        "bgName": "bg_story_task_3",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "say": "……嗯。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 0,
+        "nameColor": "#A9F548FF",
+        "bgName": "bg_story_task_3",
+        "hidePaintObj": true,
+        "side": 2,
+        "portrait": "zhihuiguan",
+        "say": "还不回去休息么？",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 3,
+        "side": 2,
+        "bgName": "bg_story_task_3",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "诗句尚未完成……况且，你亦未离开。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 4,
+        "side": 2,
+        "bgName": "bg_story_task_3",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "今夜，请允许香槟陪你到最后一刻。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "nameColor": "#A9F548FF",
+        "side": 2,
+        "bgName": "bg_story_task_3",
+        "hidePaintObj": true,
+        "say": "夜色渐深，室内只剩台灯投下的暖光。笔尖划过纸面的沙沙声仿佛某种安静的咒语。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "nameColor": "#A9F548FF",
+        "side": 2,
+        "bgName": "bg_story_task_3",
+        "hidePaintObj": true,
+        "say": "我批完最后一份文件时，眼皮也渐渐变得沉重。只是想着稍微闭目片刻，意识却在不知不觉间沉了下去。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "portrait": "zhihuiguan",
+        "side": 2,
+        "actor": 0,
+        "hidePaintObj": true,
+        "nameColor": "#A9F548FF",
+        "blackBg": true,
+        "say": "（好像……有人轻轻抽走了我手臂下压着的文件。）",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        },
+        "flashout": {
+          "black": true,
+          "dur": 1,
+          "alpha": [
+            0,
+            1
+          ]
+        }
+      },
+      {
+        "actor": 0,
+        "nameColor": "#A9F548FF",
+        "portrait": "zhihuiguan",
+        "hidePaintObj": true,
+        "side": 2,
+        "blackBg": true,
+        "say": "（又好像，有什么柔软的东西披在了我身上……）",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 0,
+        "nameColor": "#A9F548FF",
+        "portrait": "zhihuiguan",
+        "hidePaintObj": true,
+        "side": 2,
+        "blackBg": true,
+        "say": "（还有淡淡的鸢尾花香，近得仿佛触手可及……）",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "nameColor": "#A9F548FF",
+        "side": 2,
+        "bgName": "bg_story_task_3",
+        "hidePaintObj": true,
+        "say": "不知过了多久，我缓缓醒来。身上暖意未散，鼻尖仍萦绕着熟悉的清香。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        },
+        "flashin": {
+          "delay": 0,
+          "dur": 1,
+          "black": true,
+          "alpha": [
+            1,
+            0
+          ]
+        }
+      },
+      {
+        "expression": 5,
+        "side": 2,
+        "bgName": "bg_story_task_3",
+        "withoutActorName": true,
+        "hideRecordIco": true,
+        "actor": 899020,
+        "nameColor": "#A9F548FF",
+        "hidePaintObj": true,
+        "say": "低头时，才发现自己正枕在香槟的膝上，身上还盖着一件衣服。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 0,
+        "nameColor": "#A9F548FF",
+        "bgName": "bg_story_task_3",
+        "hidePaintObj": true,
+        "side": 2,
+        "portrait": "zhihuiguan",
+        "say": "香槟……？",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 5,
+        "side": 2,
+        "bgName": "bg_story_task_3",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "指挥官，我……我并非有意惊扰你的安眠。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 5,
+        "side": 2,
+        "bgName": "bg_story_task_3",
+        "withoutActorName": true,
+        "hideRecordIco": true,
+        "actor": 899020,
+        "nameColor": "#A9F548FF",
+        "hidePaintObj": true,
+        "say": "似乎是被我的声音惊到，香槟手中的笔与诗稿险些滑落。她神色难得有些慌乱，连声音都急促了几分。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 5,
+        "side": 2,
+        "bgName": "bg_story_task_3",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "我、我只是……暂借你的睡颜，为诗句添一分灵感。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 0,
+        "nameColor": "#A9F548FF",
+        "bgName": "bg_story_task_3",
+        "hidePaintObj": true,
+        "side": 2,
+        "portrait": "zhihuiguan",
+        "say": "暂借？",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 4,
+        "side": 2,
+        "bgName": "bg_story_task_3",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "是的，如同暂借月光，暂借海风……也暂借这片刻安宁。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 5,
+        "side": 2,
+        "bgName": "bg_story_task_3",
+        "withoutActorName": true,
+        "hideRecordIco": true,
+        "actor": 899020,
+        "nameColor": "#A9F548FF",
+        "hidePaintObj": true,
+        "say": "她下意识攥紧了诗稿，而我抬手，轻轻握住了她执笔的那只手。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 0,
+        "nameColor": "#A9F548FF",
+        "bgName": "bg_story_task_3",
+        "hidePaintObj": true,
+        "side": 2,
+        "portrait": "zhihuiguan",
+        "say": "那就多借一会。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 5,
+        "side": 2,
+        "bgName": "bg_story_task_3",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "……指挥官。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 5,
+        "side": 2,
+        "bgName": "bg_story_task_3",
+        "withoutActorName": true,
+        "hideRecordIco": true,
+        "actor": 899020,
+        "nameColor": "#A9F548FF",
+        "hidePaintObj": true,
+        "say": "她的手很凉，被握住后，指尖却一点点放松下来。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 5,
+        "side": 2,
+        "bgName": "bg_story_task_3",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "因为夜深了……写久了是会有些冷。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 5,
+        "side": 2,
+        "bgName": "bg_story_task_3",
+        "withoutActorName": true,
+        "hideRecordIco": true,
+        "actor": 899020,
+        "nameColor": "#A9F548FF",
+        "hidePaintObj": true,
+        "say": "我并未放开，反而慢慢收紧了掌心。香槟沉默了片刻，终于低低开口。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 5,
+        "side": 2,
+        "bgName": "bg_story_task_3",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "……贪婪，亦是香槟之罪。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 5,
+        "side": 2,
+        "bgName": "bg_story_task_3",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "明知这只是暂时，却仍想让它停留得更久。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 0,
+        "nameColor": "#A9F548FF",
+        "bgName": "bg_story_task_3",
+        "hidePaintObj": true,
+        "side": 2,
+        "portrait": "zhihuiguan",
+        "say": "那么，让我也贪婪一次。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "bg_story_task_3",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "……指挥官？",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 0,
+        "nameColor": "#A9F548FF",
+        "bgName": "bg_story_task_3",
+        "hidePaintObj": true,
+        "side": 2,
+        "portrait": "zhihuiguan",
+        "say": "暂借你的膝枕，暂借你的外套，暂借……这个夜晚。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "bg_story_task_3",
+        "withoutActorName": true,
+        "hideRecordIco": true,
+        "actor": 899020,
+        "nameColor": "#A9F548FF",
+        "hidePaintObj": true,
+        "say": "香槟低头望着我，唇边终于漾开一抹清晰的笑意。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "bg_story_task_3",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "若如此说来……今夜，我们便是共犯。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "bg_story_task_3",
+        "withoutActorName": true,
+        "hideRecordIco": true,
+        "actor": 899020,
+        "nameColor": "#A9F548FF",
+        "hidePaintObj": true,
+        "say": "她轻轻靠了下来，我们的手依旧交握着。月光透过窗棂洒进室内，为这一刻覆上一层柔和的银辉。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "bg_story_task_3",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "指挥官……请暂借香槟，直至……天明。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 0,
+        "nameColor": "#A9F548FF",
+        "bgName": "bg_story_task_3",
+        "hidePaintObj": true,
+        "side": 2,
+        "portrait": "zhihuiguan",
+        "say": "……好。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 899020,
+        "side": 2,
+        "bgName": "bg_story_task_3",
+        "hidePaintObj": true,
+        "withoutActorName": true,
+        "nameColor": "#A9F548FF",
+        "say": "香槟的呼吸逐渐平稳，陷入浅眠。",
+        "hideRecordIco": true,
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 899020,
+        "side": 2,
+        "bgName": "bg_story_task_3",
+        "hidePaintObj": true,
+        "withoutActorName": true,
+        "nameColor": "#A9F548FF",
+        "say": "我没有动，任由她靠着，目光落在她手中的诗稿上。",
+        "hideRecordIco": true,
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "nameColor": "#A9F548FF",
+        "side": 2,
+        "bgName": "bg_story_task_3",
+        "hidePaintObj": true,
+        "say": "纸页背面，有一行极淡的铅笔字迹，像是更早之前便写下的——",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "nameColor": "#A9F548FF",
+        "side": 2,
+        "bgName": "bg_story_task_3",
+        "hidePaintObj": true,
+        "say": "风在叹息：梦罢，正其时。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      }
+    ]
+  },
+  "xiangbin7": {
+    "id": "XIANGBIN7",
+    "mode": 2,
+    "fadeOut": 1.5,
+    "scripts": [
+      {
+        "mode": 1,
+        "stopbgm": true,
+        "asideType": 1,
+        "flashout": {
+          "black": true,
+          "dur": 1,
+          "alpha": [
+            0,
+            1
+          ]
+        },
+        "sequence": [
+          [
+            "此刻即永恒\n\n<size=45>七 共醉此刻</size>",
+            1
+          ]
+        ]
+      },
+      {
+        "nameColor": "#A9F548FF",
+        "side": 2,
+        "bgName": "star_level_bg_189",
+        "hidePaintObj": true,
+        "say": "葡萄园",
+        "bgm": "story-richang-relax",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        },
+        "flashin": {
+          "delay": 0,
+          "dur": 1,
+          "black": true,
+          "alpha": [
+            1,
+            0
+          ]
+        }
+      },
+      {
+        "nameColor": "#A9F548FF",
+        "side": 2,
+        "bgName": "star_level_bg_189",
+        "hidePaintObj": true,
+        "say": "往后的一个秋日，葡萄园的空气中浮动着成熟果实的芬芳，也浮动着某种期待的气息。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "nameColor": "#A9F548FF",
+        "side": 2,
+        "bgName": "star_level_bg_189",
+        "hidePaintObj": true,
+        "say": "我与香槟重返葡萄园，只为启封那些由我们亲手酿造的酒。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 0,
+        "nameColor": "#A9F548FF",
+        "bgName": "star_level_bg_189",
+        "hidePaintObj": true,
+        "side": 2,
+        "portrait": "zhihuiguan",
+        "say": "这个时间，正是开瓶的最佳时间。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 4,
+        "side": 2,
+        "bgName": "star_level_bg_189",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "自封存的那一刻起，流逝的每一寸光阴，都已成为酒的一部分。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "star_level_bg_189",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "指挥官，请见证它的苏醒。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "star_level_bg_189",
+        "hidePaintObj": true,
+        "nameColor": "#A9F548FF",
+        "say": "她拿起开瓶器，深吸了一口气，动作认真而郑重。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "nameColor": "#A9F548FF",
+        "side": 2,
+        "bgName": "star_level_bg_189",
+        "hidePaintObj": true,
+        "say": "随着一声轻响，封存已久的酒液终于重见天日。清亮的酒液倾入杯中，带着成熟果实与酵母交织出的芳香。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 0,
+        "nameColor": "#A9F548FF",
+        "bgName": "star_level_bg_189",
+        "hidePaintObj": true,
+        "side": 2,
+        "portrait": "zhihuiguan",
+        "say": "这桶酒的名字，想好了吗？",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "star_level_bg_189",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "嗯，我想称它为——“此刻”。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 0,
+        "nameColor": "#A9F548FF",
+        "bgName": "star_level_bg_189",
+        "hidePaintObj": true,
+        "side": 2,
+        "portrait": "zhihuiguan",
+        "say": "此刻？",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 2,
+        "side": 2,
+        "bgName": "star_level_bg_189",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "是，它没有百年橡木的沉淀，也没有酒评机构的背书，更不会被记入任何显赫的年鉴。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 4,
+        "side": 2,
+        "bgName": "star_level_bg_189",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "它没有厚重的历史……却承载着我们此刻真实存在过的温度与心意。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "star_level_bg_189",
+        "withoutActorName": true,
+        "hideRecordIco": true,
+        "actor": 899020,
+        "nameColor": "#A9F548FF",
+        "hidePaintObj": true,
+        "say": "香槟取来两只高脚杯，斟满金色的液体，气泡在杯中升腾，如同某种欢快的舞蹈。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "nameColor": "#A9F548FF",
+        "side": 2,
+        "bgName": "star_level_bg_189",
+        "hidePaintObj": true,
+        "say": "酒杯轻碰，发出一声清脆的回响。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "star_level_bg_189",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "敬“此刻”。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 0,
+        "nameColor": "#A9F548FF",
+        "bgName": "star_level_bg_189",
+        "hidePaintObj": true,
+        "side": 2,
+        "portrait": "zhihuiguan",
+        "say": "敬我们的“此刻”。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "nameColor": "#A9F548FF",
+        "side": 2,
+        "bgName": "star_level_bg_189",
+        "hidePaintObj": true,
+        "say": "我将酒杯送到唇边，轻轻抿了一口。最先袭来的是微酸，随后是柔和的果香，最后在舌尖停留下一缕清甜。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 899020,
+        "side": 2,
+        "bgName": "star_level_bg_189",
+        "hidePaintObj": true,
+        "withoutActorName": true,
+        "nameColor": "#A9F548FF",
+        "say": "香槟闭着眼细细品味，再睁开时，眼中竟多了一层浅浅的水光。",
+        "hideRecordIco": true,
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "star_level_bg_189",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "……是甘甜的。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 5,
+        "side": 2,
+        "bgName": "star_level_bg_189",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "比香槟所想象的……还要令人沉醉。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "star_level_bg_189",
+        "withoutActorName": true,
+        "hideRecordIco": true,
+        "actor": 899020,
+        "nameColor": "#A9F548FF",
+        "hidePaintObj": true,
+        "say": "几杯酒下肚，酒意微醺。她的脸颊也泛起淡淡绯色。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 5,
+        "side": 2,
+        "bgName": "star_level_bg_189",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "……指挥官。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "star_level_bg_189",
+        "withoutActorName": true,
+        "hideRecordIco": true,
+        "actor": 899020,
+        "nameColor": "#A9F548FF",
+        "hidePaintObj": true,
+        "say": "她朝我伸出手，掌心朝上，五指微微张开。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "star_level_bg_189",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "可以么？",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "star_level_bg_189",
+        "withoutActorName": true,
+        "hideRecordIco": true,
+        "actor": 899020,
+        "nameColor": "#A9F548FF",
+        "hidePaintObj": true,
+        "say": "我看着她的手，愣了一秒，随即握住，与她十指相扣。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 0,
+        "nameColor": "#A9F548FF",
+        "bgName": "star_level_bg_189",
+        "hidePaintObj": true,
+        "side": 2,
+        "portrait": "zhihuiguan",
+        "say": "当然。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 4,
+        "side": 2,
+        "bgName": "star_level_bg_189",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "……指挥官。我曾无数次问自己，为何而存在。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "star_level_bg_189",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "如今，我已寻得答案。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 4,
+        "side": 2,
+        "bgName": "star_level_bg_189",
+        "withoutActorName": true,
+        "hideRecordIco": true,
+        "actor": 899020,
+        "nameColor": "#A9F548FF",
+        "hidePaintObj": true,
+        "say": "她用手抚过我的脸颊，随后踮起脚，轻轻吻上了我的唇。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 4,
+        "side": 2,
+        "bgName": "star_level_bg_189",
+        "withoutActorName": true,
+        "hideRecordIco": true,
+        "actor": 899020,
+        "nameColor": "#A9F548FF",
+        "hidePaintObj": true,
+        "say": "这一吻带着酒液的清甜，也带着葡萄成熟时独有的芬芳。她的气息拂过，像一朵在月色下悄然盛放的鸢尾。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 5,
+        "side": 2,
+        "bgName": "star_level_bg_189",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "我们共醉此刻……将未启封的时光，缠绕成朝向明日的螺旋。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "star_level_bg_189",
+        "withoutActorName": true,
+        "hideRecordIco": true,
+        "actor": 899020,
+        "nameColor": "#A9F548FF",
+        "hidePaintObj": true,
+        "say": "我将她轻轻拥入怀中，她的双手抵在我胸前，随后慢慢攥住了我的衣襟。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "star_level_bg_189",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "……指挥官。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 0,
+        "nameColor": "#A9F548FF",
+        "bgName": "star_level_bg_189",
+        "hidePaintObj": true,
+        "side": 2,
+        "portrait": "zhihuiguan",
+        "say": "嗯？",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "star_level_bg_189",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "往后，我们还会一同酿造许多许多桶“时光”吗？",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 0,
+        "nameColor": "#A9F548FF",
+        "bgName": "star_level_bg_189",
+        "hidePaintObj": true,
+        "side": 2,
+        "portrait": "zhihuiguan",
+        "say": "当然会。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 4,
+        "side": 2,
+        "bgName": "star_level_bg_189",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "那以后的每一桶，都将拥有一个只属于你我的名字。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 5,
+        "side": 2,
+        "bgName": "star_level_bg_189",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "而我的日记……也还有许多空白，等待着你来填满。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "star_level_bg_189",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "所以，指挥官，请与我继续——",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "star_level_bg_189",
+        "hidePaintObj": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 899020,
+        "say": "继续书写，继续起舞，继续……共醉于此刻。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "nameColor": "#A9F548FF",
+        "side": 2,
+        "bgName": "star_level_bg_189",
+        "hidePaintObj": true,
+        "say": "黄昏的太阳将我们的影子拉长，仿佛正沿着时间缓缓向前延伸。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "nameColor": "#A9F548FF",
+        "side": 2,
+        "bgName": "star_level_bg_189",
+        "hidePaintObj": true,
+        "say": "我们的此刻，即是永恒。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "nameColor": "#A9F548FF",
+        "side": 2,
+        "bgName": "star_level_bg_189",
+        "hidePaintObj": true,
+        "say": "而我们的永恒，也正从此刻开始。",
         "typewriter": {
           "speed": 0.05,
           "speedUp": 0.01

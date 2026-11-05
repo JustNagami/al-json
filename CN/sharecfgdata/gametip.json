@@ -4384,16 +4384,16 @@
     "tip": "是否升级？升级会消耗对应材料"
   },
   "buildship_heavy_tip": {
-    "tip": "安妮女王复仇号、冈依沙瓦号 等角色 建造追加！"
+    "tip": "克莱蒙梭、里昂、絮弗伦 建造追加！"
   },
   "buildship_light_tip": {
-    "tip": "莱姆号、幻想号 等角色 建造追加！"
+    "tip": "吉尚 建造追加！"
   },
   "buildship_new_tip": {
     "tip": "每累计建造200次可获得海上传奇舰船 {namecode:315}(最多4次)"
   },
   "buildship_special_tip": {
-    "tip": "和睦号 建造追加！"
+    "tip": "伴尔维 建造追加！"
   },
   "buleprint_need_level_tip": {
     "tip": "需角色到达$1级"
@@ -7653,6 +7653,9 @@
   "discount_time": {
     "tip": "<color=grey>折扣剩余时间</color> <color=#92fc63>$1</color>"
   },
+  "display_ship_get_repeat": {
+    "tip": "重复获得提示 "
+  },
   "doa3_activityPageUI_1": {
     "tip": "累计假日闪耀回忆"
   },
@@ -8814,6 +8817,9 @@
   },
   "enter_theme_name": {
     "tip": "输入主题名"
+  },
+  "entrance_maintain": {
+    "tip": "当前功能正在维护中……"
   },
   "equip_add": {
     "tip": "— 点击添加装备 —"
@@ -15997,6 +16003,9 @@
   "island_friend_refuse_all": {
     "tip": "全部拒绝"
   },
+  "island_furniture_interaction_tip1": {
+    "tip": "该家具当前已被岛主占用，请稍后再试"
+  },
   "island_game_limit_help": {
     "tip": "每日0点后进入无人岛可获得$1张许可证"
   },
@@ -17717,6 +17726,15 @@
   "island_spoperation_btn_2605_3": {
     "tip": "活动管理员"
   },
+  "island_spoperation_btn_2611_1": {
+    "tip": "特产采集"
+  },
+  "island_spoperation_btn_2611_2": {
+    "tip": "特产制作"
+  },
+  "island_spoperation_btn_2611_3": {
+    "tip": "活动管理员"
+  },
   "island_spoperation_item_2509_1": {
     "tip": "秋菊"
   },
@@ -17753,6 +17771,18 @@
   "island_spoperation_item_2605_4": {
     "tip": "红米苋"
   },
+  "island_spoperation_item_2611_1": {
+    "tip": "梅花"
+  },
+  "island_spoperation_item_2611_2": {
+    "tip": "水仙花"
+  },
+  "island_spoperation_item_2611_3": {
+    "tip": "冬菇"
+  },
+  "island_spoperation_item_2611_4": {
+    "tip": "马蹄"
+  },
   "island_spoperation_level_2509_1": {
     "tip": "开放条件：岛屿开发等级Lv.1"
   },
@@ -17782,6 +17812,15 @@
   },
   "island_spoperation_tip_2605_3": {
     "tip": "活动期间，在【青芽苗圃】【有鱼餐馆】【手工制作设备】【白熊饮品】中可生产对应特产"
+  },
+  "island_spoperation_tip_2611_1": {
+    "tip": "活动期间，佩芮会连续发布特产订单，完成特产订单可获得开发季PT等奖励。\n*特产订单不占用岛屿订单完成上限、也不提升好评等级\t"
+  },
+  "island_spoperation_tip_2611_2": {
+    "tip": "活动期间，岛屿特定区域中每天都会生长出新的活动采集物，快去寻找吧！"
+  },
+  "island_spoperation_tip_2611_3": {
+    "tip": "活动期间，在【坠香果园】【有鱼餐馆】【啾啾简餐】【手工制作设备】中可生产对应特产\t"
   },
   "island_sub_product_cnt": {
     "tip": "副产物 × $1"
@@ -22345,6 +22384,9 @@
   "onebutton_max_tip": {
     "tip": "一键MAX"
   },
+  "openGLerror_warning": {
+    "tip": "当前机型不支持Vulkan渲染，请前往设置开启兼容渲染模式，切换模式后需要重新进入游戏"
+  },
   "open_backyard_theme_template_tip": {
     "tip": "模板分享功能开启啦"
   },
@@ -23657,6 +23699,48 @@
   },
   "resource_max_tip_storeroom": {
     "tip": "当前数量已达上限"
+  },
+  "resource_repair_check": {
+    "tip": "正在校验资源组：$1 （$2）：$3%"
+  },
+  "resource_repair_finish_tips": {
+    "tip": "修复完毕，需要重启游戏"
+  },
+  "resource_repair_op1": {
+    "tip": "默认资源"
+  },
+  "resource_repair_op2": {
+    "tip": "L2D资源"
+  },
+  "resource_repair_op3": {
+    "tip": "立绘资源"
+  },
+  "resource_repair_op4": {
+    "tip": "密语资源"
+  },
+  "resource_repair_op5": {
+    "tip": "语音资源"
+  },
+  "resource_repair_report1": {
+    "tip": "没有异常文件的资源组：$1"
+  },
+  "resource_repair_report2": {
+    "tip": "修复成功的资源组：$1"
+  },
+  "resource_repair_report3": {
+    "tip": "修复失败的资源组：$1"
+  },
+  "resource_repair_tips1": {
+    "tip": "点击确认开始修复，修复过程需要一定时间"
+  },
+  "resource_repair_tips2": {
+    "tip": "<color=#c5cfdf>期间无法进行其他操作，请耐心等待</color>"
+  },
+  "resource_repair_tips3": {
+    "tip": "请至少选择一项需要修复的资源"
+  },
+  "resource_repairing": {
+    "tip": "正在修复资源组：$1 （$2）：$3%"
   },
   "resource_verify_fail": {
     "tip": "本地有资源异常，请重新打开游戏并进行更新，点击确认关闭游戏。$1"
@@ -26079,6 +26163,9 @@
   "shop_new_bgm": {
     "tip": "音乐"
   },
+  "shop_new_cannot_use_coupon": {
+    "tip": "在商店折扣下，您所拥有的折扣券暂无法使用"
+  },
   "shop_new_category": {
     "tip": "舰种"
   },
@@ -26087,6 +26174,15 @@
   },
   "shop_new_confirm": {
     "tip": "确认"
+  },
+  "shop_new_coupon_tip1": {
+    "tip": "\n包含的换装   如下：\n"
+  },
+  "shop_new_coupon_tip2": {
+    "tip": "$1换装$2\n"
+  },
+  "shop_new_coupon_tip3": {
+    "tip": "获得该折扣券后，需优先使用该折扣券购买皮肤，请谨慎领取。"
   },
   "shop_new_daily": {
     "tip": "每日"
@@ -26133,8 +26229,14 @@
   "shop_new_index": {
     "tip": "索引"
   },
+  "shop_new_lower_price": {
+    "tip": "最低"
+  },
   "shop_new_nation": {
     "tip": "阵营"
+  },
+  "shop_new_only_use_one_coupon": {
+    "tip": "仅可选择一张折扣券使用"
   },
   "shop_new_owned": {
     "tip": "已拥有"
@@ -26403,6 +26505,12 @@
   },
   "skin_discount_timelimit": {
     "tip": "道具$1将于$2 24时后到期，请及时前往换装商店使用"
+  },
+  "skin_double_coupon_confirm": {
+    "tip": "是否消耗<color=#92fc63>$1*1</color>购买折扣价\n<icon name=gem w=0.6 h=0.6/><color=#FFDE38FF>$2</color>的<color=#92fc63>$3</color>皮肤？折扣券不可同时使用。 "
+  },
+  "skin_double_coupon_tip": {
+    "tip": "仅可选择一张折扣券使用 "
   },
   "skin_exchange_confirm": {
     "tip": "是否使用 <color=#92fc63>$1 *1</color> 兑换 <color=#92fc63>$2</color>"
@@ -28096,6 +28204,12 @@
   },
   "trophy_achieved": {
     "tip": "勋章解锁！"
+  },
+  "trun_off_display_ship_get_repeat": {
+    "tip": "重复获得提示已关闭（仅限海域掉落）"
+  },
+  "trun_on_display_ship_get_repeat": {
+    "tip": "重复获得提示已开启"
   },
   "ui_pack_tip1": {
     "tip": "只能购买一个档位，礼包将发送到邮箱请注意查收"
@@ -30803,20 +30917,35 @@
   "world_target_goto": {
     "tip": "前往海域"
   },
+  "world_task_all": {
+    "tip": "任务汇总"
+  },
+  "world_task_get": {
+    "tip": "领取"
+  },
   "world_task_goto0": {
     "tip": "当前海域并非任务目标海域"
   },
   "world_task_goto3": {
     "tip": "舰队已位于任务目标海域"
   },
+  "world_task_main": {
+    "tip": "主线历程"
+  },
   "world_task_maplock": {
     "tip": "当前海域存在尚未完成的任务，目前无法离开。\n请在<color=#ff5c5c>情报</color>中进行确认。\n是否继续？"
+  },
+  "world_task_notask": {
+    "tip": "指挥官，当前还没有接到任务哦"
   },
   "world_task_refuse1": {
     "tip": "任务已到达领取上限，请完成一些任务后再来领取吧"
   },
   "world_task_samemap": {
     "tip": "目标海域存在尚未完成的任务，无法接受该任务"
+  },
+  "world_task_view": {
+    "tip": "查看"
   },
   "world_task_view1": {
     "tip": "任务位置："
