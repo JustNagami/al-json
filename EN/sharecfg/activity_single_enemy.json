@@ -989,6 +989,78 @@
       0
     ]
   },
+  "5001": {
+    "activity_type": 1,
+    "count": 0,
+    "enter_cost": 0,
+    "enter_cost_drop": 0,
+    "expedition_id": 2079001,
+    "extra_drop": "",
+    "guardian_limit": 0,
+    "icon": "",
+    "id": 5001,
+    "level": "30",
+    "limitation": [],
+    "name": "STAGE-1",
+    "pre_chapter": 0,
+    "property_limitation": [],
+    "strategy_id": "",
+    "strategy_num": 0,
+    "time": "always",
+    "type": 1,
+    "use_oil_limit": [
+      0,
+      0
+    ]
+  },
+  "5002": {
+    "activity_type": 1,
+    "count": 0,
+    "enter_cost": 0,
+    "enter_cost_drop": 0,
+    "expedition_id": 2079002,
+    "extra_drop": "",
+    "guardian_limit": 0,
+    "icon": "",
+    "id": 5002,
+    "level": "60",
+    "limitation": [],
+    "name": "STAGE-2",
+    "pre_chapter": 5001,
+    "property_limitation": [],
+    "strategy_id": "",
+    "strategy_num": 0,
+    "time": "always",
+    "type": 1,
+    "use_oil_limit": [
+      0,
+      0
+    ]
+  },
+  "5003": {
+    "activity_type": 1,
+    "count": 0,
+    "enter_cost": 0,
+    "enter_cost_drop": 0,
+    "expedition_id": 2079003,
+    "extra_drop": "",
+    "guardian_limit": 0,
+    "icon": "",
+    "id": 5003,
+    "level": "90",
+    "limitation": [],
+    "name": "STAGE-3",
+    "pre_chapter": 5002,
+    "property_limitation": [],
+    "strategy_id": "",
+    "strategy_num": 0,
+    "time": "always",
+    "type": 1,
+    "use_oil_limit": [
+      0,
+      0
+    ]
+  },
   "1000001": {
     "activity_type": 1,
     "count": 0,
@@ -1146,6 +1218,9 @@
     4001,
     4002,
     4003,
+    5001,
+    5002,
+    5003,
     1000001,
     1000002,
     1000003,
