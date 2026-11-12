@@ -52104,6 +52104,86 @@
     "usage_arg": "4090",
     "virtual_type": 0
   },
+  "40091": {
+    "combination_display": [],
+    "compose_number": 0,
+    "display": "购买礼包可获得战斗界面主题 天使舞台*1,1000物资",
+    "display_effect": "OpenBox",
+    "display_icon": [
+      [
+        31,
+        211,
+        1
+      ],
+      [
+        1,
+        1,
+        1000
+      ]
+    ],
+    "icon": "ChargeIcon/ui12",
+    "id": 40091,
+    "index": [],
+    "is_world": 0,
+    "limit": [],
+    "link_id": 0,
+    "max_num": 0,
+    "name": "天使舞台主题礼包(基础版)",
+    "open_directly": 1,
+    "order": 0,
+    "other_item_cost": "[]",
+    "other_resource_cost": "[]",
+    "price": [],
+    "rarity": 4,
+    "replace_item": 0,
+    "shiptrans_id": [],
+    "target_id": 0,
+    "time_limit": 0,
+    "type": 17,
+    "usage": "usage_drop",
+    "usage_arg": "4091",
+    "virtual_type": 0
+  },
+  "40092": {
+    "combination_display": [],
+    "compose_number": 0,
+    "display": "购买礼包可获得战斗界面主题 天使舞台*1,3060钻石",
+    "display_effect": "OpenBox",
+    "display_icon": [
+      [
+        31,
+        211,
+        1
+      ],
+      [
+        1,
+        14,
+        3060
+      ]
+    ],
+    "icon": "ChargeIcon/ui12",
+    "id": 40092,
+    "index": [],
+    "is_world": 0,
+    "limit": [],
+    "link_id": 0,
+    "max_num": 0,
+    "name": "天使舞台主题礼包(豪华版)",
+    "open_directly": 1,
+    "order": 0,
+    "other_item_cost": "[]",
+    "other_resource_cost": "[]",
+    "price": [],
+    "rarity": 4,
+    "replace_item": 0,
+    "shiptrans_id": [],
+    "target_id": 0,
+    "time_limit": 0,
+    "type": 17,
+    "usage": "usage_drop",
+    "usage_arg": "4092",
+    "virtual_type": 0
+  },
   "40100": {
     "combination_display": [],
     "compose_number": 0,
@@ -139746,6 +139826,8 @@
     40088,
     40089,
     40090,
+    40091,
+    40092,
     40100,
     40101,
     40104,
@@ -144766,6 +144848,8 @@
       40088,
       40089,
       40090,
+      40091,
+      40092,
       40100,
       40101,
       40104,

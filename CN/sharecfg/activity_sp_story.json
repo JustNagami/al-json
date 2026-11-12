@@ -10932,6 +10932,99 @@
     "story_type": 1,
     "unlock_conditions": "完成EX-3"
   },
+  "581": {
+    "change_background": "",
+    "change_bgm": "",
+    "change_prefab": "",
+    "id": 581,
+    "label_key": "",
+    "lock": "",
+    "name": "EPS-1 异次元的新生活",
+    "pre_event": "",
+    "story": "2079004",
+    "story_type": 1,
+    "unlock_conditions": ""
+  },
+  "582": {
+    "change_background": "",
+    "change_bgm": "",
+    "change_prefab": "",
+    "id": 582,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        581
+      ]
+    ],
+    "name": "EPS-2 来办展示会吧！",
+    "pre_event": [
+      581
+    ],
+    "story": "TIANSHIMENDEBILANWUTAIZHANHUI2",
+    "story_type": 1,
+    "unlock_conditions": "完成EPS-1"
+  },
+  "583": {
+    "change_background": "",
+    "change_bgm": "",
+    "change_prefab": "",
+    "id": 583,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        582
+      ]
+    ],
+    "name": "EPS-3 展示会的准备",
+    "pre_event": [
+      582
+    ],
+    "story": "TIANSHIMENDEBILANWUTAIZHANHUI3",
+    "story_type": 1,
+    "unlock_conditions": "完成EPS-1"
+  },
+  "584": {
+    "change_background": "",
+    "change_bgm": "",
+    "change_prefab": "",
+    "id": 584,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        583
+      ]
+    ],
+    "name": "EPS-4 总要有的温泉回？",
+    "pre_event": [
+      583
+    ],
+    "story": "TIANSHIMENDEBILANWUTAIZHANHUI4",
+    "story_type": 1,
+    "unlock_conditions": "完成EPS-2"
+  },
+  "585": {
+    "change_background": "",
+    "change_bgm": "",
+    "change_prefab": "",
+    "id": 585,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        584
+      ]
+    ],
+    "name": "EPS-5 展示会，大成功！",
+    "pre_event": [
+      584
+    ],
+    "story": "TIANSHIMENDEBILANWUTAIZHANHUI5",
+    "story_type": 1,
+    "unlock_conditions": "完成EPS-3"
+  },
   "all": [
     1,
     2,
@@ -11462,6 +11555,11 @@
     573,
     574,
     575,
-    576
+    576,
+    581,
+    582,
+    583,
+    584,
+    585
   ]
 }

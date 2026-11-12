@@ -33072,6 +33072,70 @@
     "trans_type": 0,
     "type": 2
   },
+  "10181": {
+    "code": 10181,
+    "description": [
+      [
+        "限时活动：开幕！天使们的碧蓝舞台",
+        [
+          ""
+        ],
+        0
+      ]
+    ],
+    "group_type": 1180001,
+    "handbook_type": 1,
+    "hide": 0,
+    "index_id": 10181,
+    "nationality": 118,
+    "property_hexagon": [
+      "E",
+      "E",
+      "A",
+      "E",
+      "B",
+      "B"
+    ],
+    "redirect_id": 101,
+    "share_group_id": [],
+    "trans_radar_chart": [],
+    "trans_skill": [],
+    "trans_skin": 0,
+    "trans_type": 0,
+    "type": 6
+  },
+  "10182": {
+    "code": 10182,
+    "description": [
+      [
+        "限时活动：开幕！天使们的碧蓝舞台",
+        [
+          ""
+        ],
+        0
+      ]
+    ],
+    "group_type": 1180002,
+    "handbook_type": 1,
+    "hide": 0,
+    "index_id": 10182,
+    "nationality": 118,
+    "property_hexagon": [
+      "A",
+      "E",
+      "E",
+      "B",
+      "B",
+      "B"
+    ],
+    "redirect_id": 101,
+    "share_group_id": [],
+    "trans_radar_chart": [],
+    "trans_skill": [],
+    "trans_skin": 0,
+    "trans_type": 0,
+    "type": 2
+  },
   "10990": {
     "code": 10990,
     "description": [
@@ -37991,6 +38055,8 @@
     10156,
     10171,
     10172,
+    10181,
+    10182,
     20001,
     20002,
     20003,
@@ -40811,6 +40877,12 @@
     ],
     "1170002": [
       10172
+    ],
+    "1180001": [
+      10181
+    ],
+    "1180002": [
+      10182
     ]
   },
   "get_id_list_by_handbook_type": {
@@ -41605,7 +41677,9 @@
       10155,
       10156,
       10171,
-      10172
+      10172,
+      10181,
+      10182
     ],
     "2": [
       20001,

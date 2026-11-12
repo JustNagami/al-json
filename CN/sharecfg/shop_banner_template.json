@@ -8,8 +8,34 @@
       []
     ],
     "pic": "shopbanner/shop_skin",
+    "pic_overlay": "",
     "relation_param": "",
-    "time": "stop",
+    "time": [
+      [
+        [
+          2026,
+          10,
+          22
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2026,
+          10,
+          28
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
     "time_lable": 1,
     "type": 2
   },
@@ -22,13 +48,14 @@
       []
     ],
     "pic": "shopbanner/shop_skin2",
+    "pic_overlay": "",
     "relation_param": "",
     "time": [
       [
         [
           2026,
           10,
-          19
+          17
         ],
         [
           0,
@@ -61,13 +88,14 @@
       []
     ],
     "pic": "shopbanner/shop_skin3",
+    "pic_overlay": "",
     "relation_param": "",
     "time": [
       [
         [
           2026,
-          6,
-          5
+          11,
+          12
         ],
         [
           0,
@@ -78,8 +106,8 @@
       [
         [
           2026,
-          6,
-          17
+          11,
+          25
         ],
         [
           23,
@@ -100,6 +128,7 @@
       []
     ],
     "pic": "shopbanner/shop_skin4",
+    "pic_overlay": "",
     "relation_param": "",
     "time": "stop",
     "time_lable": 1,
@@ -114,6 +143,7 @@
       []
     ],
     "pic": "shopbanner/shop_skin_default",
+    "pic_overlay": "",
     "relation_param": "",
     "time": "always",
     "time_lable": 0,
@@ -130,6 +160,7 @@
       }
     ],
     "pic": "shopbanner/shop_pack_bg",
+    "pic_overlay": "",
     "relation_param": [
       1,
       9023
@@ -174,6 +205,7 @@
       }
     ],
     "pic": "shopbanner/shop_pack_bg",
+    "pic_overlay": "",
     "relation_param": [
       1,
       9024
@@ -218,6 +250,7 @@
       }
     ],
     "pic": "shopbanner/shop_akashi_recommend",
+    "pic_overlay": "",
     "relation_param": "",
     "time": "always",
     "time_lable": 0,
@@ -234,6 +267,7 @@
       }
     ],
     "pic": "shopbanner/shop_pack_bg",
+    "pic_overlay": "",
     "relation_param": [
       1,
       9021
@@ -278,6 +312,7 @@
       }
     ],
     "pic": "shopbanner/shop_pack_bg",
+    "pic_overlay": "",
     "relation_param": [
       1,
       9022
@@ -322,6 +357,7 @@
       }
     ],
     "pic": "shopbanner/shop_pack_bg",
+    "pic_overlay": "",
     "relation_param": [
       1,
       2093
@@ -366,6 +402,7 @@
       }
     ],
     "pic": "shopbanner/shop_diamond",
+    "pic_overlay": "",
     "relation_param": "",
     "time": "always",
     "time_lable": 0,
@@ -382,6 +419,7 @@
       }
     ],
     "pic": "shopbanner/shop_props",
+    "pic_overlay": "",
     "relation_param": "",
     "time": "always",
     "time_lable": 0,
@@ -393,6 +431,7 @@
     "order": 10,
     "param": "",
     "pic": "",
+    "pic_overlay": "",
     "relation_param": "",
     "time": "stop",
     "time_lable": 0,
@@ -409,6 +448,7 @@
       }
     ],
     "pic": "shopbanner/shop_item_bg",
+    "pic_overlay": "",
     "relation_param": [
       1,
       1
@@ -428,6 +468,7 @@
       }
     ],
     "pic": "shopbanner/shop_event_pt",
+    "pic_overlay": "shopbanner_text/activity",
     "relation_param": "",
     "time": [
       [
@@ -469,6 +510,7 @@
       }
     ],
     "pic": "shopbanner/shop_shopstreet",
+    "pic_overlay": "shopbanner_text/supply",
     "relation_param": "",
     "time": "always",
     "time_lable": 0,
