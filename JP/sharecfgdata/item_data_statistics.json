@@ -51052,6 +51052,86 @@
     "usage_arg": "4090",
     "virtual_type": 0
   },
+  "40091": {
+    "combination_display": [],
+    "compose_number": 0,
+    "display": "購入すると戦闘UI・天使たちのステージ、資金×1000を入手できます",
+    "display_effect": "OpenBox",
+    "display_icon": [
+      [
+        31,
+        211,
+        1
+      ],
+      [
+        1,
+        1,
+        1000
+      ]
+    ],
+    "icon": "ChargeIcon/ui12",
+    "id": 40091,
+    "index": [],
+    "is_world": 0,
+    "limit": [],
+    "link_id": 0,
+    "max_num": 0,
+    "name": "戦闘UI・天使たちのステージ（単品）",
+    "open_directly": 1,
+    "order": 0,
+    "other_item_cost": "[]",
+    "other_resource_cost": "[]",
+    "price": [],
+    "rarity": 4,
+    "replace_item": 0,
+    "shiptrans_id": [],
+    "target_id": 0,
+    "time_limit": 0,
+    "type": 17,
+    "usage": "usage_drop",
+    "usage_arg": "4091",
+    "virtual_type": 0
+  },
+  "40092": {
+    "combination_display": [],
+    "compose_number": 0,
+    "display": "購入すると戦闘UI・天使たちのステージ、ダイヤ×3060を入手できます",
+    "display_effect": "OpenBox",
+    "display_icon": [
+      [
+        31,
+        211,
+        1
+      ],
+      [
+        1,
+        14,
+        3060
+      ]
+    ],
+    "icon": "ChargeIcon/ui12",
+    "id": 40092,
+    "index": [],
+    "is_world": 0,
+    "limit": [],
+    "link_id": 0,
+    "max_num": 0,
+    "name": "戦闘UI・天使たちのステージ（セット）",
+    "open_directly": 1,
+    "order": 0,
+    "other_item_cost": "[]",
+    "other_resource_cost": "[]",
+    "price": [],
+    "rarity": 4,
+    "replace_item": 0,
+    "shiptrans_id": [],
+    "target_id": 0,
+    "time_limit": 0,
+    "type": 17,
+    "usage": "usage_drop",
+    "usage_arg": "4092",
+    "virtual_type": 0
+  },
   "40100": {
     "combination_display": [],
     "compose_number": 0,
@@ -124619,6 +124699,8 @@
     40088,
     40089,
     40090,
+    40091,
+    40092,
     40100,
     40101,
     40102,
@@ -128988,6 +129070,8 @@
       40088,
       40089,
       40090,
+      40091,
+      40092,
       40100,
       40101,
       40102,

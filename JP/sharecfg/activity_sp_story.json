@@ -5882,7 +5882,7 @@
     ],
     "story": "YIHAILIUSHENG2",
     "story_type": 1,
-    "unlock_conditions": "EPS-1をクリア "
+    "unlock_conditions": "EPS-1をクリア"
   },
   "323": {
     "change_background": "star_level_bg_493",
@@ -10932,6 +10932,99 @@
     "story_type": 1,
     "unlock_conditions": "EX-3をクリア"
   },
+  "581": {
+    "change_background": "",
+    "change_bgm": "",
+    "change_prefab": "",
+    "id": 581,
+    "label_key": "",
+    "lock": "",
+    "name": "EPS-1 異世界の新生活",
+    "pre_event": "",
+    "story": "2079004",
+    "story_type": 1,
+    "unlock_conditions": ""
+  },
+  "582": {
+    "change_background": "",
+    "change_bgm": "",
+    "change_prefab": "",
+    "id": 582,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        581
+      ]
+    ],
+    "name": "EPS-2 発表会を開こう！",
+    "pre_event": [
+      581
+    ],
+    "story": "TIANSHIMENDEBILANWUTAIZHANHUI2",
+    "story_type": 1,
+    "unlock_conditions": "EPS-1をクリア"
+  },
+  "583": {
+    "change_background": "",
+    "change_bgm": "",
+    "change_prefab": "",
+    "id": 583,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        582
+      ]
+    ],
+    "name": "EPS-3 発表会に向けて",
+    "pre_event": [
+      582
+    ],
+    "story": "TIANSHIMENDEBILANWUTAIZHANHUI3",
+    "story_type": 1,
+    "unlock_conditions": "EPS-2をクリア"
+  },
+  "584": {
+    "change_background": "",
+    "change_bgm": "",
+    "change_prefab": "",
+    "id": 584,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        583
+      ]
+    ],
+    "name": "EPS-4 温泉での息抜き",
+    "pre_event": [
+      583
+    ],
+    "story": "TIANSHIMENDEBILANWUTAIZHANHUI4",
+    "story_type": 1,
+    "unlock_conditions": "EPS-3をクリア"
+  },
+  "585": {
+    "change_background": "",
+    "change_bgm": "",
+    "change_prefab": "",
+    "id": 585,
+    "label_key": "",
+    "lock": [
+      [
+        4,
+        584
+      ]
+    ],
+    "name": "EPS-5 発表会、大成功！",
+    "pre_event": [
+      584
+    ],
+    "story": "TIANSHIMENDEBILANWUTAIZHANHUI5",
+    "story_type": 1,
+    "unlock_conditions": "EPS-4をクリア"
+  },
   "all": [
     1,
     2,
@@ -11462,6 +11555,11 @@
     573,
     574,
     575,
-    576
+    576,
+    581,
+    582,
+    583,
+    584,
+    585
   ]
 }

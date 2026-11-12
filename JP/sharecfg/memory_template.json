@@ -69696,7 +69696,7 @@
     "year": 2023
   },
   "4841": {
-    "condition": "EPS-1をクリア ",
+    "condition": "EPS-1をクリア",
     "icon": "memory_yihailiusheng",
     "id": 4841,
     "is_open": 0,
@@ -70544,7 +70544,7 @@
     "year": 0
   },
   "4893": {
-    "condition": "EPS-1 をクリア ",
+    "condition": "EPS-1 をクリア",
     "icon": "memory_xiangcheyutianqiongzhiyin1",
     "id": 4893,
     "is_open": 0,
@@ -70724,7 +70724,7 @@
     "year": 0
   },
   "4903": {
-    "condition": "EPS-2 をクリア ",
+    "condition": "EPS-2 をクリア",
     "icon": "memory_xiangcheyutianqiongzhiyin2",
     "id": 4903,
     "is_open": 0,
@@ -70743,7 +70743,7 @@
     "year": 0
   },
   "4904": {
-    "condition": "EPS-2 をクリア ",
+    "condition": "EPS-2 をクリア",
     "icon": "memory_xiangcheyutianqiongzhiyin2",
     "id": 4904,
     "is_open": 0,
@@ -79884,6 +79884,132 @@
     "type": 1,
     "unlock_pre": [
       "XIANGBIN7"
+    ],
+    "year": 0
+  },
+  "5621": {
+    "condition": "EPS-1開始",
+    "icon": "memory_tianshimengdebilanwutai1",
+    "id": 5621,
+    "is_open": 0,
+    "mask": "bg/bg_memory",
+    "number": 0,
+    "ship_group": 0,
+    "story": "2079004",
+    "subtitle": "",
+    "task": 0,
+    "title": "異世界の新生活",
+    "type": 2,
+    "unlock_pre": [
+      "2079004"
+    ],
+    "year": 0
+  },
+  "5622": {
+    "condition": "EPS-2開始",
+    "icon": "memory_tianshimengdebilanwutai1",
+    "id": 5622,
+    "is_open": 0,
+    "mask": "bg/bg_memory",
+    "number": 0,
+    "ship_group": 0,
+    "story": "TIANSHIMENDEBILANWUTAIZHANHUI2",
+    "subtitle": "",
+    "task": 0,
+    "title": "発表会を開こう！",
+    "type": 1,
+    "unlock_pre": [
+      "TIANSHIMENDEBILANWUTAIZHANHUI2"
+    ],
+    "year": 0
+  },
+  "5623": {
+    "condition": "EPS-3開始",
+    "icon": "memory_tianshimengdebilanwutai1",
+    "id": 5623,
+    "is_open": 0,
+    "mask": "bg/bg_memory",
+    "number": 0,
+    "ship_group": 0,
+    "story": "TIANSHIMENDEBILANWUTAIZHANHUI3",
+    "subtitle": "",
+    "task": 0,
+    "title": "発表会に向けて",
+    "type": 1,
+    "unlock_pre": [
+      "TIANSHIMENDEBILANWUTAIZHANHUI3"
+    ],
+    "year": 0
+  },
+  "5624": {
+    "condition": "EPS-4開始",
+    "icon": "memory_tianshimengdebilanwutai1",
+    "id": 5624,
+    "is_open": 0,
+    "mask": "bg/bg_memory",
+    "number": 0,
+    "ship_group": 0,
+    "story": "TIANSHIMENDEBILANWUTAIZHANHUI4",
+    "subtitle": "",
+    "task": 0,
+    "title": "温泉での息抜き",
+    "type": 1,
+    "unlock_pre": [
+      "TIANSHIMENDEBILANWUTAIZHANHUI4"
+    ],
+    "year": 0
+  },
+  "5625": {
+    "condition": "EPS-5開始",
+    "icon": "memory_tianshimengdebilanwutai1",
+    "id": 5625,
+    "is_open": 0,
+    "mask": "bg/bg_memory",
+    "number": 0,
+    "ship_group": 0,
+    "story": "TIANSHIMENDEBILANWUTAIZHANHUI5",
+    "subtitle": "",
+    "task": 0,
+    "title": "発表会、大成功！",
+    "type": 1,
+    "unlock_pre": [
+      "TIANSHIMENDEBILANWUTAIZHANHUI5"
+    ],
+    "year": 0
+  },
+  "5631": {
+    "condition": "「天使たちのステージL」に参加する",
+    "icon": "memory_tianshimengdebilanwutai2",
+    "id": 5631,
+    "is_open": 0,
+    "mask": "bg/bg_memory",
+    "number": 0,
+    "ship_group": 0,
+    "story": "TIANSHIMENDEBILANWUTAIRICHANG1",
+    "subtitle": "",
+    "task": 0,
+    "title": "リリサのお茶会特訓",
+    "type": 1,
+    "unlock_pre": [
+      "TIANSHIMENDEBILANWUTAIRICHANG1"
+    ],
+    "year": 0
+  },
+  "5632": {
+    "condition": "「天使たちのステージM」に参加する",
+    "icon": "memory_tianshimengdebilanwutai2",
+    "id": 5632,
+    "is_open": 0,
+    "mask": "bg/bg_memory",
+    "number": 0,
+    "ship_group": 0,
+    "story": "TIANSHIMENDEBILANWUTAIRICHANG2",
+    "subtitle": "",
+    "task": 0,
+    "title": "美花莉、お仕事に励んでいます",
+    "type": 1,
+    "unlock_pre": [
+      "TIANSHIMENDEBILANWUTAIRICHANG2"
     ],
     "year": 0
   },
@@ -89672,6 +89798,13 @@
     5615,
     5616,
     5617,
+    5621,
+    5622,
+    5623,
+    5624,
+    5625,
+    5631,
+    5632,
     10000,
     10001,
     10002,
