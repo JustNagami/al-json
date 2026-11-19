@@ -956,6 +956,13 @@
   "ShiningMagicCoreActivityUI_subtitle_4": {
     "tip": "カムバック"
   },
+  "SkinDiscountHelp_BlackFriday2026": {
+    "tip": [
+      {
+        "info": "1.活动期间，以<color=#92fc63>原价</color>（不使用换装折扣券）购买一件黑五返场换装或一个换装礼盒(黑五)时，可领取一张<color=#92fc63>换装折扣券（黑五）</color>\n2.<color=#92fc63>换装折扣券（黑五）</color>可用于购买黑五返场任意换装时抵扣300钻石（购买福袋时不可抵扣）\n3.未使用的<color=#92fc63>换装折扣券（黑五）</color>将会在活动结束后（2026年12月9日23:59:59）消失"
+      }
+    ]
+  },
   "SkinDiscountHelp_Carnival": {
     "tip": [
       {
@@ -3898,6 +3905,12 @@
       }
     ]
   },
+  "blackfriday_luckybag_172": {
+    "tip": "当前已拥有换装（$1/$2）。如果已拥有礼盒内全部换装，则返还1080钻石。\n是否确认购买该礼包？"
+  },
+  "blackfriday_luckybag_177": {
+    "tip": "当前已拥有换装（$1/$2）。如果已拥有礼盒内全部换装，则自动置换成等价钻石。\n是否确认购买该礼包？"
+  },
   "blackfriday_main_tip": {
     "tip": [
       {
@@ -4264,16 +4277,16 @@
     "tip": "施設を増築しますか？"
   },
   "buildship_heavy_tip": {
-    "tip": "「クレマンソー」「リヨン」「シュフラン」常設実装！ "
+    "tip": "「雲仙」「尾張」常設実装！"
   },
   "buildship_light_tip": {
-    "tip": "「ギシャン」常設実装！"
+    "tip": "「初月」「名取」常設実装！"
   },
   "buildship_new_tip": {
     "tip": "期間限定建造を累計200回行うと「安土」を確定で入手可能！（最大4隻まで）"
   },
   "buildship_special_tip": {
-    "tip": "「パンルヴェ」常設実装！"
+    "tip": "「雲仙」常設実装！"
   },
   "buleprint_need_level_tip": {
     "tip": "該当艦がレベル$1で開放"
@@ -9423,6 +9436,12 @@
   },
   "exchange_limit_skin_tip": {
     "tip": "試着貸出チケット$1枚を消費して\n【$2】を$3日$4時間を着せ替え可能にしますか?"
+  },
+  "exchange_op": {
+    "tip": "クーポンを利用する"
+  },
+  "exchange_op1": {
+    "tip": "<color=#92fc63>全額割引</color>"
   },
   "exchangecode_title": {
     "tip": "シリアル入力"
@@ -25873,6 +25892,9 @@
   },
   "shop_new_able_to_exchange": {
     "tip": "交換可能衣装"
+  },
+  "shop_new_able_to_exchange_1": {
+    "tip": "割引販売一覧"
   },
   "shop_new_akashi_recommend": {
     "tip": "オススメ"

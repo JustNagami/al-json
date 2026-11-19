@@ -32607,6 +32607,169 @@
     "voice_actor_2": -1,
     "voice_lang": ""
   },
+  "103122": {
+    "bg": "138",
+    "bg_sp": "",
+    "bgm": "",
+    "bound_bone": {
+      "cannon": [
+        [
+          1.35,
+          1.35,
+          0
+        ]
+      ],
+      "torpedo": [
+        [
+          0.116,
+          0.045,
+          0
+        ]
+      ],
+      "vicegun": [
+        [
+          1.301,
+          0.99,
+          0
+        ]
+      ]
+    },
+    "change_skin": "",
+    "desc": "指揮官、どうぞ――症状は全部正直にお話しくださいね、大丈夫よ、どんな小さな異常も見逃さないよう、丁寧に検査してあげるわ",
+    "double_char": 0,
+    "fx_container": [
+      [
+        0,
+        1.99185,
+        1.15
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0.75,
+        -1.299
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "get_showing": {
+      "data": [
+        [
+          -1349,
+          252,
+          2,
+          0,
+          132,
+          2
+        ],
+        [
+          -366,
+          561,
+          2,
+          139,
+          0,
+          2
+        ],
+        [
+          -262,
+          -291,
+          2,
+          0,
+          -178,
+          2
+        ]
+      ],
+      "show": 1
+    },
+    "group_index": 2,
+    "gyro": 0,
+    "hand_id": 1,
+    "id": 103122,
+    "illustrator": -1,
+    "illustrator2": -1,
+    "l2d_animations": "",
+    "l2d_drag_rate": "",
+    "l2d_ignore_drag": 0,
+    "l2d_para_range": "",
+    "l2d_se": "",
+    "l2d_voice_calibrate": "",
+    "lip_smoothing": 0,
+    "lip_sync_gain": 0,
+    "live2d_offset": [
+      0,
+      0,
+      0
+    ],
+    "live2d_offset_profile": "",
+    "lover_hand": "hand_1_02",
+    "lover_kiss": "lip03",
+    "main_UI_FX": "",
+    "name": "ミッドナイト・メディカル",
+    "painting": "xinaoerliang_3",
+    "part_scale": "",
+    "prefab": "xinaoerliang_3",
+    "purchase_offset": "",
+    "rarity_bg": "",
+    "ship_group": 10312,
+    "ship_l2d_id": "",
+    "shop_dynamic_hx": 0,
+    "shop_id": 71425,
+    "shop_offset": [
+      72,
+      -104.7,
+      0,
+      0.38
+    ],
+    "shop_type_id": 15,
+    "show_skin": "stand",
+    "skeleton_default_skin": "",
+    "skin_type": 0,
+    "smoke": [
+      [
+        50,
+        [
+          [
+            "smoke",
+            [
+              -0.57,
+              2.379,
+              0.14
+            ]
+          ]
+        ]
+      ]
+    ],
+    "special_effects": "",
+    "spine_action_offset": false,
+    "spine_offset": [
+      99.5,
+      -109,
+      0,
+      0.38
+    ],
+    "spine_offset_profile": [
+      94.55,
+      -109.96,
+      0,
+      0.35
+    ],
+    "spine_use_live2d": 0,
+    "tag": [
+      2,
+      7
+    ],
+    "time": "",
+    "voice_actor": 289,
+    "voice_actor_2": -1,
+    "voice_lang": ""
+  },
   "103130": {
     "bg": "",
     "bg_sp": "",
@@ -250785,6 +250948,248 @@
     "voice_actor_2": -1,
     "voice_lang": ""
   },
+  "699022": {
+    "bg": "138",
+    "bg_sp": "",
+    "bgm": "",
+    "bound_bone": {
+      "antiaircraft": [
+        [
+          0.88,
+          2.08,
+          0
+        ]
+      ],
+      "cannon": [
+        [
+          1.35,
+          0.98,
+          0
+        ]
+      ],
+      "torpedo": [
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      "vicegun": [
+        [
+          1.462,
+          1.007,
+          0
+        ]
+      ]
+    },
+    "change_skin": "",
+    "desc": "あら……変なところに迷い込んだだけでなく、患者さんにされちゃってるけど……君がお医者さんなら、喜んで付き合うわ…ねえ、指揮官先生♪",
+    "double_char": 0,
+    "fx_container": [
+      [
+        0,
+        1.99185,
+        1.15
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0.75,
+        -1.299
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "get_showing": {
+      "data": [
+        [
+          1269,
+          -190,
+          2,
+          0,
+          120,
+          2
+        ],
+        [
+          159,
+          387,
+          2,
+          -129,
+          0,
+          2
+        ],
+        [
+          -303,
+          -222,
+          2,
+          0,
+          -118,
+          2
+        ]
+      ],
+      "show": 1
+    },
+    "group_index": 2,
+    "gyro": 0,
+    "hand_id": 1,
+    "id": 699022,
+    "illustrator": -1,
+    "illustrator2": -1,
+    "l2d_animations": [
+      "idle",
+      "main_1",
+      "main_2",
+      "main_3",
+      "mission",
+      "mission_complete",
+      "complete",
+      "login",
+      "home",
+      "mail",
+      "touch_body",
+      "touch_head"
+    ],
+    "l2d_drag_rate": [
+      0.6,
+      0.6,
+      0.6
+    ],
+    "l2d_ignore_drag": 0,
+    "l2d_para_range": "",
+    "l2d_se": "",
+    "l2d_voice_calibrate": {
+      "use_event": true
+    },
+    "lip_smoothing": 0,
+    "lip_sync_gain": 0,
+    "live2d_offset": [
+      93,
+      0,
+      0,
+      41
+    ],
+    "live2d_offset_profile": "",
+    "lover_hand": "hand_1_02",
+    "lover_kiss": "lip03",
+    "main_UI_FX": "",
+    "name": "純白の迷い鳥",
+    "painting": "nabulesi_3",
+    "part_scale": "",
+    "prefab": "nabulesi_3",
+    "purchase_offset": "",
+    "rarity_bg": "",
+    "ship_group": 69902,
+    "ship_l2d_id": [
+      69902201,
+      69902202,
+      69902203,
+      69902204,
+      69902205,
+      69902206,
+      69902207,
+      69902208,
+      69902209,
+      69902210,
+      69902214,
+      69902211,
+      69902212,
+      69902213,
+      69902215,
+      69902216,
+      69902217,
+      69902218,
+      69902219,
+      69902220,
+      69902221,
+      69902222,
+      69902223,
+      69902224,
+      69902225,
+      69902226,
+      69902227,
+      69902228,
+      69902229,
+      69902230,
+      69902231,
+      69902232,
+      69902233,
+      69902234,
+      69902235,
+      69902236,
+      69902237,
+      69902238,
+      69902239,
+      69902240,
+      69902241,
+      69902242,
+      69902243,
+      69902244,
+      69902245,
+      69902246,
+      69902247,
+      69902248,
+      69902249,
+      69902250,
+      69902251,
+      69902252,
+      69902253,
+      69902254,
+      69902255,
+      69902256,
+      69902257,
+      69902258,
+      69902259,
+      69902260,
+      69902261
+    ],
+    "shop_dynamic_hx": 0,
+    "shop_id": 71424,
+    "shop_offset": [
+      -132,
+      0,
+      0,
+      41
+    ],
+    "shop_type_id": 15,
+    "show_skin": "stand",
+    "skeleton_default_skin": "",
+    "skin_type": 0,
+    "smoke": [
+      [
+        50,
+        [
+          [
+            "smoke",
+            [
+              -0.473,
+              2.437,
+              0
+            ]
+          ]
+        ]
+      ]
+    ],
+    "special_effects": "",
+    "spine_action_offset": false,
+    "spine_offset": "",
+    "spine_offset_profile": "",
+    "spine_use_live2d": 0,
+    "tag": [
+      1,
+      2
+    ],
+    "time": "",
+    "voice_actor": 189,
+    "voice_actor_2": -1,
+    "voice_lang": ""
+  },
   "699030": {
     "bg": "",
     "bg_sp": "",
@@ -274678,6 +275083,187 @@
     "spine_use_live2d": 0,
     "tag": [
       1,
+      2
+    ],
+    "time": "",
+    "voice_actor": 354,
+    "voice_actor_2": -1,
+    "voice_lang": ""
+  },
+  "807023": {
+    "bg": "605",
+    "bg_sp": "",
+    "bgm": "",
+    "bound_bone": {
+      "cannon": [
+        [
+          1.44,
+          1.37,
+          0
+        ]
+      ],
+      "plane": [
+        [
+          1.41,
+          1.26,
+          0
+        ]
+      ],
+      "torpedo": [
+        [
+          0,
+          0,
+          0
+        ]
+      ]
+    },
+    "change_skin": "",
+    "desc": "あっ…！シーツが飛んで行ってしまうところでした……指揮官がいてくれて助かりました…え、ええと、その…よろしければスカートの裾も抑えていただけますでしょうか…？風で捲られてしまいますから……",
+    "double_char": 0,
+    "fx_container": [
+      [
+        0,
+        1.99185,
+        1.15
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0.75,
+        -1.299
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "get_showing": {
+      "data": [
+        [
+          -1569,
+          193,
+          2,
+          146,
+          0,
+          2
+        ],
+        [
+          -40,
+          435,
+          2,
+          0,
+          -119,
+          2
+        ],
+        [
+          57,
+          -372,
+          2,
+          -113,
+          0,
+          2
+        ]
+      ],
+      "show": 1
+    },
+    "group_index": 3,
+    "gyro": 0,
+    "hand_id": 1,
+    "id": 807023,
+    "illustrator": -1,
+    "illustrator2": -1,
+    "l2d_animations": [
+      "idle",
+      "main_1",
+      "main_2",
+      "main_3",
+      "mission",
+      "mission_complete",
+      "complete",
+      "login",
+      "home",
+      "mail",
+      "touch_body",
+      "touch_head"
+    ],
+    "l2d_drag_rate": "",
+    "l2d_ignore_drag": 0,
+    "l2d_para_range": "",
+    "l2d_se": "",
+    "l2d_voice_calibrate": "",
+    "lip_smoothing": 0,
+    "lip_sync_gain": 0,
+    "live2d_offset": [
+      0,
+      0,
+      0
+    ],
+    "live2d_offset_profile": "",
+    "lover_hand": "hand_1_02",
+    "lover_kiss": "lip03",
+    "main_UI_FX": "",
+    "name": "晴れの日に、幸ある白衣の天使を",
+    "painting": "banerwei_4",
+    "part_scale": "",
+    "prefab": "banerwei_4",
+    "purchase_offset": "",
+    "rarity_bg": "",
+    "ship_group": 80702,
+    "ship_l2d_id": [
+      80702201,
+      80702202,
+      80702203,
+      80702204
+    ],
+    "shop_dynamic_hx": 0,
+    "shop_id": 71426,
+    "shop_offset": [
+      32.92,
+      6.4,
+      0,
+      0.55
+    ],
+    "shop_type_id": 15,
+    "show_skin": "stand",
+    "skeleton_default_skin": "",
+    "skin_type": 0,
+    "smoke": [
+      [
+        50,
+        [
+          [
+            "smoke",
+            [
+              -0.67,
+              2.28,
+              -1.85
+            ]
+          ]
+        ]
+      ]
+    ],
+    "special_effects": "",
+    "spine_action_offset": false,
+    "spine_offset": [
+      -55.6,
+      21.39,
+      0,
+      0.52
+    ],
+    "spine_offset_profile": [
+      42.8,
+      91.33,
+      0,
+      0.45
+    ],
+    "spine_use_live2d": 0,
+    "tag": [
+      6,
       2
     ],
     "time": "",
@@ -373865,6 +374451,7 @@
     103112,
     103120,
     103121,
+    103122,
     103130,
     103131,
     103132,
@@ -375587,6 +376174,7 @@
     807020,
     807021,
     807022,
+    807023,
     808010,
     808011,
     808012,
@@ -376471,6 +377059,7 @@
     999021,
     699020,
     699021,
+    699022,
     799020,
     799021,
     799022,
@@ -376937,7 +377526,8 @@
     ],
     "10312": [
       103120,
-      103121
+      103121,
+      103122
     ],
     "10313": [
       103130,
@@ -379665,7 +380255,8 @@
     ],
     "69902": [
       699020,
-      699021
+      699021,
+      699022
     ],
     "69903": [
       699030,
@@ -379968,7 +380559,8 @@
     "80702": [
       807020,
       807021,
-      807022
+      807022,
+      807023
     ],
     "80801": [
       808010,
@@ -384157,6 +384749,7 @@
       101311,
       101531,
       102341,
+      103122,
       105132,
       107131,
       201151,
@@ -384174,9 +384767,11 @@
       401112,
       701062,
       702072,
+      807023,
       901072,
       9600072,
-      299052
+      299052,
+      699022
     ],
     "16": [
       101451,

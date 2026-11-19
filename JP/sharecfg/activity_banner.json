@@ -23,7 +23,7 @@
         [
           2026,
           11,
-          25
+          26
         ],
         [
           23,
@@ -37,14 +37,36 @@
   "2": {
     "id": 2,
     "param": [
-      "scene get boat",
-      {
-        "page": 1,
-        "projectName": "new"
-      }
+      "scene skinshop",
+      []
     ],
     "pic": "temp2",
-    "time": "stop",
+    "time": [
+      [
+        [
+          2026,
+          11,
+          19
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2026,
+          11,
+          25
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
     "type": 2
   },
   "3": {
@@ -73,7 +95,7 @@
         [
           2026,
           11,
-          25
+          26
         ],
         [
           23,
@@ -156,7 +178,7 @@
         [
           2026,
           11,
-          25
+          26
         ],
         [
           23,
@@ -170,14 +192,35 @@
   "7": {
     "id": 7,
     "param": [
-      "scene equip",
-      {
-        "designPage": 2,
-        "warp": "WARP_TO_DESIGN"
-      }
+      "dorm 3d select"
     ],
     "pic": "temp7",
-    "time": "stop",
+    "time": [
+      [
+        [
+          2026,
+          11,
+          19
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2026,
+          11,
+          25
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
     "type": 2
   },
   "8": {
@@ -215,14 +258,39 @@
   "9": {
     "id": 9,
     "param": [
-      "scene equip",
+      "scene level",
       {
-        "designPage": 2,
-        "warp": "WARP_TO_DESIGN"
+        "isEX": true,
+        "open_remaster": true
       }
     ],
     "pic": "temp9",
-    "time": "stop",
+    "time": [
+      [
+        [
+          2026,
+          11,
+          19
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2026,
+          11,
+          24
+        ],
+        [
+          16,
+          0,
+          0
+        ]
+      ]
+    ],
     "type": 2
   },
   "90": {
@@ -254,8 +322,8 @@
       [
         [
           2026,
-          10,
-          22
+          11,
+          19
         ],
         [
           0,
@@ -267,7 +335,7 @@
         [
           2026,
           11,
-          4
+          25
         ],
         [
           23,
@@ -688,6 +756,55 @@
     "time": "stop",
     "type": 2
   },
+  "1065": {
+    "id": 1065,
+    "param": [
+      "scene get boat",
+      {
+        "page": 1,
+        "projectName": "new"
+      }
+    ],
+    "pic": "temp1065",
+    "time": "stop",
+    "type": 2
+  },
+  "1066": {
+    "id": 1066,
+    "param": [
+      "scene charge",
+      {
+        "wrap": 2
+      }
+    ],
+    "pic": "temp998",
+    "time": "stop",
+    "type": 2
+  },
+  "1067": {
+    "id": 1067,
+    "param": [
+      "scene core activity",
+      {
+        "coreName": "TianYuTianYuanCoreActivityReUI"
+      }
+    ],
+    "pic": "temp1066",
+    "time": "stop",
+    "type": 2
+  },
+  "1068": {
+    "id": 1068,
+    "param": [
+      "scene shop",
+      {
+        "warp": "shopstreet"
+      }
+    ],
+    "pic": "temp1067",
+    "time": "stop",
+    "type": 2
+  },
   "all": [
     1,
     2,
@@ -735,7 +852,11 @@
     1061,
     1062,
     1063,
-    1064
+    1064,
+    1065,
+    1066,
+    1067,
+    1068
   ],
   "get_id_list_by_type": {
     "2": [
@@ -774,7 +895,11 @@
       1061,
       1062,
       1063,
-      1064
+      1064,
+      1065,
+      1066,
+      1067,
+      1068
     ],
     "3": [
       8

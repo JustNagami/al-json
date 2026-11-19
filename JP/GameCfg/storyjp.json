@@ -1001049,9 +1001049,9 @@
     "8168": null,
     "8169": null,
     "8170": null,
-    "8171": null,
-    "8172": null,
-    "8173": null,
+    "8171": "SHISHANGTEKANXINDONGZHENLIAOSHIJIAN1",
+    "8172": "SHISHANGTEKANXINDONGZHENLIAOSHIJIAN2",
+    "8173": "SHISHANGTEKANXINDONGZHENLIAOSHIJIAN3",
     "8174": null,
     "8175": null,
     "8176": null,
@@ -2916787,6 +2916787,1725 @@
             0
           ]
         ]
+      }
+    ]
+  },
+  "shishangtekanxindongzhenliaoshijian1": {
+    "fadeOut": 1.5,
+    "mode": 2,
+    "id": "SHISHANGTEKANXINDONGZHENLIAOSHIJIAN1",
+    "placeholder": [
+      "playername"
+    ],
+    "scripts": [
+      {
+        "hideRecordIco": true,
+        "side": 2,
+        "bgName": "star_level_bg_308",
+        "withoutActorName": true,
+        "bgm": "story-richang-light",
+        "actor": 699022,
+        "nameColor": "#A9F548FF",
+        "live2d": "home",
+        "say": "ナポリからの連絡を受けて医務室の扉を開けると、診察チェアに浅く座りながら背をもたれさせているナポリの姿があった。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        },
+        "flashin": {
+          "delay": 0,
+          "dur": 1,
+          "black": true,
+          "alpha": [
+            1,
+            0
+          ]
+        }
+      },
+      {
+        "actor": 699022,
+        "side": 2,
+        "bgName": "star_level_bg_308",
+        "live2d": true,
+        "withoutActorName": true,
+        "nameColor": "#A9F548FF",
+        "say": "こちらの存在に気づくと、彼女はゆっくりと目を開けた。",
+        "hideRecordIco": true,
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 699022,
+        "nameColor": "#A9F548FF",
+        "bgName": "star_level_bg_308",
+        "live2d": true,
+        "dir": 1,
+        "side": 2,
+        "say": "んん……指揮官来てたのね",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 699022,
+        "side": 2,
+        "bgName": "star_level_bg_308",
+        "live2d": true,
+        "withoutActorName": true,
+        "nameColor": "#A9F548FF",
+        "say": "寝起きのとろんとした目をしながら、ナポリはあまり力が入ってないような声で声をかけてきた。",
+        "hideRecordIco": true,
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 699022,
+        "nameColor": "#A9F548FF",
+        "bgName": "star_level_bg_308",
+        "live2d": true,
+        "dir": 1,
+        "side": 2,
+        "say": "君を待っているうちに、いつの間にか眠ってしまって……",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "portrait": "zhihuiguan",
+        "side": 2,
+        "bgName": "star_level_bg_308",
+        "nameColor": "#A9F548FF",
+        "hideRecordIco": true,
+        "actor": 699022,
+        "actorName": "{playername}",
+        "live2d": "mail",
+        "say": "――ナポリ、その格好は……？",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 5,
+        "side": 2,
+        "bgName": "star_level_bg_308",
+        "live2d": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 699022,
+        "say": "そこの案内に書いてあったわ。検査の前は楽な服装に着替える必要があるって",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 5,
+        "side": 2,
+        "bgName": "star_level_bg_308",
+        "live2d": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 699022,
+        "say": "せっかく指揮官にお願いするんだもの。先に準備しておこうかなと思って",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 699022,
+        "side": 2,
+        "bgName": "star_level_bg_308",
+        "live2d": true,
+        "withoutActorName": true,
+        "nameColor": "#A9F548FF",
+        "say": "気だるげで、それでいて無防備な姿のナポリが座っている診察チェアのそばへ歩み寄った。",
+        "hideRecordIco": true,
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 699022,
+        "nameColor": "#A9F548FF",
+        "bgName": "star_level_bg_308",
+        "live2d": "main1",
+        "dir": 1,
+        "side": 2,
+        "say": "指揮官、検査をしてくださるの？",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "portrait": "zhihuiguan",
+        "side": 2,
+        "bgName": "star_level_bg_308",
+        "nameColor": "#A9F548FF",
+        "hideRecordIco": true,
+        "actor": 699022,
+        "actorName": "{playername}",
+        "live2d": true,
+        "say": "――あくまで状態を軽く確認するだけだよ。本当に具合が悪いならあとでちゃんとお医者さんに来てもらおう",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 5,
+        "side": 2,
+        "bgName": "star_level_bg_308",
+        "live2d": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 699022,
+        "say": "ええ、お医者さんの言いつけはちゃんと守るわ",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "star_level_bg_308",
+        "live2d": "mission",
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 699022,
+        "say": "でも……まずは指揮官先生に診てもらおうかな？",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 5,
+        "side": 2,
+        "bgName": "star_level_bg_308",
+        "portrait": "zhihuiguan",
+        "nameColor": "#A9F548FF",
+        "hideRecordIco": true,
+        "actor": 699022,
+        "actorName": "{playername}",
+        "live2d": true,
+        "say": "――じゃあ力を抜いて普通に呼吸して。基本的な項目から診ていくよ",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 5,
+        "side": 2,
+        "bgName": "star_level_bg_308",
+        "live2d": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 699022,
+        "say": "ええ。お手柔らかにね",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 5,
+        "side": 2,
+        "bgName": "star_level_bg_308",
+        "withoutActorName": true,
+        "hideRecordIco": true,
+        "actor": 699022,
+        "nameColor": "#A9F548FF",
+        "live2d": true,
+        "say": "体温計とカルテを持ち、医務室の手順にならって体温、脈拍、呼吸の状態を順に確かめていった。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 5,
+        "side": 2,
+        "bgName": "star_level_bg_308",
+        "withoutActorName": true,
+        "hideRecordIco": true,
+        "actor": 699022,
+        "nameColor": "#A9F548FF",
+        "live2d": "mission_complete",
+        "say": "ナポリは静かに応じながら、時々小さく首をかしげるも、なんだか嬉しそうな瞳で見つめてきた。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 5,
+        "side": 2,
+        "bgName": "star_level_bg_308",
+        "portrait": "zhihuiguan",
+        "nameColor": "#A9F548FF",
+        "hideRecordIco": true,
+        "actor": 699022,
+        "actorName": "{playername}",
+        "live2d": "headtouch",
+        "say": "――体温は正常。脈は少し速いかな。血圧はやや低め……今日はまだ何も食べてないとか？",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 8,
+        "side": 2,
+        "bgName": "star_level_bg_308",
+        "live2d": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 699022,
+        "say": "ええと……朝食は……用意した記憶はあるけれど…",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 8,
+        "side": 2,
+        "bgName": "star_level_bg_308",
+        "portrait": "zhihuiguan",
+        "nameColor": "#A9F548FF",
+        "hideRecordIco": true,
+        "actor": 699022,
+        "actorName": "{playername}",
+        "live2d": true,
+        "say": "――用意したのと、食べたのは別の話だ",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 1,
+        "side": 2,
+        "bgName": "star_level_bg_308",
+        "live2d": "touch",
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 699022,
+        "say": "ふふふ、指揮官にはバレてしまったわね～",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 699022,
+        "nameColor": "#A9F548FF",
+        "bgName": "star_level_bg_308",
+        "live2d": true,
+        "dir": 1,
+        "side": 2,
+        "say": "食堂へ行くつもりだったんだけれど、いつの間にか中庭に出てて、海沿いを少し歩いて……気がついたらここに辿り着いていたわ",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "portrait": "zhihuiguan",
+        "side": 2,
+        "bgName": "star_level_bg_308",
+        "nameColor": "#A9F548FF",
+        "hideRecordIco": true,
+        "actor": 699022,
+        "actorName": "{playername}",
+        "live2d": true,
+        "say": "――つまり、空腹のまま歩きすぎて低血糖と疲労が出たわけか……道理で眠そうなはずだ",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 699022,
+        "nameColor": "#A9F548FF",
+        "bgName": "star_level_bg_308",
+        "live2d": "touch2",
+        "dir": 1,
+        "side": 2,
+        "say": "それが原因なのね……さっき医務室のプレートを見たときも文字が踊っているみたいだったもの",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "portrait": "zhihuiguan",
+        "side": 2,
+        "bgName": "star_level_bg_308",
+        "nameColor": "#A9F548FF",
+        "hideRecordIco": true,
+        "actor": 699022,
+        "actorName": "{playername}",
+        "live2d": true,
+        "say": "――まずは糖分を補充しないと",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 2,
+        "side": 2,
+        "bgName": "star_level_bg_308",
+        "live2d": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 699022,
+        "say": "糖分……甘いものを食べさせてくださるのかしら？",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 2,
+        "side": 2,
+        "bgName": "star_level_bg_308",
+        "portrait": "zhihuiguan",
+        "nameColor": "#A9F548FF",
+        "hideRecordIco": true,
+        "actor": 699022,
+        "actorName": "{playername}",
+        "live2d": true,
+        "say": "――ブドウ糖のタブレットと水だよ",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 1,
+        "side": 2,
+        "bgName": "star_level_bg_308",
+        "live2d": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 699022,
+        "say": "ふふふ、ざんねーん",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "star_level_bg_308",
+        "live2d": "main2",
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 699022,
+        "say": "でも、指揮官が渡してくれるものなら、ただのお水だって特別に甘くなるわ",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 5,
+        "side": 2,
+        "bgName": "star_level_bg_308",
+        "withoutActorName": true,
+        "hideRecordIco": true,
+        "actor": 699022,
+        "nameColor": "#A9F548FF",
+        "live2d": true,
+        "say": "水とブドウ糖のタブレットを差し出すと、ナポリは素直に飲み下し、さっきよりもいくらか目が覚めたように見えた。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 5,
+        "side": 2,
+        "bgName": "star_level_bg_308",
+        "portrait": "zhihuiguan",
+        "nameColor": "#A9F548FF",
+        "hideRecordIco": true,
+        "actor": 699022,
+        "actorName": "{playername}",
+        "live2d": true,
+        "say": "――ちょっとは良くなったかな？",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 5,
+        "side": 2,
+        "bgName": "star_level_bg_308",
+        "live2d": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 699022,
+        "say": "ええ……さっきよりは良くなったわ",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "star_level_bg_308",
+        "live2d": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 699022,
+        "say": "ただ、指揮官がこんなに近くにいるせいか……鼓動がまだ少し速いみたい",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "star_level_bg_308",
+        "portrait": "zhihuiguan",
+        "nameColor": "#A9F548FF",
+        "hideRecordIco": true,
+        "actor": 699022,
+        "actorName": "{playername}",
+        "live2d": "main3",
+        "say": "――低血糖からまだ脱せてないからだ。しばらくそのまま横になって",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 699022,
+        "nameColor": "#A9F548FF",
+        "bgName": "star_level_bg_308",
+        "live2d": true,
+        "dir": 1,
+        "side": 2,
+        "say": "そう……",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 2,
+        "side": 2,
+        "bgName": "star_level_bg_308",
+        "withoutActorName": true,
+        "hideRecordIco": true,
+        "actor": 699022,
+        "nameColor": "#A9F548FF",
+        "live2d": true,
+        "say": "ナポリは指を伸ばし、そっとこちらの袖口に引っかけた。自分が彼女から離れていかないか確認するかのように。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 2,
+        "side": 2,
+        "bgName": "star_level_bg_308",
+        "live2d": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 699022,
+        "say": "指揮官……せっかく診てくださってるんだし…もう少し付き合って？",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 2,
+        "side": 2,
+        "bgName": "star_level_bg_308",
+        "live2d": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 699022,
+        "say": "具合が良くなったら食堂まで付き合ってね。わたくしがちゃんと昼食を食べるところまで見届けてほしいわ",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 5,
+        "side": 2,
+        "bgName": "star_level_bg_308",
+        "live2d": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 699022,
+        "say": "それから……わたくしが元気になったら…海辺を一緒に散歩してくれない？",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 5,
+        "side": 2,
+        "bgName": "star_level_bg_308",
+        "live2d": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 699022,
+        "say": "涼しい潮風と明るい陽射し、そばにいてくれる指揮官……それらがあれば元気なままでいられるから♪",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 9,
+        "side": 2,
+        "bgName": "star_level_bg_308",
+        "withoutActorName": true,
+        "hideRecordIco": true,
+        "actor": 699022,
+        "nameColor": "#A9F548FF",
+        "live2d": "login",
+        "say": "とろんとした瞳のまま、ナポリは囁きながらゆっくりと距離を詰めてくる。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 9,
+        "side": 2,
+        "bgName": "star_level_bg_308",
+        "live2d": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 699022,
+        "say": "だから、指揮官先生～",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 9,
+        "side": 2,
+        "bgName": "star_level_bg_308",
+        "live2d": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 699022,
+        "say": "今日は……ご自分の患者に最後まで責任を持ってくださるわよね～？",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      }
+    ]
+  },
+  "shishangtekanxindongzhenliaoshijian2": {
+    "fadeOut": 1.5,
+    "mode": 2,
+    "id": "SHISHANGTEKANXINDONGZHENLIAOSHIJIAN2",
+    "placeholder": [
+      "playername"
+    ],
+    "scripts": [
+      {
+        "hideRecordIco": true,
+        "side": 2,
+        "bgName": "star_level_bg_138",
+        "spine": true,
+        "withoutActorName": true,
+        "bgm": "story-richang-relax",
+        "actor": 103122,
+        "nameColor": "#A9F548FF",
+        "say": "深夜の医務室。ニューオリンズの臨時助手として、最後の一束になったカルテを整理していた。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        },
+        "flashin": {
+          "delay": 0,
+          "dur": 1,
+          "black": true,
+          "alpha": [
+            1,
+            0
+          ]
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "star_level_bg_138",
+        "spine": true,
+        "withoutActorName": true,
+        "hideRecordIco": true,
+        "actor": 103122,
+        "nameColor": "#A9F548FF",
+        "say": "とうに仕事を終えているニューオリンズは、デスクの縁に腰かけ、履いていた靴を脱いでひと息ついている。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "star_level_bg_138",
+        "spine": true,
+        "dir": 1,
+        "actor": 103122,
+        "nameColor": "#A9F548FF",
+        "say": "ふぅ……今日の勤務もようやく一段落ね",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 3,
+        "side": 2,
+        "bgName": "star_level_bg_138",
+        "spine": true,
+        "dir": 1,
+        "actor": 103122,
+        "nameColor": "#A9F548FF",
+        "say": "遅くまで付き合わせてしまったわね。お疲れさま、指揮官",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        },
+        "options": [
+          {
+            "content": "そっちもお疲れさま",
+            "flag": 1
+          }
+        ]
+      },
+      {
+        "expression": 3,
+        "side": 2,
+        "bgName": "star_level_bg_138",
+        "spine": true,
+        "portrait": "zhihuiguan",
+        "optionFlag": 1,
+        "nameColor": "#A9F548FF",
+        "hideRecordIco": true,
+        "actor": 103122,
+        "actorName": "{playername}",
+        "say": "――ニューオリンズもお疲れさま。もう遅いし早めに戻って休もう",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 2,
+        "side": 2,
+        "bgName": "star_level_bg_138",
+        "spine": true,
+        "dir": 1,
+        "actor": 103122,
+        "nameColor": "#A9F548FF",
+        "say": "戻って休む…？ふふふ、指揮官はまだ休んじゃだめよ",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 2,
+        "side": 2,
+        "bgName": "star_level_bg_138",
+        "spine": true,
+        "portrait": "zhihuiguan",
+        "nameColor": "#A9F548FF",
+        "hideRecordIco": true,
+        "actor": 103122,
+        "actorName": "{playername}",
+        "say": "――まだ終わってない仕事があるのか？",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 8,
+        "side": 2,
+        "bgName": "star_level_bg_138",
+        "spine": true,
+        "dir": 1,
+        "actor": 103122,
+        "nameColor": "#A9F548FF",
+        "say": "お仕事のほうは片付いたわ。次に……私の健康状態を確かめてほしいの",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 2,
+        "side": 2,
+        "bgName": "star_level_bg_138",
+        "spine": true,
+        "withoutActorName": true,
+        "hideRecordIco": true,
+        "actor": 103122,
+        "nameColor": "#A9F548FF",
+        "say": "ニューオリンズは足を組んだまま、そのつま先でこちらの脛をそっとなぞった。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 5,
+        "side": 2,
+        "bgName": "star_level_bg_138",
+        "spine": true,
+        "dir": 1,
+        "actor": 103122,
+        "nameColor": "#A9F548FF",
+        "say": "働きすぎたせいかしら。なんだか少し体の調子がよくないわ",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 5,
+        "side": 2,
+        "bgName": "star_level_bg_138",
+        "spine": true,
+        "portrait": "zhihuiguan",
+        "nameColor": "#A9F548FF",
+        "hideRecordIco": true,
+        "actor": 103122,
+        "actorName": "{playername}",
+        "say": "――どこか具合が悪いの？",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 5,
+        "side": 2,
+        "bgName": "star_level_bg_138",
+        "spine": true,
+        "dir": 1,
+        "actor": 103122,
+        "nameColor": "#A9F548FF",
+        "say": "そうね……大したことはないのだけど、首と肩が凝っていて、少し熱っぽいかも……",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 5,
+        "side": 2,
+        "bgName": "star_level_bg_138",
+        "spine": true,
+        "portrait": "zhihuiguan",
+        "nameColor": "#A9F548FF",
+        "hideRecordIco": true,
+        "actor": 103122,
+        "actorName": "{playername}",
+        "say": "――ほかの先生を呼んでこようか？",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 8,
+        "side": 2,
+        "bgName": "star_level_bg_138",
+        "spine": true,
+        "dir": 1,
+        "actor": 103122,
+        "nameColor": "#A9F548FF",
+        "say": "そんな、大げさよ。指揮官がちょっと診てくれるだけでいいわ",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 8,
+        "side": 2,
+        "bgName": "star_level_bg_138",
+        "spine": true,
+        "dir": 1,
+        "actor": 103122,
+        "nameColor": "#A9F548FF",
+        "say": "今日はずっとそばで手伝ってくれてたし、見よう見まねでもできるでしょう？",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 103122,
+        "nameColor": "#A9F548FF",
+        "bgName": "star_level_bg_138",
+        "spine": true,
+        "dir": 1,
+        "side": 2,
+        "say": "安心して。体温とか脈拍とか、基本的なところだけでいいから",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 1,
+        "side": 2,
+        "bgName": "star_level_bg_138",
+        "spine": true,
+        "withoutActorName": true,
+        "hideRecordIco": true,
+        "actor": 103122,
+        "nameColor": "#A9F548FF",
+        "say": "持っていたカルテをそっと手元に置くと、ニューオリンズはこちらを見上げた。マスクで口元を隠していても、笑みをたたえた瞳までは隠せていなかった。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 1,
+        "side": 2,
+        "bgName": "star_level_bg_138",
+        "spine": true,
+        "dir": 1,
+        "actor": 103122,
+        "nameColor": "#A9F548FF",
+        "say": "まずは……体温ね。手の甲を私の額にそっと当ててくれるかしら",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 1,
+        "side": 2,
+        "bgName": "star_level_bg_138",
+        "spine": true,
+        "withoutActorName": true,
+        "hideRecordIco": true,
+        "actor": 103122,
+        "nameColor": "#A9F548FF",
+        "say": "言われるまま手を伸ばし、ニューオリンズの額にそっと触れた。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 1,
+        "side": 2,
+        "bgName": "star_level_bg_138",
+        "spine": true,
+        "withoutActorName": true,
+        "hideRecordIco": true,
+        "actor": 103122,
+        "nameColor": "#A9F548FF",
+        "say": "手の甲からほのかな熱が伝わってきて、耳元に彼女の静かな呼吸音が聞こえてくる。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 1,
+        "side": 2,
+        "bgName": "star_level_bg_138",
+        "spine": true,
+        "portrait": "zhihuiguan",
+        "nameColor": "#A9F548FF",
+        "hideRecordIco": true,
+        "actor": 103122,
+        "actorName": "{playername}",
+        "say": "――たしかに体温がちょっと高いかも。でもまだ正常の範囲内かな",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 1,
+        "side": 2,
+        "bgName": "star_level_bg_138",
+        "spine": true,
+        "dir": 1,
+        "actor": 103122,
+        "nameColor": "#A9F548FF",
+        "say": "ふふ、丁寧に診てくれたわね",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 103122,
+        "nameColor": "#A9F548FF",
+        "bgName": "star_level_bg_138",
+        "spine": true,
+        "dir": 1,
+        "side": 2,
+        "say": "じゃあ、次は脈拍よ",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 103122,
+        "side": 2,
+        "bgName": "star_level_bg_138",
+        "spine": true,
+        "withoutActorName": true,
+        "nameColor": "#A9F548FF",
+        "say": "ニューオリンズは袖を少しだけ捲り上げ、白い手首が見えるように差し出した。",
+        "hideRecordIco": true,
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 103122,
+        "nameColor": "#A9F548FF",
+        "bgName": "star_level_bg_138",
+        "spine": true,
+        "dir": 1,
+        "side": 2,
+        "say": "指先をここに当てて……ええ、もう少し優しく……数十秒、数え続けて",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 103122,
+        "side": 2,
+        "bgName": "star_level_bg_138",
+        "spine": true,
+        "withoutActorName": true,
+        "nameColor": "#A9F548FF",
+        "say": "言われた通り、ニューオリンズの手首に指先を添えた。",
+        "hideRecordIco": true,
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 4,
+        "side": 2,
+        "bgName": "star_level_bg_138",
+        "spine": true,
+        "withoutActorName": true,
+        "hideRecordIco": true,
+        "actor": 103122,
+        "nameColor": "#A9F548FF",
+        "say": "やや速く感じる脈が指先に伝わってきた。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 4,
+        "side": 2,
+        "bgName": "star_level_bg_138",
+        "spine": true,
+        "portrait": "zhihuiguan",
+        "nameColor": "#A9F548FF",
+        "hideRecordIco": true,
+        "actor": 103122,
+        "actorName": "{playername}",
+        "say": "――脈は……少し速い",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 7,
+        "side": 2,
+        "bgName": "star_level_bg_138",
+        "spine": true,
+        "dir": 1,
+        "actor": 103122,
+        "nameColor": "#A9F548FF",
+        "say": "そうね……私もどんどん火照ってきた感じがするもの",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 7,
+        "side": 2,
+        "bgName": "star_level_bg_138",
+        "spine": true,
+        "withoutActorName": true,
+        "hideRecordIco": true,
+        "actor": 103122,
+        "nameColor": "#A9F548FF",
+        "say": "ニューオリンズはこちらの手を取り、細い首筋をなぞるように指先を滑らせ、やがて胸元へと押し当てた。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 7,
+        "side": 2,
+        "bgName": "star_level_bg_138",
+        "spine": true,
+        "withoutActorName": true,
+        "hideRecordIco": true,
+        "actor": 103122,
+        "nameColor": "#A9F548FF",
+        "say": "服越しに感じる柔らかさの奥で、ドクンドクンと鼓動が速くなっていた。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 2,
+        "side": 2,
+        "bgName": "star_level_bg_138",
+        "spine": true,
+        "dir": 1,
+        "actor": 103122,
+        "nameColor": "#A9F548FF",
+        "say": "今度は……もっと踏み込んだ検査をしましょうか。指揮官♡",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      }
+    ]
+  },
+  "shishangtekanxindongzhenliaoshijian3": {
+    "fadeOut": 1.5,
+    "mode": 2,
+    "id": "SHISHANGTEKANXINDONGZHENLIAOSHIJIAN3",
+    "placeholder": [
+      "playername"
+    ],
+    "scripts": [
+      {
+        "hideRecordIco": true,
+        "side": 2,
+        "bgName": "star_level_bg_605",
+        "spine": true,
+        "withoutActorName": true,
+        "bgm": "story-richang-quiet",
+        "actor": 807023,
+        "nameColor": "#A9F548FF",
+        "say": "屋上への扉を押し開けると、潮風が頬を撫で、何枚もの帆のように風で煽られている白いシーツが目に入った。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        },
+        "flashin": {
+          "delay": 0,
+          "dur": 1,
+          "black": true,
+          "alpha": [
+            1,
+            0
+          ]
+        }
+      },
+      {
+        "actor": 807023,
+        "side": 2,
+        "bgName": "star_level_bg_605",
+        "spine": true,
+        "withoutActorName": true,
+        "nameColor": "#A9F548FF",
+        "say": "そんなシーツの向こうで、パンルヴェの姿がかすかに揺れていた。",
+        "hideRecordIco": true,
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 807023,
+        "nameColor": "#A9F548FF",
+        "bgName": "star_level_bg_605",
+        "spine": true,
+        "dir": 1,
+        "side": 2,
+        "say": "うぅ……あと少しなのに……",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 807023,
+        "nameColor": "#A9F548FF",
+        "bgName": "star_level_bg_605",
+        "spine": true,
+        "dir": 1,
+        "side": 2,
+        "say": "いいお洗濯日和になりますようにってお祈りしたはずなのに……どうして急に強風が……",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 807023,
+        "side": 2,
+        "bgName": "star_level_bg_605",
+        "spine": true,
+        "withoutActorName": true,
+        "nameColor": "#A9F548FF",
+        "say": "風が屋上に吹き付けると、洗濯ばさみで留めようとしていたシーツがロープから外れ、自分の方向へ舞い飛んできた。",
+        "hideRecordIco": true,
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 807023,
+        "side": 2,
+        "bgName": "star_level_bg_605",
+        "spine": true,
+        "withoutActorName": true,
+        "nameColor": "#A9F548FF",
+        "say": "パンルヴェは慌てて手を伸ばすも体勢を崩し、風にあおられてスカートの裾がめくれた。",
+        "hideRecordIco": true,
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 807023,
+        "nameColor": "#A9F548FF",
+        "bgName": "star_level_bg_605",
+        "spine": true,
+        "dir": 1,
+        "side": 2,
+        "say": "――ひゃぅっ！？",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 807023,
+        "side": 2,
+        "bgName": "star_level_bg_605",
+        "spine": true,
+        "withoutActorName": true,
+        "nameColor": "#A9F548FF",
+        "say": "シーツを掴むと同時にとっさに踏み込み、もう片方の手でパンルヴェの体を支えてあげた。",
+        "hideRecordIco": true,
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 807023,
+        "nameColor": "#A9F548FF",
+        "bgName": "star_level_bg_605",
+        "spine": true,
+        "dir": 1,
+        "side": 2,
+        "say": "し、指揮官さま……！？",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 807023,
+        "nameColor": "#A9F548FF",
+        "bgName": "star_level_bg_605",
+        "spine": true,
+        "dir": 1,
+        "side": 2,
+        "say": "ちょうどいいところに……ううん、アイリスが私の祈りを聞き届けてくださった、ということでしょうか……？",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "portrait": "zhihuiguan",
+        "side": 2,
+        "bgName": "star_level_bg_605",
+        "spine": true,
+        "nameColor": "#A9F548FF",
+        "hideRecordIco": true,
+        "actor": 807023,
+        "actorName": "{playername}",
+        "say": "――手を貸そうか？",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 1,
+        "side": 2,
+        "bgName": "star_level_bg_605",
+        "spine": true,
+        "dir": 1,
+        "actor": 807023,
+        "nameColor": "#A9F548FF",
+        "say": "ありがとうございます……お洗濯したシーツを干そうと思っていましたのに…",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 4,
+        "side": 2,
+        "bgName": "star_level_bg_605",
+        "spine": true,
+        "dir": 1,
+        "actor": 807023,
+        "nameColor": "#A9F548FF",
+        "say": "急に風が強くなって、シーツが飛ぶだけでなく……スカートまでめくれてしまい……",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 4,
+        "side": 2,
+        "bgName": "star_level_bg_605",
+        "spine": true,
+        "dir": 1,
+        "actor": 807023,
+        "nameColor": "#A9F548FF",
+        "say": "指揮官さま、しばらく私のそばで風を遮ってはいただけませんか？指揮官さまが手伝ってくださるなら、きっとずっと上手くいきますから…",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 4,
+        "side": 2,
+        "bgName": "star_level_bg_605",
+        "spine": true,
+        "withoutActorName": true,
+        "hideRecordIco": true,
+        "actor": 807023,
+        "nameColor": "#A9F548FF",
+        "say": "パンルヴェの声はだんだんと小さく、白い頬にもうっすらと朱が差していく。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 4,
+        "side": 2,
+        "bgName": "star_level_bg_605",
+        "spine": true,
+        "withoutActorName": true,
+        "hideRecordIco": true,
+        "actor": 807023,
+        "nameColor": "#A9F548FF",
+        "say": "自分は風上に背を向け、シーツと乱れ舞うスカートを一緒に押さえた。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 1,
+        "side": 2,
+        "bgName": "star_level_bg_605",
+        "spine": true,
+        "dir": 1,
+        "actor": 807023,
+        "nameColor": "#A9F548FF",
+        "say": "ありがとうございますっ……今日の「幸ある順番」では、まずこの角を留めて、それから向こうを挟んで……",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 1,
+        "side": 2,
+        "bgName": "star_level_bg_605",
+        "spine": true,
+        "portrait": "zhihuiguan",
+        "nameColor": "#A9F548FF",
+        "hideRecordIco": true,
+        "actor": 807023,
+        "actorName": "{playername}",
+        "say": "――シーツを干すことにも、幸ある順番があるのか？",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 2,
+        "side": 2,
+        "bgName": "star_level_bg_605",
+        "spine": true,
+        "dir": 1,
+        "actor": 807023,
+        "nameColor": "#A9F548FF",
+        "say": "あ、あるかもしれません…！",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 1,
+        "side": 2,
+        "bgName": "star_level_bg_605",
+        "spine": true,
+        "dir": 1,
+        "actor": 807023,
+        "nameColor": "#A9F548FF",
+        "say": "正しい順番でこなせば、今夜は皆さんぐっすり眠れるかもしれませんし……これもとても大切な願いごとですから",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "dir": 1,
+        "side": 2,
+        "bgName": "star_level_bg_605",
+        "spine": true,
+        "withoutActorName": true,
+        "hideRecordIco": true,
+        "actor": 807023,
+        "nameColor": "#A9F548FF",
+        "say": "パンルヴェが最後の洗濯ばさみへ手を伸ばしたその瞬間、横合いから風が巻き上がり、シーツが一斉に舞い上がった。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 807023,
+        "nameColor": "#A9F548FF",
+        "bgName": "star_level_bg_605",
+        "spine": true,
+        "dir": 1,
+        "side": 2,
+        "say": "ひゃぅっ！？",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 807023,
+        "side": 2,
+        "bgName": "star_level_bg_605",
+        "spine": true,
+        "withoutActorName": true,
+        "nameColor": "#A9F548FF",
+        "say": "彼女を支えようとした自分も足元が定まらず、二人揃って倒れ込んでしまった。",
+        "hideRecordIco": true,
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 4,
+        "side": 2,
+        "bgName": "star_level_bg_605",
+        "spine": true,
+        "dir": 1,
+        "actor": 807023,
+        "nameColor": "#A9F548FF",
+        "say": "あぅ……指揮官さま、お怪我はありませんか？！どこかぶつけたりしていませんか？",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 4,
+        "side": 2,
+        "bgName": "star_level_bg_605",
+        "spine": true,
+        "portrait": "zhihuiguan",
+        "nameColor": "#A9F548FF",
+        "hideRecordIco": true,
+        "actor": 807023,
+        "actorName": "{playername}",
+        "say": "――大丈夫だ。問題ない……それにしても、シーツに絡めとられるなんて、なかなかあるものじゃないな",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 4,
+        "side": 2,
+        "bgName": "star_level_bg_605",
+        "spine": true,
+        "dir": 1,
+        "actor": 807023,
+        "nameColor": "#A9F548FF",
+        "say": "そ、そうなのでしょうか……？",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 4,
+        "side": 2,
+        "bgName": "star_level_bg_605",
+        "spine": true,
+        "withoutActorName": true,
+        "hideRecordIco": true,
+        "actor": 807023,
+        "nameColor": "#A9F548FF",
+        "say": "白い生地に覆われた中で、洗剤の香りとパンルヴェのほのかな花の香りが混ざり合って広がっていく。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 4,
+        "side": 2,
+        "bgName": "star_level_bg_605",
+        "spine": true,
+        "withoutActorName": true,
+        "hideRecordIco": true,
+        "actor": 807023,
+        "nameColor": "#A9F548FF",
+        "say": "シーツをめくり上げようと手を上げかけたところで、そっと袖口を引かれた。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 4,
+        "side": 2,
+        "bgName": "star_level_bg_605",
+        "spine": true,
+        "dir": 1,
+        "actor": 807023,
+        "nameColor": "#A9F548FF",
+        "say": "あ、あの、お待ちください……",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 4,
+        "side": 2,
+        "bgName": "star_level_bg_605",
+        "spine": true,
+        "dir": 1,
+        "actor": 807023,
+        "nameColor": "#A9F548FF",
+        "say": "まだ風が強いですし……今は、外へ出る「幸ある頃合い」ではないような気がして…",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 4,
+        "side": 2,
+        "bgName": "star_level_bg_605",
+        "spine": true,
+        "portrait": "zhihuiguan",
+        "nameColor": "#A9F548FF",
+        "hideRecordIco": true,
+        "actor": 807023,
+        "actorName": "{playername}",
+        "say": "――それは…占いの結果なのか？",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 4,
+        "side": 2,
+        "bgName": "star_level_bg_605",
+        "spine": true,
+        "dir": 1,
+        "actor": 807023,
+        "nameColor": "#A9F548FF",
+        "say": "い、いえ……ただの私の判断です……",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 1,
+        "side": 2,
+        "bgName": "star_level_bg_605",
+        "spine": true,
+        "dir": 1,
+        "actor": 807023,
+        "nameColor": "#A9F548FF",
+        "say": "も、もちろん、占いが必要でしたら、きちんと確かめますけれど",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 1,
+        "side": 2,
+        "bgName": "star_level_bg_605",
+        "spine": true,
+        "portrait": "zhihuiguan",
+        "nameColor": "#A9F548FF",
+        "hideRecordIco": true,
+        "actor": 807023,
+        "actorName": "{playername}",
+        "say": "――大丈夫、パンルヴェの判断を信じるよ",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 3,
+        "side": 2,
+        "bgName": "star_level_bg_605",
+        "spine": true,
+        "dir": 1,
+        "actor": 807023,
+        "nameColor": "#A9F548FF",
+        "say": "はい……ありがとうございます、指揮官さま",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 3,
+        "side": 2,
+        "bgName": "star_level_bg_605",
+        "spine": true,
+        "withoutActorName": true,
+        "hideRecordIco": true,
+        "actor": 807023,
+        "nameColor": "#A9F548FF",
+        "say": "パンルヴェは安堵したように少しだけ身を寄せ、そのままこちらの胸元に顔を埋めた。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 4,
+        "side": 2,
+        "bgName": "star_level_bg_605",
+        "spine": true,
+        "dir": 1,
+        "actor": 807023,
+        "nameColor": "#A9F548FF",
+        "say": "指揮官さま……もし、よろしければ……",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 807023,
+        "nameColor": "#A9F548FF",
+        "bgName": "star_level_bg_605",
+        "spine": true,
+        "side": 2,
+        "expression": 4,
+        "say": "風が止むまで……もう少しこのままで……",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 3,
+        "side": 2,
+        "bgName": "star_level_bg_605",
+        "spine": true,
+        "withoutActorName": true,
+        "hideRecordIco": true,
+        "actor": 807023,
+        "nameColor": "#A9F548FF",
+        "say": "白いシーツが風の中でゆるやかに波打ち、空や潮風を遮った。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 3,
+        "side": 2,
+        "bgName": "star_level_bg_605",
+        "spine": true,
+        "withoutActorName": true,
+        "hideRecordIco": true,
+        "actor": 807023,
+        "nameColor": "#A9F548FF",
+        "say": "柔らかな純白の中で、二人はしばらく静かに寄り添っていた。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
       }
     ]
   }
