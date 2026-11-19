@@ -2,8 +2,10 @@
   "1": {
     "id": 1,
     "param": [
-      "scene skinshop",
-      []
+      "scene core activity",
+      {
+        "coreName": "BlackFriday2026CoreActivityUI"
+      }
     ],
     "pic": "temp1",
     "time": [
@@ -11,7 +13,7 @@
         [
           2026,
           11,
-          12
+          19
         ],
         [
           0,
@@ -22,8 +24,8 @@
       [
         [
           2026,
-          11,
-          25
+          12,
+          9
         ],
         [
           23,
@@ -37,14 +39,36 @@
   "2": {
     "id": 2,
     "param": [
-      "scene get boat",
-      {
-        "page": 1,
-        "projectName": "new"
-      }
+      "scene skinshop",
+      []
     ],
     "pic": "temp2",
-    "time": "stop",
+    "time": [
+      [
+        [
+          2026,
+          11,
+          19
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2026,
+          12,
+          9
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
     "type": 2
   },
   "3": {
@@ -61,7 +85,154 @@
         [
           2026,
           11,
-          12
+          19
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2026,
+          12,
+          9
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
+    "type": 2
+  },
+  "4": {
+    "id": 4,
+    "param": [
+      "scene charge",
+      {
+        "wrap": 2
+      }
+    ],
+    "pic": "temp4",
+    "time": [
+      [
+        [
+          2026,
+          11,
+          19
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2026,
+          12,
+          9
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
+    "type": 2
+  },
+  "5": {
+    "id": 5,
+    "param": [
+      "scene core activity",
+      {
+        "coreName": "BlackFriday2026CoreActivityUI"
+      }
+    ],
+    "pic": "temp5",
+    "time": [
+      [
+        [
+          2026,
+          11,
+          19
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2026,
+          12,
+          9
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
+    "type": 2
+  },
+  "6": {
+    "id": 6,
+    "param": [
+      "scene Cryptolalia",
+      []
+    ],
+    "pic": "temp6",
+    "time": [
+      [
+        [
+          2026,
+          11,
+          19
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2026,
+          12,
+          9
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
+    "type": 2
+  },
+  "7": {
+    "id": 7,
+    "param": [
+      "scene level",
+      {
+        "isEX": true,
+        "open_remaster": true
+      }
+    ],
+    "pic": "temp7",
+    "time": [
+      [
+        [
+          2026,
+          11,
+          19
         ],
         [
           0,
@@ -84,15 +255,50 @@
     ],
     "type": 2
   },
-  "4": {
-    "id": 4,
+  "8": {
+    "id": 8,
+    "param": [
+      "scene skinshop",
+      []
+    ],
+    "pic": "temp8",
+    "time": [
+      [
+        [
+          2026,
+          11,
+          19
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2026,
+          12,
+          9
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
+    "type": 2
+  },
+  "9": {
+    "id": 9,
     "param": [
       "scene core activity",
       {
         "coreName": "TwoPointFiveCoreActivityUI"
       }
     ],
-    "pic": "temp4",
+    "pic": "temp9",
     "time": [
       [
         [
@@ -121,24 +327,15 @@
     ],
     "type": 2
   },
-  "5": {
-    "id": 5,
+  "10": {
+    "id": 10,
     "param": [
       "scene charge",
       {
-        "wrap": 2
+        "wrap": 4
       }
     ],
-    "pic": "temp5",
-    "time": "stop",
-    "type": 2
-  },
-  "6": {
-    "id": 6,
-    "param": [
-      "scene court yard"
-    ],
-    "pic": "temp6",
+    "pic": "temp10",
     "time": [
       [
         [
@@ -167,64 +364,6 @@
     ],
     "type": 2
   },
-  "7": {
-    "id": 7,
-    "param": [
-      "scene equip",
-      {
-        "designPage": 2,
-        "warp": "WARP_TO_DESIGN"
-      }
-    ],
-    "pic": "temp7",
-    "time": "stop",
-    "type": 2
-  },
-  "8": {
-    "id": 8,
-    "param": "51305",
-    "pic": "temp8",
-    "time": [
-      [
-        [
-          2026,
-          11,
-          12
-        ],
-        [
-          0,
-          0,
-          0
-        ]
-      ],
-      [
-        [
-          2026,
-          11,
-          24
-        ],
-        [
-          12,
-          0,
-          0
-        ]
-      ]
-    ],
-    "type": 3
-  },
-  "9": {
-    "id": 9,
-    "param": [
-      "scene equip",
-      {
-        "designPage": 2,
-        "warp": "WARP_TO_DESIGN"
-      }
-    ],
-    "pic": "temp9",
-    "time": "stop",
-    "type": 2
-  },
   "90": {
     "id": 90,
     "param": "",
@@ -250,7 +389,32 @@
     "id": 99,
     "param": "",
     "pic": "limit_skin",
-    "time": "stop",
+    "time": [
+      [
+        [
+          2026,
+          11,
+          19
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2026,
+          12,
+          9
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
     "type": 12
   },
   "100": {
@@ -663,6 +827,55 @@
     "time": "stop",
     "type": 2
   },
+  "1065": {
+    "id": 1065,
+    "param": [
+      "scene get boat",
+      {
+        "page": 1,
+        "projectName": "new"
+      }
+    ],
+    "pic": "temp1065",
+    "time": "stop",
+    "type": 2
+  },
+  "1066": {
+    "id": 1066,
+    "param": [
+      "scene charge",
+      {
+        "wrap": 2
+      }
+    ],
+    "pic": "temp998",
+    "time": "stop",
+    "type": 2
+  },
+  "1067": {
+    "id": 1067,
+    "param": [
+      "scene core activity",
+      {
+        "coreName": "TianYuTianYuanCoreActivityReUI"
+      }
+    ],
+    "pic": "temp1066",
+    "time": "stop",
+    "type": 2
+  },
+  "1068": {
+    "id": 1068,
+    "param": [
+      "scene shop",
+      {
+        "warp": "shopstreet"
+      }
+    ],
+    "pic": "temp1067",
+    "time": "stop",
+    "type": 2
+  },
   "all": [
     1,
     2,
@@ -673,6 +886,7 @@
     7,
     8,
     9,
+    10,
     90,
     91,
     95,
@@ -710,7 +924,11 @@
     1061,
     1062,
     1063,
-    1064
+    1064,
+    1065,
+    1066,
+    1067,
+    1068
   ],
   "get_id_list_by_type": {
     "2": [
@@ -721,7 +939,9 @@
       5,
       6,
       7,
+      8,
       9,
+      10,
       1001,
       1002,
       1003,
@@ -749,10 +969,11 @@
       1061,
       1062,
       1063,
-      1064
-    ],
-    "3": [
-      8
+      1064,
+      1065,
+      1066,
+      1067,
+      1068
     ],
     "9": [
       90,

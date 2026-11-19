@@ -78916,7 +78916,7 @@
     "year": 0
   },
   "5631": {
-    "condition": "Start Angel's Stage L.",
+    "condition": "Complete Angel's Stage L Day 3.",
     "icon": "memory_tianshimengdebilanwutai2",
     "id": 5631,
     "is_open": 0,
@@ -78934,7 +78934,7 @@
     "year": 0
   },
   "5632": {
-    "condition": "Start Angel's Stage M.",
+    "condition": "Complete Angel's Stage M Day 3.",
     "icon": "memory_tianshimengdebilanwutai2",
     "id": 5632,
     "is_open": 0,
@@ -78948,6 +78948,60 @@
     "type": 1,
     "unlock_pre": [
       "TIANSHIMENDEBILANWUTAIRICHANG2"
+    ],
+    "year": 0
+  },
+  "5641": {
+    "condition": "Unlock Napoli's story in Port Fashion Collection: Heartful Remedies",
+    "icon": "memory_gangqushishangtekan",
+    "id": 5641,
+    "is_open": 0,
+    "mask": "bg/bg_memory",
+    "number": 0,
+    "ship_group": 0,
+    "story": "SHISHANGTEKANXINDONGZHENLIAOSHIJIAN1",
+    "subtitle": "",
+    "task": 0,
+    "title": "An Unexpected Examination",
+    "type": 1,
+    "unlock_pre": [
+      "SHISHANGTEKANXINDONGZHENLIAOSHIJIAN1"
+    ],
+    "year": 0
+  },
+  "5642": {
+    "condition": "Unlock New Orleans's story in Port Fashion Collection: Heartful Remedies",
+    "icon": "memory_gangqushishangtekan",
+    "id": 5642,
+    "is_open": 0,
+    "mask": "bg/bg_memory",
+    "number": 0,
+    "ship_group": 0,
+    "story": "SHISHANGTEKANXINDONGZHENLIAOSHIJIAN2",
+    "subtitle": "",
+    "task": 0,
+    "title": "A Quickened Pulse After Hours",
+    "type": 1,
+    "unlock_pre": [
+      "SHISHANGTEKANXINDONGZHENLIAOSHIJIAN2"
+    ],
+    "year": 0
+  },
+  "5643": {
+    "condition": "Unlock Painlevé's story in Port Fashion Collection: Heartful Remedies",
+    "icon": "memory_gangqushishangtekan",
+    "id": 5643,
+    "is_open": 0,
+    "mask": "bg/bg_memory",
+    "number": 0,
+    "ship_group": 0,
+    "story": "SHISHANGTEKANXINDONGZHENLIAOSHIJIAN3",
+    "subtitle": "",
+    "task": 0,
+    "title": "Lucky White Whispers",
+    "type": 1,
+    "unlock_pre": [
+      "SHISHANGTEKANXINDONGZHENLIAOSHIJIAN3"
     ],
     "year": 0
   },
@@ -88252,6 +88306,9 @@
     5625,
     5631,
     5632,
+    5641,
+    5642,
+    5643,
     10011,
     10012,
     10013,

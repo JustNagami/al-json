@@ -8199,6 +8199,17 @@
           ""
         ],
         0
+      ],
+      [
+        "Light Ship Construction",
+        [
+          "GETBOAT",
+          {
+            "page": 1,
+            "projectName": "light"
+          }
+        ],
+        0
       ]
     ],
     "group_type": 30206,
@@ -25475,6 +25486,28 @@
           ""
         ],
         0
+      ],
+      [
+        "Heavy/Special Construction",
+        [
+          "GETBOAT",
+          {
+            "page": 1,
+            "projectName": "special"
+          }
+        ],
+        0
+      ],
+      [
+        "UR Exchange",
+        [
+          "GETBOAT",
+          {
+            "page": 1,
+            "projectName": "heavy"
+          }
+        ],
+        0
       ]
     ],
     "group_type": 30319,
@@ -25505,6 +25538,17 @@
         "Event: Effulgence Before Eclipse",
         [
           ""
+        ],
+        0
+      ],
+      [
+        "Heavy Ship Construction",
+        [
+          "GETBOAT",
+          {
+            "page": 1,
+            "projectName": "heavy"
+          }
         ],
         0
       ]
@@ -25539,6 +25583,17 @@
           ""
         ],
         0
+      ],
+      [
+        "Light Ship Construction",
+        [
+          "GETBOAT",
+          {
+            "page": 1,
+            "projectName": "light"
+          }
+        ],
+        0
       ]
     ],
     "group_type": 30189,
@@ -25569,6 +25624,16 @@
         "Event: Effulgence Before Eclipse",
         [
           ""
+        ],
+        0
+      ],
+      [
+        "Merit Shop",
+        [
+          "SHOP",
+          {
+            "warp": "supplies"
+          }
         ],
         0
       ]
