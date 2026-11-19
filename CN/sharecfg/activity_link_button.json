@@ -477,6 +477,34 @@
     ],
     "type": 16
   },
+  "126": {
+    "group_id": 1,
+    "id": 126,
+    "name": "event_core_2",
+    "order": 1,
+    "param": "BlackFriday2026CoreActivityUI",
+    "pic": "event_blackfriday2026",
+    "text_pic": "text_event_blackfriday2026",
+    "time": [
+      "default",
+      50664
+    ],
+    "type": 16
+  },
+  "129": {
+    "group_id": 1,
+    "id": 129,
+    "name": "event_core_2",
+    "order": 1,
+    "param": "BlackFriday2026CoreActivityUI",
+    "pic": "event_blackfriday2026",
+    "text_pic": "text_event_core2",
+    "time": [
+      "default",
+      50662
+    ],
+    "type": 16
+  },
   "all": [
     1,
     2,
@@ -511,7 +539,9 @@
     115,
     116,
     121,
-    122
+    122,
+    126,
+    129
   ],
   "get_id_list_by_name": {
     "event_Atelier": [
@@ -549,7 +579,9 @@
     "event_core_2": [
       110,
       113,
-      115
+      115,
+      126,
+      129
     ],
     "event_dreamland": [
       103

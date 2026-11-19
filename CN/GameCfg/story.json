@@ -1002976,9 +1002976,9 @@
     "8168": null,
     "8169": null,
     "8170": null,
-    "8171": null,
-    "8172": null,
-    "8173": null,
+    "8171": "SHISHANGTEKANXINDONGZHENLIAOSHIJIAN1",
+    "8172": "SHISHANGTEKANXINDONGZHENLIAOSHIJIAN2",
+    "8173": "SHISHANGTEKANXINDONGZHENLIAOSHIJIAN3",
     "8174": null,
     "8175": null,
     "8176": null,
@@ -2897693,6 +2897693,1725 @@
             0
           ]
         ]
+      }
+    ]
+  },
+  "shishangtekanxindongzhenliaoshijian1": {
+    "fadeOut": 1.5,
+    "mode": 2,
+    "id": "SHISHANGTEKANXINDONGZHENLIAOSHIJIAN1",
+    "placeholder": [
+      "playername"
+    ],
+    "scripts": [
+      {
+        "hideRecordIco": true,
+        "side": 2,
+        "bgName": "star_level_bg_308",
+        "withoutActorName": true,
+        "bgm": "story-richang-light",
+        "actor": 699022,
+        "nameColor": "#A9F548FF",
+        "live2d": "home",
+        "say": "根据那不勒斯发来的消息，我推开了医疗室的房门，映入眼帘的是一张样式稍显特别的诊疗椅。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        },
+        "flashin": {
+          "delay": 0,
+          "dur": 1,
+          "black": true,
+          "alpha": [
+            1,
+            0
+          ]
+        }
+      },
+      {
+        "actor": 699022,
+        "side": 2,
+        "bgName": "star_level_bg_308",
+        "live2d": true,
+        "withoutActorName": true,
+        "nameColor": "#A9F548FF",
+        "say": "那不勒斯穿着轻便的检查服，正安静地半躺在椅子上。听见脚步声后，才慢慢睁开眼睛。",
+        "hideRecordIco": true,
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 699022,
+        "nameColor": "#A9F548FF",
+        "bgName": "star_level_bg_308",
+        "live2d": true,
+        "dir": 1,
+        "side": 2,
+        "say": "唔……是指挥官呀。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 699022,
+        "side": 2,
+        "bgName": "star_level_bg_308",
+        "live2d": true,
+        "withoutActorName": true,
+        "nameColor": "#A9F548FF",
+        "say": "她的声音很轻，眼神中还带着几分刚醒来的迷离。",
+        "hideRecordIco": true,
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 699022,
+        "nameColor": "#A9F548FF",
+        "bgName": "star_level_bg_308",
+        "live2d": true,
+        "dir": 1,
+        "side": 2,
+        "say": "等你的时候，不知不觉就睡着了……",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "portrait": "zhihuiguan",
+        "side": 2,
+        "bgName": "star_level_bg_308",
+        "nameColor": "#A9F548FF",
+        "hideRecordIco": true,
+        "actor": 699022,
+        "actorName": "{playername}",
+        "live2d": "mail",
+        "say": "那不勒斯，你怎么换上了这身衣服？",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 5,
+        "side": 2,
+        "bgName": "star_level_bg_308",
+        "live2d": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 699022,
+        "say": "因为旁边的指南上写着，进行检查前需要换上轻便的衣物。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 5,
+        "side": 2,
+        "bgName": "star_level_bg_308",
+        "live2d": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 699022,
+        "say": "我想着，既然要请指挥官帮忙，就应该先把准备工作做好才对。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 699022,
+        "side": 2,
+        "bgName": "star_level_bg_308",
+        "live2d": true,
+        "withoutActorName": true,
+        "nameColor": "#A9F548FF",
+        "say": "看着她略显困倦却毫无防备的模样，我不由得放轻了脚步，走到诊疗椅旁。",
+        "hideRecordIco": true,
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 699022,
+        "nameColor": "#A9F548FF",
+        "bgName": "star_level_bg_308",
+        "live2d": "main1",
+        "dir": 1,
+        "side": 2,
+        "say": "指挥官是要开始帮我检查身体了么？",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "portrait": "zhihuiguan",
+        "side": 2,
+        "bgName": "star_level_bg_308",
+        "nameColor": "#A9F548FF",
+        "hideRecordIco": true,
+        "actor": 699022,
+        "actorName": "{playername}",
+        "live2d": true,
+        "say": "只是初步确认一下状况，如果真的不舒服，之后还是要请专业医师来。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 5,
+        "side": 2,
+        "bgName": "star_level_bg_308",
+        "live2d": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 699022,
+        "say": "嗯，我会好好听从医嘱的。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "star_level_bg_308",
+        "live2d": "mission",
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 699022,
+        "say": "不过，在那之前……就先请Dr.指挥官为我诊察吧？",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 5,
+        "side": 2,
+        "bgName": "star_level_bg_308",
+        "portrait": "zhihuiguan",
+        "nameColor": "#A9F548FF",
+        "hideRecordIco": true,
+        "actor": 699022,
+        "actorName": "{playername}",
+        "live2d": true,
+        "say": "先放松，保持正常呼吸，我会从基础项目开始。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 5,
+        "side": 2,
+        "bgName": "star_level_bg_308",
+        "live2d": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 699022,
+        "say": "好哦，那就麻烦指挥官了呢。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 5,
+        "side": 2,
+        "bgName": "star_level_bg_308",
+        "withoutActorName": true,
+        "hideRecordIco": true,
+        "actor": 699022,
+        "nameColor": "#A9F548FF",
+        "live2d": true,
+        "say": "我取来体温计和记录板，按照医务室的检查流程，为她确认体温、脉搏与呼吸状态。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 5,
+        "side": 2,
+        "bgName": "star_level_bg_308",
+        "withoutActorName": true,
+        "hideRecordIco": true,
+        "actor": 699022,
+        "nameColor": "#A9F548FF",
+        "live2d": "mission_complete",
+        "say": "那不勒斯安静地配合着，只是偶尔微微偏过头，用那双带着笑意的眼睛注视着我。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 5,
+        "side": 2,
+        "bgName": "star_level_bg_308",
+        "portrait": "zhihuiguan",
+        "nameColor": "#A9F548FF",
+        "hideRecordIco": true,
+        "actor": 699022,
+        "actorName": "{playername}",
+        "live2d": "headtouch",
+        "say": "体温正常。脉搏稍快，血压也有些偏低……你今天是不是还没好好吃东西？",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 8,
+        "side": 2,
+        "bgName": "star_level_bg_308",
+        "live2d": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 699022,
+        "say": "嗯……早餐的话……我记得是准备过的。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 8,
+        "side": 2,
+        "bgName": "star_level_bg_308",
+        "portrait": "zhihuiguan",
+        "nameColor": "#A9F548FF",
+        "hideRecordIco": true,
+        "actor": 699022,
+        "actorName": "{playername}",
+        "live2d": true,
+        "say": "准备过，和吃过是两回事。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 1,
+        "side": 2,
+        "bgName": "star_level_bg_308",
+        "live2d": "touch",
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 699022,
+        "say": "呵呵，被指挥官发现了呢~",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 699022,
+        "nameColor": "#A9F548FF",
+        "bgName": "star_level_bg_308",
+        "live2d": true,
+        "dir": 1,
+        "side": 2,
+        "say": "本来只是想去餐厅，结果不知不觉走到了中庭，又沿着海边散了一会儿步……等想起来的时候，已经到这里了。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "portrait": "zhihuiguan",
+        "side": 2,
+        "bgName": "star_level_bg_308",
+        "nameColor": "#A9F548FF",
+        "hideRecordIco": true,
+        "actor": 699022,
+        "actorName": "{playername}",
+        "live2d": true,
+        "say": "所以是空腹散步太久，导致有些低血糖和疲劳么……难怪你会觉得困。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 699022,
+        "nameColor": "#A9F548FF",
+        "bgName": "star_level_bg_308",
+        "live2d": "touch2",
+        "dir": 1,
+        "side": 2,
+        "say": "原来如此……刚才看医务室的门牌时，都觉得字像是在跳舞一样。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "portrait": "zhihuiguan",
+        "side": 2,
+        "bgName": "star_level_bg_308",
+        "nameColor": "#A9F548FF",
+        "hideRecordIco": true,
+        "actor": 699022,
+        "actorName": "{playername}",
+        "live2d": true,
+        "say": "这种情况得先补充糖分才行。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 2,
+        "side": 2,
+        "bgName": "star_level_bg_308",
+        "live2d": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 699022,
+        "say": "糖分……指挥官是要喂我吃甜点么？",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 2,
+        "side": 2,
+        "bgName": "star_level_bg_308",
+        "portrait": "zhihuiguan",
+        "nameColor": "#A9F548FF",
+        "hideRecordIco": true,
+        "actor": 699022,
+        "actorName": "{playername}",
+        "live2d": true,
+        "say": "是葡萄糖片和温水。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 1,
+        "side": 2,
+        "bgName": "star_level_bg_308",
+        "live2d": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 699022,
+        "say": "呵呵，真可惜。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "star_level_bg_308",
+        "live2d": "main2",
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 699022,
+        "say": "不过，如果是指挥官亲手递来的，就算只是温水，也会变得特别甜哦~",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 5,
+        "side": 2,
+        "bgName": "star_level_bg_308",
+        "withoutActorName": true,
+        "hideRecordIco": true,
+        "actor": 699022,
+        "nameColor": "#A9F548FF",
+        "live2d": true,
+        "say": "我将温水和葡萄糖片递给她。那不勒斯乖巧地接过，小口咽下后，神色似乎比刚才清醒了些。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 5,
+        "side": 2,
+        "bgName": "star_level_bg_308",
+        "portrait": "zhihuiguan",
+        "nameColor": "#A9F548FF",
+        "hideRecordIco": true,
+        "actor": 699022,
+        "actorName": "{playername}",
+        "live2d": true,
+        "say": "头晕有缓解么？",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 5,
+        "side": 2,
+        "bgName": "star_level_bg_308",
+        "live2d": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 699022,
+        "say": "嗯……好多了。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "star_level_bg_308",
+        "live2d": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 699022,
+        "say": "只是，指挥官离得这么近，我的心跳好像还是有些快呢。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "star_level_bg_308",
+        "portrait": "zhihuiguan",
+        "nameColor": "#A9F548FF",
+        "hideRecordIco": true,
+        "actor": 699022,
+        "actorName": "{playername}",
+        "live2d": "main3",
+        "say": "那是因为刚才低血糖还没完全恢复，先不要乱动。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 699022,
+        "nameColor": "#A9F548FF",
+        "bgName": "star_level_bg_308",
+        "live2d": true,
+        "dir": 1,
+        "side": 2,
+        "say": "这样啊……",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 2,
+        "side": 2,
+        "bgName": "star_level_bg_308",
+        "withoutActorName": true,
+        "hideRecordIco": true,
+        "actor": 699022,
+        "nameColor": "#A9F548FF",
+        "live2d": true,
+        "say": "她伸出手，指尖轻轻勾住我的袖口，像是在确认我不会立刻离开。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 2,
+        "side": 2,
+        "bgName": "star_level_bg_308",
+        "live2d": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 699022,
+        "say": "指挥官……既然已经为我做了检查，就请再多负责一会儿吧。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 2,
+        "side": 2,
+        "bgName": "star_level_bg_308",
+        "live2d": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 699022,
+        "say": "等我好一些后，陪我去餐厅，确认我好好吃完午餐。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 5,
+        "side": 2,
+        "bgName": "star_level_bg_308",
+        "live2d": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 699022,
+        "say": "然后……如果我的状态完全恢复了，就陪我沿着海边散步一小会儿。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 5,
+        "side": 2,
+        "bgName": "star_level_bg_308",
+        "live2d": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 699022,
+        "say": "清凉的海风、明媚的阳光，还有指挥官在身边……这些对恢复精神都很有帮助哦~",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 9,
+        "side": 2,
+        "bgName": "star_level_bg_308",
+        "withoutActorName": true,
+        "hideRecordIco": true,
+        "actor": 699022,
+        "nameColor": "#A9F548FF",
+        "live2d": "login",
+        "say": "那不勒斯眼神迷离，一边呢喃着，一边离我越来越近。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 9,
+        "side": 2,
+        "bgName": "star_level_bg_308",
+        "live2d": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 699022,
+        "say": "所以，Dr.指挥官~",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 9,
+        "side": 2,
+        "bgName": "star_level_bg_308",
+        "live2d": true,
+        "dir": 1,
+        "nameColor": "#A9F548FF",
+        "actor": 699022,
+        "say": "今天……你可要对你的病人负责到底哦~",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      }
+    ]
+  },
+  "shishangtekanxindongzhenliaoshijian2": {
+    "fadeOut": 1.5,
+    "mode": 2,
+    "id": "SHISHANGTEKANXINDONGZHENLIAOSHIJIAN2",
+    "placeholder": [
+      "playername"
+    ],
+    "scripts": [
+      {
+        "hideRecordIco": true,
+        "side": 2,
+        "bgName": "star_level_bg_138",
+        "spine": true,
+        "withoutActorName": true,
+        "bgm": "story-richang-relax",
+        "actor": 103122,
+        "nameColor": "#A9F548FF",
+        "say": "深夜的医疗室，我作为新奥尔良的临时助手，整理着最后一叠诊疗单。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        },
+        "flashin": {
+          "delay": 0,
+          "dur": 1,
+          "black": true,
+          "alpha": [
+            1,
+            0
+          ]
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "star_level_bg_138",
+        "spine": true,
+        "withoutActorName": true,
+        "hideRecordIco": true,
+        "actor": 103122,
+        "nameColor": "#A9F548FF",
+        "say": "早已结束工作的新奥尔良坐在办公桌沿，轻轻踢掉脚上的鞋子，放松下来。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 6,
+        "side": 2,
+        "bgName": "star_level_bg_138",
+        "spine": true,
+        "dir": 1,
+        "actor": 103122,
+        "nameColor": "#A9F548FF",
+        "say": "呼……今天的诊疗工作，总算是告一段落了呢。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 3,
+        "side": 2,
+        "bgName": "star_level_bg_138",
+        "spine": true,
+        "dir": 1,
+        "actor": 103122,
+        "nameColor": "#A9F548FF",
+        "say": "指挥官陪我忙到这么晚，真是辛苦了。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        },
+        "options": [
+          {
+            "content": "你也辛苦了",
+            "flag": 1
+          }
+        ]
+      },
+      {
+        "expression": 3,
+        "side": 2,
+        "bgName": "star_level_bg_138",
+        "spine": true,
+        "portrait": "zhihuiguan",
+        "optionFlag": 1,
+        "nameColor": "#A9F548FF",
+        "hideRecordIco": true,
+        "actor": 103122,
+        "actorName": "{playername}",
+        "say": "你也辛苦了，新奥尔良。时候不早了，早点回去休息吧。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 2,
+        "side": 2,
+        "bgName": "star_level_bg_138",
+        "spine": true,
+        "dir": 1,
+        "actor": 103122,
+        "nameColor": "#A9F548FF",
+        "say": "回去休息吗？呵呵，不过，现在指挥官还不能休息哦。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 2,
+        "side": 2,
+        "bgName": "star_level_bg_138",
+        "spine": true,
+        "portrait": "zhihuiguan",
+        "nameColor": "#A9F548FF",
+        "hideRecordIco": true,
+        "actor": 103122,
+        "actorName": "{playername}",
+        "say": "医疗室这边，难道还有其他工作没有完成？",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 8,
+        "side": 2,
+        "bgName": "star_level_bg_138",
+        "spine": true,
+        "dir": 1,
+        "actor": 103122,
+        "nameColor": "#A9F548FF",
+        "say": "公事是处理完了。接下来要确认的，是我的健康状况呢。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 2,
+        "side": 2,
+        "bgName": "star_level_bg_138",
+        "spine": true,
+        "withoutActorName": true,
+        "hideRecordIco": true,
+        "actor": 103122,
+        "nameColor": "#A9F548FF",
+        "say": "她优雅地交叠双腿，脚尖若有似无地轻轻蹭过我的小腿。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 5,
+        "side": 2,
+        "bgName": "star_level_bg_138",
+        "spine": true,
+        "dir": 1,
+        "actor": 103122,
+        "nameColor": "#A9F548FF",
+        "say": "总觉得……因为工作过度，我现在的身体有些不舒服。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 5,
+        "side": 2,
+        "bgName": "star_level_bg_138",
+        "spine": true,
+        "portrait": "zhihuiguan",
+        "nameColor": "#A9F548FF",
+        "hideRecordIco": true,
+        "actor": 103122,
+        "actorName": "{playername}",
+        "say": "健康状况？你哪里不舒服？",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 5,
+        "side": 2,
+        "bgName": "star_level_bg_138",
+        "spine": true,
+        "dir": 1,
+        "actor": 103122,
+        "nameColor": "#A9F548FF",
+        "say": "嗯……说不上严重，只是有些发热，肩颈也有些酸。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 5,
+        "side": 2,
+        "bgName": "star_level_bg_138",
+        "spine": true,
+        "portrait": "zhihuiguan",
+        "nameColor": "#A9F548FF",
+        "hideRecordIco": true,
+        "actor": 103122,
+        "actorName": "{playername}",
+        "say": "那我去叫其他的医生——",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 8,
+        "side": 2,
+        "bgName": "star_level_bg_138",
+        "spine": true,
+        "dir": 1,
+        "actor": 103122,
+        "nameColor": "#A9F548FF",
+        "say": "不用那么紧张，简单帮我检查一下就好。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 8,
+        "side": 2,
+        "bgName": "star_level_bg_138",
+        "spine": true,
+        "dir": 1,
+        "actor": 103122,
+        "nameColor": "#A9F548FF",
+        "say": "今天你一直在旁边帮忙，应该也看会一些吧？",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 103122,
+        "nameColor": "#A9F548FF",
+        "bgName": "star_level_bg_138",
+        "spine": true,
+        "dir": 1,
+        "side": 2,
+        "say": "放心，只要确认一下体温、脉搏这些基础数据就好。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 1,
+        "side": 2,
+        "bgName": "star_level_bg_138",
+        "spine": true,
+        "withoutActorName": true,
+        "hideRecordIco": true,
+        "actor": 103122,
+        "nameColor": "#A9F548FF",
+        "say": "她轻轻放下记录板，抬眼看我。口罩遮住了她的唇角，却遮不住那双含着笑意的眼睛。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 1,
+        "side": 2,
+        "bgName": "star_level_bg_138",
+        "spine": true,
+        "dir": 1,
+        "actor": 103122,
+        "nameColor": "#A9F548FF",
+        "say": "首先是……体温检查。可以用手背，轻轻贴在我的额头上。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 1,
+        "side": 2,
+        "bgName": "star_level_bg_138",
+        "spine": true,
+        "withoutActorName": true,
+        "hideRecordIco": true,
+        "actor": 103122,
+        "nameColor": "#A9F548FF",
+        "say": "我依言伸出手，轻轻贴上她光洁的额头。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 1,
+        "side": 2,
+        "bgName": "star_level_bg_138",
+        "spine": true,
+        "withoutActorName": true,
+        "hideRecordIco": true,
+        "actor": 103122,
+        "nameColor": "#A9F548FF",
+        "say": "手背传来微热的温度，隔着很近的距离，还能听到她放轻的呼吸声。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 1,
+        "side": 2,
+        "bgName": "star_level_bg_138",
+        "spine": true,
+        "portrait": "zhihuiguan",
+        "nameColor": "#A9F548FF",
+        "hideRecordIco": true,
+        "actor": 103122,
+        "actorName": "{playername}",
+        "say": "体温确实有些偏高，但还在正常范围内。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 1,
+        "side": 2,
+        "bgName": "star_level_bg_138",
+        "spine": true,
+        "dir": 1,
+        "actor": 103122,
+        "nameColor": "#A9F548FF",
+        "say": "呵呵，指挥官诊断得很认真呢。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 103122,
+        "nameColor": "#A9F548FF",
+        "bgName": "star_level_bg_138",
+        "spine": true,
+        "dir": 1,
+        "side": 2,
+        "say": "那接下来是脉搏。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 103122,
+        "side": 2,
+        "bgName": "star_level_bg_138",
+        "spine": true,
+        "withoutActorName": true,
+        "nameColor": "#A9F548FF",
+        "say": "她稍稍卷起衣袖，将自己的手腕垂到我的面前。",
+        "hideRecordIco": true,
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 103122,
+        "nameColor": "#A9F548FF",
+        "bgName": "star_level_bg_138",
+        "spine": true,
+        "dir": 1,
+        "side": 2,
+        "say": "用指尖按在这里……对，稍微轻一点……数十秒就好。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 103122,
+        "side": 2,
+        "bgName": "star_level_bg_138",
+        "spine": true,
+        "withoutActorName": true,
+        "nameColor": "#A9F548FF",
+        "say": "我按照引导，将指尖搭在她的手腕内侧。",
+        "hideRecordIco": true,
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 4,
+        "side": 2,
+        "bgName": "star_level_bg_138",
+        "spine": true,
+        "withoutActorName": true,
+        "hideRecordIco": true,
+        "actor": 103122,
+        "nameColor": "#A9F548FF",
+        "say": "在静悄悄的医疗室里，那规律却略显急促的脉搏，清晰地传到了指尖。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 4,
+        "side": 2,
+        "bgName": "star_level_bg_138",
+        "spine": true,
+        "portrait": "zhihuiguan",
+        "nameColor": "#A9F548FF",
+        "hideRecordIco": true,
+        "actor": 103122,
+        "actorName": "{playername}",
+        "say": "脉搏……是有些快了。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 7,
+        "side": 2,
+        "bgName": "star_level_bg_138",
+        "spine": true,
+        "dir": 1,
+        "actor": 103122,
+        "nameColor": "#A9F548FF",
+        "say": "是么，我也感觉自己……越来越热了呢~",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 7,
+        "side": 2,
+        "bgName": "star_level_bg_138",
+        "spine": true,
+        "withoutActorName": true,
+        "hideRecordIco": true,
+        "actor": 103122,
+        "nameColor": "#A9F548FF",
+        "say": "她牵起我的手，顺着她纤细的脖颈下滑，缓缓按在心口。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 7,
+        "side": 2,
+        "bgName": "star_level_bg_138",
+        "spine": true,
+        "withoutActorName": true,
+        "hideRecordIco": true,
+        "actor": 103122,
+        "nameColor": "#A9F548FF",
+        "say": "尽管隔着一层衣物，但我依然能清晰地感受到柔软下那份急促而鲜活的跳动。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 2,
+        "side": 2,
+        "bgName": "star_level_bg_138",
+        "spine": true,
+        "dir": 1,
+        "actor": 103122,
+        "nameColor": "#A9F548FF",
+        "say": "那接下来，我们一起做些更加深入的检查吧，指挥官~",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      }
+    ]
+  },
+  "shishangtekanxindongzhenliaoshijian3": {
+    "fadeOut": 1.5,
+    "mode": 2,
+    "id": "SHISHANGTEKANXINDONGZHENLIAOSHIJIAN3",
+    "placeholder": [
+      "playername"
+    ],
+    "scripts": [
+      {
+        "hideRecordIco": true,
+        "side": 2,
+        "bgName": "star_level_bg_605",
+        "spine": true,
+        "withoutActorName": true,
+        "bgm": "story-richang-quiet",
+        "actor": 807023,
+        "nameColor": "#A9F548FF",
+        "say": "推开天台的铁门，微咸的海风扑面而来，层层床单如船帆般鼓荡。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        },
+        "flashin": {
+          "delay": 0,
+          "dur": 1,
+          "black": true,
+          "alpha": [
+            1,
+            0
+          ]
+        }
+      },
+      {
+        "actor": 807023,
+        "side": 2,
+        "bgName": "star_level_bg_605",
+        "spine": true,
+        "withoutActorName": true,
+        "nameColor": "#A9F548FF",
+        "say": "白影深处，伴尔维的身影在阳光中浮动。",
+        "hideRecordIco": true,
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 807023,
+        "nameColor": "#A9F548FF",
+        "bgName": "star_level_bg_605",
+        "spine": true,
+        "dir": 1,
+        "side": 2,
+        "say": "唔……就差一点……",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 807023,
+        "nameColor": "#A9F548FF",
+        "bgName": "star_level_bg_605",
+        "spine": true,
+        "dir": 1,
+        "side": 2,
+        "say": "明明祈祷过的，今天会是个适合晒被子的好天气，怎么会突然刮风了……",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 807023,
+        "side": 2,
+        "bgName": "star_level_bg_605",
+        "spine": true,
+        "withoutActorName": true,
+        "nameColor": "#A9F548FF",
+        "say": "话音刚落，一阵更强的风掠过天台。尚未夹好的床单被吹得鼓起，挣脱衣绳，朝我的方向飞来。",
+        "hideRecordIco": true,
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 807023,
+        "side": 2,
+        "bgName": "star_level_bg_605",
+        "spine": true,
+        "withoutActorName": true,
+        "nameColor": "#A9F548FF",
+        "say": "伴尔维急忙伸手去抓，却被风带得身形一晃，轻薄的裙摆也随之翻飞起来。",
+        "hideRecordIco": true,
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 807023,
+        "nameColor": "#A9F548FF",
+        "bgName": "star_level_bg_605",
+        "spine": true,
+        "dir": 1,
+        "side": 2,
+        "say": "——呜哇？！",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 807023,
+        "side": 2,
+        "bgName": "star_level_bg_605",
+        "spine": true,
+        "withoutActorName": true,
+        "nameColor": "#A9F548FF",
+        "say": "我连忙上前，一手抓住即将飞走的床单，一手顺势扶住了她的肩膀。",
+        "hideRecordIco": true,
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 807023,
+        "nameColor": "#A9F548FF",
+        "bgName": "star_level_bg_605",
+        "spine": true,
+        "dir": 1,
+        "side": 2,
+        "say": "指、指挥官……？！",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 807023,
+        "nameColor": "#A9F548FF",
+        "bgName": "star_level_bg_605",
+        "spine": true,
+        "dir": 1,
+        "side": 2,
+        "say": "您来得正好……不，应该说，是鸢尾听见了我的祈愿吗……？",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "portrait": "zhihuiguan",
+        "side": 2,
+        "bgName": "star_level_bg_605",
+        "spine": true,
+        "nameColor": "#A9F548FF",
+        "hideRecordIco": true,
+        "actor": 807023,
+        "actorName": "{playername}",
+        "say": "是需要我帮忙么？",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 1,
+        "side": 2,
+        "bgName": "star_level_bg_605",
+        "spine": true,
+        "dir": 1,
+        "actor": 807023,
+        "nameColor": "#A9F548FF",
+        "say": "嗯……本来只是想趁天气好，把大家的床单都晒一晒。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 4,
+        "side": 2,
+        "bgName": "star_level_bg_605",
+        "spine": true,
+        "dir": 1,
+        "actor": 807023,
+        "nameColor": "#A9F548FF",
+        "say": "结果风忽然变大了，不只是床单……连裙子也……",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 4,
+        "side": 2,
+        "bgName": "star_level_bg_605",
+        "spine": true,
+        "dir": 1,
+        "actor": 807023,
+        "nameColor": "#A9F548FF",
+        "say": "所以指挥官能帮我挡一下风吗？有指挥官帮忙的话，一定会顺利很多。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 4,
+        "side": 2,
+        "bgName": "star_level_bg_605",
+        "spine": true,
+        "withoutActorName": true,
+        "hideRecordIco": true,
+        "actor": 807023,
+        "nameColor": "#A9F548FF",
+        "say": "伴尔维的声音越来越小，白皙的脸颊也逐渐染上了浅浅的红。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 4,
+        "side": 2,
+        "bgName": "star_level_bg_605",
+        "spine": true,
+        "withoutActorName": true,
+        "hideRecordIco": true,
+        "actor": 807023,
+        "nameColor": "#A9F548FF",
+        "say": "我点了点头，背对着风口，替她压住乱飞的裙摆和床单。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 1,
+        "side": 2,
+        "bgName": "star_level_bg_605",
+        "spine": true,
+        "dir": 1,
+        "actor": 807023,
+        "nameColor": "#A9F548FF",
+        "say": "谢谢您……这样的话，今天的“幸运顺序”应该就是——先固定这一角，再夹住那边……",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 1,
+        "side": 2,
+        "bgName": "star_level_bg_605",
+        "spine": true,
+        "portrait": "zhihuiguan",
+        "nameColor": "#A9F548FF",
+        "hideRecordIco": true,
+        "actor": 807023,
+        "actorName": "{playername}",
+        "say": "晾床单也有幸运顺序吗？",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 2,
+        "side": 2,
+        "bgName": "star_level_bg_605",
+        "spine": true,
+        "dir": 1,
+        "actor": 807023,
+        "nameColor": "#A9F548FF",
+        "say": "有、也许有哦~",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 1,
+        "side": 2,
+        "bgName": "star_level_bg_605",
+        "spine": true,
+        "dir": 1,
+        "actor": 807023,
+        "nameColor": "#A9F548FF",
+        "say": "如果按照正确的顺序完成，说不定今晚大家都会睡得更安稳一些……这也是很重要的愿望。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "dir": 1,
+        "side": 2,
+        "bgName": "star_level_bg_605",
+        "spine": true,
+        "withoutActorName": true,
+        "hideRecordIco": true,
+        "actor": 807023,
+        "nameColor": "#A9F548FF",
+        "say": "然而就在她伸手去取最后一枚夹子时，侧面的风突然卷起，将大片洁白布料一同掀了起来。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 807023,
+        "nameColor": "#A9F548FF",
+        "bgName": "star_level_bg_605",
+        "spine": true,
+        "dir": 1,
+        "side": 2,
+        "say": "呜哇？！",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 807023,
+        "side": 2,
+        "bgName": "star_level_bg_605",
+        "spine": true,
+        "withoutActorName": true,
+        "nameColor": "#A9F548FF",
+        "say": "猝不及防之下，起身想扶住她的我也没能站稳，一同被卷入了这片纯白的空间。",
+        "hideRecordIco": true,
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 4,
+        "side": 2,
+        "bgName": "star_level_bg_605",
+        "spine": true,
+        "dir": 1,
+        "actor": 807023,
+        "nameColor": "#A9F548FF",
+        "say": "呜……指挥官，您没事吧？有没有撞到哪里？",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 4,
+        "side": 2,
+        "bgName": "star_level_bg_605",
+        "spine": true,
+        "portrait": "zhihuiguan",
+        "nameColor": "#A9F548FF",
+        "hideRecordIco": true,
+        "actor": 807023,
+        "actorName": "{playername}",
+        "say": "没什么大碍……这种被床单困住的体验，还挺少见的。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 4,
+        "side": 2,
+        "bgName": "star_level_bg_605",
+        "spine": true,
+        "dir": 1,
+        "actor": 807023,
+        "nameColor": "#A9F548FF",
+        "say": "是、是这样吗……",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 4,
+        "side": 2,
+        "bgName": "star_level_bg_605",
+        "spine": true,
+        "withoutActorName": true,
+        "hideRecordIco": true,
+        "actor": 807023,
+        "nameColor": "#A9F548FF",
+        "say": "洁白的布料内，皂香混合着伴尔维身上的淡淡花香，在狭小的空间里蔓延。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 4,
+        "side": 2,
+        "bgName": "star_level_bg_605",
+        "spine": true,
+        "withoutActorName": true,
+        "hideRecordIco": true,
+        "actor": 807023,
+        "nameColor": "#A9F548FF",
+        "say": "正当我准备抬手掀开床单时，她却轻轻拉住了我的袖口。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 4,
+        "side": 2,
+        "bgName": "star_level_bg_605",
+        "spine": true,
+        "dir": 1,
+        "actor": 807023,
+        "nameColor": "#A9F548FF",
+        "say": "请、请稍等一下……",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 4,
+        "side": 2,
+        "bgName": "star_level_bg_605",
+        "spine": true,
+        "dir": 1,
+        "actor": 807023,
+        "nameColor": "#A9F548FF",
+        "say": "现在的风还很大，我想……也许还不是出去的“幸运时机”。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 4,
+        "side": 2,
+        "bgName": "star_level_bg_605",
+        "spine": true,
+        "portrait": "zhihuiguan",
+        "nameColor": "#A9F548FF",
+        "hideRecordIco": true,
+        "actor": 807023,
+        "actorName": "{playername}",
+        "say": "是占卜的结果么？",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 4,
+        "side": 2,
+        "bgName": "star_level_bg_605",
+        "spine": true,
+        "dir": 1,
+        "actor": 807023,
+        "nameColor": "#A9F548FF",
+        "say": "不、不是……只是伴尔维自己的判断……",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 1,
+        "side": 2,
+        "bgName": "star_level_bg_605",
+        "spine": true,
+        "dir": 1,
+        "actor": 807023,
+        "nameColor": "#A9F548FF",
+        "say": "当然，如果需要占卜的话，我也会认真确认的。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 1,
+        "side": 2,
+        "bgName": "star_level_bg_605",
+        "spine": true,
+        "portrait": "zhihuiguan",
+        "nameColor": "#A9F548FF",
+        "hideRecordIco": true,
+        "actor": 807023,
+        "actorName": "{playername}",
+        "say": "不用，我相信你的判断。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 3,
+        "side": 2,
+        "bgName": "star_level_bg_605",
+        "spine": true,
+        "dir": 1,
+        "actor": 807023,
+        "nameColor": "#A9F548FF",
+        "say": "嗯……谢谢您，指挥官。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 3,
+        "side": 2,
+        "bgName": "star_level_bg_605",
+        "spine": true,
+        "withoutActorName": true,
+        "hideRecordIco": true,
+        "actor": 807023,
+        "nameColor": "#A9F548FF",
+        "say": "她像是松了口气，轻轻靠近了一些，将头埋进我的怀里。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 4,
+        "side": 2,
+        "bgName": "star_level_bg_605",
+        "spine": true,
+        "dir": 1,
+        "actor": 807023,
+        "nameColor": "#A9F548FF",
+        "say": "指挥官……如果您愿意的话……",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "actor": 807023,
+        "nameColor": "#A9F548FF",
+        "bgName": "star_level_bg_605",
+        "spine": true,
+        "side": 2,
+        "expression": 4,
+        "say": "在风完全停下来之前，就请再多陪我待一会吧。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 3,
+        "side": 2,
+        "bgName": "star_level_bg_605",
+        "spine": true,
+        "withoutActorName": true,
+        "hideRecordIco": true,
+        "actor": 807023,
+        "nameColor": "#A9F548FF",
+        "say": "白色的床单在风中轻轻起伏，像将天空与海风都暂时隔绝在外。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
+      },
+      {
+        "expression": 3,
+        "side": 2,
+        "bgName": "star_level_bg_605",
+        "spine": true,
+        "withoutActorName": true,
+        "hideRecordIco": true,
+        "actor": 807023,
+        "nameColor": "#A9F548FF",
+        "say": "我点了点头。于是，在这片柔软的雪白中，我们静静交织在一起。",
+        "typewriter": {
+          "speed": 0.05,
+          "speedUp": 0.01
+        }
       }
     ]
   }

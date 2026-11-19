@@ -26930,6 +26930,49 @@
     "title_res_tag": "LeMarsReSkin_permanent",
     "type": 18
   },
+  "7000": {
+    "config_client": "",
+    "config_data": [],
+    "config_id": 0,
+    "id": 7000,
+    "is_show": 1,
+    "login_pop": 0,
+    "mark": 20261119,
+    "page_core": "",
+    "page_info": {
+      "class_name": "LevelDropUpPage",
+      "ui_name": "LevelDropUpPage"
+    },
+    "time": [
+      "timer",
+      [
+        [
+          2026,
+          11,
+          19
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2026,
+          12,
+          3
+        ],
+        [
+          12,
+          0,
+          0
+        ]
+      ]
+    ],
+    "title_res_tag": "VeritasAcademyCoreActivity_subtitle_4",
+    "type": 0
+  },
   "7011": {
     "config_client": {
       "equip_skin": [
@@ -44733,6 +44776,119 @@
     "title_res_tag": "",
     "type": 131
   },
+  "50661": {
+    "config_client": {
+      "drop": [
+        2,
+        15006,
+        1
+      ],
+      "packageID": 60825
+    },
+    "config_data": [
+      [
+        699022,
+        807023,
+        103122
+      ],
+      907705
+    ],
+    "config_id": 0,
+    "id": 50661,
+    "is_show": 0,
+    "login_pop": 0,
+    "mark": 20261119,
+    "page_core": "",
+    "page_info": "",
+    "time": [
+      "timer",
+      [
+        [
+          2026,
+          11,
+          19
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2026,
+          11,
+          25
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
+    "title_res_tag": "",
+    "type": 131
+  },
+  "50662": {
+    "config_client": {
+      "story": [
+        [
+          "SHISHANGTEKANXINDONGZHENLIAOSHIJIAN2"
+        ],
+        [
+          "SHISHANGTEKANXINDONGZHENLIAOSHIJIAN3"
+        ],
+        [
+          "SHISHANGTEKANXINDONGZHENLIAOSHIJIAN1"
+        ]
+      ]
+    },
+    "config_data": [
+      27817,
+      27818,
+      27819
+    ],
+    "config_id": 1,
+    "id": 50662,
+    "is_show": 3,
+    "login_pop": 0,
+    "mark": 20261119,
+    "page_core": "BlackFriday2026CoreActivityUI",
+    "page_info": {
+      "class_name": "BlackFriday2026SkinMagazinePage",
+      "ui_name": "BlackFriday2026SkinMagazinePage"
+    },
+    "time": [
+      "timer",
+      [
+        [
+          2026,
+          11,
+          19
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2026,
+          11,
+          25
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
+    "title_res_tag": "BlackFriday2026CoreActivityUI_subtitle_3",
+    "type": 86
+  },
   "50801": {
     "config_client": "",
     "config_data": [
@@ -55873,6 +56029,8 @@
     50658,
     50659,
     50660,
+    50661,
+    50662,
     50837,
     51001,
     51002,
@@ -55991,6 +56149,7 @@
     51614,
     51615,
     51616,
+    7000,
     51301,
     51302,
     51303,
@@ -56350,7 +56509,8 @@
   "get_id_list_by_type": {
     "0": [
       40,
-      711
+      711,
+      7000
     ],
     "1": [
       4893,
@@ -57890,7 +58050,8 @@
       50235,
       50290,
       50301,
-      50412
+      50412,
+      50662
     ],
     "87": [
       4903,
@@ -58121,7 +58282,8 @@
     ],
     "131": [
       50242,
-      50660
+      50660,
+      50661
     ],
     "132": [
       50256

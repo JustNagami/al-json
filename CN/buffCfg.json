@@ -1233509,7 +1233509,7 @@
     "color": "blue",
     "picture": "",
     "desc": "",
-    "stack": 1,
+    "stack": 2,
     "id": 118032,
     "icon": 118020,
     "last_effect": "",
@@ -1233517,7 +1233517,8 @@
       {
         "type": "BattleBuffCastSkill",
         "trigger": [
-          "onAttach"
+          "onAttach",
+          "onStack"
         ],
         "arg_list": {
           "minTargetNumber": 1,
@@ -1233535,7 +1233536,8 @@
       {
         "type": "BattleBuffCastSkill",
         "trigger": [
-          "onAttach"
+          "onAttach",
+          "onStack"
         ],
         "arg_list": {
           "minTargetNumber": 1,
@@ -1233553,7 +1233555,8 @@
       {
         "type": "BattleBuffCastSkill",
         "trigger": [
-          "onAttach"
+          "onAttach",
+          "onStack"
         ],
         "arg_list": {
           "minTargetNumber": 1,
@@ -1233571,7 +1233574,8 @@
       {
         "type": "BattleBuffCastSkill",
         "trigger": [
-          "onAttach"
+          "onAttach",
+          "onStack"
         ],
         "arg_list": {
           "minTargetNumber": 1,
@@ -1233589,7 +1233593,8 @@
       {
         "type": "BattleBuffCastSkill",
         "trigger": [
-          "onAttach"
+          "onAttach",
+          "onStack"
         ],
         "arg_list": {
           "minTargetNumber": 1,
@@ -1233607,7 +1233612,8 @@
       {
         "type": "BattleBuffCastSkill",
         "trigger": [
-          "onAttach"
+          "onAttach",
+          "onStack"
         ],
         "arg_list": {
           "minTargetNumber": 1,
@@ -1233625,7 +1233631,8 @@
       {
         "type": "BattleBuffCastSkill",
         "trigger": [
-          "onAttach"
+          "onAttach",
+          "onStack"
         ],
         "arg_list": {
           "minTargetNumber": 1,
