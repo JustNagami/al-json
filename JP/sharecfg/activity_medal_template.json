@@ -2255,6 +2255,102 @@
     "remake_task_id": 0,
     "task_id": 25736
   },
+  "5140901": {
+    "activity_medal_desc": "魔法とときめきが交錯する時、攻略が始まる――",
+    "activity_medal_name": "ステッカー：真理学園",
+    "group": 51409,
+    "id": 5140901,
+    "item": 66123,
+    "medal_asset": "ActivityMedal/5140901",
+    "next_medal": 0,
+    "prefab_node": "1",
+    "remake_task_id": 0,
+    "task_id": 25749
+  },
+  "5140902": {
+    "activity_medal_desc": "これは……心がドキッとしてる！",
+    "activity_medal_name": "ステッカー：ドキドキクリティカル",
+    "group": 51409,
+    "id": 5140902,
+    "item": 66124,
+    "medal_asset": "ActivityMedal/5140902",
+    "next_medal": 0,
+    "prefab_node": "2",
+    "remake_task_id": 0,
+    "task_id": 25750
+  },
+  "5140903": {
+    "activity_medal_desc": "ロードした理由：「好き」の声が小さすぎた",
+    "activity_medal_name": "ステッカー：告白セーブポイント",
+    "group": 51409,
+    "id": 5140903,
+    "item": 66125,
+    "medal_asset": "ActivityMedal/5140903",
+    "next_medal": 0,
+    "prefab_node": "3",
+    "remake_task_id": 0,
+    "task_id": 25751
+  },
+  "5140904": {
+    "activity_medal_desc": "スタッフの教育には、スタッフを使った教育もあるわ",
+    "activity_medal_name": "ステッカー：スタッフ教育",
+    "group": 51409,
+    "id": 5140904,
+    "item": 66126,
+    "medal_asset": "ActivityMedal/5140904",
+    "next_medal": 0,
+    "prefab_node": "4",
+    "remake_task_id": 0,
+    "task_id": 25752
+  },
+  "5140905": {
+    "activity_medal_desc": "王が認め、王が許す",
+    "activity_medal_name": "ステッカー：玉座の上",
+    "group": 51409,
+    "id": 5140905,
+    "item": 66127,
+    "medal_asset": "ActivityMedal/5140905",
+    "next_medal": 0,
+    "prefab_node": "5",
+    "remake_task_id": 0,
+    "task_id": 25753
+  },
+  "5140906": {
+    "activity_medal_desc": "トリック・オア・トリート？……トリート・アンド・トリート！",
+    "activity_medal_name": "ステッカー：キャンディモンスター",
+    "group": 51409,
+    "id": 5140906,
+    "item": 66128,
+    "medal_asset": "ActivityMedal/5140906",
+    "next_medal": 0,
+    "prefab_node": "6",
+    "remake_task_id": 0,
+    "task_id": 25754
+  },
+  "5140907": {
+    "activity_medal_desc": "雪来たる？ただの登場演出だよ",
+    "activity_medal_name": "ステッカー：スノークラウン",
+    "group": 51409,
+    "id": 5140907,
+    "item": 66129,
+    "medal_asset": "ActivityMedal/5140907",
+    "next_medal": 0,
+    "prefab_node": "7",
+    "remake_task_id": 0,
+    "task_id": 25755
+  },
+  "5140908": {
+    "activity_medal_desc": "其れは創造主と同じ、ロマンにのみ忠実な存在",
+    "activity_medal_name": "ステッカー：ロマンチック聖杯",
+    "group": 51409,
+    "id": 5140908,
+    "item": 66130,
+    "medal_asset": "ActivityMedal/5140908",
+    "next_medal": 0,
+    "prefab_node": "8",
+    "remake_task_id": 0,
+    "task_id": 25756
+  },
   "5161101": {
     "activity_medal_desc": "「星空の倒影の中に、往きし日の答えを求めてはならない」",
     "activity_medal_name": "ステッカー：霧海天文台",
@@ -2547,7 +2643,15 @@
     5161105,
     5161106,
     5161107,
-    5161108
+    5161108,
+    5140901,
+    5140902,
+    5140903,
+    5140904,
+    5140905,
+    5140906,
+    5140907,
+    5140908
   ],
   "get_id_list_by_group": {
     "5711": [
@@ -2785,6 +2889,16 @@
       5115405,
       5115406,
       5115407
+    ],
+    "51409": [
+      5140901,
+      5140902,
+      5140903,
+      5140904,
+      5140905,
+      5140906,
+      5140907,
+      5140908
     ],
     "51611": [
       5161101,

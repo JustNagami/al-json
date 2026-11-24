@@ -14284,6 +14284,87 @@
     "type": 0,
     "type_order": 6
   },
+  "1031": {
+    "airijp_id": "com.yostarjp.azurlane.seasonpass32",
+    "akashi_pick": 1,
+    "cash_show": 0,
+    "descrip": "購入すると、シーズン任務進捗Pt1500を入手し、さらにSP報酬を開放",
+    "descrip_extra": "※シーズン任務クリア時に追加の報酬を入手可能",
+    "display": [
+      [
+        8,
+        59599,
+        1500
+      ]
+    ],
+    "drop_item": [],
+    "extra_gem": 0,
+    "extra_service": 4,
+    "extra_service_item": [
+      [
+        8,
+        59599,
+        1500
+      ]
+    ],
+    "first_icon": "",
+    "first_pay_double": 0,
+    "first_text": "",
+    "gem": 0,
+    "id": 1031,
+    "id_str": "com.bilibili.blhx.battlepass33",
+    "ignorePlatform": [],
+    "limit_arg": 1,
+    "limit_args": [],
+    "limit_group": 0,
+    "limit_type": 2,
+    "money": 1200,
+    "name": "クルーズパス(26初冬)",
+    "name_display": "クルーズパス(26初冬)",
+    "package_sort_id": 0,
+    "package_tag": "",
+    "package_tag_open": 0,
+    "picture": "battlepass_1",
+    "second_text": "特別報酬開放",
+    "show_group": "",
+    "skin_inquire_relation": 0,
+    "sub_display": [
+      7032,
+      1500
+    ],
+    "subject": "クルーズパス(26初冬)",
+    "tag": 2,
+    "time": [
+      [
+        [
+          2026,
+          12,
+          1
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2027,
+          1,
+          31
+        ],
+        [
+          22,
+          59,
+          59
+        ]
+      ]
+    ],
+    "tip": "",
+    "tip_open": 0,
+    "type": 0,
+    "type_order": 6
+  },
   "1303": {
     "airijp_id": "com.yostarjp.azurlane.seasonpass302",
     "akashi_pick": 1,
@@ -21646,6 +21727,125 @@
     "type": 0,
     "type_order": 4
   },
+  "2099": {
+    "airijp_id": "com.yostarjp.azurlane.package131",
+    "akashi_pick": 1,
+    "cash_show": 0,
+    "descrip": "購入すると教科書を大量に入手可能",
+    "descrip_extra": "※購入したアイテムはメールボックスに送られます",
+    "display": [
+      [
+        2,
+        16004,
+        1
+      ],
+      [
+        2,
+        16014,
+        1
+      ],
+      [
+        2,
+        16024,
+        1
+      ]
+    ],
+    "drop_item": [
+      [
+        2,
+        40023,
+        1
+      ]
+    ],
+    "extra_gem": 0,
+    "extra_service": 3,
+    "extra_service_item": [
+      [
+        2,
+        16004,
+        1
+      ],
+      [
+        2,
+        16014,
+        1
+      ],
+      [
+        2,
+        16024,
+        1
+      ],
+      [
+        2,
+        16003,
+        3
+      ],
+      [
+        2,
+        16013,
+        3
+      ],
+      [
+        2,
+        16023,
+        3
+      ]
+    ],
+    "first_icon": "",
+    "first_pay_double": 0,
+    "first_text": "",
+    "gem": 0,
+    "id": 2099,
+    "id_str": "com.bilibili.blhx.libao131",
+    "ignorePlatform": [],
+    "limit_arg": 4,
+    "limit_args": [],
+    "limit_group": 0,
+    "limit_type": 2,
+    "money": 480,
+    "name": "教科書パック(2026秋)",
+    "name_display": "教科書パック(2026秋)",
+    "package_sort_id": 0,
+    "package_tag": "",
+    "package_tag_open": 0,
+    "picture": "boxSkill",
+    "second_text": "",
+    "show_group": "",
+    "skin_inquire_relation": 0,
+    "sub_display": [],
+    "subject": "教科書パック(2026秋)",
+    "tag": 2,
+    "time": [
+      [
+        [
+          2026,
+          11,
+          24
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2027,
+          4,
+          14
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
+    "tip": "",
+    "tip_open": 0,
+    "type": 0,
+    "type_order": 0
+  },
   "5001": {
     "airijp_id": "com.yostarjp.azurlane.package201",
     "akashi_pick": 1,
@@ -26982,6 +27182,7 @@
     1028,
     1029,
     1030,
+    1031,
     1303,
     2001,
     2002,
@@ -27066,6 +27267,7 @@
     2096,
     2097,
     2098,
+    2099,
     5001,
     5002,
     5003,
@@ -27298,6 +27500,7 @@
       2096,
       2097,
       2098,
+      2099,
       5001,
       5002,
       5003,
@@ -27352,6 +27555,7 @@
       1028,
       1029,
       1030,
+      1031,
       1303
     ],
     "6": [
