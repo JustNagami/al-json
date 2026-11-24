@@ -818,6 +818,69 @@
     "repair": 0,
     "weapon_ids": []
   },
+  "9701141": {
+    "breakout_id": 9701142,
+    "breakout_view": "Unlock Cinders of Hope - Kersaint/Main gun efficiency +5%",
+    "gold": 500,
+    "id": 9701141,
+    "item1": 21067,
+    "item1_num": 1,
+    "item2": 21067,
+    "item2_num": 0,
+    "level": 10,
+    "pre_id": 0,
+    "repair": 0,
+    "weapon_ids": [
+      171201
+    ]
+  },
+  "9701142": {
+    "breakout_id": 9701143,
+    "breakout_view": "Torpedo base +1/Torpedo preload +1/Main gun efficiency +10%",
+    "gold": 1500,
+    "id": 9701142,
+    "item1": 21067,
+    "item1_num": 1,
+    "item2": 21067,
+    "item2_num": 0,
+    "level": 30,
+    "pre_id": 9701141,
+    "repair": 0,
+    "weapon_ids": [
+      106,
+      106
+    ]
+  },
+  "9701143": {
+    "breakout_id": 9701144,
+    "breakout_view": "Improve Cinders of Hope - Kersaint/All weapons' efficiency +5%",
+    "gold": 2500,
+    "id": 9701143,
+    "item1": 21067,
+    "item1_num": 2,
+    "item2": 21067,
+    "item2_num": 0,
+    "level": 70,
+    "pre_id": 9701142,
+    "repair": 0,
+    "weapon_ids": [
+      171202
+    ]
+  },
+  "9701144": {
+    "breakout_id": 0,
+    "breakout_view": "None",
+    "gold": 0,
+    "id": 9701144,
+    "item1": 21067,
+    "item1_num": 0,
+    "item2": 21067,
+    "item2_num": 0,
+    "level": 0,
+    "pre_id": 9701143,
+    "repair": 0,
+    "weapon_ids": []
+  },
   "9702011": {
     "breakout_id": 9702012,
     "breakout_view": "Unlock Ashen Might – Helena/Main gun efficiency +5%",
@@ -4355,6 +4418,10 @@
     9701132,
     9701133,
     9701134,
+    9701141,
+    9701142,
+    9701143,
+    9701144,
     9702011,
     9702012,
     9702013,

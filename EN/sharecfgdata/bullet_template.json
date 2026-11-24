@@ -156663,6 +156663,505 @@
     "type": 2,
     "velocity": 18
   },
+  "161278": {
+    "DMG_font": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "AlertArea",
+    "ammo_type": 1,
+    "antisub_enhancement": 0,
+    "attach_buff": [
+      {
+        "buff_id": 153063,
+        "group_level": 1,
+        "rant": 10000
+      }
+    ],
+    "cld_box": [
+      30,
+      1,
+      30
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      1,
+      1,
+      1
+    ],
+    "effect_type": 1,
+    "extra_param": {
+      "airdrop": true,
+      "diveFilter": [
+        2
+      ],
+      "dropOffset": true,
+      "gravity": -0.1,
+      "offsetY": 10
+    },
+    "hit_fx": "ShellMissBig2",
+    "hit_sfx": "battle/hit",
+    "hit_type": {
+      "range": 45,
+      "time": -1
+    },
+    "id": 161278,
+    "miss_fx": "ShellMissBig2",
+    "miss_sfx": "",
+    "modle_ID": "maliya_xueqiu",
+    "out_bound": 0,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 200,
+    "range_offset": 0,
+    "type": 2,
+    "velocity": 26
+  },
+  "161279": {
+    "DMG_font": [
+      [
+        2,
+        1.2
+      ],
+      [
+        2,
+        1.2
+      ],
+      [
+        2,
+        1.2
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "AlertArea",
+    "ammo_type": 2,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      5,
+      2,
+      2
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      1,
+      1,
+      1
+    ],
+    "effect_type": 1,
+    "extra_param": {
+      "diveFilter": [
+        2
+      ],
+      "gravity": -0.03,
+      "randomOffsetX": 18,
+      "randomOffsetZ": 18
+    },
+    "hit_fx": "ShellHit",
+    "hit_sfx": "battle/hit",
+    "hit_type": {
+      "range": 15,
+      "time": -1
+    },
+    "id": 161279,
+    "miss_fx": "ShellMissBig",
+    "miss_sfx": "battle/sink",
+    "modle_ID": "kuasheAP",
+    "out_bound": 0,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 100,
+    "range_offset": 15,
+    "type": 2,
+    "velocity": 18
+  },
+  "161280": {
+    "DMG_font": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "acceleration": [
+      {
+        "flip": false,
+        "t": 0,
+        "u": -0.035,
+        "v": 0
+      },
+      {
+        "flip": true,
+        "t": 1,
+        "u": 0.08,
+        "v": 0.02
+      }
+    ],
+    "alert_fx": "",
+    "ammo_type": 1,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      5,
+      2,
+      2
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      1,
+      1,
+      1
+    ],
+    "effect_type": 1,
+    "extra_param": [],
+    "hit_fx": "pofang",
+    "hit_sfx": "battle/hit",
+    "hit_type": [],
+    "id": 161280,
+    "miss_fx": "ShellMissBig",
+    "miss_sfx": "battle/sink",
+    "modle_ID": "gaomidu01",
+    "out_bound": 0,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 150,
+    "range_offset": 10,
+    "type": 1,
+    "velocity": 5.5
+  },
+  "161281": {
+    "DMG_font": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "",
+    "ammo_type": 1,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      5,
+      2,
+      2
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      1,
+      1,
+      1
+    ],
+    "effect_type": 1,
+    "extra_param": [],
+    "hit_fx": "pofang",
+    "hit_sfx": "battle/hit",
+    "hit_type": [],
+    "id": 161281,
+    "miss_fx": "ShellMissBig",
+    "miss_sfx": "battle/sink",
+    "modle_ID": "gaomidu01",
+    "out_bound": 0,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 150,
+    "range_offset": 10,
+    "type": 1,
+    "velocity": 12
+  },
+  "161282": {
+    "DMG_font": [
+      [
+        3,
+        1.2
+      ],
+      [
+        3,
+        0.9
+      ],
+      [
+        3,
+        0.7
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "AlertArea",
+    "ammo_type": 3,
+    "antisub_enhancement": 0,
+    "attach_buff": [
+      {
+        "buff_id": 311,
+        "group_level": 1,
+        "rant": 10000
+      }
+    ],
+    "cld_box": [
+      4,
+      2,
+      2
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      1,
+      1,
+      1
+    ],
+    "effect_type": 1,
+    "extra_param": {
+      "diveFilter": [
+        2
+      ],
+      "gravity": -0.15,
+      "randomOffsetX": 2,
+      "randomOffsetZ": 2
+    },
+    "hit_fx": "ShellHit",
+    "hit_sfx": "battle/hit",
+    "hit_type": {
+      "range": 8,
+      "time": -1
+    },
+    "id": 161282,
+    "miss_fx": "ShellMissBig",
+    "miss_sfx": "battle/sink",
+    "modle_ID": "moluotuofu_ranshaoping",
+    "out_bound": 0,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 120,
+    "range_offset": 15,
+    "type": 2,
+    "velocity": 8
+  },
+  "161283": {
+    "DMG_font": [
+      [
+        3,
+        1.1
+      ],
+      [
+        3,
+        1.1
+      ],
+      [
+        3,
+        1.1
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "AlertArea",
+    "ammo_type": 3,
+    "antisub_enhancement": 0,
+    "attach_buff": [
+      {
+        "buff_id": 153093,
+        "group_level": 1,
+        "rant": 10000
+      }
+    ],
+    "cld_box": [
+      1.8,
+      1,
+      1
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      1,
+      1,
+      1
+    ],
+    "effect_type": 1,
+    "extra_param": {
+      "airdrop": true,
+      "diveFilter": [
+        2
+      ],
+      "dropOffset": true,
+      "gravity": -0.15,
+      "offsetX": -2,
+      "offsetY": 60,
+      "randomOffsetX": 10,
+      "randomOffsetZ": 10
+    },
+    "hit_fx": "ShellHit",
+    "hit_sfx": "battle/hit",
+    "hit_type": {
+      "range": 12,
+      "time": -1
+    },
+    "id": 161283,
+    "miss_fx": "ShellMissBig",
+    "miss_sfx": "",
+    "modle_ID": "moluotuofu_gaobaodan",
+    "out_bound": 0,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 200,
+    "range_offset": 20,
+    "type": 2,
+    "velocity": 1
+  },
+  "161284": {
+    "DMG_font": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        0.8
+      ],
+      [
+        4,
+        0.7
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "",
+    "ammo_type": 1,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      6,
+      2,
+      2
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      1.1,
+      0.9,
+      0.7
+    ],
+    "effect_type": 1,
+    "extra_param": [],
+    "hit_fx": "ShellMiss",
+    "hit_sfx": "battle/hit",
+    "hit_type": [],
+    "id": 161284,
+    "miss_fx": "ShellMiss",
+    "miss_sfx": "battle/sink",
+    "modle_ID": "Bullet2_faxi",
+    "out_bound": 0,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 80,
+    "range_offset": 10,
+    "type": 1,
+    "velocity": 12
+  },
+  "161285": {
+    "DMG_font": [
+      [
+        3,
+        0.8
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        3,
+        1.3
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "TorAlert",
+    "ammo_type": 4,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      1.8,
+      1,
+      1
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      0.7,
+      0.9,
+      1.2
+    ],
+    "effect_type": 1,
+    "extra_param": {
+      "diveFilter": [
+        2
+      ]
+    },
+    "hit_fx": "TorpedoHit3",
+    "hit_sfx": "battle/torpedo-hit",
+    "hit_type": {
+      "range": 3,
+      "time": -1
+    },
+    "id": 161285,
+    "miss_fx": "",
+    "miss_sfx": "",
+    "modle_ID": "Torpedo01",
+    "out_bound": 0,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 150,
+    "range_offset": 20,
+    "type": 3,
+    "velocity": 8
+  },
   "161301": {
     "DMG_font": [
       [
@@ -219621,6 +220120,58 @@
     "type": 1,
     "velocity": 18
   },
+  "171201": {
+    "DMG_font": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "",
+    "ammo_type": 1,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      6,
+      2,
+      2
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      1,
+      0.75,
+      0.4
+    ],
+    "effect_type": 1,
+    "extra_param": [],
+    "hit_fx": "pofang",
+    "hit_sfx": "battle/hit",
+    "hit_type": [],
+    "id": 171201,
+    "miss_fx": "ShellMiss",
+    "miss_sfx": "battle/sink",
+    "modle_ID": "heiqiye05",
+    "out_bound": 0,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 100,
+    "range_offset": 10,
+    "type": 1,
+    "velocity": 18
+  },
   "180016": {
     "DMG_font": [
       [
@@ -221686,6 +222237,129 @@
       "time": -1
     },
     "id": 184721,
+    "miss_fx": "",
+    "miss_sfx": "",
+    "modle_ID": "Torpedo01",
+    "out_bound": 0,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 100,
+    "range_offset": 20,
+    "type": 3,
+    "velocity": 6
+  },
+  "185011": {
+    "DMG_font": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "",
+    "ammo_type": 1,
+    "antisub_enhancement": 0,
+    "attach_buff": [
+      {
+        "buff_id": 802423,
+        "group_level": 1,
+        "rant": 10000
+      }
+    ],
+    "cld_box": [
+      6,
+      2,
+      2
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      1,
+      0.75,
+      0.4
+    ],
+    "effect_type": 1,
+    "extra_param": [],
+    "hit_fx": "pofang",
+    "hit_sfx": "battle/hit",
+    "hit_type": [],
+    "id": 185011,
+    "miss_fx": "ShellMiss",
+    "miss_sfx": "battle/sink",
+    "modle_ID": "heiqiye05",
+    "out_bound": 0,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 100,
+    "range_offset": 10,
+    "type": 1,
+    "velocity": 20
+  },
+  "185021": {
+    "DMG_font": [
+      [
+        3,
+        0.8
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        3,
+        1.3
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "TorAlert",
+    "ammo_type": 4,
+    "antisub_enhancement": 0,
+    "attach_buff": [
+      {
+        "buff_id": 802423,
+        "group_level": 1,
+        "rant": 10000
+      }
+    ],
+    "cld_box": [
+      1.8,
+      1,
+      1
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      0.8,
+      1,
+      1.3
+    ],
+    "effect_type": 1,
+    "extra_param": {
+      "diveFilter": [
+        2
+      ]
+    },
+    "hit_fx": "TorpedoHit3",
+    "hit_sfx": "battle/torpedo-hit",
+    "hit_type": {
+      "range": 3,
+      "time": -1
+    },
+    "id": 185021,
     "miss_fx": "",
     "miss_sfx": "",
     "modle_ID": "Torpedo01",
@@ -1065539,6 +1066213,7196 @@
     "type": 1,
     "velocity": 3
   },
+  "3451001": {
+    "DMG_font": [
+      [
+        3,
+        1.4
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        3,
+        0.9
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "",
+    "ammo_type": 2,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      2,
+      2,
+      2
+    ],
+    "cld_offset": [
+      100,
+      0,
+      100
+    ],
+    "damage_type": [
+      1,
+      1,
+      1
+    ],
+    "effect_type": 1,
+    "extra_param": {
+      "ignoreB": true,
+      "ignoreShield": true,
+      "lastTime": 0.01,
+      "shrapnel": {
+        "1": {
+          "barrage_ID": 3451003,
+          "bullet_ID": 3451002,
+          "emitterType": "BattleBulletEmitter",
+          "reaim": 1
+        },
+        "2": {
+          "barrage_ID": 1,
+          "bullet_ID": 3451008,
+          "emitterType": "BattleBulletEmitter"
+        },
+        "FXID": ""
+      }
+    },
+    "hit_fx": "None",
+    "hit_sfx": "",
+    "hit_type": [],
+    "id": 3451001,
+    "miss_fx": "None",
+    "miss_sfx": "",
+    "modle_ID": "paodan_nanguatou_enemy",
+    "out_bound": 3,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 35,
+    "range_offset": 0,
+    "type": 5,
+    "velocity": 3
+  },
+  "3451002": {
+    "DMG_font": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "acceleration": [
+      {
+        "flip": false,
+        "t": 0,
+        "u": -0.05,
+        "v": 0
+      },
+      {
+        "flip": false,
+        "t": 0.5,
+        "u": 0,
+        "v": 0
+      }
+    ],
+    "alert_fx": "",
+    "ammo_type": 1,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      1.5,
+      1.5,
+      1.5
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      1,
+      0.9,
+      0.8
+    ],
+    "effect_type": 1,
+    "extra_param": [],
+    "hit_fx": "None",
+    "hit_sfx": "",
+    "hit_type": [],
+    "id": 3451002,
+    "miss_fx": "None",
+    "miss_sfx": "",
+    "modle_ID": "zidan_tangguo",
+    "out_bound": 3,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 100,
+    "range_offset": 0,
+    "type": 1,
+    "velocity": 5
+  },
+  "3451003": {
+    "DMG_font": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "",
+    "ammo_type": 1,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      1.5,
+      1.5,
+      1.5
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      2,
+      1.8,
+      1.6
+    ],
+    "effect_type": 1,
+    "extra_param": {
+      "ignoreB": true,
+      "ignoreShield": true,
+      "lastTime": 0.01,
+      "shrapnel": {
+        "1": {
+          "barrage_ID": 1,
+          "bullet_ID": 3451004,
+          "emitterType": "BattleBulletEmitter",
+          "reaim": 1
+        },
+        "FXID": ""
+      }
+    },
+    "hit_fx": "None",
+    "hit_sfx": "",
+    "hit_type": [],
+    "id": 3451003,
+    "miss_fx": "None",
+    "miss_sfx": "",
+    "modle_ID": "bullet_dayu02",
+    "out_bound": 3,
+    "pierce_count": 50,
+    "random_damage_rate": 0,
+    "range": 40,
+    "range_offset": 0,
+    "type": 5,
+    "velocity": 5
+  },
+  "3451004": {
+    "DMG_font": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "",
+    "ammo_type": 1,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      1.5,
+      1.5,
+      1.5
+    ],
+    "cld_offset": [
+      100,
+      0,
+      100
+    ],
+    "damage_type": [
+      2,
+      1.8,
+      1.6
+    ],
+    "effect_type": 1,
+    "extra_param": {
+      "ignoreB": true,
+      "ignoreShield": true,
+      "lastTime": 0.01,
+      "shrapnel": {
+        "1": {
+          "barrage_ID": 3451006,
+          "bullet_ID": 3451005,
+          "emitterType": "BattleBulletEmitter",
+          "inheritAngle": 1,
+          "rotateOffset": true
+        },
+        "2": {
+          "barrage_ID": 3451007,
+          "bullet_ID": 3451005,
+          "emitterType": "BattleBulletEmitter",
+          "inheritAngle": 1,
+          "rotateOffset": true
+        },
+        "FXID": ""
+      }
+    },
+    "hit_fx": "None",
+    "hit_sfx": "",
+    "hit_type": [],
+    "id": 3451004,
+    "miss_fx": "None",
+    "miss_sfx": "",
+    "modle_ID": "bullet_dayu02",
+    "out_bound": 3,
+    "pierce_count": 50,
+    "random_damage_rate": 0,
+    "range": 0.01,
+    "range_offset": 0,
+    "type": 5,
+    "velocity": 0.1
+  },
+  "3451005": {
+    "DMG_font": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        0.8
+      ],
+      [
+        4,
+        0.7
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "",
+    "ammo_type": 1,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      0.5,
+      0.5,
+      0.5
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      1,
+      1,
+      1
+    ],
+    "effect_type": 1,
+    "extra_param": {
+      "cldMax": 15,
+      "ignoreShield": true,
+      "scaleSpeed": 3
+    },
+    "hit_fx": "None",
+    "hit_sfx": "",
+    "hit_type": [],
+    "id": 3451005,
+    "miss_fx": "None",
+    "miss_sfx": "",
+    "modle_ID": "dongfangjiguang03",
+    "out_bound": 0,
+    "pierce_count": 50,
+    "random_damage_rate": 0,
+    "range": 100,
+    "range_offset": 0,
+    "type": 15,
+    "velocity": 8
+  },
+  "3451006": {
+    "DMG_font": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        0.8
+      ],
+      [
+        4,
+        0.7
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "",
+    "ammo_type": 1,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      0.5,
+      0.5,
+      0.5
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      1,
+      1,
+      1
+    ],
+    "effect_type": 1,
+    "extra_param": {
+      "cldMax": 15,
+      "ignoreShield": true,
+      "scaleSpeed": 2
+    },
+    "hit_fx": "None",
+    "hit_sfx": "",
+    "hit_type": [],
+    "id": 3451006,
+    "miss_fx": "None",
+    "miss_sfx": "",
+    "modle_ID": "dongfangjiguang02",
+    "out_bound": 0,
+    "pierce_count": 50,
+    "random_damage_rate": 0,
+    "range": 100,
+    "range_offset": 0,
+    "type": 15,
+    "velocity": 5
+  },
+  "3451007": {
+    "DMG_font": [
+      [
+        3,
+        0.8
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        3,
+        1.3
+      ]
+    ],
+    "acceleration": [
+      {
+        "flip": false,
+        "t": 0,
+        "u": 0.03,
+        "v": 0
+      },
+      {
+        "flip": false,
+        "t": 1,
+        "u": 0,
+        "v": 0
+      }
+    ],
+    "alert_fx": "TorAlert",
+    "ammo_type": 4,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      3,
+      2,
+      2
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      0.8,
+      1,
+      1.3
+    ],
+    "effect_type": 1,
+    "extra_param": {
+      "diveFilter": [
+        2
+      ]
+    },
+    "hit_fx": "TorpedoHit3",
+    "hit_sfx": "battle/torpedo-hit",
+    "hit_type": {
+      "range": 3,
+      "time": -1
+    },
+    "id": 3451007,
+    "miss_fx": "",
+    "miss_sfx": "",
+    "modle_ID": "yulei_youling",
+    "out_bound": 0,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 100,
+    "range_offset": 20,
+    "type": 3,
+    "velocity": 1
+  },
+  "3451008": {
+    "DMG_font": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "acceleration": [
+      {
+        "flip": false,
+        "t": 0,
+        "u": -0.05,
+        "v": 0
+      },
+      {
+        "flip": false,
+        "t": 0.5,
+        "u": 0,
+        "v": 0
+      }
+    ],
+    "alert_fx": "",
+    "ammo_type": 1,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      1.5,
+      1.5,
+      1.5
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      1,
+      0.9,
+      0.8
+    ],
+    "effect_type": 1,
+    "extra_param": [],
+    "hit_fx": "wanshengjie_hit",
+    "hit_sfx": "",
+    "hit_type": [],
+    "id": 3451008,
+    "miss_fx": "wanshengjie_hit",
+    "miss_sfx": "",
+    "modle_ID": "zidan_tangguo",
+    "out_bound": 3,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 0.01,
+    "range_offset": 0,
+    "type": 1,
+    "velocity": 0.1
+  },
+  "3452001": {
+    "DMG_font": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "",
+    "ammo_type": 1,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      1.5,
+      1.5,
+      1.5
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      1,
+      0.9,
+      0.8
+    ],
+    "effect_type": 1,
+    "extra_param": [],
+    "hit_fx": "None",
+    "hit_sfx": "",
+    "hit_type": [],
+    "id": 3452001,
+    "miss_fx": "None",
+    "miss_sfx": "",
+    "modle_ID": "zidan_yingxiong",
+    "out_bound": 3,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 100,
+    "range_offset": 0,
+    "type": 1,
+    "velocity": 10
+  },
+  "3452002": {
+    "DMG_font": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "acceleration": [
+      {
+        "flip": false,
+        "t": 0,
+        "u": -0.05,
+        "v": 0
+      },
+      {
+        "flip": false,
+        "t": 0.5,
+        "u": 0,
+        "v": 0
+      }
+    ],
+    "alert_fx": "",
+    "ammo_type": 1,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      1.5,
+      1.5,
+      1.5
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      1,
+      0.9,
+      0.8
+    ],
+    "effect_type": 1,
+    "extra_param": [],
+    "hit_fx": "None",
+    "hit_sfx": "",
+    "hit_type": [],
+    "id": 3452002,
+    "miss_fx": "None",
+    "miss_sfx": "",
+    "modle_ID": "zidan_yingxiong",
+    "out_bound": 3,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 100,
+    "range_offset": 0,
+    "type": 1,
+    "velocity": 8
+  },
+  "3452003": {
+    "DMG_font": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "",
+    "ammo_type": 1,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      1.5,
+      1.5,
+      1.5
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      1,
+      0.9,
+      0.8
+    ],
+    "effect_type": 1,
+    "extra_param": {
+      "ignoreB": true,
+      "ignoreShield": true,
+      "lastTime": 0.01,
+      "shrapnel": {
+        "1": {
+          "barrage_ID": 3452006,
+          "bullet_ID": 3452005,
+          "emitterType": "BattleBulletEmitter"
+        },
+        "FXID": ""
+      }
+    },
+    "hit_fx": "None",
+    "hit_sfx": "",
+    "hit_type": [],
+    "id": 3452003,
+    "miss_fx": "None",
+    "miss_sfx": "",
+    "modle_ID": "bullet_dayu04",
+    "out_bound": 3,
+    "pierce_count": 50,
+    "random_damage_rate": 0,
+    "range": 30,
+    "range_offset": 0,
+    "type": 5,
+    "velocity": 5
+  },
+  "3452004": {
+    "DMG_font": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "",
+    "ammo_type": 1,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      1.5,
+      1.5,
+      1.5
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      1,
+      0.9,
+      0.8
+    ],
+    "effect_type": 1,
+    "extra_param": {
+      "ignoreB": true,
+      "ignoreShield": true,
+      "lastTime": 0.01,
+      "shrapnel": {
+        "1": {
+          "barrage_ID": 3452007,
+          "bullet_ID": 3452005,
+          "emitterType": "BattleBulletEmitter"
+        },
+        "FXID": ""
+      }
+    },
+    "hit_fx": "None",
+    "hit_sfx": "",
+    "hit_type": [],
+    "id": 3452004,
+    "miss_fx": "None",
+    "miss_sfx": "",
+    "modle_ID": "bullet_dayu04",
+    "out_bound": 3,
+    "pierce_count": 50,
+    "random_damage_rate": 0,
+    "range": 30,
+    "range_offset": 0,
+    "type": 5,
+    "velocity": 5
+  },
+  "3452005": {
+    "DMG_font": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "",
+    "ammo_type": 1,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      1.5,
+      1.5,
+      1.5
+    ],
+    "cld_offset": [
+      100,
+      0,
+      100
+    ],
+    "damage_type": [
+      2,
+      2,
+      2
+    ],
+    "effect_type": 1,
+    "extra_param": {
+      "ignoreB": true,
+      "ignoreShield": true,
+      "lastTime": 0.01,
+      "shrapnel": {
+        "1": {
+          "barrage_ID": 3452008,
+          "bullet_ID": 3452006,
+          "emitterType": "BattleBulletEmitter",
+          "inheritAngle": 1
+        },
+        "2": {
+          "barrage_ID": 3452008,
+          "bullet_ID": 3452007,
+          "emitterType": "BattleBulletEmitter",
+          "inheritAngle": 1
+        },
+        "3": {
+          "barrage_ID": 3452008,
+          "bullet_ID": 3452008,
+          "emitterType": "BattleBulletEmitter",
+          "inheritAngle": 1
+        },
+        "4": {
+          "barrage_ID": 3452008,
+          "bullet_ID": 3452009,
+          "emitterType": "BattleBulletEmitter",
+          "inheritAngle": 1
+        },
+        "5": {
+          "barrage_ID": 3452008,
+          "bullet_ID": 3452010,
+          "emitterType": "BattleBulletEmitter",
+          "inheritAngle": 1
+        },
+        "6": {
+          "barrage_ID": 3452008,
+          "bullet_ID": 3452011,
+          "emitterType": "BattleBulletEmitter",
+          "inheritAngle": 1
+        },
+        "7": {
+          "barrage_ID": 3452008,
+          "bullet_ID": 3452012,
+          "emitterType": "BattleBulletEmitter",
+          "inheritAngle": 1
+        },
+        "8": {
+          "barrage_ID": 3452008,
+          "bullet_ID": 3452013,
+          "emitterType": "BattleBulletEmitter",
+          "inheritAngle": 1
+        },
+        "FXID": ""
+      }
+    },
+    "hit_fx": "None",
+    "hit_sfx": "",
+    "hit_type": [],
+    "id": 3452005,
+    "miss_fx": "None",
+    "miss_sfx": "",
+    "modle_ID": "None",
+    "out_bound": 3,
+    "pierce_count": 50,
+    "random_damage_rate": 0,
+    "range": 0.01,
+    "range_offset": 0,
+    "type": 5,
+    "velocity": 0.1
+  },
+  "3452006": {
+    "DMG_font": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "",
+    "ammo_type": 1,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      1,
+      1,
+      1
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      1,
+      0.9,
+      0.8
+    ],
+    "effect_type": 1,
+    "extra_param": [],
+    "hit_fx": "None",
+    "hit_sfx": "",
+    "hit_type": [],
+    "id": 3452006,
+    "miss_fx": "None",
+    "miss_sfx": "",
+    "modle_ID": "jiantouzidan06",
+    "out_bound": 3,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 100,
+    "range_offset": 0,
+    "type": 1,
+    "velocity": 10
+  },
+  "3452007": {
+    "DMG_font": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "",
+    "ammo_type": 1,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      1,
+      1,
+      1
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      1,
+      0.9,
+      0.8
+    ],
+    "effect_type": 1,
+    "extra_param": [],
+    "hit_fx": "None",
+    "hit_sfx": "",
+    "hit_type": [],
+    "id": 3452007,
+    "miss_fx": "None",
+    "miss_sfx": "",
+    "modle_ID": "jiantouzidan07",
+    "out_bound": 3,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 100,
+    "range_offset": 0,
+    "type": 1,
+    "velocity": 9.2
+  },
+  "3452008": {
+    "DMG_font": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "",
+    "ammo_type": 1,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      1,
+      1,
+      1
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      1,
+      0.9,
+      0.8
+    ],
+    "effect_type": 1,
+    "extra_param": [],
+    "hit_fx": "None",
+    "hit_sfx": "",
+    "hit_type": [],
+    "id": 3452008,
+    "miss_fx": "None",
+    "miss_sfx": "",
+    "modle_ID": "jiantouzidan06",
+    "out_bound": 3,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 100,
+    "range_offset": 0,
+    "type": 1,
+    "velocity": 8.4
+  },
+  "3452009": {
+    "DMG_font": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "",
+    "ammo_type": 1,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      1,
+      1,
+      1
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      1,
+      0.9,
+      0.8
+    ],
+    "effect_type": 1,
+    "extra_param": [],
+    "hit_fx": "None",
+    "hit_sfx": "",
+    "hit_type": [],
+    "id": 3452009,
+    "miss_fx": "None",
+    "miss_sfx": "",
+    "modle_ID": "jiantouzidan07",
+    "out_bound": 3,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 100,
+    "range_offset": 0,
+    "type": 1,
+    "velocity": 7.6
+  },
+  "3452010": {
+    "DMG_font": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "",
+    "ammo_type": 1,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      1,
+      1,
+      1
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      1,
+      0.9,
+      0.8
+    ],
+    "effect_type": 1,
+    "extra_param": [],
+    "hit_fx": "None",
+    "hit_sfx": "",
+    "hit_type": [],
+    "id": 3452010,
+    "miss_fx": "None",
+    "miss_sfx": "",
+    "modle_ID": "jiantouzidan06",
+    "out_bound": 3,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 100,
+    "range_offset": 0,
+    "type": 1,
+    "velocity": 6.8
+  },
+  "3452011": {
+    "DMG_font": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "",
+    "ammo_type": 1,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      1,
+      1,
+      1
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      1,
+      0.9,
+      0.8
+    ],
+    "effect_type": 1,
+    "extra_param": [],
+    "hit_fx": "None",
+    "hit_sfx": "",
+    "hit_type": [],
+    "id": 3452011,
+    "miss_fx": "None",
+    "miss_sfx": "",
+    "modle_ID": "jiantouzidan07",
+    "out_bound": 3,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 100,
+    "range_offset": 0,
+    "type": 1,
+    "velocity": 6
+  },
+  "3452012": {
+    "DMG_font": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "",
+    "ammo_type": 1,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      1,
+      1,
+      1
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      1,
+      0.9,
+      0.8
+    ],
+    "effect_type": 1,
+    "extra_param": [],
+    "hit_fx": "None",
+    "hit_sfx": "",
+    "hit_type": [],
+    "id": 3452012,
+    "miss_fx": "None",
+    "miss_sfx": "",
+    "modle_ID": "jiantouzidan06",
+    "out_bound": 3,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 100,
+    "range_offset": 0,
+    "type": 1,
+    "velocity": 5.2
+  },
+  "3452013": {
+    "DMG_font": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "",
+    "ammo_type": 1,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      1,
+      1,
+      1
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      1,
+      0.9,
+      0.8
+    ],
+    "effect_type": 1,
+    "extra_param": [],
+    "hit_fx": "None",
+    "hit_sfx": "",
+    "hit_type": [],
+    "id": 3452013,
+    "miss_fx": "None",
+    "miss_sfx": "",
+    "modle_ID": "jiantouzidan07",
+    "out_bound": 3,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 100,
+    "range_offset": 0,
+    "type": 1,
+    "velocity": 4.4
+  },
+  "3452014": {
+    "DMG_font": [
+      [
+        3,
+        1.2
+      ],
+      [
+        3,
+        1.1
+      ],
+      [
+        3,
+        1.1
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "",
+    "ammo_type": 3,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      4,
+      4,
+      4
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      1,
+      1,
+      1
+    ],
+    "effect_type": 1,
+    "extra_param": {
+      "ignoreB": true,
+      "ignoreShield": true,
+      "lastTime": 0.01,
+      "shrapnel": {
+        "1": {
+          "barrage_ID": 3452010,
+          "bullet_ID": 3452015,
+          "emitterType": "BattleBulletEmitter",
+          "reaim": 1
+        },
+        "FXID": ""
+      }
+    },
+    "hit_fx": "None",
+    "hit_sfx": "",
+    "hit_type": [],
+    "id": 3452014,
+    "miss_fx": "None",
+    "miss_sfx": "",
+    "modle_ID": "bullet_dayu09",
+    "out_bound": 4,
+    "pierce_count": 50,
+    "random_damage_rate": 0,
+    "range": 100,
+    "range_offset": 0,
+    "type": 5,
+    "velocity": 8
+  },
+  "3452015": {
+    "DMG_font": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "",
+    "ammo_type": 1,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      1.5,
+      1.5,
+      1.5
+    ],
+    "cld_offset": [
+      100,
+      0,
+      100
+    ],
+    "damage_type": [
+      2,
+      2,
+      2
+    ],
+    "effect_type": 1,
+    "extra_param": {
+      "ignoreB": true,
+      "ignoreShield": true,
+      "lastTime": 0.01,
+      "shrapnel": {
+        "1": {
+          "barrage_ID": 3452011,
+          "bullet_ID": 3452016,
+          "emitterType": "BattleBulletEmitter",
+          "inheritAngle": 1
+        },
+        "2": {
+          "barrage_ID": 3452012,
+          "bullet_ID": 3452017,
+          "emitterType": "BattleBulletEmitter",
+          "inheritAngle": 1
+        },
+        "FXID": ""
+      }
+    },
+    "hit_fx": "None",
+    "hit_sfx": "",
+    "hit_type": [],
+    "id": 3452015,
+    "miss_fx": "None",
+    "miss_sfx": "",
+    "modle_ID": "None",
+    "out_bound": 3,
+    "pierce_count": 50,
+    "random_damage_rate": 0,
+    "range": 0.01,
+    "range_offset": 0,
+    "type": 5,
+    "velocity": 0.1
+  },
+  "3452016": {
+    "DMG_font": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        0.8
+      ],
+      [
+        4,
+        0.7
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "",
+    "ammo_type": 1,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      0.5,
+      0.5,
+      0.5
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      1,
+      1,
+      1
+    ],
+    "effect_type": 1,
+    "extra_param": {
+      "cldMax": 15,
+      "ignoreShield": true,
+      "scaleSpeed": 2
+    },
+    "hit_fx": "None",
+    "hit_sfx": "",
+    "hit_type": [],
+    "id": 3452016,
+    "miss_fx": "None",
+    "miss_sfx": "",
+    "modle_ID": "dongfangjiguang03",
+    "out_bound": 0,
+    "pierce_count": 50,
+    "random_damage_rate": 0,
+    "range": 100,
+    "range_offset": 0,
+    "type": 15,
+    "velocity": 2.5
+  },
+  "3452017": {
+    "DMG_font": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "",
+    "ammo_type": 1,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      1,
+      1,
+      1
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      1,
+      0.9,
+      0.8
+    ],
+    "effect_type": 1,
+    "extra_param": [],
+    "hit_fx": "None",
+    "hit_sfx": "",
+    "hit_type": [],
+    "id": 3452017,
+    "miss_fx": "None",
+    "miss_sfx": "",
+    "modle_ID": "mofazidan03_nt",
+    "out_bound": 3,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 100,
+    "range_offset": 0,
+    "type": 1,
+    "velocity": 2.5
+  },
+  "3452018": {
+    "DMG_font": [
+      [
+        3,
+        0.8
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        3,
+        1.3
+      ]
+    ],
+    "acceleration": {
+      "tracker": {
+        "angular": 1.5,
+        "range": 24
+      }
+    },
+    "alert_fx": "",
+    "ammo_type": 4,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      1.8,
+      1,
+      1
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      0.8,
+      1,
+      1.3
+    ],
+    "effect_type": 1,
+    "extra_param": {
+      "diveFilter": [
+        2
+      ]
+    },
+    "hit_fx": "yulei_xiangsuaixin_hit",
+    "hit_sfx": "battle/torpedo-hit",
+    "hit_type": {
+      "range": 3,
+      "time": -1
+    },
+    "id": 3452018,
+    "miss_fx": "",
+    "miss_sfx": "",
+    "modle_ID": "yulei_aixin",
+    "out_bound": 0,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 100,
+    "range_offset": 20,
+    "type": 3,
+    "velocity": 4
+  },
+  "3453001": {
+    "DMG_font": [
+      [
+        3,
+        1.4
+      ],
+      [
+        3,
+        1.1
+      ],
+      [
+        3,
+        1.1
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "AlertArea",
+    "ammo_type": 2,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      5,
+      2,
+      2
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      1,
+      1.1,
+      1.3
+    ],
+    "effect_type": 1,
+    "extra_param": {
+      "diveFilter": [
+        2
+      ],
+      "gravity": -0.04,
+      "targetOffsetX": 0,
+      "targetOffsetZ": 40
+    },
+    "hit_fx": "bingzhui_hit",
+    "hit_sfx": "",
+    "hit_type": {
+      "range": 16,
+      "time": -1
+    },
+    "id": 3453001,
+    "miss_fx": "bingzhui_hit",
+    "miss_sfx": "",
+    "modle_ID": "bingzhuiBig",
+    "out_bound": 0,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 120,
+    "range_offset": 0,
+    "type": 2,
+    "velocity": 13
+  },
+  "3453002": {
+    "DMG_font": [
+      [
+        3,
+        1.4
+      ],
+      [
+        3,
+        1.1
+      ],
+      [
+        3,
+        1.1
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "AlertArea",
+    "ammo_type": 2,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      5,
+      2,
+      2
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      1,
+      1.1,
+      1.3
+    ],
+    "effect_type": 1,
+    "extra_param": {
+      "diveFilter": [
+        2
+      ],
+      "gravity": -0.04,
+      "targetOffsetX": 0,
+      "targetOffsetZ": 24
+    },
+    "hit_fx": "bingzhui_hit",
+    "hit_sfx": "",
+    "hit_type": {
+      "range": 16,
+      "time": -1
+    },
+    "id": 3453002,
+    "miss_fx": "bingzhui_hit",
+    "miss_sfx": "",
+    "modle_ID": "bingzhuiBig",
+    "out_bound": 0,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 120,
+    "range_offset": 0,
+    "type": 2,
+    "velocity": 13
+  },
+  "3453003": {
+    "DMG_font": [
+      [
+        3,
+        1.4
+      ],
+      [
+        3,
+        1.1
+      ],
+      [
+        3,
+        1.1
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "AlertArea",
+    "ammo_type": 2,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      5,
+      2,
+      2
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      1,
+      1.1,
+      1.3
+    ],
+    "effect_type": 1,
+    "extra_param": {
+      "diveFilter": [
+        2
+      ],
+      "gravity": -0.04,
+      "targetOffsetX": 0,
+      "targetOffsetZ": 8
+    },
+    "hit_fx": "bingzhui_hit",
+    "hit_sfx": "",
+    "hit_type": {
+      "range": 16,
+      "time": -1
+    },
+    "id": 3453003,
+    "miss_fx": "bingzhui_hit",
+    "miss_sfx": "",
+    "modle_ID": "bingzhuiBig",
+    "out_bound": 0,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 120,
+    "range_offset": 0,
+    "type": 2,
+    "velocity": 13
+  },
+  "3453004": {
+    "DMG_font": [
+      [
+        3,
+        1.4
+      ],
+      [
+        3,
+        1.1
+      ],
+      [
+        3,
+        1.1
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "AlertArea",
+    "ammo_type": 2,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      5,
+      2,
+      2
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      1,
+      1.1,
+      1.3
+    ],
+    "effect_type": 1,
+    "extra_param": {
+      "diveFilter": [
+        2
+      ],
+      "gravity": -0.04,
+      "targetOffsetX": 0,
+      "targetOffsetZ": -8
+    },
+    "hit_fx": "bingzhui_hit",
+    "hit_sfx": "",
+    "hit_type": {
+      "range": 16,
+      "time": -1
+    },
+    "id": 3453004,
+    "miss_fx": "bingzhui_hit",
+    "miss_sfx": "",
+    "modle_ID": "bingzhuiBig",
+    "out_bound": 0,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 120,
+    "range_offset": 0,
+    "type": 2,
+    "velocity": 13
+  },
+  "3453005": {
+    "DMG_font": [
+      [
+        3,
+        1.4
+      ],
+      [
+        3,
+        1.1
+      ],
+      [
+        3,
+        1.1
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "AlertArea",
+    "ammo_type": 2,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      5,
+      2,
+      2
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      1,
+      1.1,
+      1.3
+    ],
+    "effect_type": 1,
+    "extra_param": {
+      "diveFilter": [
+        2
+      ],
+      "gravity": -0.04,
+      "targetOffsetX": 0,
+      "targetOffsetZ": -24
+    },
+    "hit_fx": "bingzhui_hit",
+    "hit_sfx": "",
+    "hit_type": {
+      "range": 16,
+      "time": -1
+    },
+    "id": 3453005,
+    "miss_fx": "bingzhui_hit",
+    "miss_sfx": "",
+    "modle_ID": "bingzhuiBig",
+    "out_bound": 0,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 120,
+    "range_offset": 0,
+    "type": 2,
+    "velocity": 13
+  },
+  "3453006": {
+    "DMG_font": [
+      [
+        3,
+        1.4
+      ],
+      [
+        3,
+        1.1
+      ],
+      [
+        3,
+        1.1
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "AlertArea",
+    "ammo_type": 2,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      5,
+      2,
+      2
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      1,
+      1.1,
+      1.3
+    ],
+    "effect_type": 1,
+    "extra_param": {
+      "diveFilter": [
+        2
+      ],
+      "gravity": -0.04,
+      "targetOffsetX": 0,
+      "targetOffsetZ": -40
+    },
+    "hit_fx": "bingzhui_hit",
+    "hit_sfx": "",
+    "hit_type": {
+      "range": 16,
+      "time": -1
+    },
+    "id": 3453006,
+    "miss_fx": "bingzhui_hit",
+    "miss_sfx": "",
+    "modle_ID": "bingzhuiBig",
+    "out_bound": 0,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 120,
+    "range_offset": 0,
+    "type": 2,
+    "velocity": 13
+  },
+  "3453007": {
+    "DMG_font": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "",
+    "ammo_type": 1,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      1.5,
+      1.5,
+      1.5
+    ],
+    "cld_offset": [
+      100,
+      0,
+      100
+    ],
+    "damage_type": [
+      2,
+      2,
+      2
+    ],
+    "effect_type": 1,
+    "extra_param": {
+      "ignoreB": true,
+      "ignoreShield": true,
+      "lastTime": 0.01,
+      "shrapnel": {
+        "1": {
+          "barrage_ID": 3453003,
+          "bullet_ID": 3453008,
+          "emitterType": "BattleBulletEmitter",
+          "inheritAngle": 1
+        },
+        "FXID": ""
+      }
+    },
+    "hit_fx": "None",
+    "hit_sfx": "",
+    "hit_type": [],
+    "id": 3453007,
+    "miss_fx": "None",
+    "miss_sfx": "",
+    "modle_ID": "None",
+    "out_bound": 3,
+    "pierce_count": 50,
+    "random_damage_rate": 0,
+    "range": 0.01,
+    "range_offset": 0,
+    "type": 5,
+    "velocity": 0.1
+  },
+  "3453008": {
+    "DMG_font": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "",
+    "ammo_type": 1,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      1,
+      1,
+      1
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      1,
+      0.9,
+      0.8
+    ],
+    "effect_type": 1,
+    "extra_param": [],
+    "hit_fx": "None",
+    "hit_sfx": "",
+    "hit_type": [],
+    "id": 3453008,
+    "miss_fx": "None",
+    "miss_sfx": "",
+    "modle_ID": "Bullet_elf_ice_low",
+    "out_bound": 0,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 100,
+    "range_offset": 0,
+    "type": 1,
+    "velocity": 5
+  },
+  "3453009": {
+    "DMG_font": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "acceleration": [
+      {
+        "flip": false,
+        "t": 0.4,
+        "u": -0.1,
+        "v": 0
+      },
+      {
+        "flip": false,
+        "t": 0.7,
+        "u": 0,
+        "v": 0
+      }
+    ],
+    "alert_fx": "",
+    "ammo_type": 1,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      1,
+      1,
+      1
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      1,
+      0.9,
+      0.8
+    ],
+    "effect_type": 1,
+    "extra_param": [],
+    "hit_fx": "None",
+    "hit_sfx": "",
+    "hit_type": [],
+    "id": 3453009,
+    "miss_fx": "None",
+    "miss_sfx": "",
+    "modle_ID": "jiantouzidan10",
+    "out_bound": 0,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 100,
+    "range_offset": 0,
+    "type": 1,
+    "velocity": 9
+  },
+  "3453010": {
+    "DMG_font": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "acceleration": [
+      {
+        "flip": false,
+        "t": 0.4,
+        "u": -0.1,
+        "v": 0
+      },
+      {
+        "flip": false,
+        "t": 0.7,
+        "u": 0,
+        "v": 0
+      }
+    ],
+    "alert_fx": "",
+    "ammo_type": 1,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      1,
+      1,
+      1
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      1,
+      0.9,
+      0.8
+    ],
+    "effect_type": 1,
+    "extra_param": [],
+    "hit_fx": "None",
+    "hit_sfx": "",
+    "hit_type": [],
+    "id": 3453010,
+    "miss_fx": "None",
+    "miss_sfx": "",
+    "modle_ID": "jiantouzidan10",
+    "out_bound": 0,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 100,
+    "range_offset": 0,
+    "type": 1,
+    "velocity": 9.2
+  },
+  "3453011": {
+    "DMG_font": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "acceleration": [
+      {
+        "flip": false,
+        "t": 0.4,
+        "u": -0.1,
+        "v": 0
+      },
+      {
+        "flip": false,
+        "t": 0.7,
+        "u": 0,
+        "v": 0
+      }
+    ],
+    "alert_fx": "",
+    "ammo_type": 1,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      1,
+      1,
+      1
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      1,
+      0.9,
+      0.8
+    ],
+    "effect_type": 1,
+    "extra_param": [],
+    "hit_fx": "None",
+    "hit_sfx": "",
+    "hit_type": [],
+    "id": 3453011,
+    "miss_fx": "None",
+    "miss_sfx": "",
+    "modle_ID": "jiantouzidan10",
+    "out_bound": 0,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 100,
+    "range_offset": 0,
+    "type": 1,
+    "velocity": 9.4
+  },
+  "3453012": {
+    "DMG_font": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "acceleration": [
+      {
+        "flip": false,
+        "t": 0.4,
+        "u": -0.1,
+        "v": 0
+      },
+      {
+        "flip": false,
+        "t": 0.7,
+        "u": 0,
+        "v": 0
+      }
+    ],
+    "alert_fx": "",
+    "ammo_type": 1,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      1,
+      1,
+      1
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      1,
+      0.9,
+      0.8
+    ],
+    "effect_type": 1,
+    "extra_param": [],
+    "hit_fx": "None",
+    "hit_sfx": "",
+    "hit_type": [],
+    "id": 3453012,
+    "miss_fx": "None",
+    "miss_sfx": "",
+    "modle_ID": "jiantouzidan10",
+    "out_bound": 0,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 100,
+    "range_offset": 0,
+    "type": 1,
+    "velocity": 9.6
+  },
+  "3453013": {
+    "DMG_font": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "acceleration": [
+      {
+        "flip": false,
+        "t": 0.4,
+        "u": -0.1,
+        "v": 0
+      },
+      {
+        "flip": false,
+        "t": 0.7,
+        "u": 0,
+        "v": 0
+      }
+    ],
+    "alert_fx": "",
+    "ammo_type": 1,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      1,
+      1,
+      1
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      1,
+      0.9,
+      0.8
+    ],
+    "effect_type": 1,
+    "extra_param": [],
+    "hit_fx": "None",
+    "hit_sfx": "",
+    "hit_type": [],
+    "id": 3453013,
+    "miss_fx": "None",
+    "miss_sfx": "",
+    "modle_ID": "jiantouzidan10",
+    "out_bound": 0,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 100,
+    "range_offset": 0,
+    "type": 1,
+    "velocity": 9.8
+  },
+  "3453014": {
+    "DMG_font": [
+      [
+        3,
+        1.2
+      ],
+      [
+        3,
+        1.1
+      ],
+      [
+        3,
+        1.1
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "",
+    "ammo_type": 3,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      4,
+      4,
+      4
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      1,
+      1,
+      1
+    ],
+    "effect_type": 1,
+    "extra_param": {
+      "ignoreB": true,
+      "ignoreShield": true,
+      "lastTime": 0.01,
+      "shrapnel": {
+        "1": {
+          "barrage_ID": 3453011,
+          "bullet_ID": 3453015,
+          "emitterType": "BattleBulletEmitter",
+          "inheritAngle": 1
+        },
+        "FXID": ""
+      }
+    },
+    "hit_fx": "None",
+    "hit_sfx": "",
+    "hit_type": [],
+    "id": 3453014,
+    "miss_fx": "None",
+    "miss_sfx": "",
+    "modle_ID": "bingzhuiBig",
+    "out_bound": 4,
+    "pierce_count": 50,
+    "random_damage_rate": 0,
+    "range": 100,
+    "range_offset": 0,
+    "type": 5,
+    "velocity": 15
+  },
+  "3453015": {
+    "DMG_font": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "",
+    "ammo_type": 1,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      1.5,
+      1.5,
+      1.5
+    ],
+    "cld_offset": [
+      100,
+      0,
+      100
+    ],
+    "damage_type": [
+      2,
+      2,
+      2
+    ],
+    "effect_type": 1,
+    "extra_param": {
+      "ignoreB": true,
+      "ignoreShield": true,
+      "lastTime": 0.01,
+      "shrapnel": {
+        "1": {
+          "barrage_ID": 3453012,
+          "bullet_ID": 3453016,
+          "emitterType": "BattleBulletEmitter",
+          "inheritAngle": 1
+        },
+        "2": {
+          "barrage_ID": 3453013,
+          "bullet_ID": 3453017,
+          "emitterType": "BattleBulletEmitter",
+          "inheritAngle": 1
+        },
+        "FXID": ""
+      }
+    },
+    "hit_fx": "None",
+    "hit_sfx": "",
+    "hit_type": [],
+    "id": 3453015,
+    "miss_fx": "None",
+    "miss_sfx": "",
+    "modle_ID": "None",
+    "out_bound": 3,
+    "pierce_count": 50,
+    "random_damage_rate": 0,
+    "range": 0.01,
+    "range_offset": 0,
+    "type": 5,
+    "velocity": 0.1
+  },
+  "3453016": {
+    "DMG_font": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "",
+    "ammo_type": 1,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      1,
+      1,
+      1
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      1,
+      0.9,
+      0.8
+    ],
+    "effect_type": 1,
+    "extra_param": [],
+    "hit_fx": "None",
+    "hit_sfx": "",
+    "hit_type": [],
+    "id": 3453016,
+    "miss_fx": "None",
+    "miss_sfx": "",
+    "modle_ID": "mofazidan01_nt",
+    "out_bound": 0,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 100,
+    "range_offset": 0,
+    "type": 1,
+    "velocity": 3
+  },
+  "3453017": {
+    "DMG_font": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "",
+    "ammo_type": 1,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      1,
+      1,
+      1
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      1,
+      0.9,
+      0.8
+    ],
+    "effect_type": 1,
+    "extra_param": [],
+    "hit_fx": "None",
+    "hit_sfx": "",
+    "hit_type": [],
+    "id": 3453017,
+    "miss_fx": "None",
+    "miss_sfx": "",
+    "modle_ID": "Bullet_elf_ice_low",
+    "out_bound": 0,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 100,
+    "range_offset": 0,
+    "type": 1,
+    "velocity": 5
+  },
+  "3453018": {
+    "DMG_font": [
+      [
+        3,
+        1.4
+      ],
+      [
+        3,
+        1.1
+      ],
+      [
+        3,
+        1.1
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "AlertArea",
+    "ammo_type": 2,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      5,
+      2,
+      2
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      1,
+      1,
+      1
+    ],
+    "effect_type": 1,
+    "extra_param": {
+      "diveFilter": [
+        2
+      ],
+      "gravity": -0.2,
+      "randomOffsetX": 16,
+      "randomOffsetZ": 16
+    },
+    "hit_fx": "bingzhui_hit",
+    "hit_sfx": "",
+    "hit_type": {
+      "range": 15,
+      "time": -1
+    },
+    "id": 3453018,
+    "miss_fx": "bingzhui_hit",
+    "miss_sfx": "",
+    "modle_ID": "bingzhuiBig",
+    "out_bound": 0,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 120,
+    "range_offset": 0,
+    "type": 2,
+    "velocity": 12
+  },
+  "3453019": {
+    "DMG_font": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "",
+    "ammo_type": 1,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      1.5,
+      1.5,
+      1.5
+    ],
+    "cld_offset": [
+      100,
+      0,
+      100
+    ],
+    "damage_type": [
+      2,
+      2,
+      2
+    ],
+    "effect_type": 1,
+    "extra_param": {
+      "ignoreB": true,
+      "ignoreShield": true,
+      "lastTime": 0.01,
+      "shrapnel": {
+        "1": {
+          "barrage_ID": 3453017,
+          "bullet_ID": 3453020,
+          "emitterType": "BattleBulletEmitter",
+          "inheritAngle": 1
+        },
+        "FXID": ""
+      }
+    },
+    "hit_fx": "None",
+    "hit_sfx": "",
+    "hit_type": [],
+    "id": 3453019,
+    "miss_fx": "None",
+    "miss_sfx": "",
+    "modle_ID": "None",
+    "out_bound": 3,
+    "pierce_count": 50,
+    "random_damage_rate": 0,
+    "range": 0.01,
+    "range_offset": 0,
+    "type": 5,
+    "velocity": 0.1
+  },
+  "3453020": {
+    "DMG_font": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "",
+    "ammo_type": 1,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      1,
+      1,
+      1
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      1,
+      0.9,
+      0.8
+    ],
+    "effect_type": 1,
+    "extra_param": [],
+    "hit_fx": "None",
+    "hit_sfx": "",
+    "hit_type": [],
+    "id": 3453020,
+    "miss_fx": "None",
+    "miss_sfx": "",
+    "modle_ID": "Bullet_elf_ice_low",
+    "out_bound": 0,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 100,
+    "range_offset": 0,
+    "type": 1,
+    "velocity": 5
+  },
+  "3453021": {
+    "DMG_font": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "",
+    "ammo_type": 1,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      1.5,
+      1.5,
+      1.5
+    ],
+    "cld_offset": [
+      100,
+      0,
+      100
+    ],
+    "damage_type": [
+      2,
+      2,
+      2
+    ],
+    "effect_type": 1,
+    "extra_param": {
+      "ignoreB": true,
+      "ignoreShield": true,
+      "lastTime": 0.01,
+      "shrapnel": {
+        "1": {
+          "barrage_ID": 3453018,
+          "bullet_ID": 3453022,
+          "emitterType": "BattleBulletEmitter",
+          "inheritAngle": 1
+        },
+        "FXID": ""
+      }
+    },
+    "hit_fx": "None",
+    "hit_sfx": "",
+    "hit_type": [],
+    "id": 3453021,
+    "miss_fx": "None",
+    "miss_sfx": "",
+    "modle_ID": "None",
+    "out_bound": 3,
+    "pierce_count": 50,
+    "random_damage_rate": 0,
+    "range": 0.01,
+    "range_offset": 0,
+    "type": 5,
+    "velocity": 0.1
+  },
+  "3453022": {
+    "DMG_font": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        0.8
+      ],
+      [
+        4,
+        0.7
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "",
+    "ammo_type": 1,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      0.5,
+      0.5,
+      0.5
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      1,
+      1,
+      1
+    ],
+    "effect_type": 1,
+    "extra_param": {
+      "cldMax": 15,
+      "ignoreShield": true,
+      "scaleSpeed": 2
+    },
+    "hit_fx": "None",
+    "hit_sfx": "",
+    "hit_type": [],
+    "id": 3453022,
+    "miss_fx": "None",
+    "miss_sfx": "",
+    "modle_ID": "dongfangjiguang06",
+    "out_bound": 0,
+    "pierce_count": 50,
+    "random_damage_rate": 0,
+    "range": 100,
+    "range_offset": 0,
+    "type": 15,
+    "velocity": 2.5
+  },
+  "3454001": {
+    "DMG_font": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "",
+    "ammo_type": 1,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      4,
+      4,
+      4
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      2,
+      2,
+      2
+    ],
+    "effect_type": 1,
+    "extra_param": {
+      "ignoreB": true,
+      "ignoreShield": true,
+      "lastTime": 0.01,
+      "shrapnel": {
+        "1": {
+          "barrage_ID": 3454002,
+          "bullet_ID": 3454002,
+          "emitterType": "BattleBulletEmitter",
+          "inheritAngle": 1,
+          "initialSplit": true
+        },
+        "2": {
+          "barrage_ID": 3454003,
+          "bullet_ID": 3454003,
+          "emitterType": "BattleBulletEmitter",
+          "inheritAngle": 1,
+          "initialSplit": true
+        },
+        "FXID": ""
+      }
+    },
+    "hit_fx": "None",
+    "hit_sfx": "",
+    "hit_type": [],
+    "id": 3454001,
+    "miss_fx": "None",
+    "miss_sfx": "",
+    "modle_ID": "bingzhuiBig",
+    "out_bound": 3,
+    "pierce_count": 50,
+    "random_damage_rate": 0,
+    "range": 100,
+    "range_offset": 0,
+    "type": 5,
+    "velocity": 6
+  },
+  "3454002": {
+    "DMG_font": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "acceleration": [
+      {
+        "flip": false,
+        "t": 1.5,
+        "u": 0.05,
+        "v": 0
+      },
+      {
+        "flip": false,
+        "t": 2,
+        "u": 0,
+        "v": 0
+      }
+    ],
+    "alert_fx": "",
+    "ammo_type": 1,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      1,
+      1,
+      1
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      1,
+      0.9,
+      0.8
+    ],
+    "effect_type": 1,
+    "extra_param": [],
+    "hit_fx": "None",
+    "hit_sfx": "",
+    "hit_type": [],
+    "id": 3454002,
+    "miss_fx": "None",
+    "miss_sfx": "",
+    "modle_ID": "jiantouzidan09",
+    "out_bound": 0,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 100,
+    "range_offset": 0,
+    "type": 1,
+    "velocity": 2
+  },
+  "3454003": {
+    "DMG_font": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "acceleration": [
+      {
+        "flip": false,
+        "t": 1.5,
+        "u": 0.05,
+        "v": 0
+      },
+      {
+        "flip": false,
+        "t": 2,
+        "u": 0,
+        "v": 0
+      }
+    ],
+    "alert_fx": "",
+    "ammo_type": 1,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      1,
+      1,
+      1
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      1,
+      0.9,
+      0.8
+    ],
+    "effect_type": 1,
+    "extra_param": [],
+    "hit_fx": "None",
+    "hit_sfx": "",
+    "hit_type": [],
+    "id": 3454003,
+    "miss_fx": "None",
+    "miss_sfx": "",
+    "modle_ID": "jiantouzidan10",
+    "out_bound": 0,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 100,
+    "range_offset": 0,
+    "type": 1,
+    "velocity": 1.5
+  },
+  "3454004": {
+    "DMG_font": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "",
+    "ammo_type": 1,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      2,
+      2,
+      2
+    ],
+    "cld_offset": [
+      100,
+      0,
+      100
+    ],
+    "damage_type": [
+      2,
+      2,
+      2
+    ],
+    "effect_type": 1,
+    "extra_param": {
+      "ignoreB": true,
+      "ignoreShield": true,
+      "lastTime": 0.01,
+      "shrapnel": {
+        "1": {
+          "barrage_ID": 3454008,
+          "bullet_ID": 3454008,
+          "emitterType": "BattleBulletEmitter",
+          "inheritAngle": 1,
+          "initialSplit": true
+        },
+        "FXID": ""
+      },
+      "velocity_offsetF": 1
+    },
+    "hit_fx": "None",
+    "hit_sfx": "",
+    "hit_type": [],
+    "id": 3454004,
+    "miss_fx": "None",
+    "miss_sfx": "",
+    "modle_ID": "heifangzhou_zhongyu_blue",
+    "out_bound": 3,
+    "pierce_count": 50,
+    "random_damage_rate": 0,
+    "range": 100,
+    "range_offset": 0,
+    "type": 5,
+    "velocity": 4
+  },
+  "3454005": {
+    "DMG_font": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "",
+    "ammo_type": 1,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      2,
+      2,
+      2
+    ],
+    "cld_offset": [
+      100,
+      0,
+      100
+    ],
+    "damage_type": [
+      2,
+      2,
+      2
+    ],
+    "effect_type": 1,
+    "extra_param": {
+      "ignoreB": true,
+      "ignoreShield": true,
+      "lastTime": 0.01,
+      "shrapnel": {
+        "1": {
+          "barrage_ID": 3454009,
+          "bullet_ID": 3454008,
+          "emitterType": "BattleBulletEmitter",
+          "inheritAngle": 1,
+          "initialSplit": true
+        },
+        "FXID": ""
+      },
+      "velocity_offsetF": 1
+    },
+    "hit_fx": "None",
+    "hit_sfx": "",
+    "hit_type": [],
+    "id": 3454005,
+    "miss_fx": "None",
+    "miss_sfx": "",
+    "modle_ID": "heifangzhou_zhongyu_blue",
+    "out_bound": 3,
+    "pierce_count": 50,
+    "random_damage_rate": 0,
+    "range": 100,
+    "range_offset": 0,
+    "type": 5,
+    "velocity": 4
+  },
+  "3454006": {
+    "DMG_font": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "",
+    "ammo_type": 1,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      2,
+      2,
+      2
+    ],
+    "cld_offset": [
+      100,
+      0,
+      100
+    ],
+    "damage_type": [
+      2,
+      2,
+      2
+    ],
+    "effect_type": 1,
+    "extra_param": {
+      "ignoreB": true,
+      "ignoreShield": true,
+      "lastTime": 0.01,
+      "shrapnel": {
+        "1": {
+          "barrage_ID": 3454009,
+          "bullet_ID": 3454009,
+          "emitterType": "BattleBulletEmitter",
+          "inheritAngle": 1,
+          "initialSplit": true
+        },
+        "FXID": ""
+      },
+      "velocity_offsetF": 1
+    },
+    "hit_fx": "None",
+    "hit_sfx": "",
+    "hit_type": [],
+    "id": 3454006,
+    "miss_fx": "None",
+    "miss_sfx": "",
+    "modle_ID": "heifangzhou_zhongyu_blue",
+    "out_bound": 3,
+    "pierce_count": 50,
+    "random_damage_rate": 0,
+    "range": 100,
+    "range_offset": 0,
+    "type": 5,
+    "velocity": 4
+  },
+  "3454007": {
+    "DMG_font": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "",
+    "ammo_type": 1,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      2,
+      2,
+      2
+    ],
+    "cld_offset": [
+      100,
+      0,
+      100
+    ],
+    "damage_type": [
+      2,
+      2,
+      2
+    ],
+    "effect_type": 1,
+    "extra_param": {
+      "ignoreB": true,
+      "ignoreShield": true,
+      "lastTime": 0.01,
+      "shrapnel": {
+        "1": {
+          "barrage_ID": 3454008,
+          "bullet_ID": 3454009,
+          "emitterType": "BattleBulletEmitter",
+          "inheritAngle": 1,
+          "initialSplit": true
+        },
+        "FXID": ""
+      },
+      "velocity_offsetF": 1
+    },
+    "hit_fx": "None",
+    "hit_sfx": "",
+    "hit_type": [],
+    "id": 3454007,
+    "miss_fx": "None",
+    "miss_sfx": "",
+    "modle_ID": "heifangzhou_zhongyu_blue",
+    "out_bound": 3,
+    "pierce_count": 50,
+    "random_damage_rate": 0,
+    "range": 100,
+    "range_offset": 0,
+    "type": 5,
+    "velocity": 4
+  },
+  "3454008": {
+    "DMG_font": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "",
+    "ammo_type": 1,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      1,
+      1,
+      1
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      1,
+      0.9,
+      0.8
+    ],
+    "effect_type": 1,
+    "extra_param": [],
+    "hit_fx": "None",
+    "hit_sfx": "",
+    "hit_type": [],
+    "id": 3454008,
+    "miss_fx": "None",
+    "miss_sfx": "",
+    "modle_ID": "newBullet3",
+    "out_bound": 0,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 100,
+    "range_offset": 0,
+    "type": 1,
+    "velocity": 3
+  },
+  "3454009": {
+    "DMG_font": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "",
+    "ammo_type": 1,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      1,
+      1,
+      1
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      1,
+      0.9,
+      0.8
+    ],
+    "effect_type": 1,
+    "extra_param": [],
+    "hit_fx": "None",
+    "hit_sfx": "",
+    "hit_type": [],
+    "id": 3454009,
+    "miss_fx": "None",
+    "miss_sfx": "",
+    "modle_ID": "shenyuanbullet1",
+    "out_bound": 0,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 100,
+    "range_offset": 0,
+    "type": 1,
+    "velocity": 3
+  },
+  "3454010": {
+    "DMG_font": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "",
+    "ammo_type": 1,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      2,
+      2,
+      2
+    ],
+    "cld_offset": [
+      100,
+      0,
+      100
+    ],
+    "damage_type": [
+      1,
+      1,
+      1
+    ],
+    "effect_type": 1,
+    "extra_param": {
+      "ignoreB": true,
+      "ignoreShield": true,
+      "lastTime": 0.01,
+      "shrapnel": {
+        "1": {
+          "barrage_ID": 3454015,
+          "bullet_ID": 3454011,
+          "emitterType": "BattleBulletEmitter",
+          "inheritAngle": 1
+        },
+        "2": {
+          "barrage_ID": 3454016,
+          "bullet_ID": 3454012,
+          "emitterType": "BattleBulletEmitter",
+          "inheritAngle": 1
+        },
+        "3": {
+          "barrage_ID": 3454017,
+          "bullet_ID": 3454011,
+          "emitterType": "BattleBulletEmitter",
+          "inheritAngle": 1
+        },
+        "4": {
+          "barrage_ID": 3454018,
+          "bullet_ID": 3454012,
+          "emitterType": "BattleBulletEmitter",
+          "inheritAngle": 1
+        },
+        "FXID": ""
+      }
+    },
+    "hit_fx": "None",
+    "hit_sfx": "",
+    "hit_type": [],
+    "id": 3454010,
+    "miss_fx": "None",
+    "miss_sfx": "",
+    "modle_ID": "None",
+    "out_bound": 3,
+    "pierce_count": 50,
+    "random_damage_rate": 0,
+    "range": 0.01,
+    "range_offset": 0,
+    "type": 5,
+    "velocity": 0.1
+  },
+  "3454011": {
+    "DMG_font": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "",
+    "ammo_type": 1,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      1.5,
+      1.5,
+      1.5
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      1,
+      0.9,
+      0.8
+    ],
+    "effect_type": 1,
+    "extra_param": {
+      "randomLaunchOffsetX": 2,
+      "randomLaunchOffsetZ": 2,
+      "velocity_offsetF": 1.5
+    },
+    "hit_fx": "None",
+    "hit_sfx": "",
+    "hit_type": [],
+    "id": 3454011,
+    "miss_fx": "None",
+    "miss_sfx": "",
+    "modle_ID": "newBullet3",
+    "out_bound": 3,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 80,
+    "range_offset": 0,
+    "type": 1,
+    "velocity": 3
+  },
+  "3454012": {
+    "DMG_font": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "",
+    "ammo_type": 1,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      1.5,
+      1.5,
+      1.5
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      1,
+      0.9,
+      0.8
+    ],
+    "effect_type": 1,
+    "extra_param": {
+      "randomLaunchOffsetX": 2,
+      "randomLaunchOffsetZ": 2,
+      "velocity_offsetF": 1.5
+    },
+    "hit_fx": "None",
+    "hit_sfx": "",
+    "hit_type": [],
+    "id": 3454012,
+    "miss_fx": "None",
+    "miss_sfx": "",
+    "modle_ID": "shenyuanbullet1",
+    "out_bound": 3,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 80,
+    "range_offset": 0,
+    "type": 1,
+    "velocity": 3
+  },
+  "3454013": {
+    "DMG_font": [
+      [
+        3,
+        0.8
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        3,
+        1.3
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "TorAlert",
+    "ammo_type": 4,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      3,
+      2,
+      2
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      0.8,
+      1,
+      1.3
+    ],
+    "effect_type": 1,
+    "extra_param": {
+      "diveFilter": [
+        2
+      ]
+    },
+    "hit_fx": "yulei_bingmozhua_hit",
+    "hit_sfx": "battle/torpedo-hit",
+    "hit_type": {
+      "range": 3,
+      "time": -1
+    },
+    "id": 3454013,
+    "miss_fx": "",
+    "miss_sfx": "",
+    "modle_ID": "yulei_bingmozhua",
+    "out_bound": 0,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 100,
+    "range_offset": 20,
+    "type": 3,
+    "velocity": 3
+  },
+  "3454014": {
+    "DMG_font": [
+      [
+        3,
+        0.8
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        3,
+        1.3
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "TorAlert",
+    "ammo_type": 4,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      3,
+      2,
+      2
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      0.8,
+      1,
+      1.3
+    ],
+    "effect_type": 1,
+    "extra_param": {
+      "diveFilter": [
+        2
+      ]
+    },
+    "hit_fx": "yulei_bingmozhua_hit",
+    "hit_sfx": "battle/torpedo-hit",
+    "hit_type": {
+      "range": 3,
+      "time": -1
+    },
+    "id": 3454014,
+    "miss_fx": "",
+    "miss_sfx": "",
+    "modle_ID": "yulei_bingmozhua",
+    "out_bound": 0,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 100,
+    "range_offset": 20,
+    "type": 3,
+    "velocity": 2.4
+  },
+  "3455001": {
+    "DMG_font": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "",
+    "ammo_type": 1,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      4,
+      4,
+      4
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      2,
+      2,
+      2
+    ],
+    "effect_type": 1,
+    "extra_param": {
+      "ignoreB": true,
+      "ignoreShield": true,
+      "lastTime": 0.01,
+      "shrapnel": {
+        "1": {
+          "barrage_ID": 3455003,
+          "bullet_ID": 3455003,
+          "emitterType": "BattleBulletEmitter",
+          "reaim": 1
+        },
+        "FXID": ""
+      }
+    },
+    "hit_fx": "None",
+    "hit_sfx": "",
+    "hit_type": [],
+    "id": 3455001,
+    "miss_fx": "None",
+    "miss_sfx": "",
+    "modle_ID": "bullet_dayu03",
+    "out_bound": 3,
+    "pierce_count": 50,
+    "random_damage_rate": 0,
+    "range": 24,
+    "range_offset": 0,
+    "type": 5,
+    "velocity": 6
+  },
+  "3455002": {
+    "DMG_font": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "",
+    "ammo_type": 1,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      4,
+      4,
+      4
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      2,
+      2,
+      2
+    ],
+    "effect_type": 1,
+    "extra_param": {
+      "ignoreB": true,
+      "ignoreShield": true,
+      "lastTime": 0.01,
+      "shrapnel": {
+        "1": {
+          "barrage_ID": 3455004,
+          "bullet_ID": 3455004,
+          "emitterType": "BattleBulletEmitter",
+          "reaim": 1
+        },
+        "FXID": ""
+      }
+    },
+    "hit_fx": "None",
+    "hit_sfx": "",
+    "hit_type": [],
+    "id": 3455002,
+    "miss_fx": "None",
+    "miss_sfx": "",
+    "modle_ID": "bullet_dayu06",
+    "out_bound": 3,
+    "pierce_count": 50,
+    "random_damage_rate": 0,
+    "range": 24,
+    "range_offset": 0,
+    "type": 5,
+    "velocity": 6
+  },
+  "3455003": {
+    "DMG_font": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "",
+    "ammo_type": 1,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      1.5,
+      1.5,
+      1.5
+    ],
+    "cld_offset": [
+      100,
+      0,
+      100
+    ],
+    "damage_type": [
+      2,
+      2,
+      2
+    ],
+    "effect_type": 1,
+    "extra_param": {
+      "ignoreB": true,
+      "ignoreShield": true,
+      "lastTime": 0.01,
+      "shrapnel": {
+        "1": {
+          "barrage_ID": 3455006,
+          "bullet_ID": 3455006,
+          "emitterType": "BattleBulletEmitter",
+          "inheritAngle": 1
+        },
+        "FXID": ""
+      }
+    },
+    "hit_fx": "None",
+    "hit_sfx": "",
+    "hit_type": [],
+    "id": 3455003,
+    "miss_fx": "None",
+    "miss_sfx": "",
+    "modle_ID": "None",
+    "out_bound": 3,
+    "pierce_count": 50,
+    "random_damage_rate": 0,
+    "range": 0.01,
+    "range_offset": 0,
+    "type": 5,
+    "velocity": 0.1
+  },
+  "3455004": {
+    "DMG_font": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "",
+    "ammo_type": 1,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      1.5,
+      1.5,
+      1.5
+    ],
+    "cld_offset": [
+      100,
+      0,
+      100
+    ],
+    "damage_type": [
+      2,
+      2,
+      2
+    ],
+    "effect_type": 1,
+    "extra_param": {
+      "ignoreB": true,
+      "ignoreShield": true,
+      "lastTime": 0.01,
+      "shrapnel": {
+        "1": {
+          "barrage_ID": 3455006,
+          "bullet_ID": 3455007,
+          "emitterType": "BattleBulletEmitter",
+          "inheritAngle": 1
+        },
+        "FXID": ""
+      }
+    },
+    "hit_fx": "None",
+    "hit_sfx": "",
+    "hit_type": [],
+    "id": 3455004,
+    "miss_fx": "None",
+    "miss_sfx": "",
+    "modle_ID": "None",
+    "out_bound": 3,
+    "pierce_count": 50,
+    "random_damage_rate": 0,
+    "range": 0.01,
+    "range_offset": 0,
+    "type": 5,
+    "velocity": 0.1
+  },
+  "3455005": {
+    "DMG_font": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "",
+    "ammo_type": 1,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      1.5,
+      1.5,
+      1.5
+    ],
+    "cld_offset": [
+      100,
+      0,
+      100
+    ],
+    "damage_type": [
+      2,
+      2,
+      2
+    ],
+    "effect_type": 1,
+    "extra_param": {
+      "ignoreB": true,
+      "ignoreShield": true,
+      "lastTime": 0.01,
+      "shrapnel": {
+        "1": {
+          "barrage_ID": 3455007,
+          "bullet_ID": 3455008,
+          "emitterType": "BattleBulletEmitter",
+          "reaim": 1
+        },
+        "FXID": ""
+      }
+    },
+    "hit_fx": "None",
+    "hit_sfx": "",
+    "hit_type": [],
+    "id": 3455005,
+    "miss_fx": "None",
+    "miss_sfx": "",
+    "modle_ID": "None",
+    "out_bound": 3,
+    "pierce_count": 50,
+    "random_damage_rate": 0,
+    "range": 0.01,
+    "range_offset": 0,
+    "type": 5,
+    "velocity": 0.1
+  },
+  "3455006": {
+    "DMG_font": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "",
+    "ammo_type": 1,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      1,
+      1,
+      1
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      1,
+      0.9,
+      0.8
+    ],
+    "effect_type": 1,
+    "extra_param": [],
+    "hit_fx": "None",
+    "hit_sfx": "",
+    "hit_type": [],
+    "id": 3455006,
+    "miss_fx": "None",
+    "miss_sfx": "",
+    "modle_ID": "bullet_jianzhui03",
+    "out_bound": 0,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 100,
+    "range_offset": 0,
+    "type": 1,
+    "velocity": 5
+  },
+  "3455007": {
+    "DMG_font": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "",
+    "ammo_type": 1,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      1,
+      1,
+      1
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      1,
+      0.9,
+      0.8
+    ],
+    "effect_type": 1,
+    "extra_param": [],
+    "hit_fx": "None",
+    "hit_sfx": "",
+    "hit_type": [],
+    "id": 3455007,
+    "miss_fx": "None",
+    "miss_sfx": "",
+    "modle_ID": "bullet_jianzhui04",
+    "out_bound": 0,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 100,
+    "range_offset": 0,
+    "type": 1,
+    "velocity": 5
+  },
+  "3455008": {
+    "DMG_font": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "",
+    "ammo_type": 1,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      1,
+      1,
+      1
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      1,
+      0.9,
+      0.8
+    ],
+    "effect_type": 1,
+    "extra_param": [],
+    "hit_fx": "None",
+    "hit_sfx": "",
+    "hit_type": [],
+    "id": 3455008,
+    "miss_fx": "None",
+    "miss_sfx": "",
+    "modle_ID": "Bullet_elf_ice_low",
+    "out_bound": 0,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 100,
+    "range_offset": 0,
+    "type": 1,
+    "velocity": 5
+  },
+  "3455009": {
+    "DMG_font": [
+      [
+        3,
+        1.4
+      ],
+      [
+        3,
+        1.1
+      ],
+      [
+        3,
+        1.1
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "AlertArea",
+    "ammo_type": 2,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      5,
+      2,
+      2
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      1,
+      1,
+      1
+    ],
+    "effect_type": 1,
+    "extra_param": {
+      "diveFilter": [
+        2
+      ],
+      "gravity": -0.2,
+      "randomOffsetX": 8,
+      "randomOffsetZ": 8
+    },
+    "hit_fx": "ShellMissBlueFire",
+    "hit_sfx": "",
+    "hit_type": {
+      "range": 12,
+      "time": -1
+    },
+    "id": 3455009,
+    "miss_fx": "ShellMissBlueFire",
+    "miss_sfx": "",
+    "modle_ID": "lanhuopaodan03",
+    "out_bound": 0,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 120,
+    "range_offset": 0,
+    "type": 2,
+    "velocity": 12
+  },
+  "3455010": {
+    "DMG_font": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "",
+    "ammo_type": 1,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      1.5,
+      1.5,
+      1.5
+    ],
+    "cld_offset": [
+      100,
+      0,
+      100
+    ],
+    "damage_type": [
+      2,
+      2,
+      2
+    ],
+    "effect_type": 1,
+    "extra_param": {
+      "ignoreB": true,
+      "ignoreShield": true,
+      "lastTime": 0.01,
+      "shrapnel": {
+        "1": {
+          "barrage_ID": 3455014,
+          "bullet_ID": 3455011,
+          "emitterType": "BattleBulletEmitter",
+          "inheritAngle": 1
+        },
+        "FXID": ""
+      }
+    },
+    "hit_fx": "None",
+    "hit_sfx": "",
+    "hit_type": [],
+    "id": 3455010,
+    "miss_fx": "None",
+    "miss_sfx": "",
+    "modle_ID": "None",
+    "out_bound": 3,
+    "pierce_count": 50,
+    "random_damage_rate": 0,
+    "range": 0.01,
+    "range_offset": 0,
+    "type": 5,
+    "velocity": 0.1
+  },
+  "3455011": {
+    "DMG_font": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "",
+    "ammo_type": 1,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      1.5,
+      1.5,
+      1.5
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      1,
+      0.9,
+      0.8
+    ],
+    "effect_type": 1,
+    "extra_param": [],
+    "hit_fx": "None",
+    "hit_sfx": "",
+    "hit_type": [],
+    "id": 3455011,
+    "miss_fx": "None",
+    "miss_sfx": "",
+    "modle_ID": "newBullet3",
+    "out_bound": 0,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 100,
+    "range_offset": 0,
+    "type": 1,
+    "velocity": 6
+  },
+  "3455012": {
+    "DMG_font": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "",
+    "ammo_type": 1,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      1.5,
+      1.5,
+      1.5
+    ],
+    "cld_offset": [
+      100,
+      0,
+      100
+    ],
+    "damage_type": [
+      2,
+      2,
+      2
+    ],
+    "effect_type": 1,
+    "extra_param": {
+      "ignoreB": true,
+      "ignoreShield": true,
+      "lastTime": 0.01,
+      "shrapnel": {
+        "1": {
+          "barrage_ID": 3455014,
+          "bullet_ID": 3455013,
+          "emitterType": "BattleBulletEmitter",
+          "inheritAngle": 1
+        },
+        "FXID": ""
+      }
+    },
+    "hit_fx": "None",
+    "hit_sfx": "",
+    "hit_type": [],
+    "id": 3455012,
+    "miss_fx": "None",
+    "miss_sfx": "",
+    "modle_ID": "None",
+    "out_bound": 3,
+    "pierce_count": 50,
+    "random_damage_rate": 0,
+    "range": 0.01,
+    "range_offset": 0,
+    "type": 5,
+    "velocity": 0.1
+  },
+  "3455013": {
+    "DMG_font": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "",
+    "ammo_type": 1,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      1.5,
+      1.5,
+      1.5
+    ],
+    "cld_offset": [
+      100,
+      0,
+      100
+    ],
+    "damage_type": [
+      2,
+      2,
+      2
+    ],
+    "effect_type": 1,
+    "extra_param": {
+      "ignoreB": true,
+      "ignoreShield": true,
+      "lastTime": 0.01,
+      "shrapnel": {
+        "1": {
+          "barrage_ID": 3455015,
+          "bullet_ID": 3455014,
+          "emitterType": "BattleBulletEmitter",
+          "inheritAngle": 1
+        },
+        "FXID": ""
+      }
+    },
+    "hit_fx": "None",
+    "hit_sfx": "",
+    "hit_type": [],
+    "id": 3455013,
+    "miss_fx": "None",
+    "miss_sfx": "",
+    "modle_ID": "None",
+    "out_bound": 3,
+    "pierce_count": 50,
+    "random_damage_rate": 0,
+    "range": 0.01,
+    "range_offset": 0,
+    "type": 5,
+    "velocity": 0.1
+  },
+  "3455014": {
+    "DMG_font": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "",
+    "ammo_type": 1,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      1.5,
+      1.5,
+      1.5
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      1,
+      0.9,
+      0.8
+    ],
+    "effect_type": 1,
+    "extra_param": [],
+    "hit_fx": "None",
+    "hit_sfx": "",
+    "hit_type": [],
+    "id": 3455014,
+    "miss_fx": "None",
+    "miss_sfx": "",
+    "modle_ID": "lanhuoyinran_low",
+    "out_bound": 0,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 100,
+    "range_offset": 0,
+    "type": 1,
+    "velocity": 6
+  },
+  "3455015": {
+    "DMG_font": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "",
+    "ammo_type": 1,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      1.5,
+      1.5,
+      1.5
+    ],
+    "cld_offset": [
+      100,
+      0,
+      100
+    ],
+    "damage_type": [
+      2,
+      2,
+      2
+    ],
+    "effect_type": 1,
+    "extra_param": {
+      "directHit": true,
+      "ignoreB": true,
+      "ignoreShield": true,
+      "lastTime": 0.01,
+      "shrapnel": {
+        "1": {
+          "barrage_ID": 3455014,
+          "bullet_ID": 3455016,
+          "emitterType": "BattleBulletEmitter",
+          "inheritAngle": 1
+        },
+        "FXID": ""
+      }
+    },
+    "hit_fx": "None",
+    "hit_sfx": "",
+    "hit_type": [],
+    "id": 3455015,
+    "miss_fx": "None",
+    "miss_sfx": "",
+    "modle_ID": "None",
+    "out_bound": 3,
+    "pierce_count": 50,
+    "random_damage_rate": 0,
+    "range": 0.01,
+    "range_offset": 0,
+    "type": 5,
+    "velocity": 0.1
+  },
+  "3455016": {
+    "DMG_font": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "",
+    "ammo_type": 1,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      1.5,
+      1.5,
+      1.5
+    ],
+    "cld_offset": [
+      100,
+      0,
+      100
+    ],
+    "damage_type": [
+      2,
+      2,
+      2
+    ],
+    "effect_type": 1,
+    "extra_param": {
+      "ignoreB": true,
+      "ignoreShield": true,
+      "lastTime": 0.01,
+      "shrapnel": {
+        "1": {
+          "barrage_ID": 1,
+          "bullet_ID": 3455017,
+          "emitterType": "BattleBulletEmitter",
+          "inheritAngle": 1
+        },
+        "FXID": ""
+      }
+    },
+    "hit_fx": "None",
+    "hit_sfx": "",
+    "hit_type": [],
+    "id": 3455016,
+    "miss_fx": "None",
+    "miss_sfx": "",
+    "modle_ID": "None",
+    "out_bound": 3,
+    "pierce_count": 50,
+    "random_damage_rate": 0,
+    "range": 20,
+    "range_offset": 0,
+    "type": 5,
+    "velocity": 15
+  },
+  "3455017": {
+    "DMG_font": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "",
+    "ammo_type": 1,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      1.5,
+      1.5,
+      1.5
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      1,
+      0.9,
+      0.8
+    ],
+    "effect_type": 1,
+    "extra_param": {
+      "ignoreB": true,
+      "ignoreShield": true,
+      "lastTime": 0.01,
+      "shrapnel": {
+        "1": {
+          "barrage_ID": 3455026,
+          "bullet_ID": 3455018,
+          "emitterType": "BattleBulletEmitter",
+          "inheritAngle": 1
+        },
+        "FXID": ""
+      }
+    },
+    "hit_fx": "None",
+    "hit_sfx": "",
+    "hit_type": [],
+    "id": 3455017,
+    "miss_fx": "None",
+    "miss_sfx": "",
+    "modle_ID": "shenyuanbullet1",
+    "out_bound": 4,
+    "pierce_count": 50,
+    "random_damage_rate": 0,
+    "range": 80,
+    "range_offset": 0,
+    "type": 5,
+    "velocity": 5
+  },
+  "3455018": {
+    "DMG_font": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "",
+    "ammo_type": 1,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      1,
+      1,
+      1
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      1,
+      0.9,
+      0.8
+    ],
+    "effect_type": 1,
+    "extra_param": [],
+    "hit_fx": "None",
+    "hit_sfx": "",
+    "hit_type": [],
+    "id": 3455018,
+    "miss_fx": "None",
+    "miss_sfx": "",
+    "modle_ID": "newBullet3",
+    "out_bound": 0,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 100,
+    "range_offset": 0,
+    "type": 1,
+    "velocity": 5
+  },
+  "3455019": {
+    "DMG_font": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "acceleration": [
+      {
+        "flip": false,
+        "t": 0,
+        "u": 0,
+        "v": -0.05
+      },
+      {
+        "flip": false,
+        "t": 2,
+        "u": 0,
+        "v": 0
+      }
+    ],
+    "alert_fx": "",
+    "ammo_type": 1,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      1.5,
+      1.5,
+      1.5
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      1,
+      0.9,
+      0.8
+    ],
+    "effect_type": 1,
+    "extra_param": [],
+    "hit_fx": "None",
+    "hit_sfx": "",
+    "hit_type": [],
+    "id": 3455019,
+    "miss_fx": "None",
+    "miss_sfx": "",
+    "modle_ID": "lanhuoyinran_low",
+    "out_bound": 3,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 100,
+    "range_offset": 0,
+    "type": 1,
+    "velocity": 5
+  },
+  "3455020": {
+    "DMG_font": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "acceleration": [
+      {
+        "flip": false,
+        "t": 0,
+        "u": 0,
+        "v": 0.05
+      },
+      {
+        "flip": false,
+        "t": 2,
+        "u": 0,
+        "v": 0
+      }
+    ],
+    "alert_fx": "",
+    "ammo_type": 1,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      1.5,
+      1.5,
+      1.5
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      1,
+      0.9,
+      0.8
+    ],
+    "effect_type": 1,
+    "extra_param": [],
+    "hit_fx": "None",
+    "hit_sfx": "",
+    "hit_type": [],
+    "id": 3455020,
+    "miss_fx": "None",
+    "miss_sfx": "",
+    "modle_ID": "lanhuoyinran_low",
+    "out_bound": 3,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 100,
+    "range_offset": 0,
+    "type": 1,
+    "velocity": 5
+  },
+  "3455021": {
+    "DMG_font": [
+      [
+        3,
+        1.4
+      ],
+      [
+        3,
+        1.1
+      ],
+      [
+        3,
+        1.1
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "AlertArea",
+    "ammo_type": 3,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      5,
+      2,
+      2
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      1,
+      1,
+      1
+    ],
+    "effect_type": 1,
+    "extra_param": {
+      "diveFilter": [
+        2
+      ],
+      "gravity": -0.2,
+      "targetOffsetX": 0,
+      "targetOffsetZ": -25
+    },
+    "hit_fx": "ShellMissBlueFire",
+    "hit_sfx": "",
+    "hit_type": {
+      "range": 12,
+      "time": -1
+    },
+    "id": 3455021,
+    "miss_fx": "ShellMissBlueFire",
+    "miss_sfx": "",
+    "modle_ID": "lanhuopaodan03",
+    "out_bound": 0,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 120,
+    "range_offset": 0,
+    "type": 2,
+    "velocity": 15
+  },
+  "3455022": {
+    "DMG_font": [
+      [
+        3,
+        1.4
+      ],
+      [
+        3,
+        1.1
+      ],
+      [
+        3,
+        1.1
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "AlertArea",
+    "ammo_type": 3,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      5,
+      2,
+      2
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      1,
+      1,
+      1
+    ],
+    "effect_type": 1,
+    "extra_param": {
+      "diveFilter": [
+        2
+      ],
+      "gravity": -0.2,
+      "targetOffsetX": 0,
+      "targetOffsetZ": 25
+    },
+    "hit_fx": "ShellMissBlueFire",
+    "hit_sfx": "",
+    "hit_type": {
+      "range": 12,
+      "time": -1
+    },
+    "id": 3455022,
+    "miss_fx": "ShellMissBlueFire",
+    "miss_sfx": "",
+    "modle_ID": "lanhuopaodan03",
+    "out_bound": 0,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 120,
+    "range_offset": 0,
+    "type": 2,
+    "velocity": 15
+  },
+  "3455023": {
+    "DMG_font": [
+      [
+        3,
+        1.4
+      ],
+      [
+        3,
+        1.1
+      ],
+      [
+        3,
+        1.1
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "AlertArea",
+    "ammo_type": 3,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      5,
+      2,
+      2
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      1,
+      1,
+      1
+    ],
+    "effect_type": 1,
+    "extra_param": {
+      "diveFilter": [
+        2
+      ],
+      "gravity": -0.2,
+      "targetOffsetX": -25,
+      "targetOffsetZ": 0
+    },
+    "hit_fx": "ShellMissBlueFire",
+    "hit_sfx": "",
+    "hit_type": {
+      "range": 12,
+      "time": -1
+    },
+    "id": 3455023,
+    "miss_fx": "ShellMissBlueFire",
+    "miss_sfx": "",
+    "modle_ID": "lanhuopaodan03",
+    "out_bound": 0,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 120,
+    "range_offset": 0,
+    "type": 2,
+    "velocity": 15
+  },
+  "3455024": {
+    "DMG_font": [
+      [
+        3,
+        1.4
+      ],
+      [
+        3,
+        1.1
+      ],
+      [
+        3,
+        1.1
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "AlertArea",
+    "ammo_type": 3,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      5,
+      2,
+      2
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      1,
+      1,
+      1
+    ],
+    "effect_type": 1,
+    "extra_param": {
+      "diveFilter": [
+        2
+      ],
+      "gravity": -0.2,
+      "targetOffsetX": 25,
+      "targetOffsetZ": 0
+    },
+    "hit_fx": "ShellMissBlueFire",
+    "hit_sfx": "",
+    "hit_type": {
+      "range": 12,
+      "time": -1
+    },
+    "id": 3455024,
+    "miss_fx": "ShellMissBlueFire",
+    "miss_sfx": "",
+    "modle_ID": "lanhuopaodan03",
+    "out_bound": 0,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 120,
+    "range_offset": 0,
+    "type": 2,
+    "velocity": 15
+  },
+  "3455025": {
+    "DMG_font": [
+      [
+        3,
+        1.4
+      ],
+      [
+        3,
+        1.1
+      ],
+      [
+        3,
+        1.1
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "AlertArea",
+    "ammo_type": 3,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      5,
+      2,
+      2
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      1,
+      1,
+      1
+    ],
+    "effect_type": 1,
+    "extra_param": {
+      "diveFilter": [
+        2
+      ],
+      "gravity": -0.2,
+      "targetOffsetX": 0,
+      "targetOffsetZ": -15
+    },
+    "hit_fx": "ShellMissBlueFire",
+    "hit_sfx": "",
+    "hit_type": {
+      "range": 12,
+      "time": -1
+    },
+    "id": 3455025,
+    "miss_fx": "ShellMissBlueFire",
+    "miss_sfx": "",
+    "modle_ID": "lanhuopaodan03",
+    "out_bound": 0,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 120,
+    "range_offset": 0,
+    "type": 2,
+    "velocity": 15
+  },
+  "3455026": {
+    "DMG_font": [
+      [
+        3,
+        1.4
+      ],
+      [
+        3,
+        1.1
+      ],
+      [
+        3,
+        1.1
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "AlertArea",
+    "ammo_type": 3,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      5,
+      2,
+      2
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      1,
+      1,
+      1
+    ],
+    "effect_type": 1,
+    "extra_param": {
+      "diveFilter": [
+        2
+      ],
+      "gravity": -0.2,
+      "targetOffsetX": 0,
+      "targetOffsetZ": 15
+    },
+    "hit_fx": "ShellMissBlueFire",
+    "hit_sfx": "",
+    "hit_type": {
+      "range": 12,
+      "time": -1
+    },
+    "id": 3455026,
+    "miss_fx": "ShellMissBlueFire",
+    "miss_sfx": "",
+    "modle_ID": "lanhuopaodan03",
+    "out_bound": 0,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 120,
+    "range_offset": 0,
+    "type": 2,
+    "velocity": 15
+  },
+  "3455027": {
+    "DMG_font": [
+      [
+        3,
+        1.4
+      ],
+      [
+        3,
+        1.1
+      ],
+      [
+        3,
+        1.1
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "AlertArea",
+    "ammo_type": 3,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      5,
+      2,
+      2
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      1,
+      1,
+      1
+    ],
+    "effect_type": 1,
+    "extra_param": {
+      "diveFilter": [
+        2
+      ],
+      "gravity": -0.2,
+      "targetOffsetX": -15,
+      "targetOffsetZ": 0
+    },
+    "hit_fx": "ShellMissBlueFire",
+    "hit_sfx": "",
+    "hit_type": {
+      "range": 12,
+      "time": -1
+    },
+    "id": 3455027,
+    "miss_fx": "ShellMissBlueFire",
+    "miss_sfx": "",
+    "modle_ID": "lanhuopaodan03",
+    "out_bound": 0,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 120,
+    "range_offset": 0,
+    "type": 2,
+    "velocity": 15
+  },
+  "3455028": {
+    "DMG_font": [
+      [
+        3,
+        1.4
+      ],
+      [
+        3,
+        1.1
+      ],
+      [
+        3,
+        1.1
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "AlertArea",
+    "ammo_type": 3,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      5,
+      2,
+      2
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      1,
+      1,
+      1
+    ],
+    "effect_type": 1,
+    "extra_param": {
+      "diveFilter": [
+        2
+      ],
+      "gravity": -0.2,
+      "targetOffsetX": 15,
+      "targetOffsetZ": 0
+    },
+    "hit_fx": "ShellMissBlueFire",
+    "hit_sfx": "",
+    "hit_type": {
+      "range": 12,
+      "time": -1
+    },
+    "id": 3455028,
+    "miss_fx": "ShellMissBlueFire",
+    "miss_sfx": "",
+    "modle_ID": "lanhuopaodan03",
+    "out_bound": 0,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 120,
+    "range_offset": 0,
+    "type": 2,
+    "velocity": 15
+  },
+  "3455029": {
+    "DMG_font": [
+      [
+        3,
+        1.4
+      ],
+      [
+        3,
+        1.1
+      ],
+      [
+        3,
+        1.1
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "AlertArea",
+    "ammo_type": 3,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      5,
+      2,
+      2
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      1,
+      1,
+      1
+    ],
+    "effect_type": 1,
+    "extra_param": {
+      "diveFilter": [
+        2
+      ],
+      "gravity": -0.2,
+      "targetOffsetX": 0,
+      "targetOffsetZ": -5
+    },
+    "hit_fx": "ShellMissBlueFire",
+    "hit_sfx": "",
+    "hit_type": {
+      "range": 12,
+      "time": -1
+    },
+    "id": 3455029,
+    "miss_fx": "ShellMissBlueFire",
+    "miss_sfx": "",
+    "modle_ID": "lanhuopaodan03",
+    "out_bound": 0,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 120,
+    "range_offset": 0,
+    "type": 2,
+    "velocity": 15
+  },
+  "3455030": {
+    "DMG_font": [
+      [
+        3,
+        1.4
+      ],
+      [
+        3,
+        1.1
+      ],
+      [
+        3,
+        1.1
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "AlertArea",
+    "ammo_type": 3,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      5,
+      2,
+      2
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      1,
+      1,
+      1
+    ],
+    "effect_type": 1,
+    "extra_param": {
+      "diveFilter": [
+        2
+      ],
+      "gravity": -0.2,
+      "targetOffsetX": 0,
+      "targetOffsetZ": 5
+    },
+    "hit_fx": "ShellMissBlueFire",
+    "hit_sfx": "",
+    "hit_type": {
+      "range": 12,
+      "time": -1
+    },
+    "id": 3455030,
+    "miss_fx": "ShellMissBlueFire",
+    "miss_sfx": "",
+    "modle_ID": "lanhuopaodan03",
+    "out_bound": 0,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 120,
+    "range_offset": 0,
+    "type": 2,
+    "velocity": 15
+  },
+  "3455031": {
+    "DMG_font": [
+      [
+        3,
+        1.4
+      ],
+      [
+        3,
+        1.1
+      ],
+      [
+        3,
+        1.1
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "AlertArea",
+    "ammo_type": 3,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      5,
+      2,
+      2
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      1,
+      1,
+      1
+    ],
+    "effect_type": 1,
+    "extra_param": {
+      "diveFilter": [
+        2
+      ],
+      "gravity": -0.2,
+      "targetOffsetX": -5,
+      "targetOffsetZ": 0
+    },
+    "hit_fx": "ShellMissBlueFire",
+    "hit_sfx": "",
+    "hit_type": {
+      "range": 12,
+      "time": -1
+    },
+    "id": 3455031,
+    "miss_fx": "ShellMissBlueFire",
+    "miss_sfx": "",
+    "modle_ID": "lanhuopaodan03",
+    "out_bound": 0,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 120,
+    "range_offset": 0,
+    "type": 2,
+    "velocity": 15
+  },
+  "3455032": {
+    "DMG_font": [
+      [
+        3,
+        1.4
+      ],
+      [
+        3,
+        1.1
+      ],
+      [
+        3,
+        1.1
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "AlertArea",
+    "ammo_type": 3,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      5,
+      2,
+      2
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      1,
+      1,
+      1
+    ],
+    "effect_type": 1,
+    "extra_param": {
+      "diveFilter": [
+        2
+      ],
+      "gravity": -0.2,
+      "targetOffsetX": 5,
+      "targetOffsetZ": 0
+    },
+    "hit_fx": "ShellMissBlueFire",
+    "hit_sfx": "",
+    "hit_type": {
+      "range": 12,
+      "time": -1
+    },
+    "id": 3455032,
+    "miss_fx": "ShellMissBlueFire",
+    "miss_sfx": "",
+    "modle_ID": "lanhuopaodan03",
+    "out_bound": 0,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 120,
+    "range_offset": 0,
+    "type": 2,
+    "velocity": 15
+  },
+  "3456001": {
+    "DMG_font": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "",
+    "ammo_type": 1,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      2,
+      2,
+      2
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      1,
+      0.9,
+      0.8
+    ],
+    "effect_type": 1,
+    "extra_param": [],
+    "hit_fx": "None",
+    "hit_sfx": "",
+    "hit_type": [],
+    "id": 3456001,
+    "miss_fx": "None",
+    "miss_sfx": "",
+    "modle_ID": "paodan_xuesebianfu",
+    "out_bound": 0,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 100,
+    "range_offset": 0,
+    "type": 1,
+    "velocity": 4
+  },
+  "3456002": {
+    "DMG_font": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "",
+    "ammo_type": 1,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      1,
+      1,
+      1
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      1,
+      0.9,
+      0.8
+    ],
+    "effect_type": 1,
+    "extra_param": [],
+    "hit_fx": "None",
+    "hit_sfx": "",
+    "hit_type": [],
+    "id": 3456002,
+    "miss_fx": "None",
+    "miss_sfx": "",
+    "modle_ID": "zidan_yujinxiang_hong",
+    "out_bound": 0,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 100,
+    "range_offset": 0,
+    "type": 1,
+    "velocity": 5
+  },
+  "3456003": {
+    "DMG_font": [
+      [
+        3,
+        0.8
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        3,
+        1.3
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "TorAlert",
+    "ammo_type": 4,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      3,
+      2,
+      2
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      0.8,
+      1,
+      1.3
+    ],
+    "effect_type": 1,
+    "extra_param": {
+      "diveFilter": [
+        2
+      ]
+    },
+    "hit_fx": "TorpedoHit3",
+    "hit_sfx": "battle/torpedo-hit",
+    "hit_type": {
+      "range": 3,
+      "time": -1
+    },
+    "id": 3456003,
+    "miss_fx": "",
+    "miss_sfx": "",
+    "modle_ID": "yulei_meigui",
+    "out_bound": 0,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 100,
+    "range_offset": 20,
+    "type": 3,
+    "velocity": 3
+  },
+  "3456004": {
+    "DMG_font": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "",
+    "ammo_type": 1,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      1,
+      1,
+      1
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      1,
+      0.9,
+      0.8
+    ],
+    "effect_type": 1,
+    "extra_param": {
+      "fragile": 1,
+      "ignoreShield": true,
+      "lastTime": 0.01,
+      "shrapnel": {
+        "1": {
+          "barrage_ID": 1,
+          "bullet_ID": 3456005,
+          "emitterType": "BattleBulletEmitter",
+          "reaim": 1
+        },
+        "FXID": ""
+      }
+    },
+    "hit_fx": "None",
+    "hit_sfx": "",
+    "hit_type": [],
+    "id": 3456004,
+    "miss_fx": "None",
+    "miss_sfx": "",
+    "modle_ID": "zidan_youlin",
+    "out_bound": 0,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 15,
+    "range_offset": 0,
+    "type": 5,
+    "velocity": 2
+  },
+  "3456005": {
+    "DMG_font": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "",
+    "ammo_type": 1,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      1,
+      1,
+      1
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      1,
+      0.9,
+      0.8
+    ],
+    "effect_type": 1,
+    "extra_param": [],
+    "hit_fx": "None",
+    "hit_sfx": "",
+    "hit_type": [],
+    "id": 3456005,
+    "miss_fx": "None",
+    "miss_sfx": "",
+    "modle_ID": "zidan_youlin",
+    "out_bound": 0,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 100,
+    "range_offset": 0,
+    "type": 1,
+    "velocity": 8
+  },
+  "3456006": {
+    "DMG_font": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "acceleration": [
+      {
+        "flip": false,
+        "t": 0,
+        "u": -0.08,
+        "v": 0
+      },
+      {
+        "flip": false,
+        "t": 0.5,
+        "u": 0,
+        "v": 0
+      }
+    ],
+    "alert_fx": "",
+    "ammo_type": 1,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      1.5,
+      1.5,
+      1.5
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      1,
+      0.9,
+      0.8
+    ],
+    "effect_type": 1,
+    "extra_param": [],
+    "hit_fx": "None",
+    "hit_sfx": "",
+    "hit_type": [],
+    "id": 3456006,
+    "miss_fx": "None",
+    "miss_sfx": "",
+    "modle_ID": "xiafei_baiseyumao",
+    "out_bound": 3,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 100,
+    "range_offset": 0,
+    "type": 1,
+    "velocity": 7
+  },
+  "3456007": {
+    "DMG_font": [
+      [
+        3,
+        0.8
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        3,
+        1.3
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "TorAlert",
+    "ammo_type": 4,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      3,
+      2,
+      2
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      0.8,
+      1,
+      1.3
+    ],
+    "effect_type": 1,
+    "extra_param": {
+      "diveFilter": [
+        2
+      ]
+    },
+    "hit_fx": "TorpedoHit3",
+    "hit_sfx": "battle/torpedo-hit",
+    "hit_type": {
+      "range": 3,
+      "time": -1
+    },
+    "id": 3456007,
+    "miss_fx": "",
+    "miss_sfx": "",
+    "modle_ID": "Torpedo_mantou",
+    "out_bound": 0,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 100,
+    "range_offset": 20,
+    "type": 3,
+    "velocity": 3
+  },
+  "3456008": {
+    "DMG_font": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "",
+    "ammo_type": 1,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      1,
+      1,
+      1
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      1,
+      0.9,
+      0.8
+    ],
+    "effect_type": 1,
+    "extra_param": [],
+    "hit_fx": "None",
+    "hit_sfx": "",
+    "hit_type": [],
+    "id": 3456008,
+    "miss_fx": "None",
+    "miss_sfx": "",
+    "modle_ID": "zidan_rou",
+    "out_bound": 0,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 100,
+    "range_offset": 0,
+    "type": 1,
+    "velocity": 5
+  },
+  "3456009": {
+    "DMG_font": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "",
+    "ammo_type": 1,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      2,
+      2,
+      2
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      1,
+      0.9,
+      0.8
+    ],
+    "effect_type": 1,
+    "extra_param": [],
+    "hit_fx": "None",
+    "hit_sfx": "",
+    "hit_type": [],
+    "id": 3456009,
+    "miss_fx": "None",
+    "miss_sfx": "",
+    "modle_ID": "paodan_rou",
+    "out_bound": 0,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 100,
+    "range_offset": 0,
+    "type": 1,
+    "velocity": 8
+  },
+  "3456010": {
+    "DMG_font": [
+      [
+        3,
+        0.8
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        3,
+        1.3
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "TorAlert",
+    "ammo_type": 4,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      3,
+      2,
+      2
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      0.8,
+      1,
+      1.3
+    ],
+    "effect_type": 1,
+    "extra_param": {
+      "diveFilter": [
+        2
+      ]
+    },
+    "hit_fx": "TorpedoHit3",
+    "hit_sfx": "battle/torpedo-hit",
+    "hit_type": {
+      "range": 3,
+      "time": -1
+    },
+    "id": 3456010,
+    "miss_fx": "",
+    "miss_sfx": "",
+    "modle_ID": "paodan_huoqiu_middle",
+    "out_bound": 0,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 100,
+    "range_offset": 20,
+    "type": 3,
+    "velocity": 3
+  },
+  "3456011": {
+    "DMG_font": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "",
+    "ammo_type": 1,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      1,
+      1,
+      1
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      1,
+      0.9,
+      0.8
+    ],
+    "effect_type": 1,
+    "extra_param": {
+      "randomLaunchOffsetX": 6,
+      "randomLaunchOffsetZ": 20,
+      "velocity_offsetF": 1.5
+    },
+    "hit_fx": "None",
+    "hit_sfx": "",
+    "hit_type": [],
+    "id": 3456011,
+    "miss_fx": "None",
+    "miss_sfx": "",
+    "modle_ID": "jiantouzidan_random",
+    "out_bound": 3,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 100,
+    "range_offset": 0,
+    "type": 1,
+    "velocity": 5
+  },
+  "3456012": {
+    "DMG_font": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "",
+    "ammo_type": 1,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      2,
+      2,
+      2
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      1,
+      0.9,
+      0.8
+    ],
+    "effect_type": 1,
+    "extra_param": [],
+    "hit_fx": "None",
+    "hit_sfx": "",
+    "hit_type": [],
+    "id": 3456012,
+    "miss_fx": "None",
+    "miss_sfx": "",
+    "modle_ID": "Bullet_xinnian",
+    "out_bound": 0,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 100,
+    "range_offset": 0,
+    "type": 1,
+    "velocity": 3
+  },
+  "3456013": {
+    "DMG_font": [
+      [
+        3,
+        1.2
+      ],
+      [
+        3,
+        0.9
+      ],
+      [
+        3,
+        0.7
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "AlertArea",
+    "ammo_type": 2,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      5,
+      2,
+      2
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      1,
+      1.3,
+      1.1
+    ],
+    "effect_type": 1,
+    "extra_param": {
+      "diveFilter": [
+        2
+      ],
+      "gravity": -0.2,
+      "targetOffsetX": 0,
+      "targetOffsetZ": 0
+    },
+    "hit_fx": "ShellMissRedFire",
+    "hit_sfx": "",
+    "hit_type": {
+      "range": 12,
+      "time": -1
+    },
+    "id": 3456013,
+    "miss_fx": "ShellMissRedFire",
+    "miss_sfx": "",
+    "modle_ID": "paodan_tutuhuoqiu",
+    "out_bound": 0,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 120,
+    "range_offset": 0,
+    "type": 2,
+    "velocity": 15
+  },
+  "3456014": {
+    "DMG_font": [
+      [
+        3,
+        1.2
+      ],
+      [
+        3,
+        0.9
+      ],
+      [
+        3,
+        0.7
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "AlertArea",
+    "ammo_type": 2,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      5,
+      2,
+      2
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      1,
+      1.3,
+      1.1
+    ],
+    "effect_type": 1,
+    "extra_param": {
+      "diveFilter": [
+        2
+      ],
+      "gravity": -0.2,
+      "targetOffsetX": -10,
+      "targetOffsetZ": -10
+    },
+    "hit_fx": "ShellMissRedFire",
+    "hit_sfx": "",
+    "hit_type": {
+      "range": 12,
+      "time": -1
+    },
+    "id": 3456014,
+    "miss_fx": "ShellMissRedFire",
+    "miss_sfx": "",
+    "modle_ID": "paodan_tutuhuoqiu",
+    "out_bound": 0,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 120,
+    "range_offset": 0,
+    "type": 2,
+    "velocity": 15
+  },
+  "3456015": {
+    "DMG_font": [
+      [
+        3,
+        1.2
+      ],
+      [
+        3,
+        0.9
+      ],
+      [
+        3,
+        0.7
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "AlertArea",
+    "ammo_type": 2,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      5,
+      2,
+      2
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      1,
+      1.3,
+      1.1
+    ],
+    "effect_type": 1,
+    "extra_param": {
+      "diveFilter": [
+        2
+      ],
+      "gravity": -0.2,
+      "targetOffsetX": -10,
+      "targetOffsetZ": 10
+    },
+    "hit_fx": "ShellMissRedFire",
+    "hit_sfx": "",
+    "hit_type": {
+      "range": 12,
+      "time": -1
+    },
+    "id": 3456015,
+    "miss_fx": "ShellMissRedFire",
+    "miss_sfx": "",
+    "modle_ID": "paodan_tutuhuoqiu",
+    "out_bound": 0,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 120,
+    "range_offset": 0,
+    "type": 2,
+    "velocity": 15
+  },
+  "3456016": {
+    "DMG_font": [
+      [
+        3,
+        1.2
+      ],
+      [
+        3,
+        0.9
+      ],
+      [
+        3,
+        0.7
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "AlertArea",
+    "ammo_type": 2,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      5,
+      2,
+      2
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      1,
+      1.3,
+      1.1
+    ],
+    "effect_type": 1,
+    "extra_param": {
+      "diveFilter": [
+        2
+      ],
+      "gravity": -0.2,
+      "targetOffsetX": 10,
+      "targetOffsetZ": -10
+    },
+    "hit_fx": "ShellMissRedFire",
+    "hit_sfx": "",
+    "hit_type": {
+      "range": 12,
+      "time": -1
+    },
+    "id": 3456016,
+    "miss_fx": "ShellMissRedFire",
+    "miss_sfx": "",
+    "modle_ID": "paodan_tutuhuoqiu",
+    "out_bound": 0,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 120,
+    "range_offset": 0,
+    "type": 2,
+    "velocity": 15
+  },
+  "3456017": {
+    "DMG_font": [
+      [
+        3,
+        1.2
+      ],
+      [
+        3,
+        0.9
+      ],
+      [
+        3,
+        0.7
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "AlertArea",
+    "ammo_type": 2,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      5,
+      2,
+      2
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      1,
+      1.3,
+      1.1
+    ],
+    "effect_type": 1,
+    "extra_param": {
+      "diveFilter": [
+        2
+      ],
+      "gravity": -0.2,
+      "targetOffsetX": 10,
+      "targetOffsetZ": 10
+    },
+    "hit_fx": "ShellMissRedFire",
+    "hit_sfx": "",
+    "hit_type": {
+      "range": 12,
+      "time": -1
+    },
+    "id": 3456017,
+    "miss_fx": "ShellMissRedFire",
+    "miss_sfx": "",
+    "modle_ID": "paodan_tutuhuoqiu",
+    "out_bound": 0,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 120,
+    "range_offset": 0,
+    "type": 2,
+    "velocity": 15
+  },
+  "3456018": {
+    "DMG_font": [
+      [
+        3,
+        1.2
+      ],
+      [
+        3,
+        0.9
+      ],
+      [
+        3,
+        0.7
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "AlertArea",
+    "ammo_type": 2,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      5,
+      2,
+      2
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      1,
+      1.3,
+      1.1
+    ],
+    "effect_type": 1,
+    "extra_param": {
+      "diveFilter": [
+        2
+      ],
+      "gravity": -0.2,
+      "randomOffsetX": 16,
+      "randomOffsetZ": 16
+    },
+    "hit_fx": "ShellMissRedFire",
+    "hit_sfx": "",
+    "hit_type": {
+      "range": 15,
+      "time": -1
+    },
+    "id": 3456018,
+    "miss_fx": "ShellMissRedFire",
+    "miss_sfx": "",
+    "modle_ID": "paodan_tutuhuoqiu",
+    "out_bound": 0,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 120,
+    "range_offset": 0,
+    "type": 2,
+    "velocity": 15
+  },
+  "3456019": {
+    "DMG_font": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "",
+    "ammo_type": 1,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      1.5,
+      1.5,
+      1.5
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      1,
+      0.9,
+      0.8
+    ],
+    "effect_type": 1,
+    "extra_param": [],
+    "hit_fx": "None",
+    "hit_sfx": "",
+    "hit_type": [],
+    "id": 3456019,
+    "miss_fx": "None",
+    "miss_sfx": "",
+    "modle_ID": "zidan_gouzi",
+    "out_bound": 0,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 100,
+    "range_offset": 0,
+    "type": 1,
+    "velocity": 12
+  },
+  "3456020": {
+    "DMG_font": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "",
+    "ammo_type": 1,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      1.5,
+      1.5,
+      1.5
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      1,
+      0.9,
+      0.8
+    ],
+    "effect_type": 1,
+    "extra_param": [],
+    "hit_fx": "None",
+    "hit_sfx": "",
+    "hit_type": [],
+    "id": 3456020,
+    "miss_fx": "None",
+    "miss_sfx": "",
+    "modle_ID": "zidan_wandao_roll",
+    "out_bound": 3,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 100,
+    "range_offset": 0,
+    "type": 1,
+    "velocity": 6
+  },
+  "3456021": {
+    "DMG_font": [
+      [
+        1,
+        1
+      ],
+      [
+        4,
+        0.8
+      ],
+      [
+        4,
+        0.6
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "AlertArea",
+    "ammo_type": 6,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      6,
+      2,
+      2
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      1,
+      0.9,
+      0.8
+    ],
+    "effect_type": 1,
+    "extra_param": {
+      "airdrop": true,
+      "diveFilter": [
+        2
+      ],
+      "dropOffset": true,
+      "gravity": -0.1,
+      "offsetY": 60,
+      "randomOffsetX": 12,
+      "randomOffsetZ": 12
+    },
+    "hit_fx": "ShellMiss",
+    "hit_sfx": "",
+    "hit_type": {
+      "range": 5,
+      "time": -1
+    },
+    "id": 3456021,
+    "miss_fx": "ShellMiss",
+    "miss_sfx": "",
+    "modle_ID": "zidan_jinbi",
+    "out_bound": 0,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 200,
+    "range_offset": 0,
+    "type": 2,
+    "velocity": 2
+  },
+  "3456022": {
+    "DMG_font": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "",
+    "ammo_type": 1,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      1.5,
+      1.5,
+      1.5
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      1,
+      0.9,
+      0.8
+    ],
+    "effect_type": 1,
+    "extra_param": [],
+    "hit_fx": "None",
+    "hit_sfx": "",
+    "hit_type": [],
+    "id": 3456022,
+    "miss_fx": "None",
+    "miss_sfx": "",
+    "modle_ID": "bullet_sailship",
+    "out_bound": 0,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 100,
+    "range_offset": 0,
+    "type": 1,
+    "velocity": 8
+  },
+  "3456023": {
+    "DMG_font": [
+      [
+        3,
+        0.9
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        3,
+        1.1
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "AlertArea",
+    "ammo_type": 6,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      1.8,
+      1,
+      1
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      0.8,
+      0.9,
+      1.1
+    ],
+    "effect_type": 1,
+    "extra_param": {
+      "airdrop": true,
+      "diveFilter": [
+        2
+      ],
+      "gravity": -0.05,
+      "launchVrtSpeed": -4,
+      "offsetY": 70,
+      "randomOffsetX": 12,
+      "randomOffsetZ": 12,
+      "targetOffsetX": -1
+    },
+    "hit_fx": "paodan_baopodan_hit",
+    "hit_sfx": "",
+    "hit_type": {
+      "range": 6,
+      "time": -1
+    },
+    "id": 3456023,
+    "miss_fx": "paodan_baopodan_hit",
+    "miss_sfx": "",
+    "modle_ID": "paodan_baopodan",
+    "out_bound": 0,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 200,
+    "range_offset": 0,
+    "type": 2,
+    "velocity": 0
+  },
+  "3456024": {
+    "DMG_font": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "acceleration": [],
+    "alert_fx": "",
+    "ammo_type": 1,
+    "antisub_enhancement": 0,
+    "attach_buff": [],
+    "cld_box": [
+      1,
+      1,
+      1
+    ],
+    "cld_offset": [
+      0,
+      0,
+      0
+    ],
+    "damage_type": [
+      1,
+      0.9,
+      0.8
+    ],
+    "effect_type": 1,
+    "extra_param": [],
+    "hit_fx": "None",
+    "hit_sfx": "",
+    "hit_type": [],
+    "id": 3456024,
+    "miss_fx": "None",
+    "miss_sfx": "",
+    "modle_ID": "zidan_tangguo",
+    "out_bound": 0,
+    "pierce_count": 0,
+    "random_damage_rate": 0,
+    "range": 100,
+    "range_offset": 0,
+    "type": 1,
+    "velocity": 3
+  },
   "3500010": {
     "DMG_font": [
       [
@@ -1331074,6 +1338938,14 @@
     "161275",
     "161276",
     "161277",
+    "161278",
+    "161279",
+    "161280",
+    "161281",
+    "161282",
+    "161283",
+    "161284",
+    "161285",
     "161301",
     "161311",
     "161312",
@@ -1332068,6 +1339940,7 @@
     "171056",
     "171057",
     "171161",
+    "171201",
     "180016",
     "180017",
     "183181",
@@ -1332102,6 +1339975,8 @@
     "184621",
     "184711",
     "184721",
+    "185011",
+    "185021",
     "194099",
     "233333",
     "300001",
@@ -1345441,6 +1353316,124 @@
     "3445117",
     "3445118",
     "3445119",
+    "3451001",
+    "3451002",
+    "3451003",
+    "3451004",
+    "3451005",
+    "3451006",
+    "3451007",
+    "3451008",
+    "3452001",
+    "3452002",
+    "3452003",
+    "3452004",
+    "3452005",
+    "3452006",
+    "3452007",
+    "3452008",
+    "3452009",
+    "3452010",
+    "3452011",
+    "3452012",
+    "3452013",
+    "3452014",
+    "3452015",
+    "3452016",
+    "3452017",
+    "3452018",
+    "3453001",
+    "3453002",
+    "3453003",
+    "3453004",
+    "3453005",
+    "3453006",
+    "3453007",
+    "3453008",
+    "3453009",
+    "3453010",
+    "3453011",
+    "3453012",
+    "3453013",
+    "3453014",
+    "3453015",
+    "3453016",
+    "3453017",
+    "3453018",
+    "3453019",
+    "3453020",
+    "3453021",
+    "3453022",
+    "3454001",
+    "3454002",
+    "3454003",
+    "3454004",
+    "3454005",
+    "3454006",
+    "3454007",
+    "3454008",
+    "3454009",
+    "3454010",
+    "3454011",
+    "3454012",
+    "3454013",
+    "3454014",
+    "3455001",
+    "3455002",
+    "3455003",
+    "3455004",
+    "3455005",
+    "3455006",
+    "3455007",
+    "3455008",
+    "3455009",
+    "3455010",
+    "3455011",
+    "3455012",
+    "3455013",
+    "3455014",
+    "3455015",
+    "3455016",
+    "3455017",
+    "3455018",
+    "3455019",
+    "3455020",
+    "3455021",
+    "3455022",
+    "3455023",
+    "3455024",
+    "3455025",
+    "3455026",
+    "3455027",
+    "3455028",
+    "3455029",
+    "3455030",
+    "3455031",
+    "3455032",
+    "3456001",
+    "3456002",
+    "3456003",
+    "3456004",
+    "3456005",
+    "3456006",
+    "3456007",
+    "3456008",
+    "3456009",
+    "3456010",
+    "3456011",
+    "3456012",
+    "3456013",
+    "3456014",
+    "3456015",
+    "3456016",
+    "3456017",
+    "3456018",
+    "3456019",
+    "3456020",
+    "3456021",
+    "3456022",
+    "3456023",
+    "3456024",
     "3500010",
     "3500011",
     "3500012",

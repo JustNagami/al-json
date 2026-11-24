@@ -3159,6 +3159,46 @@
     "target_id_2": "970113",
     "target_num": 1
   },
+  "100621": {
+    "desc": "Win 1 battle with a fleet that includes Kersaint META.",
+    "id": 100621,
+    "sub_type": 180,
+    "target_id": "",
+    "target_id_2": "970114",
+    "target_num": 1
+  },
+  "100622": {
+    "desc": "Defeat a level 30+ enemy fleet with a fleet that includes Kersaint META.",
+    "id": 100622,
+    "sub_type": 180,
+    "target_id": "30",
+    "target_id_2": "970114",
+    "target_num": 1
+  },
+  "100623": {
+    "desc": "Defeat a level 55+ enemy fleet with a fleet that includes Kersaint META.",
+    "id": 100623,
+    "sub_type": 180,
+    "target_id": "55",
+    "target_id_2": "970114",
+    "target_num": 1
+  },
+  "100624": {
+    "desc": "Defeat a level 80+ enemy fleet with a fleet that includes Kersaint META.",
+    "id": 100624,
+    "sub_type": 180,
+    "target_id": "80",
+    "target_id_2": "970114",
+    "target_num": 1
+  },
+  "100625": {
+    "desc": "Defeat a level 100+ enemy fleet with a fleet that includes Kersaint META.",
+    "id": 100625,
+    "sub_type": 180,
+    "target_id": "100",
+    "target_id_2": "970114",
+    "target_num": 1
+  },
   "200001": {
     "desc": "Win 1 battle in Operation Siren with Hunter META in your fleet.",
     "id": 200001,
@@ -4823,6 +4863,38 @@
     "target_id_2": "970113",
     "target_num": 1
   },
+  "200531": {
+    "desc": "In Operation Siren, win 1 battle with a fleet that includes Kersaint META.",
+    "id": 200531,
+    "sub_type": 302,
+    "target_id": "",
+    "target_id_2": "970114",
+    "target_num": 1
+  },
+  "200532": {
+    "desc": "In Operation Siren, defeat a level 70+ enemy fleet with a fleet that includes Kersaint META.",
+    "id": 200532,
+    "sub_type": 302,
+    "target_id": "70",
+    "target_id_2": "970114",
+    "target_num": 1
+  },
+  "200533": {
+    "desc": "In Operation Siren, defeat a level 90+ enemy fleet with a fleet that includes Kersaint META.",
+    "id": 200533,
+    "sub_type": 302,
+    "target_id": "90",
+    "target_id_2": "970114",
+    "target_num": 1
+  },
+  "200534": {
+    "desc": "In Operation Siren, defeat a level 100+ enemy fleet with a fleet that includes Kersaint META.",
+    "id": 200534,
+    "sub_type": 302,
+    "target_id": "100",
+    "target_id_2": "970114",
+    "target_num": 1
+  },
   "all": [
     1,
     2,
@@ -5219,6 +5291,11 @@
     100613,
     100614,
     100615,
+    100621,
+    100622,
+    100623,
+    100624,
+    100625,
     200001,
     200002,
     200003,
@@ -5426,6 +5503,10 @@
     200521,
     200522,
     200523,
-    200524
+    200524,
+    200531,
+    200532,
+    200533,
+    200534
   ]
 }

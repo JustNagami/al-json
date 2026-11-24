@@ -34777,12 +34777,12 @@
         [
           2026,
           12,
-          3
+          2
         ],
         [
-          12,
-          0,
-          0
+          23,
+          59,
+          59
         ]
       ]
     ],
@@ -36121,6 +36121,59 @@
     "title_res_tag": "CrusingDisplayAct",
     "type": 54
   },
+  "7032": {
+    "config_client": "",
+    "config_data": [
+      310,
+      311,
+      312,
+      313,
+      314,
+      315,
+      316,
+      317,
+      318
+    ],
+    "config_id": 0,
+    "id": 7032,
+    "is_show": 14,
+    "login_pop": 0,
+    "mark": 20261124,
+    "page_core": "",
+    "page_info": {
+      "class_name": "CrusingDisplayActPage2",
+      "ui_name": "CrusingDisplayActPage32"
+    },
+    "time": [
+      "timer",
+      [
+        [
+          2026,
+          12,
+          1
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2027,
+          1,
+          31
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
+    "title_res_tag": "CrusingDisplayAct",
+    "type": 54
+  },
   "7101": {
     "config_client": "",
     "config_data": [
@@ -36271,7 +36324,9 @@
       12050,
       12051,
       12052,
-      12053
+      12053,
+      12054,
+      12055
     ],
     "config_id": 1,
     "id": 7104,
@@ -38057,6 +38112,91 @@
           2026,
           5,
           6
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
+    "title_res_tag": "",
+    "type": 30
+  },
+  "8140": {
+    "config_client": "",
+    "config_data": [],
+    "config_id": 111,
+    "id": 8140,
+    "is_show": 51,
+    "login_pop": 0,
+    "mark": 20261124,
+    "page_core": "",
+    "page_info": {
+      "class_name": "NewServerLoginPage",
+      "ui_name": "NewServerLoginPage"
+    },
+    "time": [
+      "timer",
+      [
+        [
+          2026,
+          11,
+          24
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2026,
+          12,
+          15
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
+    "title_res_tag": "newserver_main",
+    "type": 3
+  },
+  "8141": {
+    "config_client": "",
+    "config_data": [
+      103
+    ],
+    "config_id": 0,
+    "id": 8141,
+    "is_show": 0,
+    "login_pop": 0,
+    "mark": 20261124,
+    "page_core": "",
+    "page_info": "",
+    "time": [
+      "timer",
+      [
+        [
+          2026,
+          11,
+          24
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2026,
+          12,
+          15
         ],
         [
           23,
@@ -79996,6 +80136,628 @@
     "title_res_tag": "",
     "type": 13
   },
+  "51401": {
+    "config_client": {
+      "bg": "loadingbg/bg_build_4_act",
+      "buildship_tip": "Rate up for Molotov & Sinop!",
+      "id": 4,
+      "rate_tip": [
+        "<color=#ffde38>Super Rare</color>: 7%",
+        "<color=#d797ff>Elite</color>: 12%",
+        "<color=#3dc6ff>Rare</color>: 51%",
+        "Common: 30%",
+        "<color=#ffde38>Molotov</color>: 2%(<color=#92fc63>up!</color>)",
+        " ",
+        "<color=#ffde38>Sinop</color>: 2%(<color=#92fc63>up!</color>)"
+      ]
+    },
+    "config_data": [
+      [
+        702131,
+        200
+      ],
+      [
+        705101,
+        200
+      ]
+    ],
+    "config_id": 4,
+    "id": 51401,
+    "is_show": 0,
+    "login_pop": 0,
+    "mark": 20261124,
+    "page_core": "",
+    "page_info": "",
+    "time": [
+      "timer",
+      [
+        [
+          2026,
+          11,
+          24
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2026,
+          12,
+          9
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
+    "title_res_tag": "",
+    "type": 1
+  },
+  "51402": {
+    "config_client": {
+      "PTID": 66133,
+      "entrance_bg": "activitybanner/temp10",
+      "is_showMedal": true,
+      "levelbg": [],
+      "medal_group_id": 51409,
+      "mediator": "BossRushVeritasAcademyMediator",
+      "scene": "BossRushVeritasAcademyScene",
+      "shopItemID": 71427,
+      "storybg": [],
+      "storybgm": [
+        [
+          1,
+          "story-richang-afterschool"
+        ]
+      ],
+      "storys": [
+        188,
+        189,
+        190,
+        191,
+        192,
+        193,
+        194,
+        195,
+        196,
+        197,
+        198,
+        199,
+        200,
+        201,
+        202,
+        203,
+        204
+      ],
+      "task_id": 29207,
+      "tasks": [
+        29207
+      ]
+    },
+    "config_data": [
+      7001,
+      7002,
+      7003,
+      7004,
+      7005
+    ],
+    "config_id": 0,
+    "id": 51402,
+    "is_show": 1,
+    "login_pop": 0,
+    "mark": 20261124,
+    "page_core": "VeritasAcademyCoreActivityUI",
+    "page_info": {
+      "class_name": "VeritasAcademyMainPage",
+      "ui_name": "VeritasAcademyMainPage"
+    },
+    "time": [
+      "timer",
+      [
+        [
+          2026,
+          11,
+          24
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2026,
+          12,
+          9
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
+    "title_res_tag": "VeritasAcademyCoreActivity_subtitle_1",
+    "type": 93
+  },
+  "51403": {
+    "config_client": "",
+    "config_data": "0",
+    "config_id": 0,
+    "id": 51403,
+    "is_show": 0,
+    "login_pop": 0,
+    "mark": 20261124,
+    "page_core": "",
+    "page_info": "",
+    "time": [
+      "timer",
+      [
+        [
+          2026,
+          11,
+          24
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2026,
+          12,
+          9
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
+    "title_res_tag": "",
+    "type": 94
+  },
+  "51404": {
+    "config_client": {
+      "highValueItemSort": [
+        11,
+        19,
+        23,
+        29,
+        33,
+        37
+      ]
+    },
+    "config_data": [],
+    "config_id": 51404,
+    "id": 51404,
+    "is_show": 2,
+    "login_pop": 0,
+    "mark": 20261124,
+    "page_core": "VeritasAcademyCoreActivityUI",
+    "page_info": {
+      "class_name": "VeritasAcademyPtPage",
+      "ui_name": "VeritasAcademyPtPage"
+    },
+    "time": [
+      "timer",
+      [
+        [
+          2026,
+          11,
+          24
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2026,
+          12,
+          15
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
+    "title_res_tag": "VeritasAcademyCoreActivity_subtitle_2",
+    "type": 174
+  },
+  "51405": {
+    "config_client": "",
+    "config_data": [
+      29201,
+      29202,
+      29203,
+      29204,
+      29205,
+      29206,
+      29207,
+      29208,
+      29209,
+      29210,
+      29211
+    ],
+    "config_id": 0,
+    "id": 51405,
+    "is_show": 0,
+    "login_pop": 0,
+    "mark": 20261124,
+    "page_core": "",
+    "page_info": "",
+    "time": [
+      "timer",
+      [
+        [
+          2026,
+          11,
+          24
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2026,
+          12,
+          9
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
+    "title_res_tag": "",
+    "type": 13
+  },
+  "51406": {
+    "config_client": "",
+    "config_data": [
+      23888
+    ],
+    "config_id": 0,
+    "id": 51406,
+    "is_show": 0,
+    "login_pop": 0,
+    "mark": 20261124,
+    "page_core": "",
+    "page_info": "",
+    "time": "stop",
+    "title_res_tag": "",
+    "type": 13
+  },
+  "51407": {
+    "config_client": "",
+    "config_data": [
+      8,
+      100
+    ],
+    "config_id": 66133,
+    "id": 51407,
+    "is_show": 0,
+    "login_pop": 0,
+    "mark": 20261124,
+    "page_core": "",
+    "page_info": "",
+    "time": [
+      "timer",
+      [
+        [
+          2026,
+          11,
+          24
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2026,
+          12,
+          9
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
+    "title_res_tag": "",
+    "type": 16
+  },
+  "51408": {
+    "config_client": "",
+    "config_data": [
+      [
+        31916,
+        100
+      ]
+    ],
+    "config_id": 1,
+    "id": 51408,
+    "is_show": 0,
+    "login_pop": 0,
+    "mark": 20261124,
+    "page_core": "",
+    "page_info": "",
+    "time": [
+      "timer",
+      [
+        [
+          2026,
+          11,
+          24
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2026,
+          12,
+          9
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
+    "title_res_tag": "",
+    "type": 27
+  },
+  "51409": {
+    "config_client": "",
+    "config_data": [
+      25748,
+      25749,
+      25750,
+      25751,
+      25752,
+      25753,
+      25754,
+      25755,
+      25756
+    ],
+    "config_id": 0,
+    "id": 51409,
+    "is_show": 0,
+    "login_pop": 0,
+    "mark": 20261124,
+    "page_core": "",
+    "page_info": "",
+    "time": [
+      "timer",
+      [
+        [
+          2026,
+          11,
+          24
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2026,
+          12,
+          15
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
+    "title_res_tag": "",
+    "type": 13
+  },
+  "51410": {
+    "config_client": {
+      "equipskin_box_link": {
+        "drop_id": 30390,
+        "drop_type": 2,
+        "list": [
+          [
+            2,
+            [
+              "scene shop",
+              {
+                "warp": "shopstreet"
+              }
+            ],
+            "Merit Shop"
+          ]
+        ]
+      },
+      "furniture_theme_link": [
+        2,
+        [
+          "scene court yard",
+          []
+        ]
+      ]
+    },
+    "config_data": [],
+    "config_id": 0,
+    "id": 51410,
+    "is_show": 3,
+    "login_pop": 0,
+    "mark": 20261124,
+    "page_core": "VeritasAcademyCoreActivityUI",
+    "page_info": {
+      "class_name": "VeritasAcademyCollectPage",
+      "sub_ui": [
+        "VeritasAcademyCollectMsgBox"
+      ],
+      "ui_name": "VeritasAcademyCollectPage"
+    },
+    "time": [
+      "timer",
+      [
+        [
+          2026,
+          11,
+          24
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2026,
+          12,
+          9
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
+    "title_res_tag": "VeritasAcademyCoreActivity_subtitle_4",
+    "type": 103
+  },
+  "51412": {
+    "config_client": {
+      "story": [
+        [
+          "SHISHANGTEKANMEILISHUISHIJIE2"
+        ],
+        [
+          "SHISHANGTEKANMEILISHUISHIJIE1"
+        ],
+        [
+          "SHISHANGTEKANMEILISHUISHIJIE3"
+        ]
+      ]
+    },
+    "config_data": [
+      27820,
+      27821,
+      27822
+    ],
+    "config_id": 1,
+    "id": 51412,
+    "is_show": 4,
+    "login_pop": 0,
+    "mark": 20261124,
+    "page_core": "VeritasAcademyCoreActivityUI",
+    "page_info": {
+      "class_name": "VeritasAcademySkinMagazinePage",
+      "ui_name": "VeritasAcademySkinMagazinePage"
+    },
+    "time": [
+      "timer",
+      [
+        [
+          2026,
+          11,
+          24
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2026,
+          12,
+          9
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
+    "title_res_tag": "VeritasAcademyCoreActivity_subtitle_3",
+    "type": 86
+  },
+  "51413": {
+    "config_client": "",
+    "config_data": [
+      68771,
+      68772,
+      68773,
+      68774
+    ],
+    "config_id": 3,
+    "id": 51413,
+    "is_show": 0,
+    "login_pop": 0,
+    "mark": 20261124,
+    "page_core": "",
+    "page_info": "",
+    "time": [
+      "timer",
+      [
+        [
+          2026,
+          11,
+          24
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2027,
+          1,
+          6
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
+    "title_res_tag": "",
+    "type": 21
+  },
   "51601": {
     "config_client": {
       "PT_ACT": 51607,
@@ -80502,6 +81264,48 @@
     "title_res_tag": "Georgia_catchup",
     "type": 69
   },
+  "51689": {
+    "config_client": "",
+    "config_data": [
+      29212
+    ],
+    "config_id": 0,
+    "id": 51689,
+    "is_show": 0,
+    "login_pop": 0,
+    "mark": 20261124,
+    "page_core": "",
+    "page_info": "",
+    "time": [
+      "timer",
+      [
+        [
+          2026,
+          11,
+          24
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          2026,
+          12,
+          9
+        ],
+        [
+          23,
+          59,
+          59
+        ]
+      ]
+    ],
+    "title_res_tag": "",
+    "type": 13
+  },
   "51690": {
     "config_client": "",
     "config_data": [
@@ -80531,8 +81335,8 @@
       [
         [
           2026,
-          11,
-          25
+          12,
+          9
         ],
         [
           23,
@@ -87212,7 +88016,6 @@
     51615,
     51616,
     51163,
-    7000,
     51301,
     51302,
     51303,
@@ -87220,8 +88023,22 @@
     51305,
     51306,
     51307,
+    51401,
+    51402,
+    51403,
+    51404,
+    51405,
+    51406,
+    51407,
+    51408,
+    51409,
+    51410,
+    51412,
+    51413,
     51688,
+    51689,
     51690,
+    7000,
     7001,
     7011,
     7012,
@@ -87244,6 +88061,7 @@
     7029,
     7030,
     7031,
+    7032,
     7101,
     7103,
     7104,
@@ -87279,6 +88097,8 @@
     8112,
     8125,
     8126,
+    8140,
+    8141,
     1092,
     1093,
     1094,
@@ -88233,6 +89053,7 @@
       51103,
       51147,
       51612,
+      51401,
       30006,
       30014,
       30024,
@@ -88325,6 +89146,7 @@
       8100,
       8111,
       8125,
+      8140,
       30047,
       30093,
       30124,
@@ -88843,6 +89665,10 @@
       51301,
       51306,
       51307,
+      51405,
+      51406,
+      51409,
+      51689,
       51690,
       1103,
       1104,
@@ -89156,6 +89982,7 @@
       51138,
       51157,
       51603,
+      51407,
       30015,
       30023,
       30044,
@@ -89442,6 +90269,7 @@
       50422,
       50493,
       50810,
+      51413,
       30027,
       30127,
       30166,
@@ -89607,6 +90435,7 @@
       51140,
       51610,
       51614,
+      51408,
       30003,
       30033,
       30045,
@@ -89657,6 +90486,7 @@
       8101,
       8112,
       8126,
+      8141,
       30400,
       30720,
       30865,
@@ -89864,7 +90694,8 @@
       7028,
       7029,
       7030,
-      7031
+      7031,
+      7032
     ],
     "55": [
       5010,
@@ -90351,7 +91182,8 @@
       50290,
       50301,
       50412,
-      50662
+      50662,
+      51412
     ],
     "87": [
       4903,
@@ -90422,14 +91254,16 @@
       50351,
       50521,
       50522,
-      51071
+      51071,
+      51402
     ],
     "94": [
       5403,
       5889,
       50014,
       50352,
-      51072
+      51072,
+      51403
     ],
     "100": [
       5561,
@@ -90465,7 +91299,8 @@
       51117,
       51152,
       51615,
-      51302
+      51302,
+      51410
     ],
     "104": [
       4963
@@ -90618,6 +91453,7 @@
     ],
     "174": [
       51607,
+      51404,
       1000001,
       1000021,
       1000041,

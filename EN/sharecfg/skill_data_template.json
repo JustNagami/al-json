@@ -113150,6 +113150,34 @@
       1
     ]
   },
+  "30751": {
+    "desc": "Activates All Out Assault I: Molotov once every 12 times the Main Guns are fired.",
+    "desc_add": [],
+    "desc_get": "",
+    "desc_get_add": [],
+    "id": 30751,
+    "max_level": 1,
+    "name": "All Out Assault I",
+    "system_transform": [],
+    "type": 1,
+    "world_death_mark": [
+      1
+    ]
+  },
+  "30752": {
+    "desc": "Activates All Out Assault II: Molotov once every 8 times the Main Guns are fired.",
+    "desc_add": [],
+    "desc_get": "",
+    "desc_get_add": [],
+    "id": 30752,
+    "max_level": 1,
+    "name": "All Out Assault II",
+    "system_transform": [],
+    "type": 1,
+    "world_death_mark": [
+      1
+    ]
+  },
   "60100": {
     "desc": "When equipped by a Royal Navy ship: increases that ship's Evasion Rate by 5.0%.",
     "desc_add": [],
@@ -114768,6 +114796,20 @@
     "id": 61170,
     "max_level": 0,
     "name": "Power from the Depths",
+    "system_transform": [],
+    "type": 0,
+    "world_death_mark": [
+      1
+    ]
+  },
+  "61180": {
+    "desc": "For the first 30s of battle: increases the frontmost Vanguard ship's FP and TRP by 3.0%, and reduces her DMG taken by 3.0%.",
+    "desc_add": [],
+    "desc_get": "",
+    "desc_get_add": [],
+    "id": 61180,
+    "max_level": 0,
+    "name": "Mage's Grimoire",
     "system_transform": [],
     "type": 0,
     "world_death_mark": [
@@ -176371,6 +176413,299 @@
       1
     ]
   },
+  "152990": {
+    "desc": "During battle, increases the loading time of this ship's Main Guns by 25.0%; however, when this ship fires her Main Guns for the first time each battle, she gains Main Gun base +1 and +$3 FP until the end of battle.\nOnce per battle, if this ship's total DMG taken reaches 5.0% of her Max HP, she gains the following effect: [Until the end of battle, whenever this ship fires her Main Guns: fires an additional $1 special barrage (DMG is based on the skill's level).]\nWhen this ship takes DMG while her Main Guns are reloading: increases the FP and ACC of her next Main Gun attack by $2 (stacks up to 5 times).",
+    "desc_add": [
+      [
+        [
+          "Lv.1"
+        ],
+        [
+          "Lv.2"
+        ],
+        [
+          "Lv.3"
+        ],
+        [
+          "Lv.4"
+        ],
+        [
+          "Lv.5"
+        ],
+        [
+          "Lv.6"
+        ],
+        [
+          "Lv.7"
+        ],
+        [
+          "Lv.8"
+        ],
+        [
+          "Lv.9"
+        ],
+        [
+          "Lv.10"
+        ]
+      ],
+      [
+        [
+          "1.0%",
+          "+0.2%"
+        ],
+        [
+          "1.2%",
+          "+0.2%"
+        ],
+        [
+          "1.4%",
+          "+0.2%"
+        ],
+        [
+          "1.6%",
+          "+0.2%"
+        ],
+        [
+          "1.8%",
+          "+0.2%"
+        ],
+        [
+          "2.0%",
+          "+0.2%"
+        ],
+        [
+          "2.2%",
+          "+0.2%"
+        ],
+        [
+          "2.4%",
+          "+0.3%"
+        ],
+        [
+          "2.7%",
+          "+0.3%"
+        ],
+        [
+          "3.0%"
+        ]
+      ],
+      [
+        [
+          "5.0%",
+          "+1.1%"
+        ],
+        [
+          "6.1%",
+          "+1.1%"
+        ],
+        [
+          "7.2%",
+          "+1.1%"
+        ],
+        [
+          "8.3%",
+          "+1.1%"
+        ],
+        [
+          "9.4%",
+          "+1.1%"
+        ],
+        [
+          "10.5%",
+          "+1.1%"
+        ],
+        [
+          "11.6%",
+          "+1.1%"
+        ],
+        [
+          "12.7%",
+          "+1.1%"
+        ],
+        [
+          "13.8%",
+          "+1.2%"
+        ],
+        [
+          "15.0%"
+        ]
+      ]
+    ],
+    "desc_get": "",
+    "desc_get_add": [
+      [
+        "Lv.1",
+        "Lv.10"
+      ],
+      [
+        "1.0%",
+        "3.0%"
+      ],
+      [
+        "5.0%",
+        "15.0%"
+      ]
+    ],
+    "id": 152990,
+    "max_level": 10,
+    "name": "The Decadent Little Imp",
+    "system_transform": [],
+    "type": 3,
+    "world_death_mark": [
+      1
+    ]
+  },
+  "153000": {
+    "desc": "During battle, reduces this ship's SPD by 10, and absorbs $1 of the DMG taken by the frontmost Vanguard ship.\nOnce per battle, when this ship's HP falls below 60.0% as a result of DMG taken: this ship enters the [Masochistic] state for 10s (20s cooldown between activations).\nWhile this ship is in the [Masochistic] state: this ship is unable to fire her secondary guns, but her DMG absorption effect is increased to $2 and now covers the entire Vanguard fleet. When the [Masochistic] state ends: restores HP equal to $3 of the total DMG taken during the [Masochistic] state.",
+    "desc_add": [
+      [
+        [
+          "5.0%",
+          "+0.5%"
+        ],
+        [
+          "5.5%",
+          "+0.5%"
+        ],
+        [
+          "6.0%",
+          "+0.5%"
+        ],
+        [
+          "6.5%",
+          "+0.5%"
+        ],
+        [
+          "7.0%",
+          "+0.5%"
+        ],
+        [
+          "7.5%",
+          "+0.5%"
+        ],
+        [
+          "8.0%",
+          "+0.5%"
+        ],
+        [
+          "8.5%",
+          "+0.5%"
+        ],
+        [
+          "9.0%",
+          "+1%"
+        ],
+        [
+          "10.0%"
+        ]
+      ],
+      [
+        [
+          "10.0%",
+          "+0.4%"
+        ],
+        [
+          "10.4%",
+          "+0.4%"
+        ],
+        [
+          "10.8%",
+          "+0.7%"
+        ],
+        [
+          "11.5%",
+          "+0.4%"
+        ],
+        [
+          "11.9%",
+          "+0.4%"
+        ],
+        [
+          "12.3%",
+          "+0.7%"
+        ],
+        [
+          "13.0%",
+          "+0.6%"
+        ],
+        [
+          "13.6%",
+          "+0.6%"
+        ],
+        [
+          "14.2%",
+          "+0.8%"
+        ],
+        [
+          "15.0%"
+        ]
+      ],
+      [
+        [
+          "20.0%",
+          "+3.3%"
+        ],
+        [
+          "23.3%",
+          "+3.3%"
+        ],
+        [
+          "26.6%",
+          "+3.3%"
+        ],
+        [
+          "29.9%",
+          "+3.3%"
+        ],
+        [
+          "33.2%",
+          "+3.3%"
+        ],
+        [
+          "36.5%",
+          "+3.3%"
+        ],
+        [
+          "39.8%",
+          "+3.3%"
+        ],
+        [
+          "43.1%",
+          "+3.3%"
+        ],
+        [
+          "46.4%",
+          "+3.6%"
+        ],
+        [
+          "50.0%"
+        ]
+      ]
+    ],
+    "desc_get": "",
+    "desc_get_add": [
+      [
+        "5.0%",
+        "10.0%"
+      ],
+      [
+        "10.0%",
+        "15.0%"
+      ],
+      [
+        "20.0%",
+        "50.0%"
+      ]
+    ],
+    "id": 153000,
+    "max_level": 10,
+    "name": "Masochistic Delusions",
+    "system_transform": [],
+    "type": 2,
+    "world_death_mark": [
+      1
+    ]
+  },
   "153010": {
     "desc": "At the start of battle: increases this ship's FP by $1, ACC by $2, and changes this ship's Armor type to Medium. Every 15s: fires a $3 special barrage (DMG is based on the skill's level).",
     "desc_add": [
@@ -176816,6 +177151,544 @@
     "name": "By Mercury's Name",
     "system_transform": [],
     "type": 0,
+    "world_death_mark": [
+      1
+    ]
+  },
+  "153060": {
+    "desc": "At the start of battle, increases this ship's FP and RLD by $1. When this ship fires her Main Guns: $2 chance to fire a $3 special barrage (DMG is based on the skill's level), reducing the ACC of enemies hit by this barrage by 10.0% for 8s.",
+    "desc_add": [
+      [
+        [
+          "5.0%",
+          "+1.1%"
+        ],
+        [
+          "6.1%",
+          "+1.1%"
+        ],
+        [
+          "7.2%",
+          "+1.1%"
+        ],
+        [
+          "8.3%",
+          "+1.1%"
+        ],
+        [
+          "9.4%",
+          "+1.1%"
+        ],
+        [
+          "10.5%",
+          "+1.1%"
+        ],
+        [
+          "11.6%",
+          "+1.1%"
+        ],
+        [
+          "12.7%",
+          "+1.1%"
+        ],
+        [
+          "13.8%",
+          "+1.2%"
+        ],
+        [
+          "15.0%"
+        ]
+      ],
+      [
+        [
+          "40.0%",
+          "+3.3%"
+        ],
+        [
+          "43.3%",
+          "+3.3%"
+        ],
+        [
+          "46.6%",
+          "+3.3%"
+        ],
+        [
+          "49.9%",
+          "+3.3%"
+        ],
+        [
+          "53.2%",
+          "+3.3%"
+        ],
+        [
+          "56.5%",
+          "+3.3%"
+        ],
+        [
+          "59.8%",
+          "+3.3%"
+        ],
+        [
+          "63.1%",
+          "+3.3%"
+        ],
+        [
+          "66.4%",
+          "+3.6%"
+        ],
+        [
+          "70%"
+        ]
+      ],
+      [
+        [
+          "Lv.1"
+        ],
+        [
+          "Lv.2"
+        ],
+        [
+          "Lv.3"
+        ],
+        [
+          "Lv.4"
+        ],
+        [
+          "Lv.5"
+        ],
+        [
+          "Lv.6"
+        ],
+        [
+          "Lv.7"
+        ],
+        [
+          "Lv.8"
+        ],
+        [
+          "Lv.9"
+        ],
+        [
+          "Lv.10"
+        ]
+      ]
+    ],
+    "desc_get": "",
+    "desc_get_add": [
+      [
+        "5.0%",
+        "15.0%"
+      ],
+      [
+        "40.0%",
+        "70.0%"
+      ],
+      [
+        "Lv.1",
+        "Lv.10"
+      ]
+    ],
+    "id": 153060,
+    "max_level": 10,
+    "name": "Explosions are my Art",
+    "system_transform": [],
+    "type": 1,
+    "world_death_mark": [
+      1
+    ]
+  },
+  "153070": {
+    "desc": "At the start of battle, if there are no other ships in the Main Fleet: increases this ship's DMG dealt by $1, and reduces the loading time of her first Main Gun salvo by $2.If there are at least 2 ships in the Main Fleet: reduces this ship's DMG taken by $1.",
+    "desc_add": [
+      [
+        [
+          "5.0%",
+          "+1.1%"
+        ],
+        [
+          "6.1%",
+          "+1.1%"
+        ],
+        [
+          "7.2%",
+          "+1.1%"
+        ],
+        [
+          "8.3%",
+          "+1.1%"
+        ],
+        [
+          "9.4%",
+          "+1.1%"
+        ],
+        [
+          "10.5%",
+          "+1.1%"
+        ],
+        [
+          "11.6%",
+          "+1.1%"
+        ],
+        [
+          "12.7%",
+          "+1.1%"
+        ],
+        [
+          "13.8%",
+          "+1.2%"
+        ],
+        [
+          "15.0%"
+        ]
+      ],
+      [
+        [
+          "50.0%",
+          "+3.3%"
+        ],
+        [
+          "53.3%",
+          "+3.3%"
+        ],
+        [
+          "56.6%",
+          "+3.3%"
+        ],
+        [
+          "59.9%",
+          "+3.3%"
+        ],
+        [
+          "63.2%",
+          "+3.3%"
+        ],
+        [
+          "66.5%",
+          "+3.3%"
+        ],
+        [
+          "69.8%",
+          "+3.3%"
+        ],
+        [
+          "73.1%",
+          "+3.3%"
+        ],
+        [
+          "76.4%",
+          "+3.6%"
+        ],
+        [
+          "80.0%"
+        ]
+      ]
+    ],
+    "desc_get": "",
+    "desc_get_add": [
+      [
+        "5.0%",
+        "15.0%"
+      ],
+      [
+        "50.0%",
+        "80.0%"
+      ]
+    ],
+    "id": 153070,
+    "max_level": 10,
+    "name": "Collecting is my Uniqueness",
+    "system_transform": [],
+    "type": 3,
+    "world_death_mark": [
+      1
+    ]
+  },
+  "153080": {
+    "desc": "",
+    "desc_add": [],
+    "desc_get": "",
+    "desc_get_add": [],
+    "id": 153080,
+    "max_level": 0,
+    "name": "锡诺普跨射底座-1",
+    "system_transform": [],
+    "type": 0,
+    "world_death_mark": [
+      1
+    ]
+  },
+  "153081": {
+    "desc": "",
+    "desc_add": [],
+    "desc_get": "",
+    "desc_get_add": [],
+    "id": 153081,
+    "max_level": 0,
+    "name": "锡诺普跨射底座-2",
+    "system_transform": [],
+    "type": 0,
+    "world_death_mark": [
+      1
+    ]
+  },
+  "153082": {
+    "desc": "",
+    "desc_add": [],
+    "desc_get": "",
+    "desc_get_add": [],
+    "id": 153082,
+    "max_level": 0,
+    "name": "锡诺普跨射底座-3",
+    "system_transform": [],
+    "type": 0,
+    "world_death_mark": [
+      1
+    ]
+  },
+  "153090": {
+    "desc": "Sets the targeting range and firing range of this ship's equipped Main Guns to 80 and increases this ship's DMG against Heavy armor by $1. During battle, every time this ship fires her Main Guns 5 times: fires an additional $2 special shell (DMG is based on the skill's level); every 2 times this special shell is fired: fires an additional $2 special barrage (DMG is based on the skill's level) that inflicts a special Burn on all enemies hit, dealing 160 DMG per second for 8s. When this special barrage is fired: removes any normal Burn effects on this ship.",
+    "desc_add": [
+      [
+        [
+          "5.0%",
+          "+1.6%"
+        ],
+        [
+          "6.6%",
+          "+1.6%"
+        ],
+        [
+          "8.2%",
+          "+1.8%"
+        ],
+        [
+          "10.0%",
+          "+1.6%"
+        ],
+        [
+          "11.6%",
+          "+1.6%"
+        ],
+        [
+          "13.2%",
+          "+1.8%"
+        ],
+        [
+          "15.0%",
+          "+1.6%"
+        ],
+        [
+          "16.6%",
+          "+1.6%"
+        ],
+        [
+          "18.2%",
+          "+1.8%"
+        ],
+        [
+          "20.0%"
+        ]
+      ],
+      [
+        [
+          "Lv.1"
+        ],
+        [
+          "Lv.2"
+        ],
+        [
+          "Lv.3"
+        ],
+        [
+          "Lv.4"
+        ],
+        [
+          "Lv.5"
+        ],
+        [
+          "Lv.6"
+        ],
+        [
+          "Lv.7"
+        ],
+        [
+          "Lv.8"
+        ],
+        [
+          "Lv.9"
+        ],
+        [
+          "Lv.10"
+        ]
+      ]
+    ],
+    "desc_get": "",
+    "desc_get_add": [
+      [
+        "5.0%",
+        "20.0%"
+      ],
+      [
+        "Lv.1",
+        "Lv.10"
+      ]
+    ],
+    "id": 153090,
+    "max_level": 10,
+    "name": "Banner-Burner's Bullet",
+    "system_transform": [],
+    "type": 1,
+    "world_death_mark": [
+      1
+    ]
+  },
+  "153100": {
+    "desc": "If there are other Northern Parliament ships in the fleet: reduces all Northern Parliament ships' Burn DMG taken by $1. Every 5s during battle, or whenever this ship fires her AA guns: increases this ship's AA by $2 until the end of combat (stacks up to 3 times); when this effect reaches 3 stacks: reduces this ship's DMG taken by $3 until the end of battle, and restores 5.0% of the Vanguard fleet's Max HP.",
+    "desc_add": [
+      [
+        [
+          "5.0%",
+          "+1.1%"
+        ],
+        [
+          "6.1%",
+          "+1.1%"
+        ],
+        [
+          "7.2%",
+          "+1.1%"
+        ],
+        [
+          "8.3%",
+          "+1.1%"
+        ],
+        [
+          "9.4%",
+          "+1.1%"
+        ],
+        [
+          "10.5%",
+          "+1.1%"
+        ],
+        [
+          "11.6%",
+          "+1.1%"
+        ],
+        [
+          "12.7%",
+          "+1.1%"
+        ],
+        [
+          "13.8%",
+          "+1.2%"
+        ],
+        [
+          "15.0%"
+        ]
+      ],
+      [
+        [
+          "1.5%",
+          "+0.5%"
+        ],
+        [
+          "2.0%",
+          "+0.5%"
+        ],
+        [
+          "2.5%",
+          "+0.5%"
+        ],
+        [
+          "3.0%",
+          "+0.5%"
+        ],
+        [
+          "3.5%",
+          "+0.5%"
+        ],
+        [
+          "4.0%",
+          "+0.5%"
+        ],
+        [
+          "4.5%",
+          "+0.5%"
+        ],
+        [
+          "5.0%",
+          "+0.5%"
+        ],
+        [
+          "5.5%",
+          "+0.5%"
+        ],
+        [
+          "6.0%"
+        ]
+      ],
+      [
+        [
+          "1.0%",
+          "+1.0%"
+        ],
+        [
+          "2.0%",
+          "+1.0%"
+        ],
+        [
+          "3.0%",
+          "+1.0%"
+        ],
+        [
+          "4.0%",
+          "+1.0%"
+        ],
+        [
+          "5.0%",
+          "+1.0%"
+        ],
+        [
+          "6.0%",
+          "+1.0%"
+        ],
+        [
+          "7.0%",
+          "+1.0%"
+        ],
+        [
+          "8.0%",
+          "+1.0%"
+        ],
+        [
+          "9.0%",
+          "+1.0%"
+        ],
+        [
+          "10.0%"
+        ]
+      ]
+    ],
+    "desc_get": "",
+    "desc_get_add": [
+      [
+        "5.0%",
+        "15.0%"
+      ],
+      [
+        "1.5%",
+        "6.0%"
+      ],
+      [
+        "1.0%",
+        "10.0%"
+      ]
+    ],
+    "id": 153100,
+    "max_level": 10,
+    "name": "Praxis of Mutual Aid",
+    "system_transform": [],
+    "type": 2,
     "world_death_mark": [
       1
     ]
@@ -201711,6 +202584,363 @@
       "51": 802407
     },
     "type": 4,
+    "world_death_mark": [
+      1
+    ]
+  },
+  "802410": {
+    "desc": "At the start of battle, increases this ship's AA and ASW by $1. Every 20s during battle: restores $3 HP to the Iris or Vichya ship with the lowest HP percentage in the fleet, and activates one of the following effects:\n1) Increases this ship's FP and TRP by $2 for 10s;2) Increases this ship's Crit Rate and Crit DMG by $2 for 10s;3) Increases this ship's ACC and RLD by $2 for 10s.",
+    "desc_add": [
+      [
+        [
+          "1.0%",
+          "+1.0%"
+        ],
+        [
+          "2.0%",
+          "+1.0%"
+        ],
+        [
+          "3.0%",
+          "+1.0%"
+        ],
+        [
+          "4.0%",
+          "+1.0%"
+        ],
+        [
+          "5.0%",
+          "+1.0%"
+        ],
+        [
+          "6.0%",
+          "+1.0%"
+        ],
+        [
+          "7.0%",
+          "+1.0%"
+        ],
+        [
+          "8.0%",
+          "+1.0%"
+        ],
+        [
+          "9.0%",
+          "+1.0%"
+        ],
+        [
+          "10.0%"
+        ]
+      ],
+      [
+        [
+          "10.0%",
+          "+1.1%"
+        ],
+        [
+          "11.1%",
+          "+1.1%"
+        ],
+        [
+          "12.2%",
+          "+1.1%"
+        ],
+        [
+          "13.3%",
+          "+1.1%"
+        ],
+        [
+          "14.4%",
+          "+1.1%"
+        ],
+        [
+          "15.5%",
+          "+1.1%"
+        ],
+        [
+          "16.6%",
+          "+1.1%"
+        ],
+        [
+          "17.7%",
+          "+1.1%"
+        ],
+        [
+          "18.8%",
+          "+1.2%"
+        ],
+        [
+          "20.0%"
+        ]
+      ],
+      [
+        [
+          "1.0%",
+          "+0.4%"
+        ],
+        [
+          "1.4%",
+          "+0.4%"
+        ],
+        [
+          "1.8%",
+          "+0.4%"
+        ],
+        [
+          "2.2%",
+          "+0.4%"
+        ],
+        [
+          "2.6%",
+          "+0.4%"
+        ],
+        [
+          "3.0%",
+          "+0.5%"
+        ],
+        [
+          "3.5%",
+          "+0.5%"
+        ],
+        [
+          "4.0%",
+          "+0.5%"
+        ],
+        [
+          "4.5%",
+          "+0.5%"
+        ],
+        [
+          "5.0%"
+        ]
+      ]
+    ],
+    "desc_get": "",
+    "desc_get_add": [
+      [
+        "1.0%",
+        "10.0%"
+      ],
+      [
+        "10.0%",
+        "20.0%"
+      ],
+      [
+        "1.0%",
+        "5.0%"
+      ]
+    ],
+    "id": 802410,
+    "max_level": 10,
+    "name": "Judgment upon Sinners",
+    "system_transform": [],
+    "type": 1,
+    "world_death_mark": [
+      1
+    ]
+  },
+  "802420": {
+    "desc": "At the start of battle, increases this ship's Main Gun and Torpedo efficiency by $1. When this ship fires her torpedoes: fires an additional $2 special barrage (DMG is based on the skill's level). Enemies hit by this barrage take $3 more DMG from Kersaint META for 8s.",
+    "desc_add": [
+      [
+        [
+          "1.0%",
+          "+1.0%"
+        ],
+        [
+          "2.0%",
+          "+1.0%"
+        ],
+        [
+          "3.0%",
+          "+1.0%"
+        ],
+        [
+          "4.0%",
+          "+1.0%"
+        ],
+        [
+          "5.0%",
+          "+1.0%"
+        ],
+        [
+          "6.0%",
+          "+1.0%"
+        ],
+        [
+          "7.0%",
+          "+1.0%"
+        ],
+        [
+          "8.0%",
+          "+1.0%"
+        ],
+        [
+          "9.0%",
+          "+1.0%"
+        ],
+        [
+          "10.0%"
+        ]
+      ],
+      [
+        [
+          "Lv.1"
+        ],
+        [
+          "Lv.2"
+        ],
+        [
+          "Lv.3"
+        ],
+        [
+          "Lv.4"
+        ],
+        [
+          "Lv.5"
+        ],
+        [
+          "Lv.6"
+        ],
+        [
+          "Lv.7"
+        ],
+        [
+          "Lv.8"
+        ],
+        [
+          "Lv.9"
+        ],
+        [
+          "Lv.10"
+        ]
+      ],
+      [
+        [
+          "4.5%",
+          "+0.7%"
+        ],
+        [
+          "5.2%",
+          "+0.8%"
+        ],
+        [
+          "6.0%",
+          "+1.0%"
+        ],
+        [
+          "7.0%",
+          "+0.7%"
+        ],
+        [
+          "7.7%",
+          "+0.8%"
+        ],
+        [
+          "8.5%",
+          "+1.0%"
+        ],
+        [
+          "9.5%",
+          "+0.7%"
+        ],
+        [
+          "10.2%",
+          "+0.8%"
+        ],
+        [
+          "11.0%",
+          "+1.0%"
+        ],
+        [
+          "12.0%"
+        ]
+      ]
+    ],
+    "desc_get": "",
+    "desc_get_add": [
+      [
+        "1.0%",
+        "10.0%"
+      ],
+      [
+        "Lv.1",
+        "Lv.10"
+      ],
+      [
+        "4.5%",
+        "12.0%"
+      ]
+    ],
+    "id": 802420,
+    "max_level": 10,
+    "name": "Sin-Eaters' Purgation",
+    "system_transform": [],
+    "type": 3,
+    "world_death_mark": [
+      1
+    ]
+  },
+  "802431": {
+    "desc": "Every 15 times this ship fires her Main Guns: fires a special barrage.",
+    "desc_add": [],
+    "desc_get": "",
+    "desc_get_add": [],
+    "id": 802431,
+    "max_level": 1,
+    "name": "Cinders of Hope - Kersaint I",
+    "system_transform": {
+      "51": 802435
+    },
+    "type": 3,
+    "world_death_mark": [
+      1
+    ]
+  },
+  "802432": {
+    "desc": "Every 10 times this ship fires her Main Guns: fires a special barrage.",
+    "desc_add": [],
+    "desc_get": "",
+    "desc_get_add": [],
+    "id": 802432,
+    "max_level": 1,
+    "name": "Cinders of Hope - Kersaint II",
+    "system_transform": {
+      "51": 802437
+    },
+    "type": 3,
+    "world_death_mark": [
+      1
+    ]
+  },
+  "802435": {
+    "desc": "[Operation Siren]\n Every 15 times this ship fires her Main Guns: fires a special barrage. When fighting humanoid Siren fleets or Boss fleets: reduces this ship's DMG taken by 2.0%.",
+    "desc_add": [],
+    "desc_get": "",
+    "desc_get_add": [],
+    "id": 802435,
+    "max_level": 1,
+    "name": "Cinders of Hope - Kersaint I",
+    "system_transform": {
+      "51": 802435
+    },
+    "type": 3,
+    "world_death_mark": [
+      1
+    ]
+  },
+  "802437": {
+    "desc": "[Operation Siren]\n Every 10 times this ship fires her Main Guns: fires a special barrage. When fighting humanoid Siren fleets or Boss fleets: reduces this ship's DMG taken by 6.0%.",
+    "desc_add": [],
+    "desc_get": "",
+    "desc_get_add": [],
+    "id": 802437,
+    "max_level": 1,
+    "name": "Cinders of Hope - Kersaint II",
+    "system_transform": {
+      "51": 802437
+    },
+    "type": 3,
     "world_death_mark": [
       1
     ]
@@ -226670,6 +227900,7 @@
     61150,
     61160,
     61170,
+    61180,
     7000,
     9010,
     9020,
@@ -227772,10 +229003,19 @@
     152960,
     152970,
     152980,
+    152990,
+    153000,
     153050,
     153010,
     153020,
     153030,
+    153060,
+    153070,
+    153080,
+    153081,
+    153082,
+    153090,
+    153100,
     18010,
     18040,
     18050,
@@ -228532,6 +229772,8 @@
     30732,
     30741,
     30742,
+    30751,
+    30752,
     101010,
     101020,
     101030,
@@ -229290,6 +230532,12 @@
     802402,
     802405,
     802407,
+    802410,
+    802420,
+    802431,
+    802432,
+    802435,
+    802437,
     802340,
     802350,
     802361,

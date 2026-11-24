@@ -1008309,7 +1008309,17 @@
           "onSubLeader"
         ],
         "arg_list": {
-          "skill_id": 40060
+          "skill_id": 40060,
+          "minTargetNumber": 1,
+          "check_target": [
+            "TargetPlayerFlagShip",
+            "TargetShipType"
+          ],
+          "ship_type_list": [
+            4,
+            5,
+            10
+          ]
         }
       }
     ]
@@ -1008633,7 +1008643,7 @@
   },
   "buff_40110": {
     "init_effect": "",
-    "name": "航母-指挥-航空II+航母-指挥-装填II",
+    "name": "航母-指挥-航空I+航母-指挥-装填I",
     "time": 0,
     "color": "yellow",
     "picture": "",
@@ -1008656,11 +1008666,11 @@
   },
   "buff_40111": {
     "init_effect": "",
-    "name": "航母-指挥-航空II+航母-指挥-装填II具体效果",
+    "name": "航母-指挥-航空I+航母-指挥-装填I具体效果",
     "time": 0,
     "color": "yellow",
     "picture": "",
-    "desc": "战列-炮击-指挥I+战列-命中-指挥II",
+    "desc": "航母-指挥-航空I+航母-指挥-装填I",
     "stack": 1,
     "id": 40111,
     "icon": 40111,
@@ -1008673,7 +1008683,7 @@
         ],
         "arg_list": {
           "ability": "command",
-          "convertRate": 0.8,
+          "convertRate": 0.4,
           "convertAttr": "airPower"
         }
       },
@@ -1008684,7 +1008694,7 @@
         ],
         "arg_list": {
           "ability": "command",
-          "convertRate": 0.8,
+          "convertRate": 0.4,
           "convertAttr": "loadSpeed"
         }
       }
@@ -1009439,7 +1009449,7 @@
   },
   "buff_40240": {
     "init_effect": "",
-    "name": "庞德喵：战列-指挥-炮击II+战列-指挥-命中II",
+    "name": "庞德喵：战列-指挥-炮击II+战列-指挥-防空II",
     "time": 0,
     "color": "yellow",
     "picture": "",
@@ -1009462,7 +1009472,7 @@
   },
   "buff_40241": {
     "init_effect": "",
-    "name": "战列-指挥-炮击II+战列-指挥-命中II",
+    "name": "战列-指挥-炮击II+战列-指挥-防空II",
     "time": 0,
     "color": "yellow",
     "picture": "",
@@ -1009491,7 +1009501,7 @@
         "arg_list": {
           "ability": "command",
           "convertRate": 0.8,
-          "convertAttr": "attackRating"
+          "convertAttr": "antiAirPower"
         }
       }
     ]
@@ -1009948,7 +1009958,7 @@
     "time": 0,
     "color": "yellow",
     "picture": "",
-    "desc": "战列受到炮击减伤,+装填",
+    "desc": "战列受到伤害降低,+装填",
     "stack": 1,
     "id": 40310,
     "icon": 40310,
@@ -1009971,7 +1009981,7 @@
     "time": 0,
     "color": "yellow",
     "picture": "",
-    "desc": "战列受到炮击减伤,+装填",
+    "desc": "战列受到伤害降低,+装填",
     "stack": 1,
     "id": 40311,
     "icon": 40310,
@@ -1009985,7 +1009995,7 @@
         "arg_list": {
           "ability": "support",
           "convertRate": -0.00025,
-          "convertAttr": "injureRatioByCannon"
+          "convertAttr": "injureRatio"
         }
       },
       {
@@ -1010212,7 +1010222,8 @@
       {
         "type": "BattleBuffAddAttrRatioCommander",
         "trigger": [
-          "onAttach"
+          "onAttach",
+          "onRemove"
         ],
         "arg_list": {
           "ability": "tactic",
@@ -1010299,7 +1010310,7 @@
           "onAttach"
         ],
         "arg_list": {
-          "rant": 5000,
+          "rant": 10000,
           "quota": 1,
           "skill_id": 40351
         }
@@ -1010591,7 +1010602,7 @@
     "time": 0,
     "color": "yellow",
     "picture": "",
-    "desc": "战列风帆-指挥-暴击II+战列风帆-指挥-命中II",
+    "desc": "战列风帆-指挥-炮击II",
     "stack": 1,
     "id": 40400,
     "icon": 40400,
@@ -1010614,7 +1010625,7 @@
     "time": 0,
     "color": "yellow",
     "picture": "",
-    "desc": "战列-指挥-炮击II",
+    "desc": "战列风帆-指挥-炮击II",
     "stack": 1,
     "id": 40401,
     "icon": 40400,
@@ -1015750,7 +1015761,7 @@
   },
   "buff_412220": {
     "init_effect": "",
-    "name": "驱逐-战术-雷击II",
+    "name": "先锋-战术-雷击II",
     "time": 0,
     "color": "yellow",
     "picture": "",
@@ -1015773,11 +1015784,11 @@
   },
   "buff_412221": {
     "init_effect": "",
-    "name": "驱逐-战术-雷击II具体效果",
+    "name": "先锋-战术-雷击II具体效果",
     "time": 0,
     "color": "yellow",
     "picture": "",
-    "desc": "驱逐-战术-雷击II",
+    "desc": "先锋-战术-雷击II",
     "stack": 1,
     "id": 412221,
     "icon": 412221,
@@ -1016307,7 +1016318,7 @@
   },
   "buff_413920": {
     "init_effect": "",
-    "name": "驱逐-后勤-机动II",
+    "name": "驱逐-后勤-机动I",
     "time": 0,
     "color": "yellow",
     "picture": "",
@@ -1016330,11 +1016341,11 @@
   },
   "buff_413921": {
     "init_effect": "",
-    "name": "驱逐-后勤-机动II具体效果",
+    "name": "驱逐-后勤-机动I具体效果",
     "time": 0,
     "color": "yellow",
     "picture": "",
-    "desc": "驱逐-后勤-机动II",
+    "desc": "驱逐-后勤-机动I",
     "stack": 1,
     "id": 413921,
     "icon": 413920,
@@ -1016347,7 +1016358,7 @@
         ],
         "arg_list": {
           "ability": "support",
-          "convertRate": 0.8,
+          "convertRate": 0.4,
           "convertAttr": "dodgeRate"
         }
       }
@@ -1023015,7 +1023026,7 @@
   },
   "buff_432610": {
     "init_effect": "",
-    "name": "战列-战术-装填I",
+    "name": "战列-指挥-装填I",
     "time": 0,
     "color": "yellow",
     "picture": "",
@@ -1023038,11 +1023049,11 @@
   },
   "buff_432611": {
     "init_effect": "",
-    "name": "战列-战术-装填I具体效果",
+    "name": "战列-指挥-装填I具体效果",
     "time": 0,
     "color": "yellow",
     "picture": "",
-    "desc": "战列-战术-装填I",
+    "desc": "战列-指挥-装填I",
     "stack": 1,
     "id": 432611,
     "icon": 432611,
@@ -1023054,7 +1023065,7 @@
           "onAttach"
         ],
         "arg_list": {
-          "ability": "tactic",
+          "ability": "command",
           "convertRate": 0.4,
           "convertAttr": "loadSpeed"
         }
@@ -1236084,6 +1236095,6801 @@
           "target": "TargetSelf",
           "time": 2,
           "skill_id": 201954
+        }
+      }
+    ]
+  },
+  "buff_152990": {
+    "effect_list": [
+      {
+        "type": "BattleBuffAddReloadRequirement",
+        "trigger": [
+          "onAttach",
+          "onRemove"
+        ],
+        "arg_list": {
+          "type": 23,
+          "number": 0.25
+        }
+      },
+      {
+        "type": "BattleBuffCount",
+        "trigger": [
+          "onTakeDamage"
+        ],
+        "arg_list": {
+          "maxHPRatio": 0.05,
+          "countType": 152990
+        }
+      },
+      {
+        "type": "BattleBuffCastSkill",
+        "trigger": [
+          "onBattleBuffCount"
+        ],
+        "arg_list": {
+          "quota": 1,
+          "target": "TargetSelf",
+          "skill_id": 152990,
+          "countType": 152990
+        }
+      },
+      {
+        "type": "BattleBuffAddBuff",
+        "trigger": [
+          "onChargeWeaponFire"
+        ],
+        "arg_list": {
+          "buff_id": 152995,
+          "quota": 1,
+          "target": "TargetSelf"
+        }
+      },
+      {
+        "type": "BattleBuffAddBuff",
+        "trigger": [
+          "onAttach"
+        ],
+        "arg_list": {
+          "buff_id": 152992
+        }
+      },
+      {
+        "type": "BattleBuffCleanse",
+        "trigger": [
+          "onChargeWeaponReady"
+        ],
+        "arg_list": {
+          "buff_id_list": [
+            152992
+          ]
+        }
+      },
+      {
+        "type": "BattleBuffAddBuff",
+        "trigger": [
+          "onChargeWeaponFire"
+        ],
+        "arg_list": {
+          "buff_id": 152992
+        }
+      }
+    ],
+    "1": [],
+    "2": [],
+    "3": [],
+    "4": [],
+    "5": [],
+    "6": [],
+    "7": [],
+    "8": [],
+    "9": [],
+    "10": [],
+    "desc_get": "",
+    "name": "",
+    "init_effect": "",
+    "time": 0,
+    "color": "",
+    "picture": "",
+    "desc": "",
+    "stack": 1,
+    "id": 152990,
+    "icon": 152990,
+    "last_effect": ""
+  },
+  "buff_152991": {
+    "effect_list": [
+      {
+        "type": "BattleBuffCastSkill",
+        "trigger": [
+          "onChargeWeaponFire"
+        ],
+        "arg_list": {
+          "skill_id": 152991,
+          "target": "TargetSelf"
+        }
+      }
+    ],
+    "1": [],
+    "2": [],
+    "3": [],
+    "4": [],
+    "5": [],
+    "6": [],
+    "7": [],
+    "8": [],
+    "9": [],
+    "10": [],
+    "desc_get": "",
+    "name": "",
+    "init_effect": "",
+    "time": 0,
+    "color": "",
+    "picture": "",
+    "desc": "",
+    "stack": 1,
+    "id": 152991,
+    "icon": 152990,
+    "last_effect": ""
+  },
+  "buff_152992": {
+    "desc_get": "",
+    "name": "",
+    "init_effect": "",
+    "time": 0,
+    "color": "",
+    "picture": "",
+    "desc": "",
+    "stack": 1,
+    "id": 152992,
+    "icon": 152990,
+    "last_effect": "",
+    "effect_list": [
+      {
+        "type": "BattleBuffAddBuff",
+        "trigger": [
+          "onTakeDamage"
+        ],
+        "arg_list": {
+          "buff_id": 152993,
+          "target": "TargetSelf"
+        }
+      }
+    ]
+  },
+  "buff_152993": {
+    "time": 0,
+    "name": "",
+    "init_effect": "",
+    "stack": 5,
+    "id": 152993,
+    "picture": "",
+    "last_effect": "",
+    "effect_list": [
+      {
+        "type": "BattleBuffAddBuff",
+        "trigger": [
+          "onChargeWeaponFire"
+        ],
+        "pop": [],
+        "arg_list": {
+          "buff_id": 152994,
+          "repeat_count": -1,
+          "target": [
+            "TargetSelf"
+          ]
+        }
+      }
+    ]
+  },
+  "buff_152994": {
+    "effect_list": [
+      {
+        "type": "BattleBuffAddAttrRatio",
+        "trigger": [
+          "onAttach",
+          "onStack",
+          "onRemove"
+        ],
+        "arg_list": {
+          "attr": "cannonPower",
+          "number": 100
+        }
+      },
+      {
+        "type": "BattleBuffAddAttrRatio",
+        "trigger": [
+          "onAttach",
+          "onStack",
+          "onRemove"
+        ],
+        "arg_list": {
+          "attr": "attackRating",
+          "number": 100
+        }
+      }
+    ],
+    "1": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddAttrRatio",
+          "trigger": [
+            "onAttach",
+            "onStack",
+            "onRemove"
+          ],
+          "arg_list": {
+            "attr": "cannonPower",
+            "number": 100
+          }
+        },
+        {
+          "type": "BattleBuffAddAttrRatio",
+          "trigger": [
+            "onAttach",
+            "onStack",
+            "onRemove"
+          ],
+          "arg_list": {
+            "attr": "attackRating",
+            "number": 100
+          }
+        }
+      ]
+    },
+    "2": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddAttrRatio",
+          "trigger": [
+            "onAttach",
+            "onStack",
+            "onRemove"
+          ],
+          "arg_list": {
+            "attr": "cannonPower",
+            "number": 120
+          }
+        },
+        {
+          "type": "BattleBuffAddAttrRatio",
+          "trigger": [
+            "onAttach",
+            "onStack",
+            "onRemove"
+          ],
+          "arg_list": {
+            "attr": "attackRating",
+            "number": 120
+          }
+        }
+      ]
+    },
+    "3": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddAttrRatio",
+          "trigger": [
+            "onAttach",
+            "onStack",
+            "onRemove"
+          ],
+          "arg_list": {
+            "attr": "cannonPower",
+            "number": 140
+          }
+        },
+        {
+          "type": "BattleBuffAddAttrRatio",
+          "trigger": [
+            "onAttach",
+            "onStack",
+            "onRemove"
+          ],
+          "arg_list": {
+            "attr": "attackRating",
+            "number": 140
+          }
+        }
+      ]
+    },
+    "4": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddAttrRatio",
+          "trigger": [
+            "onAttach",
+            "onStack",
+            "onRemove"
+          ],
+          "arg_list": {
+            "attr": "cannonPower",
+            "number": 160
+          }
+        },
+        {
+          "type": "BattleBuffAddAttrRatio",
+          "trigger": [
+            "onAttach",
+            "onStack",
+            "onRemove"
+          ],
+          "arg_list": {
+            "attr": "attackRating",
+            "number": 160
+          }
+        }
+      ]
+    },
+    "5": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddAttrRatio",
+          "trigger": [
+            "onAttach",
+            "onStack",
+            "onRemove"
+          ],
+          "arg_list": {
+            "attr": "cannonPower",
+            "number": 180
+          }
+        },
+        {
+          "type": "BattleBuffAddAttrRatio",
+          "trigger": [
+            "onAttach",
+            "onStack",
+            "onRemove"
+          ],
+          "arg_list": {
+            "attr": "attackRating",
+            "number": 180
+          }
+        }
+      ]
+    },
+    "6": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddAttrRatio",
+          "trigger": [
+            "onAttach",
+            "onStack",
+            "onRemove"
+          ],
+          "arg_list": {
+            "attr": "cannonPower",
+            "number": 200
+          }
+        },
+        {
+          "type": "BattleBuffAddAttrRatio",
+          "trigger": [
+            "onAttach",
+            "onStack",
+            "onRemove"
+          ],
+          "arg_list": {
+            "attr": "attackRating",
+            "number": 200
+          }
+        }
+      ]
+    },
+    "7": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddAttrRatio",
+          "trigger": [
+            "onAttach",
+            "onStack",
+            "onRemove"
+          ],
+          "arg_list": {
+            "attr": "cannonPower",
+            "number": 220
+          }
+        },
+        {
+          "type": "BattleBuffAddAttrRatio",
+          "trigger": [
+            "onAttach",
+            "onStack",
+            "onRemove"
+          ],
+          "arg_list": {
+            "attr": "attackRating",
+            "number": 220
+          }
+        }
+      ]
+    },
+    "8": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddAttrRatio",
+          "trigger": [
+            "onAttach",
+            "onStack",
+            "onRemove"
+          ],
+          "arg_list": {
+            "attr": "cannonPower",
+            "number": 240
+          }
+        },
+        {
+          "type": "BattleBuffAddAttrRatio",
+          "trigger": [
+            "onAttach",
+            "onStack",
+            "onRemove"
+          ],
+          "arg_list": {
+            "attr": "attackRating",
+            "number": 240
+          }
+        }
+      ]
+    },
+    "9": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddAttrRatio",
+          "trigger": [
+            "onAttach",
+            "onStack",
+            "onRemove"
+          ],
+          "arg_list": {
+            "attr": "cannonPower",
+            "number": 270
+          }
+        },
+        {
+          "type": "BattleBuffAddAttrRatio",
+          "trigger": [
+            "onAttach",
+            "onStack",
+            "onRemove"
+          ],
+          "arg_list": {
+            "attr": "attackRating",
+            "number": 270
+          }
+        }
+      ]
+    },
+    "10": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddAttrRatio",
+          "trigger": [
+            "onAttach",
+            "onStack",
+            "onRemove"
+          ],
+          "arg_list": {
+            "attr": "cannonPower",
+            "number": 300
+          }
+        },
+        {
+          "type": "BattleBuffAddAttrRatio",
+          "trigger": [
+            "onAttach",
+            "onStack",
+            "onRemove"
+          ],
+          "arg_list": {
+            "attr": "attackRating",
+            "number": 300
+          }
+        }
+      ]
+    },
+    "init_effect": "jinengchufared",
+    "name": "",
+    "time": 0,
+    "color": "yellow",
+    "picture": "",
+    "desc": "炮击、命中提高",
+    "stack": 5,
+    "id": 152994,
+    "icon": 152990,
+    "last_effect": ""
+  },
+  "buff_152995": {
+    "effect_list": [
+      {
+        "type": "BattleBuffAddAttrRatio",
+        "trigger": [
+          "onAttach",
+          "onStack",
+          "onRemove"
+        ],
+        "arg_list": {
+          "attr": "cannonPower",
+          "number": 500
+        }
+      }
+    ],
+    "1": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddAttrRatio",
+          "pop": [],
+          "trigger": [
+            "onAttach",
+            "onStack",
+            "onRemove"
+          ],
+          "arg_list": {
+            "attr": "cannonPower",
+            "number": 500
+          }
+        }
+      ]
+    },
+    "2": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddAttrRatio",
+          "pop": [],
+          "trigger": [
+            "onAttach",
+            "onStack",
+            "onRemove"
+          ],
+          "arg_list": {
+            "attr": "cannonPower",
+            "number": 610
+          }
+        }
+      ]
+    },
+    "3": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddAttrRatio",
+          "pop": [],
+          "trigger": [
+            "onAttach",
+            "onStack",
+            "onRemove"
+          ],
+          "arg_list": {
+            "attr": "cannonPower",
+            "number": 720
+          }
+        }
+      ]
+    },
+    "4": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddAttrRatio",
+          "pop": [],
+          "trigger": [
+            "onAttach",
+            "onStack",
+            "onRemove"
+          ],
+          "arg_list": {
+            "attr": "cannonPower",
+            "number": 830
+          }
+        }
+      ]
+    },
+    "5": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddAttrRatio",
+          "pop": [],
+          "trigger": [
+            "onAttach",
+            "onStack",
+            "onRemove"
+          ],
+          "arg_list": {
+            "attr": "cannonPower",
+            "number": 940
+          }
+        }
+      ]
+    },
+    "6": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddAttrRatio",
+          "pop": [],
+          "trigger": [
+            "onAttach",
+            "onStack",
+            "onRemove"
+          ],
+          "arg_list": {
+            "attr": "cannonPower",
+            "number": 1050
+          }
+        }
+      ]
+    },
+    "7": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddAttrRatio",
+          "pop": [],
+          "trigger": [
+            "onAttach",
+            "onStack",
+            "onRemove"
+          ],
+          "arg_list": {
+            "attr": "cannonPower",
+            "number": 1160
+          }
+        }
+      ]
+    },
+    "8": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddAttrRatio",
+          "pop": [],
+          "trigger": [
+            "onAttach",
+            "onStack",
+            "onRemove"
+          ],
+          "arg_list": {
+            "attr": "cannonPower",
+            "number": 1270
+          }
+        }
+      ]
+    },
+    "9": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddAttrRatio",
+          "pop": [],
+          "trigger": [
+            "onAttach",
+            "onStack",
+            "onRemove"
+          ],
+          "arg_list": {
+            "attr": "cannonPower",
+            "number": 1380
+          }
+        }
+      ]
+    },
+    "10": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddAttrRatio",
+          "pop": [],
+          "trigger": [
+            "onAttach",
+            "onStack",
+            "onRemove"
+          ],
+          "arg_list": {
+            "attr": "cannonPower",
+            "number": 1500
+          }
+        }
+      ]
+    },
+    "init_effect": "jinengchufared",
+    "name": "",
+    "time": 0,
+    "color": "yellow",
+    "picture": "",
+    "desc": "炮击、命中提高",
+    "stack": 6,
+    "id": 152995,
+    "icon": 152990,
+    "last_effect": ""
+  },
+  "buff_153000": {
+    "effect_list": [
+      {
+        "type": "BattleBuffFixVelocity",
+        "trigger": [
+          "onAttach",
+          "onRemove"
+        ],
+        "arg_list": {
+          "add": -10,
+          "mul": 0
+        }
+      },
+      {
+        "type": "BattleBuffAddBuff",
+        "trigger": [
+          "onStartGame"
+        ],
+        "pop": [],
+        "arg_list": {
+          "buff_id": 153001
+        }
+      },
+      {
+        "type": "BattleBuffAddBuff",
+        "trigger": [
+          "onHPRatioUpdate"
+        ],
+        "arg_list": {
+          "buff_id": 153003,
+          "hpUpperBound": 0.6,
+          "target": "TargetSelf",
+          "quota": 1
+        }
+      },
+      {
+        "type": "BattleBuffCastSkill",
+        "trigger": [
+          "onHPRatioUpdate"
+        ],
+        "arg_list": {
+          "hpUpperBound": 0.6,
+          "target": "TargetSelf",
+          "skill_id": 153009,
+          "quota": 1
+        }
+      }
+    ],
+    "1": [],
+    "2": [],
+    "3": [],
+    "4": [],
+    "5": [],
+    "6": [],
+    "7": [],
+    "8": [],
+    "9": [],
+    "10": [],
+    "desc_get": "",
+    "name": "",
+    "init_effect": "",
+    "time": 0,
+    "color": "",
+    "picture": "",
+    "desc": "",
+    "stack": 1,
+    "id": 153000,
+    "icon": 153000,
+    "last_effect": ""
+  },
+  "buff_153001": {
+    "desc_get": "",
+    "name": "",
+    "init_effect": "",
+    "time": 1,
+    "color": "",
+    "picture": "",
+    "desc": "",
+    "stack": 1,
+    "id": 153001,
+    "icon": 153000,
+    "last_effect": "",
+    "effect_list": [
+      {
+        "type": "BattleBuffCastSkill",
+        "trigger": [
+          "onAttach"
+        ],
+        "arg_list": {
+          "skill_id": 153001,
+          "target": "TargetSelf"
+        }
+      }
+    ]
+  },
+  "buff_153002": {
+    "blink": [
+      0,
+      0.7,
+      1,
+      0.3,
+      0.3
+    ],
+    "effect_list": [
+      {
+        "type": "BattleBuffHPLink",
+        "trigger": [
+          "onTakeDamage",
+          "onRemove"
+        ],
+        "arg_list": {
+          "number": 0.95
+        }
+      }
+    ],
+    "1": {
+      "effect_list": [
+        {
+          "type": "BattleBuffHPLink",
+          "trigger": [
+            "onTakeDamage",
+            "onRemove"
+          ],
+          "arg_list": {
+            "number": 0.95
+          }
+        }
+      ]
+    },
+    "2": {
+      "effect_list": [
+        {
+          "type": "BattleBuffHPLink",
+          "trigger": [
+            "onTakeDamage",
+            "onRemove"
+          ],
+          "arg_list": {
+            "number": 0.945
+          }
+        }
+      ]
+    },
+    "3": {
+      "effect_list": [
+        {
+          "type": "BattleBuffHPLink",
+          "trigger": [
+            "onTakeDamage",
+            "onRemove"
+          ],
+          "arg_list": {
+            "number": 0.94
+          }
+        }
+      ]
+    },
+    "4": {
+      "effect_list": [
+        {
+          "type": "BattleBuffHPLink",
+          "trigger": [
+            "onTakeDamage",
+            "onRemove"
+          ],
+          "arg_list": {
+            "number": 0.935
+          }
+        }
+      ]
+    },
+    "5": {
+      "effect_list": [
+        {
+          "type": "BattleBuffHPLink",
+          "trigger": [
+            "onTakeDamage",
+            "onRemove"
+          ],
+          "arg_list": {
+            "number": 0.93
+          }
+        }
+      ]
+    },
+    "6": {
+      "effect_list": [
+        {
+          "type": "BattleBuffHPLink",
+          "trigger": [
+            "onTakeDamage",
+            "onRemove"
+          ],
+          "arg_list": {
+            "number": 0.925
+          }
+        }
+      ]
+    },
+    "7": {
+      "effect_list": [
+        {
+          "type": "BattleBuffHPLink",
+          "trigger": [
+            "onTakeDamage",
+            "onRemove"
+          ],
+          "arg_list": {
+            "number": 0.92
+          }
+        }
+      ]
+    },
+    "8": {
+      "effect_list": [
+        {
+          "type": "BattleBuffHPLink",
+          "trigger": [
+            "onTakeDamage",
+            "onRemove"
+          ],
+          "arg_list": {
+            "number": 0.915
+          }
+        }
+      ]
+    },
+    "9": {
+      "effect_list": [
+        {
+          "type": "BattleBuffHPLink",
+          "trigger": [
+            "onTakeDamage",
+            "onRemove"
+          ],
+          "arg_list": {
+            "number": 0.91
+          }
+        }
+      ]
+    },
+    "10": {
+      "effect_list": [
+        {
+          "type": "BattleBuffHPLink",
+          "trigger": [
+            "onTakeDamage",
+            "onRemove"
+          ],
+          "arg_list": {
+            "number": 0.9
+          }
+        }
+      ]
+    },
+    "time": 0,
+    "name": "",
+    "init_effect": "jinengchufablue",
+    "picture": "",
+    "desc": "承受先锋领舰伤害",
+    "stack": 1,
+    "id": 153002,
+    "icon": 153000,
+    "last_effect": ""
+  },
+  "buff_153003": {
+    "init_effect": "",
+    "name": "",
+    "time": 0,
+    "color": "red",
+    "picture": "",
+    "desc": "",
+    "stack": 1,
+    "id": 153003,
+    "icon": 153000,
+    "last_effect": "",
+    "effect_list": [
+      {
+        "type": "BattleBuffAddBuff",
+        "trigger": [
+          "onTakeDamage"
+        ],
+        "arg_list": {
+          "buff_id": 153004,
+          "quota": 1,
+          "target": "TargetSelf"
+        }
+      }
+    ]
+  },
+  "buff_153004": {
+    "init_effect": "",
+    "name": "",
+    "time": 20,
+    "color": "red",
+    "picture": "",
+    "desc": "",
+    "stack": 1,
+    "id": 153004,
+    "icon": 153000,
+    "last_effect": "",
+    "effect_list": [
+      {
+        "type": "BattleBuffCleanse",
+        "trigger": [
+          "onAttach"
+        ],
+        "arg_list": {
+          "buff_id_list": [
+            153003
+          ]
+        }
+      },
+      {
+        "type": "BattleBuffCastSkill",
+        "trigger": [
+          "onAttach"
+        ],
+        "arg_list": {
+          "skill_id": 153002,
+          "target": "TargetSelf"
+        }
+      },
+      {
+        "type": "BattleBuffAddBuff",
+        "trigger": [
+          "onAttach"
+        ],
+        "arg_list": {
+          "buff_id": 153006,
+          "quota": 1,
+          "target": "TargetSelf"
+        }
+      },
+      {
+        "type": "BattleBuffAddBuff",
+        "trigger": [
+          "onUpdate"
+        ],
+        "arg_list": {
+          "buff_id": 153001,
+          "target": "TargetSelf",
+          "time": 10,
+          "quota": 1
+        }
+      },
+      {
+        "type": "BattleBuffAddBuff",
+        "trigger": [
+          "onRemove"
+        ],
+        "arg_list": {
+          "buff_id": 153003
+        }
+      }
+    ]
+  },
+  "buff_153005": {
+    "blink": [
+      0,
+      0.7,
+      1,
+      0.3,
+      0.3
+    ],
+    "effect_list": [
+      {
+        "type": "BattleBuffHPLink",
+        "trigger": [
+          "onTakeDamage",
+          "onRemove"
+        ],
+        "arg_list": {
+          "number": 0.9,
+          "restoreRatio": 2000
+        }
+      },
+      {
+        "type": "BattleBuffCleanse",
+        "trigger": [
+          "onAttach"
+        ],
+        "arg_list": {
+          "buff_id_list": [
+            153002
+          ]
+        }
+      }
+    ],
+    "1": {
+      "effect_list": [
+        {
+          "type": "BattleBuffHPLink",
+          "trigger": [
+            "onTakeDamage",
+            "onRemove"
+          ],
+          "arg_list": {
+            "number": 0.9,
+            "restoreRatio": 2000
+          }
+        },
+        {
+          "type": "BattleBuffCleanse",
+          "trigger": [
+            "onAttach"
+          ],
+          "arg_list": {
+            "buff_id_list": [
+              153002
+            ]
+          }
+        }
+      ]
+    },
+    "2": {
+      "effect_list": [
+        {
+          "type": "BattleBuffHPLink",
+          "trigger": [
+            "onTakeDamage",
+            "onRemove"
+          ],
+          "arg_list": {
+            "number": 0.896,
+            "restoreRatio": 2330
+          }
+        },
+        {
+          "type": "BattleBuffCleanse",
+          "trigger": [
+            "onAttach"
+          ],
+          "arg_list": {
+            "buff_id_list": [
+              153002
+            ]
+          }
+        }
+      ]
+    },
+    "3": {
+      "effect_list": [
+        {
+          "type": "BattleBuffHPLink",
+          "trigger": [
+            "onTakeDamage",
+            "onRemove"
+          ],
+          "arg_list": {
+            "number": 0.892,
+            "restoreRatio": 2660
+          }
+        },
+        {
+          "type": "BattleBuffCleanse",
+          "trigger": [
+            "onAttach"
+          ],
+          "arg_list": {
+            "buff_id_list": [
+              153002
+            ]
+          }
+        }
+      ]
+    },
+    "4": {
+      "effect_list": [
+        {
+          "type": "BattleBuffHPLink",
+          "trigger": [
+            "onTakeDamage",
+            "onRemove"
+          ],
+          "arg_list": {
+            "number": 0.885,
+            "restoreRatio": 2990
+          }
+        },
+        {
+          "type": "BattleBuffCleanse",
+          "trigger": [
+            "onAttach"
+          ],
+          "arg_list": {
+            "buff_id_list": [
+              153002
+            ]
+          }
+        }
+      ]
+    },
+    "5": {
+      "effect_list": [
+        {
+          "type": "BattleBuffHPLink",
+          "trigger": [
+            "onTakeDamage",
+            "onRemove"
+          ],
+          "arg_list": {
+            "number": 0.881,
+            "restoreRatio": 3320
+          }
+        },
+        {
+          "type": "BattleBuffCleanse",
+          "trigger": [
+            "onAttach"
+          ],
+          "arg_list": {
+            "buff_id_list": [
+              153002
+            ]
+          }
+        }
+      ]
+    },
+    "6": {
+      "effect_list": [
+        {
+          "type": "BattleBuffHPLink",
+          "trigger": [
+            "onTakeDamage",
+            "onRemove"
+          ],
+          "arg_list": {
+            "number": 0.877,
+            "restoreRatio": 3650
+          }
+        },
+        {
+          "type": "BattleBuffCleanse",
+          "trigger": [
+            "onAttach"
+          ],
+          "arg_list": {
+            "buff_id_list": [
+              153002
+            ]
+          }
+        }
+      ]
+    },
+    "7": {
+      "effect_list": [
+        {
+          "type": "BattleBuffHPLink",
+          "trigger": [
+            "onTakeDamage",
+            "onRemove"
+          ],
+          "arg_list": {
+            "number": 0.87,
+            "restoreRatio": 3980
+          }
+        },
+        {
+          "type": "BattleBuffCleanse",
+          "trigger": [
+            "onAttach"
+          ],
+          "arg_list": {
+            "buff_id_list": [
+              153002
+            ]
+          }
+        }
+      ]
+    },
+    "8": {
+      "effect_list": [
+        {
+          "type": "BattleBuffHPLink",
+          "trigger": [
+            "onTakeDamage",
+            "onRemove"
+          ],
+          "arg_list": {
+            "number": 0.864,
+            "restoreRatio": 4310
+          }
+        },
+        {
+          "type": "BattleBuffCleanse",
+          "trigger": [
+            "onAttach"
+          ],
+          "arg_list": {
+            "buff_id_list": [
+              153002
+            ]
+          }
+        }
+      ]
+    },
+    "9": {
+      "effect_list": [
+        {
+          "type": "BattleBuffHPLink",
+          "trigger": [
+            "onTakeDamage",
+            "onRemove"
+          ],
+          "arg_list": {
+            "number": 0.858,
+            "restoreRatio": 4640
+          }
+        },
+        {
+          "type": "BattleBuffCleanse",
+          "trigger": [
+            "onAttach"
+          ],
+          "arg_list": {
+            "buff_id_list": [
+              153002
+            ]
+          }
+        }
+      ]
+    },
+    "10": {
+      "effect_list": [
+        {
+          "type": "BattleBuffHPLink",
+          "trigger": [
+            "onTakeDamage",
+            "onRemove"
+          ],
+          "arg_list": {
+            "number": 0.85,
+            "restoreRatio": 5000
+          }
+        },
+        {
+          "type": "BattleBuffCleanse",
+          "trigger": [
+            "onAttach"
+          ],
+          "arg_list": {
+            "buff_id_list": [
+              153002
+            ]
+          }
+        }
+      ]
+    },
+    "time": 10,
+    "name": "",
+    "init_effect": "jinengchufablue",
+    "picture": "",
+    "desc": "承受先锋伤害",
+    "stack": 1,
+    "id": 153005,
+    "icon": 153000,
+    "last_effect": ""
+  },
+  "buff_153006": {
+    "icon": 153000,
+    "name": "",
+    "time": 10,
+    "stack": 1,
+    "id": 153006,
+    "picture": "",
+    "effect_list": [
+      {
+        "type": "BattleBuffAddReloadRequirement",
+        "trigger": [
+          "onAttach",
+          "onRemove"
+        ],
+        "arg_list": {
+          "index": 2,
+          "number": 999
+        }
+      }
+    ]
+  },
+  "buff_153060": {
+    "effect_list": [
+      {
+        "type": "BattleBuffAddBuff",
+        "trigger": [
+          "onStartGame"
+        ],
+        "pop": [],
+        "arg_list": {
+          "buff_id": 153061,
+          "target": "TargetSelf"
+        }
+      },
+      {
+        "type": "BattleBuffAddBuff",
+        "trigger": [
+          "onStartGame"
+        ],
+        "arg_list": {
+          "buff_id": 153062,
+          "target": "TargetSelf"
+        }
+      }
+    ],
+    "1": [],
+    "2": [],
+    "3": [],
+    "4": [],
+    "5": [],
+    "6": [],
+    "7": [],
+    "8": [],
+    "9": [],
+    "10": [],
+    "init_effect": "",
+    "name": "",
+    "time": 0,
+    "color": "red",
+    "picture": "",
+    "desc": "",
+    "stack": 1,
+    "id": 153060,
+    "icon": 153060,
+    "last_effect": ""
+  },
+  "buff_153061": {
+    "blink": [
+      1,
+      0,
+      0,
+      0.3,
+      0.3
+    ],
+    "effect_list": [
+      {
+        "type": "BattleBuffAddAttrRatio",
+        "trigger": [
+          "onAttach"
+        ],
+        "arg_list": {
+          "attr": "cannonPower",
+          "number": 500
+        }
+      },
+      {
+        "type": "BattleBuffAddAttrRatio",
+        "trigger": [
+          "onAttach"
+        ],
+        "arg_list": {
+          "attr": "loadSpeed",
+          "number": 500
+        }
+      }
+    ],
+    "1": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddAttrRatio",
+          "trigger": [
+            "onAttach"
+          ],
+          "arg_list": {
+            "attr": "cannonPower",
+            "number": 500
+          }
+        },
+        {
+          "type": "BattleBuffAddAttrRatio",
+          "trigger": [
+            "onAttach"
+          ],
+          "arg_list": {
+            "attr": "loadSpeed",
+            "number": 500
+          }
+        }
+      ]
+    },
+    "2": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddAttrRatio",
+          "trigger": [
+            "onAttach"
+          ],
+          "arg_list": {
+            "attr": "cannonPower",
+            "number": 610
+          }
+        },
+        {
+          "type": "BattleBuffAddAttrRatio",
+          "trigger": [
+            "onAttach"
+          ],
+          "arg_list": {
+            "attr": "loadSpeed",
+            "number": 610
+          }
+        }
+      ]
+    },
+    "3": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddAttrRatio",
+          "trigger": [
+            "onAttach"
+          ],
+          "arg_list": {
+            "attr": "cannonPower",
+            "number": 720
+          }
+        },
+        {
+          "type": "BattleBuffAddAttrRatio",
+          "trigger": [
+            "onAttach"
+          ],
+          "arg_list": {
+            "attr": "loadSpeed",
+            "number": 720
+          }
+        }
+      ]
+    },
+    "4": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddAttrRatio",
+          "trigger": [
+            "onAttach"
+          ],
+          "arg_list": {
+            "attr": "cannonPower",
+            "number": 830
+          }
+        },
+        {
+          "type": "BattleBuffAddAttrRatio",
+          "trigger": [
+            "onAttach"
+          ],
+          "arg_list": {
+            "attr": "loadSpeed",
+            "number": 830
+          }
+        }
+      ]
+    },
+    "5": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddAttrRatio",
+          "trigger": [
+            "onAttach"
+          ],
+          "arg_list": {
+            "attr": "cannonPower",
+            "number": 940
+          }
+        },
+        {
+          "type": "BattleBuffAddAttrRatio",
+          "trigger": [
+            "onAttach"
+          ],
+          "arg_list": {
+            "attr": "loadSpeed",
+            "number": 940
+          }
+        }
+      ]
+    },
+    "6": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddAttrRatio",
+          "trigger": [
+            "onAttach"
+          ],
+          "arg_list": {
+            "attr": "cannonPower",
+            "number": 1050
+          }
+        },
+        {
+          "type": "BattleBuffAddAttrRatio",
+          "trigger": [
+            "onAttach"
+          ],
+          "arg_list": {
+            "attr": "loadSpeed",
+            "number": 1050
+          }
+        }
+      ]
+    },
+    "7": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddAttrRatio",
+          "trigger": [
+            "onAttach"
+          ],
+          "arg_list": {
+            "attr": "cannonPower",
+            "number": 1160
+          }
+        },
+        {
+          "type": "BattleBuffAddAttrRatio",
+          "trigger": [
+            "onAttach"
+          ],
+          "arg_list": {
+            "attr": "loadSpeed",
+            "number": 1160
+          }
+        }
+      ]
+    },
+    "8": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddAttrRatio",
+          "trigger": [
+            "onAttach"
+          ],
+          "arg_list": {
+            "attr": "cannonPower",
+            "number": 1270
+          }
+        },
+        {
+          "type": "BattleBuffAddAttrRatio",
+          "trigger": [
+            "onAttach"
+          ],
+          "arg_list": {
+            "attr": "loadSpeed",
+            "number": 1270
+          }
+        }
+      ]
+    },
+    "9": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddAttrRatio",
+          "trigger": [
+            "onAttach"
+          ],
+          "arg_list": {
+            "attr": "cannonPower",
+            "number": 1380
+          }
+        },
+        {
+          "type": "BattleBuffAddAttrRatio",
+          "trigger": [
+            "onAttach"
+          ],
+          "arg_list": {
+            "attr": "loadSpeed",
+            "number": 1380
+          }
+        }
+      ]
+    },
+    "10": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddAttrRatio",
+          "trigger": [
+            "onAttach"
+          ],
+          "arg_list": {
+            "attr": "cannonPower",
+            "number": 1500
+          }
+        },
+        {
+          "type": "BattleBuffAddAttrRatio",
+          "trigger": [
+            "onAttach"
+          ],
+          "arg_list": {
+            "attr": "loadSpeed",
+            "number": 1500
+          }
+        }
+      ]
+    },
+    "time": 0,
+    "name": "",
+    "init_effect": "jinengchufared",
+    "picture": "",
+    "desc": "",
+    "stack": 1,
+    "id": 153061,
+    "icon": 153060,
+    "last_effect": ""
+  },
+  "buff_153062": {
+    "effect_list": [
+      {
+        "type": "BattleBuffCastSkill",
+        "trigger": [
+          "onChargeWeaponFire"
+        ],
+        "arg_list": {
+          "rant": 4000,
+          "target": "TargetSelf",
+          "skill_id": 153060
+        }
+      }
+    ],
+    "1": {
+      "effect_list": [
+        {
+          "type": "BattleBuffCastSkill",
+          "trigger": [
+            "onChargeWeaponFire"
+          ],
+          "arg_list": {
+            "rant": 4000,
+            "target": "TargetSelf",
+            "skill_id": 153060
+          }
+        }
+      ]
+    },
+    "2": {
+      "effect_list": [
+        {
+          "type": "BattleBuffCastSkill",
+          "trigger": [
+            "onChargeWeaponFire"
+          ],
+          "arg_list": {
+            "rant": 4330,
+            "target": "TargetSelf",
+            "skill_id": 153060
+          }
+        }
+      ]
+    },
+    "3": {
+      "effect_list": [
+        {
+          "type": "BattleBuffCastSkill",
+          "trigger": [
+            "onChargeWeaponFire"
+          ],
+          "arg_list": {
+            "rant": 4660,
+            "target": "TargetSelf",
+            "skill_id": 153060
+          }
+        }
+      ]
+    },
+    "4": {
+      "effect_list": [
+        {
+          "type": "BattleBuffCastSkill",
+          "trigger": [
+            "onChargeWeaponFire"
+          ],
+          "arg_list": {
+            "rant": 4990,
+            "target": "TargetSelf",
+            "skill_id": 153060
+          }
+        }
+      ]
+    },
+    "5": {
+      "effect_list": [
+        {
+          "type": "BattleBuffCastSkill",
+          "trigger": [
+            "onChargeWeaponFire"
+          ],
+          "arg_list": {
+            "rant": 5320,
+            "target": "TargetSelf",
+            "skill_id": 153060
+          }
+        }
+      ]
+    },
+    "6": {
+      "effect_list": [
+        {
+          "type": "BattleBuffCastSkill",
+          "trigger": [
+            "onChargeWeaponFire"
+          ],
+          "arg_list": {
+            "rant": 5650,
+            "target": "TargetSelf",
+            "skill_id": 153060
+          }
+        }
+      ]
+    },
+    "7": {
+      "effect_list": [
+        {
+          "type": "BattleBuffCastSkill",
+          "trigger": [
+            "onChargeWeaponFire"
+          ],
+          "arg_list": {
+            "rant": 5980,
+            "target": "TargetSelf",
+            "skill_id": 153060
+          }
+        }
+      ]
+    },
+    "8": {
+      "effect_list": [
+        {
+          "type": "BattleBuffCastSkill",
+          "trigger": [
+            "onChargeWeaponFire"
+          ],
+          "arg_list": {
+            "rant": 6310,
+            "target": "TargetSelf",
+            "skill_id": 153060
+          }
+        }
+      ]
+    },
+    "9": {
+      "effect_list": [
+        {
+          "type": "BattleBuffCastSkill",
+          "trigger": [
+            "onChargeWeaponFire"
+          ],
+          "arg_list": {
+            "rant": 6640,
+            "target": "TargetSelf",
+            "skill_id": 153060
+          }
+        }
+      ]
+    },
+    "10": {
+      "effect_list": [
+        {
+          "type": "BattleBuffCastSkill",
+          "trigger": [
+            "onChargeWeaponFire"
+          ],
+          "arg_list": {
+            "rant": 7000,
+            "target": "TargetSelf",
+            "skill_id": 153060
+          }
+        }
+      ]
+    },
+    "desc_get": "",
+    "name": "",
+    "init_effect": "",
+    "time": 0,
+    "color": "red",
+    "picture": "",
+    "desc": "",
+    "stack": 1,
+    "id": 153062,
+    "icon": 153060,
+    "last_effect": ""
+  },
+  "buff_153063": {
+    "init_effect": "",
+    "name": "",
+    "time": 8,
+    "picture": "",
+    "desc": "",
+    "stack": 1,
+    "id": 153063,
+    "icon": 153060,
+    "last_effect": "Darkness",
+    "effect_list": [
+      {
+        "type": "BattleBuffAddAttrRatio",
+        "trigger": [
+          "onAttach",
+          "onRemove"
+        ],
+        "arg_list": {
+          "attr": "attackRating",
+          "number": -1000
+        }
+      }
+    ]
+  },
+  "buff_153070": {
+    "effect_list": [
+      {
+        "type": "BattleBuffAddBuff",
+        "trigger": [
+          "onStartGame"
+        ],
+        "pop": [],
+        "arg_list": {
+          "buff_id": 153071,
+          "maxTargetNumber": 1,
+          "check_target": [
+            "TargetAllHelp",
+            "TargetPlayerMainFleet"
+          ]
+        }
+      },
+      {
+        "type": "BattleBuffAddBuff",
+        "trigger": [
+          "onStartGame"
+        ],
+        "arg_list": {
+          "buff_id": 153074,
+          "minTargetNumber": 2,
+          "check_target": [
+            "TargetAllHelp",
+            "TargetPlayerMainFleet"
+          ]
+        }
+      }
+    ],
+    "1": [],
+    "2": [],
+    "3": [],
+    "4": [],
+    "5": [],
+    "6": [],
+    "7": [],
+    "8": [],
+    "9": [],
+    "10": [],
+    "init_effect": "",
+    "name": "",
+    "time": 0,
+    "color": "yellow",
+    "picture": "",
+    "desc": "",
+    "stack": 1,
+    "id": 153070,
+    "icon": 153070,
+    "last_effect": ""
+  },
+  "buff_153071": {
+    "effect_list": [
+      {
+        "type": "BattleBuffAddBuff",
+        "trigger": [
+          "onAttach"
+        ],
+        "arg_list": {
+          "buff_id": 153072,
+          "target": "TargetSelf"
+        }
+      },
+      {
+        "type": "BattleBuffAddBuff",
+        "trigger": [
+          "onAttach"
+        ],
+        "arg_list": {
+          "buff_id": 153073,
+          "target": "TargetSelf"
+        }
+      }
+    ],
+    "1": [],
+    "2": [],
+    "3": [],
+    "4": [],
+    "5": [],
+    "6": [],
+    "7": [],
+    "8": [],
+    "9": [],
+    "10": [],
+    "init_effect": "",
+    "name": "",
+    "time": 0,
+    "color": "red",
+    "picture": "",
+    "desc": "",
+    "stack": 1,
+    "id": 153071,
+    "icon": 153070,
+    "last_effect": ""
+  },
+  "buff_153072": {
+    "blink": [
+      1,
+      0,
+      0,
+      0.3,
+      0.3
+    ],
+    "effect_list": [
+      {
+        "type": "BattleBuffAddAttr",
+        "trigger": [
+          "onAttach",
+          "onRemove"
+        ],
+        "arg_list": {
+          "attr": "damageRatioBullet",
+          "number": 0.05
+        }
+      }
+    ],
+    "1": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddAttr",
+          "trigger": [
+            "onAttach",
+            "onRemove"
+          ],
+          "arg_list": {
+            "attr": "damageRatioBullet",
+            "number": 0.05
+          }
+        }
+      ]
+    },
+    "2": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddAttr",
+          "trigger": [
+            "onAttach",
+            "onRemove"
+          ],
+          "arg_list": {
+            "attr": "damageRatioBullet",
+            "number": 0.061
+          }
+        }
+      ]
+    },
+    "3": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddAttr",
+          "trigger": [
+            "onAttach",
+            "onRemove"
+          ],
+          "arg_list": {
+            "attr": "damageRatioBullet",
+            "number": 0.072
+          }
+        }
+      ]
+    },
+    "4": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddAttr",
+          "trigger": [
+            "onAttach",
+            "onRemove"
+          ],
+          "arg_list": {
+            "attr": "damageRatioBullet",
+            "number": 0.083
+          }
+        }
+      ]
+    },
+    "5": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddAttr",
+          "trigger": [
+            "onAttach",
+            "onRemove"
+          ],
+          "arg_list": {
+            "attr": "damageRatioBullet",
+            "number": 0.094
+          }
+        }
+      ]
+    },
+    "6": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddAttr",
+          "trigger": [
+            "onAttach",
+            "onRemove"
+          ],
+          "arg_list": {
+            "attr": "damageRatioBullet",
+            "number": 0.105
+          }
+        }
+      ]
+    },
+    "7": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddAttr",
+          "trigger": [
+            "onAttach",
+            "onRemove"
+          ],
+          "arg_list": {
+            "attr": "damageRatioBullet",
+            "number": 0.116
+          }
+        }
+      ]
+    },
+    "8": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddAttr",
+          "trigger": [
+            "onAttach",
+            "onRemove"
+          ],
+          "arg_list": {
+            "attr": "damageRatioBullet",
+            "number": 0.127
+          }
+        }
+      ]
+    },
+    "9": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddAttr",
+          "trigger": [
+            "onAttach",
+            "onRemove"
+          ],
+          "arg_list": {
+            "attr": "damageRatioBullet",
+            "number": 0.138
+          }
+        }
+      ]
+    },
+    "10": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddAttr",
+          "trigger": [
+            "onAttach",
+            "onRemove"
+          ],
+          "arg_list": {
+            "attr": "damageRatioBullet",
+            "number": 0.15
+          }
+        }
+      ]
+    },
+    "time": 0,
+    "name": "",
+    "init_effect": "jinengchufared",
+    "color": "red",
+    "picture": "",
+    "desc": "",
+    "stack": 1,
+    "id": 153072,
+    "icon": 153070,
+    "last_effect": ""
+  },
+  "buff_153073": {
+    "effect_list": [
+      {
+        "type": "BattleBuffAddReloadRequirement",
+        "trigger": [
+          "onAttach",
+          "onRemove"
+        ],
+        "arg_list": {
+          "type": 23,
+          "number": -0.5
+        }
+      },
+      {
+        "type": "BattleBuffCancelBuff",
+        "trigger": [
+          "onChargeWeaponReady"
+        ],
+        "arg_list": {
+          "count": 1
+        }
+      }
+    ],
+    "1": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddReloadRequirement",
+          "trigger": [
+            "onAttach",
+            "onRemove"
+          ],
+          "arg_list": {
+            "type": 23,
+            "number": -0.5
+          }
+        },
+        {
+          "type": "BattleBuffCancelBuff",
+          "trigger": [
+            "onChargeWeaponReady"
+          ],
+          "arg_list": {
+            "count": 1
+          }
+        }
+      ]
+    },
+    "2": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddReloadRequirement",
+          "trigger": [
+            "onAttach",
+            "onRemove"
+          ],
+          "arg_list": {
+            "type": 23,
+            "number": -0.533
+          }
+        },
+        {
+          "type": "BattleBuffCancelBuff",
+          "trigger": [
+            "onChargeWeaponReady"
+          ],
+          "arg_list": {
+            "count": 1
+          }
+        }
+      ]
+    },
+    "3": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddReloadRequirement",
+          "trigger": [
+            "onAttach",
+            "onRemove"
+          ],
+          "arg_list": {
+            "type": 23,
+            "number": -0.566
+          }
+        },
+        {
+          "type": "BattleBuffCancelBuff",
+          "trigger": [
+            "onChargeWeaponReady"
+          ],
+          "arg_list": {
+            "count": 1
+          }
+        }
+      ]
+    },
+    "4": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddReloadRequirement",
+          "trigger": [
+            "onAttach",
+            "onRemove"
+          ],
+          "arg_list": {
+            "type": 23,
+            "number": -0.599
+          }
+        },
+        {
+          "type": "BattleBuffCancelBuff",
+          "trigger": [
+            "onChargeWeaponReady"
+          ],
+          "arg_list": {
+            "count": 1
+          }
+        }
+      ]
+    },
+    "5": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddReloadRequirement",
+          "trigger": [
+            "onAttach",
+            "onRemove"
+          ],
+          "arg_list": {
+            "type": 23,
+            "number": -0.632
+          }
+        },
+        {
+          "type": "BattleBuffCancelBuff",
+          "trigger": [
+            "onChargeWeaponReady"
+          ],
+          "arg_list": {
+            "count": 1
+          }
+        }
+      ]
+    },
+    "6": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddReloadRequirement",
+          "trigger": [
+            "onAttach",
+            "onRemove"
+          ],
+          "arg_list": {
+            "type": 23,
+            "number": -0.665
+          }
+        },
+        {
+          "type": "BattleBuffCancelBuff",
+          "trigger": [
+            "onChargeWeaponReady"
+          ],
+          "arg_list": {
+            "count": 1
+          }
+        }
+      ]
+    },
+    "7": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddReloadRequirement",
+          "trigger": [
+            "onAttach",
+            "onRemove"
+          ],
+          "arg_list": {
+            "type": 23,
+            "number": -0.698
+          }
+        },
+        {
+          "type": "BattleBuffCancelBuff",
+          "trigger": [
+            "onChargeWeaponReady"
+          ],
+          "arg_list": {
+            "count": 1
+          }
+        }
+      ]
+    },
+    "8": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddReloadRequirement",
+          "trigger": [
+            "onAttach",
+            "onRemove"
+          ],
+          "arg_list": {
+            "type": 23,
+            "number": -0.731
+          }
+        },
+        {
+          "type": "BattleBuffCancelBuff",
+          "trigger": [
+            "onChargeWeaponReady"
+          ],
+          "arg_list": {
+            "count": 1
+          }
+        }
+      ]
+    },
+    "9": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddReloadRequirement",
+          "trigger": [
+            "onAttach",
+            "onRemove"
+          ],
+          "arg_list": {
+            "type": 23,
+            "number": -0.764
+          }
+        },
+        {
+          "type": "BattleBuffCancelBuff",
+          "trigger": [
+            "onChargeWeaponReady"
+          ],
+          "arg_list": {
+            "count": 1
+          }
+        }
+      ]
+    },
+    "10": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddReloadRequirement",
+          "trigger": [
+            "onAttach",
+            "onRemove"
+          ],
+          "arg_list": {
+            "type": 23,
+            "number": -0.8
+          }
+        },
+        {
+          "type": "BattleBuffCancelBuff",
+          "trigger": [
+            "onChargeWeaponReady"
+          ],
+          "arg_list": {
+            "count": 1
+          }
+        }
+      ]
+    },
+    "init_effect": "",
+    "name": "",
+    "time": 0,
+    "picture": "",
+    "desc": "",
+    "stack": 1,
+    "id": 153073,
+    "icon": 153070,
+    "last_effect": ""
+  },
+  "buff_153074": {
+    "blink": [
+      0,
+      0.7,
+      1,
+      0.3,
+      0.3
+    ],
+    "effect_list": [
+      {
+        "type": "BattleBuffAddAttr",
+        "trigger": [
+          "onAttach"
+        ],
+        "arg_list": {
+          "attr": "injureRatio",
+          "number": -0.05
+        }
+      }
+    ],
+    "1": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddAttr",
+          "trigger": [
+            "onAttach"
+          ],
+          "arg_list": {
+            "attr": "injureRatio",
+            "number": -0.05
+          }
+        }
+      ]
+    },
+    "2": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddAttr",
+          "trigger": [
+            "onAttach"
+          ],
+          "arg_list": {
+            "attr": "injureRatio",
+            "number": -0.061
+          }
+        }
+      ]
+    },
+    "3": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddAttr",
+          "trigger": [
+            "onAttach"
+          ],
+          "arg_list": {
+            "attr": "injureRatio",
+            "number": -0.072
+          }
+        }
+      ]
+    },
+    "4": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddAttr",
+          "trigger": [
+            "onAttach"
+          ],
+          "arg_list": {
+            "attr": "injureRatio",
+            "number": -0.083
+          }
+        }
+      ]
+    },
+    "5": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddAttr",
+          "trigger": [
+            "onAttach"
+          ],
+          "arg_list": {
+            "attr": "injureRatio",
+            "number": -0.094
+          }
+        }
+      ]
+    },
+    "6": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddAttr",
+          "trigger": [
+            "onAttach"
+          ],
+          "arg_list": {
+            "attr": "injureRatio",
+            "number": -0.105
+          }
+        }
+      ]
+    },
+    "7": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddAttr",
+          "trigger": [
+            "onAttach"
+          ],
+          "arg_list": {
+            "attr": "injureRatio",
+            "number": -0.116
+          }
+        }
+      ]
+    },
+    "8": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddAttr",
+          "trigger": [
+            "onAttach"
+          ],
+          "arg_list": {
+            "attr": "injureRatio",
+            "number": -0.127
+          }
+        }
+      ]
+    },
+    "9": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddAttr",
+          "trigger": [
+            "onAttach"
+          ],
+          "arg_list": {
+            "attr": "injureRatio",
+            "number": -0.138
+          }
+        }
+      ]
+    },
+    "10": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddAttr",
+          "trigger": [
+            "onAttach"
+          ],
+          "arg_list": {
+            "attr": "injureRatio",
+            "number": -0.15
+          }
+        }
+      ]
+    },
+    "time": 0,
+    "name": "",
+    "init_effect": "jinengchufablue",
+    "picture": "",
+    "desc": "",
+    "stack": 1,
+    "id": 153074,
+    "icon": 153070,
+    "last_effect": ""
+  },
+  "buff_153080": {
+    "effect_list": [
+      {
+        "type": "BattleBuffCastSkill",
+        "trigger": [
+          "onChargeWeaponFire"
+        ],
+        "arg_list": {
+          "rant": 10000,
+          "target": "TargetSelf",
+          "skill_id": 153080,
+          "time": 1
+        }
+      }
+    ],
+    "1": {
+      "desc": "中型/重型主炮开火时有几率发动，额外进行一轮攻击",
+      "effect_list": [
+        {
+          "type": "BattleBuffCastSkill",
+          "trigger": [
+            "onChargeWeaponFire"
+          ],
+          "arg_list": {
+            "rant": 10000,
+            "target": "TargetSelf",
+            "skill_id": 153080,
+            "time": 1
+          }
+        }
+      ]
+    },
+    "init_effect": "",
+    "name": "主炮连射",
+    "time": 0,
+    "picture": "",
+    "desc": "",
+    "stack": 1,
+    "id": 153080,
+    "icon": 1,
+    "last_effect": ""
+  },
+  "buff_153081": {
+    "effect_list": [
+      {
+        "type": "BattleBuffCastSkill",
+        "trigger": [
+          "onChargeWeaponFire"
+        ],
+        "arg_list": {
+          "rant": 10000,
+          "target": "TargetSelf",
+          "skill_id": 153081,
+          "time": 1
+        }
+      }
+    ],
+    "1": {
+      "desc": "中型/重型主炮开火时有几率发动，额外进行一轮攻击",
+      "effect_list": [
+        {
+          "type": "BattleBuffCastSkill",
+          "trigger": [
+            "onChargeWeaponFire"
+          ],
+          "arg_list": {
+            "rant": 10000,
+            "target": "TargetSelf",
+            "skill_id": 153081,
+            "time": 1
+          }
+        }
+      ]
+    },
+    "init_effect": "",
+    "name": "主炮连射",
+    "time": 0,
+    "picture": "",
+    "desc": "",
+    "stack": 1,
+    "id": 153081,
+    "icon": 1,
+    "last_effect": ""
+  },
+  "buff_153082": {
+    "effect_list": [
+      {
+        "type": "BattleBuffCastSkill",
+        "trigger": [
+          "onChargeWeaponFire"
+        ],
+        "arg_list": {
+          "rant": 10000,
+          "target": "TargetSelf",
+          "skill_id": 153082,
+          "time": 1
+        }
+      }
+    ],
+    "1": {
+      "desc": "中型/重型主炮开火时有几率发动，额外进行一轮攻击",
+      "effect_list": [
+        {
+          "type": "BattleBuffCastSkill",
+          "trigger": [
+            "onChargeWeaponFire"
+          ],
+          "arg_list": {
+            "rant": 10000,
+            "target": "TargetSelf",
+            "skill_id": 153082,
+            "time": 1
+          }
+        }
+      ]
+    },
+    "init_effect": "",
+    "name": "主炮连射",
+    "time": 0,
+    "picture": "",
+    "desc": "",
+    "stack": 1,
+    "id": 153082,
+    "icon": 1,
+    "last_effect": ""
+  },
+  "buff_153085": {
+    "desc_get": "",
+    "name": "",
+    "init_effect": "",
+    "time": 0.1,
+    "color": "",
+    "picture": "",
+    "desc": "",
+    "stack": 1,
+    "id": 153085,
+    "icon": 152990,
+    "last_effect": "",
+    "effect_list": [
+      {
+        "type": "BattleBuffCleanse",
+        "trigger": [
+          "onAttach"
+        ],
+        "arg_list": {
+          "buff_id_list": [
+            152993
+          ]
+        }
+      }
+    ]
+  },
+  "buff_153086": {
+    "desc_get": "",
+    "name": "",
+    "init_effect": "",
+    "time": 0.1,
+    "color": "",
+    "picture": "",
+    "desc": "",
+    "stack": 1,
+    "id": 153086,
+    "icon": 152990,
+    "last_effect": "",
+    "effect_list": [
+      {
+        "type": "BattleBuffCleanse",
+        "trigger": [
+          "onAttach"
+        ],
+        "arg_list": {
+          "buff_id_list": [
+            152994
+          ]
+        }
+      }
+    ]
+  },
+  "buff_153090": {
+    "effect_list": [
+      {
+        "type": "BattleBuffCastSkill",
+        "trigger": [
+          "onStartGame"
+        ],
+        "arg_list": {
+          "skill_id": 153090
+        }
+      },
+      {
+        "type": "BattleBuffCount",
+        "trigger": [
+          "onFire"
+        ],
+        "arg_list": {
+          "countTarget": 5,
+          "countType": 153091,
+          "index": [
+            1
+          ]
+        }
+      },
+      {
+        "type": "BattleBuffCastSkill",
+        "trigger": [
+          "onBattleBuffCount"
+        ],
+        "arg_list": {
+          "target": "TargetSelf",
+          "skill_id": 153091,
+          "countType": 153091
+        }
+      },
+      {
+        "type": "BattleBuffCount",
+        "trigger": [
+          "onFire"
+        ],
+        "arg_list": {
+          "countTarget": 10,
+          "countType": 153092,
+          "index": [
+            1
+          ]
+        }
+      },
+      {
+        "type": "BattleBuffCastSkill",
+        "trigger": [
+          "onBattleBuffCount"
+        ],
+        "arg_list": {
+          "target": "TargetSelf",
+          "skill_id": 153092,
+          "countType": 153092
+        }
+      }
+    ],
+    "1": [],
+    "2": [],
+    "3": [],
+    "4": [],
+    "5": [],
+    "6": [],
+    "7": [],
+    "8": [],
+    "9": [],
+    "10": [],
+    "init_effect": "",
+    "name": "",
+    "time": 0,
+    "color": "red",
+    "picture": "",
+    "desc": "",
+    "stack": 1,
+    "id": 153090,
+    "icon": 153090,
+    "last_effect": ""
+  },
+  "buff_153091": {
+    "effect_list": [
+      {
+        "type": "BattleBuffFixRange",
+        "trigger": [
+          "onAttach"
+        ],
+        "arg_list": {
+          "bulletRange": 80,
+          "weaponRange": 80,
+          "index": [
+            1
+          ]
+        }
+      },
+      {
+        "type": "BattleBuffAddAttr",
+        "trigger": [
+          "onAttach"
+        ],
+        "arg_list": {
+          "attr": "damageToArmorRateEnhance_3",
+          "number": 0.05
+        }
+      }
+    ],
+    "1": {
+      "effect_list": [
+        {
+          "type": "BattleBuffFixRange",
+          "trigger": [
+            "onAttach"
+          ],
+          "arg_list": {
+            "bulletRange": 80,
+            "weaponRange": 80,
+            "index": [
+              1
+            ]
+          }
+        },
+        {
+          "type": "BattleBuffAddAttr",
+          "trigger": [
+            "onAttach"
+          ],
+          "arg_list": {
+            "attr": "damageToArmorRateEnhance_3",
+            "number": 0.05
+          }
+        }
+      ]
+    },
+    "2": {
+      "effect_list": [
+        {
+          "type": "BattleBuffFixRange",
+          "trigger": [
+            "onAttach"
+          ],
+          "arg_list": {
+            "bulletRange": 80,
+            "weaponRange": 80,
+            "index": [
+              1
+            ]
+          }
+        },
+        {
+          "type": "BattleBuffAddAttr",
+          "trigger": [
+            "onAttach"
+          ],
+          "arg_list": {
+            "attr": "damageToArmorRateEnhance_3",
+            "number": 0.066
+          }
+        }
+      ]
+    },
+    "3": {
+      "effect_list": [
+        {
+          "type": "BattleBuffFixRange",
+          "trigger": [
+            "onAttach"
+          ],
+          "arg_list": {
+            "bulletRange": 80,
+            "weaponRange": 80,
+            "index": [
+              1
+            ]
+          }
+        },
+        {
+          "type": "BattleBuffAddAttr",
+          "trigger": [
+            "onAttach"
+          ],
+          "arg_list": {
+            "attr": "damageToArmorRateEnhance_3",
+            "number": 0.082
+          }
+        }
+      ]
+    },
+    "4": {
+      "effect_list": [
+        {
+          "type": "BattleBuffFixRange",
+          "trigger": [
+            "onAttach"
+          ],
+          "arg_list": {
+            "bulletRange": 80,
+            "weaponRange": 80,
+            "index": [
+              1
+            ]
+          }
+        },
+        {
+          "type": "BattleBuffAddAttr",
+          "trigger": [
+            "onAttach"
+          ],
+          "arg_list": {
+            "attr": "damageToArmorRateEnhance_3",
+            "number": 0.1
+          }
+        }
+      ]
+    },
+    "5": {
+      "effect_list": [
+        {
+          "type": "BattleBuffFixRange",
+          "trigger": [
+            "onAttach"
+          ],
+          "arg_list": {
+            "bulletRange": 80,
+            "weaponRange": 80,
+            "index": [
+              1
+            ]
+          }
+        },
+        {
+          "type": "BattleBuffAddAttr",
+          "trigger": [
+            "onAttach"
+          ],
+          "arg_list": {
+            "attr": "damageToArmorRateEnhance_3",
+            "number": 0.116
+          }
+        }
+      ]
+    },
+    "6": {
+      "effect_list": [
+        {
+          "type": "BattleBuffFixRange",
+          "trigger": [
+            "onAttach"
+          ],
+          "arg_list": {
+            "bulletRange": 80,
+            "weaponRange": 80,
+            "index": [
+              1
+            ]
+          }
+        },
+        {
+          "type": "BattleBuffAddAttr",
+          "trigger": [
+            "onAttach"
+          ],
+          "arg_list": {
+            "attr": "damageToArmorRateEnhance_3",
+            "number": 0.132
+          }
+        }
+      ]
+    },
+    "7": {
+      "effect_list": [
+        {
+          "type": "BattleBuffFixRange",
+          "trigger": [
+            "onAttach"
+          ],
+          "arg_list": {
+            "bulletRange": 80,
+            "weaponRange": 80,
+            "index": [
+              1
+            ]
+          }
+        },
+        {
+          "type": "BattleBuffAddAttr",
+          "trigger": [
+            "onAttach"
+          ],
+          "arg_list": {
+            "attr": "damageToArmorRateEnhance_3",
+            "number": 0.15
+          }
+        }
+      ]
+    },
+    "8": {
+      "effect_list": [
+        {
+          "type": "BattleBuffFixRange",
+          "trigger": [
+            "onAttach"
+          ],
+          "arg_list": {
+            "bulletRange": 80,
+            "weaponRange": 80,
+            "index": [
+              1
+            ]
+          }
+        },
+        {
+          "type": "BattleBuffAddAttr",
+          "trigger": [
+            "onAttach"
+          ],
+          "arg_list": {
+            "attr": "damageToArmorRateEnhance_3",
+            "number": 0.166
+          }
+        }
+      ]
+    },
+    "9": {
+      "effect_list": [
+        {
+          "type": "BattleBuffFixRange",
+          "trigger": [
+            "onAttach"
+          ],
+          "arg_list": {
+            "bulletRange": 80,
+            "weaponRange": 80,
+            "index": [
+              1
+            ]
+          }
+        },
+        {
+          "type": "BattleBuffAddAttr",
+          "trigger": [
+            "onAttach"
+          ],
+          "arg_list": {
+            "attr": "damageToArmorRateEnhance_3",
+            "number": 0.182
+          }
+        }
+      ]
+    },
+    "10": {
+      "effect_list": [
+        {
+          "type": "BattleBuffFixRange",
+          "trigger": [
+            "onAttach"
+          ],
+          "arg_list": {
+            "bulletRange": 80,
+            "weaponRange": 80,
+            "index": [
+              1
+            ]
+          }
+        },
+        {
+          "type": "BattleBuffAddAttr",
+          "trigger": [
+            "onAttach"
+          ],
+          "arg_list": {
+            "attr": "damageToArmorRateEnhance_3",
+            "number": 0.2
+          }
+        }
+      ]
+    },
+    "init_effect": "",
+    "name": "",
+    "time": 0,
+    "color": "red",
+    "picture": "",
+    "desc": "主炮射程提升，对重甲伤害提高",
+    "stack": 1,
+    "id": 153091,
+    "icon": 153091,
+    "last_effect": ""
+  },
+  "buff_153092": {
+    "blink": [
+      0,
+      0.7,
+      1,
+      0.3,
+      0.3
+    ],
+    "effect_list": [
+      {
+        "type": "BattleBuffCleanse",
+        "trigger": [
+          "onAttach"
+        ],
+        "arg_list": {
+          "buff_id_list": [
+            311
+          ]
+        }
+      }
+    ],
+    "1": [],
+    "2": [],
+    "3": [],
+    "4": [],
+    "5": [],
+    "6": [],
+    "7": [],
+    "8": [],
+    "9": [],
+    "10": [],
+    "time": 3,
+    "name": "灭火",
+    "init_effect": "",
+    "color": "blue",
+    "picture": "",
+    "desc": "",
+    "stack": 1,
+    "id": 153090,
+    "icon": 153090,
+    "last_effect": ""
+  },
+  "buff_153093": {
+    "init_effect": "",
+    "name": "特殊点燃",
+    "time": 8.1,
+    "picture": "",
+    "desc": "持续伤害",
+    "stack": 1,
+    "id": 153093,
+    "icon": 153090,
+    "last_effect": "zhuoshao",
+    "effect_list": [
+      {
+        "type": "BattleBuffDOT",
+        "trigger": [
+          "onUpdate"
+        ],
+        "arg_list": {
+          "attr": "cannonPower",
+          "exposeGroup": 1,
+          "time": 1,
+          "cloakExpose": 36,
+          "number": 160,
+          "dotType": 1,
+          "k": 0
+        }
+      },
+      {
+        "type": "BattleBuffCastSkill",
+        "trigger": [
+          "onAttach"
+        ],
+        "arg_list": {
+          "skill_id": 60,
+          "target": "TargetSelf"
+        }
+      },
+      {
+        "type": "BattleBuffCastSkill",
+        "trigger": [
+          "onRemove"
+        ],
+        "arg_list": {
+          "skill_id": 61,
+          "target": "TargetSelf"
+        }
+      }
+    ]
+  },
+  "buff_153100": {
+    "effect_list": [
+      {
+        "type": "BattleBuffAddBuff",
+        "trigger": [
+          "onStartGame"
+        ],
+        "arg_list": {
+          "buff_id": 153101,
+          "quota": 1,
+          "target": "TargetSelf"
+        }
+      },
+      {
+        "type": "BattleBuffCastSkill",
+        "trigger": [
+          "onStartGame"
+        ],
+        "arg_list": {
+          "check_target": "TargetNationalityFriendly",
+          "minTargetNumber": 1,
+          "nationality": 7,
+          "exceptCaster": true,
+          "skill_id": 153102
+        }
+      }
+    ],
+    "1": [],
+    "2": [],
+    "3": [],
+    "4": [],
+    "5": [],
+    "6": [],
+    "7": [],
+    "8": [],
+    "9": [],
+    "10": [],
+    "desc_get": "",
+    "name": "",
+    "init_effect": "",
+    "time": 0,
+    "color": "red",
+    "picture": "",
+    "desc": "",
+    "stack": 1,
+    "id": 153100,
+    "icon": 153100,
+    "last_effect": ""
+  },
+  "buff_153101": {
+    "effect_list": [
+      {
+        "type": "BattleBuffCastSkill",
+        "trigger": [
+          "onAntiAirWeaponFireNear"
+        ],
+        "arg_list": {
+          "skill_id": 153100,
+          "target": "TargetSelf"
+        }
+      },
+      {
+        "type": "BattleBuffCastSkill",
+        "trigger": [
+          "onUpdate"
+        ],
+        "arg_list": {
+          "time": 5,
+          "target": "TargetSelf",
+          "skill_id": 153100
+        }
+      }
+    ],
+    "1": [],
+    "2": [],
+    "3": [],
+    "4": [],
+    "5": [],
+    "6": [],
+    "7": [],
+    "8": [],
+    "9": [],
+    "10": [],
+    "desc_get": "",
+    "name": "",
+    "init_effect": "",
+    "time": 0,
+    "color": "red",
+    "picture": "",
+    "desc": "",
+    "stack": 1,
+    "id": 153101,
+    "icon": 153100,
+    "last_effect": ""
+  },
+  "buff_153102": {
+    "effect_list": [
+      {
+        "type": "BattleBuffAddAttrRatio",
+        "trigger": [
+          "onAttach",
+          "onStack"
+        ],
+        "arg_list": {
+          "attr": "antiAirPower",
+          "number": 150
+        }
+      }
+    ],
+    "1": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddAttrRatio",
+          "trigger": [
+            "onAttach",
+            "onStack"
+          ],
+          "arg_list": {
+            "attr": "antiAirPower",
+            "number": 150
+          }
+        }
+      ]
+    },
+    "2": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddAttrRatio",
+          "trigger": [
+            "onAttach",
+            "onStack"
+          ],
+          "arg_list": {
+            "attr": "antiAirPower",
+            "number": 200
+          }
+        }
+      ]
+    },
+    "3": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddAttrRatio",
+          "trigger": [
+            "onAttach",
+            "onStack"
+          ],
+          "arg_list": {
+            "attr": "antiAirPower",
+            "number": 250
+          }
+        }
+      ]
+    },
+    "4": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddAttrRatio",
+          "trigger": [
+            "onAttach",
+            "onStack"
+          ],
+          "arg_list": {
+            "attr": "antiAirPower",
+            "number": 300
+          }
+        }
+      ]
+    },
+    "5": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddAttrRatio",
+          "trigger": [
+            "onAttach",
+            "onStack"
+          ],
+          "arg_list": {
+            "attr": "antiAirPower",
+            "number": 350
+          }
+        }
+      ]
+    },
+    "6": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddAttrRatio",
+          "trigger": [
+            "onAttach",
+            "onStack"
+          ],
+          "arg_list": {
+            "attr": "antiAirPower",
+            "number": 400
+          }
+        }
+      ]
+    },
+    "7": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddAttrRatio",
+          "trigger": [
+            "onAttach",
+            "onStack"
+          ],
+          "arg_list": {
+            "attr": "antiAirPower",
+            "number": 450
+          }
+        }
+      ]
+    },
+    "8": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddAttrRatio",
+          "trigger": [
+            "onAttach",
+            "onStack"
+          ],
+          "arg_list": {
+            "attr": "antiAirPower",
+            "number": 500
+          }
+        }
+      ]
+    },
+    "9": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddAttrRatio",
+          "trigger": [
+            "onAttach",
+            "onStack"
+          ],
+          "arg_list": {
+            "attr": "antiAirPower",
+            "number": 550
+          }
+        }
+      ]
+    },
+    "10": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddAttrRatio",
+          "trigger": [
+            "onAttach",
+            "onStack"
+          ],
+          "arg_list": {
+            "attr": "antiAirPower",
+            "number": 600
+          }
+        }
+      ]
+    },
+    "init_effect": "jinengchufablue",
+    "name": "",
+    "time": 0,
+    "picture": "",
+    "desc": "防空提高",
+    "stack": 3,
+    "id": 153102,
+    "icon": 153100,
+    "last_effect": ""
+  },
+  "buff_153103": {
+    "blink": [
+      0,
+      0.7,
+      1,
+      0.3,
+      0.3
+    ],
+    "effect_list": [
+      {
+        "type": "BattleBuffCount",
+        "trigger": [
+          "onStack"
+        ],
+        "arg_list": {
+          "countTarget": 3,
+          "countType": 153102
+        }
+      },
+      {
+        "type": "BattleBuffCastSkill",
+        "trigger": [
+          "onBattleBuffCount"
+        ],
+        "arg_list": {
+          "quota": 1,
+          "target": "TargetSelf",
+          "skill_id": 153101,
+          "countType": 153102
+        }
+      }
+    ],
+    "1": [],
+    "2": [],
+    "3": [],
+    "4": [],
+    "5": [],
+    "6": [],
+    "7": [],
+    "8": [],
+    "9": [],
+    "10": [],
+    "time": 0,
+    "name": "",
+    "init_effect": "jinengchufablue",
+    "picture": "",
+    "desc": "",
+    "stack": 3,
+    "id": 153103,
+    "icon": 153100,
+    "last_effect": ""
+  },
+  "buff_153104": {
+    "blink": [
+      0,
+      0.7,
+      1,
+      0.3,
+      0.3
+    ],
+    "effect_list": [
+      {
+        "type": "BattleBuffAddAttr",
+        "trigger": [
+          "onAttach",
+          "onRemove"
+        ],
+        "arg_list": {
+          "attr": "injureRatio",
+          "number": -0.01
+        }
+      },
+      {
+        "type": "BattleBuffCleanse",
+        "trigger": [
+          "onAttach"
+        ],
+        "arg_list": {
+          "buff_id_list": [
+            153101
+          ]
+        }
+      }
+    ],
+    "1": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddAttr",
+          "trigger": [
+            "onAttach",
+            "onRemove"
+          ],
+          "arg_list": {
+            "attr": "injureRatio",
+            "number": -0.01
+          }
+        },
+        {
+          "type": "BattleBuffCleanse",
+          "trigger": [
+            "onAttach"
+          ],
+          "arg_list": {
+            "buff_id_list": [
+              153101
+            ]
+          }
+        }
+      ]
+    },
+    "2": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddAttr",
+          "trigger": [
+            "onAttach",
+            "onRemove"
+          ],
+          "arg_list": {
+            "attr": "injureRatio",
+            "number": -0.02
+          }
+        },
+        {
+          "type": "BattleBuffCleanse",
+          "trigger": [
+            "onAttach"
+          ],
+          "arg_list": {
+            "buff_id_list": [
+              153101
+            ]
+          }
+        }
+      ]
+    },
+    "3": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddAttr",
+          "trigger": [
+            "onAttach",
+            "onRemove"
+          ],
+          "arg_list": {
+            "attr": "injureRatio",
+            "number": -0.03
+          }
+        },
+        {
+          "type": "BattleBuffCleanse",
+          "trigger": [
+            "onAttach"
+          ],
+          "arg_list": {
+            "buff_id_list": [
+              153101
+            ]
+          }
+        }
+      ]
+    },
+    "4": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddAttr",
+          "trigger": [
+            "onAttach",
+            "onRemove"
+          ],
+          "arg_list": {
+            "attr": "injureRatio",
+            "number": -0.04
+          }
+        },
+        {
+          "type": "BattleBuffCleanse",
+          "trigger": [
+            "onAttach"
+          ],
+          "arg_list": {
+            "buff_id_list": [
+              153101
+            ]
+          }
+        }
+      ]
+    },
+    "5": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddAttr",
+          "trigger": [
+            "onAttach",
+            "onRemove"
+          ],
+          "arg_list": {
+            "attr": "injureRatio",
+            "number": -0.05
+          }
+        },
+        {
+          "type": "BattleBuffCleanse",
+          "trigger": [
+            "onAttach"
+          ],
+          "arg_list": {
+            "buff_id_list": [
+              153101
+            ]
+          }
+        }
+      ]
+    },
+    "6": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddAttr",
+          "trigger": [
+            "onAttach",
+            "onRemove"
+          ],
+          "arg_list": {
+            "attr": "injureRatio",
+            "number": -0.06
+          }
+        },
+        {
+          "type": "BattleBuffCleanse",
+          "trigger": [
+            "onAttach"
+          ],
+          "arg_list": {
+            "buff_id_list": [
+              153101
+            ]
+          }
+        }
+      ]
+    },
+    "7": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddAttr",
+          "trigger": [
+            "onAttach",
+            "onRemove"
+          ],
+          "arg_list": {
+            "attr": "injureRatio",
+            "number": -0.07
+          }
+        },
+        {
+          "type": "BattleBuffCleanse",
+          "trigger": [
+            "onAttach"
+          ],
+          "arg_list": {
+            "buff_id_list": [
+              153101
+            ]
+          }
+        }
+      ]
+    },
+    "8": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddAttr",
+          "trigger": [
+            "onAttach",
+            "onRemove"
+          ],
+          "arg_list": {
+            "attr": "injureRatio",
+            "number": -0.08
+          }
+        },
+        {
+          "type": "BattleBuffCleanse",
+          "trigger": [
+            "onAttach"
+          ],
+          "arg_list": {
+            "buff_id_list": [
+              153101
+            ]
+          }
+        }
+      ]
+    },
+    "9": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddAttr",
+          "trigger": [
+            "onAttach",
+            "onRemove"
+          ],
+          "arg_list": {
+            "attr": "injureRatio",
+            "number": -0.09
+          }
+        },
+        {
+          "type": "BattleBuffCleanse",
+          "trigger": [
+            "onAttach"
+          ],
+          "arg_list": {
+            "buff_id_list": [
+              153101
+            ]
+          }
+        }
+      ]
+    },
+    "10": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddAttr",
+          "trigger": [
+            "onAttach",
+            "onRemove"
+          ],
+          "arg_list": {
+            "attr": "injureRatio",
+            "number": -0.1
+          }
+        },
+        {
+          "type": "BattleBuffCleanse",
+          "trigger": [
+            "onAttach"
+          ],
+          "arg_list": {
+            "buff_id_list": [
+              153101
+            ]
+          }
+        }
+      ]
+    },
+    "time": 0,
+    "name": "",
+    "init_effect": "jinengchufared",
+    "picture": "",
+    "desc": "",
+    "stack": 1,
+    "id": 153104,
+    "icon": 153100,
+    "last_effect": ""
+  },
+  "buff_153105": {
+    "effect_list": [
+      {
+        "type": "BattleBuffAddAttr",
+        "trigger": [
+          "onAttach"
+        ],
+        "arg_list": {
+          "attr": "igniteReduce",
+          "number": 500
+        }
+      }
+    ],
+    "1": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddAttr",
+          "trigger": [
+            "onAttach"
+          ],
+          "arg_list": {
+            "attr": "igniteReduce",
+            "number": 500
+          }
+        }
+      ]
+    },
+    "2": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddAttr",
+          "trigger": [
+            "onAttach"
+          ],
+          "arg_list": {
+            "attr": "igniteReduce",
+            "number": 610
+          }
+        }
+      ]
+    },
+    "3": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddAttr",
+          "trigger": [
+            "onAttach"
+          ],
+          "arg_list": {
+            "attr": "igniteReduce",
+            "number": 720
+          }
+        }
+      ]
+    },
+    "4": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddAttr",
+          "trigger": [
+            "onAttach"
+          ],
+          "arg_list": {
+            "attr": "igniteReduce",
+            "number": 830
+          }
+        }
+      ]
+    },
+    "5": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddAttr",
+          "trigger": [
+            "onAttach"
+          ],
+          "arg_list": {
+            "attr": "igniteReduce",
+            "number": 940
+          }
+        }
+      ]
+    },
+    "6": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddAttr",
+          "trigger": [
+            "onAttach"
+          ],
+          "arg_list": {
+            "attr": "igniteReduce",
+            "number": 1050
+          }
+        }
+      ]
+    },
+    "7": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddAttr",
+          "trigger": [
+            "onAttach"
+          ],
+          "arg_list": {
+            "attr": "igniteReduce",
+            "number": 1160
+          }
+        }
+      ]
+    },
+    "8": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddAttr",
+          "trigger": [
+            "onAttach"
+          ],
+          "arg_list": {
+            "attr": "igniteReduce",
+            "number": 1270
+          }
+        }
+      ]
+    },
+    "9": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddAttr",
+          "trigger": [
+            "onAttach"
+          ],
+          "arg_list": {
+            "attr": "igniteReduce",
+            "number": 1380
+          }
+        }
+      ]
+    },
+    "10": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddAttr",
+          "trigger": [
+            "onAttach"
+          ],
+          "arg_list": {
+            "attr": "igniteReduce",
+            "number": 1500
+          }
+        }
+      ]
+    },
+    "init_effect": "jinengchufablue",
+    "name": "",
+    "time": 0,
+    "picture": "",
+    "desc": "",
+    "stack": 1,
+    "id": 153105,
+    "icon": 153100,
+    "last_effect": ""
+  },
+  "buff_201955": {
+    "time": 0,
+    "name": "2026莫洛托夫SP 剧情战 血量监测",
+    "init_effect": "",
+    "stack": 1,
+    "id": 201955,
+    "picture": "",
+    "last_effect": "",
+    "effect_list": [
+      {
+        "type": "BattleBuffCastSkill",
+        "trigger": [
+          "onHPRatioUpdate"
+        ],
+        "arg_list": {
+          "hpUpperBound": 0.1,
+          "target": "TargetSelf",
+          "skill_id": 200364,
+          "quota": 1
+        }
+      },
+      {
+        "type": "BattleBuffAddBuff",
+        "trigger": [
+          "onHPRatioUpdate"
+        ],
+        "arg_list": {
+          "buff_id": 200440,
+          "exceptCaster": true,
+          "quota": 1,
+          "hpUpperBound": 0.1,
+          "target": [
+            "TargetSpectreUnit",
+            "TargetAllHelp"
+          ]
+        }
+      }
+    ]
+  },
+  "buff_30751": {
+    "effect_list": [
+      {
+        "type": "BattleBuffCount",
+        "trigger": [
+          "onFire"
+        ],
+        "arg_list": {
+          "countTarget": 12,
+          "countType": 30750,
+          "index": [
+            1
+          ]
+        }
+      },
+      {
+        "type": "BattleBuffCastSkill",
+        "trigger": [
+          "onBattleBuffCount"
+        ],
+        "arg_list": {
+          "target": "TargetSelf",
+          "skill_id": 30751,
+          "countType": 30750
+        }
+      }
+    ],
+    "1": [],
+    "init_effect": "",
+    "name": "专属弹幕",
+    "time": 0,
+    "color": "red",
+    "picture": "",
+    "desc": "主炮每进行12次攻击，触发专属弹幕-莫洛托夫I",
+    "stack": 1,
+    "id": 30751,
+    "icon": 30750,
+    "last_effect": ""
+  },
+  "buff_30752": {
+    "effect_list": [
+      {
+        "type": "BattleBuffCount",
+        "trigger": [
+          "onFire"
+        ],
+        "arg_list": {
+          "countTarget": 8,
+          "countType": 29680,
+          "index": [
+            1
+          ]
+        }
+      },
+      {
+        "type": "BattleBuffCastSkill",
+        "trigger": [
+          "onBattleBuffCount"
+        ],
+        "arg_list": {
+          "target": "TargetSelf",
+          "skill_id": 30752,
+          "countType": 29680
+        }
+      }
+    ],
+    "1": [],
+    "init_effect": "",
+    "name": "专属弹幕",
+    "time": 0,
+    "color": "red",
+    "picture": "",
+    "desc": "主炮每进行8次攻击，触发专属弹幕-莫洛托夫II",
+    "stack": 1,
+    "id": 30752,
+    "icon": 30750,
+    "last_effect": ""
+  },
+  "buff_40412": {
+    "init_effect": "",
+    "name": "潜艇编队：旗舰受到伤害降低",
+    "time": 0,
+    "color": "yellow",
+    "picture": "",
+    "desc": "该入口提供战外挂载到战内",
+    "stack": 1,
+    "id": 40412,
+    "icon": 40410,
+    "last_effect": "",
+    "effect_list": [
+      {
+        "type": "BattleBuffCastSkill",
+        "trigger": [
+          "onAttach"
+        ],
+        "arg_list": {
+          "skill_id": 40410
+        }
+      }
+    ]
+  },
+  "buff_40632": {
+    "init_effect": "",
+    "name": "潜艇编队：先锋受到伤害降低",
+    "time": 0,
+    "color": "yellow",
+    "picture": "",
+    "desc": "该入口提供战外挂载到战内",
+    "stack": 1,
+    "id": 40632,
+    "icon": 40630,
+    "last_effect": "",
+    "effect_list": [
+      {
+        "type": "BattleBuffCastSkill",
+        "trigger": [
+          "onAttach"
+        ],
+        "arg_list": {
+          "skill_id": 40630
+        }
+      }
+    ]
+  },
+  "buff_40634": {
+    "init_effect": "",
+    "name": "潜艇编队：先锋仅1艘时受到伤害降低",
+    "time": 0,
+    "color": "yellow",
+    "picture": "",
+    "desc": "该入口提供战外挂载到战内",
+    "stack": 1,
+    "id": 40634,
+    "icon": 40630,
+    "last_effect": "",
+    "effect_list": [
+      {
+        "type": "BattleBuffCastSkill",
+        "trigger": [
+          "onAttach"
+        ],
+        "arg_list": {
+          "minTargetNumber": 1,
+          "maxTargetNumber": 1,
+          "skill_id": 40630,
+          "check_target": [
+            "TargetPlayerVanguardFleet"
+          ]
+        }
+      }
+    ]
+  },
+  "buff_411930": {
+    "init_effect": "",
+    "name": "驱逐-后勤-机动I",
+    "time": 0,
+    "color": "yellow",
+    "picture": "",
+    "desc": "该入口提供战外挂载到战内",
+    "stack": 1,
+    "id": 411930,
+    "icon": 411930,
+    "last_effect": "",
+    "effect_list": [
+      {
+        "type": "BattleBuffCastSkill",
+        "trigger": [
+          "onFlagShip"
+        ],
+        "arg_list": {
+          "skill_id": 411930
+        }
+      }
+    ]
+  },
+  "buff_411931": {
+    "init_effect": "",
+    "name": "驱逐-后勤-机动I具体效果",
+    "time": 0,
+    "color": "yellow",
+    "picture": "",
+    "desc": "驱逐-后勤-机动I",
+    "stack": 1,
+    "id": 411931,
+    "icon": 411930,
+    "last_effect": "",
+    "effect_list": [
+      {
+        "type": "BattleBuffAddAttrRatioCommander",
+        "trigger": [
+          "onAttach"
+        ],
+        "arg_list": {
+          "ability": "support",
+          "convertRate": 0.4,
+          "convertAttr": "dodgeRate"
+        }
+      }
+    ]
+  },
+  "buff_61180": {
+    "init_effect": "",
+    "name": "",
+    "time": 0,
+    "color": "red",
+    "picture": "",
+    "desc": "",
+    "stack": 1,
+    "id": 61180,
+    "icon": 61180,
+    "last_effect": "",
+    "effect_list": [
+      {
+        "type": "BattleBuffAddBuff",
+        "trigger": [
+          "onStartGame"
+        ],
+        "arg_list": {
+          "buff_id": 61181,
+          "target": "TargetPlayerLeaderShip"
+        }
+      }
+    ]
+  },
+  "buff_61181": {
+    "init_effect": "",
+    "name": "",
+    "time": 30,
+    "color": "red",
+    "picture": "",
+    "desc": "",
+    "stack": 1,
+    "id": 61181,
+    "icon": 61180,
+    "last_effect": "",
+    "effect_list": [
+      {
+        "type": "BattleBuffAddAttrRatio",
+        "trigger": [
+          "onAttach",
+          "onRemove"
+        ],
+        "arg_list": {
+          "attr": "cannonPower",
+          "number": 300
+        }
+      },
+      {
+        "type": "BattleBuffAddAttrRatio",
+        "trigger": [
+          "onAttach",
+          "onRemove"
+        ],
+        "arg_list": {
+          "attr": "torpedoPower",
+          "number": 300
+        }
+      },
+      {
+        "type": "BattleBuffAddAttr",
+        "trigger": [
+          "onAttach",
+          "onRemove"
+        ],
+        "arg_list": {
+          "attr": "injureRatio",
+          "number": -0.03
+        }
+      }
+    ]
+  },
+  "buff_802410": {
+    "effect_list": [
+      {
+        "type": "BattleBuffAddBuff",
+        "trigger": [
+          "onStartGame"
+        ],
+        "pop": [],
+        "arg_list": {
+          "buff_id": 802411
+        }
+      },
+      {
+        "type": "BattleBuffCastSkillRandom",
+        "trigger": [
+          "onUpdate"
+        ],
+        "arg_list": {
+          "time": 20,
+          "target": "TargetSelf",
+          "skill_id_list": [
+            802410,
+            802411,
+            802412
+          ],
+          "range": [
+            [
+              0,
+              0.333
+            ],
+            [
+              0.333,
+              0.666
+            ],
+            [
+              0.666,
+              1
+            ]
+          ]
+        }
+      },
+      {
+        "type": "BattleBuffCastSkill",
+        "trigger": [
+          "onUpdate"
+        ],
+        "arg_list": {
+          "time": 20,
+          "target": "TargetSelf",
+          "skill_id": 802413
+        }
+      }
+    ],
+    "1": [],
+    "2": [],
+    "3": [],
+    "4": [],
+    "5": [],
+    "6": [],
+    "7": [],
+    "8": [],
+    "9": [],
+    "10": [],
+    "desc_get": "",
+    "name": "",
+    "init_effect": "",
+    "time": 0,
+    "color": "",
+    "picture": "",
+    "desc": "",
+    "stack": 1,
+    "id": 802410,
+    "icon": 802410,
+    "last_effect": ""
+  },
+  "buff_802411": {
+    "blink": [
+      0,
+      0.7,
+      1,
+      0.3,
+      0.3
+    ],
+    "effect_list": [
+      {
+        "type": "BattleBuffAddAttrRatio",
+        "trigger": [
+          "onAttach",
+          "onRemove"
+        ],
+        "arg_list": {
+          "attr": "antiAirPower",
+          "number": 100
+        }
+      },
+      {
+        "type": "BattleBuffAddAttrRatio",
+        "trigger": [
+          "onAttach",
+          "onRemove"
+        ],
+        "arg_list": {
+          "attr": "antiSubPower",
+          "number": 100
+        }
+      }
+    ],
+    "1": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddAttrRatio",
+          "trigger": [
+            "onAttach",
+            "onRemove"
+          ],
+          "arg_list": {
+            "attr": "antiAirPower",
+            "number": 100
+          }
+        },
+        {
+          "type": "BattleBuffAddAttrRatio",
+          "trigger": [
+            "onAttach",
+            "onRemove"
+          ],
+          "arg_list": {
+            "attr": "antiSubPower",
+            "number": 100
+          }
+        }
+      ]
+    },
+    "2": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddAttrRatio",
+          "trigger": [
+            "onAttach",
+            "onRemove"
+          ],
+          "arg_list": {
+            "attr": "antiAirPower",
+            "number": 200
+          }
+        },
+        {
+          "type": "BattleBuffAddAttrRatio",
+          "trigger": [
+            "onAttach",
+            "onRemove"
+          ],
+          "arg_list": {
+            "attr": "antiSubPower",
+            "number": 200
+          }
+        }
+      ]
+    },
+    "3": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddAttrRatio",
+          "trigger": [
+            "onAttach",
+            "onRemove"
+          ],
+          "arg_list": {
+            "attr": "antiAirPower",
+            "number": 300
+          }
+        },
+        {
+          "type": "BattleBuffAddAttrRatio",
+          "trigger": [
+            "onAttach",
+            "onRemove"
+          ],
+          "arg_list": {
+            "attr": "antiSubPower",
+            "number": 300
+          }
+        }
+      ]
+    },
+    "4": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddAttrRatio",
+          "trigger": [
+            "onAttach",
+            "onRemove"
+          ],
+          "arg_list": {
+            "attr": "antiAirPower",
+            "number": 400
+          }
+        },
+        {
+          "type": "BattleBuffAddAttrRatio",
+          "trigger": [
+            "onAttach",
+            "onRemove"
+          ],
+          "arg_list": {
+            "attr": "antiSubPower",
+            "number": 400
+          }
+        }
+      ]
+    },
+    "5": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddAttrRatio",
+          "trigger": [
+            "onAttach",
+            "onRemove"
+          ],
+          "arg_list": {
+            "attr": "antiAirPower",
+            "number": 500
+          }
+        },
+        {
+          "type": "BattleBuffAddAttrRatio",
+          "trigger": [
+            "onAttach",
+            "onRemove"
+          ],
+          "arg_list": {
+            "attr": "antiSubPower",
+            "number": 500
+          }
+        }
+      ]
+    },
+    "6": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddAttrRatio",
+          "trigger": [
+            "onAttach",
+            "onRemove"
+          ],
+          "arg_list": {
+            "attr": "antiAirPower",
+            "number": 600
+          }
+        },
+        {
+          "type": "BattleBuffAddAttrRatio",
+          "trigger": [
+            "onAttach",
+            "onRemove"
+          ],
+          "arg_list": {
+            "attr": "antiSubPower",
+            "number": 600
+          }
+        }
+      ]
+    },
+    "7": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddAttrRatio",
+          "trigger": [
+            "onAttach",
+            "onRemove"
+          ],
+          "arg_list": {
+            "attr": "antiAirPower",
+            "number": 700
+          }
+        },
+        {
+          "type": "BattleBuffAddAttrRatio",
+          "trigger": [
+            "onAttach",
+            "onRemove"
+          ],
+          "arg_list": {
+            "attr": "antiSubPower",
+            "number": 700
+          }
+        }
+      ]
+    },
+    "8": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddAttrRatio",
+          "trigger": [
+            "onAttach",
+            "onRemove"
+          ],
+          "arg_list": {
+            "attr": "antiAirPower",
+            "number": 800
+          }
+        },
+        {
+          "type": "BattleBuffAddAttrRatio",
+          "trigger": [
+            "onAttach",
+            "onRemove"
+          ],
+          "arg_list": {
+            "attr": "antiSubPower",
+            "number": 800
+          }
+        }
+      ]
+    },
+    "9": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddAttrRatio",
+          "trigger": [
+            "onAttach",
+            "onRemove"
+          ],
+          "arg_list": {
+            "attr": "antiAirPower",
+            "number": 900
+          }
+        },
+        {
+          "type": "BattleBuffAddAttrRatio",
+          "trigger": [
+            "onAttach",
+            "onRemove"
+          ],
+          "arg_list": {
+            "attr": "antiSubPower",
+            "number": 900
+          }
+        }
+      ]
+    },
+    "10": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddAttrRatio",
+          "trigger": [
+            "onAttach",
+            "onRemove"
+          ],
+          "arg_list": {
+            "attr": "antiAirPower",
+            "number": 1000
+          }
+        },
+        {
+          "type": "BattleBuffAddAttrRatio",
+          "trigger": [
+            "onAttach",
+            "onRemove"
+          ],
+          "arg_list": {
+            "attr": "antiSubPower",
+            "number": 1000
+          }
+        }
+      ]
+    },
+    "time": 0,
+    "name": "",
+    "init_effect": "jinengchufablue",
+    "picture": "",
+    "desc": "防空提高",
+    "stack": 1,
+    "id": 802411,
+    "icon": 802410,
+    "last_effect": ""
+  },
+  "buff_802412": {
+    "blink": [
+      1,
+      0,
+      0,
+      0.3,
+      0.3
+    ],
+    "effect_list": [
+      {
+        "type": "BattleBuffAddAttrRatio",
+        "trigger": [
+          "onAttach",
+          "onRemove"
+        ],
+        "arg_list": {
+          "attr": "cannonPower",
+          "number": 1000
+        }
+      },
+      {
+        "type": "BattleBuffAddAttrRatio",
+        "trigger": [
+          "onAttach",
+          "onRemove"
+        ],
+        "arg_list": {
+          "attr": "torpedoPower",
+          "number": 1000
+        }
+      }
+    ],
+    "1": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddAttrRatio",
+          "trigger": [
+            "onAttach",
+            "onRemove"
+          ],
+          "arg_list": {
+            "attr": "cannonPower",
+            "number": 1000
+          }
+        },
+        {
+          "type": "BattleBuffAddAttrRatio",
+          "trigger": [
+            "onAttach",
+            "onRemove"
+          ],
+          "arg_list": {
+            "attr": "torpedoPower",
+            "number": 1000
+          }
+        }
+      ]
+    },
+    "2": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddAttrRatio",
+          "trigger": [
+            "onAttach",
+            "onRemove"
+          ],
+          "arg_list": {
+            "attr": "cannonPower",
+            "number": 1110
+          }
+        },
+        {
+          "type": "BattleBuffAddAttrRatio",
+          "trigger": [
+            "onAttach",
+            "onRemove"
+          ],
+          "arg_list": {
+            "attr": "torpedoPower",
+            "number": 1110
+          }
+        }
+      ]
+    },
+    "3": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddAttrRatio",
+          "trigger": [
+            "onAttach",
+            "onRemove"
+          ],
+          "arg_list": {
+            "attr": "cannonPower",
+            "number": 1220
+          }
+        },
+        {
+          "type": "BattleBuffAddAttrRatio",
+          "trigger": [
+            "onAttach",
+            "onRemove"
+          ],
+          "arg_list": {
+            "attr": "torpedoPower",
+            "number": 1220
+          }
+        }
+      ]
+    },
+    "4": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddAttrRatio",
+          "trigger": [
+            "onAttach",
+            "onRemove"
+          ],
+          "arg_list": {
+            "attr": "cannonPower",
+            "number": 1330
+          }
+        },
+        {
+          "type": "BattleBuffAddAttrRatio",
+          "trigger": [
+            "onAttach",
+            "onRemove"
+          ],
+          "arg_list": {
+            "attr": "torpedoPower",
+            "number": 1330
+          }
+        }
+      ]
+    },
+    "5": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddAttrRatio",
+          "trigger": [
+            "onAttach",
+            "onRemove"
+          ],
+          "arg_list": {
+            "attr": "cannonPower",
+            "number": 1440
+          }
+        },
+        {
+          "type": "BattleBuffAddAttrRatio",
+          "trigger": [
+            "onAttach",
+            "onRemove"
+          ],
+          "arg_list": {
+            "attr": "torpedoPower",
+            "number": 1440
+          }
+        }
+      ]
+    },
+    "6": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddAttrRatio",
+          "trigger": [
+            "onAttach",
+            "onRemove"
+          ],
+          "arg_list": {
+            "attr": "cannonPower",
+            "number": 1550
+          }
+        },
+        {
+          "type": "BattleBuffAddAttrRatio",
+          "trigger": [
+            "onAttach",
+            "onRemove"
+          ],
+          "arg_list": {
+            "attr": "torpedoPower",
+            "number": 1550
+          }
+        }
+      ]
+    },
+    "7": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddAttrRatio",
+          "trigger": [
+            "onAttach",
+            "onRemove"
+          ],
+          "arg_list": {
+            "attr": "cannonPower",
+            "number": 1660
+          }
+        },
+        {
+          "type": "BattleBuffAddAttrRatio",
+          "trigger": [
+            "onAttach",
+            "onRemove"
+          ],
+          "arg_list": {
+            "attr": "torpedoPower",
+            "number": 1660
+          }
+        }
+      ]
+    },
+    "8": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddAttrRatio",
+          "trigger": [
+            "onAttach",
+            "onRemove"
+          ],
+          "arg_list": {
+            "attr": "cannonPower",
+            "number": 1770
+          }
+        },
+        {
+          "type": "BattleBuffAddAttrRatio",
+          "trigger": [
+            "onAttach",
+            "onRemove"
+          ],
+          "arg_list": {
+            "attr": "torpedoPower",
+            "number": 1770
+          }
+        }
+      ]
+    },
+    "9": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddAttrRatio",
+          "trigger": [
+            "onAttach",
+            "onRemove"
+          ],
+          "arg_list": {
+            "attr": "cannonPower",
+            "number": 1880
+          }
+        },
+        {
+          "type": "BattleBuffAddAttrRatio",
+          "trigger": [
+            "onAttach",
+            "onRemove"
+          ],
+          "arg_list": {
+            "attr": "torpedoPower",
+            "number": 1880
+          }
+        }
+      ]
+    },
+    "10": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddAttrRatio",
+          "trigger": [
+            "onAttach",
+            "onRemove"
+          ],
+          "arg_list": {
+            "attr": "cannonPower",
+            "number": 2000
+          }
+        },
+        {
+          "type": "BattleBuffAddAttrRatio",
+          "trigger": [
+            "onAttach",
+            "onRemove"
+          ],
+          "arg_list": {
+            "attr": "torpedoPower",
+            "number": 2000
+          }
+        }
+      ]
+    },
+    "time": 10,
+    "name": "属性变更",
+    "init_effect": "jinengchufared",
+    "picture": "",
+    "desc": "",
+    "stack": 1,
+    "id": 802412,
+    "icon": 802410,
+    "last_effect": ""
+  },
+  "buff_802413": {
+    "blink": [
+      1,
+      0,
+      0,
+      0.3,
+      0.3
+    ],
+    "effect_list": [
+      {
+        "type": "BattleBuffAddBulletAttr",
+        "trigger": [
+          "onBulletCreate"
+        ],
+        "arg_list": {
+          "attr": "cri",
+          "number": 0.1
+        }
+      },
+      {
+        "type": "BattleBuffAddBulletAttr",
+        "trigger": [
+          "onBulletCreate"
+        ],
+        "arg_list": {
+          "attr": "criDamage",
+          "number": 0.1
+        }
+      }
+    ],
+    "1": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddBulletAttr",
+          "trigger": [
+            "onBulletCreate"
+          ],
+          "arg_list": {
+            "attr": "cri",
+            "number": 0.1
+          }
+        },
+        {
+          "type": "BattleBuffAddBulletAttr",
+          "trigger": [
+            "onBulletCreate"
+          ],
+          "arg_list": {
+            "attr": "criDamage",
+            "number": 0.1
+          }
+        }
+      ]
+    },
+    "2": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddBulletAttr",
+          "trigger": [
+            "onBulletCreate"
+          ],
+          "arg_list": {
+            "attr": "cri",
+            "number": 0.111
+          }
+        },
+        {
+          "type": "BattleBuffAddBulletAttr",
+          "trigger": [
+            "onBulletCreate"
+          ],
+          "arg_list": {
+            "attr": "criDamage",
+            "number": 0.111
+          }
+        }
+      ]
+    },
+    "3": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddBulletAttr",
+          "trigger": [
+            "onBulletCreate"
+          ],
+          "arg_list": {
+            "attr": "cri",
+            "number": 0.122
+          }
+        },
+        {
+          "type": "BattleBuffAddBulletAttr",
+          "trigger": [
+            "onBulletCreate"
+          ],
+          "arg_list": {
+            "attr": "criDamage",
+            "number": 0.122
+          }
+        }
+      ]
+    },
+    "4": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddBulletAttr",
+          "trigger": [
+            "onBulletCreate"
+          ],
+          "arg_list": {
+            "attr": "cri",
+            "number": 0.133
+          }
+        },
+        {
+          "type": "BattleBuffAddBulletAttr",
+          "trigger": [
+            "onBulletCreate"
+          ],
+          "arg_list": {
+            "attr": "criDamage",
+            "number": 0.133
+          }
+        }
+      ]
+    },
+    "5": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddBulletAttr",
+          "trigger": [
+            "onBulletCreate"
+          ],
+          "arg_list": {
+            "attr": "cri",
+            "number": 0.144
+          }
+        },
+        {
+          "type": "BattleBuffAddBulletAttr",
+          "trigger": [
+            "onBulletCreate"
+          ],
+          "arg_list": {
+            "attr": "criDamage",
+            "number": 0.144
+          }
+        }
+      ]
+    },
+    "6": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddBulletAttr",
+          "trigger": [
+            "onBulletCreate"
+          ],
+          "arg_list": {
+            "attr": "cri",
+            "number": 0.155
+          }
+        },
+        {
+          "type": "BattleBuffAddBulletAttr",
+          "trigger": [
+            "onBulletCreate"
+          ],
+          "arg_list": {
+            "attr": "criDamage",
+            "number": 0.155
+          }
+        }
+      ]
+    },
+    "7": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddBulletAttr",
+          "trigger": [
+            "onBulletCreate"
+          ],
+          "arg_list": {
+            "attr": "cri",
+            "number": 0.166
+          }
+        },
+        {
+          "type": "BattleBuffAddBulletAttr",
+          "trigger": [
+            "onBulletCreate"
+          ],
+          "arg_list": {
+            "attr": "criDamage",
+            "number": 0.166
+          }
+        }
+      ]
+    },
+    "8": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddBulletAttr",
+          "trigger": [
+            "onBulletCreate"
+          ],
+          "arg_list": {
+            "attr": "cri",
+            "number": 0.177
+          }
+        },
+        {
+          "type": "BattleBuffAddBulletAttr",
+          "trigger": [
+            "onBulletCreate"
+          ],
+          "arg_list": {
+            "attr": "criDamage",
+            "number": 0.177
+          }
+        }
+      ]
+    },
+    "9": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddBulletAttr",
+          "trigger": [
+            "onBulletCreate"
+          ],
+          "arg_list": {
+            "attr": "cri",
+            "number": 0.188
+          }
+        },
+        {
+          "type": "BattleBuffAddBulletAttr",
+          "trigger": [
+            "onBulletCreate"
+          ],
+          "arg_list": {
+            "attr": "criDamage",
+            "number": 0.188
+          }
+        }
+      ]
+    },
+    "10": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddBulletAttr",
+          "trigger": [
+            "onBulletCreate"
+          ],
+          "arg_list": {
+            "attr": "cri",
+            "number": 0.2
+          }
+        },
+        {
+          "type": "BattleBuffAddBulletAttr",
+          "trigger": [
+            "onBulletCreate"
+          ],
+          "arg_list": {
+            "attr": "criDamage",
+            "number": 0.2
+          }
+        }
+      ]
+    },
+    "desc_get": "炮击暴击率提高10.0%(满级30.0%)，暴击伤害提高30.0%",
+    "name": "",
+    "init_effect": "jinengchufared",
+    "time": 10,
+    "color": "red",
+    "picture": "",
+    "desc": "炮击暴击率提高$1，暴击伤害提高40.0%",
+    "stack": 1,
+    "id": 802413,
+    "icon": 802410,
+    "last_effect": ""
+  },
+  "buff_802414": {
+    "blink": [
+      1,
+      0,
+      0,
+      0.3,
+      0.3
+    ],
+    "effect_list": [
+      {
+        "type": "BattleBuffAddAttrRatio",
+        "trigger": [
+          "onAttach",
+          "onRemove"
+        ],
+        "arg_list": {
+          "attr": "loadSpeed",
+          "number": 1000
+        }
+      },
+      {
+        "type": "BattleBuffAddAttrRatio",
+        "trigger": [
+          "onAttach",
+          "onRemove"
+        ],
+        "arg_list": {
+          "attr": "attackRating",
+          "number": 1000
+        }
+      }
+    ],
+    "1": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddAttrRatio",
+          "trigger": [
+            "onAttach",
+            "onRemove"
+          ],
+          "arg_list": {
+            "attr": "loadSpeed",
+            "number": 1000
+          }
+        },
+        {
+          "type": "BattleBuffAddAttrRatio",
+          "trigger": [
+            "onAttach",
+            "onRemove"
+          ],
+          "arg_list": {
+            "attr": "attackRating",
+            "number": 1000
+          }
+        }
+      ]
+    },
+    "2": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddAttrRatio",
+          "trigger": [
+            "onAttach",
+            "onRemove"
+          ],
+          "arg_list": {
+            "attr": "loadSpeed",
+            "number": 1110
+          }
+        },
+        {
+          "type": "BattleBuffAddAttrRatio",
+          "trigger": [
+            "onAttach",
+            "onRemove"
+          ],
+          "arg_list": {
+            "attr": "attackRating",
+            "number": 1110
+          }
+        }
+      ]
+    },
+    "3": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddAttrRatio",
+          "trigger": [
+            "onAttach",
+            "onRemove"
+          ],
+          "arg_list": {
+            "attr": "loadSpeed",
+            "number": 1220
+          }
+        },
+        {
+          "type": "BattleBuffAddAttrRatio",
+          "trigger": [
+            "onAttach",
+            "onRemove"
+          ],
+          "arg_list": {
+            "attr": "attackRating",
+            "number": 1220
+          }
+        }
+      ]
+    },
+    "4": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddAttrRatio",
+          "trigger": [
+            "onAttach",
+            "onRemove"
+          ],
+          "arg_list": {
+            "attr": "loadSpeed",
+            "number": 1330
+          }
+        },
+        {
+          "type": "BattleBuffAddAttrRatio",
+          "trigger": [
+            "onAttach",
+            "onRemove"
+          ],
+          "arg_list": {
+            "attr": "attackRating",
+            "number": 1330
+          }
+        }
+      ]
+    },
+    "5": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddAttrRatio",
+          "trigger": [
+            "onAttach",
+            "onRemove"
+          ],
+          "arg_list": {
+            "attr": "loadSpeed",
+            "number": 1440
+          }
+        },
+        {
+          "type": "BattleBuffAddAttrRatio",
+          "trigger": [
+            "onAttach",
+            "onRemove"
+          ],
+          "arg_list": {
+            "attr": "attackRating",
+            "number": 1440
+          }
+        }
+      ]
+    },
+    "6": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddAttrRatio",
+          "trigger": [
+            "onAttach",
+            "onRemove"
+          ],
+          "arg_list": {
+            "attr": "loadSpeed",
+            "number": 1550
+          }
+        },
+        {
+          "type": "BattleBuffAddAttrRatio",
+          "trigger": [
+            "onAttach",
+            "onRemove"
+          ],
+          "arg_list": {
+            "attr": "attackRating",
+            "number": 1550
+          }
+        }
+      ]
+    },
+    "7": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddAttrRatio",
+          "trigger": [
+            "onAttach",
+            "onRemove"
+          ],
+          "arg_list": {
+            "attr": "loadSpeed",
+            "number": 1660
+          }
+        },
+        {
+          "type": "BattleBuffAddAttrRatio",
+          "trigger": [
+            "onAttach",
+            "onRemove"
+          ],
+          "arg_list": {
+            "attr": "attackRating",
+            "number": 1660
+          }
+        }
+      ]
+    },
+    "8": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddAttrRatio",
+          "trigger": [
+            "onAttach",
+            "onRemove"
+          ],
+          "arg_list": {
+            "attr": "loadSpeed",
+            "number": 1770
+          }
+        },
+        {
+          "type": "BattleBuffAddAttrRatio",
+          "trigger": [
+            "onAttach",
+            "onRemove"
+          ],
+          "arg_list": {
+            "attr": "attackRating",
+            "number": 1770
+          }
+        }
+      ]
+    },
+    "9": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddAttrRatio",
+          "trigger": [
+            "onAttach",
+            "onRemove"
+          ],
+          "arg_list": {
+            "attr": "loadSpeed",
+            "number": 1880
+          }
+        },
+        {
+          "type": "BattleBuffAddAttrRatio",
+          "trigger": [
+            "onAttach",
+            "onRemove"
+          ],
+          "arg_list": {
+            "attr": "attackRating",
+            "number": 1880
+          }
+        }
+      ]
+    },
+    "10": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddAttrRatio",
+          "trigger": [
+            "onAttach",
+            "onRemove"
+          ],
+          "arg_list": {
+            "attr": "loadSpeed",
+            "number": 2000
+          }
+        },
+        {
+          "type": "BattleBuffAddAttrRatio",
+          "trigger": [
+            "onAttach",
+            "onRemove"
+          ],
+          "arg_list": {
+            "attr": "attackRating",
+            "number": 2000
+          }
+        }
+      ]
+    },
+    "time": 10,
+    "name": "属性变更",
+    "init_effect": "jinengchufared",
+    "picture": "",
+    "desc": "",
+    "stack": 1,
+    "id": 802414,
+    "icon": 802410,
+    "last_effect": ""
+  },
+  "buff_802415": {
+    "effect_list": [
+      {
+        "type": "BattleBuffHP",
+        "trigger": [
+          "onAttach"
+        ],
+        "arg_list": {
+          "maxHPRatio": 0.01
+        }
+      }
+    ],
+    "1": {
+      "effect_list": [
+        {
+          "type": "BattleBuffHP",
+          "trigger": [
+            "onAttach"
+          ],
+          "arg_list": {
+            "maxHPRatio": 0.01
+          }
+        }
+      ]
+    },
+    "2": {
+      "effect_list": [
+        {
+          "type": "BattleBuffHP",
+          "trigger": [
+            "onAttach"
+          ],
+          "arg_list": {
+            "maxHPRatio": 0.014
+          }
+        }
+      ]
+    },
+    "3": {
+      "effect_list": [
+        {
+          "type": "BattleBuffHP",
+          "trigger": [
+            "onAttach"
+          ],
+          "arg_list": {
+            "maxHPRatio": 0.018
+          }
+        }
+      ]
+    },
+    "4": {
+      "effect_list": [
+        {
+          "type": "BattleBuffHP",
+          "trigger": [
+            "onAttach"
+          ],
+          "arg_list": {
+            "maxHPRatio": 0.022
+          }
+        }
+      ]
+    },
+    "5": {
+      "effect_list": [
+        {
+          "type": "BattleBuffHP",
+          "trigger": [
+            "onAttach"
+          ],
+          "arg_list": {
+            "maxHPRatio": 0.026
+          }
+        }
+      ]
+    },
+    "6": {
+      "effect_list": [
+        {
+          "type": "BattleBuffHP",
+          "trigger": [
+            "onAttach"
+          ],
+          "arg_list": {
+            "maxHPRatio": 0.03
+          }
+        }
+      ]
+    },
+    "7": {
+      "effect_list": [
+        {
+          "type": "BattleBuffHP",
+          "trigger": [
+            "onAttach"
+          ],
+          "arg_list": {
+            "maxHPRatio": 0.035
+          }
+        }
+      ]
+    },
+    "8": {
+      "effect_list": [
+        {
+          "type": "BattleBuffHP",
+          "trigger": [
+            "onAttach"
+          ],
+          "arg_list": {
+            "maxHPRatio": 0.04
+          }
+        }
+      ]
+    },
+    "9": {
+      "effect_list": [
+        {
+          "type": "BattleBuffHP",
+          "trigger": [
+            "onAttach"
+          ],
+          "arg_list": {
+            "maxHPRatio": 0.045
+          }
+        }
+      ]
+    },
+    "10": {
+      "effect_list": [
+        {
+          "type": "BattleBuffHP",
+          "trigger": [
+            "onAttach"
+          ],
+          "arg_list": {
+            "maxHPRatio": 0.05
+          }
+        }
+      ]
+    },
+    "init_effect": "",
+    "name": "",
+    "time": 2,
+    "picture": "",
+    "desc": "HOT",
+    "stack": 1,
+    "id": 802415,
+    "icon": 802410,
+    "last_effect": "Health"
+  },
+  "buff_802420": {
+    "effect_list": [
+      {
+        "type": "BattleBuffCastSkill",
+        "trigger": [
+          "onStartGame"
+        ],
+        "arg_list": {
+          "skill_id": 802420,
+          "target": "TargetSelf"
+        }
+      },
+      {
+        "type": "BattleBuffAddBuff",
+        "trigger": [
+          "onTorpedoWeaponFire"
+        ],
+        "arg_list": {
+          "buff_id": 802422,
+          "target": "TargetSelf"
+        }
+      },
+      {
+        "type": "BattleBuffCastSkill",
+        "trigger": [
+          "onStartGame"
+        ],
+        "arg_list": {
+          "skill_id": 802422,
+          "target": "TargetSelf"
+        }
+      }
+    ],
+    "1": [],
+    "2": [],
+    "3": [],
+    "4": [],
+    "5": [],
+    "6": [],
+    "7": [],
+    "8": [],
+    "9": [],
+    "10": [],
+    "desc_get": "",
+    "name": "",
+    "init_effect": "",
+    "time": 0,
+    "color": "yellow",
+    "picture": "",
+    "desc": "",
+    "stack": 1,
+    "id": 802420,
+    "icon": 802420,
+    "last_effect": ""
+  },
+  "buff_802421": {
+    "blink": [
+      1,
+      0,
+      0,
+      0.3,
+      0.3
+    ],
+    "effect_list": [
+      {
+        "type": "BattleBuffAddProficiency",
+        "trigger": [
+          "onAttach"
+        ],
+        "arg_list": {
+          "number": 0.01,
+          "label": [
+            "MG"
+          ]
+        }
+      },
+      {
+        "type": "BattleBuffAddProficiency",
+        "trigger": [
+          "onAttach"
+        ],
+        "arg_list": {
+          "number": 0.01,
+          "label": [
+            "TP"
+          ]
+        }
+      }
+    ],
+    "1": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddProficiency",
+          "trigger": [
+            "onAttach"
+          ],
+          "arg_list": {
+            "number": 0.01,
+            "label": [
+              "MG"
+            ]
+          }
+        },
+        {
+          "type": "BattleBuffAddProficiency",
+          "trigger": [
+            "onAttach"
+          ],
+          "arg_list": {
+            "number": 0.01,
+            "label": [
+              "TP"
+            ]
+          }
+        }
+      ]
+    },
+    "2": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddProficiency",
+          "trigger": [
+            "onAttach"
+          ],
+          "arg_list": {
+            "number": 0.02,
+            "label": [
+              "MG"
+            ]
+          }
+        },
+        {
+          "type": "BattleBuffAddProficiency",
+          "trigger": [
+            "onAttach"
+          ],
+          "arg_list": {
+            "number": 0.02,
+            "label": [
+              "TP"
+            ]
+          }
+        }
+      ]
+    },
+    "3": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddProficiency",
+          "trigger": [
+            "onAttach"
+          ],
+          "arg_list": {
+            "number": 0.03,
+            "label": [
+              "MG"
+            ]
+          }
+        },
+        {
+          "type": "BattleBuffAddProficiency",
+          "trigger": [
+            "onAttach"
+          ],
+          "arg_list": {
+            "number": 0.03,
+            "label": [
+              "TP"
+            ]
+          }
+        }
+      ]
+    },
+    "4": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddProficiency",
+          "trigger": [
+            "onAttach"
+          ],
+          "arg_list": {
+            "number": 0.04,
+            "label": [
+              "MG"
+            ]
+          }
+        },
+        {
+          "type": "BattleBuffAddProficiency",
+          "trigger": [
+            "onAttach"
+          ],
+          "arg_list": {
+            "number": 0.04,
+            "label": [
+              "TP"
+            ]
+          }
+        }
+      ]
+    },
+    "5": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddProficiency",
+          "trigger": [
+            "onAttach"
+          ],
+          "arg_list": {
+            "number": 0.05,
+            "label": [
+              "MG"
+            ]
+          }
+        },
+        {
+          "type": "BattleBuffAddProficiency",
+          "trigger": [
+            "onAttach"
+          ],
+          "arg_list": {
+            "number": 0.05,
+            "label": [
+              "TP"
+            ]
+          }
+        }
+      ]
+    },
+    "6": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddProficiency",
+          "trigger": [
+            "onAttach"
+          ],
+          "arg_list": {
+            "number": 0.06,
+            "label": [
+              "MG"
+            ]
+          }
+        },
+        {
+          "type": "BattleBuffAddProficiency",
+          "trigger": [
+            "onAttach"
+          ],
+          "arg_list": {
+            "number": 0.06,
+            "label": [
+              "TP"
+            ]
+          }
+        }
+      ]
+    },
+    "7": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddProficiency",
+          "trigger": [
+            "onAttach"
+          ],
+          "arg_list": {
+            "number": 0.07,
+            "label": [
+              "MG"
+            ]
+          }
+        },
+        {
+          "type": "BattleBuffAddProficiency",
+          "trigger": [
+            "onAttach"
+          ],
+          "arg_list": {
+            "number": 0.07,
+            "label": [
+              "TP"
+            ]
+          }
+        }
+      ]
+    },
+    "8": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddProficiency",
+          "trigger": [
+            "onAttach"
+          ],
+          "arg_list": {
+            "number": 0.08,
+            "label": [
+              "MG"
+            ]
+          }
+        },
+        {
+          "type": "BattleBuffAddProficiency",
+          "trigger": [
+            "onAttach"
+          ],
+          "arg_list": {
+            "number": 0.08,
+            "label": [
+              "TP"
+            ]
+          }
+        }
+      ]
+    },
+    "9": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddProficiency",
+          "trigger": [
+            "onAttach"
+          ],
+          "arg_list": {
+            "number": 0.09,
+            "label": [
+              "MG"
+            ]
+          }
+        },
+        {
+          "type": "BattleBuffAddProficiency",
+          "trigger": [
+            "onAttach"
+          ],
+          "arg_list": {
+            "number": 0.09,
+            "label": [
+              "TP"
+            ]
+          }
+        }
+      ]
+    },
+    "10": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddProficiency",
+          "trigger": [
+            "onAttach"
+          ],
+          "arg_list": {
+            "number": 0.1,
+            "label": [
+              "MG"
+            ]
+          }
+        },
+        {
+          "type": "BattleBuffAddProficiency",
+          "trigger": [
+            "onAttach"
+          ],
+          "arg_list": {
+            "number": 0.1,
+            "label": [
+              "TP"
+            ]
+          }
+        }
+      ]
+    },
+    "time": 0,
+    "name": "",
+    "init_effect": "jinengchufared",
+    "color": "yellow",
+    "picture": "",
+    "desc": "装备效率提高",
+    "stack": 1,
+    "id": 802421,
+    "icon": 802420,
+    "last_effect": ""
+  },
+  "buff_802422": {
+    "effect_list": [
+      {
+        "type": "BattleBuffCastSkill",
+        "trigger": [
+          "onAttach",
+          "onStack"
+        ],
+        "arg_list": {
+          "skill_id": 802421,
+          "target": "TargetSelf"
+        }
+      }
+    ],
+    "1": {
+      "effect_list": [
+        {
+          "type": "BattleBuffCastSkill",
+          "trigger": [
+            "onAttach",
+            "onStack"
+          ],
+          "arg_list": {
+            "skill_id": 802421,
+            "target": "TargetSelf"
+          }
+        }
+      ]
+    },
+    "2": {
+      "effect_list": [
+        {
+          "type": "BattleBuffCastSkill",
+          "trigger": [
+            "onAttach",
+            "onStack"
+          ],
+          "arg_list": {
+            "skill_id": 802421,
+            "target": "TargetSelf"
+          }
+        }
+      ]
+    },
+    "3": {
+      "effect_list": [
+        {
+          "type": "BattleBuffCastSkill",
+          "trigger": [
+            "onAttach",
+            "onStack"
+          ],
+          "arg_list": {
+            "skill_id": 802421,
+            "target": "TargetSelf"
+          }
+        }
+      ]
+    },
+    "4": {
+      "effect_list": [
+        {
+          "type": "BattleBuffCastSkill",
+          "trigger": [
+            "onAttach",
+            "onStack"
+          ],
+          "arg_list": {
+            "skill_id": 802421,
+            "target": "TargetSelf"
+          }
+        }
+      ]
+    },
+    "5": {
+      "effect_list": [
+        {
+          "type": "BattleBuffCastSkill",
+          "trigger": [
+            "onAttach",
+            "onStack"
+          ],
+          "arg_list": {
+            "skill_id": 802421,
+            "target": "TargetSelf"
+          }
+        }
+      ]
+    },
+    "6": {
+      "effect_list": [
+        {
+          "type": "BattleBuffCastSkill",
+          "trigger": [
+            "onAttach",
+            "onStack"
+          ],
+          "arg_list": {
+            "skill_id": 802421,
+            "target": "TargetSelf"
+          }
+        }
+      ]
+    },
+    "7": {
+      "effect_list": [
+        {
+          "type": "BattleBuffCastSkill",
+          "trigger": [
+            "onAttach",
+            "onStack"
+          ],
+          "arg_list": {
+            "skill_id": 802421,
+            "target": "TargetSelf"
+          }
+        }
+      ]
+    },
+    "8": {
+      "effect_list": [
+        {
+          "type": "BattleBuffCastSkill",
+          "trigger": [
+            "onAttach",
+            "onStack"
+          ],
+          "arg_list": {
+            "skill_id": 802421,
+            "target": "TargetSelf"
+          }
+        }
+      ]
+    },
+    "9": {
+      "effect_list": [
+        {
+          "type": "BattleBuffCastSkill",
+          "trigger": [
+            "onAttach",
+            "onStack"
+          ],
+          "arg_list": {
+            "skill_id": 802421,
+            "target": "TargetSelf"
+          }
+        }
+      ]
+    },
+    "10": {
+      "effect_list": [
+        {
+          "type": "BattleBuffCastSkill",
+          "trigger": [
+            "onAttach",
+            "onStack"
+          ],
+          "arg_list": {
+            "skill_id": 802421,
+            "target": "TargetSelf"
+          }
+        }
+      ]
+    },
+    "desc_get": "",
+    "name": "",
+    "init_effect": "",
+    "time": 3,
+    "color": "yellow",
+    "picture": "",
+    "desc": "",
+    "stack": 3,
+    "id": 802422,
+    "icon": 802420,
+    "last_effect": ""
+  },
+  "buff_802423": {
+    "init_effect": "",
+    "name": "",
+    "time": 8,
+    "picture": "",
+    "desc": "标记",
+    "stack": 1,
+    "id": 802423,
+    "icon": 802420,
+    "last_effect": "",
+    "effect_list": [
+      {
+        "type": "BattleBuffAddTag",
+        "trigger": [
+          "onAttach",
+          "onRemove"
+        ],
+        "arg_list": {
+          "tag": "KAIERSHENGMETA"
+        }
+      }
+    ]
+  },
+  "buff_802424": {
+    "blink": [
+      1,
+      0,
+      0,
+      0.3,
+      0.3
+    ],
+    "effect_list": [
+      {
+        "type": "BattleBuffAddAttr",
+        "trigger": [
+          "onAttach",
+          "onRemove"
+        ],
+        "arg_list": {
+          "attr": "DMG_TAG_EHC_KAIERSHENGMETA",
+          "number": 0.045
+        }
+      }
+    ],
+    "1": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddAttr",
+          "trigger": [
+            "onAttach",
+            "onRemove"
+          ],
+          "arg_list": {
+            "attr": "DMG_TAG_EHC_KAIERSHENGMETA",
+            "number": 0.045
+          }
+        }
+      ]
+    },
+    "2": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddAttr",
+          "trigger": [
+            "onAttach",
+            "onRemove"
+          ],
+          "arg_list": {
+            "attr": "DMG_TAG_EHC_KAIERSHENGMETA",
+            "number": 0.052
+          }
+        }
+      ]
+    },
+    "3": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddAttr",
+          "trigger": [
+            "onAttach",
+            "onRemove"
+          ],
+          "arg_list": {
+            "attr": "DMG_TAG_EHC_KAIERSHENGMETA",
+            "number": 0.06
+          }
+        }
+      ]
+    },
+    "4": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddAttr",
+          "trigger": [
+            "onAttach",
+            "onRemove"
+          ],
+          "arg_list": {
+            "attr": "DMG_TAG_EHC_KAIERSHENGMETA",
+            "number": 0.07
+          }
+        }
+      ]
+    },
+    "5": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddAttr",
+          "trigger": [
+            "onAttach",
+            "onRemove"
+          ],
+          "arg_list": {
+            "attr": "DMG_TAG_EHC_KAIERSHENGMETA",
+            "number": 0.077
+          }
+        }
+      ]
+    },
+    "6": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddAttr",
+          "trigger": [
+            "onAttach",
+            "onRemove"
+          ],
+          "arg_list": {
+            "attr": "DMG_TAG_EHC_KAIERSHENGMETA",
+            "number": 0.085
+          }
+        }
+      ]
+    },
+    "7": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddAttr",
+          "trigger": [
+            "onAttach",
+            "onRemove"
+          ],
+          "arg_list": {
+            "attr": "DMG_TAG_EHC_KAIERSHENGMETA",
+            "number": 0.095
+          }
+        }
+      ]
+    },
+    "8": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddAttr",
+          "trigger": [
+            "onAttach",
+            "onRemove"
+          ],
+          "arg_list": {
+            "attr": "DMG_TAG_EHC_KAIERSHENGMETA",
+            "number": 0.102
+          }
+        }
+      ]
+    },
+    "9": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddAttr",
+          "trigger": [
+            "onAttach",
+            "onRemove"
+          ],
+          "arg_list": {
+            "attr": "DMG_TAG_EHC_KAIERSHENGMETA",
+            "number": 0.11
+          }
+        }
+      ]
+    },
+    "10": {
+      "effect_list": [
+        {
+          "type": "BattleBuffAddAttr",
+          "trigger": [
+            "onAttach",
+            "onRemove"
+          ],
+          "arg_list": {
+            "attr": "DMG_TAG_EHC_KAIERSHENGMETA",
+            "number": 0.12
+          }
+        }
+      ]
+    },
+    "desc_get": "",
+    "name": "",
+    "init_effect": "jinengchufared",
+    "time": 0,
+    "color": "yellow",
+    "picture": "",
+    "desc": "",
+    "stack": 1,
+    "id": 802424,
+    "icon": 802420,
+    "last_effect": ""
+  },
+  "buff_802431": {
+    "init_effect": "",
+    "name": "",
+    "time": 0,
+    "color": "red",
+    "picture": "",
+    "desc": "",
+    "stack": 1,
+    "id": 802431,
+    "icon": 802430,
+    "last_effect": "",
+    "effect_list": [
+      {
+        "type": "BattleBuffCount",
+        "trigger": [
+          "onFire"
+        ],
+        "arg_list": {
+          "countTarget": 15,
+          "countType": 802430,
+          "index": [
+            1
+          ]
+        }
+      },
+      {
+        "type": "BattleBuffCastSkill",
+        "trigger": [
+          "onBattleBuffCount"
+        ],
+        "arg_list": {
+          "target": "TargetSelf",
+          "skill_id": 802431,
+          "countType": 802430
+        }
+      }
+    ]
+  },
+  "buff_802432": {
+    "init_effect": "",
+    "name": "",
+    "time": 0,
+    "color": "red",
+    "picture": "",
+    "desc": "",
+    "stack": 1,
+    "id": 802432,
+    "icon": 802430,
+    "last_effect": "",
+    "effect_list": [
+      {
+        "type": "BattleBuffCount",
+        "trigger": [
+          "onFire"
+        ],
+        "arg_list": {
+          "countType": 802430,
+          "countTarget": 10,
+          "gunnerBonus": true,
+          "index": [
+            1
+          ]
+        }
+      },
+      {
+        "type": "BattleBuffCastSkill",
+        "trigger": [
+          "onBattleBuffCount"
+        ],
+        "arg_list": {
+          "target": "TargetSelf",
+          "skill_id": 802432,
+          "countType": 802430
+        }
+      }
+    ]
+  },
+  "buff_802435": {
+    "init_effect": "",
+    "name": "",
+    "time": 0,
+    "color": "red",
+    "picture": "",
+    "desc": "",
+    "stack": 1,
+    "id": 802435,
+    "icon": 802430,
+    "last_effect": "",
+    "effect_list": [
+      {
+        "type": "BattleBuffCastSkill",
+        "trigger": [
+          "onStartGame"
+        ],
+        "arg_list": {
+          "skill_id": 802435,
+          "dungeonTypeList": [
+            98,
+            99
+          ]
+        }
+      },
+      {
+        "type": "BattleBuffCount",
+        "trigger": [
+          "onFire"
+        ],
+        "arg_list": {
+          "countTarget": 15,
+          "countType": 802430,
+          "index": [
+            1
+          ]
+        }
+      },
+      {
+        "type": "BattleBuffCastSkill",
+        "trigger": [
+          "onBattleBuffCount"
+        ],
+        "arg_list": {
+          "target": "TargetSelf",
+          "skill_id": 802431,
+          "countType": 802430
+        }
+      }
+    ]
+  },
+  "buff_802436": {
+    "time": 0,
+    "name": "",
+    "init_effect": "jinengchufablue",
+    "picture": "",
+    "desc": "",
+    "stack": 1,
+    "id": 802436,
+    "icon": 802430,
+    "last_effect": "",
+    "blink": [
+      0,
+      0.7,
+      1,
+      0.3,
+      0.3
+    ],
+    "effect_list": [
+      {
+        "type": "BattleBuffAddAttr",
+        "trigger": [
+          "onAttach",
+          "onRemove"
+        ],
+        "arg_list": {
+          "attr": "injureRatio",
+          "number": -0.02
+        }
+      }
+    ]
+  },
+  "buff_802437": {
+    "init_effect": "",
+    "name": "",
+    "time": 0,
+    "color": "red",
+    "picture": "",
+    "desc": "",
+    "stack": 1,
+    "id": 802437,
+    "icon": 802430,
+    "last_effect": "",
+    "effect_list": [
+      {
+        "type": "BattleBuffCastSkill",
+        "trigger": [
+          "onStartGame"
+        ],
+        "arg_list": {
+          "skill_id": 802437,
+          "dungeonTypeList": [
+            98,
+            99
+          ]
+        }
+      },
+      {
+        "type": "BattleBuffCount",
+        "trigger": [
+          "onFire"
+        ],
+        "arg_list": {
+          "countType": 802430,
+          "countTarget": 10,
+          "gunnerBonus": true,
+          "index": [
+            1
+          ]
+        }
+      },
+      {
+        "type": "BattleBuffCastSkill",
+        "trigger": [
+          "onBattleBuffCount"
+        ],
+        "arg_list": {
+          "target": "TargetSelf",
+          "skill_id": 802432,
+          "countType": 802430
+        }
+      }
+    ]
+  },
+  "buff_802438": {
+    "time": 0,
+    "name": "",
+    "init_effect": "jinengchufablue",
+    "picture": "",
+    "desc": "",
+    "stack": 1,
+    "id": 802438,
+    "icon": 802430,
+    "last_effect": "",
+    "blink": [
+      0,
+      0.7,
+      1,
+      0.3,
+      0.3
+    ],
+    "effect_list": [
+      {
+        "type": "BattleBuffAddAttr",
+        "trigger": [
+          "onAttach",
+          "onRemove"
+        ],
+        "arg_list": {
+          "attr": "injureRatio",
+          "number": -0.06
         }
       }
     ]

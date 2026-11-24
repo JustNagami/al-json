@@ -12529,6 +12529,24 @@
     "pt_level": 12,
     "pt_upgrage": 16
   },
+  "70213": {
+    "add_get_attr": 1,
+    "add_get_shiptype": [
+      2
+    ],
+    "add_get_value": 1,
+    "add_level_attr": 2,
+    "add_level_shiptype": [
+      2
+    ],
+    "add_level_value": 2,
+    "class": 70204,
+    "id": 70213,
+    "max_star": 6,
+    "pt_get": 20,
+    "pt_level": 32,
+    "pt_upgrage": 42
+  },
   "70301": {
     "add_get_attr": 1,
     "add_get_shiptype": [
@@ -12770,6 +12788,50 @@
     "pt_get": 44,
     "pt_level": 66,
     "pt_upgrage": 88
+  },
+  "70510": {
+    "add_get_attr": 1,
+    "add_get_shiptype": [
+      4,
+      5,
+      10
+    ],
+    "add_get_value": 2,
+    "add_level_attr": 2,
+    "add_level_shiptype": [
+      4,
+      5,
+      10
+    ],
+    "add_level_value": 1,
+    "class": 70506,
+    "id": 70510,
+    "max_star": 6,
+    "pt_get": 44,
+    "pt_level": 66,
+    "pt_upgrage": 88
+  },
+  "70511": {
+    "add_get_attr": 1,
+    "add_get_shiptype": [
+      4,
+      5,
+      10
+    ],
+    "add_get_value": 1,
+    "add_level_attr": 2,
+    "add_level_shiptype": [
+      4,
+      5,
+      10
+    ],
+    "add_level_value": 1,
+    "class": 70505,
+    "id": 70511,
+    "max_star": 5,
+    "pt_get": 28,
+    "pt_level": 42,
+    "pt_upgrage": 56
   },
   "70701": {
     "add_get_attr": 1,
@@ -14798,6 +14860,28 @@
     "pt_level": 13,
     "pt_upgrage": 18
   },
+  "970114": {
+    "add_get_attr": 1,
+    "add_get_shiptype": [
+      1,
+      20,
+      21
+    ],
+    "add_get_value": 1,
+    "add_level_attr": 2,
+    "add_level_shiptype": [
+      1,
+      20,
+      21
+    ],
+    "add_level_value": 1,
+    "class": 970114,
+    "id": 970114,
+    "max_star": 5,
+    "pt_get": 9,
+    "pt_level": 13,
+    "pt_upgrage": 18
+  },
   "970201": {
     "add_get_attr": 8,
     "add_get_shiptype": [
@@ -16465,6 +16549,7 @@
     70208,
     70209,
     70210,
+    70213,
     79903,
     70301,
     70302,
@@ -16477,6 +16562,8 @@
     70507,
     70508,
     70509,
+    70510,
+    70511,
     70701,
     79901,
     79902,
@@ -16571,6 +16658,7 @@
     970111,
     970112,
     970113,
+    970114,
     970201,
     970202,
     970203,
