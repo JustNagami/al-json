@@ -167637,6 +167637,111 @@
     "value_1": "46",
     "value_2": 354
   },
+  "151320": {
+    "ammo": 10,
+    "ammo_icon": [],
+    "ammo_info": [],
+    "attribute_1": "durability",
+    "descrip": "轻轻翻开，魔法咒语会自己跳出来！",
+    "equip_info": [
+      6
+    ],
+    "equip_parameters": [],
+    "hidden_skill_id": [],
+    "icon": "151320",
+    "id": 151320,
+    "label": [
+      "SN",
+      "DEV"
+    ],
+    "name": "魔导秘典",
+    "nationality": 7,
+    "part_main": [],
+    "part_sub": [],
+    "property_rate": [],
+    "rarity": 4,
+    "skill_id": [
+      [
+        61180,
+        1
+      ]
+    ],
+    "speciality": "<[NA]>",
+    "tech": 0,
+    "torpedo_ammo": 0,
+    "type": 10,
+    "value_1": "150",
+    "value_2": 0,
+    "value_3": 0,
+    "weapon_id": []
+  },
+  "151321": {
+    "base": 151320,
+    "hidden_skill_id": [],
+    "id": 151321,
+    "value_1": "180"
+  },
+  "151322": {
+    "base": 151320,
+    "hidden_skill_id": [],
+    "id": 151322,
+    "value_1": "210"
+  },
+  "151323": {
+    "base": 151320,
+    "hidden_skill_id": [],
+    "id": 151323,
+    "value_1": "240"
+  },
+  "151324": {
+    "base": 151320,
+    "hidden_skill_id": [],
+    "id": 151324,
+    "value_1": "270"
+  },
+  "151325": {
+    "base": 151320,
+    "hidden_skill_id": [],
+    "id": 151325,
+    "value_1": "300"
+  },
+  "151326": {
+    "base": 151320,
+    "hidden_skill_id": [],
+    "id": 151326,
+    "value_1": "330"
+  },
+  "151327": {
+    "base": 151320,
+    "hidden_skill_id": [],
+    "id": 151327,
+    "value_1": "360"
+  },
+  "151328": {
+    "base": 151320,
+    "hidden_skill_id": [],
+    "id": 151328,
+    "value_1": "390"
+  },
+  "151329": {
+    "base": 151320,
+    "hidden_skill_id": [],
+    "id": 151329,
+    "value_1": "420"
+  },
+  "151330": {
+    "base": 151320,
+    "hidden_skill_id": [],
+    "id": 151330,
+    "value_1": "450"
+  },
+  "151331": {
+    "anti_siren": 100,
+    "base": 151320,
+    "hidden_skill_id": [],
+    "id": 151331,
+    "value_1": "475"
+  },
   "170001": {
     "ammo": 10,
     "ammo_icon": [],
@@ -169616,6 +169721,109 @@
     "name": "专属弹幕-灵敏METAII",
     "weapon_id": [
       171162
+    ]
+  },
+  "171191": {
+    "ammo": 10,
+    "ammo_icon": [],
+    "ammo_info": [],
+    "descrip": "技能弹幕",
+    "equip_info": [],
+    "equip_parameters": [],
+    "hidden_skill_id": [],
+    "icon": "1",
+    "id": 171191,
+    "label": [],
+    "name": "专属弹幕-莫洛托夫I",
+    "nationality": 0,
+    "part_main": [
+      1,
+      19,
+      20,
+      21
+    ],
+    "part_sub": [
+      2,
+      3,
+      4,
+      5,
+      8,
+      13,
+      18
+    ],
+    "property_rate": [],
+    "rarity": 1,
+    "skill_id": [],
+    "speciality": "<[NA]>",
+    "tech": 1,
+    "torpedo_ammo": 0,
+    "type": 1,
+    "value_1": "0",
+    "value_2": 0,
+    "value_3": 0,
+    "weapon_id": [
+      171191
+    ]
+  },
+  "171192": {
+    "base": 171191,
+    "hidden_skill_id": [],
+    "id": 171192,
+    "name": "专属弹幕-莫洛托夫II",
+    "weapon_id": [
+      171192,
+      171193
+    ]
+  },
+  "171201": {
+    "ammo": 10,
+    "ammo_icon": [],
+    "ammo_info": [],
+    "descrip": "技能弹幕",
+    "equip_info": [],
+    "equip_parameters": [],
+    "hidden_skill_id": [],
+    "icon": "1",
+    "id": 171201,
+    "label": [],
+    "name": "专属弹幕-凯尔圣METAI",
+    "nationality": 0,
+    "part_main": [
+      1,
+      19,
+      20,
+      21
+    ],
+    "part_sub": [
+      2,
+      3,
+      4,
+      5,
+      8,
+      13,
+      18
+    ],
+    "property_rate": [],
+    "rarity": 1,
+    "skill_id": [],
+    "speciality": "<[NA]>",
+    "tech": 1,
+    "torpedo_ammo": 0,
+    "type": 1,
+    "value_1": "0",
+    "value_2": 0,
+    "value_3": 0,
+    "weapon_id": [
+      171201
+    ]
+  },
+  "171202": {
+    "base": 171201,
+    "hidden_skill_id": [],
+    "id": 171202,
+    "name": "专属弹幕-凯尔圣METAII",
+    "weapon_id": [
+      171202
     ]
   },
   "180000": {
@@ -184686,6 +184894,18 @@
     151311,
     151312,
     151313,
+    151320,
+    151321,
+    151322,
+    151323,
+    151324,
+    151325,
+    151326,
+    151327,
+    151328,
+    151329,
+    151330,
+    151331,
     170001,
     170002,
     170011,
@@ -184763,6 +184983,10 @@
     171142,
     171161,
     171162,
+    171191,
+    171192,
+    171201,
+    171202,
     180000,
     180001,
     180025,

@@ -41529,6 +41529,65 @@
     "use_item": [],
     "weapon_ids": []
   },
+  "702131": {
+    "breakout_id": 702132,
+    "breakout_view": "获得专属弹幕I/主炮效率提高5%",
+    "icon": "10001",
+    "id": 702131,
+    "level": 10,
+    "pre_id": 0,
+    "use_char": 70213,
+    "use_char_num": 1,
+    "use_gold": 1000,
+    "use_item": [],
+    "weapon_ids": [
+      171191
+    ]
+  },
+  "702132": {
+    "breakout_id": 702133,
+    "breakout_view": "鱼雷底座+1/鱼雷预装填+1/主炮效率提高10%",
+    "icon": "10001",
+    "id": 702132,
+    "level": 30,
+    "pre_id": 702131,
+    "use_char": 70213,
+    "use_char_num": 1,
+    "use_gold": 3000,
+    "use_item": [],
+    "weapon_ids": [
+      85120,
+      85120
+    ]
+  },
+  "702133": {
+    "breakout_id": 702134,
+    "breakout_view": "专属弹幕升级/主炮效率提高15%",
+    "icon": "10001",
+    "id": 702133,
+    "level": 70,
+    "pre_id": 702132,
+    "use_char": 70213,
+    "use_char_num": 2,
+    "use_gold": 10000,
+    "use_item": [],
+    "weapon_ids": [
+      171192
+    ]
+  },
+  "702134": {
+    "breakout_id": 0,
+    "breakout_view": "无",
+    "icon": "10001",
+    "id": 702134,
+    "level": 0,
+    "pre_id": 702133,
+    "use_char": 70213,
+    "use_char_num": 0,
+    "use_gold": 0,
+    "use_item": [],
+    "weapon_ids": []
+  },
   "703011": {
     "breakout_id": 703012,
     "breakout_view": "获得全弹发射I/主炮效率提高5%",
@@ -42205,6 +42264,134 @@
     "level": 0,
     "pre_id": 705093,
     "use_char": 70509,
+    "use_char_num": 0,
+    "use_gold": 0,
+    "use_item": [],
+    "weapon_ids": []
+  },
+  "705101": {
+    "breakout_id": 705102,
+    "breakout_view": "主炮底座+1/主炮效率提高5%",
+    "icon": "10001",
+    "id": 705101,
+    "level": 10,
+    "pre_id": 0,
+    "use_char": 70510,
+    "use_char_num": 1,
+    "use_gold": 1000,
+    "use_item": [],
+    "weapon_ids": [
+      85300,
+      85300,
+      85300
+    ]
+  },
+  "705102": {
+    "breakout_id": 705103,
+    "breakout_view": "副炮底座+2/主炮效率提高10%",
+    "icon": "10001",
+    "id": 705102,
+    "level": 30,
+    "pre_id": 705101,
+    "use_char": 70510,
+    "use_char_num": 1,
+    "use_gold": 3000,
+    "use_item": [],
+    "weapon_ids": [
+      101,
+      101,
+      101
+    ]
+  },
+  "705103": {
+    "breakout_id": 705104,
+    "breakout_view": "主炮底座+1/主炮效率提高15%",
+    "icon": "10001",
+    "id": 705103,
+    "level": 70,
+    "pre_id": 705102,
+    "use_char": 70510,
+    "use_char_num": 2,
+    "use_gold": 10000,
+    "use_item": [],
+    "weapon_ids": [
+      85300,
+      85300,
+      85300,
+      85300
+    ]
+  },
+  "705104": {
+    "breakout_id": 0,
+    "breakout_view": "无",
+    "icon": "10001",
+    "id": 705104,
+    "level": 0,
+    "pre_id": 705103,
+    "use_char": 70510,
+    "use_char_num": 0,
+    "use_gold": 0,
+    "use_item": [],
+    "weapon_ids": []
+  },
+  "705111": {
+    "breakout_id": 705112,
+    "breakout_view": "主炮底座+1/主炮效率提高5%",
+    "icon": "10001",
+    "id": 705111,
+    "level": 10,
+    "pre_id": 0,
+    "use_char": 70511,
+    "use_char_num": 1,
+    "use_gold": 500,
+    "use_item": [],
+    "weapon_ids": [
+      85420,
+      85420
+    ]
+  },
+  "705112": {
+    "breakout_id": 705113,
+    "breakout_view": "副炮底座+2/主炮效率提高10%",
+    "icon": "10001",
+    "id": 705112,
+    "level": 30,
+    "pre_id": 705111,
+    "use_char": 70511,
+    "use_char_num": 1,
+    "use_gold": 1500,
+    "use_item": [],
+    "weapon_ids": [
+      101,
+      101,
+      101
+    ]
+  },
+  "705113": {
+    "breakout_id": 705114,
+    "breakout_view": "主炮底座+1/主炮效率提高15%",
+    "icon": "10001",
+    "id": 705113,
+    "level": 70,
+    "pre_id": 705112,
+    "use_char": 70511,
+    "use_char_num": 2,
+    "use_gold": 2500,
+    "use_item": [],
+    "weapon_ids": [
+      85420,
+      85420,
+      85420
+    ]
+  },
+  "705114": {
+    "breakout_id": 0,
+    "breakout_view": "无",
+    "icon": "10001",
+    "id": 705114,
+    "level": 0,
+    "pre_id": 705113,
+    "use_char": 70511,
     "use_char_num": 0,
     "use_gold": 0,
     "use_item": [],
@@ -55805,6 +55992,10 @@
     702072,
     702073,
     702074,
+    702131,
+    702132,
+    702133,
+    702134,
     702091,
     702092,
     702093,
@@ -55861,6 +56052,14 @@
     705092,
     705093,
     705094,
+    705101,
+    705102,
+    705103,
+    705104,
+    705111,
+    705112,
+    705113,
+    705114,
     707011,
     707012,
     707013,

@@ -12224,6 +12224,50 @@
     "themeId": 0,
     "type": 7
   },
+  "354": {
+    "advice": 0,
+    "belong": 1,
+    "can_rotate": 0,
+    "can_trigger": [
+      0
+    ],
+    "canputon": 0,
+    "canputonGrid": [],
+    "comfortable": 0,
+    "count": 1,
+    "deblocking": 1,
+    "describe": "本装置仅作装饰展示用途，请各位同学不要擅自搬动、拆卸。",
+    "dir": 0,
+    "dorm_id": 0,
+    "effect": "",
+    "gain_by": "",
+    "icon": "modaozhuangzhiicon",
+    "id": 354,
+    "interAction_group": [],
+    "is_3d_obj": 0,
+    "is_get_time_note": 0,
+    "level": 1,
+    "name": "魔导装置",
+    "offset": [],
+    "picture": "",
+    "rarity": 3,
+    "size": [
+      3,
+      3
+    ],
+    "spine": [
+      [
+        "modaozhuangzhi",
+        "normal"
+      ]
+    ],
+    "spine_action_replace": "",
+    "spine_combine_action_replace": "",
+    "spine_extra": "",
+    "tag": 6,
+    "themeId": 0,
+    "type": 7
+  },
   "1001": {
     "advice": 0,
     "belong": 0,
@@ -133121,6 +133165,108 @@
     "themeId": 0,
     "type": 11
   },
+  "100092": {
+    "advice": 0,
+    "belong": 1,
+    "can_rotate": 0,
+    "can_trigger": [
+      0
+    ],
+    "canputon": 0,
+    "canputonGrid": [],
+    "comfortable": 0,
+    "count": 1,
+    "deblocking": 1,
+    "describe": "转啊~转啊~转啊~转啊~啾茶杯！",
+    "dir": 0,
+    "dorm_id": 0,
+    "effect": "",
+    "followBone": [
+      [
+        "char1",
+        1
+      ],
+      [
+        "char2",
+        -1
+      ]
+    ],
+    "gain_by": "",
+    "icon": "nvpuchabeiicon",
+    "id": 100092,
+    "interAction_group": [],
+    "is_3d_obj": 0,
+    "is_get_time_note": 0,
+    "level": 1,
+    "name": "旋转啾茶杯",
+    "offset": [],
+    "picture": "",
+    "rarity": 4,
+    "size": [
+      5,
+      9
+    ],
+    "spine": [
+      [
+        "nvpuchabeiB",
+        "normal"
+      ],
+      [
+        "nvpuchabeiT"
+      ],
+      [
+        [
+          0,
+          0
+        ],
+        [
+          [
+            "sit1",
+            null,
+            "sit"
+          ]
+        ],
+        [
+          null,
+          1
+        ],
+        [
+          1
+        ],
+        [
+          [
+            "sit1"
+          ],
+          [
+            "sit2"
+          ]
+        ]
+      ],
+      [],
+      [
+        0,
+        0
+      ]
+    ],
+    "spine_action_replace": "",
+    "spine_combine_action_replace": "",
+    "spine_extra": [
+      [
+        [],
+        [
+          0,
+          0
+        ],
+        [
+          1,
+          1
+        ]
+      ]
+    ],
+    "tag": 6,
+    "themeId": 0,
+    "type": 7
+  },
   "200001": {
     "advice": 0,
     "belong": 1,
@@ -179022,6 +179168,1276 @@
     "themeId": 145,
     "type": 2
   },
+  "346001": {
+    "advice": 0,
+    "belong": 0,
+    "can_rotate": 0,
+    "can_trigger": [
+      0
+    ],
+    "canputon": 0,
+    "canputonGrid": [],
+    "comfortable": 4,
+    "count": 1,
+    "deblocking": 1,
+    "describe": "来到阳光明媚的度假庭院，在粼粼波光与阵阵欢笑中度过惬意的一天吧~",
+    "dir": 0,
+    "dorm_id": 0,
+    "effect": "",
+    "gain_by": "",
+    "icon": "dibanycicon",
+    "id": 346001,
+    "interAction_group": [],
+    "is_3d_obj": 0,
+    "is_get_time_note": 0,
+    "level": 1,
+    "name": "悠游假日地板",
+    "offset": [],
+    "picture": "yc/dibanyc",
+    "rarity": 4,
+    "size": "",
+    "spine_action_replace": "",
+    "spine_combine_action_replace": "",
+    "spine_extra": "",
+    "tag": 4,
+    "themeId": 146,
+    "type": 4
+  },
+  "346002": {
+    "advice": 0,
+    "belong": 0,
+    "can_rotate": 0,
+    "can_trigger": [
+      0
+    ],
+    "canputon": 0,
+    "canputonGrid": [],
+    "comfortable": 4,
+    "count": 1,
+    "deblocking": 1,
+    "describe": "来到阳光明媚的度假庭院，在粼粼波光与阵阵欢笑中度过惬意的一天吧~",
+    "dir": 0,
+    "dorm_id": 0,
+    "effect": "",
+    "gain_by": "",
+    "icon": "qiangbiycicon",
+    "id": 346002,
+    "interAction_group": [],
+    "is_3d_obj": 0,
+    "is_get_time_note": 0,
+    "level": 5,
+    "name": "悠游假日墙纸",
+    "offset": [],
+    "picture": "",
+    "rarity": 4,
+    "size": "",
+    "spine": [
+      [
+        "qiangbiyc",
+        "normal"
+      ]
+    ],
+    "spine_action_replace": "",
+    "spine_combine_action_replace": "",
+    "spine_extra": "",
+    "tag": 3,
+    "themeId": 146,
+    "type": 1
+  },
+  "346101": {
+    "advice": 0,
+    "belong": 1,
+    "can_rotate": 0,
+    "can_trigger": [
+      0
+    ],
+    "canputon": 0,
+    "canputonGrid": [],
+    "comfortable": 1,
+    "count": 2,
+    "deblocking": 1,
+    "describe": "坐稳啦，接下来只管等美味上桌~",
+    "dir": 0,
+    "dorm_id": 0,
+    "effect": "",
+    "gain_by": "",
+    "icon": "bataiyiziycicon",
+    "id": 346101,
+    "interAction": [
+      [
+        "sit",
+        [
+          -13.4,
+          52.5
+        ],
+        [
+          -1,
+          1
+        ]
+      ]
+    ],
+    "interAction_group": [],
+    "is_3d_obj": 0,
+    "is_get_time_note": 0,
+    "level": 1,
+    "name": "假日吧台椅",
+    "offset": [],
+    "picture": "yc/bataiyiziyc",
+    "rarity": 1,
+    "size": [
+      1,
+      1
+    ],
+    "spine_action_replace": "",
+    "spine_combine_action_replace": "",
+    "spine_extra": "",
+    "tag": 1,
+    "themeId": 146,
+    "type": 2
+  },
+  "346102": {
+    "advice": 0,
+    "belong": 1,
+    "can_rotate": 0,
+    "can_trigger": [
+      0
+    ],
+    "canputon": 0,
+    "canputonGrid": [],
+    "comfortable": 3,
+    "count": 1,
+    "deblocking": 1,
+    "describe": "吃喝管够，大家一起开动吧！",
+    "dir": 0,
+    "dorm_id": 0,
+    "effect": "",
+    "gain_by": "",
+    "icon": "changzhuoycicon",
+    "id": 346102,
+    "interAction_group": [],
+    "is_3d_obj": 0,
+    "is_get_time_note": 0,
+    "level": 1,
+    "name": "假日野餐桌",
+    "offset": [],
+    "picture": "yc/changzhuoyc",
+    "rarity": 3,
+    "size": [
+      2,
+      7
+    ],
+    "spine_action_replace": "",
+    "spine_combine_action_replace": "",
+    "spine_extra": "",
+    "tag": 1,
+    "themeId": 146,
+    "type": 2
+  },
+  "346103": {
+    "advice": 0,
+    "belong": 1,
+    "can_rotate": 0,
+    "can_trigger": [
+      0
+    ],
+    "canputon": 0,
+    "canputonGrid": [],
+    "comfortable": 3,
+    "count": 1,
+    "deblocking": 1,
+    "describe": "宽敞的烤架与备餐台，让烧烤大餐有条不紊地出炉",
+    "dir": 0,
+    "dorm_id": 0,
+    "effect": "",
+    "followBone": [
+      "char",
+      1
+    ],
+    "gain_by": "",
+    "icon": "dashaokaotaiycicon",
+    "id": 346103,
+    "interAction_group": [],
+    "is_3d_obj": 0,
+    "is_get_time_note": 0,
+    "level": 1,
+    "name": "假日烧烤台",
+    "offset": [],
+    "picture": "",
+    "rarity": 3,
+    "size": [
+      2,
+      5
+    ],
+    "spine": [
+      [
+        "dashaokaotaiyc",
+        "normal"
+      ],
+      [],
+      [
+        [
+          0,
+          0
+        ],
+        [
+          [
+            "dance"
+          ]
+        ],
+        [
+          null,
+          1
+        ],
+        [
+          0
+        ]
+      ],
+      [],
+      [
+        0,
+        0
+      ]
+    ],
+    "spine_action_replace": "",
+    "spine_combine_action_replace": "",
+    "spine_extra": "",
+    "tag": 1,
+    "themeId": 146,
+    "type": 2
+  },
+  "346104": {
+    "advice": 0,
+    "belong": 1,
+    "can_rotate": 0,
+    "can_trigger": [
+      0
+    ],
+    "canputon": 0,
+    "canputonGrid": [],
+    "comfortable": 4,
+    "count": 1,
+    "deblocking": 1,
+    "describe": "看这醒目的屋顶，就知道来对地方了~",
+    "dir": 0,
+    "dorm_id": 0,
+    "effect": "",
+    "gain_by": "",
+    "icon": "fangzibataiycicon",
+    "id": 346104,
+    "interAction_group": [],
+    "is_3d_obj": 0,
+    "is_get_time_note": 0,
+    "level": 1,
+    "name": "假日吧台",
+    "offset": [],
+    "picture": "",
+    "rarity": 4,
+    "size": [
+      6,
+      3
+    ],
+    "spine": [
+      [
+        "fangzibataiyc",
+        "normal"
+      ]
+    ],
+    "spine_action_replace": "",
+    "spine_combine_action_replace": "",
+    "spine_extra": "",
+    "tag": 1,
+    "themeId": 146,
+    "type": 2
+  },
+  "346105": {
+    "advice": 0,
+    "belong": 1,
+    "can_rotate": 0,
+    "can_trigger": [
+      0
+    ],
+    "canputon": 0,
+    "canputonGrid": [],
+    "comfortable": 2,
+    "count": 1,
+    "deblocking": 1,
+    "describe": "您的烤肉到了，小心烫嘴啾！",
+    "dir": 0,
+    "dorm_id": 0,
+    "effect": "",
+    "gain_by": "",
+    "icon": "fuwujiuycicon",
+    "id": 346105,
+    "interAction_group": [],
+    "is_3d_obj": 0,
+    "is_get_time_note": 0,
+    "level": 1,
+    "name": "假日服务啾",
+    "offset": [],
+    "picture": "",
+    "rarity": 2,
+    "size": [
+      2,
+      2
+    ],
+    "spine": [
+      [
+        "fuwujiuyc",
+        "normal"
+      ]
+    ],
+    "spine_action_replace": "",
+    "spine_combine_action_replace": "",
+    "spine_extra": "",
+    "tag": 1,
+    "themeId": 146,
+    "type": 2
+  },
+  "346106": {
+    "advice": 0,
+    "belong": 1,
+    "can_rotate": 0,
+    "can_trigger": [
+      0
+    ],
+    "canputon": 0,
+    "canputonGrid": [],
+    "comfortable": 2,
+    "count": 2,
+    "deblocking": 1,
+    "describe": "沿着围栏盛开的小花，也来凑凑假日的热闹~",
+    "dir": 0,
+    "dorm_id": 0,
+    "effect": "",
+    "gain_by": "",
+    "icon": "huatanycicon",
+    "id": 346106,
+    "interAction_group": [],
+    "is_3d_obj": 0,
+    "is_get_time_note": 0,
+    "level": 1,
+    "name": "假日花坛",
+    "offset": [],
+    "picture": "yc/huatanyc",
+    "rarity": 2,
+    "size": [
+      3,
+      2
+    ],
+    "spine_action_replace": "",
+    "spine_combine_action_replace": "",
+    "spine_extra": "",
+    "tag": 1,
+    "themeId": 146,
+    "type": 2
+  },
+  "346107": {
+    "advice": 0,
+    "belong": 1,
+    "can_rotate": 0,
+    "can_trigger": [
+      0
+    ],
+    "canputon": 0,
+    "canputonGrid": [],
+    "comfortable": 3,
+    "count": 1,
+    "deblocking": 1,
+    "describe": "光是看上一眼，就想再加一餐！",
+    "dir": 0,
+    "dorm_id": 0,
+    "effect": "",
+    "gain_by": "",
+    "icon": "kaorouycicon",
+    "id": 346107,
+    "interAction_group": [],
+    "is_3d_obj": 0,
+    "is_get_time_note": 0,
+    "level": 1,
+    "name": "假日烤肉",
+    "offset": [],
+    "picture": "",
+    "rarity": 3,
+    "size": [
+      5,
+      2
+    ],
+    "spine": [
+      [
+        "kaorouyc",
+        "normal"
+      ]
+    ],
+    "spine_action_replace": "",
+    "spine_combine_action_replace": "",
+    "spine_extra": "",
+    "tag": 1,
+    "themeId": 146,
+    "type": 2
+  },
+  "346108": {
+    "advice": 0,
+    "belong": 1,
+    "can_rotate": 0,
+    "can_trigger": [
+      0
+    ],
+    "canputon": 0,
+    "canputonGrid": [],
+    "comfortable": 4,
+    "count": 2,
+    "deblocking": 1,
+    "describe": "圆弧木栏围起小院，也给藤蔓留了攀爬的位置",
+    "dir": 0,
+    "dorm_id": 0,
+    "effect": "",
+    "gain_by": "",
+    "icon": "langanycicon",
+    "id": 346108,
+    "interAction_group": [],
+    "is_3d_obj": 0,
+    "is_get_time_note": 0,
+    "level": 1,
+    "name": "假日木栏",
+    "offset": [],
+    "picture": "yc/langanyc",
+    "rarity": 4,
+    "size": [
+      9,
+      1
+    ],
+    "spine_action_replace": "",
+    "spine_combine_action_replace": "",
+    "spine_extra": "",
+    "tag": 1,
+    "themeId": 146,
+    "type": 2
+  },
+  "346109": {
+    "advice": 0,
+    "belong": 1,
+    "can_rotate": 0,
+    "can_trigger": [
+      0
+    ],
+    "canputon": 0,
+    "canputonGrid": [],
+    "comfortable": 2,
+    "count": 1,
+    "deblocking": 1,
+    "describe": "高低错落的木台上，小盆栽也摆得错落有致",
+    "dir": 0,
+    "dorm_id": 0,
+    "effect": "",
+    "gain_by": "",
+    "icon": "pentaiycicon",
+    "id": 346109,
+    "interAction_group": [],
+    "is_3d_obj": 0,
+    "is_get_time_note": 0,
+    "level": 1,
+    "name": "假日花台",
+    "offset": [],
+    "picture": "yc/pentaiyc",
+    "rarity": 2,
+    "size": [
+      1,
+      2
+    ],
+    "spine_action_replace": "",
+    "spine_combine_action_replace": "",
+    "spine_extra": "",
+    "tag": 1,
+    "themeId": 146,
+    "type": 2
+  },
+  "346110": {
+    "advice": 0,
+    "belong": 1,
+    "can_rotate": 0,
+    "can_trigger": [
+      0
+    ],
+    "canputon": 0,
+    "canputonGrid": [],
+    "comfortable": 1,
+    "count": 2,
+    "deblocking": 1,
+    "describe": "圆滚滚的枝叶间，藏着几朵悄悄盛开的小花",
+    "dir": 0,
+    "dorm_id": 0,
+    "effect": "",
+    "gain_by": "",
+    "icon": "penzaiycicon",
+    "id": 346110,
+    "interAction_group": [],
+    "is_3d_obj": 0,
+    "is_get_time_note": 0,
+    "level": 1,
+    "name": "假日盆栽",
+    "offset": [],
+    "picture": "yc/penzaiyc",
+    "rarity": 1,
+    "size": [
+      1,
+      1
+    ],
+    "spine_action_replace": "",
+    "spine_combine_action_replace": "",
+    "spine_extra": "",
+    "tag": 1,
+    "themeId": 146,
+    "type": 2
+  },
+  "346111": {
+    "advice": 0,
+    "belong": 1,
+    "can_rotate": 0,
+    "can_trigger": [
+      0
+    ],
+    "canputon": 0,
+    "canputonGrid": [],
+    "comfortable": 1,
+    "count": 1,
+    "deblocking": 1,
+    "describe": "接住！可别让球落进泳池里~",
+    "dir": 0,
+    "dorm_id": 0,
+    "effect": "",
+    "gain_by": "",
+    "icon": "qiuycicon",
+    "id": 346111,
+    "interAction_group": [],
+    "is_3d_obj": 0,
+    "is_get_time_note": 0,
+    "level": 1,
+    "name": "假日排球",
+    "offset": [],
+    "picture": "yc/qiuyc",
+    "rarity": 1,
+    "size": [
+      1,
+      1
+    ],
+    "spine_action_replace": "",
+    "spine_combine_action_replace": "",
+    "spine_extra": "",
+    "tag": 1,
+    "themeId": 146,
+    "type": 2
+  },
+  "346112": {
+    "advice": 0,
+    "belong": 1,
+    "can_rotate": 0,
+    "can_trigger": [
+      0
+    ],
+    "canputon": 0,
+    "canputonGrid": [],
+    "comfortable": 2,
+    "count": 1,
+    "deblocking": 1,
+    "describe": "滋滋~火候刚好，可以开吃了啾！",
+    "dir": 0,
+    "dorm_id": 0,
+    "effect": "",
+    "gain_by": "",
+    "icon": "shaokaojiuycicon",
+    "id": 346112,
+    "interAction_group": [],
+    "is_3d_obj": 0,
+    "is_get_time_note": 0,
+    "level": 1,
+    "name": "假日大厨啾",
+    "offset": [],
+    "picture": "",
+    "rarity": 2,
+    "size": [
+      2,
+      2
+    ],
+    "spine": [
+      [
+        "shaokaojiuyc",
+        "normal"
+      ]
+    ],
+    "spine_action_replace": "",
+    "spine_combine_action_replace": "",
+    "spine_extra": "",
+    "tag": 1,
+    "themeId": 146,
+    "type": 2
+  },
+  "346113": {
+    "advice": 0,
+    "belong": 1,
+    "can_rotate": 0,
+    "can_trigger": [
+      0
+    ],
+    "canputon": 0,
+    "canputonGrid": [],
+    "comfortable": 2,
+    "count": 1,
+    "deblocking": 1,
+    "describe": "小小的烤炉，也能承包满院子的烤肉香~",
+    "dir": 0,
+    "dorm_id": 0,
+    "effect": "",
+    "gain_by": "",
+    "icon": "shaokaoluycicon",
+    "id": 346113,
+    "interAction_group": [],
+    "is_3d_obj": 0,
+    "is_get_time_note": 0,
+    "level": 1,
+    "name": "假日烧烤炉",
+    "offset": [],
+    "picture": "",
+    "rarity": 2,
+    "size": [
+      2,
+      2
+    ],
+    "spine": [
+      [
+        "shaokaoluyc",
+        "normal",
+        [
+          "action",
+          false
+        ]
+      ]
+    ],
+    "spine_action_replace": "",
+    "spine_combine_action_replace": "",
+    "spine_extra": "",
+    "tag": 1,
+    "themeId": 146,
+    "type": 2
+  },
+  "346114": {
+    "advice": 0,
+    "belong": 1,
+    "can_rotate": 0,
+    "can_trigger": [
+      0
+    ],
+    "canputon": 0,
+    "canputonGrid": [],
+    "comfortable": 1,
+    "count": 1,
+    "deblocking": 1,
+    "describe": "别光顾着烤肉，蔬菜也要安排上~",
+    "dir": 0,
+    "dorm_id": 0,
+    "effect": "",
+    "gain_by": "",
+    "icon": "shucailanycicon",
+    "id": 346114,
+    "interAction_group": [],
+    "is_3d_obj": 0,
+    "is_get_time_note": 0,
+    "level": 1,
+    "name": "假日蔬菜篮",
+    "offset": [],
+    "picture": "yc/shucailanyc",
+    "rarity": 1,
+    "size": [
+      1,
+      1
+    ],
+    "spine_action_replace": "",
+    "spine_combine_action_replace": "",
+    "spine_extra": "",
+    "tag": 1,
+    "themeId": 146,
+    "type": 2
+  },
+  "346115": {
+    "advice": 0,
+    "belong": 1,
+    "can_rotate": 0,
+    "can_trigger": [
+      0
+    ],
+    "canputon": 0,
+    "canputonGrid": [],
+    "comfortable": 3,
+    "count": 1,
+    "deblocking": 1,
+    "describe": "树荫下摇一摇，悠闲又自在~",
+    "dir": 0,
+    "dorm_id": 0,
+    "effect": "",
+    "followBone": [
+      "char",
+      -1
+    ],
+    "gain_by": "",
+    "icon": "shumuycicon",
+    "id": 346115,
+    "interAction_group": [],
+    "is_3d_obj": 0,
+    "is_get_time_note": 0,
+    "level": 1,
+    "name": "假日秋千树",
+    "offset": [],
+    "picture": "",
+    "rarity": 3,
+    "size": [
+      2,
+      2
+    ],
+    "spine": [
+      [
+        "shumuycB",
+        "normal"
+      ],
+      [
+        "shumuycT"
+      ],
+      [
+        [
+          0,
+          0
+        ],
+        [
+          [
+            "sit"
+          ]
+        ],
+        [],
+        [
+          1
+        ]
+      ],
+      [],
+      [
+        0,
+        0
+      ]
+    ],
+    "spine_action_replace": "",
+    "spine_combine_action_replace": "",
+    "spine_extra": "",
+    "tag": 1,
+    "themeId": 146,
+    "type": 2
+  },
+  "346116": {
+    "advice": 0,
+    "belong": 1,
+    "can_rotate": 0,
+    "can_trigger": [
+      0
+    ],
+    "canputon": 0,
+    "canputonGrid": [],
+    "comfortable": 2,
+    "count": 1,
+    "deblocking": 1,
+    "describe": "阳光正好，给自己放个假吧~",
+    "dir": 0,
+    "dorm_id": 0,
+    "effect": "",
+    "gain_by": "",
+    "icon": "tangyi2ycicon",
+    "id": 346116,
+    "interAction": [
+      [
+        "sleep",
+        [
+          4,
+          16
+        ],
+        [
+          -1,
+          1
+        ],
+        "yc/tangyi1yc_using"
+      ]
+    ],
+    "interAction_group": [],
+    "is_3d_obj": 0,
+    "is_get_time_note": 0,
+    "level": 1,
+    "name": "假日躺椅1",
+    "offset": [],
+    "picture": "yc/yangyi1yc",
+    "rarity": 2,
+    "size": [
+      2,
+      3
+    ],
+    "spine_action_replace": "",
+    "spine_combine_action_replace": "",
+    "spine_extra": "",
+    "tag": 1,
+    "themeId": 146,
+    "type": 2
+  },
+  "346117": {
+    "advice": 0,
+    "belong": 1,
+    "can_rotate": 0,
+    "can_trigger": [
+      0
+    ],
+    "canputon": 0,
+    "canputonGrid": [],
+    "comfortable": 2,
+    "count": 1,
+    "deblocking": 1,
+    "describe": "阳光正好，给自己放个假吧~",
+    "dir": 0,
+    "dorm_id": 0,
+    "effect": "",
+    "gain_by": "",
+    "icon": "yangyi1ycicon",
+    "id": 346117,
+    "interAction": [
+      [
+        "sleep",
+        [
+          4,
+          16
+        ],
+        [
+          -1,
+          1
+        ],
+        "yc/tangyi2yc_using"
+      ]
+    ],
+    "interAction_group": [],
+    "is_3d_obj": 0,
+    "is_get_time_note": 0,
+    "level": 1,
+    "name": "假日躺椅2",
+    "offset": [],
+    "picture": "yc/tangyi2yc",
+    "rarity": 2,
+    "size": [
+      2,
+      3
+    ],
+    "spine_action_replace": "",
+    "spine_combine_action_replace": "",
+    "spine_extra": "",
+    "tag": 1,
+    "themeId": 146,
+    "type": 2
+  },
+  "346118": {
+    "advice": 0,
+    "belong": 1,
+    "can_rotate": 0,
+    "can_trigger": [
+      0
+    ],
+    "canputon": 0,
+    "canputonGrid": [],
+    "comfortable": 2,
+    "count": 1,
+    "deblocking": 1,
+    "describe": "假日的清凉补给都藏在这里~",
+    "dir": 0,
+    "dorm_id": 0,
+    "effect": "",
+    "gain_by": "",
+    "icon": "yingliaoxiangycicon",
+    "id": 346118,
+    "interAction_group": [],
+    "is_3d_obj": 0,
+    "is_get_time_note": 0,
+    "level": 1,
+    "name": "假日冷饮箱",
+    "offset": [],
+    "picture": "yc/yingliaoxiangyc",
+    "rarity": 2,
+    "size": [
+      2,
+      2
+    ],
+    "spine_action_replace": "",
+    "spine_combine_action_replace": "",
+    "spine_extra": "",
+    "tag": 1,
+    "themeId": 146,
+    "type": 2
+  },
+  "346119": {
+    "advice": 0,
+    "belong": 1,
+    "can_rotate": 0,
+    "can_trigger": [
+      0
+    ],
+    "canputon": 0,
+    "canputonGrid": [],
+    "comfortable": 2,
+    "count": 1,
+    "deblocking": 1,
+    "describe": "这么大一串烤肉，居然是用来坐的？！",
+    "dir": 0,
+    "dorm_id": 0,
+    "effect": "",
+    "gain_by": "",
+    "icon": "yiziycicon",
+    "id": 346119,
+    "interAction": [
+      [
+        "sit",
+        [
+          3,
+          49
+        ],
+        [
+          -1,
+          1
+        ]
+      ]
+    ],
+    "interAction_group": [],
+    "is_3d_obj": 0,
+    "is_get_time_note": 0,
+    "level": 1,
+    "name": "串串座椅",
+    "offset": [],
+    "picture": "yc/yiziyc",
+    "rarity": 2,
+    "size": [
+      1,
+      7
+    ],
+    "spine_action_replace": "",
+    "spine_combine_action_replace": "",
+    "spine_extra": "",
+    "tag": 1,
+    "themeId": 146,
+    "type": 2
+  },
+  "346120": {
+    "advice": 0,
+    "belong": 1,
+    "can_rotate": 0,
+    "can_trigger": [
+      0
+    ],
+    "canputon": 0,
+    "canputonGrid": [],
+    "comfortable": 4,
+    "count": 1,
+    "deblocking": 1,
+    "describe": "扑通~先下水，烦恼留在岸上！",
+    "dir": 0,
+    "dorm_id": 0,
+    "effect": "",
+    "followBone": [
+      [
+        "char1",
+        -1
+      ],
+      [
+        "char2",
+        1
+      ],
+      [
+        "char3",
+        1
+      ]
+    ],
+    "gain_by": "",
+    "icon": "yongchiycicon",
+    "id": 346120,
+    "interAction_group": [],
+    "is_3d_obj": 0,
+    "is_get_time_note": 0,
+    "level": 1,
+    "name": "假日泳池",
+    "offset": [],
+    "picture": "",
+    "rarity": 4,
+    "size": [
+      12,
+      10
+    ],
+    "spine": [
+      [
+        "yongchiycB",
+        "normal"
+      ],
+      [
+        "yongchiycT"
+      ],
+      [
+        [
+          0,
+          0
+        ],
+        [
+          [
+            "wash1",
+            null,
+            "wash"
+          ]
+        ],
+        [
+          null,
+          1
+        ],
+        [
+          1
+        ],
+        [
+          [
+            "wash1"
+          ],
+          [
+            "wash2"
+          ],
+          [
+            "wash3"
+          ]
+        ]
+      ],
+      [
+        [
+          17,
+          155
+        ],
+        [
+          261,
+          238
+        ],
+        "yc/yongchiyc_mask1"
+      ],
+      [
+        -20,
+        -150
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "spine_action_replace": "",
+    "spine_combine_action_replace": "",
+    "spine_extra": [
+      [
+        [
+          [
+            2,
+            152
+          ],
+          [
+            261,
+            238
+          ],
+          "yc/yongchiyc_mask1"
+        ],
+        [
+          -5,
+          -158
+        ],
+        [
+          1,
+          1
+        ]
+      ],
+      [
+        [
+          [
+            100.5,
+            147.8
+          ],
+          [
+            849,
+            432
+          ],
+          "yc/yongchiyc_mask"
+        ],
+        [
+          -98,
+          -149
+        ],
+        [
+          1,
+          1
+        ]
+      ]
+    ],
+    "tag": 1,
+    "themeId": 146,
+    "type": 2
+  },
+  "346121": {
+    "advice": 0,
+    "belong": 1,
+    "can_rotate": 0,
+    "can_trigger": [
+      0
+    ],
+    "canputon": 0,
+    "canputonGrid": [],
+    "comfortable": 2,
+    "count": 1,
+    "deblocking": 1,
+    "describe": "今天的目的地？漂到哪儿算哪儿~",
+    "dir": 0,
+    "dorm_id": 0,
+    "effect": "",
+    "gain_by": "",
+    "icon": "yongquanycicon",
+    "id": 346121,
+    "interAction_group": [],
+    "is_3d_obj": 0,
+    "is_get_time_note": 0,
+    "level": 1,
+    "name": "假日漂漂圈",
+    "offset": [],
+    "picture": "yc/yongquanyc",
+    "rarity": 2,
+    "size": [
+      2,
+      2
+    ],
+    "spine_action_replace": "",
+    "spine_combine_action_replace": "",
+    "spine_extra": "",
+    "tag": 1,
+    "themeId": 146,
+    "type": 2
+  },
+  "346122": {
+    "advice": 0,
+    "belong": 1,
+    "can_rotate": 0,
+    "can_trigger": [
+      0
+    ],
+    "canputon": 0,
+    "canputonGrid": [],
+    "comfortable": 2,
+    "count": 1,
+    "deblocking": 1,
+    "describe": "桌子不大，刚好能放下今日的美餐~",
+    "dir": 0,
+    "dorm_id": 0,
+    "effect": "",
+    "gain_by": "",
+    "icon": "yuanzhuoycicon",
+    "id": 346122,
+    "interAction_group": [],
+    "is_3d_obj": 0,
+    "is_get_time_note": 0,
+    "level": 1,
+    "name": "假日小圆桌",
+    "offset": [],
+    "picture": "yc/yuanzhuoyc",
+    "rarity": 2,
+    "size": [
+      2,
+      2
+    ],
+    "spine_action_replace": "",
+    "spine_combine_action_replace": "",
+    "spine_extra": "",
+    "tag": 1,
+    "themeId": 146,
+    "type": 2
+  },
+  "346123": {
+    "advice": 0,
+    "belong": 1,
+    "can_rotate": 0,
+    "can_trigger": [
+      0
+    ],
+    "canputon": 0,
+    "canputonGrid": [],
+    "comfortable": 4,
+    "count": 1,
+    "deblocking": 1,
+    "describe": "举杯碰一碰，给好心情加点甜~",
+    "dir": 0,
+    "dorm_id": 0,
+    "effect": "",
+    "followBone": [
+      "char",
+      1
+    ],
+    "gain_by": "",
+    "icon": "yingliaotaiycicon",
+    "id": 346123,
+    "interAction_group": [],
+    "is_3d_obj": 0,
+    "is_get_time_note": 0,
+    "level": 1,
+    "name": "假日饮品台",
+    "offset": [],
+    "picture": "yc/",
+    "rarity": 4,
+    "size": [
+      8,
+      7
+    ],
+    "spine": [
+      [
+        "yingliaotaiycB",
+        "normal"
+      ],
+      [
+        "yingliaotaiycT"
+      ],
+      [
+        [
+          0,
+          0
+        ],
+        [
+          [
+            "sit1",
+            null,
+            "sit"
+          ]
+        ],
+        [
+          null,
+          1
+        ],
+        [
+          0
+        ],
+        [
+          [
+            "sit2",
+            "sit3",
+            "sit4",
+            "sit5",
+            "sit6",
+            "sit7",
+            "sit8"
+          ]
+        ]
+      ],
+      [],
+      [
+        0,
+        0
+      ]
+    ],
+    "spine_action_replace": "",
+    "spine_combine_action_replace": "",
+    "spine_extra": "",
+    "tag": 7,
+    "themeId": 146,
+    "type": 2
+  },
   "all": [
     1,
     2,
@@ -179265,6 +180681,7 @@
     350,
     351,
     353,
+    354,
     100001,
     100002,
     100003,
@@ -179356,6 +180773,7 @@
     100089,
     100091,
     100090,
+    100092,
     200001,
     200002,
     200003,
@@ -182901,7 +184319,32 @@
     345105,
     345106,
     345107,
-    345108
+    345108,
+    346001,
+    346002,
+    346101,
+    346102,
+    346103,
+    346104,
+    346105,
+    346106,
+    346107,
+    346108,
+    346109,
+    346110,
+    346111,
+    346112,
+    346113,
+    346114,
+    346115,
+    346116,
+    346117,
+    346118,
+    346119,
+    346120,
+    346121,
+    346122,
+    346123
   ],
   "get_id_list_by_tag": [
     [
@@ -185351,7 +186794,29 @@
       345104,
       345105,
       345106,
-      345107
+      345107,
+      346101,
+      346102,
+      346103,
+      346104,
+      346105,
+      346106,
+      346107,
+      346108,
+      346109,
+      346110,
+      346111,
+      346112,
+      346113,
+      346114,
+      346115,
+      346116,
+      346117,
+      346118,
+      346119,
+      346120,
+      346121,
+      346122
     ],
     [
       1108,
@@ -185682,7 +187147,8 @@
       342002,
       343002,
       344002,
-      345002
+      345002,
+      346002
     ],
     [
       1001,
@@ -185818,7 +187284,8 @@
       342001,
       343001,
       344001,
-      345001
+      345001,
+      346001
     ],
     [
       1301,
@@ -186391,6 +187858,7 @@
       340,
       349,
       350,
+      354,
       100001,
       100002,
       100003,
@@ -186482,6 +187950,7 @@
       100089,
       100091,
       100090,
+      100092,
       31101,
       54101,
       54102,
@@ -186708,7 +188177,8 @@
       342117,
       343119,
       344119,
-      345108
+      345108,
+      346123
     ],
     [
       101,
@@ -187042,6 +188512,7 @@
       350,
       351,
       353,
+      354,
       100001,
       100002,
       100003,
@@ -187133,6 +188604,7 @@
       100089,
       100091,
       100090,
+      100092,
       200001,
       200002,
       200003,
@@ -190947,6 +192419,33 @@
       345106,
       345107,
       345108
+    ],
+    "146": [
+      346001,
+      346002,
+      346101,
+      346102,
+      346103,
+      346104,
+      346105,
+      346106,
+      346107,
+      346108,
+      346109,
+      346110,
+      346111,
+      346112,
+      346113,
+      346114,
+      346115,
+      346116,
+      346117,
+      346118,
+      346119,
+      346120,
+      346121,
+      346122,
+      346123
     ]
   },
   "get_id_list_by_type": [
@@ -191084,7 +192583,8 @@
       342002,
       343002,
       344002,
-      345002
+      345002,
+      346002
     ],
     [
       120,
@@ -193528,7 +195028,30 @@
       345105,
       345106,
       345107,
-      345108
+      345108,
+      346101,
+      346102,
+      346103,
+      346104,
+      346105,
+      346106,
+      346107,
+      346108,
+      346109,
+      346110,
+      346111,
+      346112,
+      346113,
+      346114,
+      346115,
+      346116,
+      346117,
+      346118,
+      346119,
+      346120,
+      346121,
+      346122,
+      346123
     ],
     [
       1108,
@@ -193860,7 +195383,8 @@
       342001,
       343001,
       344001,
-      345001
+      345001,
+      346001
     ],
     [
       1101,
@@ -194656,6 +196180,7 @@
       350,
       351,
       353,
+      354,
       100001,
       100002,
       100004,
@@ -194720,7 +196245,8 @@
       100082,
       100084,
       100085,
-      100088
+      100088,
+      100092
     ],
     [
       17121
